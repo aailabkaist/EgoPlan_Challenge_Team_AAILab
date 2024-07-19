@@ -1,8 +1,6 @@
 # EgoPlan_Challenge_Team_AAILab
 
 
-Code will be released.
-
 ## DPO-Finetuned Large Multi-Modal Planner with Retrieval Augmented Generation (ICML 2024?) <br><sub>sub_heading </sub>
 **Kwanghyeon Lee, Mina Kang, Hyungho Na, Heesun Bae, Byeonghu Na, Doyun Kwon, Seungjae Shin, Yeongmin Kim, Taewoo Kim, Seungmin Yun, and Il-Chul Moon**   
 <sup> * Equal contribution </sup> <br>
