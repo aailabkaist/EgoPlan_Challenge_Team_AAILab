@@ -50,14 +50,14 @@ Our framework consists of two distinctive components: action sequence retrieval 
 
   - run
   ```bash
-  bash scripts/format_finetune.sh fine dpo_to_dpo_add_narr_rag_v4_base_rag 0,1,2,3,4,5,6,7 8 26501
+  bash scripts/format_parser.sh fine dpo_to_dpo_add_narr_rag_v4_base_rag 0,1,2,3,4,5,6,7 8 26501
   ```
 
 ### 2) Evaluation
 
   - run
   ```bash
-  bash scripts/format_eval.sh fine dpo_to_dpo_add_narr_rag_v4_base_rag 0
+  bash scripts/test.sh fine dpo_to_dpo_add_narr_rag_v4_base_rag 0 format_eval --epoch,{epoch num},--time,{folder_name}
 
   ```
   
@@ -74,7 +74,7 @@ Our framework consists of two distinctive components: action sequence retrieval 
 
   - run
   ```bash
-  bash scripts/format_test.sh fine dpo_to_dpo_add_narr_rag_v4_base_rag 0
+  bash scripts/test.sh fine dpo_to_dpo_add_narr_rag_v4_base_rag 0 format_test --epoch,{epoch num},--time,{folder_name}
   ```
 
 
