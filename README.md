@@ -8,7 +8,7 @@
 | [paper](https://arxiv.org/abs/have_to_change_lalalalal) |  <br>
 
 ## Overview
-![Teaser image](./figures/overview_v4_1.PNG)
+![Teaser image](./figure/overview_v4_1.PNG)
 
 Our framework consists of two distinctive components: action sequence retrieval and direct preference optimization (DPO).
 
