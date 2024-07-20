@@ -1,11 +1,11 @@
 # EgoPlan_Challenge_Team_AAILab
 
 
-## DPO-Finetuned Large Multi-Modal Planner with Retrieval Augmented Generation  <br><sub>sub_heading </sub>
+## DPO-Finetuned Large Multi-Modal Planner with Retrieval Augmented Generation  <br><sub> </sub>
 **Kwanghyeon Lee, Mina Kang, Hyungho Na, Heesun Bae, Byeonghu Na, Doyun Kwon, Seungjae Shin, Yeongmin Kim, Taewoo Kim, Seungmin Yun, and Il-Chul Moon**   
 <sup> * Equal contribution </sup> <br>
 
-| [paper](https://arxiv.org/abs/have_to_change_lalalalal) |  <br>
+| [paper] |  <br>
 
 ## Overview
 ![Teaser image](./figure/overview_v4_1.png)
@@ -35,19 +35,8 @@ Our framework consists of two distinctive components: action sequence retrieval 
 
 ## Running of DPO-Finetuned Large Multi-Modal Planner with Rag
 
-### 1) Finetuning (have to change)
-  - Download **edm-cifar10-32x32-uncond-vp.pkl** at [EDM](https://github.com/NVlabs/edm) for unconditional model.
-  - Download **edm-cifar10-32x32-cond-vp.pkl** at [EDM](https://github.com/NVlabs/edm) for conditional model.
-  - Place **EDM checkpoint** at the directory specified below.  
- 
-  ```
-  ${project_page}/DG/
-  ├── checkpoints
-  │   ├── pretrained_score/edm-cifar10-32x32-uncond-vp.pkl
-  │   ├── pretrained_score/edm-cifar10-32x32-cond-vp.pkl
-  ├── ...
-  ```
-
+### 1) Finetuning 
+    
   - run
   ```bash
   bash scripts/format_parser.sh fine dpo_to_dpo_add_narr_rag_v4_base_rag 0,1,2,3,4,5,6,7 8 26501
@@ -64,14 +53,7 @@ Our framework consists of two distinctive components: action sequence retrieval 
    
 
 ### 3) Test
-  ```
-  ${project_page}/DG/
-  ├── data
-  │   ├── true_data.npz
-  │   ├── true_data_label.npz
-  ├── ...
-  ```
-
+ 
   - run
   ```bash
   bash scripts/test.sh fine dpo_to_dpo_add_narr_rag_v4_base_rag 0 format_test --epoch,{epoch num},--time,{folder_name}
