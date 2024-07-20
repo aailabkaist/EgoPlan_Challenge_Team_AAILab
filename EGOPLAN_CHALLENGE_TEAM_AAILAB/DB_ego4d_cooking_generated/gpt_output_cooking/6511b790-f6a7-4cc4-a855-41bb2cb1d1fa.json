@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eh2hidpt5Vn6jDelUQkmeSVBEpjR",
+    "object": "chat.completion",
+    "created": 1719485603,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal involving carrots and meat.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare and cut carrots\",\n      \"start_timestamp\": 10,\n      \"stop_timestamp\": 11016,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut carrots into pieces\",\n          \"start_timestamp\": 10,\n          \"stop_timestamp\": 1260\n        },\n        {\n          \"secondary_subgoal\": \"Put carrots in the nylon paper\",\n          \"start_timestamp\": 150,\n          \"stop_timestamp\": 1064\n        },\n        {\n          \"secondary_subgoal\": \"Peel and wash carrots and knife\",\n          \"start_timestamp\": 1260,\n          \"stop_timestamp\": 2527\n        },\n        {\n          \"secondary_subgoal\": \"Cut carrots into smaller pieces\",\n          \"start_timestamp\": 2589,\n          \"stop_timestamp\": 3688\n        },\n        {\n          \"secondary_subgoal\": \"Wash knife and wipe hands\",\n          \"start_timestamp\": 3761,\n          \"stop_timestamp\": 3953\n        },\n        {\n          \"secondary_subgoal\": \"Gather all carrot pieces in sieve dish\",\n          \"start_timestamp\": 3526,\n          \"stop_timestamp\": 3668\n        },\n        {\n          \"secondary_subgoal\": \"Clean up work area and wash hands\",\n          \"start_timestamp\": 3688,\n          \"stop_timestamp\": 4077\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and cut meat\",\n      \"start_timestamp\": 4077,\n      \"stop_timestamp\": 8800,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Retrieve meat from fridge\",\n          \"start_timestamp\": 4077,\n          \"stop_timestamp\": 4482\n        },\n        {\n          \"secondary_subgoal\": \"Cut meat into pieces\",\n          \"start_timestamp\": 4576,\n          \"stop_timestamp\": 5806\n        },\n        {\n          \"secondary_subgoal\": \"Clean up work area and wash hands\",\n          \"start_timestamp\": 5806,\n          \"stop_timestamp\": 5905\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Begin cooking process\",\n      \"start_timestamp\": 5805,\n      \"stop_timestamp\": 8860,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turn on gas cooker and add oil\",\n          \"start_timestamp\": 6882,\n          \"stop_timestamp\": 7346\n        },\n        {\n          \"secondary_subgoal\": \"Prepare and stir onions in cooking pot\",\n          \"start_timestamp\": 8037,\n          \"stop_timestamp\": 8447\n        },\n        {\n          \"secondary_subgoal\": \"Regulate flame and stir onions\",\n          \"start_timestamp\": 8447,\n          \"stop_timestamp\": 8890\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook meat with carrots and seasoning\",\n      \"start_timestamp\": 8652,\n      \"stop_timestamp\": 20753,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Add meat to cooking pot and stir\",\n          \"start_timestamp\": 8652,\n          \"stop_timestamp\": 10176\n        },\n        {\n          \"secondary_subgoal\": \"Add seasoning to meat\",\n          \"start_timestamp\": 10176,\n          \"stop_timestamp\": 16989\n        },\n        {\n          \"secondary_subgoal\": \"Stir carrots and seasoning into mixture\",\n          \"start_timestamp\": 16989,\n          \"stop_timestamp\": 20753\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4665,
+        "completion_tokens": 767,
+        "total_tokens": 5432
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

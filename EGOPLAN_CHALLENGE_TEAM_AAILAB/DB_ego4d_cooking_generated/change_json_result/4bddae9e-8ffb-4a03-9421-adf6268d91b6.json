@@ -1,0 +1,143 @@
+{
+    "overall_goal": "Prepare and serve food.",
+    "clips": [
+        {
+            "subgoal": "Gather utensils and plate.",
+            "start_timestamp": 417,
+            "stop_timestamp": 1529,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take a fork from the drawer.",
+                    "start_timestamp": 417,
+                    "stop_timestamp": 484
+                },
+                {
+                    "secondary_subgoal": "Gather a plate.",
+                    "start_timestamp": 1241,
+                    "stop_timestamp": 1529
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare food.",
+            "start_timestamp": 484,
+            "stop_timestamp": 9963,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir food in the pot with fork.",
+                    "start_timestamp": 484,
+                    "stop_timestamp": 1069
+                },
+                {
+                    "secondary_subgoal": "Scoop and drop food.",
+                    "start_timestamp": 1069,
+                    "stop_timestamp": 1204
+                },
+                {
+                    "secondary_subgoal": "Retrieve chicken piece from pot and examine.",
+                    "start_timestamp": 2446,
+                    "stop_timestamp": 2786
+                },
+                {
+                    "secondary_subgoal": "Put chicken piece on the plate.",
+                    "start_timestamp": 2786,
+                    "stop_timestamp": 2859
+                },
+                {
+                    "secondary_subgoal": "Cut small chicken pieces using fork and spoon.",
+                    "start_timestamp": 3450,
+                    "stop_timestamp": 5526
+                },
+                {
+                    "secondary_subgoal": "Cut tissue paper.",
+                    "start_timestamp": 5685,
+                    "stop_timestamp": 5743
+                },
+                {
+                    "secondary_subgoal": "Pick up toy and throw it.",
+                    "start_timestamp": 6138,
+                    "stop_timestamp": 6185
+                },
+                {
+                    "secondary_subgoal": "Examine chicken and continue cutting into small pieces.",
+                    "start_timestamp": 6292,
+                    "stop_timestamp": 6716
+                },
+                {
+                    "secondary_subgoal": "Interact with dog and cut chicken pieces.",
+                    "start_timestamp": 6753,
+                    "stop_timestamp": 8513
+                },
+                {
+                    "secondary_subgoal": "Separate and pour meat into cooking pot.",
+                    "start_timestamp": 8705,
+                    "stop_timestamp": 9904
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve food.",
+            "start_timestamp": 9963,
+            "stop_timestamp": 12858,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Give meat to dog.",
+                    "start_timestamp": 9997,
+                    "stop_timestamp": 10156
+                },
+                {
+                    "secondary_subgoal": "Prepare bowls from cabinet.",
+                    "start_timestamp": 11006,
+                    "stop_timestamp": 11381
+                },
+                {
+                    "secondary_subgoal": "Stir food and put in bowl.",
+                    "start_timestamp": 12044,
+                    "stop_timestamp": 12651
+                },
+                {
+                    "secondary_subgoal": "Hold the bowl.",
+                    "start_timestamp": 12758,
+                    "stop_timestamp": 12858
+                }
+            ]
+        },
+        {
+            "subgoal": "Interact with household environment and dog.",
+            "start_timestamp": 1636,
+            "stop_timestamp": 12044,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look around and point at objects.",
+                    "start_timestamp": 1636,
+                    "stop_timestamp": 2013
+                },
+                {
+                    "secondary_subgoal": "Clean counter and interact with litter.",
+                    "start_timestamp": 2078,
+                    "stop_timestamp": 2355
+                },
+                {
+                    "secondary_subgoal": "Touch and throw toy.",
+                    "start_timestamp": 6105,
+                    "stop_timestamp": 6185
+                },
+                {
+                    "secondary_subgoal": "Touch dog and clap hands.",
+                    "start_timestamp": 7654,
+                    "stop_timestamp": 7766
+                },
+                {
+                    "secondary_subgoal": "Pat dog.",
+                    "start_timestamp": 7959,
+                    "stop_timestamp": 8056
+                },
+                {
+                    "secondary_subgoal": "Touch dog periodically.",
+                    "start_timestamp": 11170,
+                    "stop_timestamp": 11846
+                }
+            ]
+        }
+    ]
+}

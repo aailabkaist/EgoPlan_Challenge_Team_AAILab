@@ -1,0 +1,882 @@
+[
+    {
+        "task_goal": "Clean and prepare cooking area and utensils.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lowers the hands.",
+                "start_frame": 16,
+                "stop_frame": 43
+            },
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 43,
+                "stop_frame": 84
+            },
+            {
+                "narration_text": "Cleans hands.",
+                "start_frame": 84,
+                "stop_frame": 123
+            },
+            {
+                "narration_text": "Closes the tap.",
+                "start_frame": 123,
+                "stop_frame": 154
+            },
+            {
+                "narration_text": "Shakes hands.",
+                "start_frame": 154,
+                "stop_frame": 252
+            },
+            {
+                "narration_text": "Dries hands.",
+                "start_frame": 252,
+                "stop_frame": 285
+            },
+            {
+                "narration_text": "Opens the cabinet.",
+                "start_frame": 285,
+                "stop_frame": 582
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the tap and clean hands.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lowers the hands.",
+                "start_frame": 16,
+                "stop_frame": 43
+            },
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 43,
+                "stop_frame": 84
+            },
+            {
+                "narration_text": "Cleans hands.",
+                "start_frame": 84,
+                "stop_frame": 123
+            },
+            {
+                "narration_text": "Closes the tap.",
+                "start_frame": 123,
+                "stop_frame": 154
+            }
+        ]
+    },
+    {
+        "task_goal": "Close the tap and dry hands.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans hands.",
+                "start_frame": 84,
+                "stop_frame": 123
+            },
+            {
+                "narration_text": "Closes the tap.",
+                "start_frame": 123,
+                "stop_frame": 154
+            },
+            {
+                "narration_text": "Shakes hands.",
+                "start_frame": 154,
+                "stop_frame": 252
+            },
+            {
+                "narration_text": "Dries hands.",
+                "start_frame": 252,
+                "stop_frame": 285
+            },
+            {
+                "narration_text": "Opens the cabinet.",
+                "start_frame": 285,
+                "stop_frame": 582
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare the cooking pot and fill with water.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Dries hands.",
+                "start_frame": 252,
+                "stop_frame": 285
+            },
+            {
+                "narration_text": "Opens the cabinet.",
+                "start_frame": 285,
+                "stop_frame": 582
+            },
+            {
+                "narration_text": "Picks a cooking pot.",
+                "start_frame": 582,
+                "stop_frame": 601
+            },
+            {
+                "narration_text": "Drops cooking pot on the table.",
+                "start_frame": 601,
+                "stop_frame": 657
+            },
+            {
+                "narration_text": "Puts back bowl in the cabinet.",
+                "start_frame": 657,
+                "stop_frame": 753
+            },
+            {
+                "narration_text": "Closes the cabinet.",
+                "start_frame": 753,
+                "stop_frame": 790
+            },
+            {
+                "narration_text": "Opens the lid.",
+                "start_frame": 790,
+                "stop_frame": 843
+            },
+            {
+                "narration_text": "Picks cooking pot.",
+                "start_frame": 843,
+                "stop_frame": 846
+            },
+            {
+                "narration_text": "Drops lid on the kitchen slab.",
+                "start_frame": 846,
+                "stop_frame": 894
+            },
+            {
+                "narration_text": "Turns on the tap.",
+                "start_frame": 894,
+                "stop_frame": 906
+            },
+            {
+                "narration_text": "Cleans the cooking pot.",
+                "start_frame": 906,
+                "stop_frame": 989
+            },
+            {
+                "narration_text": "Turns off the tap.",
+                "start_frame": 989,
+                "stop_frame": 1008
+            },
+            {
+                "narration_text": "Pours water in the sink.",
+                "start_frame": 1008,
+                "stop_frame": 1119
+            },
+            {
+                "narration_text": "Turns on the tap.",
+                "start_frame": 1119,
+                "stop_frame": 1186
+            },
+            {
+                "narration_text": "Fetches water in the cooking pot.",
+                "start_frame": 1186,
+                "stop_frame": 1595
+            },
+            {
+                "narration_text": "Turns off the tap.",
+                "start_frame": 1595,
+                "stop_frame": 1693
+            },
+            {
+                "narration_text": "Puts cooking pot on the gas cooker.",
+                "start_frame": 1693,
+                "stop_frame": 1754
+            }
+        ]
+    },
+    {
+        "task_goal": "Open cabinet and retrieve cooking pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Dries hands.",
+                "start_frame": 252,
+                "stop_frame": 285
+            },
+            {
+                "narration_text": "Opens the cabinet.",
+                "start_frame": 285,
+                "stop_frame": 582
+            },
+            {
+                "narration_text": "Picks a cooking pot.",
+                "start_frame": 582,
+                "stop_frame": 601
+            },
+            {
+                "narration_text": "Drops cooking pot on the table.",
+                "start_frame": 601,
+                "stop_frame": 657
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean and fill cooking pot with water.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks cooking pot.",
+                "start_frame": 843,
+                "stop_frame": 846
+            },
+            {
+                "narration_text": "Drops lid on the kitchen slab.",
+                "start_frame": 846,
+                "stop_frame": 894
+            },
+            {
+                "narration_text": "Turns on the tap.",
+                "start_frame": 894,
+                "stop_frame": 906
+            },
+            {
+                "narration_text": "Cleans the cooking pot.",
+                "start_frame": 906,
+                "stop_frame": 989
+            },
+            {
+                "narration_text": "Turns off the tap.",
+                "start_frame": 989,
+                "stop_frame": 1008
+            },
+            {
+                "narration_text": "Pours water in the sink.",
+                "start_frame": 1008,
+                "stop_frame": 1119
+            },
+            {
+                "narration_text": "Turns on the tap.",
+                "start_frame": 1119,
+                "stop_frame": 1186
+            },
+            {
+                "narration_text": "Fetches water in the cooking pot.",
+                "start_frame": 1186,
+                "stop_frame": 1595
+            },
+            {
+                "narration_text": "Turns off the tap.",
+                "start_frame": 1595,
+                "stop_frame": 1693
+            },
+            {
+                "narration_text": "Puts cooking pot on the gas cooker.",
+                "start_frame": 1693,
+                "stop_frame": 1754
+            }
+        ]
+    },
+    {
+        "task_goal": "Place cooking pot on the gas cooker and start heating.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns off the tap.",
+                "start_frame": 1595,
+                "stop_frame": 1693
+            },
+            {
+                "narration_text": "Puts cooking pot on the gas cooker.",
+                "start_frame": 1693,
+                "stop_frame": 1754
+            },
+            {
+                "narration_text": "Turns on the gas cooker.",
+                "start_frame": 1754,
+                "stop_frame": 1782
+            },
+            {
+                "narration_text": "Picks a lid.",
+                "start_frame": 1782,
+                "stop_frame": 2015
+            },
+            {
+                "narration_text": "Covers cooking pot.",
+                "start_frame": 2015,
+                "stop_frame": 2136
+            },
+            {
+                "narration_text": "Holds container.",
+                "start_frame": 2136,
+                "stop_frame": 2258
+            }
+        ]
+    },
+    {
+        "task_goal": "Place cooking pot on gas cooker and turn it on.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns off the tap.",
+                "start_frame": 1595,
+                "stop_frame": 1693
+            },
+            {
+                "narration_text": "Puts cooking pot on the gas cooker.",
+                "start_frame": 1693,
+                "stop_frame": 1754
+            },
+            {
+                "narration_text": "Turns on the gas cooker.",
+                "start_frame": 1754,
+                "stop_frame": 1782
+            },
+            {
+                "narration_text": "Picks a lid.",
+                "start_frame": 1782,
+                "stop_frame": 2015
+            }
+        ]
+    },
+    {
+        "task_goal": "Cover cooking pot with lid.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a lid.",
+                "start_frame": 1782,
+                "stop_frame": 2015
+            },
+            {
+                "narration_text": "Covers cooking pot.",
+                "start_frame": 2015,
+                "stop_frame": 2136
+            },
+            {
+                "narration_text": "Holds container.",
+                "start_frame": 2136,
+                "stop_frame": 2258
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve onions from the fridge and prepare for chopping.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Covers cooking pot.",
+                "start_frame": 2015,
+                "stop_frame": 2136
+            },
+            {
+                "narration_text": "Holds container.",
+                "start_frame": 2136,
+                "stop_frame": 2258
+            },
+            {
+                "narration_text": "Walks in the room.",
+                "start_frame": 2258,
+                "stop_frame": 2315
+            },
+            {
+                "narration_text": "Opens the fridge.",
+                "start_frame": 2315,
+                "stop_frame": 2491
+            },
+            {
+                "narration_text": "Picks onions.",
+                "start_frame": 2491,
+                "stop_frame": 2652
+            },
+            {
+                "narration_text": "Closes the fridge.",
+                "start_frame": 2652,
+                "stop_frame": 2716
+            },
+            {
+                "narration_text": "Walks in the room.",
+                "start_frame": 2716,
+                "stop_frame": 2774
+            },
+            {
+                "narration_text": "Puts onions on the slab.",
+                "start_frame": 2774,
+                "stop_frame": 2821
+            },
+            {
+                "narration_text": "Picks a chopping board.",
+                "start_frame": 2821,
+                "stop_frame": 2972
+            },
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 2972,
+                "stop_frame": 3002
+            },
+            {
+                "narration_text": "Cleans chopping board.",
+                "start_frame": 3002,
+                "stop_frame": 3057
+            },
+            {
+                "narration_text": "Shakes chopping board.",
+                "start_frame": 3057,
+                "stop_frame": 3072
+            },
+            {
+                "narration_text": "Puts chopping board on the slab.",
+                "start_frame": 3072,
+                "stop_frame": 3094
+            },
+            {
+                "narration_text": "Picks onion.",
+                "start_frame": 3094,
+                "stop_frame": 3122
+            },
+            {
+                "narration_text": "Removes the polythene wrap.",
+                "start_frame": 3122,
+                "stop_frame": 3364
+            },
+            {
+                "narration_text": "Drops polythene wrap on the slab.",
+                "start_frame": 3364,
+                "stop_frame": 3401
+            },
+            {
+                "narration_text": "Moves the container.",
+                "start_frame": 3401,
+                "stop_frame": 3434
+            },
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 3434,
+                "stop_frame": 3476
+            }
+        ]
+    },
+    {
+        "task_goal": "Fetch onions from the fridge.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds container.",
+                "start_frame": 2136,
+                "stop_frame": 2258
+            },
+            {
+                "narration_text": "Walks in the room.",
+                "start_frame": 2258,
+                "stop_frame": 2315
+            },
+            {
+                "narration_text": "Opens the fridge.",
+                "start_frame": 2315,
+                "stop_frame": 2491
+            },
+            {
+                "narration_text": "Picks onions.",
+                "start_frame": 2491,
+                "stop_frame": 2652
+            },
+            {
+                "narration_text": "Closes the fridge.",
+                "start_frame": 2652,
+                "stop_frame": 2716
+            },
+            {
+                "narration_text": "Walks in the room.",
+                "start_frame": 2716,
+                "stop_frame": 2774
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean and place onions on chopping board.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks in the room.",
+                "start_frame": 2716,
+                "stop_frame": 2774
+            },
+            {
+                "narration_text": "Puts onions on the slab.",
+                "start_frame": 2774,
+                "stop_frame": 2821
+            },
+            {
+                "narration_text": "Picks a chopping board.",
+                "start_frame": 2821,
+                "stop_frame": 2972
+            },
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 2972,
+                "stop_frame": 3002
+            },
+            {
+                "narration_text": "Cleans chopping board.",
+                "start_frame": 3002,
+                "stop_frame": 3057
+            },
+            {
+                "narration_text": "Shakes chopping board.",
+                "start_frame": 3057,
+                "stop_frame": 3072
+            },
+            {
+                "narration_text": "Puts chopping board on the slab.",
+                "start_frame": 3072,
+                "stop_frame": 3094
+            },
+            {
+                "narration_text": "Picks onion.",
+                "start_frame": 3094,
+                "stop_frame": 3122
+            },
+            {
+                "narration_text": "Removes the polythene wrap.",
+                "start_frame": 3122,
+                "stop_frame": 3364
+            },
+            {
+                "narration_text": "Drops polythene wrap on the slab.",
+                "start_frame": 3364,
+                "stop_frame": 3401
+            },
+            {
+                "narration_text": "Moves the container.",
+                "start_frame": 3401,
+                "stop_frame": 3434
+            },
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 3434,
+                "stop_frame": 3476
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove polythene wrap from onions.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks onion.",
+                "start_frame": 3094,
+                "stop_frame": 3122
+            },
+            {
+                "narration_text": "Removes the polythene wrap.",
+                "start_frame": 3122,
+                "stop_frame": 3364
+            },
+            {
+                "narration_text": "Drops polythene wrap on the slab.",
+                "start_frame": 3364,
+                "stop_frame": 3401
+            },
+            {
+                "narration_text": "Moves the container.",
+                "start_frame": 3401,
+                "stop_frame": 3434
+            },
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 3434,
+                "stop_frame": 3476
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean and place onion on chopping board.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans onion.",
+                "start_frame": 3476,
+                "stop_frame": 3529
+            },
+            {
+                "narration_text": "Closes the tap.",
+                "start_frame": 3529,
+                "stop_frame": 3554
+            },
+            {
+                "narration_text": "Picks knife.",
+                "start_frame": 3554,
+                "stop_frame": 3596
+            },
+            {
+                "narration_text": "Puts onion on the chopping board.",
+                "start_frame": 3596,
+                "stop_frame": 3618
+            },
+            {
+                "narration_text": "Drops knife on the table.",
+                "start_frame": 3618,
+                "stop_frame": 3638
+            }
+        ]
+    },
+    {
+        "task_goal": "Transfer chopped onions into a bowl.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns on the tap.",
+                "start_frame": 10427,
+                "stop_frame": 10438
+            },
+            {
+                "narration_text": "Washes hands.",
+                "start_frame": 10438,
+                "stop_frame": 10547
+            },
+            {
+                "narration_text": "Turns off the tap.",
+                "start_frame": 10547,
+                "stop_frame": 10577
+            },
+            {
+                "narration_text": "Shakes hands.",
+                "start_frame": 10577,
+                "stop_frame": 10716
+            },
+            {
+                "narration_text": "Wipes hands on the towel.",
+                "start_frame": 10716,
+                "stop_frame": 10824
+            },
+            {
+                "narration_text": "Opens the cabinet.",
+                "start_frame": 10824,
+                "stop_frame": 11001
+            },
+            {
+                "narration_text": "Picks kitchen siever.",
+                "start_frame": 11001,
+                "stop_frame": 11111
+            },
+            {
+                "narration_text": "Puts bowls on kitchen slab.",
+                "start_frame": 11111,
+                "stop_frame": 11157
+            },
+            {
+                "narration_text": "Piles the lids.",
+                "start_frame": 11157,
+                "stop_frame": 11219
+            },
+            {
+                "narration_text": "Puts utensils in the cabinet.",
+                "start_frame": 11219,
+                "stop_frame": 11326
+            },
+            {
+                "narration_text": "Closes the cabinet.",
+                "start_frame": 11326,
+                "stop_frame": 11353
+            },
+            {
+                "narration_text": "Picks a bowl.",
+                "start_frame": 11353,
+                "stop_frame": 11385
+            },
+            {
+                "narration_text": "Puts onions in the bowl.",
+                "start_frame": 11385,
+                "stop_frame": 11579
+            },
+            {
+                "narration_text": "Shakes the bowl.",
+                "start_frame": 11579,
+                "stop_frame": 11628
+            },
+            {
+                "narration_text": "Puts onions in the bowl.",
+                "start_frame": 11628,
+                "stop_frame": 11687
+            },
+            {
+                "narration_text": "Shakes the bowl.",
+                "start_frame": 11687,
+                "stop_frame": 11720
+            },
+            {
+                "narration_text": "Puts onions in the bowl.",
+                "start_frame": 11720,
+                "stop_frame": 13504
+            },
+            {
+                "narration_text": "Drops bowl on the gas cooker.",
+                "start_frame": 13504,
+                "stop_frame": 13556
+            },
+            {
+                "narration_text": "Turns on the tap.",
+                "start_frame": 13556,
+                "stop_frame": 13582
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the cabinet and pick bowls.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the cabinet.",
+                "start_frame": 10824,
+                "stop_frame": 11001
+            },
+            {
+                "narration_text": "Picks kitchen siever.",
+                "start_frame": 11001,
+                "stop_frame": 11111
+            },
+            {
+                "narration_text": "Puts bowls on kitchen slab.",
+                "start_frame": 11111,
+                "stop_frame": 11157
+            },
+            {
+                "narration_text": "Piles the lids.",
+                "start_frame": 11157,
+                "stop_frame": 11219
+            }
+        ]
+    },
+    {
+        "task_goal": "Put onions in the bowl and shake.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a bowl.",
+                "start_frame": 11353,
+                "stop_frame": 11385
+            },
+            {
+                "narration_text": "Puts onions in the bowl.",
+                "start_frame": 11385,
+                "stop_frame": 11579
+            },
+            {
+                "narration_text": "Shakes the bowl.",
+                "start_frame": 11579,
+                "stop_frame": 11628
+            },
+            {
+                "narration_text": "Puts onions in the bowl.",
+                "start_frame": 11628,
+                "stop_frame": 11687
+            },
+            {
+                "narration_text": "Shakes the bowl.",
+                "start_frame": 11687,
+                "stop_frame": 11720
+            },
+            {
+                "narration_text": "Puts onions in the bowl.",
+                "start_frame": 11720,
+                "stop_frame": 13504
+            },
+            {
+                "narration_text": "Drops bowl on the gas cooker.",
+                "start_frame": 13504,
+                "stop_frame": 13556
+            },
+            {
+                "narration_text": "Turns on the tap.",
+                "start_frame": 13556,
+                "stop_frame": 13582
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean hands and open the cabinet for tools.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns on the tap.",
+                "start_frame": 13556,
+                "stop_frame": 13582
+            },
+            {
+                "narration_text": "Cleans hands.",
+                "start_frame": 13582,
+                "stop_frame": 13696
+            },
+            {
+                "narration_text": "Turns off the tap.",
+                "start_frame": 13696,
+                "stop_frame": 13720
+            },
+            {
+                "narration_text": "Shakes hands.",
+                "start_frame": 13720,
+                "stop_frame": 13791
+            },
+            {
+                "narration_text": "Dries hands.",
+                "start_frame": 13791,
+                "stop_frame": 13834
+            },
+            {
+                "narration_text": "Opens the cabinet.",
+                "start_frame": 13834,
+                "stop_frame": 13915
+            },
+            {
+                "narration_text": "Picks bowls from the cabinet.",
+                "start_frame": 13915,
+                "stop_frame": 13969
+            },
+            {
+                "narration_text": "Puts bowls on the kitchen slab.",
+                "start_frame": 13969,
+                "stop_frame": 14010
+            },
+            {
+                "narration_text": "Puts bowls on the slab.",
+                "start_frame": 14010,
+                "stop_frame": 14064
+            }
+        ]
+    },
+    {
+        "task_goal": "Operate phone.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Removes the housing.",
+                "start_frame": 14417,
+                "stop_frame": 14450
+            },
+            {
+                "narration_text": "Operates a phone.",
+                "start_frame": 14450,
+                "stop_frame": 16076
+            },
+            {
+                "narration_text": "Drops phone on the table.",
+                "start_frame": 16076,
+                "stop_frame": 16140
+            }
+        ]
+    },
+    {
+        "task_goal": "Scroll phone and pick container.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the drawer.",
+                "start_frame": 16140,
+                "stop_frame": 16199
+            },
+            {
+                "narration_text": "Scrolls the phone.",
+                "start_frame": 16199,
+                "stop_frame": 16362
+            },
+            {
+                "narration_text": "Holds the phone.",
+                "start_frame": 16362,
+                "stop_frame": 16474
+            },
+            {
+                "narration_text": "Puts phone on the table.",
+                "start_frame": 16474,
+                "stop_frame": 16505
+            },
+            {
+                "narration_text": "Opens the drawer.",
+                "start_frame": 16505,
+                "stop_frame": 16542
+            },
+            {
+                "narration_text": "Picks a container.",
+                "start_frame": 16542,
+                "stop_frame": 16582
+            },
+            {
+                "narration_text": "Closes the drawer.",
+                "start_frame": 16582,
+                "stop_frame": 16618
+            }
+        ]
+    }
+]

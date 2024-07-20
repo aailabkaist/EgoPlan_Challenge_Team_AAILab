@@ -1,0 +1,144 @@
+{
+    "overall_goal": "Prepare and eat a meal involving onions and chili peppers.",
+    "clips": [
+        {
+            "subgoal": "Prepare the onion",
+            "start_timestamp": 0,
+            "stop_timestamp": 1481,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Grab onion and knife",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 45
+                },
+                {
+                    "secondary_subgoal": "Remove onion peel",
+                    "start_timestamp": 45,
+                    "stop_timestamp": 936
+                },
+                {
+                    "secondary_subgoal": "Put down knife and place onion in bowl",
+                    "start_timestamp": 936,
+                    "stop_timestamp": 1024
+                },
+                {
+                    "secondary_subgoal": "Move the bowl containing the onion",
+                    "start_timestamp": 1024,
+                    "stop_timestamp": 1063
+                }
+            ]
+        },
+        {
+            "subgoal": "Start eating",
+            "start_timestamp": 1063,
+            "stop_timestamp": 1185,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Use spoon to scoop food from bowl and eat",
+                    "start_timestamp": 1063,
+                    "stop_timestamp": 1157
+                },
+                {
+                    "secondary_subgoal": "Place spoon in bowl",
+                    "start_timestamp": 1157,
+                    "stop_timestamp": 1185
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare chili peppers",
+            "start_timestamp": 1185,
+            "stop_timestamp": 7646,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Touch and move onion then pick chili pepper",
+                    "start_timestamp": 1185,
+                    "stop_timestamp": 1335
+                },
+                {
+                    "secondary_subgoal": "Break stem of chili pepper and put aside",
+                    "start_timestamp": 1400,
+                    "stop_timestamp": 1461
+                },
+                {
+                    "secondary_subgoal": "Touch and move onion peels then pick knife",
+                    "start_timestamp": 1481,
+                    "stop_timestamp": 1502
+                },
+                {
+                    "secondary_subgoal": "Cut, move, and place chili peppers on chopping board",
+                    "start_timestamp": 1548,
+                    "stop_timestamp": 7646
+                }
+            ]
+        },
+        {
+            "subgoal": "Continue eating",
+            "start_timestamp": 7646,
+            "stop_timestamp": 7862,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Scoop food with spoon and eat",
+                    "start_timestamp": 7666,
+                    "stop_timestamp": 7832
+                },
+                {
+                    "secondary_subgoal": "Place spoon in bowl",
+                    "start_timestamp": 7832,
+                    "stop_timestamp": 7862
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare more chili peppers",
+            "start_timestamp": 7862,
+            "stop_timestamp": 10203,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Break stems, pick knife, and move chili peppers",
+                    "start_timestamp": 8005,
+                    "stop_timestamp": 8431
+                },
+                {
+                    "secondary_subgoal": "Cut chili peppers",
+                    "start_timestamp": 8389,
+                    "stop_timestamp": 10862
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and eat more food",
+            "start_timestamp": 10862,
+            "stop_timestamp": 20291,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Slice and move onion using knife",
+                    "start_timestamp": 11860,
+                    "stop_timestamp": 13333
+                },
+                {
+                    "secondary_subgoal": "Chop, move onion on chopping board",
+                    "start_timestamp": 13508,
+                    "stop_timestamp": 18539
+                },
+                {
+                    "secondary_subgoal": "Interact with person Y and continue chopping onion",
+                    "start_timestamp": 19617,
+                    "stop_timestamp": 20291
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish preparing the meal",
+            "start_timestamp": 20291,
+            "stop_timestamp": 20495,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place knife on chopping board and raise hand",
+                    "start_timestamp": 20291,
+                    "stop_timestamp": 20495
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "overall_goal": "Preparing a meal with maize and meat.",
+    "clips": [
+        {
+            "subgoal": "Unwrapping and processing maize",
+            "start_timestamp": 72,
+            "stop_timestamp": 1626,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Unwrapping the paper package",
+                    "start_timestamp": 72,
+                    "stop_timestamp": 387
+                },
+                {
+                    "secondary_subgoal": "Walking around and picking kitchen items",
+                    "start_timestamp": 387,
+                    "stop_timestamp": 499
+                },
+                {
+                    "secondary_subgoal": "Handling the jug",
+                    "start_timestamp": 499,
+                    "stop_timestamp": 1216
+                },
+                {
+                    "secondary_subgoal": "Tying the paper package",
+                    "start_timestamp": 1216,
+                    "stop_timestamp": 1626
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing the maize",
+            "start_timestamp": 1647,
+            "stop_timestamp": 3316,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Initial washing steps",
+                    "start_timestamp": 1686,
+                    "stop_timestamp": 1988
+                },
+                {
+                    "secondary_subgoal": "Pouring water and continuing washing",
+                    "start_timestamp": 1988,
+                    "stop_timestamp": 3252
+                },
+                {
+                    "secondary_subgoal": "Final washing steps",
+                    "start_timestamp": 3252,
+                    "stop_timestamp": 3316
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing to cook maize",
+            "start_timestamp": 3316,
+            "stop_timestamp": 4456,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling the kettle",
+                    "start_timestamp": 3316,
+                    "stop_timestamp": 4204
+                },
+                {
+                    "secondary_subgoal": "Connecting and turning on the kettle",
+                    "start_timestamp": 4204,
+                    "stop_timestamp": 4456
+                }
+            ]
+        },
+        {
+            "subgoal": "Processing meat",
+            "start_timestamp": 4456,
+            "stop_timestamp": 6074,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling the plastic container and fridge",
+                    "start_timestamp": 4456,
+                    "stop_timestamp": 4708
+                },
+                {
+                    "secondary_subgoal": "Putting meat in the steak grill",
+                    "start_timestamp": 4708,
+                    "stop_timestamp": 5551
+                },
+                {
+                    "secondary_subgoal": "Cleaning hands",
+                    "start_timestamp": 5551,
+                    "stop_timestamp": 5688
+                },
+                {
+                    "secondary_subgoal": "Finalizing meat preparation",
+                    "start_timestamp": 5688,
+                    "stop_timestamp": 6074
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning up",
+            "start_timestamp": 6074,
+            "stop_timestamp": 7024,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Additional kitchen tasks",
+                    "start_timestamp": 6074,
+                    "stop_timestamp": 6762
+                },
+                {
+                    "secondary_subgoal": "Drying hands",
+                    "start_timestamp": 6762,
+                    "stop_timestamp": 6924
+                },
+                {
+                    "secondary_subgoal": "Walk around the room",
+                    "start_timestamp": 6924,
+                    "stop_timestamp": 7024
+                }
+            ]
+        }
+    ]
+}

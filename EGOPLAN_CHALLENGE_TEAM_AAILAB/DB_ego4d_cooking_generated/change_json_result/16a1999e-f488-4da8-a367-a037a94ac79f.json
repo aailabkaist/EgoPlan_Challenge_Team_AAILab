@@ -1,0 +1,128 @@
+{
+    "overall_goal": "Prepare onions for cooking",
+    "clips": [
+        {
+            "subgoal": "Move ingredients and tools to workspace",
+            "start_timestamp": 0,
+            "stop_timestamp": 2543,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up phone, walk to workspace",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 139
+                },
+                {
+                    "secondary_subgoal": "Pick onions and put on chopping board",
+                    "start_timestamp": 139,
+                    "stop_timestamp": 346
+                },
+                {
+                    "secondary_subgoal": "Pick and place bowl on kitchen counter",
+                    "start_timestamp": 346,
+                    "stop_timestamp": 453
+                },
+                {
+                    "secondary_subgoal": "Get bread from fridge",
+                    "start_timestamp": 453,
+                    "stop_timestamp": 612
+                },
+                {
+                    "secondary_subgoal": "Put bread on counter and open paper with bread",
+                    "start_timestamp": 612,
+                    "stop_timestamp": 814
+                },
+                {
+                    "secondary_subgoal": "Continuing opening paper with bread and place bread on counter",
+                    "start_timestamp": 814,
+                    "stop_timestamp": 1350
+                },
+                {
+                    "secondary_subgoal": "Tie paper with bread",
+                    "start_timestamp": 1350,
+                    "stop_timestamp": 1625
+                },
+                {
+                    "secondary_subgoal": "Open shelf and put bread",
+                    "start_timestamp": 1625,
+                    "stop_timestamp": 1801
+                },
+                {
+                    "secondary_subgoal": "Pick bread and onions again",
+                    "start_timestamp": 1801,
+                    "stop_timestamp": 2237
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cut onions",
+            "start_timestamp": 2237,
+            "stop_timestamp": 5438,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut onions and peel onion waste",
+                    "start_timestamp": 2237,
+                    "stop_timestamp": 2755
+                },
+                {
+                    "secondary_subgoal": "Peel onions and continue cutting",
+                    "start_timestamp": 2755,
+                    "stop_timestamp": 3334
+                },
+                {
+                    "secondary_subgoal": "Cut onions with some interruptions (sneezing, talking, etc.)",
+                    "start_timestamp": 3334,
+                    "stop_timestamp": 4806
+                },
+                {
+                    "secondary_subgoal": "Continue cutting onions and wiping them from knife",
+                    "start_timestamp": 4806,
+                    "stop_timestamp": 5182
+                },
+                {
+                    "secondary_subgoal": "Breathe and pick chopping board with onions",
+                    "start_timestamp": 5182,
+                    "stop_timestamp": 5438
+                }
+            ]
+        },
+        {
+            "subgoal": "Transfer onions and clean workspace",
+            "start_timestamp": 5438,
+            "stop_timestamp": 6281,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put chopped onions in bowl and clean knife",
+                    "start_timestamp": 5438,
+                    "stop_timestamp": 5609
+                },
+                {
+                    "secondary_subgoal": "Place chopping board and knife on counter",
+                    "start_timestamp": 5609,
+                    "stop_timestamp": 5665
+                },
+                {
+                    "secondary_subgoal": "Dispose of onion waste and clean up",
+                    "start_timestamp": 5665,
+                    "stop_timestamp": 6103
+                },
+                {
+                    "secondary_subgoal": "Final touches (sneezing, wiping nose, walking)",
+                    "start_timestamp": 6103,
+                    "stop_timestamp": 6281
+                }
+            ]
+        },
+        {
+            "subgoal": "Final cleanup",
+            "start_timestamp": 6281,
+            "stop_timestamp": 6381,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open tap",
+                    "start_timestamp": 6281,
+                    "stop_timestamp": 6381
+                }
+            ]
+        }
+    ]
+}

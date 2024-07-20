@@ -1,0 +1,127 @@
+{
+    "overall_goal": "Cook a meal using various cooking utensils and techniques in the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Prepare ingredients using the cooking spoon and finger.",
+            "start_timestamp": 0,
+            "stop_timestamp": 914,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir ingredients.",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 245
+                },
+                {
+                    "secondary_subgoal": "Manipulate the cooking spoon.",
+                    "start_timestamp": 245,
+                    "stop_timestamp": 364
+                },
+                {
+                    "secondary_subgoal": "Stir the pot with finger.",
+                    "start_timestamp": 364,
+                    "stop_timestamp": 914
+                }
+            ]
+        },
+        {
+            "subgoal": "Change water in the cooking pot.",
+            "start_timestamp": 914,
+            "stop_timestamp": 1578,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Manipulate hands and water.",
+                    "start_timestamp": 914,
+                    "stop_timestamp": 1191
+                },
+                {
+                    "secondary_subgoal": "Scoop and pour water into another pot.",
+                    "start_timestamp": 1191,
+                    "stop_timestamp": 1438
+                },
+                {
+                    "secondary_subgoal": "Look around.",
+                    "start_timestamp": 1438,
+                    "stop_timestamp": 1578
+                }
+            ]
+        },
+        {
+            "subgoal": "Sort and fold cloth and other items.",
+            "start_timestamp": 1578,
+            "stop_timestamp": 1951,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look around and hold cloth.",
+                    "start_timestamp": 1578,
+                    "stop_timestamp": 1663
+                },
+                {
+                    "secondary_subgoal": "Manipulate cloth and other items.",
+                    "start_timestamp": 1663,
+                    "stop_timestamp": 1951
+                }
+            ]
+        },
+        {
+            "subgoal": "Carry and place cooking utensils.",
+            "start_timestamp": 1951,
+            "stop_timestamp": 2363,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Carry and place cooking pan.",
+                    "start_timestamp": 1951,
+                    "stop_timestamp": 2162
+                },
+                {
+                    "secondary_subgoal": "Look around and manipulate clothing items.",
+                    "start_timestamp": 2162,
+                    "stop_timestamp": 2226
+                },
+                {
+                    "secondary_subgoal": "Push cooking utensils.",
+                    "start_timestamp": 2226,
+                    "stop_timestamp": 2291
+                },
+                {
+                    "secondary_subgoal": "Look around and move hands.",
+                    "start_timestamp": 2291,
+                    "stop_timestamp": 2363
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir ingredients and manipulate cooking spoon.",
+            "start_timestamp": 2363,
+            "stop_timestamp": 3601,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and stir with the cooking spoon.",
+                    "start_timestamp": 2363,
+                    "stop_timestamp": 3592
+                },
+                {
+                    "secondary_subgoal": "Let go of the spoon and move hands.",
+                    "start_timestamp": 3592,
+                    "stop_timestamp": 3601
+                }
+            ]
+        },
+        {
+            "subgoal": "Manipulate bowl and cooking utensils.",
+            "start_timestamp": 3601,
+            "stop_timestamp": 4032,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick, lift, and pour from a bowl.",
+                    "start_timestamp": 3601,
+                    "stop_timestamp": 3874
+                },
+                {
+                    "secondary_subgoal": "Hold, hit, and remove content from the bowl.",
+                    "start_timestamp": 3874,
+                    "stop_timestamp": 4032
+                }
+            ]
+        }
+    ]
+}

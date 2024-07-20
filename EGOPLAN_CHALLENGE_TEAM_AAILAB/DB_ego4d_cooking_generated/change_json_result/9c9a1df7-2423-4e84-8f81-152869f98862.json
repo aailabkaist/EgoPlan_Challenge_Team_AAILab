@@ -1,0 +1,199 @@
+{
+    "overall_goal": "Preparing and cooking a meal involving vegetables, radish, and eggs.",
+    "clips": [
+        {
+            "subgoal": "Gathering cooking utensils and initial preparation",
+            "start_timestamp": 0,
+            "stop_timestamp": 849,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjusting the camera and opening the drawer",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 81
+                },
+                {
+                    "secondary_subgoal": "Picking and moving the pot and lid",
+                    "start_timestamp": 81,
+                    "stop_timestamp": 237
+                },
+                {
+                    "secondary_subgoal": "Running and filling water in the pot",
+                    "start_timestamp": 269,
+                    "stop_timestamp": 410
+                },
+                {
+                    "secondary_subgoal": "Turning off the faucet and walking to the cooking area",
+                    "start_timestamp": 433,
+                    "stop_timestamp": 541
+                },
+                {
+                    "secondary_subgoal": "Placing the pot on the cooking gas and operating the gas",
+                    "start_timestamp": 541,
+                    "stop_timestamp": 609
+                },
+                {
+                    "secondary_subgoal": "Operating the AC",
+                    "start_timestamp": 609,
+                    "stop_timestamp": 640
+                },
+                {
+                    "secondary_subgoal": "Walking and reopening the drawer",
+                    "start_timestamp": 640,
+                    "stop_timestamp": 670
+                },
+                {
+                    "secondary_subgoal": "Retrieving and placing the pot lid",
+                    "start_timestamp": 773,
+                    "stop_timestamp": 849
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing vegetables",
+            "start_timestamp": 906,
+            "stop_timestamp": 3208,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gathering chopping board and knife",
+                    "start_timestamp": 906,
+                    "stop_timestamp": 1056
+                },
+                {
+                    "secondary_subgoal": "Selecting vegetables from fridge",
+                    "start_timestamp": 1076,
+                    "stop_timestamp": 1365
+                },
+                {
+                    "secondary_subgoal": "Preparing vegetables on the counter",
+                    "start_timestamp": 1365,
+                    "stop_timestamp": 1529
+                },
+                {
+                    "secondary_subgoal": "Selecting and repositioning bowl and radish",
+                    "start_timestamp": 1529,
+                    "stop_timestamp": 1782
+                },
+                {
+                    "secondary_subgoal": "Unsealing, removing, and handling vegetables",
+                    "start_timestamp": 1807,
+                    "stop_timestamp": 2006
+                },
+                {
+                    "secondary_subgoal": "Managing trash removal",
+                    "start_timestamp": 2006,
+                    "stop_timestamp": 2073
+                },
+                {
+                    "secondary_subgoal": "Cutting and preparation of vegetables",
+                    "start_timestamp": 2111,
+                    "stop_timestamp": 3039
+                },
+                {
+                    "secondary_subgoal": "Cleaning and putting away knife",
+                    "start_timestamp": 3100,
+                    "stop_timestamp": 3208
+                }
+            ]
+        },
+        {
+            "subgoal": "Processing radish",
+            "start_timestamp": 3220,
+            "stop_timestamp": 4205,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Selecting and handling vegetable slicer",
+                    "start_timestamp": 3220,
+                    "stop_timestamp": 3396
+                },
+                {
+                    "secondary_subgoal": "Peeling and slicing the radish",
+                    "start_timestamp": 3560,
+                    "stop_timestamp": 4205
+                }
+            ]
+        },
+        {
+            "subgoal": "Finishing vegetable preparation",
+            "start_timestamp": 4244,
+            "stop_timestamp": 6936,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Slicing pieces of radish, transferring to and from bowl",
+                    "start_timestamp": 4244,
+                    "stop_timestamp": 6446
+                },
+                {
+                    "secondary_subgoal": "Cleaning and washing utensils",
+                    "start_timestamp": 6648,
+                    "stop_timestamp": 6836
+                },
+                {
+                    "secondary_subgoal": "Final adjustments for bowl and ingredients",
+                    "start_timestamp": 6882,
+                    "stop_timestamp": 6936
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing hands and preparing station",
+            "start_timestamp": 6997,
+            "stop_timestamp": 7905,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling food ingredients",
+                    "start_timestamp": 6997,
+                    "stop_timestamp": 7815
+                },
+                {
+                    "secondary_subgoal": "Cleaning and drying hands",
+                    "start_timestamp": 7905,
+                    "stop_timestamp": 7905
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing eggs",
+            "start_timestamp": 8027,
+            "stop_timestamp": 9643,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Lid handling and opening fridge",
+                    "start_timestamp": 8027,
+                    "stop_timestamp": 8312
+                },
+                {
+                    "secondary_subgoal": "Handling egg tray and utensils",
+                    "start_timestamp": 8407,
+                    "stop_timestamp": 8721
+                },
+                {
+                    "secondary_subgoal": "Placing eggs in saucepan and stirring",
+                    "start_timestamp": 8731,
+                    "stop_timestamp": 9643
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking drumsticks",
+            "start_timestamp": 10019,
+            "stop_timestamp": 15030,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Managing saucepans and tins",
+                    "start_timestamp": 10019,
+                    "stop_timestamp": 10802
+                },
+                {
+                    "secondary_subgoal": "Cooking oil and ingredients handling",
+                    "start_timestamp": 11029,
+                    "stop_timestamp": 11416
+                },
+                {
+                    "secondary_subgoal": "Drumstick preparation and stirring",
+                    "start_timestamp": 11608,
+                    "stop_timestamp": 14930
+                }
+            ]
+        }
+    ]
+}

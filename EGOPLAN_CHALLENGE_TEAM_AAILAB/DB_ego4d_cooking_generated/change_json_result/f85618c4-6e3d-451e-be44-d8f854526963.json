@@ -1,0 +1,183 @@
+{
+    "overall_goal": "Prepping and cooking vegetables using various kitchen tools and appliances.",
+    "clips": [
+        {
+            "subgoal": "Handling the bottle and pouring contents",
+            "start_timestamp": 0,
+            "stop_timestamp": 528,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Holding and opening the bottle",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 84
+                },
+                {
+                    "secondary_subgoal": "Dropping and picking the bottle from the kitchen top",
+                    "start_timestamp": 84,
+                    "stop_timestamp": 123
+                },
+                {
+                    "secondary_subgoal": "Opening and pouring contents from the bottle",
+                    "start_timestamp": 123,
+                    "stop_timestamp": 371
+                },
+                {
+                    "secondary_subgoal": "Dropping the bottle on the kitchen top",
+                    "start_timestamp": 371,
+                    "stop_timestamp": 528
+                }
+            ]
+        },
+        {
+            "subgoal": "Folding and handling the paper with content",
+            "start_timestamp": 2864,
+            "stop_timestamp": 3934,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Folding and closing the paper",
+                    "start_timestamp": 2864,
+                    "stop_timestamp": 3157
+                },
+                {
+                    "secondary_subgoal": "Moving the paper to the fridge",
+                    "start_timestamp": 3157,
+                    "stop_timestamp": 3879
+                },
+                {
+                    "secondary_subgoal": "Putting and picking paper on the kitchen top",
+                    "start_timestamp": 3879,
+                    "stop_timestamp": 3934
+                }
+            ]
+        },
+        {
+            "subgoal": "Placing items in the fridge and operating the phone",
+            "start_timestamp": 3934,
+            "stop_timestamp": 4692,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling items in the fridge",
+                    "start_timestamp": 3934,
+                    "stop_timestamp": 4217
+                },
+                {
+                    "secondary_subgoal": "Operating the phone",
+                    "start_timestamp": 4217,
+                    "stop_timestamp": 4692
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling kitchen tools and preparing cooking",
+            "start_timestamp": 4721,
+            "stop_timestamp": 5653,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling the cooking pot and sieve",
+                    "start_timestamp": 4721,
+                    "stop_timestamp": 4966
+                },
+                {
+                    "secondary_subgoal": "Fetching water and preparing cooking pot",
+                    "start_timestamp": 4966,
+                    "stop_timestamp": 5345
+                },
+                {
+                    "secondary_subgoal": "Operating gas cooker and air conditioner",
+                    "start_timestamp": 5345,
+                    "stop_timestamp": 5653
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing hands and prepping vegetables",
+            "start_timestamp": 5653,
+            "stop_timestamp": 8455,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing and rinsing hands",
+                    "start_timestamp": 5653,
+                    "stop_timestamp": 6495
+                },
+                {
+                    "secondary_subgoal": "Handling and washing chopping board and carrots",
+                    "start_timestamp": 6495,
+                    "stop_timestamp": 7471
+                },
+                {
+                    "secondary_subgoal": "Peeling and chopping the carrot",
+                    "start_timestamp": 7471,
+                    "stop_timestamp": 8455
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepping and cutting onions",
+            "start_timestamp": 8455,
+            "stop_timestamp": 15784,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning and cutting the carrot",
+                    "start_timestamp": 8455,
+                    "stop_timestamp": 11660
+                },
+                {
+                    "secondary_subgoal": "Prepping and cutting onion",
+                    "start_timestamp": 11660,
+                    "stop_timestamp": 15784
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling cooking pot and prepping cooking utensils",
+            "start_timestamp": 15784,
+            "stop_timestamp": 17361,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking and prepping the bowl",
+                    "start_timestamp": 15784,
+                    "stop_timestamp": 16144
+                },
+                {
+                    "secondary_subgoal": "Handling cooking pot and chopping sticks",
+                    "start_timestamp": 16144,
+                    "stop_timestamp": 17361
+                }
+            ]
+        },
+        {
+            "subgoal": "Folding and handling paper utensils",
+            "start_timestamp": 17361,
+            "stop_timestamp": 19921,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Folding and organizing paper",
+                    "start_timestamp": 17361,
+                    "stop_timestamp": 18890
+                },
+                {
+                    "secondary_subgoal": "Handling glass and rinsing",
+                    "start_timestamp": 18890,
+                    "stop_timestamp": 19921
+                }
+            ]
+        },
+        {
+            "subgoal": "Concluding the cooking session",
+            "start_timestamp": 19921,
+            "stop_timestamp": 21295,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "General kitchen activities and operating phone",
+                    "start_timestamp": 19921,
+                    "stop_timestamp": 20557
+                },
+                {
+                    "secondary_subgoal": "Completing and organizing kitchen items",
+                    "start_timestamp": 20557,
+                    "stop_timestamp": 21295
+                }
+            ]
+        }
+    ]
+}

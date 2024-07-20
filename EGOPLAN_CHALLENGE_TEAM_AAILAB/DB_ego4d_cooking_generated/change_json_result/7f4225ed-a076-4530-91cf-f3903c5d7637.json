@@ -1,0 +1,122 @@
+{
+    "overall_goal": "Prepare a meal using various kitchen utensils and ingredients.",
+    "clips": [
+        {
+            "subgoal": "Boil water in an electric kettle.",
+            "start_timestamp": 0,
+            "stop_timestamp": 623,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preparation and initial setup",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 27
+                },
+                {
+                    "secondary_subgoal": "Retrieve and prepare the electric kettle",
+                    "start_timestamp": 27,
+                    "stop_timestamp": 124
+                },
+                {
+                    "secondary_subgoal": "Fill the kettle with water and set it up",
+                    "start_timestamp": 124,
+                    "stop_timestamp": 397
+                },
+                {
+                    "secondary_subgoal": "Start the kettle",
+                    "start_timestamp": 397,
+                    "stop_timestamp": 623
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and wash rice.",
+            "start_timestamp": 623,
+            "stop_timestamp": 4885,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Measure and pour rice",
+                    "start_timestamp": 623,
+                    "stop_timestamp": 1091
+                },
+                {
+                    "secondary_subgoal": "Wash rice in the sink",
+                    "start_timestamp": 1091,
+                    "stop_timestamp": 4435
+                },
+                {
+                    "secondary_subgoal": "Cleaning up and setting rice to cook",
+                    "start_timestamp": 4435,
+                    "stop_timestamp": 4885
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and wash vegetables.",
+            "start_timestamp": 4885,
+            "stop_timestamp": 9758,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Selecting and preparing vegetables",
+                    "start_timestamp": 4885,
+                    "stop_timestamp": 6110
+                },
+                {
+                    "secondary_subgoal": "Washing vegetables",
+                    "start_timestamp": 6110,
+                    "stop_timestamp": 9758
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut and prepare beans.",
+            "start_timestamp": 9758,
+            "stop_timestamp": 16279,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gathering and washing beans",
+                    "start_timestamp": 9758,
+                    "stop_timestamp": 16727
+                },
+                {
+                    "secondary_subgoal": "Cutting and preparing beans",
+                    "start_timestamp": 16727,
+                    "stop_timestamp": 16279
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook vegetables with salt.",
+            "start_timestamp": 16279,
+            "stop_timestamp": 20750,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Seasoning vegetables",
+                    "start_timestamp": 16279,
+                    "stop_timestamp": 18290
+                },
+                {
+                    "secondary_subgoal": "Cooking and stirring vegetables",
+                    "start_timestamp": 18290,
+                    "stop_timestamp": 20750
+                }
+            ]
+        },
+        {
+            "subgoal": "Final stages of cooking.",
+            "start_timestamp": 20750,
+            "stop_timestamp": 21256,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Finishing vegetable cooking process",
+                    "start_timestamp": 20750,
+                    "stop_timestamp": 20928
+                },
+                {
+                    "secondary_subgoal": "Setting the cooking pot back",
+                    "start_timestamp": 20928,
+                    "stop_timestamp": 21256
+                }
+            ]
+        }
+    ]
+}

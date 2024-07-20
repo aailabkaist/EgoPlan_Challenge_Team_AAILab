@@ -1,0 +1,747 @@
+[
+    {
+        "task_goal": "Start timer and prepare cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Presses a timer",
+                "start_frame": 12,
+                "stop_frame": 98
+            },
+            {
+                "narration_text": "Picks a cooking pot holder",
+                "start_frame": 98,
+                "stop_frame": 179
+            },
+            {
+                "narration_text": "Puts in cooking pot",
+                "start_frame": 179,
+                "stop_frame": 223
+            },
+            {
+                "narration_text": "Turns off the cooker",
+                "start_frame": 223,
+                "stop_frame": 314
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn off cooker and prepare spaghetti draining setup",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts in cooking pot",
+                "start_frame": 179,
+                "stop_frame": 223
+            },
+            {
+                "narration_text": "Turns off the cooker",
+                "start_frame": 223,
+                "stop_frame": 314
+            },
+            {
+                "narration_text": "Opens kitchen cabinet",
+                "start_frame": 314,
+                "stop_frame": 367
+            },
+            {
+                "narration_text": "Removes aluminum bowl sieve",
+                "start_frame": 367,
+                "stop_frame": 435
+            },
+            {
+                "narration_text": "Puts on the sink",
+                "start_frame": 435,
+                "stop_frame": 665
+            },
+            {
+                "narration_text": "Removes the cooking pot on the cooker",
+                "start_frame": 665,
+                "stop_frame": 760
+            }
+        ]
+    },
+    {
+        "task_goal": "Drain and rinse spaghetti",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts on the sink",
+                "start_frame": 435,
+                "stop_frame": 665
+            },
+            {
+                "narration_text": "Removes the cooking pot on the cooker",
+                "start_frame": 665,
+                "stop_frame": 760
+            },
+            {
+                "narration_text": "Pours the spaghetti in the bowl sieve",
+                "start_frame": 760,
+                "stop_frame": 865
+            },
+            {
+                "narration_text": "Places down the cooking pot",
+                "start_frame": 865,
+                "stop_frame": 915
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours the spaghetti in the bowl sieve",
+                "start_frame": 760,
+                "stop_frame": 865
+            },
+            {
+                "narration_text": "Places down the cooking pot",
+                "start_frame": 865,
+                "stop_frame": 915
+            },
+            {
+                "narration_text": "Turns on the tap",
+                "start_frame": 915,
+                "stop_frame": 937
+            },
+            {
+                "narration_text": "Rinses the hand",
+                "start_frame": 937,
+                "stop_frame": 970
+            },
+            {
+                "narration_text": "Washes the cooking pot",
+                "start_frame": 970,
+                "stop_frame": 1131
+            },
+            {
+                "narration_text": "Picks a scrubber",
+                "start_frame": 1131,
+                "stop_frame": 1157
+            },
+            {
+                "narration_text": "Scrubs the cooking pot",
+                "start_frame": 1157,
+                "stop_frame": 1308
+            }
+        ]
+    },
+    {
+        "task_goal": "Scrub and rinse cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a scrubber",
+                "start_frame": 1131,
+                "stop_frame": 1157
+            },
+            {
+                "narration_text": "Scrubs the cooking pot",
+                "start_frame": 1157,
+                "stop_frame": 1308
+            },
+            {
+                "narration_text": "Rinses the cooking pot",
+                "start_frame": 1308,
+                "stop_frame": 1491
+            },
+            {
+                "narration_text": "Removes a cooking pot holder from the cooking pot",
+                "start_frame": 1491,
+                "stop_frame": 1514
+            },
+            {
+                "narration_text": "Places the cooking pot holder on the utensils holder",
+                "start_frame": 1514,
+                "stop_frame": 1523
+            },
+            {
+                "narration_text": "Rinses the cooking pot",
+                "start_frame": 1523,
+                "stop_frame": 1647
+            },
+            {
+                "narration_text": "Places the cooking pot on top of another cooking pot",
+                "start_frame": 1647,
+                "stop_frame": 1703
+            }
+        ]
+    },
+    {
+        "task_goal": "Place pots in organized manner",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rinses the cooking pot",
+                "start_frame": 1523,
+                "stop_frame": 1647
+            },
+            {
+                "narration_text": "Places the cooking pot on top of another cooking pot",
+                "start_frame": 1647,
+                "stop_frame": 1703
+            },
+            {
+                "narration_text": "Picks another cooking pot",
+                "start_frame": 1703,
+                "stop_frame": 1724
+            },
+            {
+                "narration_text": "Places on the cooker",
+                "start_frame": 1724,
+                "stop_frame": 1782
+            },
+            {
+                "narration_text": "Picks the chopsticks",
+                "start_frame": 1782,
+                "stop_frame": 1803
+            },
+            {
+                "narration_text": "Places down the chopsticks",
+                "start_frame": 1803,
+                "stop_frame": 1821
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash and drain spaghetti again",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the chopsticks",
+                "start_frame": 1782,
+                "stop_frame": 1803
+            },
+            {
+                "narration_text": "Places down the chopsticks",
+                "start_frame": 1803,
+                "stop_frame": 1821
+            },
+            {
+                "narration_text": "Washes the spaghetti with running water",
+                "start_frame": 1821,
+                "stop_frame": 2619
+            },
+            {
+                "narration_text": "Places down the spaghetti bowl sieve",
+                "start_frame": 2619,
+                "stop_frame": 2658
+            },
+            {
+                "narration_text": "Holds a cooking pot",
+                "start_frame": 2658,
+                "stop_frame": 2686
+            },
+            {
+                "narration_text": "Picks another cooking pot",
+                "start_frame": 2686,
+                "stop_frame": 2747
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare for cooking more items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a cooking pot",
+                "start_frame": 2658,
+                "stop_frame": 2686
+            },
+            {
+                "narration_text": "Picks another cooking pot",
+                "start_frame": 2686,
+                "stop_frame": 2747
+            },
+            {
+                "narration_text": "Places the cooking pot on the cooker",
+                "start_frame": 2747,
+                "stop_frame": 2792
+            },
+            {
+                "narration_text": "Turns on the cooker",
+                "start_frame": 2792,
+                "stop_frame": 2855
+            },
+            {
+                "narration_text": "Washes the spaghetti",
+                "start_frame": 2855,
+                "stop_frame": 3597
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash spaghetti thoroughly",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns on the cooker",
+                "start_frame": 2792,
+                "stop_frame": 2855
+            },
+            {
+                "narration_text": "Washes the spaghetti",
+                "start_frame": 2855,
+                "stop_frame": 3597
+            },
+            {
+                "narration_text": "Turns off the tap",
+                "start_frame": 3597,
+                "stop_frame": 3629
+            },
+            {
+                "narration_text": "Picks a cooking pot",
+                "start_frame": 3629,
+                "stop_frame": 3728
+            },
+            {
+                "narration_text": "Turns on the tap",
+                "start_frame": 3728,
+                "stop_frame": 3778
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash cooking pot again",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a cooking pot",
+                "start_frame": 3629,
+                "stop_frame": 3728
+            },
+            {
+                "narration_text": "Turns on the tap",
+                "start_frame": 3728,
+                "stop_frame": 3778
+            },
+            {
+                "narration_text": "Washes the cooking pot",
+                "start_frame": 3778,
+                "stop_frame": 3955
+            },
+            {
+                "narration_text": "Puts the spaghetti bowl sieve inside the cooking pot",
+                "start_frame": 3955,
+                "stop_frame": 3984
+            },
+            {
+                "narration_text": "Turns off the tap",
+                "start_frame": 3984,
+                "stop_frame": 4004
+            },
+            {
+                "narration_text": "Places down the cooking pot",
+                "start_frame": 4004,
+                "stop_frame": 4032
+            },
+            {
+                "narration_text": "Picks a spoon on the sink",
+                "start_frame": 4032,
+                "stop_frame": 4079
+            }
+        ]
+    },
+    {
+        "task_goal": "Replace and dispose of sink strainer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Removes disposable sink strainer",
+                "start_frame": 5120,
+                "stop_frame": 5441
+            },
+            {
+                "narration_text": "Puts the wastes in disposable sick strainer",
+                "start_frame": 5441,
+                "stop_frame": 5788
+            },
+            {
+                "narration_text": "Puts the disposable sink strainer in the waste",
+                "start_frame": 5788,
+                "stop_frame": 5996
+            },
+            {
+                "narration_text": "Opens the kitchen cabinet",
+                "start_frame": 5996,
+                "stop_frame": 6114
+            },
+            {
+                "narration_text": "Removes a packet of disposable sink strainer",
+                "start_frame": 6114,
+                "stop_frame": 6241
+            },
+            {
+                "narration_text": "Removes one piece of disposable sink strainer",
+                "start_frame": 6241,
+                "stop_frame": 6317
+            },
+            {
+                "narration_text": "Places back a packet of disposable sink strainer inside kitchen cabinet",
+                "start_frame": 6317,
+                "stop_frame": 6361
+            },
+            {
+                "narration_text": "Removes a paper",
+                "start_frame": 6361,
+                "stop_frame": 6451
+            },
+            {
+                "narration_text": "Puts the paper inside he dust bin",
+                "start_frame": 6451,
+                "stop_frame": 6634
+            },
+            {
+                "narration_text": "Cover the sink strainer with disposable sink strainer",
+                "start_frame": 6634,
+                "stop_frame": 6778
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean and organize sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the paper inside he dust bin",
+                "start_frame": 6451,
+                "stop_frame": 6634
+            },
+            {
+                "narration_text": "Cover the sink strainer with disposable sink strainer",
+                "start_frame": 6634,
+                "stop_frame": 6778
+            },
+            {
+                "narration_text": "Picks a scrubber",
+                "start_frame": 6778,
+                "stop_frame": 6791
+            },
+            {
+                "narration_text": "Scrubs the sink",
+                "start_frame": 6791,
+                "stop_frame": 7145
+            },
+            {
+                "narration_text": "Turns on the tap",
+                "start_frame": 7145,
+                "stop_frame": 7236
+            },
+            {
+                "narration_text": "Scrubs the sink",
+                "start_frame": 7236,
+                "stop_frame": 7296
+            },
+            {
+                "narration_text": "Puts back the sink strainer to the kitchen sink hole",
+                "start_frame": 7296,
+                "stop_frame": 7348
+            },
+            {
+                "narration_text": "Turns of the tap",
+                "start_frame": 7348,
+                "stop_frame": 7374
+            },
+            {
+                "narration_text": "Places the sink lid on the sink strainer",
+                "start_frame": 7374,
+                "stop_frame": 7391
+            },
+            {
+                "narration_text": "Wipes the sink",
+                "start_frame": 7391,
+                "stop_frame": 7465
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe sink and hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the sink lid on the sink strainer",
+                "start_frame": 7374,
+                "stop_frame": 7391
+            },
+            {
+                "narration_text": "Wipes the sink",
+                "start_frame": 7391,
+                "stop_frame": 7465
+            },
+            {
+                "narration_text": "Wipes hands with kitchen towel",
+                "start_frame": 7465,
+                "stop_frame": 7557
+            },
+            {
+                "narration_text": "Turns on the cooker",
+                "start_frame": 7557,
+                "stop_frame": 7619
+            },
+            {
+                "narration_text": "Looks around the kitchen",
+                "start_frame": 7619,
+                "stop_frame": 7669
+            }
+        ]
+    },
+    {
+        "task_goal": "Setup cooking environment",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns on the cooker",
+                "start_frame": 7557,
+                "stop_frame": 7619
+            },
+            {
+                "narration_text": "Looks around the kitchen",
+                "start_frame": 7619,
+                "stop_frame": 7669
+            },
+            {
+                "narration_text": "Holds a cooking pot",
+                "start_frame": 7669,
+                "stop_frame": 7732
+            },
+            {
+                "narration_text": "Presses cooker buttons",
+                "start_frame": 7732,
+                "stop_frame": 7879
+            },
+            {
+                "narration_text": "Picks the broccolis",
+                "start_frame": 7879,
+                "stop_frame": 8045
+            },
+            {
+                "narration_text": "Places the broccolis in the bowl",
+                "start_frame": 8045,
+                "stop_frame": 8164
+            }
+        ]
+    },
+    {
+        "task_goal": "Add broccoli to bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the broccolis",
+                "start_frame": 7879,
+                "stop_frame": 8045
+            },
+            {
+                "narration_text": "Places the broccolis in the bowl",
+                "start_frame": 8045,
+                "stop_frame": 8164
+            },
+            {
+                "narration_text": "Picks a packet of unsure",
+                "start_frame": 8164,
+                "stop_frame": 8245
+            },
+            {
+                "narration_text": "Removes the unsure",
+                "start_frame": 8245,
+                "stop_frame": 8258
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir and cook vegetables with chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rinses her hands with water",
+                "start_frame": 11348,
+                "stop_frame": 11370
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 11370,
+                "stop_frame": 11425
+            },
+            {
+                "narration_text": "Dries his hands with a towel",
+                "start_frame": 11425,
+                "stop_frame": 11480
+            },
+            {
+                "narration_text": "Picks chopsticks",
+                "start_frame": 11480,
+                "stop_frame": 11534
+            },
+            {
+                "narration_text": "Stirs the eggplants with chopstick",
+                "start_frame": 11534,
+                "stop_frame": 12051
+            },
+            {
+                "narration_text": "Picks green pepper",
+                "start_frame": 12051,
+                "stop_frame": 12076
+            },
+            {
+                "narration_text": "Stirs the eggplants with chopsticks",
+                "start_frame": 12076,
+                "stop_frame": 12104
+            },
+            {
+                "narration_text": "Puts green pepper in the pan",
+                "start_frame": 12104,
+                "stop_frame": 12116
+            },
+            {
+                "narration_text": "Stirs the vegetables with chopsticks",
+                "start_frame": 12116,
+                "stop_frame": 12136
+            },
+            {
+                "narration_text": "Picks green pepper",
+                "start_frame": 12136,
+                "stop_frame": 12146
+            },
+            {
+                "narration_text": "Stirs the vegetable with chopsticks",
+                "start_frame": 12146,
+                "stop_frame": 12180
+            },
+            {
+                "narration_text": "Puts green pepper in the pan",
+                "start_frame": 12180,
+                "stop_frame": 12194
+            },
+            {
+                "narration_text": "Stirs the vegetables with chopsticks",
+                "start_frame": 12194,
+                "stop_frame": 12211
+            },
+            {
+                "narration_text": "Picks green pepper",
+                "start_frame": 12211,
+                "stop_frame": 12260
+            },
+            {
+                "narration_text": "Puts green pepper in the pan",
+                "start_frame": 12260,
+                "stop_frame": 12274
+            },
+            {
+                "narration_text": "Stirs the vegetable with chopsticks",
+                "start_frame": 12274,
+                "stop_frame": 12335
+            },
+            {
+                "narration_text": "Holds a cutting board",
+                "start_frame": 12335,
+                "stop_frame": 12350
+            },
+            {
+                "narration_text": "Pulls her hand off the chopsticks",
+                "start_frame": 12350,
+                "stop_frame": 12368
+            },
+            {
+                "narration_text": "Picks a knife",
+                "start_frame": 12368,
+                "stop_frame": 12384
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean and organize utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pulls her hand off the chopsticks",
+                "start_frame": 12350,
+                "stop_frame": 12368
+            },
+            {
+                "narration_text": "Picks a knife",
+                "start_frame": 12368,
+                "stop_frame": 12384
+            },
+            {
+                "narration_text": "Walks toward the sink",
+                "start_frame": 12384,
+                "stop_frame": 12402
+            },
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 12402,
+                "stop_frame": 12414
+            },
+            {
+                "narration_text": "Rinses a knife with water",
+                "start_frame": 12414,
+                "stop_frame": 12465
+            },
+            {
+                "narration_text": "Puts the knife in a utensil holder",
+                "start_frame": 12465,
+                "stop_frame": 12513
+            },
+            {
+                "narration_text": "Picks a cutting board",
+                "start_frame": 12513,
+                "stop_frame": 12525
+            },
+            {
+                "narration_text": "Rinses a cutting board with water",
+                "start_frame": 12525,
+                "stop_frame": 12611
+            },
+            {
+                "narration_text": "Puts the cutting board on the sink",
+                "start_frame": 12611,
+                "stop_frame": 12611
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 12611,
+                "stop_frame": 12688
+            },
+            {
+                "narration_text": "Dries her hand with a towel",
+                "start_frame": 12688,
+                "stop_frame": 12709
+            },
+            {
+                "narration_text": "Walks away from the towel",
+                "start_frame": 12709,
+                "stop_frame": 12793
+            },
+            {
+                "narration_text": "Opens a cabinet",
+                "start_frame": 12793,
+                "stop_frame": 12934
+            },
+            {
+                "narration_text": "Picks a sieve",
+                "start_frame": 12934,
+                "stop_frame": 12996
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 12996,
+                "stop_frame": 13019
+            },
+            {
+                "narration_text": "Puts the sieve in the cabinet",
+                "start_frame": 13019,
+                "stop_frame": 13104
+            },
+            {
+                "narration_text": "Walks away from the cabinet",
+                "start_frame": 13104,
+                "stop_frame": 13215
+            },
+            {
+                "narration_text": "Pulls a sufuria",
+                "start_frame": 13215,
+                "stop_frame": 13250
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir and finalize cooking of vegetables",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs the vegetables with chopsticks",
+                "start_frame": 15901,
+                "stop_frame": 15959
+            },
+            {
+                "narration_text": "Holds a oil bottle",
+                "start_frame": 15959,
+                "stop_frame": 16059
+            }
+        ]
+    }
+]

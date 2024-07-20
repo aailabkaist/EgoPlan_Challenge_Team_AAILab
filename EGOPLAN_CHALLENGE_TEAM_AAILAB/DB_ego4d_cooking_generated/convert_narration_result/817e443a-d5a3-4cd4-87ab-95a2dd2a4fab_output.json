@@ -1,0 +1,737 @@
+[
+    {
+        "task_goal": "Clean and wash hands before preparing food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks",
+                "start_frame": 38,
+                "stop_frame": 155
+            },
+            {
+                "narration_text": "Opens tap water",
+                "start_frame": 155,
+                "stop_frame": 166
+            },
+            {
+                "narration_text": "Rubbing hands",
+                "start_frame": 166,
+                "stop_frame": 239
+            },
+            {
+                "narration_text": "Closed water tap",
+                "start_frame": 239,
+                "stop_frame": 240
+            },
+            {
+                "narration_text": "Press soap",
+                "start_frame": 240,
+                "stop_frame": 253
+            },
+            {
+                "narration_text": "Rubbing hands",
+                "start_frame": 253,
+                "stop_frame": 635
+            },
+            {
+                "narration_text": "Opens water tap",
+                "start_frame": 635,
+                "stop_frame": 781
+            },
+            {
+                "narration_text": "Washes hands",
+                "start_frame": 781,
+                "stop_frame": 988
+            },
+            {
+                "narration_text": "Closed water tap",
+                "start_frame": 988,
+                "stop_frame": 1074
+            },
+            {
+                "narration_text": "Holds towel",
+                "start_frame": 1074,
+                "stop_frame": 1083
+            },
+            {
+                "narration_text": "Wipes hands",
+                "start_frame": 1083,
+                "stop_frame": 1344
+            },
+            {
+                "narration_text": "Holds chopping board",
+                "start_frame": 1344,
+                "stop_frame": 1376
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening and running tap water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks",
+                "start_frame": 38,
+                "stop_frame": 155
+            },
+            {
+                "narration_text": "Opens tap water",
+                "start_frame": 155,
+                "stop_frame": 166
+            },
+            {
+                "narration_text": "Rubbing hands",
+                "start_frame": 166,
+                "stop_frame": 239
+            }
+        ]
+    },
+    {
+        "task_goal": "Rubbing hands with and without soap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens tap water",
+                "start_frame": 155,
+                "stop_frame": 166
+            },
+            {
+                "narration_text": "Rubbing hands",
+                "start_frame": 166,
+                "stop_frame": 239
+            },
+            {
+                "narration_text": "Closed water tap",
+                "start_frame": 239,
+                "stop_frame": 240
+            },
+            {
+                "narration_text": "Press soap",
+                "start_frame": 240,
+                "stop_frame": 253
+            },
+            {
+                "narration_text": "Rubbing hands",
+                "start_frame": 253,
+                "stop_frame": 635
+            },
+            {
+                "narration_text": "Opens water tap",
+                "start_frame": 635,
+                "stop_frame": 781
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening tap water and washing hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rubbing hands",
+                "start_frame": 253,
+                "stop_frame": 635
+            },
+            {
+                "narration_text": "Opens water tap",
+                "start_frame": 635,
+                "stop_frame": 781
+            },
+            {
+                "narration_text": "Washes hands",
+                "start_frame": 781,
+                "stop_frame": 988
+            },
+            {
+                "narration_text": "Closed water tap",
+                "start_frame": 988,
+                "stop_frame": 1074
+            }
+        ]
+    },
+    {
+        "task_goal": "Drying hands with a towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closed water tap",
+                "start_frame": 988,
+                "stop_frame": 1074
+            },
+            {
+                "narration_text": "Holds towel",
+                "start_frame": 1074,
+                "stop_frame": 1083
+            },
+            {
+                "narration_text": "Wipes hands",
+                "start_frame": 1083,
+                "stop_frame": 1344
+            },
+            {
+                "narration_text": "Holds chopping board",
+                "start_frame": 1344,
+                "stop_frame": 1376
+            }
+        ]
+    },
+    {
+        "task_goal": "Gather chopping tools and materials",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Wipes hands",
+                "start_frame": 1083,
+                "stop_frame": 1344
+            },
+            {
+                "narration_text": "Holds chopping board",
+                "start_frame": 1344,
+                "stop_frame": 1376
+            },
+            {
+                "narration_text": "Holds knife",
+                "start_frame": 1376,
+                "stop_frame": 1425
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 1425,
+                "stop_frame": 1471
+            },
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 1471,
+                "stop_frame": 1537
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve ingredients from fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks",
+                "start_frame": 1425,
+                "stop_frame": 1471
+            },
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 1471,
+                "stop_frame": 1537
+            },
+            {
+                "narration_text": "Picks packed food",
+                "start_frame": 1537,
+                "stop_frame": 1667
+            },
+            {
+                "narration_text": "Picked egg",
+                "start_frame": 1667,
+                "stop_frame": 1700
+            },
+            {
+                "narration_text": "Closed fridge",
+                "start_frame": 1700,
+                "stop_frame": 1759
+            }
+        ]
+    },
+    {
+        "task_goal": "Place and open food package on sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picked egg",
+                "start_frame": 1667,
+                "stop_frame": 1700
+            },
+            {
+                "narration_text": "Closed fridge",
+                "start_frame": 1700,
+                "stop_frame": 1759
+            },
+            {
+                "narration_text": "Puts egg on top of sink",
+                "start_frame": 1759,
+                "stop_frame": 1805
+            },
+            {
+                "narration_text": "Holds packed food",
+                "start_frame": 1805,
+                "stop_frame": 1917
+            },
+            {
+                "narration_text": "Opens packed food",
+                "start_frame": 1917,
+                "stop_frame": 2393
+            },
+            {
+                "narration_text": "Holds packed food",
+                "start_frame": 2393,
+                "stop_frame": 2654
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve and place bowl for ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens packed food",
+                "start_frame": 1917,
+                "stop_frame": 2393
+            },
+            {
+                "narration_text": "Holds packed food",
+                "start_frame": 2393,
+                "stop_frame": 2654
+            },
+            {
+                "narration_text": "Opens kitchen cup board",
+                "start_frame": 2654,
+                "stop_frame": 2885
+            },
+            {
+                "narration_text": "Picks bowl",
+                "start_frame": 2885,
+                "stop_frame": 2896
+            },
+            {
+                "narration_text": "Holds bowl",
+                "start_frame": 2896,
+                "stop_frame": 2943
+            },
+            {
+                "narration_text": "Closed kitchen cup board",
+                "start_frame": 2943,
+                "stop_frame": 3016
+            },
+            {
+                "narration_text": "Puts bowl on the chop board",
+                "start_frame": 3016,
+                "stop_frame": 3086
+            },
+            {
+                "narration_text": "Holds bowl",
+                "start_frame": 3086,
+                "stop_frame": 3179
+            },
+            {
+                "narration_text": "Puts bowl on the steel stands",
+                "start_frame": 3179,
+                "stop_frame": 3280
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour packed food and discard paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds packed food",
+                "start_frame": 3280,
+                "stop_frame": 3423
+            },
+            {
+                "narration_text": "Pour packed food in the bowl",
+                "start_frame": 3423,
+                "stop_frame": 4394
+            },
+            {
+                "narration_text": "Pours packed food in the sink",
+                "start_frame": 4394,
+                "stop_frame": 4423
+            },
+            {
+                "narration_text": "Folds paper",
+                "start_frame": 4423,
+                "stop_frame": 4456
+            },
+            {
+                "narration_text": "Puts paper in container",
+                "start_frame": 4456,
+                "stop_frame": 4512
+            },
+            {
+                "narration_text": "Holds bowl",
+                "start_frame": 4512,
+                "stop_frame": 4552
+            },
+            {
+                "narration_text": "Puts bowl on the chop board",
+                "start_frame": 4552,
+                "stop_frame": 4581
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare food for cooking",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds jug",
+                "start_frame": 4791,
+                "stop_frame": 4839
+            },
+            {
+                "narration_text": "Opens tap water",
+                "start_frame": 4839,
+                "stop_frame": 4938
+            },
+            {
+                "narration_text": "Fetch water",
+                "start_frame": 4938,
+                "stop_frame": 4972
+            },
+            {
+                "narration_text": "Closed water tap",
+                "start_frame": 4972,
+                "stop_frame": 5000
+            },
+            {
+                "narration_text": "Holds jug",
+                "start_frame": 5000,
+                "stop_frame": 5061
+            },
+            {
+                "narration_text": "Holds egg",
+                "start_frame": 5061,
+                "stop_frame": 5239
+            },
+            {
+                "narration_text": "Opens tap water",
+                "start_frame": 5239,
+                "stop_frame": 5259
+            },
+            {
+                "narration_text": "Closed tag water",
+                "start_frame": 5259,
+                "stop_frame": 5383
+            },
+            {
+                "narration_text": "Picks,,,,,",
+                "start_frame": 5383,
+                "stop_frame": 5418
+            },
+            {
+                "narration_text": "Holds egg beater",
+                "start_frame": 5418,
+                "stop_frame": 5472
+            },
+            {
+                "narration_text": "Holds jug",
+                "start_frame": 5472,
+                "stop_frame": 5557
+            },
+            {
+                "narration_text": "Stirring",
+                "start_frame": 5557,
+                "stop_frame": 5962
+            },
+            {
+                "narration_text": "Holds jug",
+                "start_frame": 5962,
+                "stop_frame": 5996
+            },
+            {
+                "narration_text": "Puts jug on top of sink",
+                "start_frame": 5996,
+                "stop_frame": 6065
+            },
+            {
+                "narration_text": "Stirring",
+                "start_frame": 6065,
+                "stop_frame": 7317
+            }
+        ]
+    },
+    {
+        "task_goal": "Fetch water for cooking",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds jug",
+                "start_frame": 4791,
+                "stop_frame": 4839
+            },
+            {
+                "narration_text": "Opens tap water",
+                "start_frame": 4839,
+                "stop_frame": 4938
+            },
+            {
+                "narration_text": "Fetch water",
+                "start_frame": 4938,
+                "stop_frame": 4972
+            },
+            {
+                "narration_text": "Closed water tap",
+                "start_frame": 4972,
+                "stop_frame": 5000
+            },
+            {
+                "narration_text": "Holds jug",
+                "start_frame": 5000,
+                "stop_frame": 5061
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean hands and tools again",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds jug",
+                "start_frame": 5000,
+                "stop_frame": 5061
+            },
+            {
+                "narration_text": "Holds egg",
+                "start_frame": 5061,
+                "stop_frame": 5239
+            },
+            {
+                "narration_text": "Opens tap water",
+                "start_frame": 5239,
+                "stop_frame": 5259
+            },
+            {
+                "narration_text": "Closed tag water",
+                "start_frame": 5259,
+                "stop_frame": 5383
+            },
+            {
+                "narration_text": "Picks,,,,,",
+                "start_frame": 5383,
+                "stop_frame": 5418
+            },
+            {
+                "narration_text": "Holds egg beater",
+                "start_frame": 5418,
+                "stop_frame": 5472
+            },
+            {
+                "narration_text": "Holds jug",
+                "start_frame": 5472,
+                "stop_frame": 5557
+            },
+            {
+                "narration_text": "Stirring",
+                "start_frame": 5557,
+                "stop_frame": 5962
+            },
+            {
+                "narration_text": "Holds jug",
+                "start_frame": 5962,
+                "stop_frame": 5996
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir ingredients in bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirring",
+                "start_frame": 6065,
+                "stop_frame": 7317
+            },
+            {
+                "narration_text": "Holds jug",
+                "start_frame": 7317,
+                "stop_frame": 7355
+            },
+            {
+                "narration_text": "Puts jug on steel stand",
+                "start_frame": 7355,
+                "stop_frame": 7395
+            },
+            {
+                "narration_text": "Puts bowl on top of sink",
+                "start_frame": 7395,
+                "stop_frame": 7439
+            },
+            {
+                "narration_text": "Holds paper",
+                "start_frame": 7439,
+                "stop_frame": 7493
+            }
+        ]
+    },
+    {
+        "task_goal": "Discard packaging material",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts bowl on top of sink",
+                "start_frame": 7395,
+                "stop_frame": 7439
+            },
+            {
+                "narration_text": "Holds paper",
+                "start_frame": 7439,
+                "stop_frame": 7493
+            },
+            {
+                "narration_text": "Puts paper in a container",
+                "start_frame": 7493,
+                "stop_frame": 7549
+            },
+            {
+                "narration_text": "Wipes hands",
+                "start_frame": 7549,
+                "stop_frame": 7678
+            }
+        ]
+    },
+    {
+        "task_goal": "Store tools and retrieve more ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts paper in a container",
+                "start_frame": 7493,
+                "stop_frame": 7549
+            },
+            {
+                "narration_text": "Wipes hands",
+                "start_frame": 7549,
+                "stop_frame": 7678
+            },
+            {
+                "narration_text": "Opens kitchen cupboard",
+                "start_frame": 7678,
+                "stop_frame": 7748
+            },
+            {
+                "narration_text": "Picks bowl",
+                "start_frame": 7748,
+                "stop_frame": 7766
+            },
+            {
+                "narration_text": "Holds bowl",
+                "start_frame": 7766,
+                "stop_frame": 7838
+            },
+            {
+                "narration_text": "Closed kitchen cupboard",
+                "start_frame": 7838,
+                "stop_frame": 7877
+            },
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 7877,
+                "stop_frame": 7951
+            },
+            {
+                "narration_text": "Picks packed food",
+                "start_frame": 7951,
+                "stop_frame": 7967
+            },
+            {
+                "narration_text": "Holds packed food",
+                "start_frame": 7967,
+                "stop_frame": 7977
+            },
+            {
+                "narration_text": "Closed fridge",
+                "start_frame": 7977,
+                "stop_frame": 8023
+            },
+            {
+                "narration_text": "Opens paper",
+                "start_frame": 8023,
+                "stop_frame": 8113
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and place food on chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens paper",
+                "start_frame": 8023,
+                "stop_frame": 8113
+            },
+            {
+                "narration_text": "Removes cabbage",
+                "start_frame": 8113,
+                "stop_frame": 8166
+            },
+            {
+                "narration_text": "Puts food on chopping board",
+                "start_frame": 8166,
+                "stop_frame": 8172
+            },
+            {
+                "narration_text": "Holds paper",
+                "start_frame": 8172,
+                "stop_frame": 8210
+            },
+            {
+                "narration_text": "Folds paper",
+                "start_frame": 8210,
+                "stop_frame": 8240
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean tools and workspace post cutting",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 19679,
+                "stop_frame": 19713
+            },
+            {
+                "narration_text": "Puts bowl on the shelve",
+                "start_frame": 19713,
+                "stop_frame": 19746
+            },
+            {
+                "narration_text": "Opens knob",
+                "start_frame": 19746,
+                "stop_frame": 19765
+            },
+            {
+                "narration_text": "Washes hand",
+                "start_frame": 19765,
+                "stop_frame": 19823
+            },
+            {
+                "narration_text": "Picks a knife",
+                "start_frame": 19823,
+                "stop_frame": 19834
+            },
+            {
+                "narration_text": "Washes knife",
+                "start_frame": 19834,
+                "stop_frame": 19904
+            },
+            {
+                "narration_text": "Puts knife on the shelve",
+                "start_frame": 19904,
+                "stop_frame": 19936
+            },
+            {
+                "narration_text": "Picks chopping board",
+                "start_frame": 19936,
+                "stop_frame": 19945
+            },
+            {
+                "narration_text": "Washes chopping board",
+                "start_frame": 19945,
+                "stop_frame": 20068
+            },
+            {
+                "narration_text": "Closes a knob",
+                "start_frame": 20068,
+                "stop_frame": 20111
+            },
+            {
+                "narration_text": "Dries chopping board",
+                "start_frame": 20111,
+                "stop_frame": 20223
+            },
+            {
+                "narration_text": "Puts chopping board on the shelve",
+                "start_frame": 20223,
+                "stop_frame": 20275
+            },
+            {
+                "narration_text": "Picks a towel",
+                "start_frame": 20275,
+                "stop_frame": 20305
+            },
+            {
+                "narration_text": "Cleans sink",
+                "start_frame": 20305,
+                "stop_frame": 20449
+            }
+        ]
+    }
+]

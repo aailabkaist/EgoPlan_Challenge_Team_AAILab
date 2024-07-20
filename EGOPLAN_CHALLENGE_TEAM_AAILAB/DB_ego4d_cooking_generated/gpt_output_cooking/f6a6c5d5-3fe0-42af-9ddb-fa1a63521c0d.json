@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egak0nCIFOpg15cbmm8kzQcm9266",
+    "object": "chat.completion",
+    "created": 1719483870,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Peeling and deseeding tamarind fruits\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Cutting tamarind fruit into smaller pieces\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 1442,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Cutting tamarind fruit with a knife\", \"start_timestamp\": 0, \"stop_timestamp\": 198},\n        {\"secondary_subgoal\": \"Handling objects on the table\", \"start_timestamp\": 198, \"stop_timestamp\": 262},\n        {\"secondary_subgoal\": \"Handling napkin on the table\", \"start_timestamp\": 262, \"stop_timestamp\": 374},\n        {\"secondary_subgoal\": \"Cutting tamarind fruit with a knife\", \"start_timestamp\": 401, \"stop_timestamp\": 1442}\n      ]\n    },\n    {\n      \"subgoal\": \"Cutting tamarind fruit and putting on a finger cot\",\n      \"start_timestamp\": 1442,\n      \"stop_timestamp\": 2294,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Cutting tamarind fruit with a knife\", \"start_timestamp\": 1442, \"stop_timestamp\": 1442},\n        {\"secondary_subgoal\": \"Placing and adjusting accessories\", \"start_timestamp\": 1493, \"stop_timestamp\": 1593},\n        {\"secondary_subgoal\": \"Putting on a finger cot\", \"start_timestamp\": 1609, \"stop_timestamp\": 2294}\n      ]\n    },\n    {\n      \"subgoal\": \"Continuing to cut tamarind fruits\",\n      \"start_timestamp\": 2294,\n      \"stop_timestamp\": 30744,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Cutting and touching tamarind fruit\", \"start_timestamp\": 2294, \"stop_timestamp\": 1442},\n        {\"secondary_subgoal\": \"Cutting tamarind fruit with a knife\", \"start_timestamp\": 3233, \"stop_timestamp\": 30744}\n      ]\n    },\n    {\n      \"subgoal\": \"Peeling tamarind fruits\",\n      \"start_timestamp\": 30744,\n      \"stop_timestamp\": 32769,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Peeling tamarind fruits with hands and knife\", \"start_timestamp\": 30744, \"stop_timestamp\": 32769}\n      ]\n    },\n    {\n      \"subgoal\": \"Removing seeds from the tamarind fruits\",\n      \"start_timestamp\": 32769,\n      \"stop_timestamp\": 53745,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Removing seeds with knife and hands\", \"start_timestamp\": 32769, \"stop_timestamp\": 53745}\n      ]\n    },\n    {\n      \"subgoal\": \"Collecting and sorting tamarind seeds\",\n      \"start_timestamp\": 53745,\n      \"stop_timestamp\": 70353,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Collecting and sorting tamarind seeds\", \"start_timestamp\": 53745, \"stop_timestamp\": 70353}\n      ]\n    },\n    {\n      \"subgoal\": \"Completing secondary tasks and conversations\",\n      \"start_timestamp\": 70353,\n      \"stop_timestamp\": 80151,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Conversations and handling tamarind fruits\", \"start_timestamp\": 70353, \"stop_timestamp\": 80151}\n      ]\n    }\n  ]\n}\n```\nIn this JSON format, the overall goal is established as \"Peeling and deseeding tamarind fruits.\" Each clip represents a series of actions contributing to a subgoal, with timestamps indicating the start and end of these sequences. Within each clip, more fine-grained sub-clips detail actions focusing on secondary subgoals conducted in specific functional zones, ensuring the viewer comprehends the step-by-step progression toward achieving the overall goal."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 5609,
+        "completion_tokens": 841,
+        "total_tokens": 6450
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

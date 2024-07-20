@@ -1,0 +1,562 @@
+[
+    {
+        "task_goal": "Move phone to kitchen table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Moves a hand",
+                "start_frame": 11,
+                "stop_frame": 14
+            },
+            {
+                "narration_text": "#C C Moves a phone o a kitchen table",
+                "start_frame": 14,
+                "stop_frame": 74
+            },
+            {
+                "narration_text": "#C C Opens a fridge",
+                "start_frame": 74,
+                "stop_frame": 112
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve meat from fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Moves a phone o a kitchen table",
+                "start_frame": 14,
+                "stop_frame": 74
+            },
+            {
+                "narration_text": "#C C Opens a fridge",
+                "start_frame": 74,
+                "stop_frame": 112
+            },
+            {
+                "narration_text": "#C C Picks #Unsure",
+                "start_frame": 112,
+                "stop_frame": 207
+            },
+            {
+                "narration_text": "#C C Opens a fridge with the other hand",
+                "start_frame": 207,
+                "stop_frame": 230
+            },
+            {
+                "narration_text": "#C C Opens a fridge crisper",
+                "start_frame": 230,
+                "stop_frame": 279
+            },
+            {
+                "narration_text": "#C C Picks meat",
+                "start_frame": 279,
+                "stop_frame": 394
+            },
+            {
+                "narration_text": "#C C Moves packets",
+                "start_frame": 394,
+                "stop_frame": 433
+            },
+            {
+                "narration_text": "#C C Closes a fridge crisper",
+                "start_frame": 433,
+                "stop_frame": 512
+            },
+            {
+                "narration_text": "#C C Closes a fridge",
+                "start_frame": 512,
+                "stop_frame": 585
+            },
+            {
+                "narration_text": "#C C Puts meat and #Unsure on a kitchen table with hands",
+                "start_frame": 585,
+                "stop_frame": 602
+            }
+        ]
+    },
+    {
+        "task_goal": "Place meat on kitchen table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Closes a fridge",
+                "start_frame": 512,
+                "stop_frame": 585
+            },
+            {
+                "narration_text": "#C C Puts meat and #Unsure on a kitchen table with hands",
+                "start_frame": 585,
+                "stop_frame": 602
+            },
+            {
+                "narration_text": "#C C Walks",
+                "start_frame": 602,
+                "stop_frame": 726
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve packet from cabinet and place on table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Walks",
+                "start_frame": 602,
+                "stop_frame": 726
+            },
+            {
+                "narration_text": "#C C Picks a packet",
+                "start_frame": 726,
+                "stop_frame": 812
+            },
+            {
+                "narration_text": "#C C Reads a packet",
+                "start_frame": 812,
+                "stop_frame": 865
+            },
+            {
+                "narration_text": "#C C Closes a cabinet",
+                "start_frame": 865,
+                "stop_frame": 918
+            },
+            {
+                "narration_text": "#C C Holds a packet with hands",
+                "start_frame": 918,
+                "stop_frame": 960
+            },
+            {
+                "narration_text": "#C C Puts a packet on a kitchen table",
+                "start_frame": 960,
+                "stop_frame": 994
+            },
+            {
+                "narration_text": "#C C Operates a phone",
+                "start_frame": 994,
+                "stop_frame": 1019
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve carrots and onion from fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Walks",
+                "start_frame": 1019,
+                "stop_frame": 1085
+            },
+            {
+                "narration_text": "#C C Opens a fridge",
+                "start_frame": 1085,
+                "stop_frame": 1152
+            },
+            {
+                "narration_text": "#C C Closes a fridge",
+                "start_frame": 1152,
+                "stop_frame": 1189
+            },
+            {
+                "narration_text": "#C C Opens a fridge crisper",
+                "start_frame": 1189,
+                "stop_frame": 1246
+            },
+            {
+                "narration_text": "#C C Pushes a fridge crisper",
+                "start_frame": 1246,
+                "stop_frame": 1276
+            },
+            {
+                "narration_text": "#C C Moves a plastic bag",
+                "start_frame": 1276,
+                "stop_frame": 1358
+            },
+            {
+                "narration_text": "#C C Picks carrots",
+                "start_frame": 1358,
+                "stop_frame": 1374
+            },
+            {
+                "narration_text": "#C C Switches carrots to the other hand",
+                "start_frame": 1374,
+                "stop_frame": 1460
+            },
+            {
+                "narration_text": "#C C Puts carrots on a kitchen table",
+                "start_frame": 1460,
+                "stop_frame": 1519
+            },
+            {
+                "narration_text": "#C C Picks onion",
+                "start_frame": 1519,
+                "stop_frame": 1628
+            },
+            {
+                "narration_text": "#C C Closes a crisper",
+                "start_frame": 1628,
+                "stop_frame": 1713
+            },
+            {
+                "narration_text": "#C C Puts onion on a kitchen table",
+                "start_frame": 1713,
+                "stop_frame": 1737
+            },
+            {
+                "narration_text": "#C C Folds a plastic paper",
+                "start_frame": 1737,
+                "stop_frame": 1783
+            }
+        ]
+    },
+    {
+        "task_goal": "Place carrots and onion on kitchen table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Puts onion on a kitchen table",
+                "start_frame": 1713,
+                "stop_frame": 1737
+            },
+            {
+                "narration_text": "#C C Folds a plastic paper",
+                "start_frame": 1737,
+                "stop_frame": 1783
+            },
+            {
+                "narration_text": "#C C Operates a phone",
+                "start_frame": 1783,
+                "stop_frame": 1837
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve pot from cabinet and place on gas cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Opens a cabinet",
+                "start_frame": 1837,
+                "stop_frame": 1875
+            },
+            {
+                "narration_text": "#C C Holds a cabinet handle with a hand",
+                "start_frame": 1875,
+                "stop_frame": 1907
+            },
+            {
+                "narration_text": "#C C Picks a cooking pot",
+                "start_frame": 1907,
+                "stop_frame": 1982
+            },
+            {
+                "narration_text": "#C C Puts a cooking pot on a gas cooker with hands",
+                "start_frame": 1982,
+                "stop_frame": 2023
+            },
+            {
+                "narration_text": "#C C Picks a cooking pot with hands",
+                "start_frame": 2023,
+                "stop_frame": 2062
+            },
+            {
+                "narration_text": "#C C Puts a cooking pot in a cabinet",
+                "start_frame": 2062,
+                "stop_frame": 2082
+            }
+        ]
+    },
+    {
+        "task_goal": "Place cutting board on kitchen table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Opens a glass cabinet",
+                "start_frame": 2602,
+                "stop_frame": 2616
+            },
+            {
+                "narration_text": "#C C Opens a glass cabinet",
+                "start_frame": 2616,
+                "stop_frame": 2632
+            },
+            {
+                "narration_text": "#C C Picks a cutting board",
+                "start_frame": 2632,
+                "stop_frame": 2682
+            },
+            {
+                "narration_text": "#C C Puts a cutting board on a kitchen table",
+                "start_frame": 2682,
+                "stop_frame": 2713
+            },
+            {
+                "narration_text": "#C C Rotates a tin",
+                "start_frame": 2713,
+                "stop_frame": 2750
+            },
+            {
+                "narration_text": "#C C Picks a tin",
+                "start_frame": 2750,
+                "stop_frame": 2778
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve knife and wooden spatula",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Opens a cabinet",
+                "start_frame": 3377,
+                "stop_frame": 3452
+            },
+            {
+                "narration_text": "#C C Puts a hand on a plate",
+                "start_frame": 3452,
+                "stop_frame": 3485
+            },
+            {
+                "narration_text": "#C C Picks a wooden cooking spatula",
+                "start_frame": 3485,
+                "stop_frame": 3550
+            },
+            {
+                "narration_text": "#C C Picks a knife",
+                "start_frame": 3550,
+                "stop_frame": 3596
+            },
+            {
+                "narration_text": "#C C Puts down a wooden spatula",
+                "start_frame": 3596,
+                "stop_frame": 3619
+            },
+            {
+                "narration_text": "#C C Switches a knife to the other hand",
+                "start_frame": 3619,
+                "stop_frame": 3663
+            },
+            {
+                "narration_text": "#C C Closes a cabinet",
+                "start_frame": 3663,
+                "stop_frame": 3678
+            },
+            {
+                "narration_text": "#C C Closes a cabinet",
+                "start_frame": 3678,
+                "stop_frame": 3706
+            }
+        ]
+    },
+    {
+        "task_goal": "Place onion pieces in crisper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Walks",
+                "start_frame": 5347,
+                "stop_frame": 5396
+            },
+            {
+                "narration_text": "#C C Opens a crisper",
+                "start_frame": 5396,
+                "stop_frame": 5441
+            },
+            {
+                "narration_text": "#C C Closes a crisper drawer",
+                "start_frame": 5441,
+                "stop_frame": 5442
+            },
+            {
+                "narration_text": "#C C Puts a carrot in a crisper",
+                "start_frame": 5442,
+                "stop_frame": 5500
+            },
+            {
+                "narration_text": "#C C Closes a crisper",
+                "start_frame": 5500,
+                "stop_frame": 5524
+            },
+            {
+                "narration_text": "#C C Walks",
+                "start_frame": 5524,
+                "stop_frame": 5552
+            },
+            {
+                "narration_text": "#C C Picks a cling film cutter box",
+                "start_frame": 5552,
+                "stop_frame": 5587
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut and wrap carrot pieces",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Moves a piece of carrot",
+                "start_frame": 5646,
+                "stop_frame": 5652
+            },
+            {
+                "narration_text": "#C C Puts a piece of onion on a kitchen table",
+                "start_frame": 5652,
+                "stop_frame": 5654
+            },
+            {
+                "narration_text": "#C C Moves a piece carrot",
+                "start_frame": 5654,
+                "stop_frame": 5701
+            },
+            {
+                "narration_text": "#C C Moves a piece of carrot with the other hand",
+                "start_frame": 5701,
+                "stop_frame": 5701
+            },
+            {
+                "narration_text": "#C C Picks a knife",
+                "start_frame": 5701,
+                "stop_frame": 5772
+            },
+            {
+                "narration_text": "#C C Cuts a piece of carrot",
+                "start_frame": 5772,
+                "stop_frame": 5807
+            },
+            {
+                "narration_text": "#C C Puts a knife on a cutting board",
+                "start_frame": 5807,
+                "stop_frame": 5826
+            },
+            {
+                "narration_text": "#C C Picks a piece of carrot",
+                "start_frame": 5826,
+                "stop_frame": 5838
+            },
+            {
+                "narration_text": "#C C Puts a piece of carrot in a sink strainer",
+                "start_frame": 5838,
+                "stop_frame": 5866
+            },
+            {
+                "narration_text": "#C C Switches a piece of carrot to the other hand",
+                "start_frame": 5866,
+                "stop_frame": 5892
+            },
+            {
+                "narration_text": "#C C Opens a tap water",
+                "start_frame": 5892,
+                "stop_frame": 5914
+            },
+            {
+                "narration_text": "#C C Rinses a piece of carrot with hands",
+                "start_frame": 5914,
+                "stop_frame": 6004
+            },
+            {
+                "narration_text": "#C C Closes a tap of water",
+                "start_frame": 6004,
+                "stop_frame": 6016
+            },
+            {
+                "narration_text": "#C C Shakes a piece of carrot",
+                "start_frame": 6016,
+                "stop_frame": 6083
+            },
+            {
+                "narration_text": "#C C Cuts a paper towel",
+                "start_frame": 6083,
+                "stop_frame": 6123
+            },
+            {
+                "narration_text": "#C C Wipes a piece of carrot",
+                "start_frame": 6123,
+                "stop_frame": 6135
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse carrot pieces",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Puts a piece of carrot on a kitchen table",
+                "start_frame": 6135,
+                "stop_frame": 6158
+            },
+            {
+                "narration_text": "#C C Picks a piece of onion",
+                "start_frame": 6158,
+                "stop_frame": 6176
+            },
+            {
+                "narration_text": "#C C Puts a piece of onion on the other hand",
+                "start_frame": 6176,
+                "stop_frame": 6220
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean and dry cutting board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Picks a knife",
+                "start_frame": 7757,
+                "stop_frame": 7822
+            },
+            {
+                "narration_text": "#C C Cuts a piece of onion",
+                "start_frame": 7822,
+                "stop_frame": 7843
+            },
+            {
+                "narration_text": "#C C Moves a piece of onion with a knife",
+                "start_frame": 7843,
+                "stop_frame": 7864
+            },
+            {
+                "narration_text": "#C C Moves an onion",
+                "start_frame": 7864,
+                "stop_frame": 7875
+            },
+            {
+                "narration_text": "#C C Puts a knife on a cutting board",
+                "start_frame": 7875,
+                "stop_frame": 7891
+            },
+            {
+                "narration_text": "#C C Picks piece of onions with hands",
+                "start_frame": 7891,
+                "stop_frame": 7901
+            },
+            {
+                "narration_text": "#C C Puts a piece of onion in a sink",
+                "start_frame": 7901,
+                "stop_frame": 7925
+            },
+            {
+                "narration_text": "#C C Puts a piece of onion in a sink",
+                "start_frame": 7925,
+                "stop_frame": 7948
+            },
+            {
+                "narration_text": "#C C Picks an onion",
+                "start_frame": 7948,
+                "stop_frame": 7952
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut meat into pieces and place in sieve bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Picks a knife",
+                "start_frame": 19812,
+                "stop_frame": 19832
+            },
+            {
+                "narration_text": "#C C Puts a hand on meta",
+                "start_frame": 19832,
+                "stop_frame": 19866
+            },
+            {
+                "narration_text": "#c C Cuts meat into pieces",
+                "start_frame": 19866,
+                "stop_frame": 20281
+            },
+            {
+                "narration_text": "#C C Moves pieces of meat on a cutting board",
+                "start_frame": 20281,
+                "stop_frame": 20307
+            }
+        ]
+    }
+]

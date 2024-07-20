@@ -1,0 +1,93 @@
+{
+    "overall_goal": "Prepare a meal involving rice and vegetables",
+    "clips": [
+        {
+            "subgoal": "Prepare rice",
+            "start_timestamp": 178,
+            "stop_timestamp": 3156,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Get the pot from the rice cooker",
+                    "start_timestamp": 215,
+                    "stop_timestamp": 334
+                },
+                {
+                    "secondary_subgoal": "Prep the rice",
+                    "start_timestamp": 334,
+                    "stop_timestamp": 1221
+                },
+                {
+                    "secondary_subgoal": "Wash the rice",
+                    "start_timestamp": 1221,
+                    "stop_timestamp": 2503
+                },
+                {
+                    "secondary_subgoal": "Put the pot back into the rice cooker and start cooking",
+                    "start_timestamp": 2503,
+                    "stop_timestamp": 3003
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cabbage",
+            "start_timestamp": 3156,
+            "stop_timestamp": 21198,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Get cabbage from fridge",
+                    "start_timestamp": 3156,
+                    "stop_timestamp": 3659
+                },
+                {
+                    "secondary_subgoal": "Wash and chop the cabbage",
+                    "start_timestamp": 3659,
+                    "stop_timestamp": 10627
+                },
+                {
+                    "secondary_subgoal": "Store the chopped cabbage",
+                    "start_timestamp": 10627,
+                    "stop_timestamp": 11122
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare daikon radish and onion",
+            "start_timestamp": 11122,
+            "stop_timestamp": 16471,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Get daikon radish and onion from drawer",
+                    "start_timestamp": 11122,
+                    "stop_timestamp": 11621
+                },
+                {
+                    "secondary_subgoal": "Cut and prepare daikon radish",
+                    "start_timestamp": 11621,
+                    "stop_timestamp": 14735
+                },
+                {
+                    "secondary_subgoal": "Cut and prepare onion",
+                    "start_timestamp": 14735,
+                    "stop_timestamp": 16016
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish vegetable preparation",
+            "start_timestamp": 16016,
+            "stop_timestamp": 21298,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare remaining vegetables",
+                    "start_timestamp": 16016,
+                    "stop_timestamp": 19518
+                },
+                {
+                    "secondary_subgoal": "Chop remaining vegetables and clean up",
+                    "start_timestamp": 19518,
+                    "stop_timestamp": 21298
+                }
+            ]
+        }
+    ]
+}

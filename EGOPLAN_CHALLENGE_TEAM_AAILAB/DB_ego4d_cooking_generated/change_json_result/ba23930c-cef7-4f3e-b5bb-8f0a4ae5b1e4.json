@@ -1,0 +1,163 @@
+{
+    "overall_goal": "Prepare and cook food while maintaining cleanliness in the kitchen",
+    "clips": [
+        {
+            "subgoal": "Set up the cooking workspace",
+            "start_timestamp": 0,
+            "stop_timestamp": 769,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Operate mobile phone and place it on the counter",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 146
+                },
+                {
+                    "secondary_subgoal": "Retrieve and place chopping boards on the counter",
+                    "start_timestamp": 146,
+                    "stop_timestamp": 452
+                },
+                {
+                    "secondary_subgoal": "Select and arrange knives",
+                    "start_timestamp": 452,
+                    "stop_timestamp": 769
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare ingredients for cooking",
+            "start_timestamp": 769,
+            "stop_timestamp": 4985,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Knife sharpening and initial setup",
+                    "start_timestamp": 769,
+                    "stop_timestamp": 1341
+                },
+                {
+                    "secondary_subgoal": "Gather and wash vegetables (eggplant, chilis)",
+                    "start_timestamp": 1341,
+                    "stop_timestamp": 5404
+                }
+            ]
+        },
+        {
+            "subgoal": "Processing and preparing vegetables",
+            "start_timestamp": 5404,
+            "stop_timestamp": 10633,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and peel garlic and eggplant",
+                    "start_timestamp": 5404,
+                    "stop_timestamp": 8157
+                },
+                {
+                    "secondary_subgoal": "Collect additional ingredients, prepare, and set aside",
+                    "start_timestamp": 8157,
+                    "stop_timestamp": 10633
+                }
+            ]
+        },
+        {
+            "subgoal": "Processing pepper",
+            "start_timestamp": 10633,
+            "stop_timestamp": 15031,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash, dry, and prepare pepper",
+                    "start_timestamp": 10633,
+                    "stop_timestamp": 14400
+                },
+                {
+                    "secondary_subgoal": "Pack and store pepper",
+                    "start_timestamp": 14400,
+                    "stop_timestamp": 15031
+                }
+            ]
+        },
+        {
+            "subgoal": "Manage ginger and other ingredients",
+            "start_timestamp": 15031,
+            "stop_timestamp": 24556,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel and prepare ginger",
+                    "start_timestamp": 15031,
+                    "stop_timestamp": 23953
+                },
+                {
+                    "secondary_subgoal": "Cook, organize, and clean up the kitchen",
+                    "start_timestamp": 23953,
+                    "stop_timestamp": 24556
+                }
+            ]
+        },
+        {
+            "subgoal": "Complete the cooking process",
+            "start_timestamp": 24556,
+            "stop_timestamp": 36311,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cook food and clean up the utensils",
+                    "start_timestamp": 24556,
+                    "stop_timestamp": 36160
+                },
+                {
+                    "secondary_subgoal": "Prepare and serve plates",
+                    "start_timestamp": 36160,
+                    "stop_timestamp": 36311
+                }
+            ]
+        },
+        {
+            "subgoal": "Finalize ingredient preparation",
+            "start_timestamp": 36311,
+            "stop_timestamp": 52000,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Final preparation of ginger and garlic (chop and peel)",
+                    "start_timestamp": 36311,
+                    "stop_timestamp": 50000
+                },
+                {
+                    "secondary_subgoal": "Wash hands and clean work area",
+                    "start_timestamp": 50000,
+                    "stop_timestamp": 52000
+                }
+            ]
+        },
+        {
+            "subgoal": "Pack and clean up the kitchen",
+            "start_timestamp": 52000,
+            "stop_timestamp": 62900,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean utensils and arrange workspace",
+                    "start_timestamp": 52000,
+                    "stop_timestamp": 59000
+                },
+                {
+                    "secondary_subgoal": "Store spices and ingredients in the drawers",
+                    "start_timestamp": 59000,
+                    "stop_timestamp": 62900
+                }
+            ]
+        },
+        {
+            "subgoal": "Set the dining table and finalize meal",
+            "start_timestamp": 62900,
+            "stop_timestamp": 92681,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare for serving meal, clean space",
+                    "start_timestamp": 62900,
+                    "stop_timestamp": 72675
+                },
+                {
+                    "secondary_subgoal": "Complete final meal preparation and set table",
+                    "start_timestamp": 72675,
+                    "stop_timestamp": 92681
+                }
+            ]
+        }
+    ]
+}

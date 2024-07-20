@@ -1,0 +1,122 @@
+{
+    "overall_goal": "Decorate wheat grains with white cream and paint.",
+    "clips": [
+        {
+            "subgoal": "Pick up a stick to start decorating",
+            "start_timestamp": 0,
+            "stop_timestamp": 149,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look at the wheat grains",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 54
+                },
+                {
+                    "secondary_subgoal": "Pick up a stick",
+                    "start_timestamp": 54,
+                    "stop_timestamp": 149
+                }
+            ]
+        },
+        {
+            "subgoal": "Decorate the wheat grains with white cream",
+            "start_timestamp": 149,
+            "stop_timestamp": 6300,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Decorate wheat grains with cream and tighten polythene",
+                    "start_timestamp": 149,
+                    "stop_timestamp": 6330
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cream and apply on wheat grains",
+            "start_timestamp": 6330,
+            "stop_timestamp": 20347,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put down the stick and open polythene",
+                    "start_timestamp": 6330,
+                    "stop_timestamp": 6493
+                },
+                {
+                    "secondary_subgoal": "Tighten and pick decorating stick",
+                    "start_timestamp": 6493,
+                    "stop_timestamp": 6728
+                },
+                {
+                    "secondary_subgoal": "Wipe excess cream and start decorating",
+                    "start_timestamp": 6728,
+                    "stop_timestamp": 9498
+                },
+                {
+                    "secondary_subgoal": "Shake the cream paper and squeeze cream on the table",
+                    "start_timestamp": 9498,
+                    "stop_timestamp": 12775
+                },
+                {
+                    "secondary_subgoal": "Dips stick in water and arrange paper",
+                    "start_timestamp": 12775,
+                    "stop_timestamp": 13396
+                },
+                {
+                    "secondary_subgoal": "Continue preparing and squeezing cream on the table",
+                    "start_timestamp": 13396,
+                    "stop_timestamp": 20347
+                }
+            ]
+        },
+        {
+            "subgoal": "Apply cream and arrange polythene",
+            "start_timestamp": 20347,
+            "stop_timestamp": 24820,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Apply cream, look around and twist polythene paper",
+                    "start_timestamp": 20347,
+                    "stop_timestamp": 24674
+                },
+                {
+                    "secondary_subgoal": "Talk, twist polythene bag and apply paint for decoration",
+                    "start_timestamp": 24674,
+                    "stop_timestamp": 24820
+                }
+            ]
+        },
+        {
+            "subgoal": "Make decorations with paint",
+            "start_timestamp": 24820,
+            "stop_timestamp": 35316,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Make decoration and roll polythene paper",
+                    "start_timestamp": 24820,
+                    "stop_timestamp": 32694
+                },
+                {
+                    "secondary_subgoal": "Look around, rotate paper, and squeeze",
+                    "start_timestamp": 32694,
+                    "stop_timestamp": 35316
+                }
+            ]
+        },
+        {
+            "subgoal": "Finalize decoration and walk around",
+            "start_timestamp": 35316,
+            "stop_timestamp": 36901,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look around, rotate paper, and squeeze",
+                    "start_timestamp": 35316,
+                    "stop_timestamp": 36268
+                },
+                {
+                    "secondary_subgoal": "Walk around and drop item",
+                    "start_timestamp": 36268,
+                    "stop_timestamp": 36901
+                }
+            ]
+        }
+    ]
+}

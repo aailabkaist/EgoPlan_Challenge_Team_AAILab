@@ -1,0 +1,1042 @@
+[
+    {
+        "task_goal": "Prepare initial ingredients and setup",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C is in the kitchen",
+                "start_frame": 1,
+                "stop_frame": 40
+            },
+            {
+                "narration_text": "#C C pick the cooking oil in a bowl",
+                "start_frame": 40,
+                "stop_frame": 75
+            },
+            {
+                "narration_text": "#C C pours the oil on the cooking pot",
+                "start_frame": 75,
+                "stop_frame": 185
+            },
+            {
+                "narration_text": "#C C puts the bowl down",
+                "start_frame": 185,
+                "stop_frame": 267
+            },
+            {
+                "narration_text": "#C C looks at the recipe",
+                "start_frame": 267,
+                "stop_frame": 404
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick cooking oil",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C is in the kitchen",
+                "start_frame": 1,
+                "stop_frame": 40
+            },
+            {
+                "narration_text": "#C C pick the cooking oil in a bowl",
+                "start_frame": 40,
+                "stop_frame": 75
+            },
+            {
+                "narration_text": "#C C pours the oil on the cooking pot",
+                "start_frame": 75,
+                "stop_frame": 185
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour oil into cooking pot and put bowl down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pick the cooking oil in a bowl",
+                "start_frame": 40,
+                "stop_frame": 75
+            },
+            {
+                "narration_text": "#C C pours the oil on the cooking pot",
+                "start_frame": 75,
+                "stop_frame": 185
+            },
+            {
+                "narration_text": "#C C puts the bowl down",
+                "start_frame": 185,
+                "stop_frame": 267
+            }
+        ]
+    },
+    {
+        "task_goal": "Look at the recipe",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pours the oil on the cooking pot",
+                "start_frame": 75,
+                "stop_frame": 185
+            },
+            {
+                "narration_text": "#C C puts the bowl down",
+                "start_frame": 185,
+                "stop_frame": 267
+            },
+            {
+                "narration_text": "#C C looks at the recipe",
+                "start_frame": 267,
+                "stop_frame": 404
+            }
+        ]
+    },
+    {
+        "task_goal": "Gather ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the bowl down",
+                "start_frame": 185,
+                "stop_frame": 267
+            },
+            {
+                "narration_text": "#C C looks at the recipe",
+                "start_frame": 267,
+                "stop_frame": 404
+            },
+            {
+                "narration_text": "#C C puts the meat on the table",
+                "start_frame": 404,
+                "stop_frame": 479
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 479,
+                "stop_frame": 590
+            },
+            {
+                "narration_text": "#C C picks two eggs",
+                "start_frame": 590,
+                "stop_frame": 725
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 725,
+                "stop_frame": 742
+            },
+            {
+                "narration_text": "#C C walks to the sink",
+                "start_frame": 742,
+                "stop_frame": 809
+            },
+            {
+                "narration_text": "#C C holds the recipe in the hands",
+                "start_frame": 809,
+                "stop_frame": 956
+            },
+            {
+                "narration_text": "#C C returns the recipe",
+                "start_frame": 956,
+                "stop_frame": 1062
+            },
+            {
+                "narration_text": "#C C walks to the oven",
+                "start_frame": 1062,
+                "stop_frame": 1105
+            }
+        ]
+    },
+    {
+        "task_goal": "Place meat on table and open fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks at the recipe",
+                "start_frame": 267,
+                "stop_frame": 404
+            },
+            {
+                "narration_text": "#C C puts the meat on the table",
+                "start_frame": 404,
+                "stop_frame": 479
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 479,
+                "stop_frame": 590
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick two eggs and close fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 479,
+                "stop_frame": 590
+            },
+            {
+                "narration_text": "#C C picks two eggs",
+                "start_frame": 590,
+                "stop_frame": 725
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 725,
+                "stop_frame": 742
+            },
+            {
+                "narration_text": "#C C walks to the sink",
+                "start_frame": 742,
+                "stop_frame": 809
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk to sink and hold recipe",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 725,
+                "stop_frame": 742
+            },
+            {
+                "narration_text": "#C C walks to the sink",
+                "start_frame": 742,
+                "stop_frame": 809
+            },
+            {
+                "narration_text": "#C C holds the recipe in the hands",
+                "start_frame": 809,
+                "stop_frame": 956
+            }
+        ]
+    },
+    {
+        "task_goal": "Return recipe and walk to oven",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the recipe in the hands",
+                "start_frame": 809,
+                "stop_frame": 956
+            },
+            {
+                "narration_text": "#C C returns the recipe",
+                "start_frame": 956,
+                "stop_frame": 1062
+            },
+            {
+                "narration_text": "#C C walks to the oven",
+                "start_frame": 1062,
+                "stop_frame": 1105
+            }
+        ]
+    },
+    {
+        "task_goal": "Start cooking",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks to the oven",
+                "start_frame": 1062,
+                "stop_frame": 1105
+            },
+            {
+                "narration_text": "#C C lifts the cooking pot gently",
+                "start_frame": 1105,
+                "stop_frame": 1232
+            },
+            {
+                "narration_text": "#C C walks around the kitchen",
+                "start_frame": 1232,
+                "stop_frame": 1669
+            },
+            {
+                "narration_text": "#C C regulates the oven",
+                "start_frame": 1669,
+                "stop_frame": 1956
+            },
+            {
+                "narration_text": "#C C moves the bowl on the kitchen surface",
+                "start_frame": 1956,
+                "stop_frame": 2180
+            }
+        ]
+    },
+    {
+        "task_goal": "Lift cooking pot and walk around kitchen",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks to the oven",
+                "start_frame": 1062,
+                "stop_frame": 1105
+            },
+            {
+                "narration_text": "#C C lifts the cooking pot gently",
+                "start_frame": 1105,
+                "stop_frame": 1232
+            },
+            {
+                "narration_text": "#C C walks around the kitchen",
+                "start_frame": 1232,
+                "stop_frame": 1669
+            }
+        ]
+    },
+    {
+        "task_goal": "Regulate oven",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around the kitchen",
+                "start_frame": 1232,
+                "stop_frame": 1669
+            },
+            {
+                "narration_text": "#C C regulates the oven",
+                "start_frame": 1669,
+                "stop_frame": 1956
+            },
+            {
+                "narration_text": "#C C moves the bowl on the kitchen surface",
+                "start_frame": 1956,
+                "stop_frame": 2180
+            }
+        ]
+    },
+    {
+        "task_goal": "Organize kitchen space",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves the bowl on the kitchen surface",
+                "start_frame": 1956,
+                "stop_frame": 2180
+            },
+            {
+                "narration_text": "#C C opens the microwave",
+                "start_frame": 2180,
+                "stop_frame": 2207
+            },
+            {
+                "narration_text": "#C C closes the microwave",
+                "start_frame": 2207,
+                "stop_frame": 2261
+            },
+            {
+                "narration_text": "#C C walks around the kitchen",
+                "start_frame": 2261,
+                "stop_frame": 2484
+            },
+            {
+                "narration_text": "#C C puts the eggs on the kitchen surface",
+                "start_frame": 2484,
+                "stop_frame": 2538
+            },
+            {
+                "narration_text": "#C C opens the shelve",
+                "start_frame": 2538,
+                "stop_frame": 2591
+            },
+            {
+                "narration_text": "#C C picks a bowl",
+                "start_frame": 2591,
+                "stop_frame": 2631
+            },
+            {
+                "narration_text": "#C C closes the shelve",
+                "start_frame": 2631,
+                "stop_frame": 2676
+            },
+            {
+                "narration_text": "#C C puts the bowl on the kitchen surface",
+                "start_frame": 2676,
+                "stop_frame": 2737
+            },
+            {
+                "narration_text": "#C C puts an egg on the surface",
+                "start_frame": 2737,
+                "stop_frame": 2775
+            }
+        ]
+    },
+    {
+        "task_goal": "Move bowl and open microwave",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves the bowl on the kitchen surface",
+                "start_frame": 1956,
+                "stop_frame": 2180
+            },
+            {
+                "narration_text": "#C C opens the microwave",
+                "start_frame": 2180,
+                "stop_frame": 2207
+            },
+            {
+                "narration_text": "#C C closes the microwave",
+                "start_frame": 2207,
+                "stop_frame": 2261
+            }
+        ]
+    },
+    {
+        "task_goal": "Put eggs on kitchen surface",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around the kitchen",
+                "start_frame": 2261,
+                "stop_frame": 2484
+            },
+            {
+                "narration_text": "#C C puts the eggs on the kitchen surface",
+                "start_frame": 2484,
+                "stop_frame": 2538
+            },
+            {
+                "narration_text": "#C C opens the shelve",
+                "start_frame": 2538,
+                "stop_frame": 2591
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and place bowl on kitchen surface",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a bowl",
+                "start_frame": 2591,
+                "stop_frame": 2631
+            },
+            {
+                "narration_text": "#C C closes the shelve",
+                "start_frame": 2631,
+                "stop_frame": 2676
+            },
+            {
+                "narration_text": "#C C puts the bowl on the kitchen surface",
+                "start_frame": 2676,
+                "stop_frame": 2737
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare meat and onions",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the meat",
+                "start_frame": 2775,
+                "stop_frame": 2868
+            },
+            {
+                "narration_text": "#C C removes the cover paper",
+                "start_frame": 2868,
+                "stop_frame": 2972
+            },
+            {
+                "narration_text": "#C C puts the paper on the surface",
+                "start_frame": 2972,
+                "stop_frame": 3052
+            },
+            {
+                "narration_text": "#C C picks the chopsticks",
+                "start_frame": 3052,
+                "stop_frame": 3210
+            },
+            {
+                "narration_text": "#C C pours the meat into the cooking pot",
+                "start_frame": 3210,
+                "stop_frame": 3344
+            },
+            {
+                "narration_text": "#C C puts the plate on the surface",
+                "start_frame": 3344,
+                "stop_frame": 3396
+            },
+            {
+                "narration_text": "#C C picks the chopped onions on the chop board",
+                "start_frame": 3396,
+                "stop_frame": 3464
+            },
+            {
+                "narration_text": "#C C puts the onions in the meat",
+                "start_frame": 3464,
+                "stop_frame": 3660
+            },
+            {
+                "narration_text": "#C C puts the chop board on the surface",
+                "start_frame": 3660,
+                "stop_frame": 3809
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick meat and remove cover paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the meat",
+                "start_frame": 2775,
+                "stop_frame": 2868
+            },
+            {
+                "narration_text": "#C C removes the cover paper",
+                "start_frame": 2868,
+                "stop_frame": 2972
+            },
+            {
+                "narration_text": "#C C puts the paper on the surface",
+                "start_frame": 2972,
+                "stop_frame": 3052
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick chopsticks and pour meat into cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the paper on the surface",
+                "start_frame": 2972,
+                "stop_frame": 3052
+            },
+            {
+                "narration_text": "#C C picks the chopsticks",
+                "start_frame": 3052,
+                "stop_frame": 3210
+            },
+            {
+                "narration_text": "#C C pours the meat into the cooking pot",
+                "start_frame": 3210,
+                "stop_frame": 3344
+            },
+            {
+                "narration_text": "#C C puts the plate on the surface",
+                "start_frame": 3344,
+                "stop_frame": 3396
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick chopped onions and place into meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the chopped onions on the chop board",
+                "start_frame": 3396,
+                "stop_frame": 3464
+            },
+            {
+                "narration_text": "#C C puts the onions in the meat",
+                "start_frame": 3464,
+                "stop_frame": 3660
+            },
+            {
+                "narration_text": "#C C puts the chop board on the surface",
+                "start_frame": 3660,
+                "stop_frame": 3809
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix and cook ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C regulates the oven",
+                "start_frame": 3809,
+                "stop_frame": 3937
+            },
+            {
+                "narration_text": "#C C mixes the meat and the onions",
+                "start_frame": 3937,
+                "stop_frame": 4313
+            },
+            {
+                "narration_text": "#C C puts the chopsticks on the kitchen surface",
+                "start_frame": 4313,
+                "stop_frame": 4398
+            },
+            {
+                "narration_text": "#C C reads the recipe",
+                "start_frame": 4398,
+                "stop_frame": 4636
+            },
+            {
+                "narration_text": "#C C picks an egg",
+                "start_frame": 4636,
+                "stop_frame": 4668
+            },
+            {
+                "narration_text": "#C C puts the down",
+                "start_frame": 4668,
+                "stop_frame": 4709
+            },
+            {
+                "narration_text": "#C C breaks the egg on the kitchen surface",
+                "start_frame": 4709,
+                "stop_frame": 4814
+            },
+            {
+                "narration_text": "#C C pours the egg in the bowl",
+                "start_frame": 4814,
+                "stop_frame": 4942
+            },
+            {
+                "narration_text": "#C C puts the egg shell in the dust bin",
+                "start_frame": 4942,
+                "stop_frame": 4983
+            },
+            {
+                "narration_text": "#C C picks an egg",
+                "start_frame": 4983,
+                "stop_frame": 5019
+            },
+            {
+                "narration_text": "#C C breaks the egg on the kitchen surface",
+                "start_frame": 5019,
+                "stop_frame": 5112
+            },
+            {
+                "narration_text": "#C C pours the egg in the bowl",
+                "start_frame": 5112,
+                "stop_frame": 5240
+            },
+            {
+                "narration_text": "#C C puts the egg shell in the dust bin",
+                "start_frame": 5240,
+                "stop_frame": 5301
+            },
+            {
+                "narration_text": "#C C picks the chopsticks",
+                "start_frame": 5301,
+                "stop_frame": 5342
+            },
+            {
+                "narration_text": "#C C stirs the eggs in the bowl",
+                "start_frame": 5342,
+                "stop_frame": 5854
+            },
+            {
+                "narration_text": "#C C turns the meat",
+                "start_frame": 5854,
+                "stop_frame": 6108
+            },
+            {
+                "narration_text": "#C C regulates the heat",
+                "start_frame": 6108,
+                "stop_frame": 6271
+            },
+            {
+                "narration_text": "#C C turns the meat with chopsticks",
+                "start_frame": 6271,
+                "stop_frame": 7162
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix meat and onions and read recipe",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C regulates the oven",
+                "start_frame": 3809,
+                "stop_frame": 3937
+            },
+            {
+                "narration_text": "#C C mixes the meat and the onions",
+                "start_frame": 3937,
+                "stop_frame": 4313
+            },
+            {
+                "narration_text": "#C C puts the chopsticks on the kitchen surface",
+                "start_frame": 4313,
+                "stop_frame": 4398
+            },
+            {
+                "narration_text": "#C C reads the recipe",
+                "start_frame": 4398,
+                "stop_frame": 4636
+            },
+            {
+                "narration_text": "#C C picks an egg",
+                "start_frame": 4636,
+                "stop_frame": 4668
+            }
+        ]
+    },
+    {
+        "task_goal": "Break eggs and pour into bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the down",
+                "start_frame": 4668,
+                "stop_frame": 4709
+            },
+            {
+                "narration_text": "#C C breaks the egg on the kitchen surface",
+                "start_frame": 4709,
+                "stop_frame": 4814
+            },
+            {
+                "narration_text": "#C C pours the egg in the bowl",
+                "start_frame": 4814,
+                "stop_frame": 4942
+            },
+            {
+                "narration_text": "#C C puts the egg shell in the dust bin",
+                "start_frame": 4942,
+                "stop_frame": 4983
+            },
+            {
+                "narration_text": "#C C picks an egg",
+                "start_frame": 4983,
+                "stop_frame": 5019
+            },
+            {
+                "narration_text": "#C C breaks the egg on the kitchen surface",
+                "start_frame": 5019,
+                "stop_frame": 5112
+            },
+            {
+                "narration_text": "#C C pours the egg in the bowl",
+                "start_frame": 5112,
+                "stop_frame": 5240
+            },
+            {
+                "narration_text": "#C C puts the egg shell in the dust bin",
+                "start_frame": 5240,
+                "stop_frame": 5301
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir eggs in bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the chopsticks",
+                "start_frame": 5301,
+                "stop_frame": 5342
+            },
+            {
+                "narration_text": "#C C stirs the eggs in the bowl",
+                "start_frame": 5342,
+                "stop_frame": 5854
+            },
+            {
+                "narration_text": "#C C turns the meat",
+                "start_frame": 5854,
+                "stop_frame": 6108
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn meat and regulate heat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns the meat",
+                "start_frame": 5854,
+                "stop_frame": 6108
+            },
+            {
+                "narration_text": "#C C regulates the heat",
+                "start_frame": 6108,
+                "stop_frame": 6271
+            },
+            {
+                "narration_text": "#C C turns the meat with chopsticks",
+                "start_frame": 6271,
+                "stop_frame": 7162
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn meat with chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns the meat with chopsticks",
+                "start_frame": 6271,
+                "stop_frame": 7162
+            },
+            {
+                "narration_text": "#C C holds the chopsticks with left hand",
+                "start_frame": 7162,
+                "stop_frame": 7221
+            },
+            {
+                "narration_text": "#C C regulates the heat",
+                "start_frame": 7221,
+                "stop_frame": 7322
+            }
+        ]
+    },
+    {
+        "task_goal": "Put salt in food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the salt in the food",
+                "start_frame": 10213,
+                "stop_frame": 10341
+            },
+            {
+                "narration_text": "#C C puts the salt on the table",
+                "start_frame": 10341,
+                "stop_frame": 10352
+            },
+            {
+                "narration_text": "#C C picks the chopsticks",
+                "start_frame": 10352,
+                "stop_frame": 10399
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix food and add eggs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C mixes the food",
+                "start_frame": 10399,
+                "stop_frame": 11275
+            },
+            {
+                "narration_text": "#C C picks the eggs",
+                "start_frame": 11275,
+                "stop_frame": 11497
+            },
+            {
+                "narration_text": "#C C regulates the heat",
+                "start_frame": 11497,
+                "stop_frame": 11678
+            },
+            {
+                "narration_text": "#C C pours the eggs in the meat",
+                "start_frame": 11678,
+                "stop_frame": 11890
+            },
+            {
+                "narration_text": "#C C mixes the food",
+                "start_frame": 11890,
+                "stop_frame": 11914
+            }
+        ]
+    },
+    {
+        "task_goal": "Read and return recipe",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the bowl on the kitchen surface",
+                "start_frame": 11914,
+                "stop_frame": 12024
+            },
+            {
+                "narration_text": "#C C holds the recipe",
+                "start_frame": 12024,
+                "stop_frame": 12086
+            },
+            {
+                "narration_text": "#C C reads the recipe",
+                "start_frame": 12086,
+                "stop_frame": 12294
+            },
+            {
+                "narration_text": "#C C returns the recipe",
+                "start_frame": 12294,
+                "stop_frame": 12351
+            },
+            {
+                "narration_text": "#C C picks a lid",
+                "start_frame": 12351,
+                "stop_frame": 12375
+            }
+        ]
+    },
+    {
+        "task_goal": "Put lid on pot and handle chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the chopsticks on the bowl",
+                "start_frame": 12518,
+                "stop_frame": 12656
+            },
+            {
+                "narration_text": "#C C picks the chopsticks and the bowl",
+                "start_frame": 12656,
+                "stop_frame": 12688
+            },
+            {
+                "narration_text": "#C C puts the chop sticks down",
+                "start_frame": 12688,
+                "stop_frame": 12691
+            }
+        ]
+    },
+    {
+        "task_goal": "Put bowls in sink and organize kitchen tools",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the bowls together",
+                "start_frame": 12691,
+                "stop_frame": 12727
+            },
+            {
+                "narration_text": "#C C carries the bowls to the sink",
+                "start_frame": 12727,
+                "stop_frame": 12761
+            },
+            {
+                "narration_text": "#C C puts the bowls in the sink",
+                "start_frame": 12761,
+                "stop_frame": 12804
+            },
+            {
+                "narration_text": "#C C picks another bowl",
+                "start_frame": 12804,
+                "stop_frame": 12842
+            },
+            {
+                "narration_text": "#C C puts the dish in the sink",
+                "start_frame": 12842,
+                "stop_frame": 12886
+            },
+            {
+                "narration_text": "#C C picks a nylon paper from the surface",
+                "start_frame": 12886,
+                "stop_frame": 12926
+            },
+            {
+                "narration_text": "#C C picks a sieve",
+                "start_frame": 12926,
+                "stop_frame": 13086
+            },
+            {
+                "narration_text": "#C C puts the sieves together",
+                "start_frame": 13086,
+                "stop_frame": 13116
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut leaf",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cuts the leaf",
+                "start_frame": 13359,
+                "stop_frame": 13860
+            },
+            {
+                "narration_text": "#C C puts the knife down",
+                "start_frame": 13860,
+                "stop_frame": 14008
+            },
+            {
+                "narration_text": "#C C picks the leaf",
+                "start_frame": 14008,
+                "stop_frame": 14087
+            }
+        ]
+    },
+    {
+        "task_goal": "Add leaf to pot and mix",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the leaf",
+                "start_frame": 14008,
+                "stop_frame": 14087
+            },
+            {
+                "narration_text": "#C C opens the lid",
+                "start_frame": 14087,
+                "stop_frame": 14095
+            },
+            {
+                "narration_text": "#C C puts the leaf in the food",
+                "start_frame": 14095,
+                "stop_frame": 14206
+            },
+            {
+                "narration_text": "#C C picks the chopstick",
+                "start_frame": 14206,
+                "stop_frame": 14258
+            },
+            {
+                "narration_text": "#C C turns the leaf in the pot",
+                "start_frame": 14258,
+                "stop_frame": 14313
+            },
+            {
+                "narration_text": "#C C put the lid on the pot",
+                "start_frame": 14313,
+                "stop_frame": 14395
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve the meal",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C gives the person O the bowls",
+                "start_frame": 15941,
+                "stop_frame": 16051
+            },
+            {
+                "narration_text": "#C C opens the lid",
+                "start_frame": 16051,
+                "stop_frame": 16081
+            },
+            {
+                "narration_text": "#C C returns the lid on the pot",
+                "start_frame": 16081,
+                "stop_frame": 16106
+            },
+            {
+                "narration_text": "#C C turns off the oven",
+                "start_frame": 16106,
+                "stop_frame": 16147
+            },
+            {
+                "narration_text": "#C C puts off the chimney",
+                "start_frame": 16147,
+                "stop_frame": 16187
+            },
+            {
+                "narration_text": "#C C holds the lid",
+                "start_frame": 16187,
+                "stop_frame": 16332
+            }
+        ]
+    },
+    {
+        "task_goal": "Give bowls to person",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C gives the person O the bowls",
+                "start_frame": 15941,
+                "stop_frame": 16051
+            },
+            {
+                "narration_text": "#C C opens the lid",
+                "start_frame": 16051,
+                "stop_frame": 16081
+            },
+            {
+                "narration_text": "#C C returns the lid on the pot",
+                "start_frame": 16081,
+                "stop_frame": 16106
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn off oven and chimney",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C returns the lid on the pot",
+                "start_frame": 16081,
+                "stop_frame": 16106
+            },
+            {
+                "narration_text": "#C C turns off the oven",
+                "start_frame": 16106,
+                "stop_frame": 16147
+            },
+            {
+                "narration_text": "#C C puts off the chimney",
+                "start_frame": 16147,
+                "stop_frame": 16187
+            },
+            {
+                "narration_text": "#C C holds the lid",
+                "start_frame": 16187,
+                "stop_frame": 16332
+            }
+        ]
+    }
+]

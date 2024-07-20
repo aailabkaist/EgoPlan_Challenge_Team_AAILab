@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeeUdvWktAIZC7YDimW8pwhGgQuT",
+    "object": "chat.completion",
+    "created": 1719476414,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and clean up after cooking a meal.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Cut and prepare vegetables.\",\n      \"start_timestamp\": \"83\",\n      \"stop_timestamp\": \"92660\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut and peel vegetables\",\n          \"start_timestamp\": \"83\",\n          \"stop_timestamp\": \"8655\"\n        },\n        {\n          \"secondary_subgoal\": \"Peel cucumber\",\n          \"start_timestamp\": \"8655\",\n          \"stop_timestamp\": \"65933\"\n        },\n        {\n          \"secondary_subgoal\": \"Slice spring onions\",\n          \"start_timestamp\": \"65933\",\n          \"stop_timestamp\": \"16464\"\n        },\n        {\n          \"secondary_subgoal\": \"Mix spring onions with ingredients\",\n          \"start_timestamp\": \"16464\",\n          \"stop_timestamp\": \"20557\"\n        },\n        {\n          \"secondary_subgoal\": \"Clean and arrange workspace\",\n          \"start_timestamp\": \"20557\",\n          \"stop_timestamp\": \"22112\"\n        },\n        {\n          \"secondary_subgoal\": \"Chop cucumber further\",\n          \"start_timestamp\": \"22112\",\n          \"stop_timestamp\": \"92660\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook pancakes\",\n      \"start_timestamp\": \"92660\",\n      \"stop_timestamp\": \"98119\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Fry pancakes\",\n          \"start_timestamp\": \"92660\",\n          \"stop_timestamp\": \"74178\"\n        },\n        {\n          \"secondary_subgoal\": \"Clean cooking area\",\n          \"start_timestamp\": \"74178\",\n          \"stop_timestamp\": \"96453\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Store prepared food\",\n      \"start_timestamp\": \"96453\",\n      \"stop_timestamp\": \"97724\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put chopped cucumber in a dish and refrigerate\",\n          \"start_timestamp\": \"96453\",\n          \"stop_timestamp\": \"97724\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up and write notes\",\n      \"start_timestamp\": \"97724\",\n      \"stop_timestamp\": \"98219\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean up kitchen\",\n          \"start_timestamp\": \"97724\",\n          \"stop_timestamp\": \"97827\"\n        },\n        {\n          \"secondary_subgoal\": \"Write notes in a book\",\n          \"start_timestamp\": \"97827\",\n          \"stop_timestamp\": \"98119\"\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 12651,
+        "completion_tokens": 568,
+        "total_tokens": 13219
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

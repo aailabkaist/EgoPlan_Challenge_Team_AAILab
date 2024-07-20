@@ -1,0 +1,344 @@
+{
+    "overall_goal": "Prepare and cook a dish involving eggs and milk, incorporate the mixture with cut bread slices, and cook the mixture on the stove.",
+    "clips": [
+        {
+            "subgoal": "Gather utensils and initial ingredients",
+            "start_timestamp": 0,
+            "stop_timestamp": 126,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjust the camera",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 67
+                },
+                {
+                    "secondary_subgoal": "Pick the bowl",
+                    "start_timestamp": 67,
+                    "stop_timestamp": 126
+                }
+            ]
+        },
+        {
+            "subgoal": "Scoop ingredients and pour into the bowl",
+            "start_timestamp": 126,
+            "stop_timestamp": 992,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick spoon",
+                    "start_timestamp": 126,
+                    "stop_timestamp": 246
+                },
+                {
+                    "secondary_subgoal": "Scoop and pour unknown ingredient into the bowl",
+                    "start_timestamp": 246,
+                    "stop_timestamp": 968
+                },
+                {
+                    "secondary_subgoal": "Place the spoon down",
+                    "start_timestamp": 968,
+                    "stop_timestamp": 992
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle storage dish and cabinet",
+            "start_timestamp": 992,
+            "stop_timestamp": 1241,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick the storage dish",
+                    "start_timestamp": 992,
+                    "stop_timestamp": 1025
+                },
+                {
+                    "secondary_subgoal": "Open kitchen cabinet",
+                    "start_timestamp": 1025,
+                    "stop_timestamp": 1076
+                },
+                {
+                    "secondary_subgoal": "Hold the spoon and place the dish on the cabinet",
+                    "start_timestamp": 1076,
+                    "stop_timestamp": 1156
+                },
+                {
+                    "secondary_subgoal": "Close kitchen cabinet",
+                    "start_timestamp": 1156,
+                    "stop_timestamp": 1241
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle eggs",
+            "start_timestamp": 1241,
+            "stop_timestamp": 2293,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick eggs",
+                    "start_timestamp": 1241,
+                    "stop_timestamp": 1329
+                },
+                {
+                    "secondary_subgoal": "Pick unknown",
+                    "start_timestamp": 1329,
+                    "stop_timestamp": 1385
+                },
+                {
+                    "secondary_subgoal": "Hit, pour eggs into bowl and dispose of shell",
+                    "start_timestamp": 1385,
+                    "stop_timestamp": 2090
+                },
+                {
+                    "secondary_subgoal": "Touch egg and move hands",
+                    "start_timestamp": 2090,
+                    "stop_timestamp": 2293
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash hands after handling eggs",
+            "start_timestamp": 2293,
+            "stop_timestamp": 2459,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open tap and wash hands",
+                    "start_timestamp": 2293,
+                    "stop_timestamp": 2426
+                },
+                {
+                    "secondary_subgoal": "Close tap and wipe hands",
+                    "start_timestamp": 2426,
+                    "stop_timestamp": 2459
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle milk",
+            "start_timestamp": 2484,
+            "stop_timestamp": 3619,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and place unknown item down, look and walk around",
+                    "start_timestamp": 2484,
+                    "stop_timestamp": 2633
+                },
+                {
+                    "secondary_subgoal": "Open fridge and pick milk packet",
+                    "start_timestamp": 2633,
+                    "stop_timestamp": 2855
+                },
+                {
+                    "secondary_subgoal": "Walk and place milk packet down",
+                    "start_timestamp": 2855,
+                    "stop_timestamp": 2959
+                },
+                {
+                    "secondary_subgoal": "Open and pour milk into cup",
+                    "start_timestamp": 2959,
+                    "stop_timestamp": 3397
+                },
+                {
+                    "secondary_subgoal": "Pour rest of milk into cup, walk and hold packet",
+                    "start_timestamp": 3397,
+                    "stop_timestamp": 3562
+                },
+                {
+                    "secondary_subgoal": "Return milk packet to fridge and close it",
+                    "start_timestamp": 3562,
+                    "stop_timestamp": 3619
+                }
+            ]
+        },
+        {
+            "subgoal": "Pour milk into bowl",
+            "start_timestamp": 3619,
+            "stop_timestamp": 3896,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick cup and pour milk into bowl",
+                    "start_timestamp": 3619,
+                    "stop_timestamp": 3818
+                },
+                {
+                    "secondary_subgoal": "Place cup down",
+                    "start_timestamp": 3818,
+                    "stop_timestamp": 3896
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle and pour unknown ingredient",
+            "start_timestamp": 3896,
+            "stop_timestamp": 4367,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and open unknown bottle",
+                    "start_timestamp": 3896,
+                    "stop_timestamp": 4072
+                },
+                {
+                    "secondary_subgoal": "Pour and close unknown bottle",
+                    "start_timestamp": 4072,
+                    "stop_timestamp": 4213
+                },
+                {
+                    "secondary_subgoal": "Walk, open fridge, place unknown bottle, and close fridge",
+                    "start_timestamp": 4213,
+                    "stop_timestamp": 4367
+                }
+            ]
+        },
+        {
+            "subgoal": "Electric mixer preparation",
+            "start_timestamp": 4367,
+            "stop_timestamp": 4941,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and place spoon down",
+                    "start_timestamp": 4367,
+                    "stop_timestamp": 4565
+                },
+                {
+                    "secondary_subgoal": "Pick electric mixer and prepare",
+                    "start_timestamp": 4565,
+                    "stop_timestamp": 4941
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix ingredients with electric mixer",
+            "start_timestamp": 4941,
+            "stop_timestamp": 7022,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Iterative mixing, holding the bowl, turning off electric mixer",
+                    "start_timestamp": 4941,
+                    "stop_timestamp": 7022
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean and store electric mixer",
+            "start_timestamp": 7022,
+            "stop_timestamp": 7800,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn off, hold mixer, remove beaters, place in sink, unplug mixer",
+                    "start_timestamp": 7022,
+                    "stop_timestamp": 7290
+                },
+                {
+                    "secondary_subgoal": "Store electric mixer in cabinet",
+                    "start_timestamp": 7290,
+                    "stop_timestamp": 7800
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut bread slices",
+            "start_timestamp": 7905,
+            "stop_timestamp": 11641,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick bowls, chopping board, and bread package, dispose of package",
+                    "start_timestamp": 7905,
+                    "stop_timestamp": 8350
+                },
+                {
+                    "secondary_subgoal": "Pick and hold bread, pick and close cabinet, touch and cut bread slices",
+                    "start_timestamp": 8350,
+                    "stop_timestamp": 11278
+                },
+                {
+                    "secondary_subgoal": "Arrange bread slices on plate",
+                    "start_timestamp": 11278,
+                    "stop_timestamp": 11641
+                }
+            ]
+        },
+        {
+            "subgoal": "Combine mixture with bread slices",
+            "start_timestamp": 11641,
+            "stop_timestamp": 14260,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick spoon and stir mixture, turn bowl",
+                    "start_timestamp": 11641,
+                    "stop_timestamp": 12443
+                },
+                {
+                    "secondary_subgoal": "Pour mixture on bread slices",
+                    "start_timestamp": 12443,
+                    "stop_timestamp": 12973
+                },
+                {
+                    "secondary_subgoal": "Hold bowl, tap water, place bowl in sink, use towel and turn bread slice",
+                    "start_timestamp": 12973,
+                    "stop_timestamp": 14260
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare for microwaving",
+            "start_timestamp": 14260,
+            "stop_timestamp": 15347,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn and place bread slice, wash hands",
+                    "start_timestamp": 14260,
+                    "stop_timestamp": 14760
+                },
+                {
+                    "secondary_subgoal": "Open and close microwave, hold plate",
+                    "start_timestamp": 14760,
+                    "stop_timestamp": 15347
+                }
+            ]
+        },
+        {
+            "subgoal": "Microwave the dish",
+            "start_timestamp": 15347,
+            "stop_timestamp": 18609,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open fridge, place storage dish inside",
+                    "start_timestamp": 15347,
+                    "stop_timestamp": 16568
+                },
+                {
+                    "secondary_subgoal": "Microwave mixture on bread slices",
+                    "start_timestamp": 16568,
+                    "stop_timestamp": 18609
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut and add cheese",
+            "start_timestamp": 18609,
+            "stop_timestamp": 19189,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick knife, cheese and add to cooking pan, light oven",
+                    "start_timestamp": 18609,
+                    "stop_timestamp": 19189
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook on stove",
+            "start_timestamp": 19189,
+            "stop_timestamp": 21318,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Swirl cooking pan, operate buttons",
+                    "start_timestamp": 19189,
+                    "stop_timestamp": 19719
+                },
+                {
+                    "secondary_subgoal": "Prepare for more cooking, wash hands, pick chopsticks and stir",
+                    "start_timestamp": 19719,
+                    "stop_timestamp": 21318
+                }
+            ]
+        }
+    ]
+}

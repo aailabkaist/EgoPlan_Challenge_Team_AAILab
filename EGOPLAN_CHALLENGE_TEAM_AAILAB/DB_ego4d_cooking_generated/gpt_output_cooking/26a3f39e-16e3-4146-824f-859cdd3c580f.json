@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efkdmiggX1vrNjTRG0fQykBqmthX",
+    "object": "chat.completion",
+    "created": 1719480639,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing vegetables and cooking them.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Picking and tearing vegetables.\",\n      \"start_timestamp\": 5,\n      \"stop_timestamp\": 4235,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Picking up and tearing vegetables\", \"start_timestamp\": 85, \"stop_timestamp\": 500},\n        {\"secondary_subgoal\": \"Dropping leaves in the cooking pot\", \"start_timestamp\": 523, \"stop_timestamp\": 842},\n        {\"secondary_subgoal\": \"Peeling and tearing vegetables\", \"start_timestamp\": 1008, \"stop_timestamp\": 1463},\n        {\"secondary_subgoal\": \"Cutting vegetables and dropping leaves\", \"start_timestamp\": 1495, \"stop_timestamp\": 2179},\n        {\"secondary_subgoal\": \"Aligning cloth and picking vegetables\", \"start_timestamp\": 2253, \"stop_timestamp\": 3270},\n        {\"secondary_subgoal\": \"Peeling vegetables\", \"start_timestamp\": 3287, \"stop_timestamp\": 4235}\n      ]\n    },\n    {\n      \"subgoal\": \"Peeling vegetables and dropping them in the pot.\",\n      \"start_timestamp\": 4235,\n      \"stop_timestamp\": 6234,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Peeling vegetables and dropping them in the cooking pot\", \"start_timestamp\": 4235, \"stop_timestamp\": 5195},\n        {\"secondary_subgoal\": \"Aligning cloth and handling vegetables\", \"start_timestamp\": 5216, \"stop_timestamp\": 6613},\n        {\"secondary_subgoal\": \"Touching and peeling vegetables\", \"start_timestamp\": 6626, \"stop_timestamp\": 6903}\n      ]\n    },\n    {\n      \"subgoal\": \"Peeling vegetables repeatedly.\",\n      \"start_timestamp\": 6903,\n      \"stop_timestamp\": 15394,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Peeling vegetables\", \"start_timestamp\": 6903, \"stop_timestamp\": 16421},\n        {\"secondary_subgoal\": \"Plucking leaves from the stems of vegetables\", \"start_timestamp\": 16611, \"stop_timestamp\": 16453}\n      ]\n    },\n    {\n      \"subgoal\": \"Interacting with someone (O).\",\n      \"start_timestamp\": 17035,\n      \"stop_timestamp\": 26865,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Talking to someone (O)\", \"start_timestamp\": 17035, \"stop_timestamp\": 26841},\n        {\"secondary_subgoal\": \"Plucking leaves from the stems\", \"start_timestamp\": 26841, \"stop_timestamp\": 29158}\n      ]\n    },\n    {\n      \"subgoal\": \"Plucking leaves from the stems.\",\n      \"start_timestamp\": 29158,\n      \"stop_timestamp\": 31928,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Plucking leaves from the stems\", \"start_timestamp\": 29158, \"stop_timestamp\": 31928}\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7407,
+        "completion_tokens": 657,
+        "total_tokens": 8064
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

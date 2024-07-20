@@ -1,0 +1,76 @@
+{
+    "overall_goal": "Preparing dough by kneading, cooking, and handling it between different containers and cooking stages.",
+    "clips": [
+        {
+            "subgoal": "Kneading the dough",
+            "start_timestamp": 85106,
+            "stop_timestamp": 85764,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Kneading dough on the rolling board and adjusting",
+                    "start_timestamp": 85106,
+                    "stop_timestamp": 85483
+                },
+                {
+                    "secondary_subgoal": "Adjusting clothes",
+                    "start_timestamp": 85483,
+                    "stop_timestamp": 85764
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling the dough",
+            "start_timestamp": 85764,
+            "stop_timestamp": 101056,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking, squeezing, and putting dough in the cooking pot",
+                    "start_timestamp": 85764,
+                    "stop_timestamp": 85810
+                },
+                {
+                    "secondary_subgoal": "Squeezing the dough",
+                    "start_timestamp": 85810,
+                    "stop_timestamp": 86065
+                },
+                {
+                    "secondary_subgoal": "Interchanging actions with Man X on dough handling",
+                    "start_timestamp": 86132,
+                    "stop_timestamp": 101056
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking the dough",
+            "start_timestamp": 101191,
+            "stop_timestamp": 113341,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Placing and cutting dough in cooking oil",
+                    "start_timestamp": 101191,
+                    "stop_timestamp": 101345
+                },
+                {
+                    "secondary_subgoal": "Man X assists in dough handling and turning over the dough",
+                    "start_timestamp": 101381,
+                    "stop_timestamp": 101967
+                },
+                {
+                    "secondary_subgoal": "Squeezing and cooking the dough",
+                    "start_timestamp": 102074,
+                    "stop_timestamp": 101600
+                },
+                {
+                    "secondary_subgoal": "Picking the dough",
+                    "start_timestamp": 112355,
+                    "stop_timestamp": 112642
+                },
+                {
+                    "secondary_subgoal": "Shaping and pressing the dough",
+                    "start_timestamp": 113241,
+                    "stop_timestamp": 113341
+                }
+            ]
+        }
+    ]
+}

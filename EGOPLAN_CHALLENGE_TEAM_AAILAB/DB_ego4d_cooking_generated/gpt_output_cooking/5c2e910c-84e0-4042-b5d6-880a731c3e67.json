@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egs1rxpnfHiIjvX1ZRTqe7KjdSYd",
+    "object": "chat.completion",
+    "created": 1719484941,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing apricots by crushing them and separating the seeds from the fruit coats.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Crushing the apricot and separating the seeds.\",\n      \"start_timestamp\": 29,\n      \"stop_timestamp\": 1286,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Crushing an apricot.\",\n          \"start_timestamp\": 29,\n          \"stop_timestamp\": 179\n        },\n        {\n          \"secondary_subgoal\": \"Pouring apricot particles on hand.\",\n          \"start_timestamp\": 179,\n          \"stop_timestamp\": 209\n        },\n        {\n          \"secondary_subgoal\": \"Putting the fruit crusher in a tray.\",\n          \"start_timestamp\": 209,\n          \"stop_timestamp\": 230\n        },\n        {\n          \"secondary_subgoal\": \"Separating the apricot coat from the seeds.\",\n          \"start_timestamp\": 230,\n          \"stop_timestamp\": 299\n        },\n        {\n          \"secondary_subgoal\": \"Picking up a fruit crusher from the tray.\",\n          \"start_timestamp\": 299,\n          \"stop_timestamp\": 303\n        },\n        {\n          \"secondary_subgoal\": \"Picking an apricot from the tray.\",\n          \"start_timestamp\": 303,\n          \"stop_timestamp\": 327\n        },\n        {\n          \"secondary_subgoal\": \"Crushing an apricot.\",\n          \"start_timestamp\": 327,\n          \"stop_timestamp\": 454\n        },\n        {\n          \"secondary_subgoal\": \"Pouring apricot particles on hand.\",\n          \"start_timestamp\": 454,\n          \"stop_timestamp\": 468\n        },\n        {\n          \"secondary_subgoal\": \"Putting the fruit crusher in a tray.\",\n          \"start_timestamp\": 468,\n          \"stop_timestamp\": 487\n        },\n        {\n          \"secondary_subgoal\": \"Separating the apricot coat from the seeds.\",\n          \"start_timestamp\": 487,\n          \"stop_timestamp\": 744\n        },\n        {\n          \"secondary_subgoal\": \"Picking an apricot from the tray.\",\n          \"start_timestamp\": 744,\n          \"stop_timestamp\": 769\n        },\n        {\n          \"secondary_subgoal\": \"Picking up a fruit crusher from the tray.\",\n          \"start_timestamp\": 769,\n          \"stop_timestamp\": 959\n        },\n        {\n          \"secondary_subgoal\": \"Crushing an apricot.\",\n          \"start_timestamp\": 959,\n          \"stop_timestamp\": 969\n        },\n        {\n          \"secondary_subgoal\": \"Pouring apricot particles on hand.\",\n          \"start_timestamp\": 969,\n          \"stop_timestamp\": 998\n        },\n        {\n          \"secondary_subgoal\": \"Putting the fruit crusher in a tray.\",\n          \"start_timestamp\": 998,\n          \"stop_timestamp\": 1286\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Picking up a fruit crusher.\",\n      \"start_timestamp\": 1286,\n      \"stop_timestamp\": 1386,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Picking up a fruit crusher from the tray.\",\n          \"start_timestamp\": 1286,\n          \"stop_timestamp\": 1386\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 531,
+        "completion_tokens": 688,
+        "total_tokens": 1219
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

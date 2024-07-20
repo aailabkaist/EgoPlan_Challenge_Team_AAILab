@@ -1,0 +1,171 @@
+{
+    "overall_goal": "Preparing a meal involving mixing ingredients, cooking, and preparing a salad",
+    "clips": [
+        {
+            "subgoal": "Mixing ingredients in a cup",
+            "start_timestamp": 195,
+            "stop_timestamp": 2609,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Scooping and pouring ingredients into a cup",
+                    "start_timestamp": 245,
+                    "stop_timestamp": 856
+                },
+                {
+                    "secondary_subgoal": "Pouring and mixing additional ingredients",
+                    "start_timestamp": 964,
+                    "stop_timestamp": 1216
+                },
+                {
+                    "secondary_subgoal": "Pouring the final set of ingredients",
+                    "start_timestamp": 1357,
+                    "stop_timestamp": 1797
+                },
+                {
+                    "secondary_subgoal": "Washing and placing utensils back in place",
+                    "start_timestamp": 1819,
+                    "stop_timestamp": 2023
+                },
+                {
+                    "secondary_subgoal": "Adding and stirring paste in the cup",
+                    "start_timestamp": 2398,
+                    "stop_timestamp": 2609
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing the cooking setup and washing hands",
+            "start_timestamp": 2627,
+            "stop_timestamp": 3515,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preparing the cooking setup",
+                    "start_timestamp": 2820,
+                    "stop_timestamp": 3172
+                },
+                {
+                    "secondary_subgoal": "Washing hands",
+                    "start_timestamp": 3326,
+                    "stop_timestamp": 3515
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing and seasoning the meat",
+            "start_timestamp": 3608,
+            "stop_timestamp": 5415,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turning on the gas cooker and preparing utensils",
+                    "start_timestamp": 3608,
+                    "stop_timestamp": 3719
+                },
+                {
+                    "secondary_subgoal": "Seasoning the meat with various ingredients",
+                    "start_timestamp": 3743,
+                    "stop_timestamp": 5366
+                }
+            ]
+        },
+        {
+            "subgoal": "Starting the cooking process for the meat",
+            "start_timestamp": 5415,
+            "stop_timestamp": 7382,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preparing cooking oil and washing utensils",
+                    "start_timestamp": 5602,
+                    "stop_timestamp": 6691
+                },
+                {
+                    "secondary_subgoal": "Placing and cooking the meat",
+                    "start_timestamp": 6772,
+                    "stop_timestamp": 7342
+                },
+                {
+                    "secondary_subgoal": "Using chopstick to stir the meat",
+                    "start_timestamp": 7382,
+                    "stop_timestamp": 7382
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding flavor and stirring food in the cooking pan",
+            "start_timestamp": 11586,
+            "stop_timestamp": 17255,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adding onions and stirring",
+                    "start_timestamp": 11586,
+                    "stop_timestamp": 13654
+                },
+                {
+                    "secondary_subgoal": "Adding soya sauce and stirring",
+                    "start_timestamp": 13697,
+                    "stop_timestamp": 14190
+                },
+                {
+                    "secondary_subgoal": "Adding additional cooking oil and stirring",
+                    "start_timestamp": 15914,
+                    "stop_timestamp": 17255
+                }
+            ]
+        },
+        {
+            "subgoal": "Finishing cooking and plating",
+            "start_timestamp": 17255,
+            "stop_timestamp": 18251,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Plating the cooked food",
+                    "start_timestamp": 17255,
+                    "stop_timestamp": 17661
+                },
+                {
+                    "secondary_subgoal": "Preparing ingredients from packet in the fridge",
+                    "start_timestamp": 17661,
+                    "stop_timestamp": 18069
+                },
+                {
+                    "secondary_subgoal": "Washing ingredients",
+                    "start_timestamp": 18069,
+                    "stop_timestamp": 18251
+                }
+            ]
+        },
+        {
+            "subgoal": "Slicing and plating an additional ingredient",
+            "start_timestamp": 18251,
+            "stop_timestamp": 19477,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Slicing an ingredient",
+                    "start_timestamp": 18408,
+                    "stop_timestamp": 19447
+                },
+                {
+                    "secondary_subgoal": "Plating the sliced ingredient",
+                    "start_timestamp": 19447,
+                    "stop_timestamp": 19477
+                }
+            ]
+        },
+        {
+            "subgoal": "Finalizing the meal with salad preparation",
+            "start_timestamp": 19532,
+            "stop_timestamp": 21235,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preparing and scooping salad into plates",
+                    "start_timestamp": 19532,
+                    "stop_timestamp": 20806
+                },
+                {
+                    "secondary_subgoal": "Placing remaining salad in the fridge and washing hands",
+                    "start_timestamp": 20960,
+                    "stop_timestamp": 21135
+                }
+            ]
+        }
+    ]
+}

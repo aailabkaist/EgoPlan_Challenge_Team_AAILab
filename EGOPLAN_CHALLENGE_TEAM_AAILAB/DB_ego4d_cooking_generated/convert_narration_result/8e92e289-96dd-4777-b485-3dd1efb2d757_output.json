@@ -1,0 +1,362 @@
+[
+    {
+        "task_goal": "Gather ingredients from fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 34,
+                "stop_frame": 101
+            },
+            {
+                "narration_text": "Picks up a bottle of unsure",
+                "start_frame": 101,
+                "stop_frame": 179
+            },
+            {
+                "narration_text": "Puts the bottle on unsure",
+                "start_frame": 179,
+                "stop_frame": 244
+            },
+            {
+                "narration_text": "Removes capsicum from the fridge",
+                "start_frame": 244,
+                "stop_frame": 365
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 365,
+                "stop_frame": 440
+            },
+            {
+                "narration_text": "Touches a piece of cloth on the stand",
+                "start_frame": 440,
+                "stop_frame": 456
+            }
+        ]
+    },
+    {
+        "task_goal": "Open fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 34,
+                "stop_frame": 101
+            },
+            {
+                "narration_text": "Picks up a bottle of unsure",
+                "start_frame": 101,
+                "stop_frame": 179
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up items from fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 34,
+                "stop_frame": 101
+            },
+            {
+                "narration_text": "Picks up a bottle of unsure",
+                "start_frame": 101,
+                "stop_frame": 179
+            },
+            {
+                "narration_text": "Puts the bottle on unsure",
+                "start_frame": 179,
+                "stop_frame": 244
+            },
+            {
+                "narration_text": "Removes capsicum from the fridge",
+                "start_frame": 244,
+                "stop_frame": 365
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove capsicum from fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the bottle on unsure",
+                "start_frame": 179,
+                "stop_frame": 244
+            },
+            {
+                "narration_text": "Removes capsicum from the fridge",
+                "start_frame": 244,
+                "stop_frame": 365
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 365,
+                "stop_frame": 440
+            }
+        ]
+    },
+    {
+        "task_goal": "Close fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Removes capsicum from the fridge",
+                "start_frame": 244,
+                "stop_frame": 365
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 365,
+                "stop_frame": 440
+            },
+            {
+                "narration_text": "Touches a piece of cloth on the stand",
+                "start_frame": 440,
+                "stop_frame": 456
+            }
+        ]
+    },
+    {
+        "task_goal": "Collect additional items from kitchen cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches a piece of cloth on the stand",
+                "start_frame": 440,
+                "stop_frame": 456
+            },
+            {
+                "narration_text": "Opens the kitchen cabinet door",
+                "start_frame": 456,
+                "stop_frame": 599
+            },
+            {
+                "narration_text": "Bends down",
+                "start_frame": 599,
+                "stop_frame": 640
+            },
+            {
+                "narration_text": "Touches a nylon paper next to the stand",
+                "start_frame": 640,
+                "stop_frame": 688
+            },
+            {
+                "narration_text": "Removes a packet of unsure from the nylon paper",
+                "start_frame": 688,
+                "stop_frame": 862
+            },
+            {
+                "narration_text": "Touches a box",
+                "start_frame": 862,
+                "stop_frame": 943
+            },
+            {
+                "narration_text": "Touches a packet",
+                "start_frame": 943,
+                "stop_frame": 1113
+            },
+            {
+                "narration_text": "Touches a nylon paper",
+                "start_frame": 1113,
+                "stop_frame": 1196
+            },
+            {
+                "narration_text": "Stands up",
+                "start_frame": 1196,
+                "stop_frame": 1246
+            },
+            {
+                "narration_text": "Closes the kitchen cabinet door",
+                "start_frame": 1246,
+                "stop_frame": 1277
+            },
+            {
+                "narration_text": "Puts the packet on the counter",
+                "start_frame": 1277,
+                "stop_frame": 1376
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 1376,
+                "stop_frame": 1517
+            }
+        ]
+    },
+    {
+        "task_goal": "Open kitchen cabinet door",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches a piece of cloth on the stand",
+                "start_frame": 440,
+                "stop_frame": 456
+            },
+            {
+                "narration_text": "Opens the kitchen cabinet door",
+                "start_frame": 456,
+                "stop_frame": 599
+            },
+            {
+                "narration_text": "Bends down",
+                "start_frame": 599,
+                "stop_frame": 640
+            }
+        ]
+    },
+    {
+        "task_goal": "Bend down to reach item",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the kitchen cabinet door",
+                "start_frame": 456,
+                "stop_frame": 599
+            },
+            {
+                "narration_text": "Bends down",
+                "start_frame": 599,
+                "stop_frame": 640
+            },
+            {
+                "narration_text": "Touches a nylon paper next to the stand",
+                "start_frame": 640,
+                "stop_frame": 688
+            }
+        ]
+    },
+    {
+        "task_goal": "Interact with nylon paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Bends down",
+                "start_frame": 599,
+                "stop_frame": 640
+            },
+            {
+                "narration_text": "Touches a nylon paper next to the stand",
+                "start_frame": 640,
+                "stop_frame": 688
+            },
+            {
+                "narration_text": "Removes a packet of unsure from the nylon paper",
+                "start_frame": 688,
+                "stop_frame": 862
+            },
+            {
+                "narration_text": "Touches a box",
+                "start_frame": 862,
+                "stop_frame": 943
+            },
+            {
+                "narration_text": "Touches a packet",
+                "start_frame": 943,
+                "stop_frame": 1113
+            },
+            {
+                "narration_text": "Touches a nylon paper",
+                "start_frame": 1113,
+                "stop_frame": 1196
+            },
+            {
+                "narration_text": "Stands up",
+                "start_frame": 1196,
+                "stop_frame": 1246
+            }
+        ]
+    },
+    {
+        "task_goal": "Stand up and close cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches a nylon paper",
+                "start_frame": 1113,
+                "stop_frame": 1196
+            },
+            {
+                "narration_text": "Stands up",
+                "start_frame": 1196,
+                "stop_frame": 1246
+            },
+            {
+                "narration_text": "Closes the kitchen cabinet door",
+                "start_frame": 1246,
+                "stop_frame": 1277
+            },
+            {
+                "narration_text": "Puts the packet on the counter",
+                "start_frame": 1277,
+                "stop_frame": 1376
+            }
+        ]
+    },
+    {
+        "task_goal": "Place packet on counter",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the kitchen cabinet door",
+                "start_frame": 1246,
+                "stop_frame": 1277
+            },
+            {
+                "narration_text": "Puts the packet on the counter",
+                "start_frame": 1277,
+                "stop_frame": 1376
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 1376,
+                "stop_frame": 1517
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk and interact with phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the packet on the counter",
+                "start_frame": 1277,
+                "stop_frame": 1376
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 1376,
+                "stop_frame": 1517
+            },
+            {
+                "narration_text": "Touches the phone",
+                "start_frame": 1517,
+                "stop_frame": 1617
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk towards phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the packet on the counter",
+                "start_frame": 1277,
+                "stop_frame": 1376
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 1376,
+                "stop_frame": 1517
+            },
+            {
+                "narration_text": "Touches the phone",
+                "start_frame": 1517,
+                "stop_frame": 1617
+            }
+        ]
+    },
+    {
+        "task_goal": "Touch the phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks",
+                "start_frame": 1376,
+                "stop_frame": 1517
+            },
+            {
+                "narration_text": "Touches the phone",
+                "start_frame": 1517,
+                "stop_frame": 1617
+            }
+        ]
+    }
+]

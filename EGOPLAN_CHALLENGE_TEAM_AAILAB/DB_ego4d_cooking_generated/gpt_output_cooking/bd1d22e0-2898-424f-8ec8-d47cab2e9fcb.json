@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eh8w9181InEVUq37FPhEhhdtiDbo",
+    "object": "chat.completion",
+    "created": 1719485990,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Cook and serve food using different utensils and ingredients.\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Stir and monitor the cooking food.\",\n            \"start_timestamp\": 122,\n            \"stop_timestamp\": 16355,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Stir the food with cooking stick.\",\n                    \"start_timestamp\": 122,\n                    \"stop_timestamp\": 258\n                },\n                {\n                    \"secondary_subgoal\": \"Use fork for stirring the food.\",\n                    \"start_timestamp\": 258,\n                    \"stop_timestamp\": 297\n                },\n                {\n                    \"secondary_subgoal\": \"Stir the food with cooking stick.\",\n                    \"start_timestamp\": 297,\n                    \"stop_timestamp\": 1600\n                },\n                {\n                    \"secondary_subgoal\": \"Press cooker buttons for adjustments.\",\n                    \"start_timestamp\": 1600,\n                    \"stop_timestamp\": 1723\n                },\n                {\n                    \"secondary_subgoal\": \"Stir the food with cooking stick.\",\n                    \"start_timestamp\": 1723,\n                    \"stop_timestamp\": 2029\n                },\n                {\n                    \"secondary_subgoal\": \"Put down and pick up cooking stick; stir the food.\",\n                    \"start_timestamp\": 2029,\n                    \"stop_timestamp\": 4355\n                },\n                {\n                    \"secondary_subgoal\": \"Taste the food using fork.\",\n                    \"start_timestamp\": 4588,\n                    \"stop_timestamp\": 4853\n                },\n                {\n                    \"secondary_subgoal\": \"Add greens and ingredients to the food.\",\n                    \"start_timestamp\": 6862,\n                    \"stop_timestamp\": 8083\n                },\n                {\n                    \"secondary_subgoal\": \"Stir the food with cooking stick.\",\n                    \"start_timestamp\": 8126,\n                    \"stop_timestamp\": 8341\n                },\n                {\n                    \"secondary_subgoal\": \"Use fork to remove and stir food.\",\n                    \"start_timestamp\": 9113,\n                    \"stop_timestamp\": 10295\n                },\n                {\n                    \"secondary_subgoal\": \"Press fire button and open/close drawer.\",\n                    \"start_timestamp\": 10850,\n                    \"stop_timestamp\": 11254\n                },\n                {\n                    \"secondary_subgoal\": \"Press fire button.\",\n                    \"start_timestamp\": 11465,\n                    \"stop_timestamp\": 11616\n                },\n                {\n                    \"secondary_subgoal\": \"Stir the food with cooking stick.\",\n                    \"start_timestamp\": 12335,\n                    \"stop_timestamp\": 12835\n                },\n                {\n                    \"secondary_subgoal\": \"Stir the food and add ingredients.\",\n                    \"start_timestamp\": 12853,\n                    \"stop_timestamp\": 13077\n                },\n                {\n                    \"secondary_subgoal\": \"Serve the food.\",\n                    \"start_timestamp\": 13887,\n                    \"stop_timestamp\": 16329\n                }\n            ]\n        }\n    ]\n}\n```\n\nIn this structured output, the overall goal is to cook and serve food. The actions are segmented into one major clip, primarily focused on stirring and monitoring the food as it cooks, which is divided further into several sub-clips that handle specific tasks within this overall goal. The sub-clips are defined by the functional zones the actions take place in and the secondary subgoals they achieve. The timestamps provided are directly pulled from the provided narration data."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1772,
+        "completion_tokens": 706,
+        "total_tokens": 2478
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

@@ -1,0 +1,98 @@
+{
+    "overall_goal": "Prepare and cook food using different ingredients and utensils in the kitchen",
+    "clips": [
+        {
+            "subgoal": "Prepare the cooking area and gather initial materials",
+            "start_timestamp": 0,
+            "stop_timestamp": 302,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Touch the tablet and walk around for inspection",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 169
+                },
+                {
+                    "secondary_subgoal": "Pick a piece of paper",
+                    "start_timestamp": 169,
+                    "stop_timestamp": 302
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the cooking materials",
+            "start_timestamp": 302,
+            "stop_timestamp": 5886,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Drop the paper on the kitchen top and walk around",
+                    "start_timestamp": 302,
+                    "stop_timestamp": 383
+                },
+                {
+                    "secondary_subgoal": "Open the microwave, pick another piece of paper, and walk around",
+                    "start_timestamp": 383,
+                    "stop_timestamp": 685
+                },
+                {
+                    "secondary_subgoal": "Drop the paper on the tray and cut it",
+                    "start_timestamp": 685,
+                    "stop_timestamp": 874
+                },
+                {
+                    "secondary_subgoal": "Drop the knife and handle the cut pieces of paper",
+                    "start_timestamp": 874,
+                    "stop_timestamp": 1160
+                },
+                {
+                    "secondary_subgoal": "Chop unidentified objects and push them aside in intervals",
+                    "start_timestamp": 1160,
+                    "stop_timestamp": 4601
+                },
+                {
+                    "secondary_subgoal": "Dispose of leftovers and clean up",
+                    "start_timestamp": 4601,
+                    "stop_timestamp": 5699
+                },
+                {
+                    "secondary_subgoal": "Gather more materials for cooking",
+                    "start_timestamp": 5699,
+                    "stop_timestamp": 5886
+                }
+            ]
+        },
+        {
+            "subgoal": "Start cooking",
+            "start_timestamp": 5886,
+            "stop_timestamp": 16435,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut more objects and handle ingredients",
+                    "start_timestamp": 5886,
+                    "stop_timestamp": 16165
+                },
+                {
+                    "secondary_subgoal": "Wash ingredients and prepare the cooking surface",
+                    "start_timestamp": 16165,
+                    "stop_timestamp": 16435
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the food",
+            "start_timestamp": 16435,
+            "stop_timestamp": 21299,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir food and handle utensils and ingredients",
+                    "start_timestamp": 16435,
+                    "stop_timestamp": 20148
+                },
+                {
+                    "secondary_subgoal": "Open cabinets, handle additional utensils, and adjust the fire",
+                    "start_timestamp": 20148,
+                    "stop_timestamp": 21299
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "overall_goal": "Prepare a meal involving boiling eggs and vegetables.",
+    "clips": [
+        {
+            "subgoal": "Boil eggs in the saucepan",
+            "start_timestamp": 33,
+            "stop_timestamp": 2184,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fetch and boil water",
+                    "start_timestamp": 75,
+                    "stop_timestamp": 275
+                },
+                {
+                    "secondary_subgoal": "Put eggs in the boiling water",
+                    "start_timestamp": 339,
+                    "stop_timestamp": 676
+                },
+                {
+                    "secondary_subgoal": "Use phone while waiting",
+                    "start_timestamp": 737,
+                    "stop_timestamp": 2184
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook vegetables",
+            "start_timestamp": 2647,
+            "stop_timestamp": 9110,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fetch ingredients from refrigerator and microwave",
+                    "start_timestamp": 2647,
+                    "stop_timestamp": 3816
+                },
+                {
+                    "secondary_subgoal": "Wash and cut vegetables",
+                    "start_timestamp": 4467,
+                    "stop_timestamp": 7977
+                },
+                {
+                    "secondary_subgoal": "Wash hands",
+                    "start_timestamp": 7990,
+                    "stop_timestamp": 8080
+                },
+                {
+                    "secondary_subgoal": "Prepare to cook vegetables",
+                    "start_timestamp": 8233,
+                    "stop_timestamp": 9110
+                }
+            ]
+        },
+        {
+            "subgoal": "Peel and rinse boiled eggs",
+            "start_timestamp": 16139,
+            "stop_timestamp": 20504,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse the eggs",
+                    "start_timestamp": 16139,
+                    "stop_timestamp": 17288
+                },
+                {
+                    "secondary_subgoal": "Peel the eggs",
+                    "start_timestamp": 17224,
+                    "stop_timestamp": 19879
+                },
+                {
+                    "secondary_subgoal": "Place and rinse the peeled eggs",
+                    "start_timestamp": 19831,
+                    "stop_timestamp": 20504
+                }
+            ]
+        }
+    ]
+}

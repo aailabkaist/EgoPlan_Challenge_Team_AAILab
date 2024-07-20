@@ -1,0 +1,612 @@
+[
+    {
+        "task_goal": "Preparing the meal",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the cooking pot",
+                "start_frame": 1,
+                "stop_frame": 2
+            },
+            {
+                "narration_text": "#C C turns on the water tap",
+                "start_frame": 2,
+                "stop_frame": 64
+            },
+            {
+                "narration_text": "#C C picks the table clothe",
+                "start_frame": 64,
+                "stop_frame": 119
+            },
+            {
+                "narration_text": "#C C picks #unsure",
+                "start_frame": 119,
+                "stop_frame": 184
+            },
+            {
+                "narration_text": "# C C opens the microwave",
+                "start_frame": 184,
+                "stop_frame": 185
+            }
+        ]
+    },
+    {
+        "task_goal": "Holding the cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the cooking pot",
+                "start_frame": 1,
+                "stop_frame": 2
+            },
+            {
+                "narration_text": "#C C turns on the water tap",
+                "start_frame": 2,
+                "stop_frame": 64
+            }
+        ]
+    },
+    {
+        "task_goal": "Turning on the water tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the cooking pot",
+                "start_frame": 1,
+                "stop_frame": 2
+            },
+            {
+                "narration_text": "#C C turns on the water tap",
+                "start_frame": 2,
+                "stop_frame": 64
+            },
+            {
+                "narration_text": "#C C picks the table clothe",
+                "start_frame": 64,
+                "stop_frame": 119
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking the table cloth",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns on the water tap",
+                "start_frame": 2,
+                "stop_frame": 64
+            },
+            {
+                "narration_text": "#C C picks the table clothe",
+                "start_frame": 64,
+                "stop_frame": 119
+            },
+            {
+                "narration_text": "#C C picks #unsure",
+                "start_frame": 119,
+                "stop_frame": 184
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking objects (unspecified)",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the table clothe",
+                "start_frame": 64,
+                "stop_frame": 119
+            },
+            {
+                "narration_text": "#C C picks #unsure",
+                "start_frame": 119,
+                "stop_frame": 184
+            },
+            {
+                "narration_text": "# C C opens the microwave",
+                "start_frame": 184,
+                "stop_frame": 185
+            }
+        ]
+    },
+    {
+        "task_goal": "Heating the food in the microwave",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks #unsure",
+                "start_frame": 119,
+                "stop_frame": 184
+            },
+            {
+                "narration_text": "# C C opens the microwave",
+                "start_frame": 184,
+                "stop_frame": 185
+            },
+            {
+                "narration_text": "#C C puts #unsure in the microwave",
+                "start_frame": 185,
+                "stop_frame": 352
+            },
+            {
+                "narration_text": "#C C switches on the microwave",
+                "start_frame": 352,
+                "stop_frame": 444
+            },
+            {
+                "narration_text": "#C C picks #unsure",
+                "start_frame": 444,
+                "stop_frame": 523
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening the microwave",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks #unsure",
+                "start_frame": 119,
+                "stop_frame": 184
+            },
+            {
+                "narration_text": "# C C opens the microwave",
+                "start_frame": 184,
+                "stop_frame": 185
+            },
+            {
+                "narration_text": "#C C puts #unsure in the microwave",
+                "start_frame": 185,
+                "stop_frame": 352
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting objects in the microwave",
+        "task_progress_metadata": [
+            {
+                "narration_text": "# C C opens the microwave",
+                "start_frame": 184,
+                "stop_frame": 185
+            },
+            {
+                "narration_text": "#C C puts #unsure in the microwave",
+                "start_frame": 185,
+                "stop_frame": 352
+            },
+            {
+                "narration_text": "#C C switches on the microwave",
+                "start_frame": 352,
+                "stop_frame": 444
+            }
+        ]
+    },
+    {
+        "task_goal": "Switching on the microwave",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts #unsure in the microwave",
+                "start_frame": 185,
+                "stop_frame": 352
+            },
+            {
+                "narration_text": "#C C switches on the microwave",
+                "start_frame": 352,
+                "stop_frame": 444
+            },
+            {
+                "narration_text": "#C C picks #unsure",
+                "start_frame": 444,
+                "stop_frame": 523
+            }
+        ]
+    },
+    {
+        "task_goal": "Cleaning the sink area",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C switches on the microwave",
+                "start_frame": 352,
+                "stop_frame": 444
+            },
+            {
+                "narration_text": "#C C picks #unsure",
+                "start_frame": 444,
+                "stop_frame": 523
+            },
+            {
+                "narration_text": "#C C wipes up the sink top",
+                "start_frame": 523,
+                "stop_frame": 666
+            },
+            {
+                "narration_text": "#C C picks up #unsure",
+                "start_frame": 666,
+                "stop_frame": 737
+            },
+            {
+                "narration_text": "#C C opens up the fridge",
+                "start_frame": 737,
+                "stop_frame": 789
+            },
+            {
+                "narration_text": "#C C puts #unsure in the fridge",
+                "start_frame": 789,
+                "stop_frame": 1009
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 1009,
+                "stop_frame": 1070
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 1070,
+                "stop_frame": 1156
+            }
+        ]
+    },
+    {
+        "task_goal": "Wiping up the sink top",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks #unsure",
+                "start_frame": 444,
+                "stop_frame": 523
+            },
+            {
+                "narration_text": "#C C wipes up the sink top",
+                "start_frame": 523,
+                "stop_frame": 666
+            },
+            {
+                "narration_text": "#C C picks up #unsure",
+                "start_frame": 666,
+                "stop_frame": 737
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening the fridge and placing objects inside",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks up #unsure",
+                "start_frame": 666,
+                "stop_frame": 737
+            },
+            {
+                "narration_text": "#C C opens up the fridge",
+                "start_frame": 737,
+                "stop_frame": 789
+            },
+            {
+                "narration_text": "#C C puts #unsure in the fridge",
+                "start_frame": 789,
+                "stop_frame": 1009
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 1009,
+                "stop_frame": 1070
+            }
+        ]
+    },
+    {
+        "task_goal": "Looking and walking around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts #unsure in the fridge",
+                "start_frame": 789,
+                "stop_frame": 1009
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 1009,
+                "stop_frame": 1070
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 1070,
+                "stop_frame": 1156
+            }
+        ]
+    },
+    {
+        "task_goal": "Setting up to serve the meal",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 1009,
+                "stop_frame": 1070
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 1070,
+                "stop_frame": 1156
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 1156,
+                "stop_frame": 1208
+            },
+            {
+                "narration_text": "#C C picks the plate",
+                "start_frame": 1208,
+                "stop_frame": 1290
+            },
+            {
+                "narration_text": "#C C walks",
+                "start_frame": 1290,
+                "stop_frame": 1382
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening the drawer and picking the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 1009,
+                "stop_frame": 1070
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 1070,
+                "stop_frame": 1156
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 1156,
+                "stop_frame": 1208
+            },
+            {
+                "narration_text": "#C C picks the plate",
+                "start_frame": 1208,
+                "stop_frame": 1290
+            },
+            {
+                "narration_text": "#C C walks",
+                "start_frame": 1290,
+                "stop_frame": 1382
+            }
+        ]
+    },
+    {
+        "task_goal": "Scooping food from the frying pan to the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "C C picks the serving spoon",
+                "start_frame": 1496,
+                "stop_frame": 1558
+            },
+            {
+                "narration_text": "#C C scoops #unsure from the frying pan with the serving spoon",
+                "start_frame": 1558,
+                "stop_frame": 1558
+            },
+            {
+                "narration_text": "#C C puts #unsure on the plate",
+                "start_frame": 1558,
+                "stop_frame": 1622
+            },
+            {
+                "narration_text": "#C C scoops #unsure from the frying pan with the serving spoon",
+                "start_frame": 1622,
+                "stop_frame": 1682
+            },
+            {
+                "narration_text": "#C C puts #unsure on the plate",
+                "start_frame": 1682,
+                "stop_frame": 1743
+            },
+            {
+                "narration_text": "#C C scoops #unsure from the frying pan with the serving spoon",
+                "start_frame": 1743,
+                "stop_frame": 1812
+            },
+            {
+                "narration_text": "#C C puts #unsure on the plate",
+                "start_frame": 1812,
+                "stop_frame": 1877
+            },
+            {
+                "narration_text": "#C C scoops #unsure from the frying pan with the serving spoon",
+                "start_frame": 1877,
+                "stop_frame": 1954
+            },
+            {
+                "narration_text": "#C C puts #unsure on the plate",
+                "start_frame": 1954,
+                "stop_frame": 2199
+            },
+            {
+                "narration_text": "#C C picks #unsure with the chop sticks",
+                "start_frame": 2199,
+                "stop_frame": 2390
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking and placing food with chop sticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks #unsure with the chop sticks",
+                "start_frame": 2199,
+                "stop_frame": 2390
+            },
+            {
+                "narration_text": "#C C picks #unsure from the pan",
+                "start_frame": 2390,
+                "stop_frame": 2421
+            },
+            {
+                "narration_text": "#C C places #unsure in the plate",
+                "start_frame": 2421,
+                "stop_frame": 2422
+            },
+            {
+                "narration_text": "#C C picks #unsure from the pan",
+                "start_frame": 2422,
+                "stop_frame": 2448
+            },
+            {
+                "narration_text": "#C C places #unsure in the plate",
+                "start_frame": 2448,
+                "stop_frame": 2502
+            },
+            {
+                "narration_text": "#C C picks #unsure from the pan",
+                "start_frame": 2502,
+                "stop_frame": 2541
+            },
+            {
+                "narration_text": "#C C places #unsure in the plate",
+                "start_frame": 2541,
+                "stop_frame": 2612
+            },
+            {
+                "narration_text": "#C C eats# #unsure",
+                "start_frame": 2612,
+                "stop_frame": 2741
+            }
+        ]
+    },
+    {
+        "task_goal": "Eating the meal",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places #unsure in the plate",
+                "start_frame": 2541,
+                "stop_frame": 2612
+            },
+            {
+                "narration_text": "#C C eats# #unsure",
+                "start_frame": 2612,
+                "stop_frame": 2741
+            },
+            {
+                "narration_text": "#C C puts the chop sticks in the sink",
+                "start_frame": 2741,
+                "stop_frame": 2741
+            },
+            {
+                "narration_text": "#C C picks the table clothe",
+                "start_frame": 2741,
+                "stop_frame": 2816
+            }
+        ]
+    },
+    {
+        "task_goal": "Removing and washing the pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C removes the pan from the cooker",
+                "start_frame": 2816,
+                "stop_frame": 2838
+            },
+            {
+                "narration_text": "#C C puts the pan in the sink",
+                "start_frame": 2838,
+                "stop_frame": 2868
+            },
+            {
+                "narration_text": "#C C turns on the water tap",
+                "start_frame": 2868,
+                "stop_frame": 2926
+            },
+            {
+                "narration_text": "#C C washes the table clothe",
+                "start_frame": 2926,
+                "stop_frame": 3008
+            },
+            {
+                "narration_text": "#C C places #unsure aside",
+                "start_frame": 3008,
+                "stop_frame": 3045
+            },
+            {
+                "narration_text": "#C C washes the table clothe",
+                "start_frame": 3045,
+                "stop_frame": 3191
+            }
+        ]
+    },
+    {
+        "task_goal": "Wiping the sink top",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C wipes the sink top",
+                "start_frame": 3191,
+                "stop_frame": 3559
+            },
+            {
+                "narration_text": "#C C washes the table clothe",
+                "start_frame": 3559,
+                "stop_frame": 3885
+            },
+            {
+                "narration_text": "#C C scrubs the serving spoon",
+                "start_frame": 3885,
+                "stop_frame": 3959
+            }
+        ]
+    },
+    {
+        "task_goal": "Scrubbing and washing utensils and pans",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C scrubs the serving spoon",
+                "start_frame": 3885,
+                "stop_frame": 3959
+            },
+            {
+                "narration_text": "#C C scrubs the pan",
+                "start_frame": 3959,
+                "stop_frame": 4148
+            },
+            {
+                "narration_text": "#C C picks the a bottle of soap",
+                "start_frame": 4148,
+                "stop_frame": 4166
+            },
+            {
+                "narration_text": "#C C pours the soap in the pan",
+                "start_frame": 4166,
+                "stop_frame": 4228
+            },
+            {
+                "narration_text": "#C C scrubs the pan",
+                "start_frame": 4228,
+                "stop_frame": 4499
+            },
+            {
+                "narration_text": "#C C scrubs the serving spoon",
+                "start_frame": 4499,
+                "stop_frame": 4672
+            },
+            {
+                "narration_text": "#C C turns on the water tap",
+                "start_frame": 4672,
+                "stop_frame": 4929
+            },
+            {
+                "narration_text": "#C C washes the chop stick",
+                "start_frame": 4929,
+                "stop_frame": 5137
+            },
+            {
+                "narration_text": "#C C scrubs the pan",
+                "start_frame": 5137,
+                "stop_frame": 5397
+            },
+            {
+                "narration_text": "#C C wipes the pan with a table clothe",
+                "start_frame": 5397,
+                "stop_frame": 5528
+            },
+            {
+                "narration_text": "#C C puts the cooking pots on the same angle",
+                "start_frame": 5528,
+                "stop_frame": 5721
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 5721,
+                "stop_frame": 5826
+            }
+        ]
+    }
+]

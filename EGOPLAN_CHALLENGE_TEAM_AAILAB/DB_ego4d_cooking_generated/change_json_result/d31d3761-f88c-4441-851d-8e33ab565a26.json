@@ -1,0 +1,88 @@
+{
+    "overall_goal": "Prepare food by using various kitchen tools at the sink and microwave areas",
+    "clips": [
+        {
+            "subgoal": "Gather and rinse kitchen tools",
+            "start_timestamp": 0,
+            "stop_timestamp": 266,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Get and move measuring jug",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 64
+                },
+                {
+                    "secondary_subgoal": "Walk to the sink and put measuring jug down",
+                    "start_timestamp": 64,
+                    "stop_timestamp": 93
+                },
+                {
+                    "secondary_subgoal": "Turn on the tap",
+                    "start_timestamp": 132,
+                    "stop_timestamp": 141
+                },
+                {
+                    "secondary_subgoal": "Rinse hands and dry them",
+                    "start_timestamp": 166,
+                    "stop_timestamp": 266
+                }
+            ]
+        },
+        {
+            "subgoal": "Shake and handle strainer bowl",
+            "start_timestamp": 266,
+            "stop_timestamp": 487,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Press and shake the strainer bowl",
+                    "start_timestamp": 266,
+                    "stop_timestamp": 426
+                },
+                {
+                    "secondary_subgoal": "Handle measuring jug and pour water",
+                    "start_timestamp": 487,
+                    "stop_timestamp": 554
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle objects in the microwave area",
+            "start_timestamp": 554,
+            "stop_timestamp": 772,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move towards microwave and press buttons",
+                    "start_timestamp": 554,
+                    "stop_timestamp": 609
+                },
+                {
+                    "secondary_subgoal": "Transfer objects into a bowl",
+                    "start_timestamp": 625,
+                    "stop_timestamp": 732
+                },
+                {
+                    "secondary_subgoal": "Handle the measuring jug",
+                    "start_timestamp": 772,
+                    "stop_timestamp": 772
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash and dry hands",
+            "start_timestamp": 848,
+            "stop_timestamp": 1038,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk to the sink",
+                    "start_timestamp": 926,
+                    "stop_timestamp": 960
+                },
+                {
+                    "secondary_subgoal": "Rinse and dry hands",
+                    "start_timestamp": 960,
+                    "stop_timestamp": 1038
+                }
+            ]
+        }
+    ]
+}

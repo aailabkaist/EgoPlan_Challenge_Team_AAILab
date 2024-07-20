@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egulCj9VMPW2RDQXHV4aetDYJVed",
+    "object": "chat.completion",
+    "created": 1719485111,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare vegetables and other ingredients for a meal, alongside another person, where C is the main actor and M or lady x assists intermittently.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Set up and prepare cooking area\",\n      \"start_timestamp\": 38,\n      \"stop_timestamp\": 876,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Respond to phone call\",\n          \"start_timestamp\": 38,\n          \"stop_timestamp\": 166\n        },\n        {\n          \"secondary_subgoal\": \"Move sufuria to the sink and fill with water\",\n          \"start_timestamp\": 259,\n          \"stop_timestamp\": 473\n        },\n        {\n          \"secondary_subgoal\": \"Place sufuria on stove, move items, and gather tools\",\n          \"start_timestamp\": 573,\n          \"stop_timestamp\": 1127\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handle and prepare vegetables\",\n      \"start_timestamp\": 1283,\n      \"stop_timestamp\": 19318,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Work with onions\",\n          \"start_timestamp\": 1283,\n          \"stop_timestamp\": 8775\n        },\n        {\n          \"secondary_subgoal\": \"Wash and prepare cucumber\",\n          \"start_timestamp\": 8775,\n          \"stop_timestamp\": 14621\n        },\n        {\n          \"secondary_subgoal\": \"Cut cucumber pieces and assist with spaghetti\",\n          \"start_timestamp\": 14621,\n          \"stop_timestamp\": 19535\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finalize meal preparation\",\n      \"start_timestamp\": 19535,\n      \"stop_timestamp\": 21339,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Add final ingredients and clean up\",\n          \"start_timestamp\": 19535,\n          \"stop_timestamp\": 21239\n        },\n        {\n          \"secondary_subgoal\": \"Prepare plating and dining ware\",\n          \"start_timestamp\": 21239,\n          \"stop_timestamp\": 21339\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6587,
+        "completion_tokens": 460,
+        "total_tokens": 7047
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

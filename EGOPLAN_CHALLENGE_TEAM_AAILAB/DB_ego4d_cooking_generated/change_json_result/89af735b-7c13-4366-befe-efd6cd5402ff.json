@@ -1,0 +1,83 @@
+{
+    "overall_goal": "Prepare a complete meal involving multiple ingredients and kitchen tools.",
+    "clips": [
+        {
+            "subgoal": "Prepare and cut fruits",
+            "start_timestamp": 226,
+            "stop_timestamp": 3952,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Trim and cut banana",
+                    "start_timestamp": 241,
+                    "stop_timestamp": 1200
+                },
+                {
+                    "secondary_subgoal": "Cut pawpaw fruit and remove seeds",
+                    "start_timestamp": 1259,
+                    "stop_timestamp": 3442
+                },
+                {
+                    "secondary_subgoal": "Chop the #unsure fruit",
+                    "start_timestamp": 3494,
+                    "stop_timestamp": 3952
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cut vegetables",
+            "start_timestamp": 4643,
+            "stop_timestamp": 41096,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and cut green pepper",
+                    "start_timestamp": 4725,
+                    "stop_timestamp": 4964
+                },
+                {
+                    "secondary_subgoal": "Prepare and cut cabbage",
+                    "start_timestamp": 5165,
+                    "stop_timestamp": 7201
+                },
+                {
+                    "secondary_subgoal": "Prepare and cut onion",
+                    "start_timestamp": 17286,
+                    "stop_timestamp": 17874
+                }
+            ]
+        },
+        {
+            "subgoal": "Grate the coconut and prepare coconut mixture",
+            "start_timestamp": 18454,
+            "stop_timestamp": 30036,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Grate the coconut",
+                    "start_timestamp": 18454,
+                    "stop_timestamp": 29655
+                },
+                {
+                    "secondary_subgoal": "Process grated coconut with grinder",
+                    "start_timestamp": 29655,
+                    "stop_timestamp": 30036
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the food",
+            "start_timestamp": 30115,
+            "stop_timestamp": 50096,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and cook mixture in the pan",
+                    "start_timestamp": 30155,
+                    "stop_timestamp": 36604
+                },
+                {
+                    "secondary_subgoal": "Stir food and make final adjustments",
+                    "start_timestamp": 36604,
+                    "stop_timestamp": 50096
+                }
+            ]
+        }
+    ]
+}

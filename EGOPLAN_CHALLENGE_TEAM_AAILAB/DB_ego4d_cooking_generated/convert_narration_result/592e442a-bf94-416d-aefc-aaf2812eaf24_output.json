@@ -1,0 +1,517 @@
+[
+    {
+        "task_goal": "Peeling boiled egg",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Peels boiled egg",
+                "start_frame": 1,
+                "stop_frame": 138
+            },
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 138,
+                "stop_frame": 191
+            }
+        ]
+    },
+    {
+        "task_goal": "Turning on faucet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Peels boiled egg",
+                "start_frame": 1,
+                "stop_frame": 138
+            },
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 138,
+                "stop_frame": 191
+            },
+            {
+                "narration_text": "Washes boiled egg",
+                "start_frame": 191,
+                "stop_frame": 265
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing boiled egg",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 138,
+                "stop_frame": 191
+            },
+            {
+                "narration_text": "Washes boiled egg",
+                "start_frame": 191,
+                "stop_frame": 265
+            },
+            {
+                "narration_text": "Holds boiled egg",
+                "start_frame": 265,
+                "stop_frame": 265
+            },
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 265,
+                "stop_frame": 336
+            }
+        ]
+    },
+    {
+        "task_goal": "Turning off faucet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes boiled egg",
+                "start_frame": 191,
+                "stop_frame": 265
+            },
+            {
+                "narration_text": "Holds boiled egg",
+                "start_frame": 265,
+                "stop_frame": 265
+            },
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 265,
+                "stop_frame": 336
+            },
+            {
+                "narration_text": "Peels boiled egg",
+                "start_frame": 336,
+                "stop_frame": 850
+            }
+        ]
+    },
+    {
+        "task_goal": "Peeling boiled egg",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 265,
+                "stop_frame": 336
+            },
+            {
+                "narration_text": "Peels boiled egg",
+                "start_frame": 336,
+                "stop_frame": 850
+            },
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 850,
+                "stop_frame": 954
+            }
+        ]
+    },
+    {
+        "task_goal": "Removing egg shells and washing hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Removes egg shells off right hand",
+                "start_frame": 1053,
+                "stop_frame": 1133
+            },
+            {
+                "narration_text": "Turns faucet on",
+                "start_frame": 1133,
+                "stop_frame": 1212
+            },
+            {
+                "narration_text": "Washes hand",
+                "start_frame": 1212,
+                "stop_frame": 1273
+            },
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 1273,
+                "stop_frame": 1325
+            },
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 1325,
+                "stop_frame": 1325
+            },
+            {
+                "narration_text": "Holds boiled egg",
+                "start_frame": 1325,
+                "stop_frame": 1366
+            },
+            {
+                "narration_text": "Washes boiled egg",
+                "start_frame": 1366,
+                "stop_frame": 1366
+            },
+            {
+                "narration_text": "Peels egg",
+                "start_frame": 1366,
+                "stop_frame": 1646
+            }
+        ]
+    },
+    {
+        "task_goal": "Removing egg shells off right hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Removes egg shells off right hand",
+                "start_frame": 1053,
+                "stop_frame": 1133
+            },
+            {
+                "narration_text": "Turns faucet on",
+                "start_frame": 1133,
+                "stop_frame": 1212
+            },
+            {
+                "narration_text": "Washes hand",
+                "start_frame": 1212,
+                "stop_frame": 1273
+            }
+        ]
+    },
+    {
+        "task_goal": "Turning on faucet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns faucet on",
+                "start_frame": 1133,
+                "stop_frame": 1212
+            },
+            {
+                "narration_text": "Washes hand",
+                "start_frame": 1212,
+                "stop_frame": 1273
+            },
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 1273,
+                "stop_frame": 1325
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes hand",
+                "start_frame": 1212,
+                "stop_frame": 1273
+            },
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 1273,
+                "stop_frame": 1325
+            },
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 1325,
+                "stop_frame": 1325
+            },
+            {
+                "narration_text": "Holds boiled egg",
+                "start_frame": 1325,
+                "stop_frame": 1366
+            }
+        ]
+    },
+    {
+        "task_goal": "Turning off faucet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 1273,
+                "stop_frame": 1325
+            },
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 1325,
+                "stop_frame": 1325
+            },
+            {
+                "narration_text": "Holds boiled egg",
+                "start_frame": 1325,
+                "stop_frame": 1366
+            },
+            {
+                "narration_text": "Washes boiled egg",
+                "start_frame": 1366,
+                "stop_frame": 1366
+            },
+            {
+                "narration_text": "Peels egg",
+                "start_frame": 1366,
+                "stop_frame": 1646
+            }
+        ]
+    },
+    {
+        "task_goal": "Peeling and washing boiled eggs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds boiled egg",
+                "start_frame": 1325,
+                "stop_frame": 1366
+            },
+            {
+                "narration_text": "Washes boiled egg",
+                "start_frame": 1366,
+                "stop_frame": 1366
+            },
+            {
+                "narration_text": "Peels egg",
+                "start_frame": 1366,
+                "stop_frame": 1646
+            },
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 1646,
+                "stop_frame": 1698
+            },
+            {
+                "narration_text": "Peels egg",
+                "start_frame": 1698,
+                "stop_frame": 3577
+            },
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 3577,
+                "stop_frame": 3577
+            },
+            {
+                "narration_text": "Washes boiled egg",
+                "start_frame": 3577,
+                "stop_frame": 3674
+            },
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 3674,
+                "stop_frame": 3674
+            },
+            {
+                "narration_text": "Holds peeled egg",
+                "start_frame": 3674,
+                "stop_frame": 3704
+            },
+            {
+                "narration_text": "Shakes water off egg",
+                "start_frame": 3704,
+                "stop_frame": 3729
+            },
+            {
+                "narration_text": "Puts boiled egg in bowl",
+                "start_frame": 3729,
+                "stop_frame": 3795
+            }
+        ]
+    },
+    {
+        "task_goal": "Peeling boiled egg",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds boiled egg",
+                "start_frame": 1325,
+                "stop_frame": 1366
+            },
+            {
+                "narration_text": "Washes boiled egg",
+                "start_frame": 1366,
+                "stop_frame": 1366
+            },
+            {
+                "narration_text": "Peels egg",
+                "start_frame": 1366,
+                "stop_frame": 1646
+            },
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 1646,
+                "stop_frame": 1698
+            },
+            {
+                "narration_text": "Peels egg",
+                "start_frame": 1698,
+                "stop_frame": 3577
+            }
+        ]
+    },
+    {
+        "task_goal": "Turning off faucet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 1646,
+                "stop_frame": 1698
+            },
+            {
+                "narration_text": "Peels egg",
+                "start_frame": 1698,
+                "stop_frame": 3577
+            },
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 3577,
+                "stop_frame": 3577
+            },
+            {
+                "narration_text": "Washes boiled egg",
+                "start_frame": 3577,
+                "stop_frame": 3674
+            }
+        ]
+    },
+    {
+        "task_goal": "Turning on faucet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Peels egg",
+                "start_frame": 1698,
+                "stop_frame": 3577
+            },
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 3577,
+                "stop_frame": 3577
+            },
+            {
+                "narration_text": "Washes boiled egg",
+                "start_frame": 3577,
+                "stop_frame": 3674
+            },
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 3674,
+                "stop_frame": 3674
+            },
+            {
+                "narration_text": "Holds peeled egg",
+                "start_frame": 3674,
+                "stop_frame": 3704
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing boiled egg",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes boiled egg",
+                "start_frame": 3577,
+                "stop_frame": 3674
+            },
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 3674,
+                "stop_frame": 3674
+            },
+            {
+                "narration_text": "Holds peeled egg",
+                "start_frame": 3674,
+                "stop_frame": 3704
+            },
+            {
+                "narration_text": "Shakes water off egg",
+                "start_frame": 3704,
+                "stop_frame": 3729
+            }
+        ]
+    },
+    {
+        "task_goal": "Holding peeled egg",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds peeled egg",
+                "start_frame": 3674,
+                "stop_frame": 3704
+            },
+            {
+                "narration_text": "Shakes water off egg",
+                "start_frame": 3704,
+                "stop_frame": 3729
+            },
+            {
+                "narration_text": "Puts boiled egg in bowl",
+                "start_frame": 3729,
+                "stop_frame": 3795
+            }
+        ]
+    },
+    {
+        "task_goal": "Shaking water off egg and putting boiled egg in bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Shakes water off egg",
+                "start_frame": 3704,
+                "stop_frame": 3729
+            },
+            {
+                "narration_text": "Puts boiled egg in bowl",
+                "start_frame": 3729,
+                "stop_frame": 3795
+            },
+            {
+                "narration_text": "Turns faucet on",
+                "start_frame": 3795,
+                "stop_frame": 3814
+            },
+            {
+                "narration_text": "Washes hands",
+                "start_frame": 3814,
+                "stop_frame": 3834
+            }
+        ]
+    },
+    {
+        "task_goal": "Mixing members and adding mayonnaise",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Mixes mayonnaise into egg salad with fork & spoon",
+                "start_frame": 5988,
+                "stop_frame": 7225
+            },
+            {
+                "narration_text": "Puts spoon & fork down",
+                "start_frame": 7225,
+                "stop_frame": 7298
+            },
+            {
+                "narration_text": "Picks up bottle of mayonnaise",
+                "start_frame": 7298,
+                "stop_frame": 7331
+            },
+            {
+                "narration_text": "Holds bottle of mayonnaise",
+                "start_frame": 7331,
+                "stop_frame": 7331
+            },
+            {
+                "narration_text": "Turns around",
+                "start_frame": 7331,
+                "stop_frame": 7373
+            },
+            {
+                "narration_text": "Holds bottle of mayonnaise",
+                "start_frame": 7373,
+                "stop_frame": 7373
+            },
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 7373,
+                "stop_frame": 7440
+            },
+            {
+                "narration_text": "Returns bottle of mayonnaise",
+                "start_frame": 7440,
+                "stop_frame": 7501
+            },
+            {
+                "narration_text": "Picks up bowl with egg shells",
+                "start_frame": 7501,
+                "stop_frame": 7509
+            },
+            {
+                "narration_text": "Shuts fridge door",
+                "start_frame": 7509,
+                "stop_frame": 7522
+            }
+        ]
+    }
+]

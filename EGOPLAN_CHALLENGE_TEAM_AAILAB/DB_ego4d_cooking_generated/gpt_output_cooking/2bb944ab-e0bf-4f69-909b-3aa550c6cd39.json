@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dt3igRNLklzajRHyU06KBw6OuKMX",
+    "object": "chat.completion",
+    "created": 1719293466,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and serving a bowl of noodles with vegetables, and cleaning up the kitchen\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing noodles in the bowl\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 383,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Throwing away trash and handling the cooking pot\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 18\n        },\n        {\n          \"secondary_subgoal\": \"Stirring and cooking noodles\",\n          \"start_timestamp\": 18,\n          \"stop_timestamp\": 217\n        },\n        {\n          \"secondary_subgoal\": \"Transferring noodles to the bowl\",\n          \"start_timestamp\": 217,\n          \"stop_timestamp\": 252\n        },\n        {\n          \"secondary_subgoal\": \"Pouring noodles into the bowl\",\n          \"start_timestamp\": 252,\n          \"stop_timestamp\": 333\n        },\n        {\n          \"secondary_subgoal\": \"Moving the cooking pot to the sink\",\n          \"start_timestamp\": 333,\n          \"stop_timestamp\": 373\n        },\n        {\n          \"secondary_subgoal\": \"Stirring noodles in the bowl\",\n          \"start_timestamp\": 373,\n          \"stop_timestamp\": 383\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Adding vegetables to the bowl of noodles\",\n      \"start_timestamp\": 383,\n      \"stop_timestamp\": 1272,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Preparing and handling vegetables\",\n          \"start_timestamp\": 419,\n          \"stop_timestamp\": 451\n        },\n        {\n          \"secondary_subgoal\": \"Pouring vegetables onto the noodles\",\n          \"start_timestamp\": 451,\n          \"stop_timestamp\": 1201\n        },\n        {\n          \"secondary_subgoal\": \"Stirring noodles and vegetables in the bowl\",\n          \"start_timestamp\": 1201,\n          \"stop_timestamp\": 1272\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning up the kitchen\",\n      \"start_timestamp\": 1272,\n      \"stop_timestamp\": 1645,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handling and cleaning cooking utensils\",\n          \"start_timestamp\": 1272,\n          \"stop_timestamp\": 1332\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning the kitchen surface\",\n          \"start_timestamp\": 1348,\n          \"stop_timestamp\": 1514\n        },\n        {\n          \"secondary_subgoal\": \"Final touches and wrapping up\",\n          \"start_timestamp\": 1514,\n          \"stop_timestamp\": 1645\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 556,
+        "completion_tokens": 582,
+        "total_tokens": 1138
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efJzpbtT2UltEdlvVnwQiGIZyu5Z",
+    "object": "chat.completion",
+    "created": 1719478987,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare fried roti by processing and cooking dough in hot oil\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Skim initially prepared mixture and transfer to cooking area\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 647,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Skim mixture with skimmer spoon\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 379\n        },\n        {\n          \"secondary_subgoal\": \"Transfer skimmed mixture to bowl\",\n          \"start_timestamp\": 379,\n          \"stop_timestamp\": 645\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Place ingredients into frying pan\",\n      \"start_timestamp\": 645,\n      \"stop_timestamp\": 17623,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pull and handle cloth to pick ingredients\",\n          \"start_timestamp\": 645,\n          \"stop_timestamp\": 1157\n        },\n        {\n          \"secondary_subgoal\": \"Place ingredients into frying pan\",\n          \"start_timestamp\": 1157,\n          \"stop_timestamp\": 16963\n        },\n        {\n          \"secondary_subgoal\": \"Switch between skimmer and other utensils\",\n          \"start_timestamp\": 16963,\n          \"stop_timestamp\": 17623\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Stir and manage frying ingredients\",\n      \"start_timestamp\": 17623,\n      \"stop_timestamp\": 25138,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir ingredients with skimmer spoon\",\n          \"start_timestamp\": 17623,\n          \"stop_timestamp\": 22943\n        },\n        {\n          \"secondary_subgoal\": \"Handle skimmer spoon and adjust frying process\",\n          \"start_timestamp\": 22943,\n          \"stop_timestamp\": 25138\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Add additional dough to frying pan and manage frying\",\n      \"start_timestamp\": 25138,\n      \"stop_timestamp\": 31112,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Add rolled dough to frying pan\",\n          \"start_timestamp\": 25138,\n          \"stop_timestamp\": 25959\n        },\n        {\n          \"secondary_subgoal\": \"Dip and turn dough in oil using slotted spoon\",\n          \"start_timestamp\": 25959,\n          \"stop_timestamp\": 31112\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Remove cooked roti from oil and add new dough for frying\",\n      \"start_timestamp\": 31112,\n      \"stop_timestamp\": 31811,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Remove fried roti from hot oil and place in bowl\",\n          \"start_timestamp\": 31112,\n          \"stop_timestamp\": 31396\n        },\n        {\n          \"secondary_subgoal\": \"Place new dough into frying pan\",\n          \"start_timestamp\": 31396,\n          \"stop_timestamp\": 31811\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4041,
+        "completion_tokens": 666,
+        "total_tokens": 4707
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

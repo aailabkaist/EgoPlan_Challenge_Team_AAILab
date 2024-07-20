@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eguHniNO6MkWmv19UjRZvJJa3rjs",
+    "object": "chat.completion",
+    "created": 1719485081,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cook dough rings and flies dough rolls in the pan\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare dough rings\",\n      \"start_timestamp\": 1,\n      \"stop_timestamp\": 2761,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir and turn dough rings in the pan\",\n          \"start_timestamp\": 1,\n          \"stop_timestamp\": 1293\n        },\n        {\n          \"secondary_subgoal\": \"Pick and drain oil from dough rings\",\n          \"start_timestamp\": 1293,\n          \"stop_timestamp\": 2672\n        },\n        {\n          \"secondary_subgoal\": \"Prepare strainer\",\n          \"start_timestamp\": 2672,\n          \"stop_timestamp\": 2761\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Transfer dough rings to strainer and oil\",\n      \"start_timestamp\": 2761,\n      \"stop_timestamp\": 3394,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put dough rings in strainer and prepare lids\",\n          \"start_timestamp\": 2761,\n          \"stop_timestamp\": 3322\n        },\n        {\n          \"secondary_subgoal\": \"Put lids down and sit\",\n          \"start_timestamp\": 3322,\n          \"stop_timestamp\": 3619\n        },\n        {\n          \"secondary_subgoal\": \"Adjust camera\",\n          \"start_timestamp\": 3619,\n          \"stop_timestamp\": 3671\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Turn and stir dough rings\",\n      \"start_timestamp\": 3671,\n      \"stop_timestamp\": 11790,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Hold up and turn dough rings\",\n          \"start_timestamp\": 3671,\n          \"stop_timestamp\": 4208\n        },\n        {\n          \"secondary_subgoal\": \"Pour dough rings in strainer\",\n          \"start_timestamp\": 4208,\n          \"stop_timestamp\": 4264\n        },\n        {\n          \"secondary_subgoal\": \"Turn and stir dough rings with stick\",\n          \"start_timestamp\": 5029,\n          \"stop_timestamp\": 6748\n        },\n        {\n          \"secondary_subgoal\": \"Turn and place metal stick on the pan\",\n          \"start_timestamp\": 6748,\n          \"stop_timestamp\": 8376\n        },\n        {\n          \"secondary_subgoal\": \"Pick and turn dough rings\",\n          \"start_timestamp\": 8376,\n          \"stop_timestamp\": 9100\n        },\n        {\n          \"secondary_subgoal\": \"Stir flies dough rolls with rod\",\n          \"start_timestamp\": 9100,\n          \"stop_timestamp\": 10315\n        },\n        {\n          \"secondary_subgoal\": \"Turn and place flies dough rolls on rod\",\n          \"start_timestamp\": 10315,\n          \"stop_timestamp\": 11790\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Transfer flies dough rolls to pot\",\n      \"start_timestamp\": 11790,\n      \"stop_timestamp\": 13641,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pour and move flies dough rolls to larger pot\",\n          \"start_timestamp\": 11790,\n          \"stop_timestamp\": 12456\n        },\n        {\n          \"secondary_subgoal\": \"Hand flies dough rolls to lady X\",\n          \"start_timestamp\": 12456,\n          \"stop_timestamp\": 13641\n        }\n      ]\n    }\n  ]\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1450,
+        "completion_tokens": 751,
+        "total_tokens": 2201
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

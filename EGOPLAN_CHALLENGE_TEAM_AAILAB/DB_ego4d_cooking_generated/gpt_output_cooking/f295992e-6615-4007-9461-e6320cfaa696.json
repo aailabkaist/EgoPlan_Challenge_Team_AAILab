@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eflzgD7iMmvOrYQavPAJTvFcV5z2",
+    "object": "chat.completion",
+    "created": 1719480723,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare dough with minced meat filling and handle cooking utensils\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare and wrap dough with minced meat\",\n      \"start_timestamp\": 5297,\n      \"stop_timestamp\": 6594,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Roll and fill dough with minced meat\",\n          \"start_timestamp\": 5297,\n          \"stop_timestamp\": 5861\n        },\n        {\n          \"secondary_subgoal\": \"Wrap dough with minced meat\",\n          \"start_timestamp\": 5861,\n          \"stop_timestamp\": 6337\n        },\n        {\n          \"secondary_subgoal\": \"Roll and handle wrapped dough\",\n          \"start_timestamp\": 6337,\n          \"stop_timestamp\": 6594\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handle raw dough pieces\",\n      \"start_timestamp\": 6594,\n      \"stop_timestamp\": 6943,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and place dough pieces on the round tray\",\n          \"start_timestamp\": 6594,\n          \"stop_timestamp\": 6908\n        },\n        {\n          \"secondary_subgoal\": \"Stare and move around\",\n          \"start_timestamp\": 6908,\n          \"stop_timestamp\": 6943\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Observe and interact with surroundings\",\n      \"start_timestamp\": 6943,\n      \"stop_timestamp\": 7817,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Move and stare at surroundings\",\n          \"start_timestamp\": 6943,\n          \"stop_timestamp\": 7335\n        },\n        {\n          \"secondary_subgoal\": \"Observe 'lady x' and kitchen setup\",\n          \"start_timestamp\": 7335,\n          \"stop_timestamp\": 7817\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Observation only\",\n      \"start_timestamp\": 7817,\n      \"stop_timestamp\": 7917,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Observe 'lady x' moving\",\n          \"start_timestamp\": 7817,\n          \"stop_timestamp\": 7917\n        }\n      ]\n    }\n  ]\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1359,
+        "completion_tokens": 491,
+        "total_tokens": 1850
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

@@ -1,0 +1,164 @@
+{
+    "overall_goal": "Prepare and mix ingredients to create a paste in a bowl.",
+    "clips": [
+        {
+            "subgoal": "Scrap off ingredient from plate and floor, then mix paste",
+            "start_timestamp": 6611,
+            "stop_timestamp": 6902,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Scrap off ingredient from the plate",
+                    "start_timestamp": 6611,
+                    "stop_timestamp": 6761
+                },
+                {
+                    "secondary_subgoal": "Put down the plate",
+                    "start_timestamp": 6761,
+                    "stop_timestamp": 6812
+                },
+                {
+                    "secondary_subgoal": "Scrap off the paste from the floor",
+                    "start_timestamp": 6812,
+                    "stop_timestamp": 6894
+                },
+                {
+                    "secondary_subgoal": "Pick up an object from the bowl",
+                    "start_timestamp": 6894,
+                    "stop_timestamp": 6902
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix the paste and add ingredients incrementally",
+            "start_timestamp": 6902,
+            "stop_timestamp": 13228,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put object on the plate",
+                    "start_timestamp": 6902,
+                    "stop_timestamp": 6944
+                },
+                {
+                    "secondary_subgoal": "Mix the paste in the bowl with right hand",
+                    "start_timestamp": 6944,
+                    "stop_timestamp": 7188
+                },
+                {
+                    "secondary_subgoal": "Pick up and pour ingredient in the paste",
+                    "start_timestamp": 7188,
+                    "stop_timestamp": 7299
+                },
+                {
+                    "secondary_subgoal": "Put the ingredient down",
+                    "start_timestamp": 7299,
+                    "stop_timestamp": 7356
+                },
+                {
+                    "secondary_subgoal": "Mix the paste in the bowl with right hand",
+                    "start_timestamp": 7356,
+                    "stop_timestamp": 7847
+                },
+                {
+                    "secondary_subgoal": "Look around",
+                    "start_timestamp": 7847,
+                    "stop_timestamp": 7965
+                },
+                {
+                    "secondary_subgoal": "Mix the paste in the bowl with right hand",
+                    "start_timestamp": 7965,
+                    "stop_timestamp": 8012
+                },
+                {
+                    "secondary_subgoal": "Pick up and pour ingredient in the paste",
+                    "start_timestamp": 8012,
+                    "stop_timestamp": 8089
+                },
+                {
+                    "secondary_subgoal": "Put the ingredient down",
+                    "start_timestamp": 8089,
+                    "stop_timestamp": 8110
+                },
+                {
+                    "secondary_subgoal": "Mix the paste in the bowl with right hand",
+                    "start_timestamp": 8110,
+                    "stop_timestamp": 8403
+                },
+                {
+                    "secondary_subgoal": "Scrap off the paste from hands in the bowl",
+                    "start_timestamp": 8403,
+                    "stop_timestamp": 9178
+                },
+                {
+                    "secondary_subgoal": "Pick up and pour ingredient in the paste",
+                    "start_timestamp": 9178,
+                    "stop_timestamp": 9265
+                },
+                {
+                    "secondary_subgoal": "Put the ingredient down",
+                    "start_timestamp": 9265,
+                    "stop_timestamp": 9290
+                },
+                {
+                    "secondary_subgoal": "Mix the paste in the bowl with right hand",
+                    "start_timestamp": 9290,
+                    "stop_timestamp": 9905
+                },
+                {
+                    "secondary_subgoal": "Lift left hand",
+                    "start_timestamp": 9905,
+                    "stop_timestamp": 9948
+                },
+                {
+                    "secondary_subgoal": "Put left hand down",
+                    "start_timestamp": 9948,
+                    "stop_timestamp": 10004
+                },
+                {
+                    "secondary_subgoal": "Mix the paste in the bowl with right hand",
+                    "start_timestamp": 10004,
+                    "stop_timestamp": 10577
+                },
+                {
+                    "secondary_subgoal": "Scrap off the paste from hands in the bowl",
+                    "start_timestamp": 10577,
+                    "stop_timestamp": 11033
+                },
+                {
+                    "secondary_subgoal": "Mix the paste in the bowl with right hand",
+                    "start_timestamp": 11033,
+                    "stop_timestamp": 11298
+                },
+                {
+                    "secondary_subgoal": "Scoop and sprinkle ingredient in the paste",
+                    "start_timestamp": 11298,
+                    "stop_timestamp": 11528
+                },
+                {
+                    "secondary_subgoal": "Scrap paste from finger onto the floor",
+                    "start_timestamp": 11528,
+                    "stop_timestamp": 11594
+                },
+                {
+                    "secondary_subgoal": "Mix the paste in the bowl with right hand",
+                    "start_timestamp": 11594,
+                    "stop_timestamp": 11915
+                },
+                {
+                    "secondary_subgoal": "Look around",
+                    "start_timestamp": 11915,
+                    "stop_timestamp": 12037
+                },
+                {
+                    "secondary_subgoal": "Mix the paste in the bowl with right hand",
+                    "start_timestamp": 12037,
+                    "stop_timestamp": 13128
+                },
+                {
+                    "secondary_subgoal": "Adjust the camera",
+                    "start_timestamp": 13128,
+                    "stop_timestamp": 13228
+                }
+            ]
+        }
+    ]
+}

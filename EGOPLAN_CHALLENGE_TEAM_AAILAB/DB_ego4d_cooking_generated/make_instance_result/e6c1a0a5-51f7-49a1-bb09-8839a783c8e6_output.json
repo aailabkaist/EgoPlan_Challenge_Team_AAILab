@@ -1,0 +1,992 @@
+[
+    {
+        "task_goal": "Make a dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C makes a dough",
+                "start_frame": 1,
+                "stop_frame": 281
+            },
+            {
+                "narration_text": "#C C takes the serviette",
+                "start_frame": 281,
+                "stop_frame": 366
+            }
+        ]
+    },
+    {
+        "task_goal": "Take the serviette",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C makes a dough",
+                "start_frame": 1,
+                "stop_frame": 281
+            },
+            {
+                "narration_text": "#C C takes the serviette",
+                "start_frame": 281,
+                "stop_frame": 366
+            },
+            {
+                "narration_text": "#C C wipes thee sink with a serviette",
+                "start_frame": 366,
+                "stop_frame": 650
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe the sink with serviette",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes the serviette",
+                "start_frame": 281,
+                "stop_frame": 366
+            },
+            {
+                "narration_text": "#C C wipes thee sink with a serviette",
+                "start_frame": 366,
+                "stop_frame": 650
+            },
+            {
+                "narration_text": "#C C places the serviette in a container",
+                "start_frame": 650,
+                "stop_frame": 690
+            }
+        ]
+    },
+    {
+        "task_goal": "Place serviette in a container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C wipes thee sink with a serviette",
+                "start_frame": 366,
+                "stop_frame": 650
+            },
+            {
+                "narration_text": "#C C places the serviette in a container",
+                "start_frame": 650,
+                "stop_frame": 690
+            },
+            {
+                "narration_text": "#C C makes a dough",
+                "start_frame": 690,
+                "stop_frame": 965
+            }
+        ]
+    },
+    {
+        "task_goal": "Continue making the dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places the serviette in a container",
+                "start_frame": 650,
+                "stop_frame": 690
+            },
+            {
+                "narration_text": "#C C makes a dough",
+                "start_frame": 690,
+                "stop_frame": 965
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 965,
+                "stop_frame": 1003
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C makes a dough",
+                "start_frame": 690,
+                "stop_frame": 965
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 965,
+                "stop_frame": 1003
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 1003,
+                "stop_frame": 1043
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 965,
+                "stop_frame": 1003
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 1003,
+                "stop_frame": 1043
+            },
+            {
+                "narration_text": "#C C takes the eggs",
+                "start_frame": 1043,
+                "stop_frame": 1165
+            }
+        ]
+    },
+    {
+        "task_goal": "Take the eggs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 1003,
+                "stop_frame": 1043
+            },
+            {
+                "narration_text": "#C C takes the eggs",
+                "start_frame": 1043,
+                "stop_frame": 1165
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 1165,
+                "stop_frame": 1222
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes the eggs",
+                "start_frame": 1043,
+                "stop_frame": 1165
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 1165,
+                "stop_frame": 1222
+            },
+            {
+                "narration_text": "#C C takes out the eggs",
+                "start_frame": 1222,
+                "stop_frame": 1381
+            }
+        ]
+    },
+    {
+        "task_goal": "Take out the eggs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 1165,
+                "stop_frame": 1222
+            },
+            {
+                "narration_text": "#C C takes out the eggs",
+                "start_frame": 1222,
+                "stop_frame": 1381
+            },
+            {
+                "narration_text": "#C C places the polythene paper in a container",
+                "start_frame": 1381,
+                "stop_frame": 1426
+            }
+        ]
+    },
+    {
+        "task_goal": "Place polythene paper in a container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes out the eggs",
+                "start_frame": 1222,
+                "stop_frame": 1381
+            },
+            {
+                "narration_text": "#C C places the polythene paper in a container",
+                "start_frame": 1381,
+                "stop_frame": 1426
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 1426,
+                "stop_frame": 1503
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places the polythene paper in a container",
+                "start_frame": 1381,
+                "stop_frame": 1426
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 1426,
+                "stop_frame": 1503
+            },
+            {
+                "narration_text": "#C C removes the eggs from the sachet",
+                "start_frame": 1503,
+                "stop_frame": 1992
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove eggs from sachet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 1426,
+                "stop_frame": 1503
+            },
+            {
+                "narration_text": "#C C removes the eggs from the sachet",
+                "start_frame": 1503,
+                "stop_frame": 1992
+            },
+            {
+                "narration_text": "#C C places the eggs in the fridge",
+                "start_frame": 1992,
+                "stop_frame": 2163
+            }
+        ]
+    },
+    {
+        "task_goal": "Place eggs in the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C removes the eggs from the sachet",
+                "start_frame": 1503,
+                "stop_frame": 1992
+            },
+            {
+                "narration_text": "#C C places the eggs in the fridge",
+                "start_frame": 1992,
+                "stop_frame": 2163
+            },
+            {
+                "narration_text": "#C C walks around the kitchen",
+                "start_frame": 2163,
+                "stop_frame": 2213
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk around the kitchen",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places the eggs in the fridge",
+                "start_frame": 1992,
+                "stop_frame": 2163
+            },
+            {
+                "narration_text": "#C C walks around the kitchen",
+                "start_frame": 2163,
+                "stop_frame": 2213
+            },
+            {
+                "narration_text": "#C C puts the eggs in a bowl",
+                "start_frame": 2213,
+                "stop_frame": 2752
+            }
+        ]
+    },
+    {
+        "task_goal": "Put eggs in a bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around the kitchen",
+                "start_frame": 2163,
+                "stop_frame": 2213
+            },
+            {
+                "narration_text": "#C C puts the eggs in a bowl",
+                "start_frame": 2213,
+                "stop_frame": 2752
+            },
+            {
+                "narration_text": "#C C washes the hand",
+                "start_frame": 2752,
+                "stop_frame": 2812
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the eggs in a bowl",
+                "start_frame": 2213,
+                "stop_frame": 2752
+            },
+            {
+                "narration_text": "#C C washes the hand",
+                "start_frame": 2752,
+                "stop_frame": 2812
+            },
+            {
+                "narration_text": "#C C dries the hands with a towel",
+                "start_frame": 2812,
+                "stop_frame": 2877
+            }
+        ]
+    },
+    {
+        "task_goal": "Dry hands with a towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C washes the hand",
+                "start_frame": 2752,
+                "stop_frame": 2812
+            },
+            {
+                "narration_text": "#C C dries the hands with a towel",
+                "start_frame": 2812,
+                "stop_frame": 2877
+            },
+            {
+                "narration_text": "#C C mixes the eggs",
+                "start_frame": 2877,
+                "stop_frame": 3120
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix the eggs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C dries the hands with a towel",
+                "start_frame": 2812,
+                "stop_frame": 2877
+            },
+            {
+                "narration_text": "#C C mixes the eggs",
+                "start_frame": 2877,
+                "stop_frame": 3120
+            },
+            {
+                "narration_text": "#C C puts the eggs in the dough",
+                "start_frame": 3120,
+                "stop_frame": 3245
+            }
+        ]
+    },
+    {
+        "task_goal": "Put eggs in the dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C mixes the eggs",
+                "start_frame": 2877,
+                "stop_frame": 3120
+            },
+            {
+                "narration_text": "#C C puts the eggs in the dough",
+                "start_frame": 3120,
+                "stop_frame": 3245
+            },
+            {
+                "narration_text": "#C C puts the bowl in the sink",
+                "start_frame": 3245,
+                "stop_frame": 3285
+            }
+        ]
+    },
+    {
+        "task_goal": "Put bowl in the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the eggs in the dough",
+                "start_frame": 3120,
+                "stop_frame": 3245
+            },
+            {
+                "narration_text": "#C C puts the bowl in the sink",
+                "start_frame": 3245,
+                "stop_frame": 3285
+            },
+            {
+                "narration_text": "#C C makes a dough",
+                "start_frame": 3285,
+                "stop_frame": 4381
+            }
+        ]
+    },
+    {
+        "task_goal": "Continue making the dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the bowl in the sink",
+                "start_frame": 3245,
+                "stop_frame": 3285
+            },
+            {
+                "narration_text": "#C C makes a dough",
+                "start_frame": 3285,
+                "stop_frame": 4381
+            },
+            {
+                "narration_text": "#C C moves the knife",
+                "start_frame": 4381,
+                "stop_frame": 4429
+            }
+        ]
+    },
+    {
+        "task_goal": "Move the knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C makes a dough",
+                "start_frame": 3285,
+                "stop_frame": 4381
+            },
+            {
+                "narration_text": "#C C moves the knife",
+                "start_frame": 4381,
+                "stop_frame": 4429
+            },
+            {
+                "narration_text": "#C C makes a dough",
+                "start_frame": 4429,
+                "stop_frame": 5551
+            }
+        ]
+    },
+    {
+        "task_goal": "Continue making the dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves the knife",
+                "start_frame": 4381,
+                "stop_frame": 4429
+            },
+            {
+                "narration_text": "#C C makes a dough",
+                "start_frame": 4429,
+                "stop_frame": 5551
+            },
+            {
+                "narration_text": "#C C scrolls the phone",
+                "start_frame": 5551,
+                "stop_frame": 5636
+            }
+        ]
+    },
+    {
+        "task_goal": "Scroll the phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C makes a dough",
+                "start_frame": 4429,
+                "stop_frame": 5551
+            },
+            {
+                "narration_text": "#C C scrolls the phone",
+                "start_frame": 5551,
+                "stop_frame": 5636
+            },
+            {
+                "narration_text": "#C C moves the container",
+                "start_frame": 5636,
+                "stop_frame": 5742
+            }
+        ]
+    },
+    {
+        "task_goal": "Move container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C scrolls the phone",
+                "start_frame": 5551,
+                "stop_frame": 5636
+            },
+            {
+                "narration_text": "#C C moves the container",
+                "start_frame": 5636,
+                "stop_frame": 5742
+            },
+            {
+                "narration_text": "#C C takes the foil",
+                "start_frame": 5742,
+                "stop_frame": 6149
+            }
+        ]
+    },
+    {
+        "task_goal": "Take the foil",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves the container",
+                "start_frame": 5636,
+                "stop_frame": 5742
+            },
+            {
+                "narration_text": "#C C takes the foil",
+                "start_frame": 5742,
+                "stop_frame": 6149
+            },
+            {
+                "narration_text": "#C C covers the container with a foil",
+                "start_frame": 6149,
+                "stop_frame": 6916
+            }
+        ]
+    },
+    {
+        "task_goal": "Cover container with foil",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes the foil",
+                "start_frame": 5742,
+                "stop_frame": 6149
+            },
+            {
+                "narration_text": "#C C covers the container with a foil",
+                "start_frame": 6149,
+                "stop_frame": 6916
+            },
+            {
+                "narration_text": "#C C takes the bowl of dough",
+                "start_frame": 6916,
+                "stop_frame": 6947
+            }
+        ]
+    },
+    {
+        "task_goal": "Take bowl of dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C covers the container with a foil",
+                "start_frame": 6149,
+                "stop_frame": 6916
+            },
+            {
+                "narration_text": "#C C takes the bowl of dough",
+                "start_frame": 6916,
+                "stop_frame": 6947
+            },
+            {
+                "narration_text": "#C C moves the container",
+                "start_frame": 6947,
+                "stop_frame": 7026
+            }
+        ]
+    },
+    {
+        "task_goal": "Move container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes the bowl of dough",
+                "start_frame": 6916,
+                "stop_frame": 6947
+            },
+            {
+                "narration_text": "#C C moves the container",
+                "start_frame": 6947,
+                "stop_frame": 7026
+            },
+            {
+                "narration_text": "#C C puts the dough in a container",
+                "start_frame": 7026,
+                "stop_frame": 8083
+            }
+        ]
+    },
+    {
+        "task_goal": "Put dough in a container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves the container",
+                "start_frame": 6947,
+                "stop_frame": 7026
+            },
+            {
+                "narration_text": "#C C puts the dough in a container",
+                "start_frame": 7026,
+                "stop_frame": 8083
+            },
+            {
+                "narration_text": "#C C puts the bowl in the sink",
+                "start_frame": 8083,
+                "stop_frame": 8146
+            }
+        ]
+    },
+    {
+        "task_goal": "Put bowl in the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the dough in a container",
+                "start_frame": 7026,
+                "stop_frame": 8083
+            },
+            {
+                "narration_text": "#C C puts the bowl in the sink",
+                "start_frame": 8083,
+                "stop_frame": 8146
+            },
+            {
+                "narration_text": "#C C puts the serviettes on the table",
+                "start_frame": 8146,
+                "stop_frame": 8176
+            }
+        ]
+    },
+    {
+        "task_goal": "Put serviettes on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the bowl in the sink",
+                "start_frame": 8083,
+                "stop_frame": 8146
+            },
+            {
+                "narration_text": "#C C puts the serviettes on the table",
+                "start_frame": 8146,
+                "stop_frame": 8176
+            },
+            {
+                "narration_text": "#C C shakes the dough",
+                "start_frame": 8176,
+                "stop_frame": 8833
+            }
+        ]
+    },
+    {
+        "task_goal": "Shake the dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the serviettes on the table",
+                "start_frame": 8146,
+                "stop_frame": 8176
+            },
+            {
+                "narration_text": "#C C shakes the dough",
+                "start_frame": 8176,
+                "stop_frame": 8833
+            },
+            {
+                "narration_text": "#C C places the dish in a cooking pan",
+                "start_frame": 8833,
+                "stop_frame": 8969
+            }
+        ]
+    },
+    {
+        "task_goal": "Place dish in cooking pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C shakes the dough",
+                "start_frame": 8176,
+                "stop_frame": 8833
+            },
+            {
+                "narration_text": "#C C places the dish in a cooking pan",
+                "start_frame": 8833,
+                "stop_frame": 8969
+            },
+            {
+                "narration_text": "#C C puts the dough in the oven",
+                "start_frame": 8969,
+                "stop_frame": 9291
+            }
+        ]
+    },
+    {
+        "task_goal": "Put dough in the oven",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places the dish in a cooking pan",
+                "start_frame": 8833,
+                "stop_frame": 8969
+            },
+            {
+                "narration_text": "#C C puts the dough in the oven",
+                "start_frame": 8969,
+                "stop_frame": 9291
+            },
+            {
+                "narration_text": "#C C sets the oven time",
+                "start_frame": 9291,
+                "stop_frame": 9694
+            }
+        ]
+    },
+    {
+        "task_goal": "Set and switch on the oven",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the dough in the oven",
+                "start_frame": 8969,
+                "stop_frame": 9291
+            },
+            {
+                "narration_text": "#C C sets the oven time",
+                "start_frame": 9291,
+                "stop_frame": 9694
+            },
+            {
+                "narration_text": "#C C switches on the oven",
+                "start_frame": 9694,
+                "stop_frame": 9708
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 9708,
+                "stop_frame": 9774
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C switches on the oven",
+                "start_frame": 9694,
+                "stop_frame": 9708
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 9708,
+                "stop_frame": 9774
+            },
+            {
+                "narration_text": "#C C puts the utensils in the sink",
+                "start_frame": 9774,
+                "stop_frame": 10121
+            }
+        ]
+    },
+    {
+        "task_goal": "Put utensils in the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 9708,
+                "stop_frame": 9774
+            },
+            {
+                "narration_text": "#C C puts the utensils in the sink",
+                "start_frame": 9774,
+                "stop_frame": 10121
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 10121,
+                "stop_frame": 10213
+            }
+        ]
+    },
+    {
+        "task_goal": "Look around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the utensils in the sink",
+                "start_frame": 9774,
+                "stop_frame": 10121
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 10121,
+                "stop_frame": 10213
+            },
+            {
+                "narration_text": "#C C shakes the towel",
+                "start_frame": 10213,
+                "stop_frame": 10256
+            }
+        ]
+    },
+    {
+        "task_goal": "Shake and fold the towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 10121,
+                "stop_frame": 10213
+            },
+            {
+                "narration_text": "#C C shakes the towel",
+                "start_frame": 10213,
+                "stop_frame": 10256
+            },
+            {
+                "narration_text": "#C C folds the towel",
+                "start_frame": 10256,
+                "stop_frame": 10338
+            },
+            {
+                "narration_text": "#C C wipes the sink",
+                "start_frame": 10338,
+                "stop_frame": 10550
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe the sink and weighing machine",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C folds the towel",
+                "start_frame": 10256,
+                "stop_frame": 10338
+            },
+            {
+                "narration_text": "#C C wipes the sink",
+                "start_frame": 10338,
+                "stop_frame": 10550
+            },
+            {
+                "narration_text": "#C C places the weighing machine on the sink",
+                "start_frame": 10550,
+                "stop_frame": 10566
+            },
+            {
+                "narration_text": "#C C wipes the weighing machine",
+                "start_frame": 10566,
+                "stop_frame": 10771
+            },
+            {
+                "narration_text": "#C C wipes the sink",
+                "start_frame": 10771,
+                "stop_frame": 10818
+            },
+            {
+                "narration_text": "#C C places the weighing machine on the tray",
+                "start_frame": 10818,
+                "stop_frame": 10884
+            },
+            {
+                "narration_text": "#C C wipes the sink",
+                "start_frame": 10884,
+                "stop_frame": 10946
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean the washing sponge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places the weighing machine on the tray",
+                "start_frame": 10818,
+                "stop_frame": 10884
+            },
+            {
+                "narration_text": "#C C wipes the sink",
+                "start_frame": 10884,
+                "stop_frame": 10946
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 10946,
+                "stop_frame": 11056
+            },
+            {
+                "narration_text": "#C C cleans the washing sponge",
+                "start_frame": 11056,
+                "stop_frame": 11273
+            },
+            {
+                "narration_text": "#C C washes the utensils",
+                "start_frame": 11273,
+                "stop_frame": 14953
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cleans the washing sponge",
+                "start_frame": 11056,
+                "stop_frame": 11273
+            },
+            {
+                "narration_text": "#C C washes the utensils",
+                "start_frame": 11273,
+                "stop_frame": 14953
+            },
+            {
+                "narration_text": "#C C rinses the washing sponge",
+                "start_frame": 14953,
+                "stop_frame": 15013
+            },
+            {
+                "narration_text": "#C C puts away the washing sponge",
+                "start_frame": 15013,
+                "stop_frame": 15042
+            },
+            {
+                "narration_text": "#C C washes the hands",
+                "start_frame": 15042,
+                "stop_frame": 15163
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse washing sponge and wash hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts away the washing sponge",
+                "start_frame": 15013,
+                "stop_frame": 15042
+            },
+            {
+                "narration_text": "#C C washes the hands",
+                "start_frame": 15042,
+                "stop_frame": 15163
+            },
+            {
+                "narration_text": "#C C dries the hands",
+                "start_frame": 15163,
+                "stop_frame": 15205
+            }
+        ]
+    },
+    {
+        "task_goal": "Dry hands and put away the washing sponge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C washes the hands",
+                "start_frame": 15042,
+                "stop_frame": 15163
+            },
+            {
+                "narration_text": "#C C dries the hands",
+                "start_frame": 15163,
+                "stop_frame": 15205
+            },
+            {
+                "narration_text": "#C C places the utensils on the sink table",
+                "start_frame": 15205,
+                "stop_frame": 15306
+            }
+        ]
+    },
+    {
+        "task_goal": "Place utensils on the sink table and dry hands with a towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C dries the hands",
+                "start_frame": 15163,
+                "stop_frame": 15205
+            },
+            {
+                "narration_text": "#C C places the utensils on the sink table",
+                "start_frame": 15205,
+                "stop_frame": 15306
+            },
+            {
+                "narration_text": "#C C dries the hands with a towel",
+                "start_frame": 15306,
+                "stop_frame": 15454
+            },
+            {
+                "narration_text": "#C C holds #unsure",
+                "start_frame": 15454,
+                "stop_frame": 15554
+            }
+        ]
+    }
+]

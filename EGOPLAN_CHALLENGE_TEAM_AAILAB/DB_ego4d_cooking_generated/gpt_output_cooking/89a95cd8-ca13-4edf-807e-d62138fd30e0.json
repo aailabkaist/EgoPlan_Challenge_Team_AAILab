@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dg5J5FLshvzpjahyBfJh3gtK01jj",
+    "object": "chat.completion",
+    "created": 1719243593,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook dough-based food items (e.g., tortillas or roti) and perform associated kitchen tasks.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare dough\",\n      \"start_timestamp\": 93,\n      \"stop_timestamp\": 6448,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Light the cooker\",\n          \"start_timestamp\": 119,\n          \"stop_timestamp\": 174\n        },\n        {\n          \"secondary_subgoal\": \"Pour salt into cooking pot\",\n          \"start_timestamp\": 412,\n          \"stop_timestamp\": 634\n        },\n        {\n          \"secondary_subgoal\": \"Prepare flour and stir\",\n          \"start_timestamp\": 634,\n          \"stop_timestamp\": 2220\n        },\n        {\n          \"secondary_subgoal\": \"Add hot water and knead dough\",\n          \"start_timestamp\": 2220,\n          \"stop_timestamp\": 6770\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Chop vegetables and prepare ingredients\",\n      \"start_timestamp\": 6828,\n      \"stop_timestamp\": 14008,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and cover containers\",\n          \"start_timestamp\": 6828,\n          \"stop_timestamp\": 7106\n        },\n        {\n          \"secondary_subgoal\": \"Pick onions\",\n          \"start_timestamp\": 7358,\n          \"stop_timestamp\": 7491\n        },\n        {\n          \"secondary_subgoal\": \"Move and clean area\",\n          \"start_timestamp\": 7651,\n          \"stop_timestamp\": 8130\n        },\n        {\n          \"secondary_subgoal\": \"Chop onions\",\n          \"start_timestamp\": 8801,\n          \"stop_timestamp\": 8829\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook and prepare food\",\n      \"start_timestamp\": 16808,\n      \"stop_timestamp\": 37632,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pour oil in pan and prepare vegetables\",\n          \"start_timestamp\": 17137,\n          \"stop_timestamp\": 17621\n        },\n        {\n          \"secondary_subgoal\": \"Stir food and mix ingredients\",\n          \"start_timestamp\": 37290,\n          \"stop_timestamp\": 37926\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and roll dough\",\n      \"start_timestamp\": 43875,\n      \"stop_timestamp\": 59075,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handle dough and roll it\",\n          \"start_timestamp\": 43875,\n          \"stop_timestamp\": 44705\n        },\n        {\n          \"secondary_subgoal\": \"Mix flour and roll dough\",\n          \"start_timestamp\": 47029,\n          \"stop_timestamp\": 49619\n        },\n        {\n          \"secondary_subgoal\": \"Rotate and roll dough\",\n          \"start_timestamp\": 49019,\n          \"stop_timestamp\": 53720\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook tortillas/roti\",\n      \"start_timestamp\": 70994,\n      \"stop_timestamp\": 89497,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Place dough in pan and cook\",\n          \"start_timestamp\": 72580,\n          \"stop_timestamp\": 89408\n        },\n        {\n          \"secondary_subgoal\": \"Adjust tortillas in the pan\",\n          \"start_timestamp\": 82935,\n          \"stop_timestamp\": 87123\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7937,
+        "completion_tokens": 766,
+        "total_tokens": 8703
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

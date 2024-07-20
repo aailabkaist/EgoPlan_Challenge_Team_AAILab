@@ -1,0 +1,151 @@
+{
+    "overall_goal": "Prepare and serve a meal with bread, cheese, sausages, and eggs.",
+    "clips": [
+        {
+            "subgoal": "Move to kitchen area",
+            "start_timestamp": 193,
+            "stop_timestamp": 657,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk to the kitchen area",
+                    "start_timestamp": 193,
+                    "stop_timestamp": 657
+                }
+            ]
+        },
+        {
+            "subgoal": "Set up lighting and workspace",
+            "start_timestamp": 988,
+            "stop_timestamp": 1192,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Switch on lights in kitchen area",
+                    "start_timestamp": 988,
+                    "stop_timestamp": 1137
+                },
+                {
+                    "secondary_subgoal": "Prepare workspace",
+                    "start_timestamp": 1137,
+                    "stop_timestamp": 1192
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cooking utensils",
+            "start_timestamp": 1192,
+            "stop_timestamp": 1473,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Switch on kitchen light and retrieve pans",
+                    "start_timestamp": 1192,
+                    "stop_timestamp": 1437
+                },
+                {
+                    "secondary_subgoal": "Place pans on cooker",
+                    "start_timestamp": 1437,
+                    "stop_timestamp": 1473
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cheese and bread",
+            "start_timestamp": 1473,
+            "stop_timestamp": 4103,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on the cooker and retrieve cheese",
+                    "start_timestamp": 1473,
+                    "stop_timestamp": 1802
+                },
+                {
+                    "secondary_subgoal": "Prepare bread and plates",
+                    "start_timestamp": 1802,
+                    "stop_timestamp": 3151
+                },
+                {
+                    "secondary_subgoal": "Prepare cheese slices",
+                    "start_timestamp": 3151,
+                    "stop_timestamp": 4245
+                },
+                {
+                    "secondary_subgoal": "Put cheese in the pans",
+                    "start_timestamp": 4245,
+                    "stop_timestamp": 4316
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and pour oil in the pans",
+            "start_timestamp": 4316,
+            "stop_timestamp": 5525,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and pour oil into pans",
+                    "start_timestamp": 4316,
+                    "stop_timestamp": 5342
+                },
+                {
+                    "secondary_subgoal": "Roll around oil and move kitchen items",
+                    "start_timestamp": 5342,
+                    "stop_timestamp": 5525
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare bread slices",
+            "start_timestamp": 6114,
+            "stop_timestamp": 6663,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on kitchen smoke extractor and retrieve bread",
+                    "start_timestamp": 6114,
+                    "stop_timestamp": 6604
+                },
+                {
+                    "secondary_subgoal": "Place bread on plates",
+                    "start_timestamp": 6604,
+                    "stop_timestamp": 6663
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook sausages",
+            "start_timestamp": 2982,
+            "stop_timestamp": 46836,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and prepare sausage from the tin",
+                    "start_timestamp": 6982,
+                    "stop_timestamp": 8335
+                },
+                {
+                    "secondary_subgoal": "Cook and cut the sausages",
+                    "start_timestamp": 8335,
+                    "stop_timestamp": 18971
+                }
+            ]
+        },
+        {
+            "subgoal": "Complete cooking and serve",
+            "start_timestamp": 19370,
+            "stop_timestamp": 51493,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cook and serve bread and sausages",
+                    "start_timestamp": 19370,
+                    "stop_timestamp": 20198
+                },
+                {
+                    "secondary_subgoal": "Complete serving of sausages",
+                    "start_timestamp": 40319,
+                    "stop_timestamp": 46332
+                },
+                {
+                    "secondary_subgoal": "Add finishing touches and cleanup",
+                    "start_timestamp": 46332,
+                    "stop_timestamp": 51493
+                }
+            ]
+        }
+    ]
+}

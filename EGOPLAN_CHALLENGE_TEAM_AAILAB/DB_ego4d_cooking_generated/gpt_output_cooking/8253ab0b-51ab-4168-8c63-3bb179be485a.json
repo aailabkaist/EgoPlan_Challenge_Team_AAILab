@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egBzbm1bVXOysXKGi77syDuZSBRF",
+    "object": "chat.completion",
+    "created": 1719482335,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cutting and placing mango pieces in a container\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Cutting mango and placing pieces in container\",\n      \"start_timestamp\": 93,\n      \"stop_timestamp\": 1206,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cutting a mango\",\n          \"start_timestamp\": 93,\n          \"stop_timestamp\": 144\n        },\n        {\n          \"secondary_subgoal\": \"Putting down knife\",\n          \"start_timestamp\": 144,\n          \"stop_timestamp\": 186\n        },\n        {\n          \"secondary_subgoal\": \"Placing mango pieces in container\",\n          \"start_timestamp\": 186,\n          \"stop_timestamp\": 322\n        },\n        {\n          \"secondary_subgoal\": \"Inspecting a mango piece\",\n          \"start_timestamp\": 322,\n          \"stop_timestamp\": 365\n        },\n        {\n          \"secondary_subgoal\": \"Picking a knife\",\n          \"start_timestamp\": 365,\n          \"stop_timestamp\": 403\n        },\n        {\n          \"secondary_subgoal\": \"Cutting a mango\",\n          \"start_timestamp\": 403,\n          \"stop_timestamp\": 453\n        },\n        {\n          \"secondary_subgoal\": \"Placing mango pieces in container\",\n          \"start_timestamp\": 453,\n          \"stop_timestamp\": 487\n        },\n        {\n          \"secondary_subgoal\": \"Moving container\",\n          \"start_timestamp\": 487,\n          \"stop_timestamp\": 531\n        },\n        {\n          \"secondary_subgoal\": \"Cutting a mango\",\n          \"start_timestamp\": 531,\n          \"stop_timestamp\": 588\n        },\n        {\n          \"secondary_subgoal\": \"Moving hands closer to container\",\n          \"start_timestamp\": 588,\n          \"stop_timestamp\": 696\n        },\n        {\n          \"secondary_subgoal\": \"Turning a mango in hand\",\n          \"start_timestamp\": 696,\n          \"stop_timestamp\": 789\n        },\n        {\n          \"secondary_subgoal\": \"Cutting a mango\",\n          \"start_timestamp\": 789,\n          \"stop_timestamp\": 1022\n        },\n        {\n          \"secondary_subgoal\": \"Picking a mango piece\",\n          \"start_timestamp\": 1022,\n          \"stop_timestamp\": 1055\n        },\n        {\n          \"secondary_subgoal\": \"Placing mango pieces in container\",\n          \"start_timestamp\": 1055,\n          \"stop_timestamp\": 1091\n        },\n        {\n          \"secondary_subgoal\": \"Picking a mango\",\n          \"start_timestamp\": 1091,\n          \"stop_timestamp\": 1106\n        },\n        {\n          \"secondary_subgoal\": \"Cutting a mango\",\n          \"start_timestamp\": 1106,\n          \"stop_timestamp\": 1206\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 514,
+        "completion_tokens": 599,
+        "total_tokens": 1113
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

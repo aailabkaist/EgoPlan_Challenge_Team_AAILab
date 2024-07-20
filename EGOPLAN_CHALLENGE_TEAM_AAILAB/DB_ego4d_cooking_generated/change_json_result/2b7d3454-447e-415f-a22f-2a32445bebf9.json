@@ -1,0 +1,46 @@
+{
+    "overall_goal": "Prepare various vegetables by slicing and washing them, then placing the pieces in a tray or cooking pot.",
+    "clips": [
+        {
+            "subgoal": "Slice and wash vegetables sequentially, placing pieces in a tray.",
+            "start_timestamp": 21,
+            "stop_timestamp": 6949,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold, slice and drop vegetables, then wash them",
+                    "start_timestamp": 21,
+                    "stop_timestamp": 1500
+                },
+                {
+                    "secondary_subgoal": "Slice and drop vegetables, then wash them",
+                    "start_timestamp": 1500,
+                    "stop_timestamp": 6949
+                }
+            ]
+        },
+        {
+            "subgoal": "Slice, wash, and place squash pieces in a tray repeatedly.",
+            "start_timestamp": 6949,
+            "stop_timestamp": 17136,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Slice and wash vegetables, then pour pieces into a tray",
+                    "start_timestamp": 6949,
+                    "stop_timestamp": 17136
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut ivy gourd and place pieces into a cooking pot.",
+            "start_timestamp": 17136,
+            "stop_timestamp": 21527,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut ivy gourd and place pieces into a cooking pot",
+                    "start_timestamp": 17136,
+                    "stop_timestamp": 21527
+                }
+            ]
+        }
+    ]
+}

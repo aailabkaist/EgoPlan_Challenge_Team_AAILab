@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehZH3RyTHZUuJcWcSgFTwUY6tIr3",
+    "object": "chat.completion",
+    "created": 1719487623,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"To maintain the fire and stir contents in the pot/grains during the cooking process using various objects such as firewood, twigs, and leaves.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Initiate and maintain the fire\",\n      \"start_timestamp\": 79,\n      \"stop_timestamp\": 6213,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir contents in the pot\",\n          \"start_timestamp\": 79,\n          \"stop_timestamp\": 449\n        },\n        {\n          \"secondary_subgoal\": \"Pick and manage firewood\",\n          \"start_timestamp\": 449,\n          \"stop_timestamp\": 613\n        },\n        {\n          \"secondary_subgoal\": \"Stir contents in the pot\",\n          \"start_timestamp\": 613,\n          \"stop_timestamp\": 613\n        },\n        {\n          \"secondary_subgoal\": \"Add firewood to the fire and manage firewood\",\n          \"start_timestamp\": 613,\n          \"stop_timestamp\": 768\n        },\n        {\n          \"secondary_subgoal\": \"Pick and manage firewood\",\n          \"start_timestamp\": 768,\n          \"stop_timestamp\": 5739\n        },\n        {\n          \"secondary_subgoal\": \"Add leaves to the fire\",\n          \"start_timestamp\": 2350,\n          \"stop_timestamp\": 2750\n        },\n        {\n          \"secondary_subgoal\": \"Adjust firewood in the fire\",\n          \"start_timestamp\": 2750,\n          \"stop_timestamp\": 3622\n        },\n        {\n          \"secondary_subgoal\": \"Manage fire and firewood\",\n          \"start_timestamp\": 3712,\n          \"stop_timestamp\": 6213\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Combine external fire components (twigs, leaves) to sustain the fire\",\n      \"start_timestamp\": 11629,\n      \"stop_timestamp\": 12519,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Collect and add twigs to the fire\",\n          \"start_timestamp\": 11660,\n          \"stop_timestamp\": 11861\n        },\n        {\n          \"secondary_subgoal\": \"Maintain fire burns with periodic addition of twigs and leaves\",\n          \"start_timestamp\": 11861,\n          \"stop_timestamp\": 12519\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Adjust fire and stir grains simultaneously\",\n      \"start_timestamp\": 15050,\n      \"stop_timestamp\": 17259,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Adjust fire\",\n          \"start_timestamp\": 15050,\n          \"stop_timestamp\": 15350\n        },\n        {\n          \"secondary_subgoal\": \"Stir grains\",\n          \"start_timestamp\": 16629,\n          \"stop_timestamp\": 17259\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Adjust fire by replenishing firewood while stirring grains\",\n      \"start_timestamp\": 20032,\n      \"stop_timestamp\": 31032,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Add leaves to the fire\",\n          \"start_timestamp\": 20032,\n          \"stop_timestamp\": 21861\n        },\n        {\n          \"secondary_subgoal\": \"Stir grains and firewood adjustment\",\n          \"start_timestamp\": 24050,\n          \"stop_timestamp\": 31032\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1966,
+        "completion_tokens": 731,
+        "total_tokens": 2697
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

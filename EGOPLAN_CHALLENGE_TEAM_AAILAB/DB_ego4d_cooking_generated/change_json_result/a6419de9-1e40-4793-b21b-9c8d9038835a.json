@@ -1,0 +1,173 @@
+{
+    "overall_goal": "Prepare and store various food items using tools and appliances in the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Initial setup and organization.",
+            "start_timestamp": "113",
+            "stop_timestamp": "1295",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and organize papers",
+                    "start_timestamp": "179",
+                    "stop_timestamp": "333"
+                },
+                {
+                    "secondary_subgoal": "Removing covering",
+                    "start_timestamp": "333",
+                    "stop_timestamp": "586"
+                },
+                {
+                    "secondary_subgoal": "Picking and discarding paper",
+                    "start_timestamp": "586",
+                    "stop_timestamp": "737"
+                }
+            ]
+        },
+        {
+            "subgoal": "Gathering and organizing vegetables.",
+            "start_timestamp": "737",
+            "stop_timestamp": "2046",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve vegetables",
+                    "start_timestamp": "737",
+                    "stop_timestamp": "925"
+                },
+                {
+                    "secondary_subgoal": "Preparing veggies",
+                    "start_timestamp": "1039",
+                    "stop_timestamp": "1195"
+                },
+                {
+                    "secondary_subgoal": "Handling veggies and trash",
+                    "start_timestamp": "1195",
+                    "stop_timestamp": "1253"
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling kitchen tasks",
+            "start_timestamp": "2046",
+            "stop_timestamp": "3134",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Break items and clean up",
+                    "start_timestamp": "2089",
+                    "stop_timestamp": "2647"
+                },
+                {
+                    "secondary_subgoal": "Trash management",
+                    "start_timestamp": "2647",
+                    "stop_timestamp": "2779"
+                },
+                {
+                    "secondary_subgoal": "Retrieve and organize trays",
+                    "start_timestamp": "2779",
+                    "stop_timestamp": "3150"
+                }
+            ]
+        },
+        {
+            "subgoal": "Setting up for cooking",
+            "start_timestamp": "3520",
+            "stop_timestamp": "4138",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Switching on appliances",
+                    "start_timestamp": "3520",
+                    "stop_timestamp": "3833"
+                },
+                {
+                    "secondary_subgoal": "Handling tomatoes",
+                    "start_timestamp": "3932",
+                    "stop_timestamp": "4282"
+                }
+            ]
+        },
+        {
+            "subgoal": "Lemma management",
+            "start_timestamp": "4801",
+            "stop_timestamp": "7554",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve lemon",
+                    "start_timestamp": "4801",
+                    "stop_timestamp": "4880"
+                },
+                {
+                    "secondary_subgoal": "Cutting lemon",
+                    "start_timestamp": "7554",
+                    "stop_timestamp": "8025"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning and wrapping",
+            "start_timestamp": "8062",
+            "stop_timestamp": "8521",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wrap lemon",
+                    "start_timestamp": "8233",
+                    "stop_timestamp": "8405"
+                },
+                {
+                    "secondary_subgoal": "Store wrapped item",
+                    "start_timestamp": "8521",
+                    "stop_timestamp": "8607"
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing cooking equipment",
+            "start_timestamp": "9058",
+            "stop_timestamp": "10372",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve cooking equipment",
+                    "start_timestamp": "9058",
+                    "stop_timestamp": "9312"
+                },
+                {
+                    "secondary_subgoal": "Prepare cooking surface",
+                    "start_timestamp": "9312",
+                    "stop_timestamp": "9700"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking",
+            "start_timestamp": "12403",
+            "stop_timestamp": "17460",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Chopping vegetables",
+                    "start_timestamp": "12403",
+                    "stop_timestamp": "12430"
+                },
+                {
+                    "secondary_subgoal": "Prepare lemon",
+                    "start_timestamp": "16712",
+                    "stop_timestamp": "17241"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning up",
+            "start_timestamp": "17472",
+            "stop_timestamp": "21718",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning hands",
+                    "start_timestamp": "17606",
+                    "stop_timestamp": "17679"
+                },
+                {
+                    "secondary_subgoal": "Adding water to sink",
+                    "start_timestamp": "18160",
+                    "stop_timestamp": "18294"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "overall_goal": "Prepare a meal consisting of rice, vegetables, and minced meat for serving.",
+    "clips": [
+        {
+            "subgoal": "Prepare the vegetables",
+            "start_timestamp": 427,
+            "stop_timestamp": 14727,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and remove seeds from the yellow bell pepper",
+                    "start_timestamp": 427,
+                    "stop_timestamp": 1707
+                },
+                {
+                    "secondary_subgoal": "Chop the yellow bell pepper",
+                    "start_timestamp": 2011,
+                    "stop_timestamp": 3548
+                },
+                {
+                    "secondary_subgoal": "Cut and chop the onion",
+                    "start_timestamp": 5652,
+                    "stop_timestamp": 14941
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the minced meat and vegetables",
+            "start_timestamp": 15061,
+            "stop_timestamp": 35773,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preheat the pan with oil",
+                    "start_timestamp": 15061,
+                    "stop_timestamp": 15561
+                },
+                {
+                    "secondary_subgoal": "Open and pour minced meat into the pan",
+                    "start_timestamp": 16233,
+                    "stop_timestamp": 16509
+                },
+                {
+                    "secondary_subgoal": "Stir the minced meat",
+                    "start_timestamp": 16789,
+                    "stop_timestamp": 25125
+                },
+                {
+                    "secondary_subgoal": "Add yellow bell pepper and onion to minced meat",
+                    "start_timestamp": 26424,
+                    "stop_timestamp": 27352
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the rice",
+            "start_timestamp": 19496,
+            "stop_timestamp": 47394,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Boil water for rice",
+                    "start_timestamp": 19496,
+                    "stop_timestamp": 19936
+                },
+                {
+                    "secondary_subgoal": "Add rice and salt to boiling water",
+                    "start_timestamp": 20150,
+                    "stop_timestamp": 20801
+                },
+                {
+                    "secondary_subgoal": "Stir the rice and cook it properly",
+                    "start_timestamp": 27513,
+                    "stop_timestamp": 47394
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare chapatis",
+            "start_timestamp": 44008,
+            "stop_timestamp": 44757,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Count and take out chapatis to microwave",
+                    "start_timestamp": 44008,
+                    "stop_timestamp": 44757
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve the meal",
+            "start_timestamp": 45144,
+            "stop_timestamp": 59105,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Scoop rice into plates with chapatis",
+                    "start_timestamp": 57775,
+                    "stop_timestamp": 58632
+                },
+                {
+                    "secondary_subgoal": "Move to sitting room and put food on the table",
+                    "start_timestamp": 59105,
+                    "stop_timestamp": 59205
+                }
+            ]
+        }
+    ]
+}

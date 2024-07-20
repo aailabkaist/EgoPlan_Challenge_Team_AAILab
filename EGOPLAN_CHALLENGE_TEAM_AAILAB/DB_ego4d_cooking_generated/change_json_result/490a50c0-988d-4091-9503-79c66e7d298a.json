@@ -1,0 +1,83 @@
+{
+    "overall_goal": "C cleaning the knife and organizing the kitchen space.",
+    "clips": [
+        {
+            "subgoal": "Cleaning the knife.",
+            "start_timestamp": 5,
+            "stop_timestamp": 129,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Closing the sink outlet.",
+                    "start_timestamp": 5,
+                    "stop_timestamp": 45
+                },
+                {
+                    "secondary_subgoal": "Turning on the water tap.",
+                    "start_timestamp": 45,
+                    "stop_timestamp": 104
+                },
+                {
+                    "secondary_subgoal": "Washing and closing the water tap.",
+                    "start_timestamp": 104,
+                    "stop_timestamp": 129
+                }
+            ]
+        },
+        {
+            "subgoal": "Storing the cleaned knife.",
+            "start_timestamp": 129,
+            "stop_timestamp": 266,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening the drawer.",
+                    "start_timestamp": 129,
+                    "stop_timestamp": 201
+                },
+                {
+                    "secondary_subgoal": "Putting the knife in the drawer.",
+                    "start_timestamp": 201,
+                    "stop_timestamp": 266
+                }
+            ]
+        },
+        {
+            "subgoal": "Drying hands and inspecting the kitchen.",
+            "start_timestamp": 266,
+            "stop_timestamp": 460,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Drying hands with a face towel.",
+                    "start_timestamp": 266,
+                    "stop_timestamp": 305
+                },
+                {
+                    "secondary_subgoal": "Looking at the timer.",
+                    "start_timestamp": 305,
+                    "stop_timestamp": 342
+                },
+                {
+                    "secondary_subgoal": "Looking around the kitchen.",
+                    "start_timestamp": 342,
+                    "stop_timestamp": 420
+                },
+                {
+                    "secondary_subgoal": "Interacting with an unknown object.",
+                    "start_timestamp": 420,
+                    "stop_timestamp": 460
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling unknown task.",
+            "start_timestamp": 460,
+            "stop_timestamp": 675,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Touching uncertain objects.",
+                    "start_timestamp": 460,
+                    "stop_timestamp": 675
+                }
+            ]
+        }
+    ]
+}

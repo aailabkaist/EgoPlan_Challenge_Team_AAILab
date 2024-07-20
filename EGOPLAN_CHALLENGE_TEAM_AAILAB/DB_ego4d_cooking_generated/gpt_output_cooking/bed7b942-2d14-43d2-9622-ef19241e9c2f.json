@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9devqYlfac7xXsu8scDrw95w2eUmZ",
+    "object": "chat.completion",
+    "created": 1719239162,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and serve food into bowls\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Open oven and take out the bowl\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 852,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Walk to the sink\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 177\n        },\n        {\n          \"secondary_subgoal\": \"Pick a glove\",\n          \"start_timestamp\": 177,\n          \"stop_timestamp\": 230\n        },\n        {\n          \"secondary_subgoal\": \"Open the oven\",\n          \"start_timestamp\": 230,\n          \"stop_timestamp\": 369\n        },\n        {\n          \"secondary_subgoal\": \"Pull a bowl out and place it on the counter\",\n          \"start_timestamp\": 369,\n          \"stop_timestamp\": 852\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Close the oven and return the glove\",\n      \"start_timestamp\": 852,\n      \"stop_timestamp\": 1135,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Close the oven and remove the glove\",\n          \"start_timestamp\": 852,\n          \"stop_timestamp\": 957\n        },\n        {\n          \"secondary_subgoal\": \"Hang the glove\",\n          \"start_timestamp\": 957,\n          \"stop_timestamp\": 1023\n        },\n        {\n          \"secondary_subgoal\": \"Walk to the counter\",\n          \"start_timestamp\": 1023,\n          \"stop_timestamp\": 1135\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Stir and serve food into bowls\",\n      \"start_timestamp\": 1135,\n      \"stop_timestamp\": 2710,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir food\",\n          \"start_timestamp\": 1135,\n          \"stop_timestamp\": 1541\n        },\n        {\n          \"secondary_subgoal\": \"Pick bowls from a rack and place on the counter\",\n          \"start_timestamp\": 1541,\n          \"stop_timestamp\": 1577\n        },\n        {\n          \"secondary_subgoal\": \"Serve food into bowls with spoon and pour soup\",\n          \"start_timestamp\": 1577,\n          \"stop_timestamp\": 2635\n        },\n        {\n          \"secondary_subgoal\": \"Put down the pot and spoon\",\n          \"start_timestamp\": 2635,\n          \"stop_timestamp\": 2710\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finish and clean up\",\n      \"start_timestamp\": 2710,\n      \"stop_timestamp\": 2810,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Lift hands\",\n          \"start_timestamp\": 2710,\n          \"stop_timestamp\": 2810\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 790,
+        "completion_tokens": 613,
+        "total_tokens": 1403
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

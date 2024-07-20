@@ -1,0 +1,892 @@
+[
+    {
+        "task_goal": "Retrieve cooking oil from the cabinet and then place it back.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 1,
+                "stop_frame": 699
+            },
+            {
+                "narration_text": "#C C opens the cabinet",
+                "start_frame": 699,
+                "stop_frame": 721
+            },
+            {
+                "narration_text": "#C C picks cooking oil from the cabinet",
+                "start_frame": 721,
+                "stop_frame": 744
+            },
+            {
+                "narration_text": "#C C closes the cabinet",
+                "start_frame": 744,
+                "stop_frame": 765
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 765,
+                "stop_frame": 1050
+            },
+            {
+                "narration_text": "#C C opens the cabinet",
+                "start_frame": 1050,
+                "stop_frame": 1076
+            },
+            {
+                "narration_text": "#C C puts the cooking oil in the cabinet",
+                "start_frame": 1076,
+                "stop_frame": 1109
+            },
+            {
+                "narration_text": "#C C closes the cabinet",
+                "start_frame": 1109,
+                "stop_frame": 1131
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 1131,
+                "stop_frame": 1178
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the cabinet and get the cooking oil.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 1,
+                "stop_frame": 699
+            },
+            {
+                "narration_text": "#C C opens the cabinet",
+                "start_frame": 699,
+                "stop_frame": 721
+            },
+            {
+                "narration_text": "#C C picks cooking oil from the cabinet",
+                "start_frame": 721,
+                "stop_frame": 744
+            },
+            {
+                "narration_text": "#C C closes the cabinet",
+                "start_frame": 744,
+                "stop_frame": 765
+            }
+        ]
+    },
+    {
+        "task_goal": "Close the cabinet and walk inside the house.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks cooking oil from the cabinet",
+                "start_frame": 721,
+                "stop_frame": 744
+            },
+            {
+                "narration_text": "#C C closes the cabinet",
+                "start_frame": 744,
+                "stop_frame": 765
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 765,
+                "stop_frame": 1050
+            }
+        ]
+    },
+    {
+        "task_goal": "Reopen the cabinet and place the cooking oil back.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 765,
+                "stop_frame": 1050
+            },
+            {
+                "narration_text": "#C C opens the cabinet",
+                "start_frame": 1050,
+                "stop_frame": 1076
+            },
+            {
+                "narration_text": "#C C puts the cooking oil in the cabinet",
+                "start_frame": 1076,
+                "stop_frame": 1109
+            },
+            {
+                "narration_text": "#C C closes the cabinet",
+                "start_frame": 1109,
+                "stop_frame": 1131
+            }
+        ]
+    },
+    {
+        "task_goal": "Close the cabinet and walk inside the house.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the cooking oil in the cabinet",
+                "start_frame": 1076,
+                "stop_frame": 1109
+            },
+            {
+                "narration_text": "#C C closes the cabinet",
+                "start_frame": 1109,
+                "stop_frame": 1131
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 1131,
+                "stop_frame": 1178
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve a frying pan and prepare it for cooking.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the cabinet",
+                "start_frame": 1109,
+                "stop_frame": 1131
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 1131,
+                "stop_frame": 1178
+            },
+            {
+                "narration_text": "#C C picks a frying pan",
+                "start_frame": 1178,
+                "stop_frame": 1181
+            },
+            {
+                "narration_text": "#C C rotates the frying pan",
+                "start_frame": 1181,
+                "stop_frame": 2407
+            },
+            {
+                "narration_text": "#C C places the frying pan on the cooker",
+                "start_frame": 2407,
+                "stop_frame": 2422
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 2422,
+                "stop_frame": 2487
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and rotate the frying pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 1131,
+                "stop_frame": 1178
+            },
+            {
+                "narration_text": "#C C picks a frying pan",
+                "start_frame": 1178,
+                "stop_frame": 1181
+            },
+            {
+                "narration_text": "#C C rotates the frying pan",
+                "start_frame": 1181,
+                "stop_frame": 2407
+            },
+            {
+                "narration_text": "#C C places the frying pan on the cooker",
+                "start_frame": 2407,
+                "stop_frame": 2422
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the frying pan on the cooker.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C rotates the frying pan",
+                "start_frame": 1181,
+                "stop_frame": 2407
+            },
+            {
+                "narration_text": "#C C places the frying pan on the cooker",
+                "start_frame": 2407,
+                "stop_frame": 2422
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 2422,
+                "stop_frame": 2487
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle various kitchen activities with paper towel and operate a computer.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places the frying pan on the cooker",
+                "start_frame": 2407,
+                "stop_frame": 2422
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 2422,
+                "stop_frame": 2487
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 2487,
+                "stop_frame": 2510
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 2510,
+                "stop_frame": 2865
+            },
+            {
+                "narration_text": "#C C picks a paper towel",
+                "start_frame": 2865,
+                "stop_frame": 2904
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 2904,
+                "stop_frame": 3175
+            },
+            {
+                "narration_text": "#C C operates a computer",
+                "start_frame": 3175,
+                "stop_frame": 3943
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 3943,
+                "stop_frame": 4060
+            },
+            {
+                "narration_text": "#C C drops the paper towel in a plastic bag",
+                "start_frame": 4060,
+                "stop_frame": 4066
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the tap and pick a paper towel.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 2422,
+                "stop_frame": 2487
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 2487,
+                "stop_frame": 2510
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 2510,
+                "stop_frame": 2865
+            },
+            {
+                "narration_text": "#C C picks a paper towel",
+                "start_frame": 2865,
+                "stop_frame": 2904
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 2904,
+                "stop_frame": 3175
+            }
+        ]
+    },
+    {
+        "task_goal": "Operate a computer.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 2904,
+                "stop_frame": 3175
+            },
+            {
+                "narration_text": "#C C operates a computer",
+                "start_frame": 3175,
+                "stop_frame": 3943
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 3943,
+                "stop_frame": 4060
+            }
+        ]
+    },
+    {
+        "task_goal": "Dispose of the paper towel in a plastic bag.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 3943,
+                "stop_frame": 4060
+            },
+            {
+                "narration_text": "#C C drops the paper towel in a plastic bag",
+                "start_frame": 4060,
+                "stop_frame": 4066
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 4066,
+                "stop_frame": 4386
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare eggs and interact with fridge.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 4066,
+                "stop_frame": 4386
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 4386,
+                "stop_frame": 4477
+            },
+            {
+                "narration_text": "#C C opens an egg container",
+                "start_frame": 4477,
+                "stop_frame": 4537
+            },
+            {
+                "narration_text": "#C C picks eggs",
+                "start_frame": 4537,
+                "stop_frame": 4581
+            },
+            {
+                "narration_text": "#C C closes an egg container",
+                "start_frame": 4581,
+                "stop_frame": 4682
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 4682,
+                "stop_frame": 4703
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 4703,
+                "stop_frame": 4840
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the fridge, get eggs, and close the fridge.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 4066,
+                "stop_frame": 4386
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 4386,
+                "stop_frame": 4477
+            },
+            {
+                "narration_text": "#C C opens an egg container",
+                "start_frame": 4477,
+                "stop_frame": 4537
+            },
+            {
+                "narration_text": "#C C picks eggs",
+                "start_frame": 4537,
+                "stop_frame": 4581
+            },
+            {
+                "narration_text": "#C C closes an egg container",
+                "start_frame": 4581,
+                "stop_frame": 4682
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 4682,
+                "stop_frame": 4703
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 4703,
+                "stop_frame": 4840
+            }
+        ]
+    },
+    {
+        "task_goal": "Use kitchen tools and break eggs.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 4703,
+                "stop_frame": 4840
+            },
+            {
+                "narration_text": "#C C picks a knife",
+                "start_frame": 4840,
+                "stop_frame": 4859
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 4859,
+                "stop_frame": 4905
+            },
+            {
+                "narration_text": "brakes an egg with a knife",
+                "start_frame": 4905,
+                "stop_frame": 5064
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 5064,
+                "stop_frame": 5079
+            },
+            {
+                "narration_text": "#C C places the egg shell on a plate",
+                "start_frame": 5079,
+                "stop_frame": 5091
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 5091,
+                "stop_frame": 5184
+            },
+            {
+                "narration_text": "brakes an egg with a knife",
+                "start_frame": 5184,
+                "stop_frame": 5326
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 5326,
+                "stop_frame": 5339
+            },
+            {
+                "narration_text": "#C C places the egg shell on a plate",
+                "start_frame": 5339,
+                "stop_frame": 5375
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 5375,
+                "stop_frame": 5488
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick a knife and break an egg.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 4703,
+                "stop_frame": 4840
+            },
+            {
+                "narration_text": "#C C picks a knife",
+                "start_frame": 4840,
+                "stop_frame": 4859
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 4859,
+                "stop_frame": 4905
+            },
+            {
+                "narration_text": "brakes an egg with a knife",
+                "start_frame": 4905,
+                "stop_frame": 5064
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 5064,
+                "stop_frame": 5079
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the egg shell on a plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 5064,
+                "stop_frame": 5079
+            },
+            {
+                "narration_text": "#C C places the egg shell on a plate",
+                "start_frame": 5079,
+                "stop_frame": 5091
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 5091,
+                "stop_frame": 5184
+            }
+        ]
+    },
+    {
+        "task_goal": "Break another egg and place shell on plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 5091,
+                "stop_frame": 5184
+            },
+            {
+                "narration_text": "brakes an egg with a knife",
+                "start_frame": 5184,
+                "stop_frame": 5326
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 5326,
+                "stop_frame": 5339
+            },
+            {
+                "narration_text": "#C C places the egg shell on a plate",
+                "start_frame": 5339,
+                "stop_frame": 5375
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 5375,
+                "stop_frame": 5488
+            }
+        ]
+    },
+    {
+        "task_goal": "Close tap and clean.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 5499,
+                "stop_frame": 5607
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 5607,
+                "stop_frame": 5693
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 5693,
+                "stop_frame": 5822
+            },
+            {
+                "narration_text": "#C C picks a bottle from the kitchen countertop",
+                "start_frame": 5822,
+                "stop_frame": 5831
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 5831,
+                "stop_frame": 5914
+            },
+            {
+                "narration_text": "#C C places the bottle on the kitchen countertop",
+                "start_frame": 5914,
+                "stop_frame": 5921
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 5921,
+                "stop_frame": 6375
+            },
+            {
+                "narration_text": "#C C picks a spoon",
+                "start_frame": 6375,
+                "stop_frame": 6391
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 6391,
+                "stop_frame": 6836
+            },
+            {
+                "narration_text": "#C C puts a spoon in a cutlery holder",
+                "start_frame": 6836,
+                "stop_frame": 6842
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 6842,
+                "stop_frame": 7459
+            },
+            {
+                "narration_text": "#C C puts a fork in a cutlery holder",
+                "start_frame": 7459,
+                "stop_frame": 7482
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 7482,
+                "stop_frame": 7530
+            },
+            {
+                "narration_text": "#C C picks a knife",
+                "start_frame": 7530,
+                "stop_frame": 7573
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 7573,
+                "stop_frame": 8119
+            },
+            {
+                "narration_text": "#C C puts a fork in a cutlery holder",
+                "start_frame": 8119,
+                "stop_frame": 8124
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 8124,
+                "stop_frame": 8283
+            },
+            {
+                "narration_text": "#C C cleans a plate",
+                "start_frame": 8283,
+                "stop_frame": 8803
+            },
+            {
+                "narration_text": "#C C washes the sink",
+                "start_frame": 8803,
+                "stop_frame": 18285
+            },
+            {
+                "narration_text": "#C C walks to the fridge",
+                "start_frame": 18285,
+                "stop_frame": 18502
+            }
+        ]
+    },
+    {
+        "task_goal": "Close the tap.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 5607,
+                "stop_frame": 5693
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 5693,
+                "stop_frame": 5822
+            },
+            {
+                "narration_text": "#C C picks a bottle from the kitchen countertop",
+                "start_frame": 5822,
+                "stop_frame": 5831
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean a plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 8124,
+                "stop_frame": 8283
+            },
+            {
+                "narration_text": "#C C cleans a plate",
+                "start_frame": 8283,
+                "stop_frame": 8803
+            },
+            {
+                "narration_text": "#C C washes the sink",
+                "start_frame": 8803,
+                "stop_frame": 18285
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the sink.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cleans a plate",
+                "start_frame": 8283,
+                "stop_frame": 8803
+            },
+            {
+                "narration_text": "#C C washes the sink",
+                "start_frame": 8803,
+                "stop_frame": 18285
+            },
+            {
+                "narration_text": "#C C walks to the fridge",
+                "start_frame": 18285,
+                "stop_frame": 18502
+            }
+        ]
+    },
+    {
+        "task_goal": "Interact with fridge and get items.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks to the fridge",
+                "start_frame": 18285,
+                "stop_frame": 18502
+            },
+            {
+                "narration_text": "#C C opens the frige",
+                "start_frame": 18502,
+                "stop_frame": 18555
+            },
+            {
+                "narration_text": "#C C takes #unsure in the fridge",
+                "start_frame": 18555,
+                "stop_frame": 18577
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 18577,
+                "stop_frame": 18593
+            },
+            {
+                "narration_text": "#C C walks to the table",
+                "start_frame": 18593,
+                "stop_frame": 18806
+            }
+        ]
+    },
+    {
+        "task_goal": "Personal hygiene in the washroom.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks to the washroom",
+                "start_frame": 18806,
+                "stop_frame": 19168
+            },
+            {
+                "narration_text": "#C C switches on the light on",
+                "start_frame": 19168,
+                "stop_frame": 19213
+            },
+            {
+                "narration_text": "#C C moves the hands up in the washroom",
+                "start_frame": 19213,
+                "stop_frame": 19279
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 19279,
+                "stop_frame": 19298
+            },
+            {
+                "narration_text": "#C C washes his hands",
+                "start_frame": 19298,
+                "stop_frame": 19501
+            },
+            {
+                "narration_text": "#C C shakes the head",
+                "start_frame": 19501,
+                "stop_frame": 19930
+            },
+            {
+                "narration_text": "#C C dances in the washroom",
+                "start_frame": 19930,
+                "stop_frame": 19931
+            },
+            {
+                "narration_text": "#C C walks to the towel point",
+                "start_frame": 19931,
+                "stop_frame": 20172
+            },
+            {
+                "narration_text": "#C C takes the hand towel",
+                "start_frame": 20172,
+                "stop_frame": 20198
+            },
+            {
+                "narration_text": "#C C wipes the hand with hand towel",
+                "start_frame": 20198,
+                "stop_frame": 20348
+            },
+            {
+                "narration_text": "#C C moves to the wall",
+                "start_frame": 20348,
+                "stop_frame": 20392
+            },
+            {
+                "narration_text": "#C C moves the right hand to the camera",
+                "start_frame": 20392,
+                "stop_frame": 20492
+            }
+        ]
+    },
+    {
+        "task_goal": "Switch on the light and open the tap.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C switches on the light on",
+                "start_frame": 19168,
+                "stop_frame": 19213
+            },
+            {
+                "narration_text": "#C C moves the hands up in the washroom",
+                "start_frame": 19213,
+                "stop_frame": 19279
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 19279,
+                "stop_frame": 19298
+            },
+            {
+                "narration_text": "#C C washes his hands",
+                "start_frame": 19298,
+                "stop_frame": 19501
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash hands.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 19279,
+                "stop_frame": 19298
+            },
+            {
+                "narration_text": "#C C washes his hands",
+                "start_frame": 19298,
+                "stop_frame": 19501
+            },
+            {
+                "narration_text": "#C C shakes the head",
+                "start_frame": 19501,
+                "stop_frame": 19930
+            }
+        ]
+    },
+    {
+        "task_goal": "Take and use hand towel.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks to the towel point",
+                "start_frame": 19931,
+                "stop_frame": 20172
+            },
+            {
+                "narration_text": "#C C takes the hand towel",
+                "start_frame": 20172,
+                "stop_frame": 20198
+            },
+            {
+                "narration_text": "#C C wipes the hand with hand towel",
+                "start_frame": 20198,
+                "stop_frame": 20348
+            },
+            {
+                "narration_text": "#C C moves to the wall",
+                "start_frame": 20348,
+                "stop_frame": 20392
+            }
+        ]
+    }
+]

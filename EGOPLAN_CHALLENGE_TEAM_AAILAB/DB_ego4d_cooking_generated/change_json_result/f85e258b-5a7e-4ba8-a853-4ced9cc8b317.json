@@ -1,0 +1,179 @@
+{
+    "overall_goal": "Prepare and store various food items, primarily white radish and cucumber, using a variety of kitchen tasks such as peeling, washing, cutting, and wrapping.",
+    "clips": [
+        {
+            "subgoal": "Preparing the white radish",
+            "start_timestamp": 122,
+            "stop_timestamp": 2149,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place radish on chopping board",
+                    "start_timestamp": 122,
+                    "stop_timestamp": 148
+                },
+                {
+                    "secondary_subgoal": "Remove clear foil",
+                    "start_timestamp": 148,
+                    "stop_timestamp": 229
+                },
+                {
+                    "secondary_subgoal": "Open tap water",
+                    "start_timestamp": 229,
+                    "stop_timestamp": 386
+                },
+                {
+                    "secondary_subgoal": "Wash radish",
+                    "start_timestamp": 386,
+                    "stop_timestamp": 501
+                },
+                {
+                    "secondary_subgoal": "Scrolls on laptop",
+                    "start_timestamp": 501,
+                    "stop_timestamp": 923
+                },
+                {
+                    "secondary_subgoal": "Peels radish",
+                    "start_timestamp": 923,
+                    "stop_timestamp": 1462
+                },
+                {
+                    "secondary_subgoal": "Dispose peels and adjusts radish",
+                    "start_timestamp": 1462,
+                    "stop_timestamp": 1524
+                },
+                {
+                    "secondary_subgoal": "More peeling and disposing",
+                    "start_timestamp": 1524,
+                    "stop_timestamp": 1844
+                },
+                {
+                    "secondary_subgoal": "Dispose of rotten parts",
+                    "start_timestamp": 1844,
+                    "stop_timestamp": 2101
+                },
+                {
+                    "secondary_subgoal": "Place knife and open microwave",
+                    "start_timestamp": 2101,
+                    "stop_timestamp": 2175
+                }
+            ]
+        },
+        {
+            "subgoal": "Microwaving and handling the radish",
+            "start_timestamp": 2175,
+            "stop_timestamp": 2652,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Operate microwave",
+                    "start_timestamp": 2175,
+                    "stop_timestamp": 2445
+                },
+                {
+                    "secondary_subgoal": "Handle radish after microwave",
+                    "start_timestamp": 2445,
+                    "stop_timestamp": 2652
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning and cutting of radish",
+            "start_timestamp": 2652,
+            "stop_timestamp": 3832,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Removing foil and washing radish",
+                    "start_timestamp": 2652,
+                    "stop_timestamp": 3029
+                },
+                {
+                    "secondary_subgoal": "Cutting radish into pieces",
+                    "start_timestamp": 3029,
+                    "stop_timestamp": 3641
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling and organizing kitchen items",
+            "start_timestamp": 3641,
+            "stop_timestamp": 4741,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Continue cutting radish pieces",
+                    "start_timestamp": 3641,
+                    "stop_timestamp": 3881
+                },
+                {
+                    "secondary_subgoal": "Close the microwave door",
+                    "start_timestamp": 3925,
+                    "stop_timestamp": 4102
+                },
+                {
+                    "secondary_subgoal": "Press buttons & remove item from microwave",
+                    "start_timestamp": 4102,
+                    "stop_timestamp": 4286
+                },
+                {
+                    "secondary_subgoal": "Scroll laptopping",
+                    "start_timestamp": 4286,
+                    "stop_timestamp": 5012
+                },
+                {
+                    "secondary_subgoal": "Plastic bag interaction",
+                    "start_timestamp": 5012,
+                    "stop_timestamp": 5920
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking preparations",
+            "start_timestamp": 4806,
+            "stop_timestamp": 8290,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and place radish and cucumber",
+                    "start_timestamp": 4806,
+                    "stop_timestamp": 7264
+                },
+                {
+                    "secondary_subgoal": "Handle white radish",
+                    "start_timestamp": 7264,
+                    "stop_timestamp": 8001
+                },
+                {
+                    "secondary_subgoal": "Pack white radish",
+                    "start_timestamp": 8001,
+                    "stop_timestamp": 8290
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing cucumber",
+            "start_timestamp": 8290,
+            "stop_timestamp": 9146,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and prepare cucumber",
+                    "start_timestamp": 8290,
+                    "stop_timestamp": 8850
+                },
+                {
+                    "secondary_subgoal": "Process cucumber pieces",
+                    "start_timestamp": 8850,
+                    "stop_timestamp": 9146
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning up and organizing",
+            "start_timestamp": 9146,
+            "stop_timestamp": 9789,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Continue processing cucumber",
+                    "start_timestamp": 9146,
+                    "stop_timestamp": 9789
+                }
+            ]
+        }
+    ]
+}

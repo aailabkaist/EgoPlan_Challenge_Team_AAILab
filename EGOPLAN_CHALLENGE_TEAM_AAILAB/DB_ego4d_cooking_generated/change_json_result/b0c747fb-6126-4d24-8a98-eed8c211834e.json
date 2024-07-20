@@ -1,0 +1,118 @@
+{
+    "overall_goal": "Prepare and cook onions, then additional ingredients such as mushrooms and potatoes in a kitchen.",
+    "clips": [
+        {
+            "subgoal": "Pick and prepare onions",
+            "start_timestamp": 0,
+            "stop_timestamp": 2146,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick an onion and unwrap it",
+                    "start_timestamp": 39,
+                    "stop_timestamp": 271
+                },
+                {
+                    "secondary_subgoal": "Place the onion on the chopping board",
+                    "start_timestamp": 271,
+                    "stop_timestamp": 317
+                },
+                {
+                    "secondary_subgoal": "Turn on the tap and rinse hands",
+                    "start_timestamp": 317,
+                    "stop_timestamp": 347
+                },
+                {
+                    "secondary_subgoal": "Wash and handle a paper",
+                    "start_timestamp": 347,
+                    "stop_timestamp": 455
+                },
+                {
+                    "secondary_subgoal": "Pour water into a sink and hang a paper in a rack",
+                    "start_timestamp": 499,
+                    "stop_timestamp": 788
+                },
+                {
+                    "secondary_subgoal": "Close the tap and pick a knife",
+                    "start_timestamp": 824,
+                    "stop_timestamp": 869
+                },
+                {
+                    "secondary_subgoal": "Hold and cut the onion",
+                    "start_timestamp": 897,
+                    "stop_timestamp": 947
+                },
+                {
+                    "secondary_subgoal": "Pick and dispose of a part of the onion",
+                    "start_timestamp": 967,
+                    "stop_timestamp": 1013
+                },
+                {
+                    "secondary_subgoal": "Hold and cut the onion",
+                    "start_timestamp": 1042,
+                    "stop_timestamp": 1274
+                },
+                {
+                    "secondary_subgoal": "Remove onions stuck on the knife",
+                    "start_timestamp": 1274,
+                    "stop_timestamp": 1293
+                },
+                {
+                    "secondary_subgoal": "Place onions in a strainer",
+                    "start_timestamp": 1321,
+                    "stop_timestamp": 1321
+                },
+                {
+                    "secondary_subgoal": "Continue cutting the onions and placing them in a strainer",
+                    "start_timestamp": 1321,
+                    "stop_timestamp": 2137
+                }
+            ]
+        },
+        {
+            "subgoal": "Peel and prepare yellow onions",
+            "start_timestamp": 2770,
+            "stop_timestamp": 3774,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel and dispose of onion peels",
+                    "start_timestamp": 2770,
+                    "stop_timestamp": 3774
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash dishes",
+            "start_timestamp": 18529,
+            "stop_timestamp": 20549,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash knife",
+                    "start_timestamp": 18808,
+                    "stop_timestamp": 19076
+                },
+                {
+                    "secondary_subgoal": "Rinse knife",
+                    "start_timestamp": 19390,
+                    "stop_timestamp": 19421
+                }
+            ]
+        },
+        {
+            "subgoal": "Move items to and from cooking area",
+            "start_timestamp": 10055,
+            "stop_timestamp": 13416,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move the pot",
+                    "start_timestamp": 10304,
+                    "stop_timestamp": 10336
+                },
+                {
+                    "secondary_subgoal": "Pour oil",
+                    "start_timestamp": 13353,
+                    "stop_timestamp": 13416
+                }
+            ]
+        }
+    ]
+}

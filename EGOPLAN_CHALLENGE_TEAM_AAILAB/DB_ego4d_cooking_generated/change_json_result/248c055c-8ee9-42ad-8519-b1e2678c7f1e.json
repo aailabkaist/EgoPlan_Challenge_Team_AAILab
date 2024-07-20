@@ -1,0 +1,80 @@
+{
+    "overall_goal": "Prepare onion and meat dish and cook it using a frying pan",
+    "clips": [
+        {
+            "subgoal": "Prepare the onion",
+            "start_timestamp": 52,
+            "stop_timestamp": 1456,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather and prepare the onion",
+                    "start_timestamp": 52,
+                    "stop_timestamp": 407
+                },
+                {
+                    "secondary_subgoal": "Cut the onion",
+                    "start_timestamp": 648,
+                    "stop_timestamp": 1456
+                }
+            ]
+        },
+        {
+            "subgoal": "Store part of the onions",
+            "start_timestamp": 1456,
+            "stop_timestamp": 1897,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Store onions in drawer",
+                    "start_timestamp": 1456,
+                    "stop_timestamp": 1897
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean and prepare onions for cooking",
+            "start_timestamp": 1897,
+            "stop_timestamp": 2669,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Remove outer layers",
+                    "start_timestamp": 1944,
+                    "stop_timestamp": 2244
+                },
+                {
+                    "secondary_subgoal": "Wash the onion",
+                    "start_timestamp": 2509,
+                    "stop_timestamp": 2629
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut the clean onion into smaller pieces",
+            "start_timestamp": 2669,
+            "stop_timestamp": 5994,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut onion into smaller pieces in stages",
+                    "start_timestamp": 2669,
+                    "stop_timestamp": 5994
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare meat for cooking",
+            "start_timestamp": 6124,
+            "stop_timestamp": 21000,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare meat and onion for cooking",
+                    "start_timestamp": 6124,
+                    "stop_timestamp": 7772
+                },
+                {
+                    "secondary_subgoal": "Cook the meat and onion dish",
+                    "start_timestamp": 7817,
+                    "stop_timestamp": 21000
+                }
+            ]
+        }
+    ]
+}

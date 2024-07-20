@@ -1,0 +1,133 @@
+{
+    "overall_goal": "Wash the dishes and prepare a salad",
+    "clips": [
+        {
+            "subgoal": "Wash the dishes",
+            "start_timestamp": 9,
+            "stop_timestamp": 2172,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash sieve",
+                    "start_timestamp": 9,
+                    "stop_timestamp": 212
+                },
+                {
+                    "secondary_subgoal": "Wash sufuria",
+                    "start_timestamp": 212,
+                    "stop_timestamp": 709
+                },
+                {
+                    "secondary_subgoal": "Prepare sufuria on gas",
+                    "start_timestamp": 709,
+                    "stop_timestamp": 818
+                },
+                {
+                    "secondary_subgoal": "Rinse hands",
+                    "start_timestamp": 818,
+                    "stop_timestamp": 1032
+                },
+                {
+                    "secondary_subgoal": "Wash sufuria cover",
+                    "start_timestamp": 1032,
+                    "stop_timestamp": 1286
+                },
+                {
+                    "secondary_subgoal": "Cover sufuria",
+                    "start_timestamp": 1286,
+                    "stop_timestamp": 1380
+                },
+                {
+                    "secondary_subgoal": "Put utensils and knife in sink",
+                    "start_timestamp": 1380,
+                    "stop_timestamp": 1510
+                },
+                {
+                    "secondary_subgoal": "Wash and rinse chopboard",
+                    "start_timestamp": 1510,
+                    "stop_timestamp": 1753
+                },
+                {
+                    "secondary_subgoal": "Wash sticks",
+                    "start_timestamp": 1753,
+                    "stop_timestamp": 1878
+                },
+                {
+                    "secondary_subgoal": "Wash knife",
+                    "start_timestamp": 1878,
+                    "stop_timestamp": 1961
+                },
+                {
+                    "secondary_subgoal": "Put knife on rack",
+                    "start_timestamp": 1961,
+                    "stop_timestamp": 2046
+                },
+                {
+                    "secondary_subgoal": "Rinse sticks and close tap",
+                    "start_timestamp": 2046,
+                    "stop_timestamp": 2112
+                },
+                {
+                    "secondary_subgoal": "Organize utensils in rack",
+                    "start_timestamp": 2112,
+                    "stop_timestamp": 2395
+                },
+                {
+                    "secondary_subgoal": "Prepare salad",
+                    "start_timestamp": 2395,
+                    "stop_timestamp": 4467
+                }
+            ]
+        },
+        {
+            "subgoal": "Move prepared salad and wash remaining utensils",
+            "start_timestamp": 4467,
+            "stop_timestamp": 5259,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash spoon and bowl",
+                    "start_timestamp": 4467,
+                    "stop_timestamp": 4924
+                },
+                {
+                    "secondary_subgoal": "Dry hands and organize utensils",
+                    "start_timestamp": 4924,
+                    "stop_timestamp": 5207
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle items in fridge and use microwave",
+            "start_timestamp": 5259,
+            "stop_timestamp": 5878,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick items from fridge",
+                    "start_timestamp": 5259,
+                    "stop_timestamp": 5558
+                },
+                {
+                    "secondary_subgoal": "Use microwave",
+                    "start_timestamp": 5558,
+                    "stop_timestamp": 5704
+                }
+            ]
+        },
+        {
+            "subgoal": "Set table",
+            "start_timestamp": 5704,
+            "stop_timestamp": 6017,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place salad on table",
+                    "start_timestamp": 5704,
+                    "stop_timestamp": 5878
+                },
+                {
+                    "secondary_subgoal": "Move around the room",
+                    "start_timestamp": 5878,
+                    "stop_timestamp": 6017
+                }
+            ]
+        }
+    ]
+}

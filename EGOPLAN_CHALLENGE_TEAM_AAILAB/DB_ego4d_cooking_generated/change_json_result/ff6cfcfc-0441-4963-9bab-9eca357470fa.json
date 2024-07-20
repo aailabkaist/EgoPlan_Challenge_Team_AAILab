@@ -1,0 +1,135 @@
+{
+    "overall_goal": "Prepare and clean up after cooking a meal with cabbage and other ingredients using various utensils and appliances.",
+    "clips": [
+        {
+            "subgoal": "Prepare the meal by mixing ingredients and cooking them",
+            "start_timestamp": 12,
+            "stop_timestamp": 2535,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and pour hot water into the bowl",
+                    "start_timestamp": 12,
+                    "stop_timestamp": 241
+                },
+                {
+                    "secondary_subgoal": "Move and place the electric kettle",
+                    "start_timestamp": 241,
+                    "stop_timestamp": 310
+                },
+                {
+                    "secondary_subgoal": "Pick and use chopsticks to stir ingredients",
+                    "start_timestamp": 310,
+                    "stop_timestamp": 483
+                },
+                {
+                    "secondary_subgoal": "Use the sieving bowl for preparation",
+                    "start_timestamp": 483,
+                    "stop_timestamp": 796
+                },
+                {
+                    "secondary_subgoal": "Move the sieving bowl and continue preparation",
+                    "start_timestamp": 796,
+                    "stop_timestamp": 846
+                },
+                {
+                    "secondary_subgoal": "Prepare cabbage using a cooking pot and chopsticks",
+                    "start_timestamp": 846,
+                    "stop_timestamp": 1789
+                },
+                {
+                    "secondary_subgoal": "Place cabbage pot on the gas cooker",
+                    "start_timestamp": 1789,
+                    "stop_timestamp": 1836
+                },
+                {
+                    "secondary_subgoal": "Use leftover cabbage and stir ingredients",
+                    "start_timestamp": 1836,
+                    "stop_timestamp": 1908
+                },
+                {
+                    "secondary_subgoal": "Reheat water using the electric kettle and stir food",
+                    "start_timestamp": 1908,
+                    "stop_timestamp": 2535
+                }
+            ]
+        },
+        {
+            "subgoal": "Add seasoning to the meal",
+            "start_timestamp": 2558,
+            "stop_timestamp": 3133,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and prepare the seasoning sachet",
+                    "start_timestamp": 2558,
+                    "stop_timestamp": 2975
+                },
+                {
+                    "secondary_subgoal": "Tear and pour the sachet contents",
+                    "start_timestamp": 2975,
+                    "stop_timestamp": 2992
+                },
+                {
+                    "secondary_subgoal": "Dispose of the sachet and clean hands",
+                    "start_timestamp": 2992,
+                    "stop_timestamp": 3133
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean the used utensils",
+            "start_timestamp": 3133,
+            "stop_timestamp": 3749,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse and clean the sieving bowl",
+                    "start_timestamp": 3133,
+                    "stop_timestamp": 3651
+                },
+                {
+                    "secondary_subgoal": "Dry the sieving bowl and place it on the rack",
+                    "start_timestamp": 3651,
+                    "stop_timestamp": 3749
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and clean the cooking pan",
+            "start_timestamp": 3775,
+            "stop_timestamp": 4620,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fetch and handle the cooking pan",
+                    "start_timestamp": 3775,
+                    "stop_timestamp": 3880
+                },
+                {
+                    "secondary_subgoal": "Clean a wooden cooking spoon",
+                    "start_timestamp": 3880,
+                    "stop_timestamp": 4090
+                },
+                {
+                    "secondary_subgoal": "Clean the cooking pan",
+                    "start_timestamp": 4090,
+                    "stop_timestamp": 4620
+                }
+            ]
+        },
+        {
+            "subgoal": "Complete final cleanup and hand drying",
+            "start_timestamp": 4693,
+            "stop_timestamp": 4853,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place the cooking pan back on the gas cooker",
+                    "start_timestamp": 4693,
+                    "stop_timestamp": 4741
+                },
+                {
+                    "secondary_subgoal": "Dry hands using a kitchen towel",
+                    "start_timestamp": 4741,
+                    "stop_timestamp": 4853
+                }
+            ]
+        }
+    ]
+}

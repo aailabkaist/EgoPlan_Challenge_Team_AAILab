@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eh3wrqpQIZBfeqKqXxbgGTlzCe0A",
+    "object": "chat.completion",
+    "created": 1719485680,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and store chopped coriander in the fridge.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Process coriander\",\n      \"start_timestamp\": 43,\n      \"stop_timestamp\": 926,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and wash coriander\",\n          \"start_timestamp\": 43,\n          \"stop_timestamp\": 383\n        },\n        {\n          \"secondary_subgoal\": \"Chop coriander\",\n          \"start_timestamp\": 383,\n          \"stop_timestamp\": 876\n        },\n        {\n          \"secondary_subgoal\": \"Pick and close coriander dish\",\n          \"start_timestamp\": 876,\n          \"stop_timestamp\": 926\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Store coriander in the fridge\",\n      \"start_timestamp\": 926,\n      \"stop_timestamp\": 1069,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Move and open crisper drawer\",\n          \"start_timestamp\": 937,\n          \"stop_timestamp\": 983\n        },\n        {\n          \"secondary_subgoal\": \"Put dish in crisper drawer\",\n          \"start_timestamp\": 983,\n          \"stop_timestamp\": 1069\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up\",\n      \"start_timestamp\": 1069,\n      \"stop_timestamp\": 1418,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Discard and move aside\",\n          \"start_timestamp\": 1069,\n          \"stop_timestamp\": 1170\n        },\n        {\n          \"secondary_subgoal\": \"Rinse hands\",\n          \"start_timestamp\": 1170,\n          \"stop_timestamp\": 1292\n        },\n        {\n          \"secondary_subgoal\": \"Move towards the plate\",\n          \"start_timestamp\": 1292,\n          \"stop_timestamp\": 1418\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 509,
+        "completion_tokens": 414,
+        "total_tokens": 923
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

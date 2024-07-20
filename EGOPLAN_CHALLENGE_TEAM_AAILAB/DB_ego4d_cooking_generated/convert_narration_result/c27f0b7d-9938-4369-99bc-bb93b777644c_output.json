@@ -1,0 +1,1502 @@
+[
+    {
+        "task_goal": "Pick up and hold camera",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the camera",
+                "start_frame": 1,
+                "stop_frame": 44
+            },
+            {
+                "narration_text": "Picks the knife",
+                "start_frame": 44,
+                "stop_frame": 101
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and chop hot pepper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the camera",
+                "start_frame": 1,
+                "stop_frame": 44
+            },
+            {
+                "narration_text": "Picks the knife",
+                "start_frame": 44,
+                "stop_frame": 101
+            },
+            {
+                "narration_text": "Chops the hot pepper",
+                "start_frame": 101,
+                "stop_frame": 421
+            },
+            {
+                "narration_text": "Pulls the pieces of hot pepper together",
+                "start_frame": 421,
+                "stop_frame": 476
+            }
+        ]
+    },
+    {
+        "task_goal": "Pull together chopped pieces of pepper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Chops the hot pepper",
+                "start_frame": 101,
+                "stop_frame": 421
+            },
+            {
+                "narration_text": "Pulls the pieces of hot pepper together",
+                "start_frame": 421,
+                "stop_frame": 476
+            },
+            {
+                "narration_text": "Puts the pieces of hot paper in the dish",
+                "start_frame": 476,
+                "stop_frame": 660
+            }
+        ]
+    },
+    {
+        "task_goal": "Put chopped pieces of pepper in a dish",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pulls the pieces of hot pepper together",
+                "start_frame": 421,
+                "stop_frame": 476
+            },
+            {
+                "narration_text": "Puts the pieces of hot paper in the dish",
+                "start_frame": 476,
+                "stop_frame": 660
+            },
+            {
+                "narration_text": "Drops the knife",
+                "start_frame": 660,
+                "stop_frame": 741
+            }
+        ]
+    },
+    {
+        "task_goal": "Drop and rinse the knife and chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the pieces of hot paper in the dish",
+                "start_frame": 476,
+                "stop_frame": 660
+            },
+            {
+                "narration_text": "Drops the knife",
+                "start_frame": 660,
+                "stop_frame": 741
+            },
+            {
+                "narration_text": "Rinses the chopping board",
+                "start_frame": 741,
+                "stop_frame": 867
+            },
+            {
+                "narration_text": "Drops the chopping board",
+                "start_frame": 867,
+                "stop_frame": 908
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut and manage paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rinses the chopping board",
+                "start_frame": 741,
+                "stop_frame": 867
+            },
+            {
+                "narration_text": "Drops the chopping board",
+                "start_frame": 867,
+                "stop_frame": 908
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 908,
+                "stop_frame": 954
+            },
+            {
+                "narration_text": "Cuts the paper off",
+                "start_frame": 954,
+                "stop_frame": 1211
+            },
+            {
+                "narration_text": "Drops the knife",
+                "start_frame": 1211,
+                "stop_frame": 1286
+            },
+            {
+                "narration_text": "Quizzes unsure",
+                "start_frame": 1286,
+                "stop_frame": 1472
+            },
+            {
+                "narration_text": "Tears the paper",
+                "start_frame": 1472,
+                "stop_frame": 1569
+            },
+            {
+                "narration_text": "Takes off unsure",
+                "start_frame": 1569,
+                "stop_frame": 1601
+            },
+            {
+                "narration_text": "Drops the paper aside",
+                "start_frame": 1601,
+                "stop_frame": 1642
+            },
+            {
+                "narration_text": "Picks the knife",
+                "start_frame": 1642,
+                "stop_frame": 1735
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut and tear paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rinses the chopping board",
+                "start_frame": 741,
+                "stop_frame": 867
+            },
+            {
+                "narration_text": "Drops the chopping board",
+                "start_frame": 867,
+                "stop_frame": 908
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 908,
+                "stop_frame": 954
+            },
+            {
+                "narration_text": "Cuts the paper off",
+                "start_frame": 954,
+                "stop_frame": 1211
+            },
+            {
+                "narration_text": "Drops the knife",
+                "start_frame": 1211,
+                "stop_frame": 1286
+            },
+            {
+                "narration_text": "Quizzes unsure",
+                "start_frame": 1286,
+                "stop_frame": 1472
+            },
+            {
+                "narration_text": "Tears the paper",
+                "start_frame": 1472,
+                "stop_frame": 1569
+            },
+            {
+                "narration_text": "Takes off unsure",
+                "start_frame": 1569,
+                "stop_frame": 1601
+            }
+        ]
+    },
+    {
+        "task_goal": "Take off and drop paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Tears the paper",
+                "start_frame": 1472,
+                "stop_frame": 1569
+            },
+            {
+                "narration_text": "Takes off unsure",
+                "start_frame": 1569,
+                "stop_frame": 1601
+            },
+            {
+                "narration_text": "Drops the paper aside",
+                "start_frame": 1601,
+                "stop_frame": 1642
+            },
+            {
+                "narration_text": "Picks the knife",
+                "start_frame": 1642,
+                "stop_frame": 1735
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and chop ambiguous items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Drops the paper aside",
+                "start_frame": 1601,
+                "stop_frame": 1642
+            },
+            {
+                "narration_text": "Picks the knife",
+                "start_frame": 1642,
+                "stop_frame": 1735
+            },
+            {
+                "narration_text": "Stares on unsure",
+                "start_frame": 1735,
+                "stop_frame": 1784
+            },
+            {
+                "narration_text": "Chops unsure",
+                "start_frame": 1784,
+                "stop_frame": 4035
+            },
+            {
+                "narration_text": "Pulls pieces of unsure together",
+                "start_frame": 4035,
+                "stop_frame": 4108
+            },
+            {
+                "narration_text": "Chops unsure",
+                "start_frame": 4108,
+                "stop_frame": 4573
+            },
+            {
+                "narration_text": "Puts unsure in the dish",
+                "start_frame": 4573,
+                "stop_frame": 4778
+            },
+            {
+                "narration_text": "Pulls pieces unsure together",
+                "start_frame": 4778,
+                "stop_frame": 4834
+            },
+            {
+                "narration_text": "Chops unsure",
+                "start_frame": 4834,
+                "stop_frame": 4984
+            },
+            {
+                "narration_text": "Puts unsure in the dish",
+                "start_frame": 4984,
+                "stop_frame": 5109
+            },
+            {
+                "narration_text": "Pulls pieces of unsure together",
+                "start_frame": 5109,
+                "stop_frame": 5148
+            },
+            {
+                "narration_text": "Chops unsure",
+                "start_frame": 5148,
+                "stop_frame": 5384
+            },
+            {
+                "narration_text": "Puts unsure in the dish",
+                "start_frame": 5384,
+                "stop_frame": 5548
+            },
+            {
+                "narration_text": "Pulls pieces of unsure together",
+                "start_frame": 5548,
+                "stop_frame": 5638
+            },
+            {
+                "narration_text": "Chops unsure",
+                "start_frame": 5638,
+                "stop_frame": 5796
+            },
+            {
+                "narration_text": "Puts unsure in the dish",
+                "start_frame": 5796,
+                "stop_frame": 5977
+            },
+            {
+                "narration_text": "Drops the knife",
+                "start_frame": 5977,
+                "stop_frame": 6040
+            },
+            {
+                "narration_text": "Rinses the chopping board",
+                "start_frame": 6040,
+                "stop_frame": 6108
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse chopping board and wipe it with tissue paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Drops the knife",
+                "start_frame": 5977,
+                "stop_frame": 6040
+            },
+            {
+                "narration_text": "Rinses the chopping board",
+                "start_frame": 6040,
+                "stop_frame": 6108
+            },
+            {
+                "narration_text": "Picks the tissue paper",
+                "start_frame": 6108,
+                "stop_frame": 6152
+            },
+            {
+                "narration_text": "Wipes the chopping board",
+                "start_frame": 6152,
+                "stop_frame": 6247
+            },
+            {
+                "narration_text": "Drops the paper aside",
+                "start_frame": 6247,
+                "stop_frame": 6350
+            },
+            {
+                "narration_text": "Picks the plastic plate",
+                "start_frame": 6350,
+                "stop_frame": 6443
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut paper on a plastic plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the plastic plate",
+                "start_frame": 6350,
+                "stop_frame": 6443
+            },
+            {
+                "narration_text": "Cuts the paper on the plastic plate",
+                "start_frame": 6443,
+                "stop_frame": 6465
+            },
+            {
+                "narration_text": "Drops the knife",
+                "start_frame": 6465,
+                "stop_frame": 6574
+            },
+            {
+                "narration_text": "Takes off the meat",
+                "start_frame": 6574,
+                "stop_frame": 6707
+            }
+        ]
+    },
+    {
+        "task_goal": "Take off meat and put plastic plate aside",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Drops the knife",
+                "start_frame": 6465,
+                "stop_frame": 6574
+            },
+            {
+                "narration_text": "Takes off the meat",
+                "start_frame": 6574,
+                "stop_frame": 6707
+            },
+            {
+                "narration_text": "Puts the plastic plate aside",
+                "start_frame": 6707,
+                "stop_frame": 6775
+            },
+            {
+                "narration_text": "Picks the knife",
+                "start_frame": 6775,
+                "stop_frame": 6877
+            },
+            {
+                "narration_text": "Chops the meat",
+                "start_frame": 6877,
+                "stop_frame": 7889
+            }
+        ]
+    },
+    {
+        "task_goal": "Chop meat and put it in the dish",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the knife",
+                "start_frame": 6775,
+                "stop_frame": 6877
+            },
+            {
+                "narration_text": "Chops the meat",
+                "start_frame": 6877,
+                "stop_frame": 7889
+            },
+            {
+                "narration_text": "Puts the meat in the dish",
+                "start_frame": 7889,
+                "stop_frame": 7972
+            },
+            {
+                "narration_text": "Chops the meat",
+                "start_frame": 7972,
+                "stop_frame": 8370
+            },
+            {
+                "narration_text": "Puts the meat in the dish",
+                "start_frame": 8370,
+                "stop_frame": 8424
+            },
+            {
+                "narration_text": "Drops the knife n the sink",
+                "start_frame": 8424,
+                "stop_frame": 8476
+            }
+        ]
+    },
+    {
+        "task_goal": "Drop knife and rinse hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the meat in the dish",
+                "start_frame": 8370,
+                "stop_frame": 8424
+            },
+            {
+                "narration_text": "Drops the knife n the sink",
+                "start_frame": 8424,
+                "stop_frame": 8476
+            },
+            {
+                "narration_text": "Rinses the hands",
+                "start_frame": 8476,
+                "stop_frame": 8549
+            },
+            {
+                "narration_text": "Wipes the hands",
+                "start_frame": 8549,
+                "stop_frame": 8579
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe hands and pick chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rinses the hands",
+                "start_frame": 8476,
+                "stop_frame": 8549
+            },
+            {
+                "narration_text": "Wipes the hands",
+                "start_frame": 8549,
+                "stop_frame": 8579
+            },
+            {
+                "narration_text": "Picks a chopping board",
+                "start_frame": 8579,
+                "stop_frame": 8615
+            },
+            {
+                "narration_text": "Puts a chopping board in a sink",
+                "start_frame": 8615,
+                "stop_frame": 8655
+            },
+            {
+                "narration_text": "Picks a tin",
+                "start_frame": 8655,
+                "stop_frame": 8659
+            }
+        ]
+    },
+    {
+        "task_goal": "Put the polythene bag on the kitchen worktop",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts unsure in a polythene bag",
+                "start_frame": 9444,
+                "stop_frame": 9471
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 9471,
+                "stop_frame": 9481
+            },
+            {
+                "narration_text": "Puts unsure in a polythene bag",
+                "start_frame": 9481,
+                "stop_frame": 9506
+            },
+            {
+                "narration_text": "Puts a polythene bag on the kitchen worktop",
+                "start_frame": 9506,
+                "stop_frame": 9542
+            },
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 9542,
+                "stop_frame": 9563
+            }
+        ]
+    },
+    {
+        "task_goal": "Open tap and wash hands, close tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts a polythene bag on the kitchen worktop",
+                "start_frame": 9506,
+                "stop_frame": 9542
+            },
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 9542,
+                "stop_frame": 9563
+            },
+            {
+                "narration_text": "Washes hands",
+                "start_frame": 9563,
+                "stop_frame": 9593
+            },
+            {
+                "narration_text": "Closes a tap",
+                "start_frame": 9593,
+                "stop_frame": 9686
+            },
+            {
+                "narration_text": "Opens a cabinet",
+                "start_frame": 9686,
+                "stop_frame": 9738
+            }
+        ]
+    },
+    {
+        "task_goal": "Open cabinet, pick and put a pot on a cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes a tap",
+                "start_frame": 9593,
+                "stop_frame": 9686
+            },
+            {
+                "narration_text": "Opens a cabinet",
+                "start_frame": 9686,
+                "stop_frame": 9738
+            },
+            {
+                "narration_text": "Picks a pot",
+                "start_frame": 9738,
+                "stop_frame": 9789
+            },
+            {
+                "narration_text": "Puts a pot on a cooker",
+                "start_frame": 9789,
+                "stop_frame": 9850
+            },
+            {
+                "narration_text": "Pushes a bowl across a kitchen worktop",
+                "start_frame": 9850,
+                "stop_frame": 9885
+            }
+        ]
+    },
+    {
+        "task_goal": "Push a bowl, open and close a pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts a pot on a cooker",
+                "start_frame": 9789,
+                "stop_frame": 9850
+            },
+            {
+                "narration_text": "Pushes a bowl across a kitchen worktop",
+                "start_frame": 9850,
+                "stop_frame": 9885
+            },
+            {
+                "narration_text": "Opens a pot",
+                "start_frame": 9885,
+                "stop_frame": 9920
+            },
+            {
+                "narration_text": "Puts a lid on a cooker",
+                "start_frame": 9920,
+                "stop_frame": 9960
+            },
+            {
+                "narration_text": "Touches the handle of a cabinet",
+                "start_frame": 9960,
+                "stop_frame": 10031
+            }
+        ]
+    },
+    {
+        "task_goal": "Touch and move a bowl, turn a phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts a lid on a cooker",
+                "start_frame": 9920,
+                "stop_frame": 9960
+            },
+            {
+                "narration_text": "Touches the handle of a cabinet",
+                "start_frame": 9960,
+                "stop_frame": 10031
+            },
+            {
+                "narration_text": "Moves a bowl",
+                "start_frame": 10031,
+                "stop_frame": 10054
+            },
+            {
+                "narration_text": "Turns a phone",
+                "start_frame": 10054,
+                "stop_frame": 10093
+            },
+            {
+                "narration_text": "Scrolls a phone",
+                "start_frame": 10093,
+                "stop_frame": 10223
+            }
+        ]
+    },
+    {
+        "task_goal": "Scroll a phone, open cabinet, pick and close a box",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns a phone",
+                "start_frame": 10054,
+                "stop_frame": 10093
+            },
+            {
+                "narration_text": "Scrolls a phone",
+                "start_frame": 10093,
+                "stop_frame": 10223
+            },
+            {
+                "narration_text": "Opens a cabinet",
+                "start_frame": 10223,
+                "stop_frame": 10284
+            },
+            {
+                "narration_text": "Picks a box",
+                "start_frame": 10284,
+                "stop_frame": 10300
+            },
+            {
+                "narration_text": "Closes a cabinet",
+                "start_frame": 10300,
+                "stop_frame": 10350
+            },
+            {
+                "narration_text": "Puts a box on a kitchen worktop",
+                "start_frame": 10350,
+                "stop_frame": 10425
+            },
+            {
+                "narration_text": "Unfolds the edge of a box",
+                "start_frame": 10425,
+                "stop_frame": 10480
+            }
+        ]
+    },
+    {
+        "task_goal": "Unfold box, open drawer, pick up scissors, cut box",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts a box on a kitchen worktop",
+                "start_frame": 10350,
+                "stop_frame": 10425
+            },
+            {
+                "narration_text": "Unfolds the edge of a box",
+                "start_frame": 10425,
+                "stop_frame": 10480
+            },
+            {
+                "narration_text": "Unfolds the edge of a box",
+                "start_frame": 10480,
+                "stop_frame": 10549
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 10549,
+                "stop_frame": 10600
+            },
+            {
+                "narration_text": "Picks a scissors from a drawer",
+                "start_frame": 10600,
+                "stop_frame": 10615
+            },
+            {
+                "narration_text": "Closes a drawer",
+                "start_frame": 10615,
+                "stop_frame": 10750
+            },
+            {
+                "narration_text": "Cuts a box using a scissors",
+                "start_frame": 10750,
+                "stop_frame": 10884
+            },
+            {
+                "narration_text": "Puts a scissors on a kitchen worktop",
+                "start_frame": 10884,
+                "stop_frame": 10931
+            },
+            {
+                "narration_text": "Puts a box piece in a trash bin",
+                "start_frame": 10931,
+                "stop_frame": 10983
+            },
+            {
+                "narration_text": "Opens a fridge",
+                "start_frame": 10983,
+                "stop_frame": 11035
+            }
+        ]
+    },
+    {
+        "task_goal": "Open fridge, pick sachet, close fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts a box piece in a trash bin",
+                "start_frame": 10931,
+                "stop_frame": 10983
+            },
+            {
+                "narration_text": "Opens a fridge",
+                "start_frame": 10983,
+                "stop_frame": 11035
+            },
+            {
+                "narration_text": "Touches a sachet",
+                "start_frame": 11035,
+                "stop_frame": 11144
+            },
+            {
+                "narration_text": "Picks a sachet",
+                "start_frame": 11144,
+                "stop_frame": 11161
+            },
+            {
+                "narration_text": "Closes a fridge",
+                "start_frame": 11161,
+                "stop_frame": 11229
+            },
+            {
+                "narration_text": "Scrolls a phone",
+                "start_frame": 11229,
+                "stop_frame": 11293
+            },
+            {
+                "narration_text": "Puts a sachet on a kitchen worktop",
+                "start_frame": 11293,
+                "stop_frame": 11396
+            }
+        ]
+    },
+    {
+        "task_goal": "Place sachet, open fridge, pick bottle, close fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Scrolls a phone",
+                "start_frame": 11229,
+                "stop_frame": 11293
+            },
+            {
+                "narration_text": "Puts a sachet on a kitchen worktop",
+                "start_frame": 11293,
+                "stop_frame": 11396
+            },
+            {
+                "narration_text": "Opens a fridge",
+                "start_frame": 11396,
+                "stop_frame": 11465
+            },
+            {
+                "narration_text": "Picks a bottle",
+                "start_frame": 11465,
+                "stop_frame": 11588
+            },
+            {
+                "narration_text": "Picks a bottle",
+                "start_frame": 11588,
+                "stop_frame": 11644
+            },
+            {
+                "narration_text": "Closes a fridge",
+                "start_frame": 11644,
+                "stop_frame": 11658
+            },
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 11658,
+                "stop_frame": 11699
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk around, put bottles on worktop, pick and move cans",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes a fridge",
+                "start_frame": 11644,
+                "stop_frame": 11658
+            },
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 11658,
+                "stop_frame": 11699
+            },
+            {
+                "narration_text": "Puts bottles on the kitchen worktop",
+                "start_frame": 11699,
+                "stop_frame": 11815
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 11815,
+                "stop_frame": 11828
+            },
+            {
+                "narration_text": "Picks a can",
+                "start_frame": 11828,
+                "stop_frame": 11844
+            },
+            {
+                "narration_text": "Picks a can",
+                "start_frame": 11844,
+                "stop_frame": 11873
+            },
+            {
+                "narration_text": "Closes a drawer",
+                "start_frame": 11873,
+                "stop_frame": 11912
+            },
+            {
+                "narration_text": "Puts a can on the kitchen worktop",
+                "start_frame": 11912,
+                "stop_frame": 11912
+            },
+            {
+                "narration_text": "Puts a can on the kitchen worktop",
+                "start_frame": 11912,
+                "stop_frame": 11948
+            },
+            {
+                "narration_text": "Picks a can",
+                "start_frame": 11948,
+                "stop_frame": 11984
+            },
+            {
+                "narration_text": "Puts a can on a sink",
+                "start_frame": 11984,
+                "stop_frame": 12036
+            },
+            {
+                "narration_text": "Pulls a ring of a can",
+                "start_frame": 12036,
+                "stop_frame": 12218
+            }
+        ]
+    },
+    {
+        "task_goal": "Open cans, use scissors, put items in sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts a can on a sink",
+                "start_frame": 11984,
+                "stop_frame": 12036
+            },
+            {
+                "narration_text": "Pulls a ring of a can",
+                "start_frame": 12036,
+                "stop_frame": 12218
+            },
+            {
+                "narration_text": "Moves can",
+                "start_frame": 12218,
+                "stop_frame": 12245
+            },
+            {
+                "narration_text": "Picks a scissors",
+                "start_frame": 12245,
+                "stop_frame": 12309
+            },
+            {
+                "narration_text": "Pushes ring with a scissors",
+                "start_frame": 12309,
+                "stop_frame": 12394
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 12394,
+                "stop_frame": 12431
+            },
+            {
+                "narration_text": "Puts a scissors in a drawer",
+                "start_frame": 12431,
+                "stop_frame": 12471
+            },
+            {
+                "narration_text": "Closes a drawer",
+                "start_frame": 12471,
+                "stop_frame": 12531
+            },
+            {
+                "narration_text": "Pulls a ring of a can",
+                "start_frame": 12531,
+                "stop_frame": 12671
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 12671,
+                "stop_frame": 12731
+            },
+            {
+                "narration_text": "Touches unsure",
+                "start_frame": 12731,
+                "stop_frame": 12799
+            },
+            {
+                "narration_text": "Touches unsure",
+                "start_frame": 12799,
+                "stop_frame": 12950
+            },
+            {
+                "narration_text": "Picks a knife",
+                "start_frame": 12950,
+                "stop_frame": 13134
+            },
+            {
+                "narration_text": "Pulls a ring of a can using a knife",
+                "start_frame": 13134,
+                "stop_frame": 13246
+            },
+            {
+                "narration_text": "Puts a knife in a drawer",
+                "start_frame": 13246,
+                "stop_frame": 13301
+            },
+            {
+                "narration_text": "Closes a drawer",
+                "start_frame": 13301,
+                "stop_frame": 13384
+            },
+            {
+                "narration_text": "Pulls a ring of a can",
+                "start_frame": 13384,
+                "stop_frame": 13418
+            },
+            {
+                "narration_text": "Moves a box",
+                "start_frame": 13418,
+                "stop_frame": 13560
+            },
+            {
+                "narration_text": "Opens a can",
+                "start_frame": 13560,
+                "stop_frame": 13831
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse hand, dry hand with paper towel, wipe kitchen worktop",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens a can",
+                "start_frame": 13560,
+                "stop_frame": 13831
+            },
+            {
+                "narration_text": "Pushes lid of a can",
+                "start_frame": 13831,
+                "stop_frame": 13911
+            },
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 13911,
+                "stop_frame": 13925
+            },
+            {
+                "narration_text": "Rinses left hand",
+                "start_frame": 13925,
+                "stop_frame": 13943
+            },
+            {
+                "narration_text": "Closes a tap",
+                "start_frame": 13943,
+                "stop_frame": 13987
+            },
+            {
+                "narration_text": "Picks a paper towel",
+                "start_frame": 13987,
+                "stop_frame": 14016
+            },
+            {
+                "narration_text": "Wipes her cloth using a paper towel",
+                "start_frame": 14016,
+                "stop_frame": 14090
+            },
+            {
+                "narration_text": "Wipes the kitchen worktop using a paper towel",
+                "start_frame": 14090,
+                "stop_frame": 14130
+            },
+            {
+                "narration_text": "Picks a can",
+                "start_frame": 14130,
+                "stop_frame": 14134
+            },
+            {
+                "narration_text": "Wipes the kitchen worktop using a paper towel",
+                "start_frame": 14134,
+                "stop_frame": 14182
+            },
+            {
+                "narration_text": "Wipes the kitchen worktop using a paper towel",
+                "start_frame": 14182,
+                "stop_frame": 14202
+            },
+            {
+                "narration_text": "Puts a can on the kitchen worktop",
+                "start_frame": 14202,
+                "stop_frame": 14230
+            },
+            {
+                "narration_text": "Cuts a paper towel",
+                "start_frame": 14230,
+                "stop_frame": 14275
+            },
+            {
+                "narration_text": "Wipes the kitchen worktop using a paper towel",
+                "start_frame": 14275,
+                "stop_frame": 14304
+            },
+            {
+                "narration_text": "Wipes the kitchen worktop using a paper towel",
+                "start_frame": 14304,
+                "stop_frame": 14368
+            },
+            {
+                "narration_text": "Wipes the kitchen worktop using a paper towel",
+                "start_frame": 14368,
+                "stop_frame": 14381
+            },
+            {
+                "narration_text": "Wipes cloth",
+                "start_frame": 14381,
+                "stop_frame": 14439
+            },
+            {
+                "narration_text": "Wipes the kitchen worktop using a paper towel",
+                "start_frame": 14439,
+                "stop_frame": 14485
+            },
+            {
+                "narration_text": "Picks a can",
+                "start_frame": 14485,
+                "stop_frame": 14519
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour liquid from can, wash beans, manage tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Wipes the kitchen worktop using a paper towel",
+                "start_frame": 14439,
+                "stop_frame": 14485
+            },
+            {
+                "narration_text": "Picks a can",
+                "start_frame": 14485,
+                "stop_frame": 14519
+            },
+            {
+                "narration_text": "Pours liquid from a can in a sink",
+                "start_frame": 14519,
+                "stop_frame": 14593
+            },
+            {
+                "narration_text": "Picks a bean",
+                "start_frame": 14593,
+                "stop_frame": 14619
+            },
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 14619,
+                "stop_frame": 14641
+            },
+            {
+                "narration_text": "Washes a bean",
+                "start_frame": 14641,
+                "stop_frame": 14660
+            },
+            {
+                "narration_text": "Closes a tap",
+                "start_frame": 14660,
+                "stop_frame": 14692
+            },
+            {
+                "narration_text": "Puts a bean in a bowl",
+                "start_frame": 14692,
+                "stop_frame": 14783
+            },
+            {
+                "narration_text": "Pours liquid from a can in a sink",
+                "start_frame": 14783,
+                "stop_frame": 15145
+            },
+            {
+                "narration_text": "Pulls a lid of a can",
+                "start_frame": 15145,
+                "stop_frame": 15183
+            },
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 15183,
+                "stop_frame": 15201
+            },
+            {
+                "narration_text": "Washes left hand",
+                "start_frame": 15201,
+                "stop_frame": 15212
+            },
+            {
+                "narration_text": "Closes a tap",
+                "start_frame": 15212,
+                "stop_frame": 15254
+            },
+            {
+                "narration_text": "Dries hands using a towel",
+                "start_frame": 15254,
+                "stop_frame": 15291
+            },
+            {
+                "narration_text": "Picks a paper towel",
+                "start_frame": 15291,
+                "stop_frame": 15300
+            }
+        ]
+    },
+    {
+        "task_goal": "Open a bottle, pour oil in a pot and adjust cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Dries hands using a towel",
+                "start_frame": 15254,
+                "stop_frame": 15291
+            },
+            {
+                "narration_text": "Picks a paper towel",
+                "start_frame": 15291,
+                "stop_frame": 15300
+            },
+            {
+                "narration_text": "Wipes her cloth using a paper towel",
+                "start_frame": 15300,
+                "stop_frame": 15366
+            },
+            {
+                "narration_text": "Wipes her cloth using a paper towel",
+                "start_frame": 15366,
+                "stop_frame": 15416
+            },
+            {
+                "narration_text": "Opens a trash bin",
+                "start_frame": 15416,
+                "stop_frame": 15428
+            },
+            {
+                "narration_text": "Throws a paper towel in a trash bin",
+                "start_frame": 15428,
+                "stop_frame": 15435
+            },
+            {
+                "narration_text": "Closes a trash bin",
+                "start_frame": 15435,
+                "stop_frame": 15526
+            },
+            {
+                "narration_text": "Touches a container",
+                "start_frame": 15526,
+                "stop_frame": 15667
+            },
+            {
+                "narration_text": "Picks a bottle",
+                "start_frame": 15667,
+                "stop_frame": 15742
+            },
+            {
+                "narration_text": "Opens a bottle",
+                "start_frame": 15742,
+                "stop_frame": 15920
+            },
+            {
+                "narration_text": "Pours oil in a pot",
+                "start_frame": 15920,
+                "stop_frame": 15982
+            },
+            {
+                "narration_text": "Closes a bottle",
+                "start_frame": 15982,
+                "stop_frame": 16054
+            },
+            {
+                "narration_text": "Puts a bottle on shelf",
+                "start_frame": 16054,
+                "stop_frame": 16120
+            },
+            {
+                "narration_text": "Picks a lid",
+                "start_frame": 16120,
+                "stop_frame": 16139
+            },
+            {
+                "narration_text": "Puts a lid on a cooker",
+                "start_frame": 16139,
+                "stop_frame": 16178
+            },
+            {
+                "narration_text": "Presses a button",
+                "start_frame": 16178,
+                "stop_frame": 16231
+            },
+            {
+                "narration_text": "Adjusts a cooker",
+                "start_frame": 16231,
+                "stop_frame": 16296
+            },
+            {
+                "narration_text": "Touches a pot",
+                "start_frame": 16296,
+                "stop_frame": 16349
+            },
+            {
+                "narration_text": "Picks a spatula",
+                "start_frame": 16349,
+                "stop_frame": 16460
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and soak towel, wipe countertop",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches a pot",
+                "start_frame": 16296,
+                "stop_frame": 16349
+            },
+            {
+                "narration_text": "Picks a spatula",
+                "start_frame": 16349,
+                "stop_frame": 16460
+            },
+            {
+                "narration_text": "Puts a spatula on a bowl",
+                "start_frame": 16460,
+                "stop_frame": 16524
+            },
+            {
+                "narration_text": "Picks a towel",
+                "start_frame": 16524,
+                "stop_frame": 16554
+            },
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 16554,
+                "stop_frame": 16555
+            },
+            {
+                "narration_text": "Soaks towel with water",
+                "start_frame": 16555,
+                "stop_frame": 16713
+            },
+            {
+                "narration_text": "Turns off the kitchen faucet",
+                "start_frame": 16713,
+                "stop_frame": 16805
+            },
+            {
+                "narration_text": "Wipes the countertop with the kitchen towel",
+                "start_frame": 16805,
+                "stop_frame": 16932
+            },
+            {
+                "narration_text": "Wipes the shirt with the kitchen towel",
+                "start_frame": 16932,
+                "stop_frame": 17207
+            },
+            {
+                "narration_text": "Wipes the countertop with the kitchen towel",
+                "start_frame": 17207,
+                "stop_frame": 17272
+            },
+            {
+                "narration_text": "Puts the kitchen towel on the countertop",
+                "start_frame": 17272,
+                "stop_frame": 17288
+            },
+            {
+                "narration_text": "Walks around in the kitchen",
+                "start_frame": 17288,
+                "stop_frame": 17357
+            }
+        ]
+    },
+    {
+        "task_goal": "Empty contents into cooking pot and stir food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up the bowl",
+                "start_frame": 19287,
+                "stop_frame": 19312
+            },
+            {
+                "narration_text": "Empties the contents of the bowl into the cooking pot",
+                "start_frame": 19312,
+                "stop_frame": 19530
+            },
+            {
+                "narration_text": "Puts the bowl on the countertop",
+                "start_frame": 19530,
+                "stop_frame": 19560
+            },
+            {
+                "narration_text": "Stirs the food in the cooking pot",
+                "start_frame": 19560,
+                "stop_frame": 20235
+            },
+            {
+                "narration_text": "Puts the spatula in the bowl",
+                "start_frame": 20235,
+                "stop_frame": 20263
+            },
+            {
+                "narration_text": "Picks up a can of beans",
+                "start_frame": 20263,
+                "stop_frame": 20305
+            },
+            {
+                "narration_text": "Puts the beans into the cooking pot",
+                "start_frame": 20305,
+                "stop_frame": 20442
+            }
+        ]
+    },
+    {
+        "task_goal": "Add beans to cooking pot and interact with phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up a can of beans",
+                "start_frame": 20263,
+                "stop_frame": 20305
+            },
+            {
+                "narration_text": "Puts the beans into the cooking pot",
+                "start_frame": 20305,
+                "stop_frame": 20442
+            },
+            {
+                "narration_text": "Puts the can on the countertop",
+                "start_frame": 20442,
+                "stop_frame": 20483
+            },
+            {
+                "narration_text": "Checks the phone",
+                "start_frame": 20483,
+                "stop_frame": 20585
+            },
+            {
+                "narration_text": "Picks up a packet",
+                "start_frame": 20585,
+                "stop_frame": 20674
+            }
+        ]
+    },
+    {
+        "task_goal": "Open packet and add its contents to the cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Checks the phone",
+                "start_frame": 20483,
+                "stop_frame": 20585
+            },
+            {
+                "narration_text": "Picks up a packet",
+                "start_frame": 20585,
+                "stop_frame": 20674
+            },
+            {
+                "narration_text": "Opens up the packet",
+                "start_frame": 20674,
+                "stop_frame": 20778
+            },
+            {
+                "narration_text": "Pours the contents of the packet into the cooking pot",
+                "start_frame": 20778,
+                "stop_frame": 20951
+            },
+            {
+                "narration_text": "Takes the packet to the sink",
+                "start_frame": 20951,
+                "stop_frame": 20974
+            },
+            {
+                "narration_text": "Turns on the kitchen faucet",
+                "start_frame": 20974,
+                "stop_frame": 20992
+            },
+            {
+                "narration_text": "Puts water into the packet",
+                "start_frame": 20992,
+                "stop_frame": 21042
+            },
+            {
+                "narration_text": "Turns off the kitchen faucet",
+                "start_frame": 21042,
+                "stop_frame": 21062
+            },
+            {
+                "narration_text": "Carries the packet with water towards the electric stove",
+                "start_frame": 21062,
+                "stop_frame": 21089
+            },
+            {
+                "narration_text": "Pours the contents of the packet into the cooking pot",
+                "start_frame": 21089,
+                "stop_frame": 21149
+            },
+            {
+                "narration_text": "Takes the packet to the sink",
+                "start_frame": 21149,
+                "stop_frame": 21183
+            },
+            {
+                "narration_text": "Turns on the kitchen faucet",
+                "start_frame": 21183,
+                "stop_frame": 21191
+            }
+        ]
+    },
+    {
+        "task_goal": "Refill packet with water and add to cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the packet to the sink",
+                "start_frame": 21149,
+                "stop_frame": 21183
+            },
+            {
+                "narration_text": "Turns on the kitchen faucet",
+                "start_frame": 21183,
+                "stop_frame": 21191
+            },
+            {
+                "narration_text": "Puts water into the packet",
+                "start_frame": 21191,
+                "stop_frame": 21235
+            },
+            {
+                "narration_text": "Turns off the kitchen faucet",
+                "start_frame": 21235,
+                "stop_frame": 21335
+            }
+        ]
+    }
+]

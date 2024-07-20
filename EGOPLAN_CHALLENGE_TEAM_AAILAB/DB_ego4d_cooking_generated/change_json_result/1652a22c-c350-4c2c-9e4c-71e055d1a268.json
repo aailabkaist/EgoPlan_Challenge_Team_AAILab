@@ -1,0 +1,208 @@
+{
+    "overall_goal": "Prepare and organize a meal using various ingredients and kitchen appliances.",
+    "clips": [
+        {
+            "subgoal": "Gathering and preparing uncooked ingredients.",
+            "start_timestamp": 39,
+            "stop_timestamp": 214,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Holding a tin and using chopstick to pick #unsure.",
+                    "start_timestamp": 39,
+                    "stop_timestamp": 120
+                },
+                {
+                    "secondary_subgoal": "Putting #unsure on a plate.",
+                    "start_timestamp": 120,
+                    "stop_timestamp": 214
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing for microwave cooking.",
+            "start_timestamp": 214,
+            "stop_timestamp": 560,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Putting tin and chopstick away.",
+                    "start_timestamp": 214,
+                    "stop_timestamp": 354
+                },
+                {
+                    "secondary_subgoal": "Covering food with nylon paper and placing it in the microwave.",
+                    "start_timestamp": 354,
+                    "stop_timestamp": 494
+                },
+                {
+                    "secondary_subgoal": "Closing microwave door and pressing button.",
+                    "start_timestamp": 494,
+                    "stop_timestamp": 560
+                }
+            ]
+        },
+        {
+            "subgoal": "Organizing the fridge and retrieving items.",
+            "start_timestamp": 560,
+            "stop_timestamp": 954,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening fridge and picking items.",
+                    "start_timestamp": 682,
+                    "stop_timestamp": 852
+                },
+                {
+                    "secondary_subgoal": "Putting items down and looking around.",
+                    "start_timestamp": 852,
+                    "stop_timestamp": 954
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling ingredients and packets.",
+            "start_timestamp": 954,
+            "stop_timestamp": 1815,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening drawer and picking a packet.",
+                    "start_timestamp": 1012,
+                    "stop_timestamp": 1162
+                },
+                {
+                    "secondary_subgoal": "Opening and sealing packets, touching microwave.",
+                    "start_timestamp": 1162,
+                    "stop_timestamp": 1287
+                },
+                {
+                    "secondary_subgoal": "Picks and puts the bowl in the microwave.",
+                    "start_timestamp": 1815,
+                    "stop_timestamp": 1974
+                }
+            ]
+        },
+        {
+            "subgoal": "Using microwave.",
+            "start_timestamp": 1325,
+            "stop_timestamp": 2231,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pressing button, opening and closing microwave.",
+                    "start_timestamp": 1325,
+                    "stop_timestamp": 2231
+                }
+            ]
+        },
+        {
+            "subgoal": "Retrieving and putting items from the fridge.",
+            "start_timestamp": 2231,
+            "stop_timestamp": 2563,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening fridge, retrieving, and closing it.",
+                    "start_timestamp": 2382,
+                    "stop_timestamp": 2550
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning and organizing in kitchen.",
+            "start_timestamp": 2726,
+            "stop_timestamp": 3794,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking nylon paper, container, scrubbing, closing, shaking, organizing.",
+                    "start_timestamp": 2726,
+                    "stop_timestamp": 3212
+                },
+                {
+                    "secondary_subgoal": "Handling dustbin, lid, papers, and organizing.",
+                    "start_timestamp": 3212,
+                    "stop_timestamp": 3735
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing hands and drying.",
+            "start_timestamp": 4012,
+            "stop_timestamp": 4938,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking, washing, and putting away soap and towel.",
+                    "start_timestamp": 4267,
+                    "stop_timestamp": 4720
+                }
+            ]
+        },
+        {
+            "subgoal": "Using microwave and preparing ingredients.",
+            "start_timestamp": 4970,
+            "stop_timestamp": 5645,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening microwave, removing bowl, pouring ingredients.",
+                    "start_timestamp": 4970,
+                    "stop_timestamp": 5383
+                }
+            ]
+        },
+        {
+            "subgoal": "Organizing and cooking.",
+            "start_timestamp": 5829,
+            "stop_timestamp": 7878,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking nylon paper, sealing packets, organizing bowl.",
+                    "start_timestamp": 5829,
+                    "stop_timestamp": 5929
+                }
+            ]
+        },
+        {
+            "subgoal": "Looking around and organizing kitchen area.",
+            "start_timestamp": 8101,
+            "stop_timestamp": 9003,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling drawer, cup, pouring water, and returning cup.",
+                    "start_timestamp": 8202,
+                    "stop_timestamp": 8465
+                }
+            ]
+        },
+        {
+            "subgoal": "Clearing and preparing to serve.",
+            "start_timestamp": 9198,
+            "stop_timestamp": 10847,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling dishwasher, arranging utensils, lifting and replacing.",
+                    "start_timestamp": 9198,
+                    "stop_timestamp": 10358
+                }
+            ]
+        },
+        {
+            "subgoal": "Serving food.",
+            "start_timestamp": 12015,
+            "stop_timestamp": 12765,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring and serving food in bowl.",
+                    "start_timestamp": 12015,
+                    "stop_timestamp": 12161
+                }
+            ]
+        },
+        {
+            "subgoal": "Organizing kitchen after serving.",
+            "start_timestamp": 12545,
+            "stop_timestamp": 14106,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling saucer, microwave, disposing seal paper, preparing chopstick.",
+                    "start_timestamp": 12545,
+                    "stop_timestamp": 13517
+                }
+            ]
+        }
+    ]
+}

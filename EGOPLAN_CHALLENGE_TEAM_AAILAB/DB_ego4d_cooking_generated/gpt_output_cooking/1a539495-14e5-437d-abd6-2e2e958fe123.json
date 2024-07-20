@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeTfMWJsEuOMRcvBW9N9157bdRbZ",
+    "object": "chat.completion",
+    "created": 1719475743,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cleaning and preparing food in the kitchen\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Washing and preparing utensils\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 1952,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Washing dishes and cutlery\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 206\n        },\n        {\n          \"secondary_subgoal\": \"Drying hands\",\n          \"start_timestamp\": 394,\n          \"stop_timestamp\": 467\n        },\n        {\n          \"secondary_subgoal\": \"Cooking in a pan\",\n          \"start_timestamp\": 467,\n          \"stop_timestamp\": 741\n        },\n        {\n          \"secondary_subgoal\": \"Handling turner spoon\",\n          \"start_timestamp\": 741,\n          \"stop_timestamp\": 942\n        },\n        {\n          \"secondary_subgoal\": \"Washing turner spoon\",\n          \"start_timestamp\": 942,\n          \"stop_timestamp\": 1428\n        },\n        {\n          \"secondary_subgoal\": \"Returning turner spoon to storage\",\n          \"start_timestamp\": 1428,\n          \"stop_timestamp\": 1952\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Adding spices and cooking\",\n      \"start_timestamp\": 1952,\n      \"stop_timestamp\": 3076,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handling spices on top of fridge and adding to food\",\n          \"start_timestamp\": 1952,\n          \"stop_timestamp\": 2304\n        },\n        {\n          \"secondary_subgoal\": \"Returning spices to fridge\",\n          \"start_timestamp\": 2304,\n          \"stop_timestamp\": 2491\n        },\n        {\n          \"secondary_subgoal\": \"Cooking in a pan\",\n          \"start_timestamp\": 2491,\n          \"stop_timestamp\": 2857\n        },\n        {\n          \"secondary_subgoal\": \"Disposing of waste and cleaning hands\",\n          \"start_timestamp\": 2857,\n          \"stop_timestamp\": 2976\n        },\n        {\n          \"secondary_subgoal\": \"Miscellaneous actions in the kitchen\",\n          \"start_timestamp\": 2976,\n          \"stop_timestamp\": 3076\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 654,
+        "completion_tokens": 491,
+        "total_tokens": 1145
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

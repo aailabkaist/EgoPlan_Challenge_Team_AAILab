@@ -1,0 +1,161 @@
+{
+    "overall_goal": "Process banana male flowers by removing petals and separating styles and stigmas.",
+    "clips": [
+        {
+            "subgoal": "Prepare to process banana male flowers.",
+            "start_timestamp": 41,
+            "stop_timestamp": 172,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Inspect the banana male flowers in the tray.",
+                    "start_timestamp": 41,
+                    "stop_timestamp": 139
+                },
+                {
+                    "secondary_subgoal": "Adjust the camera position.",
+                    "start_timestamp": 139,
+                    "stop_timestamp": 172
+                }
+            ]
+        },
+        {
+            "subgoal": "Process banana male flowers.",
+            "start_timestamp": 172,
+            "stop_timestamp": 3707,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up banana male flower.",
+                    "start_timestamp": 248,
+                    "stop_timestamp": 315
+                },
+                {
+                    "secondary_subgoal": "Split the banana male flower.",
+                    "start_timestamp": 315,
+                    "stop_timestamp": 421
+                },
+                {
+                    "secondary_subgoal": "Place split banana male flower back in the tray.",
+                    "start_timestamp": 421,
+                    "stop_timestamp": 606
+                },
+                {
+                    "secondary_subgoal": "Remove petals from banana male flower.",
+                    "start_timestamp": 606,
+                    "stop_timestamp": 1015
+                },
+                {
+                    "secondary_subgoal": "Separate style and stigma from the flower and place in tray.",
+                    "start_timestamp": 1015,
+                    "stop_timestamp": 1576,
+                    "sub_clips": [
+                        {
+                            "secondary_subgoal": "Place style and stigma of banana flower in tray.",
+                            "start_timestamp": 1015,
+                            "stop_timestamp": 1097
+                        },
+                        {
+                            "secondary_subgoal": "Pick up style and stigma of banana flower from tray.",
+                            "start_timestamp": 1097,
+                            "stop_timestamp": 1138
+                        },
+                        {
+                            "secondary_subgoal": "Place style and stigma of banana flower in left hand with right hand.",
+                            "start_timestamp": 1138,
+                            "stop_timestamp": 1293
+                        },
+                        {
+                            "secondary_subgoal": "Continue removing petals from banana male flower.",
+                            "start_timestamp": 1293,
+                            "stop_timestamp": 1576
+                        }
+                    ]
+                },
+                {
+                    "secondary_subgoal": "Place petals on the table and styles and stigmas in the tray.",
+                    "start_timestamp": 1576,
+                    "stop_timestamp": 3707,
+                    "sub_clips": [
+                        {
+                            "secondary_subgoal": "Place petals on the table.",
+                            "start_timestamp": 2006,
+                            "stop_timestamp": 2059
+                        },
+                        {
+                            "secondary_subgoal": "Place style and stigma of banana flower in tray.",
+                            "start_timestamp": 2091,
+                            "stop_timestamp": 2402,
+                            "sub_clips": [
+                                {
+                                    "secondary_subgoal": "Pick style and stigma of banana flower from tray.",
+                                    "start_timestamp": 1706,
+                                    "stop_timestamp": 2006
+                                },
+                                {
+                                    "secondary_subgoal": "Place petals on the table.",
+                                    "start_timestamp": 2402,
+                                    "stop_timestamp": 2444
+                                },
+                                {
+                                    "secondary_subgoal": "Place style and stigma of banana flower in tray.",
+                                    "start_timestamp": 2444,
+                                    "stop_timestamp": 2486
+                                },
+                                {
+                                    "secondary_subgoal": "Pick up style and stigma of banana flower from tray.",
+                                    "start_timestamp": 2486,
+                                    "stop_timestamp": 2549
+                                }
+                            ]
+                        },
+                        {
+                            "secondary_subgoal": "Continue removing petals and placing on table.",
+                            "start_timestamp": 2549,
+                            "stop_timestamp": 3707,
+                            "sub_clips": [
+                                {
+                                    "secondary_subgoal": "Remove petals from banana male flower and place on table.",
+                                    "start_timestamp": 2781,
+                                    "stop_timestamp": 2822
+                                },
+                                {
+                                    "secondary_subgoal": "Place style and stigma of banana flower in tray.",
+                                    "start_timestamp": 2866,
+                                    "stop_timestamp": 3362,
+                                    "sub_clips": [
+                                        {
+                                            "secondary_subgoal": "Pick up style and stigma of banana flower from tray.",
+                                            "start_timestamp": 2925,
+                                            "stop_timestamp": 3025
+                                        },
+                                        {
+                                            "secondary_subgoal": "Remove petals from banana male flower.",
+                                            "start_timestamp": 3025,
+                                            "stop_timestamp": 3115
+                                        },
+                                        {
+                                            "secondary_subgoal": "Place petals on the table (repeated steps).",
+                                            "start_timestamp": 3167,
+                                            "stop_timestamp": 3562
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subgoal": "Hold phone.",
+            "start_timestamp": 3607,
+            "stop_timestamp": 3707,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold the phone with the left hand.",
+                    "start_timestamp": 3607,
+                    "stop_timestamp": 3707
+                }
+            ]
+        }
+    ]
+}

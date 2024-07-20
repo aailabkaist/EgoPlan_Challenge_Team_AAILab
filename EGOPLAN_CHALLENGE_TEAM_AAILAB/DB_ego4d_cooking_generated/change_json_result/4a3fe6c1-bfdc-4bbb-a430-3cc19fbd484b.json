@@ -1,0 +1,162 @@
+{
+    "overall_goal": "Prepare ingredients and the workspace for cooking",
+    "clips": [
+        {
+            "subgoal": "Prepare and operate the microwave",
+            "start_timestamp": 0,
+            "stop_timestamp": 428,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move the hand and pick the container",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 66
+                },
+                {
+                    "secondary_subgoal": "Step forward and open the microwave",
+                    "start_timestamp": 66,
+                    "stop_timestamp": 223
+                },
+                {
+                    "secondary_subgoal": "Put the container in and close the microwave",
+                    "start_timestamp": 223,
+                    "stop_timestamp": 279
+                },
+                {
+                    "secondary_subgoal": "Operate the microwave",
+                    "start_timestamp": 279,
+                    "stop_timestamp": 331
+                }
+            ]
+        },
+        {
+            "subgoal": "Gather and inspect various ingredients",
+            "start_timestamp": 428,
+            "stop_timestamp": 3052,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move and pick garlic",
+                    "start_timestamp": 428,
+                    "stop_timestamp": 661
+                },
+                {
+                    "secondary_subgoal": "Handle the garlic",
+                    "start_timestamp": 661,
+                    "stop_timestamp": 945
+                },
+                {
+                    "secondary_subgoal": "Handle the onion",
+                    "start_timestamp": 945,
+                    "stop_timestamp": 1107
+                },
+                {
+                    "secondary_subgoal": "Move to pick up glass and drink water",
+                    "start_timestamp": 1107,
+                    "stop_timestamp": 1345
+                },
+                {
+                    "secondary_subgoal": "Open the fridge and look around",
+                    "start_timestamp": 1345,
+                    "stop_timestamp": 1730
+                },
+                {
+                    "secondary_subgoal": "Close the fridge and touch cupboard",
+                    "start_timestamp": 1799,
+                    "stop_timestamp": 1835
+                },
+                {
+                    "secondary_subgoal": "Open cabinet and handle packet",
+                    "start_timestamp": 1858,
+                    "stop_timestamp": 2489
+                },
+                {
+                    "secondary_subgoal": "Move and pick containers",
+                    "start_timestamp": 2489,
+                    "stop_timestamp": 3052
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the workspace including adjusting camera",
+            "start_timestamp": 3052,
+            "stop_timestamp": 3806,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look at and place containers on chopping board",
+                    "start_timestamp": 3052,
+                    "stop_timestamp": 3073
+                },
+                {
+                    "secondary_subgoal": "Adjust the camera",
+                    "start_timestamp": 3073,
+                    "stop_timestamp": 3436
+                },
+                {
+                    "secondary_subgoal": "Look around and move paper",
+                    "start_timestamp": 3436,
+                    "stop_timestamp": 3651
+                },
+                {
+                    "secondary_subgoal": "Handle a container and place it on the shelf",
+                    "start_timestamp": 3684,
+                    "stop_timestamp": 3780
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and knife for chopping",
+            "start_timestamp": 3806,
+            "stop_timestamp": 4902,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve knife from drawer",
+                    "start_timestamp": 3806,
+                    "stop_timestamp": 4849
+                },
+                {
+                    "secondary_subgoal": "Place the knife on the chopping board",
+                    "start_timestamp": 4889,
+                    "stop_timestamp": 4911
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize and move items back into the fridge",
+            "start_timestamp": 5132,
+            "stop_timestamp": 5382,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move and place containers and packets on the shelf",
+                    "start_timestamp": 5132,
+                    "stop_timestamp": 5382
+                }
+            ]
+        },
+        {
+            "subgoal": "Tracking item states to prepare for watching and phone use",
+            "start_timestamp": 6303,
+            "stop_timestamp": 8823,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up paper and place it in the crate",
+                    "start_timestamp": 6362,
+                    "stop_timestamp": 6450
+                },
+                {
+                    "secondary_subgoal": "Handle phone",
+                    "start_timestamp": 6758,
+                    "stop_timestamp": 6988
+                },
+                {
+                    "secondary_subgoal": "Move and place other items on the table",
+                    "start_timestamp": 7183,
+                    "stop_timestamp": 7302
+                },
+                {
+                    "secondary_subgoal": "Handle and place more paper",
+                    "start_timestamp": 7534,
+                    "stop_timestamp": 8001
+                }
+            ]
+        }
+    ]
+}

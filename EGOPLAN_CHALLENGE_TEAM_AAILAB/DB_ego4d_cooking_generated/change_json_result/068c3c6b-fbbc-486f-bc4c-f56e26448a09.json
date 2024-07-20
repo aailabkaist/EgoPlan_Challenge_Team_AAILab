@@ -1,0 +1,139 @@
+{
+    "overall_goal": "Prepare and cook a meal",
+    "clips": [
+        {
+            "subgoal": "Clean utensils and prep kitchen",
+            "start_timestamp": 69,
+            "stop_timestamp": 1683,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean and rinse utensils",
+                    "start_timestamp": 69,
+                    "stop_timestamp": 429
+                },
+                {
+                    "secondary_subgoal": "Look around for more utensils to clean",
+                    "start_timestamp": 429,
+                    "stop_timestamp": 472
+                },
+                {
+                    "secondary_subgoal": "Continue cleaning more utensils",
+                    "start_timestamp": 472,
+                    "stop_timestamp": 1094
+                },
+                {
+                    "secondary_subgoal": "Put clean utensils in their places",
+                    "start_timestamp": 1094,
+                    "stop_timestamp": 1683
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook vegetables",
+            "start_timestamp": 1683,
+            "stop_timestamp": 2060,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and cook vegetables",
+                    "start_timestamp": 1683,
+                    "stop_timestamp": 2060
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir and season the food",
+            "start_timestamp": 2060,
+            "stop_timestamp": 3674,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir vegetables in the pan",
+                    "start_timestamp": 2060,
+                    "stop_timestamp": 2677
+                },
+                {
+                    "secondary_subgoal": "Season food with salt and pepper",
+                    "start_timestamp": 2677,
+                    "stop_timestamp": 3639
+                },
+                {
+                    "secondary_subgoal": "Stir the food again",
+                    "start_timestamp": 3639,
+                    "stop_timestamp": 3674
+                }
+            ]
+        },
+        {
+            "subgoal": "Move items around the kitchen",
+            "start_timestamp": 3674,
+            "stop_timestamp": 4417,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move and touch items around the kitchen",
+                    "start_timestamp": 3674,
+                    "stop_timestamp": 4417
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve cooked vegetables",
+            "start_timestamp": 4417,
+            "stop_timestamp": 12065,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Serve food from pan to plates",
+                    "start_timestamp": 4417,
+                    "stop_timestamp": 4751
+                },
+                {
+                    "secondary_subgoal": "Put bowl in sink, clean, and use utensils",
+                    "start_timestamp": 4751,
+                    "stop_timestamp": 7303
+                },
+                {
+                    "secondary_subgoal": "Handle plastic bag and utensils",
+                    "start_timestamp": 7303,
+                    "stop_timestamp": 8443
+                },
+                {
+                    "secondary_subgoal": "Stir and cook food in pot with spoon",
+                    "start_timestamp": 8443,
+                    "stop_timestamp": 9756
+                },
+                {
+                    "secondary_subgoal": "Serve food from pot to bowl",
+                    "start_timestamp": 9756,
+                    "stop_timestamp": 12065
+                }
+            ]
+        },
+        {
+            "subgoal": "Place and season meat",
+            "start_timestamp": 12065,
+            "stop_timestamp": 18647,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place, cook, and season meat using various utensils",
+                    "start_timestamp": 12065,
+                    "stop_timestamp": 18647
+                }
+            ]
+        },
+        {
+            "subgoal": "Final actions and clean up",
+            "start_timestamp": 18647,
+            "stop_timestamp": 20689,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place food in oven and tidy kitchen",
+                    "start_timestamp": 18647,
+                    "stop_timestamp": 19544
+                },
+                {
+                    "secondary_subgoal": "Clean kitchen and serve final food in bowls",
+                    "start_timestamp": 19544,
+                    "stop_timestamp": 20689
+                }
+            ]
+        }
+    ]
+}

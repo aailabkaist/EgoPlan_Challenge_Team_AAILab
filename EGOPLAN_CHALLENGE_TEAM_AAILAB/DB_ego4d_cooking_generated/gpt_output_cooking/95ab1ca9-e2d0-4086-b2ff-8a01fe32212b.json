@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egp534mPVeWam3eAroGy1NYrvxbQ",
+    "object": "chat.completion",
+    "created": 1719484759,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cooking food in the kitchen\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing sausage for cooking\",\n      \"start_timestamp\": \"93\",\n      \"stop_timestamp\": \"5112\",\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Getting sausage from the fridge\", \"start_timestamp\": \"93\", \"stop_timestamp\": \"876\"},\n        {\"secondary_subgoal\": \"Preparing the sausage on the chopping board\", \"start_timestamp\": \"887\", \"stop_timestamp\": \"2216\"},\n        {\"secondary_subgoal\": \"Cutting and placing sausage pieces on the plate\", \"start_timestamp\": \"2229\", \"stop_timestamp\": \"5112\"}\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning up the utensils\",\n      \"start_timestamp\": \"5197\",\n      \"stop_timestamp\": \"8773\",\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Cleaning the chopping board and knife\", \"start_timestamp\": \"5197\", \"stop_timestamp\": \"7620\"},\n        {\"secondary_subgoal\": \"Cleaning the grater\", \"start_timestamp\": \"7656\", \"stop_timestamp\": \"8773\"}\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking the food and adjusting the kitchen\",\n      \"start_timestamp\": \"8927\",\n      \"stop_timestamp\": \"13492\",\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Using chopsticks to round and rotate the cooking food\", \"start_timestamp\": \"8927\", \"stop_timestamp\": \"8961\"},\n        {\"secondary_subgoal\": \"Pressing the food with a stick\", \"start_timestamp\": \"9812\", \"stop_timestamp\": \"11236\"},\n        {\"secondary_subgoal\": \"Cleaning the kitchen top\", \"start_timestamp\": \"11288\", \"stop_timestamp\": \"11502\"},\n        {\"secondary_subgoal\": \"Scrolling phone and adjusting the camera\", \"start_timestamp\": \"12078\", \"stop_timestamp\": \"13492\"}\n      ]\n    }\n  ]\n}\n```\n\nThis structured JSON summarizes the overall goal of cooking food in the kitchen, and segments the actions into broader clips oriented towards specific subgoals and finer sub-clips focusing on secondary subgoals within functional zones. The timestamps pinpoint exact moments when these actions occur."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1462,
+        "completion_tokens": 477,
+        "total_tokens": 1939
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

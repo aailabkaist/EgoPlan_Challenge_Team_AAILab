@@ -1,0 +1,902 @@
+[
+    {
+        "task_goal": "C prepares vegetables for cooking.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the phone",
+                "start_frame": 1,
+                "stop_frame": 139
+            },
+            {
+                "narration_text": "#C C cuts vegetables",
+                "start_frame": 139,
+                "stop_frame": 982
+            },
+            {
+                "narration_text": "#C C puts the vegetables in a pan",
+                "start_frame": 982,
+                "stop_frame": 1295
+            },
+            {
+                "narration_text": "#C C throws a vegetable",
+                "start_frame": 1295,
+                "stop_frame": 1391
+            }
+        ]
+    },
+    {
+        "task_goal": "C cuts vegetables.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the phone",
+                "start_frame": 1,
+                "stop_frame": 139
+            },
+            {
+                "narration_text": "#C C cuts vegetables",
+                "start_frame": 139,
+                "stop_frame": 982
+            },
+            {
+                "narration_text": "#C C puts the vegetables in a pan",
+                "start_frame": 982,
+                "stop_frame": 1295
+            }
+        ]
+    },
+    {
+        "task_goal": "C puts the vegetables in a pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cuts vegetables",
+                "start_frame": 139,
+                "stop_frame": 982
+            },
+            {
+                "narration_text": "#C C puts the vegetables in a pan",
+                "start_frame": 982,
+                "stop_frame": 1295
+            },
+            {
+                "narration_text": "#C C throws a vegetable",
+                "start_frame": 1295,
+                "stop_frame": 1391
+            }
+        ]
+    },
+    {
+        "task_goal": "C picks a tin.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves the pan",
+                "start_frame": 1677,
+                "stop_frame": 1753
+            },
+            {
+                "narration_text": "#C C picks a tin",
+                "start_frame": 1753,
+                "stop_frame": 2021
+            },
+            {
+                "narration_text": "#C C touches a book",
+                "start_frame": 2021,
+                "stop_frame": 2150
+            }
+        ]
+    },
+    {
+        "task_goal": "C touches a book and walks around.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a tin",
+                "start_frame": 1753,
+                "stop_frame": 2021
+            },
+            {
+                "narration_text": "#C C touches a book",
+                "start_frame": 2021,
+                "stop_frame": 2150
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 2150,
+                "stop_frame": 2239
+            },
+            {
+                "narration_text": "#C C picks a bottle",
+                "start_frame": 2239,
+                "stop_frame": 2343
+            }
+        ]
+    },
+    {
+        "task_goal": "C picks a bottle, touches a book, and picks a tin.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 2150,
+                "stop_frame": 2239
+            },
+            {
+                "narration_text": "#C C picks a bottle",
+                "start_frame": 2239,
+                "stop_frame": 2343
+            },
+            {
+                "narration_text": "#C C touches a book",
+                "start_frame": 2343,
+                "stop_frame": 2413
+            },
+            {
+                "narration_text": "#C C picks a tin",
+                "start_frame": 2413,
+                "stop_frame": 2562
+            },
+            {
+                "narration_text": "#C C touches the packets",
+                "start_frame": 2562,
+                "stop_frame": 3017
+            }
+        ]
+    },
+    {
+        "task_goal": "C touches packets and picks a box.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a tin",
+                "start_frame": 2413,
+                "stop_frame": 2562
+            },
+            {
+                "narration_text": "#C C touches the packets",
+                "start_frame": 2562,
+                "stop_frame": 3017
+            },
+            {
+                "narration_text": "#C C picks a box",
+                "start_frame": 3017,
+                "stop_frame": 3145
+            },
+            {
+                "narration_text": "#C C looks at the box",
+                "start_frame": 3145,
+                "stop_frame": 3246
+            }
+        ]
+    },
+    {
+        "task_goal": "C looks at a box, touches a book, and touches bottles.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a box",
+                "start_frame": 3017,
+                "stop_frame": 3145
+            },
+            {
+                "narration_text": "#C C looks at the box",
+                "start_frame": 3145,
+                "stop_frame": 3246
+            },
+            {
+                "narration_text": "#C C touches a book",
+                "start_frame": 3246,
+                "stop_frame": 3361
+            },
+            {
+                "narration_text": "#C C touches the bottles",
+                "start_frame": 3361,
+                "stop_frame": 3542
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 3542,
+                "stop_frame": 3621
+            }
+        ]
+    },
+    {
+        "task_goal": "C opens the fridge, removes tomatoes, rosemary, and potatoes, and closes the fridge.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C touches the bottles",
+                "start_frame": 3361,
+                "stop_frame": 3542
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 3542,
+                "stop_frame": 3621
+            },
+            {
+                "narration_text": "#C C removes tomatoes",
+                "start_frame": 3621,
+                "stop_frame": 3758
+            },
+            {
+                "narration_text": "#C C walks in the kitchen",
+                "start_frame": 3758,
+                "stop_frame": 3780
+            },
+            {
+                "narration_text": "#C C removes rosemary",
+                "start_frame": 3780,
+                "stop_frame": 4098
+            },
+            {
+                "narration_text": "#C C walks in the kitchen",
+                "start_frame": 4098,
+                "stop_frame": 4123
+            },
+            {
+                "narration_text": "#C C removes potatoes",
+                "start_frame": 4123,
+                "stop_frame": 4307
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 4307,
+                "stop_frame": 4357
+            },
+            {
+                "narration_text": "#C C throws the potatoes",
+                "start_frame": 4357,
+                "stop_frame": 4397
+            }
+        ]
+    },
+    {
+        "task_goal": "C throws the potatoes and puts plastic away.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 4307,
+                "stop_frame": 4357
+            },
+            {
+                "narration_text": "#C C throws the potatoes",
+                "start_frame": 4357,
+                "stop_frame": 4397
+            },
+            {
+                "narration_text": "#C C puts the plastic away",
+                "start_frame": 4397,
+                "stop_frame": 4472
+            }
+        ]
+    },
+    {
+        "task_goal": "C stirs and prepares the food in the pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the plastic away",
+                "start_frame": 4397,
+                "stop_frame": 4472
+            },
+            {
+                "narration_text": "#C C walks in the kitchen",
+                "start_frame": 4472,
+                "stop_frame": 4563
+            },
+            {
+                "narration_text": "#C C picks a spoon",
+                "start_frame": 4563,
+                "stop_frame": 4643
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 4643,
+                "stop_frame": 5047
+            },
+            {
+                "narration_text": "#C C touches a book",
+                "start_frame": 5047,
+                "stop_frame": 5594
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 5594,
+                "stop_frame": 5654
+            },
+            {
+                "narration_text": "#C C holds the tin",
+                "start_frame": 5654,
+                "stop_frame": 5699
+            }
+        ]
+    },
+    {
+        "task_goal": "C picks a spoon and stirs the food.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the plastic away",
+                "start_frame": 4397,
+                "stop_frame": 4472
+            },
+            {
+                "narration_text": "#C C walks in the kitchen",
+                "start_frame": 4472,
+                "stop_frame": 4563
+            },
+            {
+                "narration_text": "#C C picks a spoon",
+                "start_frame": 4563,
+                "stop_frame": 4643
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 4643,
+                "stop_frame": 5047
+            },
+            {
+                "narration_text": "#C C touches a book",
+                "start_frame": 5047,
+                "stop_frame": 5594
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 5594,
+                "stop_frame": 5654
+            }
+        ]
+    },
+    {
+        "task_goal": "C touches a book and looks around.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C touches a book",
+                "start_frame": 5047,
+                "stop_frame": 5594
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 5594,
+                "stop_frame": 5654
+            },
+            {
+                "narration_text": "#C C holds the tin",
+                "start_frame": 5654,
+                "stop_frame": 5699
+            }
+        ]
+    },
+    {
+        "task_goal": "C prepares and adds rosemary to the food.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the tin",
+                "start_frame": 5654,
+                "stop_frame": 5699
+            },
+            {
+                "narration_text": "#C C removes the rosemary",
+                "start_frame": 5699,
+                "stop_frame": 5879
+            },
+            {
+                "narration_text": "#C C prepares the rosemary",
+                "start_frame": 5879,
+                "stop_frame": 7026
+            },
+            {
+                "narration_text": "#C C moves the rosemary together",
+                "start_frame": 7026,
+                "stop_frame": 7112
+            },
+            {
+                "narration_text": "#C C cuts the rosemary",
+                "start_frame": 7112,
+                "stop_frame": 7790
+            },
+            {
+                "narration_text": "#C C gathers the rosemary",
+                "start_frame": 7790,
+                "stop_frame": 7914
+            },
+            {
+                "narration_text": "#C C cuts the rosemary",
+                "start_frame": 7914,
+                "stop_frame": 8241
+            },
+            {
+                "narration_text": "#C C wipes hands",
+                "start_frame": 8241,
+                "stop_frame": 8265
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 8265,
+                "stop_frame": 8731
+            },
+            {
+                "narration_text": "#C C throws rosemary sticks",
+                "start_frame": 8731,
+                "stop_frame": 8836
+            },
+            {
+                "narration_text": "#C C switches the gas",
+                "start_frame": 8836,
+                "stop_frame": 9117
+            }
+        ]
+    },
+    {
+        "task_goal": "C holds the tin and removes rosemary.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the tin",
+                "start_frame": 5654,
+                "stop_frame": 5699
+            },
+            {
+                "narration_text": "#C C removes the rosemary",
+                "start_frame": 5699,
+                "stop_frame": 5879
+            },
+            {
+                "narration_text": "#C C prepares the rosemary",
+                "start_frame": 5879,
+                "stop_frame": 7026
+            }
+        ]
+    },
+    {
+        "task_goal": "C prepares and cuts the rosemary, gathering it together.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C removes the rosemary",
+                "start_frame": 5699,
+                "stop_frame": 5879
+            },
+            {
+                "narration_text": "#C C prepares the rosemary",
+                "start_frame": 5879,
+                "stop_frame": 7026
+            },
+            {
+                "narration_text": "#C C moves the rosemary together",
+                "start_frame": 7026,
+                "stop_frame": 7112
+            },
+            {
+                "narration_text": "#C C cuts the rosemary",
+                "start_frame": 7112,
+                "stop_frame": 7790
+            },
+            {
+                "narration_text": "#C C gathers the rosemary",
+                "start_frame": 7790,
+                "stop_frame": 7914
+            },
+            {
+                "narration_text": "#C C cuts the rosemary",
+                "start_frame": 7914,
+                "stop_frame": 8241
+            }
+        ]
+    },
+    {
+        "task_goal": "C wipes hands and stirs food.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C gathers the rosemary",
+                "start_frame": 7790,
+                "stop_frame": 7914
+            },
+            {
+                "narration_text": "#C C cuts the rosemary",
+                "start_frame": 7914,
+                "stop_frame": 8241
+            },
+            {
+                "narration_text": "#C C wipes hands",
+                "start_frame": 8241,
+                "stop_frame": 8265
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 8265,
+                "stop_frame": 8731
+            },
+            {
+                "narration_text": "#C C throws rosemary sticks",
+                "start_frame": 8731,
+                "stop_frame": 8836
+            }
+        ]
+    },
+    {
+        "task_goal": "C throws rosemary sticks.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 8265,
+                "stop_frame": 8731
+            },
+            {
+                "narration_text": "#C C throws rosemary sticks",
+                "start_frame": 8731,
+                "stop_frame": 8836
+            },
+            {
+                "narration_text": "#C C switches the gas",
+                "start_frame": 8836,
+                "stop_frame": 9117
+            }
+        ]
+    },
+    {
+        "task_goal": "C adjusts cooking with gas and mixes the food.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C switches the gas",
+                "start_frame": 8836,
+                "stop_frame": 9117
+            },
+            {
+                "narration_text": "#C C reads the book",
+                "start_frame": 9117,
+                "stop_frame": 9681
+            },
+            {
+                "narration_text": "#C C cooks mixes the food",
+                "start_frame": 9681,
+                "stop_frame": 10040
+            },
+            {
+                "narration_text": "#C C looks at the phone",
+                "start_frame": 10040,
+                "stop_frame": 10325
+            },
+            {
+                "narration_text": "#C C puts a measurement machine",
+                "start_frame": 10325,
+                "stop_frame": 10353
+            }
+        ]
+    },
+    {
+        "task_goal": "C switches the gas and reads the book.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C switches the gas",
+                "start_frame": 8836,
+                "stop_frame": 9117
+            },
+            {
+                "narration_text": "#C C reads the book",
+                "start_frame": 9117,
+                "stop_frame": 9681
+            },
+            {
+                "narration_text": "#C C cooks mixes the food",
+                "start_frame": 9681,
+                "stop_frame": 10040
+            }
+        ]
+    },
+    {
+        "task_goal": "C cooks and mixes the food.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C reads the book",
+                "start_frame": 9117,
+                "stop_frame": 9681
+            },
+            {
+                "narration_text": "#C C cooks mixes the food",
+                "start_frame": 9681,
+                "stop_frame": 10040
+            },
+            {
+                "narration_text": "#C C looks at the phone",
+                "start_frame": 10040,
+                "stop_frame": 10325
+            }
+        ]
+    },
+    {
+        "task_goal": "C looks at the phone.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cooks mixes the food",
+                "start_frame": 9681,
+                "stop_frame": 10040
+            },
+            {
+                "narration_text": "#C C looks at the phone",
+                "start_frame": 10040,
+                "stop_frame": 10325
+            },
+            {
+                "narration_text": "#C C puts a measurement machine",
+                "start_frame": 10325,
+                "stop_frame": 10353
+            }
+        ]
+    },
+    {
+        "task_goal": "C checks and adds more ingredients.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts a measurement machine",
+                "start_frame": 10325,
+                "stop_frame": 10353
+            },
+            {
+                "narration_text": "#C C opens a box",
+                "start_frame": 10353,
+                "stop_frame": 10984
+            },
+            {
+                "narration_text": "# C C reds the box",
+                "start_frame": 10984,
+                "stop_frame": 11064
+            },
+            {
+                "narration_text": "#C C closes the box",
+                "start_frame": 11064,
+                "stop_frame": 11575
+            },
+            {
+                "narration_text": "#C C mixes the food",
+                "start_frame": 11575,
+                "stop_frame": 11726
+            },
+            {
+                "narration_text": "#C C opens the tin",
+                "start_frame": 11726,
+                "stop_frame": 11784
+            },
+            {
+                "narration_text": "#C C throws the paper in the bin",
+                "start_frame": 11784,
+                "stop_frame": 11902
+            },
+            {
+                "narration_text": "#C C opens the cupboard",
+                "start_frame": 11902,
+                "stop_frame": 11996
+            },
+            {
+                "narration_text": "#C C takes the fork mixed #unsure in the tin",
+                "start_frame": 11996,
+                "stop_frame": 12314
+            },
+            {
+                "narration_text": "#C C takes the #unsure from the tine",
+                "start_frame": 12314,
+                "stop_frame": 12638
+            },
+            {
+                "narration_text": "#C C closes the tin",
+                "start_frame": 12638,
+                "stop_frame": 12704
+            },
+            {
+                "narration_text": "#C C returns the tin in the fridge",
+                "start_frame": 12704,
+                "stop_frame": 12798
+            },
+            {
+                "narration_text": "#C C wipes the hands",
+                "start_frame": 12798,
+                "stop_frame": 13001
+            }
+        ]
+    },
+    {
+        "task_goal": "C puts a measurement machine, opens and reads a box, then closes it.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts a measurement machine",
+                "start_frame": 10325,
+                "stop_frame": 10353
+            },
+            {
+                "narration_text": "#C C opens a box",
+                "start_frame": 10353,
+                "stop_frame": 10984
+            },
+            {
+                "narration_text": "# C C reds the box",
+                "start_frame": 10984,
+                "stop_frame": 11064
+            },
+            {
+                "narration_text": "#C C closes the box",
+                "start_frame": 11064,
+                "stop_frame": 11575
+            },
+            {
+                "narration_text": "#C C mixes the food",
+                "start_frame": 11575,
+                "stop_frame": 11726
+            }
+        ]
+    },
+    {
+        "task_goal": "C mixes the food, opens a tin, and throws paper in the bin.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C mixes the food",
+                "start_frame": 11575,
+                "stop_frame": 11726
+            },
+            {
+                "narration_text": "#C C opens the tin",
+                "start_frame": 11726,
+                "stop_frame": 11784
+            },
+            {
+                "narration_text": "#C C throws the paper in the bin",
+                "start_frame": 11784,
+                "stop_frame": 11902
+            },
+            {
+                "narration_text": "#C C opens the cupboard",
+                "start_frame": 11902,
+                "stop_frame": 11996
+            },
+            {
+                "narration_text": "#C C takes the fork mixed #unsure in the tin",
+                "start_frame": 11996,
+                "stop_frame": 12314
+            }
+        ]
+    },
+    {
+        "task_goal": "C opens the cupboard, takes a fork, unsure action in the tin, and returns the tin to the fridge.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the cupboard",
+                "start_frame": 11902,
+                "stop_frame": 11996
+            },
+            {
+                "narration_text": "#C C takes the fork mixed #unsure in the tin",
+                "start_frame": 11996,
+                "stop_frame": 12314
+            },
+            {
+                "narration_text": "#C C takes the #unsure from the tine",
+                "start_frame": 12314,
+                "stop_frame": 12638
+            },
+            {
+                "narration_text": "#C C closes the tin",
+                "start_frame": 12638,
+                "stop_frame": 12704
+            },
+            {
+                "narration_text": "#C C returns the tin in the fridge",
+                "start_frame": 12704,
+                "stop_frame": 12798
+            },
+            {
+                "narration_text": "#C C wipes the hands",
+                "start_frame": 12798,
+                "stop_frame": 13001
+            }
+        ]
+    },
+    {
+        "task_goal": "C finalizes meal preparation.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C wipes the hands",
+                "start_frame": 12798,
+                "stop_frame": 13001
+            },
+            {
+                "narration_text": "#C C cuts #unsure",
+                "start_frame": 13001,
+                "stop_frame": 14515
+            },
+            {
+                "narration_text": "#C C mixes food",
+                "start_frame": 14515,
+                "stop_frame": 14755
+            },
+            {
+                "narration_text": "#CC switches the gas",
+                "start_frame": 14755,
+                "stop_frame": 14913
+            },
+            {
+                "narration_text": "#C C puts rosemary in the food",
+                "start_frame": 14913,
+                "stop_frame": 15117
+            },
+            {
+                "narration_text": "#C C takes with knife puts in a pam",
+                "start_frame": 15117,
+                "stop_frame": 15929
+            },
+            {
+                "narration_text": "#Summary #C C in the kitchen cooks food",
+                "start_frame": 15929,
+                "stop_frame": 15929
+            },
+            {
+                "narration_text": "#C C takes the rice",
+                "start_frame": 15929,
+                "stop_frame": 16029
+            }
+        ]
+    },
+    {
+        "task_goal": "C wipes hands and cuts unsure.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C wipes the hands",
+                "start_frame": 12798,
+                "stop_frame": 13001
+            },
+            {
+                "narration_text": "#C C cuts #unsure",
+                "start_frame": 13001,
+                "stop_frame": 14515
+            },
+            {
+                "narration_text": "#C C mixes food",
+                "start_frame": 14515,
+                "stop_frame": 14755
+            }
+        ]
+    },
+    {
+        "task_goal": "C mixes food and switches the gas.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cuts #unsure",
+                "start_frame": 13001,
+                "stop_frame": 14515
+            },
+            {
+                "narration_text": "#C C mixes food",
+                "start_frame": 14515,
+                "stop_frame": 14755
+            },
+            {
+                "narration_text": "#CC switches the gas",
+                "start_frame": 14755,
+                "stop_frame": 14913
+            },
+            {
+                "narration_text": "#C C puts rosemary in the food",
+                "start_frame": 14913,
+                "stop_frame": 15117
+            }
+        ]
+    },
+    {
+        "task_goal": "C puts rosemary in the food and takes with knife to put in the pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#CC switches the gas",
+                "start_frame": 14755,
+                "stop_frame": 14913
+            },
+            {
+                "narration_text": "#C C puts rosemary in the food",
+                "start_frame": 14913,
+                "stop_frame": 15117
+            },
+            {
+                "narration_text": "#C C takes with knife puts in a pam",
+                "start_frame": 15117,
+                "stop_frame": 15929
+            },
+            {
+                "narration_text": "#Summary #C C in the kitchen cooks food",
+                "start_frame": 15929,
+                "stop_frame": 15929
+            },
+            {
+                "narration_text": "#C C takes the rice",
+                "start_frame": 15929,
+                "stop_frame": 16029
+            }
+        ]
+    }
+]

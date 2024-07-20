@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efSo4VzK8rWDaGYC8vikdtUwksUm",
+    "object": "chat.completion",
+    "created": 1719479534,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing a meal with maize and meat.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Unwrapping and processing maize\",\n      \"start_timestamp\": 72,\n      \"stop_timestamp\": 1626,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Unwrapping the paper package\",\n          \"start_timestamp\": 72,\n          \"stop_timestamp\": 387\n        },\n        {\n          \"secondary_subgoal\": \"Walking around and picking kitchen items\",\n          \"start_timestamp\": 387,\n          \"stop_timestamp\": 499\n        },\n        {\n          \"secondary_subgoal\": \"Handling the jug\",\n          \"start_timestamp\": 499,\n          \"stop_timestamp\": 1216\n        },\n        {\n          \"secondary_subgoal\": \"Tying the paper package\",\n          \"start_timestamp\": 1216,\n          \"stop_timestamp\": 1626\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Washing the maize\",\n      \"start_timestamp\": 1647,\n      \"stop_timestamp\": 3316,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Initial washing steps\",\n          \"start_timestamp\": 1686,\n          \"stop_timestamp\": 1988\n        },\n        {\n          \"secondary_subgoal\": \"Pouring water and continuing washing\",\n          \"start_timestamp\": 1988,\n          \"stop_timestamp\": 3252\n        },\n        {\n          \"secondary_subgoal\": \"Final washing steps\",\n          \"start_timestamp\": 3252,\n          \"stop_timestamp\": 3316\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing to cook maize\",\n      \"start_timestamp\": 3316,\n      \"stop_timestamp\": 4456,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handling the kettle\",\n          \"start_timestamp\": 3316,\n          \"stop_timestamp\": 4204\n        },\n        {\n          \"secondary_subgoal\": \"Connecting and turning on the kettle\",\n          \"start_timestamp\": 4204,\n          \"stop_timestamp\": 4456\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Processing meat\",\n      \"start_timestamp\": 4456,\n      \"stop_timestamp\": 6074,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handling the plastic container and fridge\",\n          \"start_timestamp\": 4456,\n          \"stop_timestamp\": 4708\n        },\n        {\n          \"secondary_subgoal\": \"Putting meat in the steak grill\",\n          \"start_timestamp\": 4708,\n          \"stop_timestamp\": 5551\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning hands\",\n          \"start_timestamp\": 5551,\n          \"stop_timestamp\": 5688\n        },\n        {\n          \"secondary_subgoal\": \"Finalizing meat preparation\",\n          \"start_timestamp\": 5688,\n          \"stop_timestamp\": 6074\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning up\",\n      \"start_timestamp\": 6074,\n      \"stop_timestamp\": 7024,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Additional kitchen tasks\",\n          \"start_timestamp\": 6074,\n          \"stop_timestamp\": 6762\n        },\n        {\n          \"secondary_subgoal\": \"Drying hands\",\n          \"start_timestamp\": 6762,\n          \"stop_timestamp\": 6924\n        },\n        {\n          \"secondary_subgoal\": \"Walk around the room\",\n          \"start_timestamp\": 6924,\n          \"stop_timestamp\": 7024\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1225,
+        "completion_tokens": 778,
+        "total_tokens": 2003
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

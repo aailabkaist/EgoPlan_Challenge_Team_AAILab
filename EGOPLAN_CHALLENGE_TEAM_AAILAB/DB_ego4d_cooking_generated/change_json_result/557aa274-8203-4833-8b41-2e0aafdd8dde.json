@@ -1,0 +1,201 @@
+{
+    "overall_goal": "Prepare and cook a meal using various kitchen utensils and ingredients",
+    "clips": [
+        {
+            "subgoal": "Organize utensils in the drawer",
+            "start_timestamp": 10,
+            "stop_timestamp": 513,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold fork and spoon",
+                    "start_timestamp": 10,
+                    "stop_timestamp": 87
+                },
+                {
+                    "secondary_subgoal": "Move and pick utensils",
+                    "start_timestamp": 87,
+                    "stop_timestamp": 106
+                },
+                {
+                    "secondary_subgoal": "Put utensils in the drawer",
+                    "start_timestamp": 106,
+                    "stop_timestamp": 200
+                },
+                {
+                    "secondary_subgoal": "Arrange chopsticks in the drawer",
+                    "start_timestamp": 274,
+                    "stop_timestamp": 464
+                },
+                {
+                    "secondary_subgoal": "Close the drawer",
+                    "start_timestamp": 483,
+                    "stop_timestamp": 513
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook vegetables in the cooking pot",
+            "start_timestamp": 524,
+            "stop_timestamp": 1400,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir and shake vegetables in the cooking pot",
+                    "start_timestamp": 525,
+                    "stop_timestamp": 779
+                },
+                {
+                    "secondary_subgoal": "Continue cooking the vegetables",
+                    "start_timestamp": 779,
+                    "stop_timestamp": 1034
+                },
+                {
+                    "secondary_subgoal": "Stir vegetables with wooden flat spoon",
+                    "start_timestamp": 1069,
+                    "stop_timestamp": 1309
+                },
+                {
+                    "secondary_subgoal": "Hit the cooking pot with wooden flat spoon",
+                    "start_timestamp": 1309,
+                    "stop_timestamp": 1333
+                }
+            ]
+        },
+        {
+            "subgoal": "Unload dishwasher",
+            "start_timestamp": 1400,
+            "stop_timestamp": 1636,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Remove items from dishwasher",
+                    "start_timestamp": 1400,
+                    "stop_timestamp": 1551
+                },
+                {
+                    "secondary_subgoal": "Organize removed items",
+                    "start_timestamp": 1551,
+                    "stop_timestamp": 1636
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean and rinse utensils at the sink",
+            "start_timestamp": 1667,
+            "stop_timestamp": 2397,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash hands in the sink",
+                    "start_timestamp": 1789,
+                    "stop_timestamp": 1803
+                },
+                {
+                    "secondary_subgoal": "Wash dish sponge",
+                    "start_timestamp": 1824,
+                    "stop_timestamp": 1855
+                },
+                {
+                    "secondary_subgoal": "Clean and rinse sieve",
+                    "start_timestamp": 1865,
+                    "stop_timestamp": 2240
+                },
+                {
+                    "secondary_subgoal": "Wipe hands",
+                    "start_timestamp": 2388,
+                    "stop_timestamp": 2397
+                }
+            ]
+        },
+        {
+            "subgoal": "Unload and rinse utensils from the dishwasher",
+            "start_timestamp": 2397,
+            "stop_timestamp": 2935,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Unload dishwasher items",
+                    "start_timestamp": 2482,
+                    "stop_timestamp": 2710
+                },
+                {
+                    "secondary_subgoal": "Rinse grater at sink",
+                    "start_timestamp": 2801,
+                    "stop_timestamp": 2836
+                },
+                {
+                    "secondary_subgoal": "Return grater to dishwasher",
+                    "start_timestamp": 2891,
+                    "stop_timestamp": 2935
+                }
+            ]
+        },
+        {
+            "subgoal": "Monitor cooking process",
+            "start_timestamp": 3045,
+            "stop_timestamp": 3743,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Shaking and stirring vegetables in the cooking pot",
+                    "start_timestamp": 3058,
+                    "stop_timestamp": 3208
+                },
+                {
+                    "secondary_subgoal": "Place jar of water on the countertop",
+                    "start_timestamp": 3268,
+                    "stop_timestamp": 3411
+                },
+                {
+                    "secondary_subgoal": "Add ingredients to vegetables",
+                    "start_timestamp": 3462,
+                    "stop_timestamp": 3516
+                },
+                {
+                    "secondary_subgoal": "Stir and hit the cooking pot",
+                    "start_timestamp": 3684,
+                    "stop_timestamp": 3743
+                }
+            ]
+        },
+        {
+            "subgoal": "Close cooking process",
+            "start_timestamp": 3777,
+            "stop_timestamp": 4168,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pack and store ingredients",
+                    "start_timestamp": 3777,
+                    "stop_timestamp": 3971
+                },
+                {
+                    "secondary_subgoal": "Close and secure cooking lid",
+                    "start_timestamp": 4025,
+                    "stop_timestamp": 4123
+                },
+                {
+                    "secondary_subgoal": "Reduce gas cooker flame",
+                    "start_timestamp": 4123,
+                    "stop_timestamp": 4168
+                }
+            ]
+        },
+        {
+            "subgoal": "Fix camera and set timer",
+            "start_timestamp": 4378,
+            "stop_timestamp": 4709,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fix camera on head",
+                    "start_timestamp": 4378,
+                    "stop_timestamp": 4412
+                },
+                {
+                    "secondary_subgoal": "Set kitchen timer",
+                    "start_timestamp": 4428,
+                    "stop_timestamp": 4695
+                },
+                {
+                    "secondary_subgoal": "Place kitchen timer on countertop",
+                    "start_timestamp": 4709,
+                    "stop_timestamp": 4809
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,302 @@
+[
+    {
+        "task_goal": "Cleaning the knife.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the sink outlet",
+                "start_frame": 5,
+                "stop_frame": 45
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 45,
+                "stop_frame": 104
+            },
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 104,
+                "stop_frame": 129
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 129,
+                "stop_frame": 201
+            }
+        ]
+    },
+    {
+        "task_goal": "Closing the sink outlet.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the sink outlet",
+                "start_frame": 5,
+                "stop_frame": 45
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 45,
+                "stop_frame": 104
+            }
+        ]
+    },
+    {
+        "task_goal": "Turning on the water tap.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the sink outlet",
+                "start_frame": 5,
+                "stop_frame": 45
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 45,
+                "stop_frame": 104
+            },
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 104,
+                "stop_frame": 129
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing and closing the water tap.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 45,
+                "stop_frame": 104
+            },
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 104,
+                "stop_frame": 129
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 129,
+                "stop_frame": 201
+            }
+        ]
+    },
+    {
+        "task_goal": "Storing the cleaned knife.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 104,
+                "stop_frame": 129
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 129,
+                "stop_frame": 201
+            },
+            {
+                "narration_text": "#C C puts the knife in the drawer",
+                "start_frame": 201,
+                "stop_frame": 266
+            },
+            {
+                "narration_text": "#C C dries the hands with a face towel",
+                "start_frame": 266,
+                "stop_frame": 305
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening the drawer.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 104,
+                "stop_frame": 129
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 129,
+                "stop_frame": 201
+            },
+            {
+                "narration_text": "#C C puts the knife in the drawer",
+                "start_frame": 201,
+                "stop_frame": 266
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting the knife in the drawer.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 129,
+                "stop_frame": 201
+            },
+            {
+                "narration_text": "#C C puts the knife in the drawer",
+                "start_frame": 201,
+                "stop_frame": 266
+            },
+            {
+                "narration_text": "#C C dries the hands with a face towel",
+                "start_frame": 266,
+                "stop_frame": 305
+            }
+        ]
+    },
+    {
+        "task_goal": "Drying hands and inspecting the kitchen.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the knife in the drawer",
+                "start_frame": 201,
+                "stop_frame": 266
+            },
+            {
+                "narration_text": "#C C dries the hands with a face towel",
+                "start_frame": 266,
+                "stop_frame": 305
+            },
+            {
+                "narration_text": "#C C looks at the timer",
+                "start_frame": 305,
+                "stop_frame": 342
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 342,
+                "stop_frame": 420
+            },
+            {
+                "narration_text": "#C C touches #unsure",
+                "start_frame": 420,
+                "stop_frame": 460
+            },
+            {
+                "narration_text": "#C C holds #unsure",
+                "start_frame": 460,
+                "stop_frame": 675
+            }
+        ]
+    },
+    {
+        "task_goal": "Drying hands with a face towel.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the knife in the drawer",
+                "start_frame": 201,
+                "stop_frame": 266
+            },
+            {
+                "narration_text": "#C C dries the hands with a face towel",
+                "start_frame": 266,
+                "stop_frame": 305
+            },
+            {
+                "narration_text": "#C C looks at the timer",
+                "start_frame": 305,
+                "stop_frame": 342
+            }
+        ]
+    },
+    {
+        "task_goal": "Looking at the timer.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C dries the hands with a face towel",
+                "start_frame": 266,
+                "stop_frame": 305
+            },
+            {
+                "narration_text": "#C C looks at the timer",
+                "start_frame": 305,
+                "stop_frame": 342
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 342,
+                "stop_frame": 420
+            }
+        ]
+    },
+    {
+        "task_goal": "Looking around the kitchen.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks at the timer",
+                "start_frame": 305,
+                "stop_frame": 342
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 342,
+                "stop_frame": 420
+            },
+            {
+                "narration_text": "#C C touches #unsure",
+                "start_frame": 420,
+                "stop_frame": 460
+            }
+        ]
+    },
+    {
+        "task_goal": "Interacting with an unknown object.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 342,
+                "stop_frame": 420
+            },
+            {
+                "narration_text": "#C C touches #unsure",
+                "start_frame": 420,
+                "stop_frame": 460
+            },
+            {
+                "narration_text": "#C C holds #unsure",
+                "start_frame": 460,
+                "stop_frame": 675
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling unknown task.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C touches #unsure",
+                "start_frame": 420,
+                "stop_frame": 460
+            },
+            {
+                "narration_text": "#C C holds #unsure",
+                "start_frame": 460,
+                "stop_frame": 675
+            },
+            {
+                "narration_text": "C was in the kitchen ,washed the knife and put it in a drawer",
+                "start_frame": 675,
+                "stop_frame": 775
+            }
+        ]
+    },
+    {
+        "task_goal": "Touching uncertain objects.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C touches #unsure",
+                "start_frame": 420,
+                "stop_frame": 460
+            },
+            {
+                "narration_text": "#C C holds #unsure",
+                "start_frame": 460,
+                "stop_frame": 675
+            },
+            {
+                "narration_text": "C was in the kitchen ,washed the knife and put it in a drawer",
+                "start_frame": 675,
+                "stop_frame": 775
+            }
+        ]
+    }
+]

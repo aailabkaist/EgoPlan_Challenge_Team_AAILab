@@ -1,0 +1,492 @@
+[
+    {
+        "task_goal": "Gather necessary items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks toward kitchen cabinet",
+                "start_frame": 1,
+                "stop_frame": 89
+            },
+            {
+                "narration_text": "#C C picks up bread.",
+                "start_frame": 89,
+                "stop_frame": 139
+            },
+            {
+                "narration_text": "#C C puts bread on the sink.",
+                "start_frame": 139,
+                "stop_frame": 361
+            },
+            {
+                "narration_text": "#C C picks up chopping board.",
+                "start_frame": 361,
+                "stop_frame": 515
+            },
+            {
+                "narration_text": "#C C puts down chopping board.",
+                "start_frame": 515,
+                "stop_frame": 703
+            },
+            {
+                "narration_text": "#C C opens drawer.",
+                "start_frame": 703,
+                "stop_frame": 769
+            },
+            {
+                "narration_text": "#C C picks scissors from drawer.",
+                "start_frame": 769,
+                "stop_frame": 879
+            },
+            {
+                "narration_text": "#C C cuts bread open with scissors.",
+                "start_frame": 879,
+                "stop_frame": 926
+            },
+            {
+                "narration_text": "#C C puts scissors down.",
+                "start_frame": 926,
+                "stop_frame": 1205
+            },
+            {
+                "narration_text": "#C C puts bread on chopping board.",
+                "start_frame": 1205,
+                "stop_frame": 1305
+            },
+            {
+                "narration_text": "#C C opens a cabinet.",
+                "start_frame": 1305,
+                "stop_frame": 1358
+            },
+            {
+                "narration_text": "#C C removes knife from the cabinet.",
+                "start_frame": 1358,
+                "stop_frame": 1409
+            },
+            {
+                "narration_text": "#C C closes the cabinet.",
+                "start_frame": 1409,
+                "stop_frame": 1558
+            },
+            {
+                "narration_text": "#C C slices bread with knife.",
+                "start_frame": 1558,
+                "stop_frame": 2955
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up bread",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks toward kitchen cabinet",
+                "start_frame": 1,
+                "stop_frame": 89
+            },
+            {
+                "narration_text": "#C C picks up bread.",
+                "start_frame": 89,
+                "stop_frame": 139
+            },
+            {
+                "narration_text": "#C C puts bread on the sink.",
+                "start_frame": 139,
+                "stop_frame": 361
+            }
+        ]
+    },
+    {
+        "task_goal": "Place bread on the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks up bread.",
+                "start_frame": 89,
+                "stop_frame": 139
+            },
+            {
+                "narration_text": "#C C puts bread on the sink.",
+                "start_frame": 139,
+                "stop_frame": 361
+            },
+            {
+                "narration_text": "#C C picks up chopping board.",
+                "start_frame": 361,
+                "stop_frame": 515
+            }
+        ]
+    },
+    {
+        "task_goal": "Get chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts bread on the sink.",
+                "start_frame": 139,
+                "stop_frame": 361
+            },
+            {
+                "narration_text": "#C C picks up chopping board.",
+                "start_frame": 361,
+                "stop_frame": 515
+            },
+            {
+                "narration_text": "#C C puts down chopping board.",
+                "start_frame": 515,
+                "stop_frame": 703
+            },
+            {
+                "narration_text": "#C C opens drawer.",
+                "start_frame": 703,
+                "stop_frame": 769
+            }
+        ]
+    },
+    {
+        "task_goal": "Get scissors",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts down chopping board.",
+                "start_frame": 515,
+                "stop_frame": 703
+            },
+            {
+                "narration_text": "#C C opens drawer.",
+                "start_frame": 703,
+                "stop_frame": 769
+            },
+            {
+                "narration_text": "#C C picks scissors from drawer.",
+                "start_frame": 769,
+                "stop_frame": 879
+            },
+            {
+                "narration_text": "#C C cuts bread open with scissors.",
+                "start_frame": 879,
+                "stop_frame": 926
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare the bread",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks scissors from drawer.",
+                "start_frame": 769,
+                "stop_frame": 879
+            },
+            {
+                "narration_text": "#C C cuts bread open with scissors.",
+                "start_frame": 879,
+                "stop_frame": 926
+            },
+            {
+                "narration_text": "#C C puts scissors down.",
+                "start_frame": 926,
+                "stop_frame": 1205
+            },
+            {
+                "narration_text": "#C C puts bread on chopping board.",
+                "start_frame": 1205,
+                "stop_frame": 1305
+            },
+            {
+                "narration_text": "#C C opens a cabinet.",
+                "start_frame": 1305,
+                "stop_frame": 1358
+            },
+            {
+                "narration_text": "#C C removes knife from the cabinet.",
+                "start_frame": 1358,
+                "stop_frame": 1409
+            },
+            {
+                "narration_text": "#C C closes the cabinet.",
+                "start_frame": 1409,
+                "stop_frame": 1558
+            },
+            {
+                "narration_text": "#C C slices bread with knife.",
+                "start_frame": 1558,
+                "stop_frame": 2955
+            },
+            {
+                "narration_text": "#C C puts sliced bread on top of each other.",
+                "start_frame": 2955,
+                "stop_frame": 3076
+            },
+            {
+                "narration_text": "#C C slices bread with knife.",
+                "start_frame": 3076,
+                "stop_frame": 3758
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut bread open",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks scissors from drawer.",
+                "start_frame": 769,
+                "stop_frame": 879
+            },
+            {
+                "narration_text": "#C C cuts bread open with scissors.",
+                "start_frame": 879,
+                "stop_frame": 926
+            },
+            {
+                "narration_text": "#C C puts scissors down.",
+                "start_frame": 926,
+                "stop_frame": 1205
+            }
+        ]
+    },
+    {
+        "task_goal": "Place bread on chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts scissors down.",
+                "start_frame": 926,
+                "stop_frame": 1205
+            },
+            {
+                "narration_text": "#C C puts bread on chopping board.",
+                "start_frame": 1205,
+                "stop_frame": 1305
+            },
+            {
+                "narration_text": "#C C opens a cabinet.",
+                "start_frame": 1305,
+                "stop_frame": 1358
+            }
+        ]
+    },
+    {
+        "task_goal": "Get knife from cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens a cabinet.",
+                "start_frame": 1305,
+                "stop_frame": 1358
+            },
+            {
+                "narration_text": "#C C removes knife from the cabinet.",
+                "start_frame": 1358,
+                "stop_frame": 1409
+            },
+            {
+                "narration_text": "#C C closes the cabinet.",
+                "start_frame": 1409,
+                "stop_frame": 1558
+            },
+            {
+                "narration_text": "#C C slices bread with knife.",
+                "start_frame": 1558,
+                "stop_frame": 2955
+            }
+        ]
+    },
+    {
+        "task_goal": "Slice the bread",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the cabinet.",
+                "start_frame": 1409,
+                "stop_frame": 1558
+            },
+            {
+                "narration_text": "#C C slices bread with knife.",
+                "start_frame": 1558,
+                "stop_frame": 2955
+            },
+            {
+                "narration_text": "#C C puts sliced bread on top of each other.",
+                "start_frame": 2955,
+                "stop_frame": 3076
+            },
+            {
+                "narration_text": "#C C slices bread with knife.",
+                "start_frame": 3076,
+                "stop_frame": 3758
+            },
+            {
+                "narration_text": "#C C puts sliced bread in polythene paper.",
+                "start_frame": 3758,
+                "stop_frame": 3943
+            },
+            {
+                "narration_text": "#C C ties the polythene paper.",
+                "start_frame": 3943,
+                "stop_frame": 4421
+            }
+        ]
+    },
+    {
+        "task_goal": "First slicing session",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the cabinet.",
+                "start_frame": 1409,
+                "stop_frame": 1558
+            },
+            {
+                "narration_text": "#C C slices bread with knife.",
+                "start_frame": 1558,
+                "stop_frame": 2955
+            },
+            {
+                "narration_text": "#C C puts sliced bread on top of each other.",
+                "start_frame": 2955,
+                "stop_frame": 3076
+            }
+        ]
+    },
+    {
+        "task_goal": "Stack sliced bread",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C slices bread with knife.",
+                "start_frame": 1558,
+                "stop_frame": 2955
+            },
+            {
+                "narration_text": "#C C puts sliced bread on top of each other.",
+                "start_frame": 2955,
+                "stop_frame": 3076
+            },
+            {
+                "narration_text": "#C C slices bread with knife.",
+                "start_frame": 3076,
+                "stop_frame": 3758
+            }
+        ]
+    },
+    {
+        "task_goal": "Second slicing session",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts sliced bread on top of each other.",
+                "start_frame": 2955,
+                "stop_frame": 3076
+            },
+            {
+                "narration_text": "#C C slices bread with knife.",
+                "start_frame": 3076,
+                "stop_frame": 3758
+            },
+            {
+                "narration_text": "#C C puts sliced bread in polythene paper.",
+                "start_frame": 3758,
+                "stop_frame": 3943
+            }
+        ]
+    },
+    {
+        "task_goal": "Place sliced bread in polythene paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C slices bread with knife.",
+                "start_frame": 3076,
+                "stop_frame": 3758
+            },
+            {
+                "narration_text": "#C C puts sliced bread in polythene paper.",
+                "start_frame": 3758,
+                "stop_frame": 3943
+            },
+            {
+                "narration_text": "#C C ties the polythene paper.",
+                "start_frame": 3943,
+                "stop_frame": 4421
+            }
+        ]
+    },
+    {
+        "task_goal": "Store the sliced bread",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts sliced bread in polythene paper.",
+                "start_frame": 3758,
+                "stop_frame": 3943
+            },
+            {
+                "narration_text": "#C C ties the polythene paper.",
+                "start_frame": 3943,
+                "stop_frame": 4421
+            },
+            {
+                "narration_text": "#C C opens drawer.",
+                "start_frame": 4421,
+                "stop_frame": 4506
+            },
+            {
+                "narration_text": "#C C puts scissors in the drawer.",
+                "start_frame": 4506,
+                "stop_frame": 4522
+            },
+            {
+                "narration_text": "#C C closes drawer.",
+                "start_frame": 4522,
+                "stop_frame": 4562
+            },
+            {
+                "narration_text": "#C C puts bread on the cabinet.",
+                "start_frame": 4562,
+                "stop_frame": 4662
+            }
+        ]
+    },
+    {
+        "task_goal": "Tie polythene paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts sliced bread in polythene paper.",
+                "start_frame": 3758,
+                "stop_frame": 3943
+            },
+            {
+                "narration_text": "#C C ties the polythene paper.",
+                "start_frame": 3943,
+                "stop_frame": 4421
+            },
+            {
+                "narration_text": "#C C opens drawer.",
+                "start_frame": 4421,
+                "stop_frame": 4506
+            }
+        ]
+    },
+    {
+        "task_goal": "Return scissors to drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens drawer.",
+                "start_frame": 4421,
+                "stop_frame": 4506
+            },
+            {
+                "narration_text": "#C C puts scissors in the drawer.",
+                "start_frame": 4506,
+                "stop_frame": 4522
+            },
+            {
+                "narration_text": "#C C closes drawer.",
+                "start_frame": 4522,
+                "stop_frame": 4562
+            }
+        ]
+    },
+    {
+        "task_goal": "Put sliced bread on cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes drawer.",
+                "start_frame": 4522,
+                "stop_frame": 4562
+            },
+            {
+                "narration_text": "#C C puts bread on the cabinet.",
+                "start_frame": 4562,
+                "stop_frame": 4662
+            }
+        ]
+    }
+]

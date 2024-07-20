@@ -1,0 +1,112 @@
+{
+    "overall_goal": "Prepare and season food, clean up, and organize the kitchen",
+    "clips": [
+        {
+            "subgoal": "Prepare the sieve and food ingredients",
+            "start_timestamp": "39",
+            "stop_timestamp": "1019",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and shake the sieve",
+                    "start_timestamp": "39",
+                    "stop_timestamp": "306"
+                },
+                {
+                    "secondary_subgoal": "Turn on the tap and wash the sieve",
+                    "start_timestamp": "306",
+                    "stop_timestamp": "736"
+                },
+                {
+                    "secondary_subgoal": "Move the sieve over the food",
+                    "start_timestamp": "736",
+                    "stop_timestamp": "1019"
+                }
+            ]
+        },
+        {
+            "subgoal": "Flavor food with spice",
+            "start_timestamp": "1019",
+            "stop_timestamp": "2599",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mix and scoop spices",
+                    "start_timestamp": "1233",
+                    "stop_timestamp": "2599"
+                }
+            ]
+        },
+        {
+            "subgoal": "Continue seasoning and organizing the kitchen",
+            "start_timestamp": "2599",
+            "stop_timestamp": "7973",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add more spice and mix food",
+                    "start_timestamp": "2599",
+                    "stop_timestamp": "5285"
+                },
+                {
+                    "secondary_subgoal": "Open and close spice bottles, mix food",
+                    "start_timestamp": "5285",
+                    "stop_timestamp": "6516"
+                },
+                {
+                    "secondary_subgoal": "Throw measuring spoon, mix food, add sauce",
+                    "start_timestamp": "6516",
+                    "stop_timestamp": "7973"
+                }
+            ]
+        },
+        {
+            "subgoal": "Consume food and clean kitchen items",
+            "start_timestamp": "7973",
+            "stop_timestamp": "15263",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Consume and season food",
+                    "start_timestamp": "7973",
+                    "stop_timestamp": "13397"
+                },
+                {
+                    "secondary_subgoal": "Clean kitchen utensils",
+                    "start_timestamp": "13397",
+                    "stop_timestamp": "15263"
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize the kitchen and store food",
+            "start_timestamp": "15263",
+            "stop_timestamp": "16121",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Organize items on the counter",
+                    "start_timestamp": "15263",
+                    "stop_timestamp": "15893"
+                },
+                {
+                    "secondary_subgoal": "Store food items in the fridge",
+                    "start_timestamp": "15893",
+                    "stop_timestamp": "16121"
+                }
+            ]
+        },
+        {
+            "subgoal": "Final clean-up of the kitchen",
+            "start_timestamp": "16121",
+            "stop_timestamp": "18151",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean counter and gas cooker",
+                    "start_timestamp": "16509",
+                    "stop_timestamp": "16952"
+                },
+                {
+                    "secondary_subgoal": "Clean the cooking pot",
+                    "start_timestamp": "16952",
+                    "stop_timestamp": "18151"
+                }
+            ]
+        }
+    ]
+}

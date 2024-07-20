@@ -1,0 +1,200 @@
+{
+    "overall_goal": "Peeling peas and separating the edible peas from the covers",
+    "clips": [
+        {
+            "subgoal": "Collect necessary peas and tools",
+            "start_timestamp": 1,
+            "stop_timestamp": 1896,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Remove peas cover",
+                    "start_timestamp": 1,
+                    "stop_timestamp": 73
+                },
+                {
+                    "secondary_subgoal": "Hold peas cover",
+                    "start_timestamp": 73,
+                    "stop_timestamp": 84
+                },
+                {
+                    "secondary_subgoal": "Put cover in the bag",
+                    "start_timestamp": 84,
+                    "stop_timestamp": 138
+                },
+                {
+                    "secondary_subgoal": "Take peas from the bag",
+                    "start_timestamp": 138,
+                    "stop_timestamp": 189
+                }
+            ]
+        },
+        {
+            "subgoal": "Peel peas and discard covers",
+            "start_timestamp": 189,
+            "stop_timestamp": 2219,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel peas",
+                    "start_timestamp": 189,
+                    "stop_timestamp": 510
+                },
+                {
+                    "secondary_subgoal": "Throw cover on the floor",
+                    "start_timestamp": 510,
+                    "stop_timestamp": 538
+                },
+                {
+                    "secondary_subgoal": "Take peas from the bag",
+                    "start_timestamp": 538,
+                    "stop_timestamp": 590
+                },
+                {
+                    "secondary_subgoal": "Collect peas in the tray",
+                    "start_timestamp": 590,
+                    "stop_timestamp": 681
+                },
+                {
+                    "secondary_subgoal": "Open bag",
+                    "start_timestamp": 681,
+                    "stop_timestamp": 753
+                },
+                {
+                    "secondary_subgoal": "Take peas from the bag",
+                    "start_timestamp": 753,
+                    "stop_timestamp": 855
+                },
+                {
+                    "secondary_subgoal": "Open bag",
+                    "start_timestamp": 855,
+                    "stop_timestamp": 968
+                },
+                {
+                    "secondary_subgoal": "Take peas from the lap",
+                    "start_timestamp": 968,
+                    "stop_timestamp": 1001
+                },
+                {
+                    "secondary_subgoal": "Remove peas from the cover and discard",
+                    "start_timestamp": 1001,
+                    "stop_timestamp": 2149
+                }
+            ]
+        },
+        {
+            "subgoal": "Sort peas in the tray",
+            "start_timestamp": 2149,
+            "stop_timestamp": 2373,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Collect peas in the tray",
+                    "start_timestamp": 2149,
+                    "stop_timestamp": 2219
+                },
+                {
+                    "secondary_subgoal": "Take and throw peas from the bowl",
+                    "start_timestamp": 2219,
+                    "stop_timestamp": 2373
+                }
+            ]
+        },
+        {
+            "subgoal": "Continuously peel and discard pea covers",
+            "start_timestamp": 2373,
+            "stop_timestamp": 2007,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Remove peas from the cover, discard cover on the floor, and take peas again",
+                    "start_timestamp": 2373,
+                    "stop_timestamp": 2007
+                }
+            ]
+        },
+        {
+            "subgoal": "Hold the bowl",
+            "start_timestamp": 2219,
+            "stop_timestamp": 2252,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold bowl",
+                    "start_timestamp": 2219,
+                    "stop_timestamp": 2252
+                }
+            ]
+        },
+        {
+            "subgoal": "Take and throw peas from the bowl",
+            "start_timestamp": 2252,
+            "stop_timestamp": 3021,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Throw peas on the floor",
+                    "start_timestamp": 2252,
+                    "stop_timestamp": 2373
+                },
+                {
+                    "secondary_subgoal": "Remove peas from the cover, discard cover on the floor, and take peas again",
+                    "start_timestamp": 3021,
+                    "stop_timestamp": 2007
+                }
+            ]
+        },
+        {
+            "subgoal": "Operate the remote",
+            "start_timestamp": 4029,
+            "stop_timestamp": 4201,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take remote and press buttons",
+                    "start_timestamp": 4029,
+                    "stop_timestamp": 4196
+                },
+                {
+                    "secondary_subgoal": "Carry bowl",
+                    "start_timestamp": 4241,
+                    "stop_timestamp": 4301
+                }
+            ]
+        },
+        {
+            "subgoal": "Remove and throw pea covers",
+            "start_timestamp": 4301,
+            "stop_timestamp": 7531,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Remove peas from the cover, discard cover on the floor, and take peas again",
+                    "start_timestamp": 4301,
+                    "stop_timestamp": 7531
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle pea pods",
+            "start_timestamp": 7621,
+            "stop_timestamp": 29038,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel a pod of peas, remove peas from the pod, throw away the pod, and continue peeling",
+                    "start_timestamp": 7621,
+                    "stop_timestamp": 29038
+                }
+            ]
+        },
+        {
+            "subgoal": "Pick and handle bean coats",
+            "start_timestamp": 29038,
+            "stop_timestamp": 29767,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick a bean coat from the basin",
+                    "start_timestamp": 29038,
+                    "stop_timestamp": 29132
+                },
+                {
+                    "secondary_subgoal": "Puts the beans in the basin",
+                    "start_timestamp": 29132,
+                    "stop_timestamp": 29767
+                }
+            ]
+        }
+    ]
+}

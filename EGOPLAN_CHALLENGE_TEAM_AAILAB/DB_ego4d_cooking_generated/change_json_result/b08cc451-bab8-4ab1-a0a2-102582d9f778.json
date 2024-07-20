@@ -1,0 +1,136 @@
+{
+    "overall_goal": "Prepare a meal involving cooking meat and eggs in a pan.",
+    "clips": [
+        {
+            "subgoal": "Wash and prepare the pan for cooking",
+            "start_timestamp": 14,
+            "stop_timestamp": 1983,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash the pan thoroughly",
+                    "start_timestamp": 14,
+                    "stop_timestamp": 1459
+                },
+                {
+                    "secondary_subgoal": "Close the tap and dry the pan with a towel",
+                    "start_timestamp": 1459,
+                    "stop_timestamp": 1983
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook the meat",
+            "start_timestamp": 1983,
+            "stop_timestamp": 3544,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place the pan on the gas cooker and get the meat",
+                    "start_timestamp": 1983,
+                    "stop_timestamp": 2904
+                },
+                {
+                    "secondary_subgoal": "Place the meat in the pan",
+                    "start_timestamp": 2904,
+                    "stop_timestamp": 3544
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash hands thoroughly",
+            "start_timestamp": 3544,
+            "stop_timestamp": 4137,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open the tap and wash hands",
+                    "start_timestamp": 3544,
+                    "stop_timestamp": 4080
+                },
+                {
+                    "secondary_subgoal": "Close the tap",
+                    "start_timestamp": 4137,
+                    "stop_timestamp": 4137
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the accompanying items while meat is cooking",
+            "start_timestamp": 4137,
+            "stop_timestamp": 9878,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move around, look for items, and utilize phone",
+                    "start_timestamp": 4137,
+                    "stop_timestamp": 5752
+                },
+                {
+                    "secondary_subgoal": "Look around and touch objects",
+                    "start_timestamp": 5752,
+                    "stop_timestamp": 7289
+                },
+                {
+                    "secondary_subgoal": "Use phone and handle grapes",
+                    "start_timestamp": 7289,
+                    "stop_timestamp": 8557
+                },
+                {
+                    "secondary_subgoal": "Throw items to the dog and walk around",
+                    "start_timestamp": 8557,
+                    "stop_timestamp": 9878
+                }
+            ]
+        },
+        {
+            "subgoal": "Check and tend to the cooking meat",
+            "start_timestamp": 9878,
+            "stop_timestamp": 11727,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move camera, turn meat with fork, and dial phone",
+                    "start_timestamp": 9878,
+                    "stop_timestamp": 11727
+                }
+            ]
+        },
+        {
+            "subgoal": "Feed the dog and manage secondary tasks",
+            "start_timestamp": 11727,
+            "stop_timestamp": 15086,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Feed the dog and move around",
+                    "start_timestamp": 11727,
+                    "stop_timestamp": 15086
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook and serve the meat",
+            "start_timestamp": 15086,
+            "stop_timestamp": 16483,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn off the cooker and handle meat",
+                    "start_timestamp": 15086,
+                    "stop_timestamp": 16322
+                },
+                {
+                    "secondary_subgoal": "Move around with phone",
+                    "start_timestamp": 16322,
+                    "stop_timestamp": 16483
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook eggs in the pan",
+            "start_timestamp": 16483,
+            "stop_timestamp": 16965,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle eggs and pour into pan",
+                    "start_timestamp": 16483,
+                    "stop_timestamp": 16965
+                }
+            ]
+        }
+    ]
+}

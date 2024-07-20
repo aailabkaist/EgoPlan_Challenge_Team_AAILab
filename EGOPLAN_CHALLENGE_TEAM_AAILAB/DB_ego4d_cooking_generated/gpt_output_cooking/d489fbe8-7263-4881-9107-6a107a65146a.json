@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dg31S17AuGixCd0YftBhfRPSZUbQ",
+    "object": "chat.completion",
+    "created": 1719243451,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and serving food, then cleaning up the kitchen\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing food\",\n      \"start_timestamp\": 9,\n      \"stop_timestamp\": 794,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Stirring food\", \"start_timestamp\": 9, \"stop_timestamp\": 569},\n        {\"secondary_subgoal\": \"Tasting food\", \"start_timestamp\": 740, \"stop_timestamp\": 794}\n      ]\n    },\n    {\n      \"subgoal\": \"Finishing cooking and serving food\",\n      \"start_timestamp\": 794,\n      \"stop_timestamp\": 3289,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Turning off the cooker and stirring food\", \"start_timestamp\": 794, \"stop_timestamp\": 1228},\n        {\"secondary_subgoal\": \"Picking and placing plates\", \"start_timestamp\": 1228, \"stop_timestamp\": 1343},\n        {\"secondary_subgoal\": \"Serving food onto plates\", \"start_timestamp\": 1343, \"stop_timestamp\": 3232},\n        {\"secondary_subgoal\": \"Picking and placing the pan\", \"start_timestamp\": 3289, \"stop_timestamp\": 3355}\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning the pan and kitchen utensils\",\n      \"start_timestamp\": 3355,\n      \"stop_timestamp\": 5514,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Serving and scraping food from the pan\", \"start_timestamp\": 3355, \"stop_timestamp\": 3897},\n        {\"secondary_subgoal\": \"Scratching the pan with a spoon\", \"start_timestamp\": 3986, \"stop_timestamp\": 5514}\n      ]\n    },\n    {\n      \"subgoal\": \"Organizing and washing utensils\",\n      \"start_timestamp\": 5514,\n      \"stop_timestamp\": 10344,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Placing and interchanging plates\", \"start_timestamp\": 5514, \"stop_timestamp\": 5725},\n        {\"secondary_subgoal\": \"Washing and moving plates and utensils\", \"start_timestamp\": 5725, \"stop_timestamp\": 6190},\n        {\"secondary_subgoal\": \"Handling sticks\", \"start_timestamp\": 6190, \"stop_timestamp\": 6382},\n        {\"secondary_subgoal\": \"Dealing with bottle and kitchen cabinets\", \"start_timestamp\": 6382, \"stop_timestamp\": 6602},\n        {\"secondary_subgoal\": \"Fetching and rinsing water in the cooking pot\", \"start_timestamp\": 6602, \"stop_timestamp\": 6878},\n        {\"secondary_subgoal\": \"Washing and scrubbing the cooking pot\", \"start_timestamp\": 6878, \"stop_timestamp\": 7651},\n        {\"secondary_subgoal\": \"Final rinsing and organizing utensils\", \"start_timestamp\": 7651, \"stop_timestamp\": 10444}\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2088,
+        "completion_tokens": 639,
+        "total_tokens": 2727
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

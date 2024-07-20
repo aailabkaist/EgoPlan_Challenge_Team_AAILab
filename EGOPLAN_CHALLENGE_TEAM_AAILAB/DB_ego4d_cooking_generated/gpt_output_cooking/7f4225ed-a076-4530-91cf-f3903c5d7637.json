@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgCVgF8iHwF0HXUHSXk7n5NXMWKT",
+    "object": "chat.completion",
+    "created": 1719244039,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal using various kitchen utensils and ingredients.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Boil water in an electric kettle.\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 623,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Preparation and initial setup\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 27\n        },\n        {\n          \"secondary_subgoal\": \"Retrieve and prepare the electric kettle\",\n          \"start_timestamp\": 27,\n          \"stop_timestamp\": 124\n        },\n        {\n          \"secondary_subgoal\": \"Fill the kettle with water and set it up\",\n          \"start_timestamp\": 124,\n          \"stop_timestamp\": 397\n        },\n        {\n          \"secondary_subgoal\": \"Start the kettle\",\n          \"start_timestamp\": 397,\n          \"stop_timestamp\": 623\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and wash rice.\",\n      \"start_timestamp\": 623,\n      \"stop_timestamp\": 4885,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Measure and pour rice\",\n          \"start_timestamp\": 623,\n          \"stop_timestamp\": 1091\n        },\n        {\n          \"secondary_subgoal\": \"Wash rice in the sink\",\n          \"start_timestamp\": 1091,\n          \"stop_timestamp\": 4435\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning up and setting rice to cook\",\n          \"start_timestamp\": 4435,\n          \"stop_timestamp\": 4885\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and wash vegetables.\",\n      \"start_timestamp\": 4885,\n      \"stop_timestamp\": 9758,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Selecting and preparing vegetables\",\n          \"start_timestamp\": 4885,\n          \"stop_timestamp\": 6110\n        },\n        {\n          \"secondary_subgoal\": \"Washing vegetables\",\n          \"start_timestamp\": 6110,\n          \"stop_timestamp\": 9758\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cut and prepare beans.\",\n      \"start_timestamp\": 9758,\n      \"stop_timestamp\": 16279,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gathering and washing beans\",\n          \"start_timestamp\": 9758,\n          \"stop_timestamp\": 16727\n        },\n        {\n          \"secondary_subgoal\": \"Cutting and preparing beans\",\n          \"start_timestamp\": 16727,\n          \"stop_timestamp\": 16279\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook vegetables with salt.\",\n      \"start_timestamp\": 16279,\n      \"stop_timestamp\": 20750,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Seasoning vegetables\",\n          \"start_timestamp\": 16279,\n          \"stop_timestamp\": 18290\n        },\n        {\n          \"secondary_subgoal\": \"Cooking and stirring vegetables\",\n          \"start_timestamp\": 18290,\n          \"stop_timestamp\": 20750\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final stages of cooking.\",\n      \"start_timestamp\": 20750,\n      \"stop_timestamp\": 21256,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Finishing vegetable cooking process\",\n          \"start_timestamp\": 20750,\n          \"stop_timestamp\": 20928\n        },\n        {\n          \"secondary_subgoal\": \"Setting the cooking pot back\",\n          \"start_timestamp\": 20928,\n          \"stop_timestamp\": 21256\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4408,
+        "completion_tokens": 794,
+        "total_tokens": 5202
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

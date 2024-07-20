@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehjnJ13keVvhPB1GgEVWW6b1TCwF",
+    "object": "chat.completion",
+    "created": 1719488275,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and applying paste using a plastic paper and matt\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing the paste for application\",\n      \"start_timestamp\": \"129\",\n      \"stop_timestamp\": \"6539\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Squeezing paste onto the matt\",\n          \"start_timestamp\": \"129\",\n          \"stop_timestamp\": \"873\"\n        },\n        {\n          \"secondary_subgoal\": \"Interacting with woman Y\",\n          \"start_timestamp\": \"873\",\n          \"stop_timestamp\": \"981\"\n        },\n        {\n          \"secondary_subgoal\": \"Squeezing paste onto the matt\",\n          \"start_timestamp\": \"981\",\n          \"stop_timestamp\": \"6589\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Replenishing and wrapping paste in the plastic paper\",\n      \"start_timestamp\": \"6589\",\n      \"stop_timestamp\": \"7743\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Opening and adding more paste\",\n          \"start_timestamp\": \"6589\",\n          \"stop_timestamp\": \"6869\"\n        },\n        {\n          \"secondary_subgoal\": \"Wrapping paste\",\n          \"start_timestamp\": \"6869\",\n          \"stop_timestamp\": \"7743\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Squeezing the paste onto the matt post-replenishment\",\n      \"start_timestamp\": \"7743\",\n      \"stop_timestamp\": \"7956\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Squeezing paste onto the matt\",\n          \"start_timestamp\": \"7743\",\n          \"stop_timestamp\": \"7956\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing dough for application\",\n      \"start_timestamp\": \"15850\",\n      \"stop_timestamp\": \"22559\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Opening plastic paper for dough\",\n          \"start_timestamp\": \"15850\",\n          \"stop_timestamp\": \"16988\"\n        },\n        {\n          \"secondary_subgoal\": \"Wrapping and preparing dough for application\",\n          \"start_timestamp\": \"16988\",\n          \"stop_timestamp\": \"21753\"\n        },\n        {\n          \"secondary_subgoal\": \"Opening piping bag for dough\",\n          \"start_timestamp\": \"21753\",\n          \"stop_timestamp\": \"22559\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Applying dough onto the mat\",\n      \"start_timestamp\": \"22559\",\n      \"stop_timestamp\": \"35707\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Squeezing dough onto the mat\",\n          \"start_timestamp\": \"22559\",\n          \"stop_timestamp\": \"30084\"\n        },\n        {\n          \"secondary_subgoal\": \"Wandering around and squeezing dough\",\n          \"start_timestamp\": \"30084\",\n          \"stop_timestamp\": \"33112\"\n        },\n        {\n          \"secondary_subgoal\": \"Final adjustments and squeezing\",\n          \"start_timestamp\": \"33112\",\n          \"stop_timestamp\": \"35707\"\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4050,
+        "completion_tokens": 676,
+        "total_tokens": 4726
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

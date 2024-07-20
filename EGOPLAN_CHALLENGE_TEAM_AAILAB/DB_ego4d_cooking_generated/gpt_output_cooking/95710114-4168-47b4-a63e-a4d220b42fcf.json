@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfbaQ7guVUGiRcaKFvHgOGeNoUAV",
+    "object": "chat.completion",
+    "created": 1719241750,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cooking a vegetable meat dish\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Gathering ingredients from the fridge\",\n      \"start_timestamp\": 130,\n      \"stop_timestamp\": 769,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Retrieving meat from the fridge\",\n          \"start_timestamp\": 130,\n          \"stop_timestamp\": 274\n        },\n        {\n          \"secondary_subgoal\": \"Retrieving eggplants and other vegetables from the fridge\",\n          \"start_timestamp\": 303,\n          \"stop_timestamp\": 769\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing meat with vegetables\",\n      \"start_timestamp\": 769,\n      \"stop_timestamp\": 1116,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Unpacking and handling meat\",\n          \"start_timestamp\": 769,\n          \"stop_timestamp\": 1072\n        },\n        {\n          \"secondary_subgoal\": \"Preparing the cooking station\",\n          \"start_timestamp\": 1127,\n          \"stop_timestamp\": 1154\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cutting and peeling vegetables\",\n      \"start_timestamp\": 1215,\n      \"stop_timestamp\": 1850,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handling the onion\",\n          \"start_timestamp\": 1215,\n          \"stop_timestamp\": 1823\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning and re-peeling the onion\",\n          \"start_timestamp\":  1980,\n          \"stop_timestamp\": 1850\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking the meat with vegetables\",\n      \"start_timestamp\": 1823,\n      \"stop_timestamp\": 11842,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cooking meat\",\n          \"start_timestamp\": 11842,\n          \"stop_timestamp\": 11842\n        },\n        {\n          \"secondary_subgoal\": \"Handling and preparing carrots\",\n          \"start_timestamp\": 7897,\n          \"stop_timestamp\":  11842\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Adding more vegetables and mixing\",\n      \"start_timestamp\": 11842,\n      \"stop_timestamp\": 11842,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Mixing cucumber pieces\",\n          \"start_timestamp\": 11842,\n          \"stop_timestamp\": 14033\n        },\n        {\n          \"secondary_subgoal\": \"Chopping and adding yellow capsicum to the dish\",\n          \"start_timestamp\": 14033,\n          \"stop_timestamp\": 14103\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final touches to the dish\",\n      \"start_timestamp\": 14103,\n      \"stop_timestamp\": 21324,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stirring and mixing ingredients\",\n          \"start_timestamp\": 14103,\n          \"stop_timestamp\": 14550\n        },\n        {\n          \"secondary_subgoal\": \"Preparing green peppers\",\n          \"start_timestamp\": 14550,\n          \"stop_timestamp\": 21324\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 5751,
+        "completion_tokens": 701,
+        "total_tokens": 6452
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

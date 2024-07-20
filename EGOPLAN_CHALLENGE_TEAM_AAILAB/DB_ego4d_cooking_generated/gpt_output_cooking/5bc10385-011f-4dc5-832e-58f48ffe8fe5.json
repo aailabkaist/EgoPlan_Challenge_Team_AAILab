@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehPnfmRHsMOtIEN2YZLOcbbe1CT1",
+    "object": "chat.completion",
+    "created": 1719487035,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Process items (likely food items) by picking, placing, covering, and squeezing/pressing them using a compressor and paper.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Initial preparation of items using the hotpot\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 436,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Hold, pick from the bowl, place items in the hotpot\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 180\n        },\n        {\n          \"secondary_subgoal\": \"Cover item with a piece of paper and close the hotpot\",\n          \"start_timestamp\": 180,\n          \"stop_timestamp\": 436\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Processing items with the compressor\",\n      \"start_timestamp\": 436,\n      \"stop_timestamp\": 9098,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Close, turn, and open the compressor\",\n          \"start_timestamp\": 436,\n          \"stop_timestamp\": 545\n        },\n        {\n          \"secondary_subgoal\": \"Rotate item inside the compressor, pick and put items on the table\",\n          \"start_timestamp\": 545,\n          \"stop_timestamp\": 753\n        },\n        {\n          \"secondary_subgoal\": \"Pick from the bowl, place on the table, and press item with the compressor\",\n          \"start_timestamp\": 753,\n          \"stop_timestamp\": 882\n        },\n        {\n          \"secondary_subgoal\": \"Cover items with paper and press using the compressor\",\n          \"start_timestamp\": 882,\n          \"stop_timestamp\": 922\n        },\n        {\n          \"secondary_subgoal\": \"Remove paper and place it on table, continue processing items\",\n          \"start_timestamp\": 922,\n          \"stop_timestamp\": 1048\n        },\n        {\n          \"secondary_subgoal\": \"Press, open, and turn items inside the compressor\",\n          \"start_timestamp\": 1048,\n          \"stop_timestamp\": 1683\n        },\n        {\n          \"secondary_subgoal\": \"Eyes on paper management around compressor with consistent repetition\",\n          \"start_timestamp\": 1683,\n          \"stop_timestamp\": 1823\n        },\n        {\n          \"secondary_subgoal\": \"Periodic steps of pressing and opening the compressor\",\n          \"start_timestamp\": 1823,\n          \"stop_timestamp\": 2610\n        },\n        {\n          \"secondary_subgoal\": \"Involving turning and taking off paper inside the compressor\",\n          \"start_timestamp\": 2610,\n          \"stop_timestamp\": 3839\n        },\n        {\n          \"secondary_subgoal\": \"Squeezing unspecified items in the compressor\",\n          \"start_timestamp\": 3839,\n          \"stop_timestamp\": 4752\n        },\n        {\n          \"secondary_subgoal\": \"Handling papers and putting and taking items on the compressor\",\n          \"start_timestamp\": 4752,\n          \"stop_timestamp\": 5108\n        },\n        {\n          \"secondary_subgoal\": \"Repetitive covering and squeezing process for items in the compressor\",\n          \"start_timestamp\": 5108,\n          \"stop_timestamp\": 6242\n        },\n        {\n          \"secondary_subgoal\": \"Final squeezing and handling items procedures\",\n          \"start_timestamp\": 6242,\n          \"stop_timestamp\": 9098\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2127,
+        "completion_tokens": 723,
+        "total_tokens": 2850
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

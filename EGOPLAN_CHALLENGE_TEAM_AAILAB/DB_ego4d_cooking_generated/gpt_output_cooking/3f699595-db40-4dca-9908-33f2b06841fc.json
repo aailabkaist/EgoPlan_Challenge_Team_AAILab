@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfvKfgOlm9UOQGPfZJZziYGC3V9u",
+    "object": "chat.completion",
+    "created": 1719242974,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and seasoning cooked green peas\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Cooking and stirring the green peas\",\n      \"start_timestamp\": 11,\n      \"stop_timestamp\": 417,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Picking chopsticks and stirring the peas in the pot\",\n          \"start_timestamp\": 11,\n          \"stop_timestamp\": 110\n        },\n        {\n          \"secondary_subgoal\": \"Stirring, testing, and interacting with peas using chopsticks\",\n          \"start_timestamp\": 110,\n          \"stop_timestamp\": 417\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Straining and shaking the green peas\",\n      \"start_timestamp\": 417,\n      \"stop_timestamp\": 1034,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Picking up the pot and straining the peas\",\n          \"start_timestamp\": 417,\n          \"stop_timestamp\": 587\n        },\n        {\n          \"secondary_subgoal\": \"Shaking and placing the strainer mesh\",\n          \"start_timestamp\": 587,\n          \"stop_timestamp\": 675\n        },\n        {\n          \"secondary_subgoal\": \"Handling the pot and seasoning preparation\",\n          \"start_timestamp\": 675,\n          \"stop_timestamp\": 832\n        },\n        {\n          \"secondary_subgoal\": \"Scooping and sprinkling the salt\",\n          \"start_timestamp\": 832,\n          \"stop_timestamp\": 936\n        },\n        {\n          \"secondary_subgoal\": \"Closing and placing the salt container\",\n          \"start_timestamp\": 936,\n          \"stop_timestamp\": 1024\n        },\n        {\n          \"secondary_subgoal\": \"Lifting and shaking the strainer mesh\",\n          \"start_timestamp\": 1024,\n          \"stop_timestamp\": 1034\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Rinsing, peeling, and tasting the peas\",\n      \"start_timestamp\": 1034,\n      \"stop_timestamp\": 1709,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Rinsing hands and picking a pea\",\n          \"start_timestamp\": 1034,\n          \"stop_timestamp\": 1496\n        },\n        {\n          \"secondary_subgoal\": \"Rinsing and peeling the pea\",\n          \"start_timestamp\": 1496,\n          \"stop_timestamp\": 1617\n        },\n        {\n          \"secondary_subgoal\": \"Peeling and eating the peas\",\n          \"start_timestamp\": 1617,\n          \"stop_timestamp\": 1693\n        },\n        {\n          \"secondary_subgoal\": \"Placing pea peels in bag and rinsing hands\",\n          \"start_timestamp\": 1693,\n          \"stop_timestamp\": 1709\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final adjustments and clean-up\",\n      \"start_timestamp\": 1709,\n      \"stop_timestamp\": 2040,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Rinsing hands and shaking the mesh\",\n          \"start_timestamp\": 1709,\n          \"stop_timestamp\": 1847\n        },\n        {\n          \"secondary_subgoal\": \"Drying hands and adjusting the camera\",\n          \"start_timestamp\": 1847,\n          \"stop_timestamp\": 1940\n        },\n        {\n          \"secondary_subgoal\": \"Lowering hands post-adjustment\",\n          \"start_timestamp\": 1940,\n          \"stop_timestamp\": 2040\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 986,
+        "completion_tokens": 760,
+        "total_tokens": 1746
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgjNREoa04NtUJ9G3eiZPCBDfgAy",
+    "object": "chat.completion",
+    "created": 1719246077,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Organize items and clean hands.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Store the containers in the cabinet.\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 427,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Hold and place the container on the counter.\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 36\n        },\n        {\n          \"secondary_subgoal\": \"Pick another container and hold it.\",\n          \"start_timestamp\": 36,\n          \"stop_timestamp\": 79\n        },\n        {\n          \"secondary_subgoal\": \"Open the cabinet door.\",\n          \"start_timestamp\": 79,\n          \"stop_timestamp\": 98\n        },\n        {\n          \"secondary_subgoal\": \"Put the container in the cabinet.\",\n          \"start_timestamp\": 98,\n          \"stop_timestamp\": 132\n        },\n        {\n          \"secondary_subgoal\": \"Close the cabinet door.\",\n          \"start_timestamp\": 132,\n          \"stop_timestamp\": 183\n        },\n        {\n          \"secondary_subgoal\": \"Pick another container.\",\n          \"start_timestamp\": 183,\n          \"stop_timestamp\": 213\n        },\n        {\n          \"secondary_subgoal\": \"Open the cabinet door again.\",\n          \"start_timestamp\": 213,\n          \"stop_timestamp\": 246\n        },\n        {\n          \"secondary_subgoal\": \"Place another container in the cabinet.\",\n          \"start_timestamp\": 246,\n          \"stop_timestamp\": 394\n        },\n        {\n          \"secondary_subgoal\": \"Close the cabinet door.\",\n          \"start_timestamp\": 394,\n          \"stop_timestamp\": 427\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean hands.\",\n      \"start_timestamp\": 427,\n      \"stop_timestamp\": 621,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Walk to the sink.\",\n          \"start_timestamp\": 427,\n          \"stop_timestamp\": 485\n        },\n        {\n          \"secondary_subgoal\": \"Dry hands with the towel.\",\n          \"start_timestamp\": 485,\n          \"stop_timestamp\": 521\n        },\n        {\n          \"secondary_subgoal\": \"Adjust the camera.\",\n          \"start_timestamp\": 521,\n          \"stop_timestamp\": 621\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 472,
+        "completion_tokens": 500,
+        "total_tokens": 972
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

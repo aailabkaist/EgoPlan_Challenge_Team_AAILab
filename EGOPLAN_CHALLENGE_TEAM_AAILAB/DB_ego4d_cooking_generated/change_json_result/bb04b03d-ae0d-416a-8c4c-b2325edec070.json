@@ -1,0 +1,101 @@
+{
+    "overall_goal": "Prepare and cook a meal, specifically a noodle soup and meat dish.",
+    "clips": [
+        {
+            "subgoal": "Cook noodles soup",
+            "start_timestamp": 0,
+            "stop_timestamp": 6699,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir the noodles soup",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 402
+                },
+                {
+                    "secondary_subgoal": "Scoop and return noodles soup",
+                    "start_timestamp": 402,
+                    "stop_timestamp": 566
+                },
+                {
+                    "secondary_subgoal": "Add ingredients to noodles soup",
+                    "start_timestamp": 566,
+                    "stop_timestamp": 886
+                },
+                {
+                    "secondary_subgoal": "Stir the noodles soup",
+                    "start_timestamp": 886,
+                    "stop_timestamp": 1541
+                },
+                {
+                    "secondary_subgoal": "Retrieve and prepare meat",
+                    "start_timestamp": 1541,
+                    "stop_timestamp": 1901
+                },
+                {
+                    "secondary_subgoal": "Stir the noodles soup",
+                    "start_timestamp": 1901,
+                    "stop_timestamp": 2987
+                },
+                {
+                    "secondary_subgoal": "Move and place the pan on the cooker",
+                    "start_timestamp": 2987,
+                    "stop_timestamp": 3043
+                },
+                {
+                    "secondary_subgoal": "Stir the noodles soup",
+                    "start_timestamp": 3043,
+                    "stop_timestamp": 566
+                },
+                {
+                    "secondary_subgoal": "Prepare serving plates",
+                    "start_timestamp": 5810,
+                    "stop_timestamp": 6156
+                },
+                {
+                    "secondary_subgoal": "Serve noodles soup",
+                    "start_timestamp": 6156,
+                    "stop_timestamp": 6668
+                },
+                {
+                    "secondary_subgoal": "Transfer plate to counter",
+                    "start_timestamp": 6668,
+                    "stop_timestamp": 6699
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook meat for the meal",
+            "start_timestamp": 6699,
+            "stop_timestamp": 10967,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut the meat",
+                    "start_timestamp": 6699,
+                    "stop_timestamp": 8786
+                },
+                {
+                    "secondary_subgoal": "Cook the meat",
+                    "start_timestamp": 8786,
+                    "stop_timestamp": 15123
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve the meal and clean up",
+            "start_timestamp": 15123,
+            "stop_timestamp": 16446,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Serve the food",
+                    "start_timestamp": 15123,
+                    "stop_timestamp": 15973
+                },
+                {
+                    "secondary_subgoal": "Clean up kitchen",
+                    "start_timestamp": 15973,
+                    "stop_timestamp": 16446
+                }
+            ]
+        }
+    ]
+}

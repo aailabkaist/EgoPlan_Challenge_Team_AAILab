@@ -1,0 +1,105 @@
+{
+    "overall_goal": "Preparing and cooking a meal including broccoli, bell pepper, and fish fillet, and serving it on a plate.",
+    "clips": [
+        {
+            "subgoal": "Preparing and seasoning the broccoli and bell pepper",
+            "start_timestamp": 4,
+            "stop_timestamp": 1549,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Setting up the workspace and getting the chopping board",
+                    "start_timestamp": 4,
+                    "stop_timestamp": 181
+                },
+                {
+                    "secondary_subgoal": "Preparing the broccoli",
+                    "start_timestamp": 181,
+                    "stop_timestamp": 1883
+                },
+                {
+                    "secondary_subgoal": "Cleaning and chopping the bell pepper",
+                    "start_timestamp": 1883,
+                    "stop_timestamp": 553
+                }
+            ]
+        },
+        {
+            "subgoal": "Chopping and washing broccoli and bell pepper",
+            "start_timestamp": 1804,
+            "stop_timestamp": 9174,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Chopping broccoli and bell peppers",
+                    "start_timestamp": 1804,
+                    "stop_timestamp": 5619
+                },
+                {
+                    "secondary_subgoal": "Washing and drying chopped broccoli and bell peppers",
+                    "start_timestamp": 5619,
+                    "stop_timestamp": 764
+                },
+                {
+                    "secondary_subgoal": "Seasoning broccoli and bell peppers",
+                    "start_timestamp": 764,
+                    "stop_timestamp": 9138
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing the fish fillet",
+            "start_timestamp": 11394,
+            "stop_timestamp": 17934,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Seasoning the fish fillet",
+                    "start_timestamp": 11394,
+                    "stop_timestamp": 13451
+                },
+                {
+                    "secondary_subgoal": "Prewarming the cooking pan with oil",
+                    "start_timestamp": 13454,
+                    "stop_timestamp": 14735
+                },
+                {
+                    "secondary_subgoal": "Placing and cooking fish fillet in the frying pan",
+                    "start_timestamp": 14735,
+                    "stop_timestamp": 17934
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking fish fillet and broccoli",
+            "start_timestamp": 17934,
+            "stop_timestamp": 20651,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cooking fish fillet and broccoli in the frying pan",
+                    "start_timestamp": 17934,
+                    "stop_timestamp": 21303
+                },
+                {
+                    "secondary_subgoal": "Stirring and seasoning fish fillet and broccoli",
+                    "start_timestamp": 21303,
+                    "stop_timestamp": 20651
+                }
+            ]
+        },
+        {
+            "subgoal": "Serving the meal",
+            "start_timestamp": 20651,
+            "stop_timestamp": 31930,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Harvesting cooked fish fillet and broccoli and serving",
+                    "start_timestamp": 20651,
+                    "stop_timestamp": 31633
+                },
+                {
+                    "secondary_subgoal": "Finishing touches and cleaning workspace",
+                    "start_timestamp": 31633,
+                    "stop_timestamp": 31930
+                }
+            ]
+        }
+    ]
+}

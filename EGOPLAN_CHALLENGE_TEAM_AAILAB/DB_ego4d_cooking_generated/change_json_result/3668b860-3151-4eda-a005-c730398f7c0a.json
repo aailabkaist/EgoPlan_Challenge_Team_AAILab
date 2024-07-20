@@ -1,0 +1,59 @@
+{
+    "overall_goal": "Prepare food by washing and cutting items and then assembling them.",
+    "clips": [
+        {
+            "subgoal": "Clean kitchen utensils and workspace",
+            "start_timestamp": 18,
+            "stop_timestamp": 2111,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare washing materials",
+                    "start_timestamp": 18,
+                    "stop_timestamp": 91
+                },
+                {
+                    "secondary_subgoal": "Wash and rinse dishes",
+                    "start_timestamp": 136,
+                    "stop_timestamp": 839
+                },
+                {
+                    "secondary_subgoal": "Wash knife",
+                    "start_timestamp": 868,
+                    "stop_timestamp": 1002
+                },
+                {
+                    "secondary_subgoal": "Wash chopping board",
+                    "start_timestamp": 1019,
+                    "stop_timestamp": 1983
+                },
+                {
+                    "secondary_subgoal": "Wash hands and dry hands with kitchen towel",
+                    "start_timestamp": 1999,
+                    "stop_timestamp": 2178
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare food ingredients",
+            "start_timestamp": 2213,
+            "stop_timestamp": 4885,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle and stir ingredients",
+                    "start_timestamp": 2268,
+                    "stop_timestamp": 3274
+                },
+                {
+                    "secondary_subgoal": "Wash and cut tomatoes",
+                    "start_timestamp": 3613,
+                    "stop_timestamp": 4628
+                },
+                {
+                    "secondary_subgoal": "Wash and cut cucumber",
+                    "start_timestamp": 4679,
+                    "stop_timestamp": 4885
+                }
+            ]
+        }
+    ]
+}

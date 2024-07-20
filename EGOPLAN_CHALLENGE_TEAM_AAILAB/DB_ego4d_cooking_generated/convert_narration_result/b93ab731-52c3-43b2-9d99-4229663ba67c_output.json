@@ -1,0 +1,582 @@
+[
+    {
+        "task_goal": "Prepare the cooking pan and water.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches unsure",
+                "start_frame": 87,
+                "stop_frame": 106
+            },
+            {
+                "narration_text": "Picks up the cooking pan.",
+                "start_frame": 106,
+                "stop_frame": 203
+            },
+            {
+                "narration_text": "Puts the water in the pan.",
+                "start_frame": 203,
+                "stop_frame": 409
+            },
+            {
+                "narration_text": "Puts off the water.",
+                "start_frame": 409,
+                "stop_frame": 472
+            },
+            {
+                "narration_text": "Puts the pan in the water.",
+                "start_frame": 472,
+                "stop_frame": 577
+            },
+            {
+                "narration_text": "Puts on the gas.",
+                "start_frame": 577,
+                "stop_frame": 680
+            },
+            {
+                "narration_text": "Pick unsure",
+                "start_frame": 680,
+                "stop_frame": 729
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up and fill the pan with water.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches unsure",
+                "start_frame": 87,
+                "stop_frame": 106
+            },
+            {
+                "narration_text": "Picks up the cooking pan.",
+                "start_frame": 106,
+                "stop_frame": 203
+            },
+            {
+                "narration_text": "Puts the water in the pan.",
+                "start_frame": 203,
+                "stop_frame": 409
+            }
+        ]
+    },
+    {
+        "task_goal": "Put the water in the pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up the cooking pan.",
+                "start_frame": 106,
+                "stop_frame": 203
+            },
+            {
+                "narration_text": "Puts the water in the pan.",
+                "start_frame": 203,
+                "stop_frame": 409
+            },
+            {
+                "narration_text": "Puts off the water.",
+                "start_frame": 409,
+                "stop_frame": 472
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn off water and place pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the water in the pan.",
+                "start_frame": 203,
+                "stop_frame": 409
+            },
+            {
+                "narration_text": "Puts off the water.",
+                "start_frame": 409,
+                "stop_frame": 472
+            },
+            {
+                "narration_text": "Puts the pan in the water.",
+                "start_frame": 472,
+                "stop_frame": 577
+            }
+        ]
+    },
+    {
+        "task_goal": "Put the pan on the stove and turn on the gas.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts off the water.",
+                "start_frame": 409,
+                "stop_frame": 472
+            },
+            {
+                "narration_text": "Puts the pan in the water.",
+                "start_frame": 472,
+                "stop_frame": 577
+            },
+            {
+                "narration_text": "Puts on the gas.",
+                "start_frame": 577,
+                "stop_frame": 680
+            },
+            {
+                "narration_text": "Pick unsure",
+                "start_frame": 680,
+                "stop_frame": 729
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up chopping board, knife, and onions; start peeling onions.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves the meat package.",
+                "start_frame": 792,
+                "stop_frame": 855
+            },
+            {
+                "narration_text": "Picks the chopping board.",
+                "start_frame": 855,
+                "stop_frame": 889
+            },
+            {
+                "narration_text": "Opens the drawer.",
+                "start_frame": 889,
+                "stop_frame": 943
+            },
+            {
+                "narration_text": "Picks up a knife.",
+                "start_frame": 943,
+                "stop_frame": 997
+            },
+            {
+                "narration_text": "Puts the knife on the chopping board.",
+                "start_frame": 997,
+                "stop_frame": 1074
+            },
+            {
+                "narration_text": "Picks up onions .",
+                "start_frame": 1074,
+                "stop_frame": 1234
+            },
+            {
+                "narration_text": "Peels the onion.",
+                "start_frame": 1234,
+                "stop_frame": 1283
+            },
+            {
+                "narration_text": "Puts the onion peel in the dustbin.",
+                "start_frame": 1283,
+                "stop_frame": 1346
+            },
+            {
+                "narration_text": "Picks up the knife.",
+                "start_frame": 1346,
+                "stop_frame": 1415
+            },
+            {
+                "narration_text": "Cuts the onion.",
+                "start_frame": 1415,
+                "stop_frame": 1526
+            },
+            {
+                "narration_text": "Puts the knife on the knife on the chopping board.",
+                "start_frame": 1526,
+                "stop_frame": 1597
+            },
+            {
+                "narration_text": "Puts the onion on the chopping board.",
+                "start_frame": 1597,
+                "stop_frame": 1620
+            },
+            {
+                "narration_text": "Peels the onion.",
+                "start_frame": 1620,
+                "stop_frame": 1912
+            }
+        ]
+    },
+    {
+        "task_goal": "Peel and dispose of onion peels.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the onion on the chopping board.",
+                "start_frame": 1597,
+                "stop_frame": 1620
+            },
+            {
+                "narration_text": "Peels the onion.",
+                "start_frame": 1620,
+                "stop_frame": 1912
+            },
+            {
+                "narration_text": "Puts the onion peels in the dustbin.",
+                "start_frame": 1912,
+                "stop_frame": 1967
+            },
+            {
+                "narration_text": "Picks the piece of onion.",
+                "start_frame": 1967,
+                "stop_frame": 2000
+            },
+            {
+                "narration_text": "Peels the onion.",
+                "start_frame": 2000,
+                "stop_frame": 2557
+            },
+            {
+                "narration_text": "Puts the onion peel in the dustbin.",
+                "start_frame": 2557,
+                "stop_frame": 2604
+            },
+            {
+                "narration_text": "Picks up the knife.",
+                "start_frame": 2604,
+                "stop_frame": 2670
+            },
+            {
+                "narration_text": "Cuts the onion",
+                "start_frame": 2670,
+                "stop_frame": 2795
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut onions into pieces and put them in water.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up the knife.",
+                "start_frame": 2604,
+                "stop_frame": 2670
+            },
+            {
+                "narration_text": "Cuts the onion",
+                "start_frame": 2670,
+                "stop_frame": 2795
+            },
+            {
+                "narration_text": "Removes the pieces of onion from the knife.",
+                "start_frame": 2795,
+                "stop_frame": 3073
+            },
+            {
+                "narration_text": "Puts the onion peel in the dustbin.",
+                "start_frame": 3073,
+                "stop_frame": 3143
+            },
+            {
+                "narration_text": "Cuts the onions into pieces.",
+                "start_frame": 3143,
+                "stop_frame": 3596
+            },
+            {
+                "narration_text": "Puts the onion pieces in water.",
+                "start_frame": 3596,
+                "stop_frame": 3893
+            },
+            {
+                "narration_text": "Cuts the onions into pieces.",
+                "start_frame": 3893,
+                "stop_frame": 4235
+            },
+            {
+                "narration_text": "Puts the onion pieces in the water.",
+                "start_frame": 4235,
+                "stop_frame": 4322
+            },
+            {
+                "narration_text": "Cuts the onions into pieces.",
+                "start_frame": 4322,
+                "stop_frame": 4586
+            },
+            {
+                "narration_text": "Puts the onion pieces in the water.",
+                "start_frame": 4586,
+                "stop_frame": 4645
+            },
+            {
+                "narration_text": "Cuts the onions into pieces.",
+                "start_frame": 4645,
+                "stop_frame": 4957
+            },
+            {
+                "narration_text": "Puts the pieces of onion in water.",
+                "start_frame": 4957,
+                "stop_frame": 5088
+            },
+            {
+                "narration_text": "Cuts the onions into pieces.",
+                "start_frame": 5088,
+                "stop_frame": 5325
+            },
+            {
+                "narration_text": "Puts the onion in water.",
+                "start_frame": 5325,
+                "stop_frame": 5434
+            },
+            {
+                "narration_text": "Puts the knife down.",
+                "start_frame": 5434,
+                "stop_frame": 5460
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut and remove the packaging of meat.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the fork.",
+                "start_frame": 5460,
+                "stop_frame": 5496
+            },
+            {
+                "narration_text": "Picks the meat package.",
+                "start_frame": 5496,
+                "stop_frame": 5569
+            },
+            {
+                "narration_text": "Picks the knife.",
+                "start_frame": 5569,
+                "stop_frame": 5600
+            },
+            {
+                "narration_text": "Cuts the papers.",
+                "start_frame": 5600,
+                "stop_frame": 5711
+            },
+            {
+                "narration_text": "Pulls the papers.",
+                "start_frame": 5711,
+                "stop_frame": 5805
+            },
+            {
+                "narration_text": "Removes the meat from the paper.",
+                "start_frame": 5805,
+                "stop_frame": 6032
+            },
+            {
+                "narration_text": "Picks up the plate with onions.",
+                "start_frame": 6032,
+                "stop_frame": 6090
+            }
+        ]
+    },
+    {
+        "task_goal": "Use mesh strainer to remove meat from the pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns cooker knob",
+                "start_frame": 11845,
+                "stop_frame": 11885
+            },
+            {
+                "narration_text": "Places strainer with meat in the sink",
+                "start_frame": 11885,
+                "stop_frame": 11930
+            },
+            {
+                "narration_text": "Picks knife and chopping board on countertop",
+                "start_frame": 11930,
+                "stop_frame": 11960
+            }
+        ]
+    },
+    {
+        "task_goal": "Place and prepare capsicums and cabbage.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Remains with pack of cabbage in hand",
+                "start_frame": 13732,
+                "stop_frame": 13772
+            },
+            {
+                "narration_text": "Pours cabbage in dish",
+                "start_frame": 13772,
+                "stop_frame": 13800
+            },
+            {
+                "narration_text": "Spreads cabbage in dish with hand",
+                "start_frame": 13800,
+                "stop_frame": 13905
+            },
+            {
+                "narration_text": "Folds the pack",
+                "start_frame": 13905,
+                "stop_frame": 13953
+            },
+            {
+                "narration_text": "Places pack on countertop",
+                "start_frame": 13953,
+                "stop_frame": 13964
+            },
+            {
+                "narration_text": "Opens paper with capsicums",
+                "start_frame": 13964,
+                "stop_frame": 14000
+            },
+            {
+                "narration_text": "Shifts dish with cabbage on countertop",
+                "start_frame": 14000,
+                "stop_frame": 14054
+            },
+            {
+                "narration_text": "Places capsicums on chopping board",
+                "start_frame": 14054,
+                "stop_frame": 14139
+            },
+            {
+                "narration_text": "Places paper on chopping board",
+                "start_frame": 14139,
+                "stop_frame": 14171
+            },
+            {
+                "narration_text": "Picks knife on chopping board",
+                "start_frame": 14171,
+                "stop_frame": 14207
+            },
+            {
+                "narration_text": "Slices red capsicum on chopping board",
+                "start_frame": 14207,
+                "stop_frame": 14274
+            },
+            {
+                "narration_text": "Puts left piece in paper on countertop",
+                "start_frame": 14274,
+                "stop_frame": 14302
+            },
+            {
+                "narration_text": "Shifts yellow capsicum on chopping board",
+                "start_frame": 14302,
+                "stop_frame": 14347
+            },
+            {
+                "narration_text": "Slices capsicum",
+                "start_frame": 14347,
+                "stop_frame": 14392
+            },
+            {
+                "narration_text": "Puts one piece in the paper",
+                "start_frame": 14392,
+                "stop_frame": 14410
+            },
+            {
+                "narration_text": "Folds paper",
+                "start_frame": 14410,
+                "stop_frame": 14431
+            },
+            {
+                "narration_text": "Places paper on chopping board",
+                "start_frame": 14431,
+                "stop_frame": 14472
+            }
+        ]
+    },
+    {
+        "task_goal": "Slice capsicums.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Folds paper",
+                "start_frame": 14410,
+                "stop_frame": 14431
+            },
+            {
+                "narration_text": "Places paper on chopping board",
+                "start_frame": 14431,
+                "stop_frame": 14472
+            },
+            {
+                "narration_text": "Slices yellow capsicum",
+                "start_frame": 14472,
+                "stop_frame": 15708
+            },
+            {
+                "narration_text": "Wipes pieces left on knife with hand",
+                "start_frame": 15708,
+                "stop_frame": 15729
+            },
+            {
+                "narration_text": "Shifts red capsicum on chopping board",
+                "start_frame": 15729,
+                "stop_frame": 15745
+            },
+            {
+                "narration_text": "Pushes capsicum pieces on chopping board with knife",
+                "start_frame": 15745,
+                "stop_frame": 15782
+            },
+            {
+                "narration_text": "Slices capsicum",
+                "start_frame": 15782,
+                "stop_frame": 16366
+            },
+            {
+                "narration_text": "Wipes pieces left on knife with hand",
+                "start_frame": 16366,
+                "stop_frame": 16388
+            },
+            {
+                "narration_text": "Gathers sliced pieces on board",
+                "start_frame": 16388,
+                "stop_frame": 16421
+            },
+            {
+                "narration_text": "Places knife on chopping board",
+                "start_frame": 16421,
+                "stop_frame": 16445
+            },
+            {
+                "narration_text": "Lifts paper with capsicums on countertop",
+                "start_frame": 16445,
+                "stop_frame": 16448
+            },
+            {
+                "narration_text": "Picks paper with green onions",
+                "start_frame": 16448,
+                "stop_frame": 16465
+            },
+            {
+                "narration_text": "Places paper with capsicums on countertop",
+                "start_frame": 16465,
+                "stop_frame": 16491
+            },
+            {
+                "narration_text": "Pushes sliced capsicum pieces on chopping board",
+                "start_frame": 16491,
+                "stop_frame": 16561
+            }
+        ]
+    },
+    {
+        "task_goal": "Add mushrooms to the dish.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Scoops mushrooms from a chopping board",
+                "start_frame": 21113,
+                "stop_frame": 21118
+            },
+            {
+                "narration_text": "Puts mushrooms on a can",
+                "start_frame": 21118,
+                "stop_frame": 21141
+            },
+            {
+                "narration_text": "Scoops bell pepper from a chopping board",
+                "start_frame": 21141,
+                "stop_frame": 21150
+            },
+            {
+                "narration_text": "Puts bell pepper on a can",
+                "start_frame": 21150,
+                "stop_frame": 21161
+            },
+            {
+                "narration_text": "Scoops bell pepper from a chopping board",
+                "start_frame": 21161,
+                "stop_frame": 21173
+            },
+            {
+                "narration_text": "Puts bell pepper on a can",
+                "start_frame": 21173,
+                "stop_frame": 21208
+            }
+        ]
+    }
+]

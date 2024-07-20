@@ -1,0 +1,134 @@
+{
+    "overall_goal": "Prepare rice and meat along with mushrooms",
+    "clips": [
+        {
+            "subgoal": "Retrieve and measure rice",
+            "start_timestamp": 209,
+            "stop_timestamp": 1160,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move to refrigerator",
+                    "start_timestamp": 262,
+                    "stop_timestamp": 311
+                },
+                {
+                    "secondary_subgoal": "Retrieve container from refrigerator",
+                    "start_timestamp": 311,
+                    "stop_timestamp": 584
+                },
+                {
+                    "secondary_subgoal": "Measure rice",
+                    "start_timestamp": 584,
+                    "stop_timestamp": 1088
+                },
+                {
+                    "secondary_subgoal": "Close and store rice container",
+                    "start_timestamp": 1088,
+                    "stop_timestamp": 1619
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean rice",
+            "start_timestamp": 2111,
+            "stop_timestamp": 5712,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean and drain rice",
+                    "start_timestamp": 2111,
+                    "stop_timestamp": 4362
+                },
+                {
+                    "secondary_subgoal": "Final cleaning steps",
+                    "start_timestamp": 4362,
+                    "stop_timestamp": 5712
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook rice",
+            "start_timestamp": 6030,
+            "stop_timestamp": 6747,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Transfer rice to cooker",
+                    "start_timestamp": 6030,
+                    "stop_timestamp": 6256
+                },
+                {
+                    "secondary_subgoal": "Power on rice cooker",
+                    "start_timestamp": 6701,
+                    "stop_timestamp": 6747
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare meat",
+            "start_timestamp": 7365,
+            "stop_timestamp": 13195,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and open container",
+                    "start_timestamp": 7365,
+                    "stop_timestamp": 7824
+                },
+                {
+                    "secondary_subgoal": "Clean and cut meat",
+                    "start_timestamp": 8401,
+                    "stop_timestamp": 9177
+                },
+                {
+                    "secondary_subgoal": "Cut and arrange the meat",
+                    "start_timestamp": 9177,
+                    "stop_timestamp": 9004
+                }
+            ]
+        },
+        {
+            "subgoal": "Season meat",
+            "start_timestamp": 9614,
+            "stop_timestamp": 11813,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add seasoning",
+                    "start_timestamp": 9698,
+                    "stop_timestamp": 10405
+                },
+                {
+                    "secondary_subgoal": "Massage seasoning into meat",
+                    "start_timestamp": 11263,
+                    "stop_timestamp": 11545
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up",
+            "start_timestamp": 11543,
+            "stop_timestamp": 12102,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean hands and tools",
+                    "start_timestamp": 11543,
+                    "stop_timestamp": 11813
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and Cut Mushrooms",
+            "start_timestamp": 14445,
+            "stop_timestamp": 16044,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare mushrooms",
+                    "start_timestamp": 14445,
+                    "stop_timestamp": 15083
+                },
+                {
+                    "secondary_subgoal": "Cut mushrooms",
+                    "start_timestamp": 15183,
+                    "stop_timestamp": 16044
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "overall_goal": "Prepare and cook a meal including meat stew and spaghetti.",
+    "clips": [
+        {
+            "subgoal": "Prepare ingredients for cooking",
+            "start_timestamp": 4,
+            "stop_timestamp": 141,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir onions",
+                    "start_timestamp": 4,
+                    "stop_timestamp": 136
+                },
+                {
+                    "secondary_subgoal": "Pick and prepare meat",
+                    "start_timestamp": 136,
+                    "stop_timestamp": 256
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut and prepare meat for cooking",
+            "start_timestamp": 256,
+            "stop_timestamp": 1502,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut meat",
+                    "start_timestamp": 256,
+                    "stop_timestamp": 1093
+                },
+                {
+                    "secondary_subgoal": "Add meat to frying pan and stir",
+                    "start_timestamp": 1093,
+                    "stop_timestamp": 1502
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir and cook meat stew",
+            "start_timestamp": 1502,
+            "stop_timestamp": 1885,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir meat stew",
+                    "start_timestamp": 1502,
+                    "stop_timestamp": 1792
+                },
+                {
+                    "secondary_subgoal": "Prepare packaging for remaining meat",
+                    "start_timestamp": 1792,
+                    "stop_timestamp": 1885
+                }
+            ]
+        },
+        {
+            "subgoal": "Store remaining meat and clean up",
+            "start_timestamp": 1885,
+            "stop_timestamp": 2377,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Store remaining meat",
+                    "start_timestamp": 1885,
+                    "stop_timestamp": 2245
+                },
+                {
+                    "secondary_subgoal": "Wash hands and resume cooking",
+                    "start_timestamp": 2245,
+                    "stop_timestamp": 2377
+                }
+            ]
+        },
+        {
+            "subgoal": "Add and stir tomato paste in meat stew",
+            "start_timestamp": 2377,
+            "stop_timestamp": 5261,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and add tomato paste",
+                    "start_timestamp": 2377,
+                    "stop_timestamp": 4487
+                },
+                {
+                    "secondary_subgoal": "Stir tomato paste with meat stew",
+                    "start_timestamp": 4487,
+                    "stop_timestamp": 5261
+                }
+            ]
+        },
+        {
+            "subgoal": "Add spaghetti and cook",
+            "start_timestamp": 5261,
+            "stop_timestamp": 6804,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and add spaghetti to pot",
+                    "start_timestamp": 5261,
+                    "stop_timestamp": 6505
+                },
+                {
+                    "secondary_subgoal": "Adjust cooker and stir ingredients",
+                    "start_timestamp": 6505,
+                    "stop_timestamp": 6804
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir and check pasta and stew",
+            "start_timestamp": 6804,
+            "stop_timestamp": 11387,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir pasta and meat stew",
+                    "start_timestamp": 6804,
+                    "stop_timestamp": 10397
+                },
+                {
+                    "secondary_subgoal": "Clean up area and utensils",
+                    "start_timestamp": 10397,
+                    "stop_timestamp": 11387
+                }
+            ]
+        },
+        {
+            "subgoal": "Store cleaned utensils and cook remaining ingredients",
+            "start_timestamp": 11387,
+            "stop_timestamp": 21261,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Final stir and adjust cooking",
+                    "start_timestamp": 11387,
+                    "stop_timestamp": 13489
+                },
+                {
+                    "secondary_subgoal": "Store and clean up after cooking",
+                    "start_timestamp": 13489,
+                    "stop_timestamp": 21261
+                }
+            ]
+        }
+    ]
+}

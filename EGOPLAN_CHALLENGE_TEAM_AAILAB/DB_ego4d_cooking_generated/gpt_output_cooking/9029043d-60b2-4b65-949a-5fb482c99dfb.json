@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eh3FxQRvUsvjxsseCsPhMvYxiinK",
+    "object": "chat.completion",
+    "created": 1719485637,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"C completes a knitting project.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"C knits the garment while adjusting the thread frequently.\",\n      \"start_timestamp\": 31742,\n      \"stop_timestamp\": 39586,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C knits the garment while talking on the phone.\",\n          \"start_timestamp\": 31742,\n          \"stop_timestamp\": 31794\n        },\n        {\n          \"secondary_subgoal\": \"C knits the garment and frequently adjusts the thread.\",\n          \"start_timestamp\": 31794,\n          \"stop_timestamp\": 39586\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"C adjusts and knits the fabric multiple times.\",\n      \"start_timestamp\": 40294,\n      \"stop_timestamp\": 69627,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C adjusts the fabric and knits with a knitting needle, looking around occasionally.\",\n          \"start_timestamp\": 40294,\n          \"stop_timestamp\": 42719\n        },\n        {\n          \"secondary_subgoal\": \"C converses and occasionally looks around while knitting.\",\n          \"start_timestamp\": 42719,\n          \"stop_timestamp\": 69627\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"C knits the fabric while pulling and adjusting it frequently.\",\n      \"start_timestamp\": 72739,\n      \"stop_timestamp\": 81683,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C knits and pulls the fabric alternately.\",\n          \"start_timestamp\": 72739,\n          \"stop_timestamp\": 76970\n        },\n        {\n          \"secondary_subgoal\": \"C continues knitting and occasionally pulls the fabric, adjusts garment.\",\n          \"start_timestamp\": 76970,\n          \"stop_timestamp\": 81683\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"C knits the garment while looping the thread frequently.\",\n      \"start_timestamp\": 81683,\n      \"stop_timestamp\": 83310,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C knits the garment while looping the thread.\",\n          \"start_timestamp\": 81683,\n          \"stop_timestamp\": 83310\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"C looks around the verandah, converses, and moves their body.\",\n      \"start_timestamp\": 39106,\n      \"stop_timestamp\": 40294,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C converses while occasionally looking around.\",\n          \"start_timestamp\": 39106,\n          \"stop_timestamp\": 40294\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"C interacts with a piece of knitted fabric, adjusting and knitting.\",\n      \"start_timestamp\": 46827,\n      \"stop_timestamp\": 81683,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C adjusts the fabric and knits with a knitting needle.\",\n          \"start_timestamp\": 46827,\n          \"stop_timestamp\": 81683\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"C removes headgear and people in the scene adjust their positions.\",\n      \"start_timestamp\": 83057,\n      \"stop_timestamp\": 83410,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C removes headgear, person A sits on the chair.\",\n          \"start_timestamp\": 83057,\n          \"stop_timestamp\": 83410\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 5486,
+        "completion_tokens": 771,
+        "total_tokens": 6257
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

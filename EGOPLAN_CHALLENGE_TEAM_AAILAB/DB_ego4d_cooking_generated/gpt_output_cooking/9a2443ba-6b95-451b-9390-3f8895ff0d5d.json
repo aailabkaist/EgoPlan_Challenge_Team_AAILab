@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehIDW4IirjyAv8zwsPCMf5wecIYR",
+    "object": "chat.completion",
+    "created": 1719486565,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and serving a meal\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Obtaining necessary items from the fridge and cabinet\",\n      \"start_timestamp\": 59,\n      \"stop_timestamp\": 912,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Taking a packet from the cabinet\",\n          \"start_timestamp\": 59,\n          \"stop_timestamp\": 113\n        },\n        {\n          \"secondary_subgoal\": \"Walking away with the packet\",\n          \"start_timestamp\": 113,\n          \"stop_timestamp\": 138\n        },\n        {\n          \"secondary_subgoal\": \"Placing packet on table\",\n          \"start_timestamp\": 138,\n          \"stop_timestamp\": 152\n        },\n        {\n          \"secondary_subgoal\": \"Opening fridge and taking an item (string)\",\n          \"start_timestamp\": 655,\n          \"stop_timestamp\": 912\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing lettuce\",\n      \"start_timestamp\": 1269,\n      \"stop_timestamp\": 3857,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Placing sieve on the counter\",\n          \"start_timestamp\": 1285,\n          \"stop_timestamp\": 1445\n        },\n        {\n          \"secondary_subgoal\": \"Cutting the lettuce\",\n          \"start_timestamp\": 1482,\n          \"stop_timestamp\": 2995\n        },\n        {\n          \"secondary_subgoal\": \"Cutting coriander\",\n          \"start_timestamp\": 3008,\n          \"stop_timestamp\": 3299\n        },\n        {\n          \"secondary_subgoal\": \"Rinsing utensils\",\n          \"start_timestamp\": 3300,\n          \"stop_timestamp\": 3883\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking the meal\",\n      \"start_timestamp\": 4420,\n      \"stop_timestamp\": 7208,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Using microwave\",\n          \"start_timestamp\": 4420,\n          \"stop_timestamp\": 4593\n        },\n        {\n          \"secondary_subgoal\": \"Preparing rice with chopsticks\",\n          \"start_timestamp\": 4634,\n          \"stop_timestamp\": 5381 \n        },\n        {\n          \"secondary_subgoal\": \"Serving rice into the plate\",\n          \"start_timestamp\": 5381,\n          \"stop_timestamp\": 5503\n        },\n        {\n          \"secondary_subgoal\": \"Cooking eggs\",\n          \"start_timestamp\": 5514,\n          \"stop_timestamp\": 6833\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning utensils and organizing\",\n      \"start_timestamp\": 7800,\n      \"stop_timestamp\": 8418,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Washing the utensils in the sink\",\n          \"start_timestamp\": 7800,\n          \"stop_timestamp\": 8478\n        },\n        {\n          \"secondary_subgoal\": \"Putting the utensils back in the drawer\",\n          \"start_timestamp\": 8478,\n          \"stop_timestamp\": 8958\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finishing up\",\n      \"start_timestamp\": 11055,\n      \"stop_timestamp\": 11787,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Drying the utensils\",\n          \"start_timestamp\": 11055,\n          \"stop_timestamp\": 11343\n        },\n        {\n          \"secondary_subgoal\": \"Storing the utensils\",\n          \"start_timestamp\": 11343,\n          \"stop_timestamp\": 11428\n        },\n        {\n          \"secondary_subgoal\": \"Placing chopsticks in the food\",\n          \"start_timestamp\": 11607,\n          \"stop_timestamp\": 11787\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 5104,
+        "completion_tokens": 820,
+        "total_tokens": 5924
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

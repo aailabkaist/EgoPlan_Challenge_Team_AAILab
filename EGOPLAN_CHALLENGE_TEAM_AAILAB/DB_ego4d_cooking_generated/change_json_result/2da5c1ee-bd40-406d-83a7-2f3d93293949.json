@@ -1,0 +1,145 @@
+{
+    "overall_goal": "Prepare a dish involving eggs and flour mixture",
+    "clips": [
+        {
+            "subgoal": "Mix and prepare the eggs",
+            "start_timestamp": 0,
+            "stop_timestamp": 4558,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mix the eggs in a tin",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 998
+                },
+                {
+                    "secondary_subgoal": "Inspect and continue mixing the eggs",
+                    "start_timestamp": 998,
+                    "stop_timestamp": 1405
+                },
+                {
+                    "secondary_subgoal": "Add an unknown ingredient to the eggs",
+                    "start_timestamp": 1405,
+                    "stop_timestamp": 1534
+                },
+                {
+                    "secondary_subgoal": "Place the cup on the table and continue mixing",
+                    "start_timestamp": 1534,
+                    "stop_timestamp": 2965
+                },
+                {
+                    "secondary_subgoal": "Handle and place unidentified items",
+                    "start_timestamp": 2965,
+                    "stop_timestamp": 3440
+                },
+                {
+                    "secondary_subgoal": "Continue mixing the eggs",
+                    "start_timestamp": 3440,
+                    "stop_timestamp": 4421
+                },
+                {
+                    "secondary_subgoal": "Put the fork in the cup",
+                    "start_timestamp": 4421,
+                    "stop_timestamp": 4558
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle and organize kitchen items",
+            "start_timestamp": 4558,
+            "stop_timestamp": 6722,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Woman Y organizes pots",
+                    "start_timestamp": 4558,
+                    "stop_timestamp": 5565
+                },
+                {
+                    "secondary_subgoal": "C handles a storage pot",
+                    "start_timestamp": 5565,
+                    "stop_timestamp": 6114
+                },
+                {
+                    "secondary_subgoal": "C puts the storage pot on the table and walks around",
+                    "start_timestamp": 6114,
+                    "stop_timestamp": 6722
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the flour mixture",
+            "start_timestamp": 6722,
+            "stop_timestamp": 12201,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fix the camera and handle unidentified items",
+                    "start_timestamp": 6722,
+                    "stop_timestamp": 7117
+                },
+                {
+                    "secondary_subgoal": "Put rice in a plate and add flour",
+                    "start_timestamp": 7117,
+                    "stop_timestamp": 7686
+                },
+                {
+                    "secondary_subgoal": "Shake flour and handle unwanted flour",
+                    "start_timestamp": 7686,
+                    "stop_timestamp": 9014
+                },
+                {
+                    "secondary_subgoal": "Prepare flour in a glass and have a conversation",
+                    "start_timestamp": 9014,
+                    "stop_timestamp": 9496
+                },
+                {
+                    "secondary_subgoal": "Stir and stir flour mixture in various stages",
+                    "start_timestamp": 9496,
+                    "stop_timestamp": 10698
+                },
+                {
+                    "secondary_subgoal": "Point and give dish to person X",
+                    "start_timestamp": 10698,
+                    "stop_timestamp": 11211
+                },
+                {
+                    "secondary_subgoal": "Stir the flour mixture and person X walks away",
+                    "start_timestamp": 11211,
+                    "stop_timestamp": 12201
+                }
+            ]
+        },
+        {
+            "subgoal": "Add salt to the flour mixture",
+            "start_timestamp": 12201,
+            "stop_timestamp": 12864,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle salt can and add salt to mixture",
+                    "start_timestamp": 12201,
+                    "stop_timestamp": 12813
+                },
+                {
+                    "secondary_subgoal": "Put down salt can and spoon",
+                    "start_timestamp": 12813,
+                    "stop_timestamp": 12864
+                }
+            ]
+        },
+        {
+            "subgoal": "Perform final mixing and adjustments",
+            "start_timestamp": 12864,
+            "stop_timestamp": 16043,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir the flour mixture and interact with person X",
+                    "start_timestamp": 12864,
+                    "stop_timestamp": 15105
+                },
+                {
+                    "secondary_subgoal": "Handle and drop cooking utensils",
+                    "start_timestamp": 15105,
+                    "stop_timestamp": 16043
+                }
+            ]
+        }
+    ]
+}

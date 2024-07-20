@@ -1,0 +1,163 @@
+{
+    "overall_goal": "Prepare and cook minced meat with onion",
+    "clips": [
+        {
+            "subgoal": "Retrieve meat from fridge and prepare for cooking",
+            "start_timestamp": 55,
+            "stop_timestamp": 485,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open the fridge and take the meat",
+                    "start_timestamp": 55,
+                    "stop_timestamp": 106
+                },
+                {
+                    "secondary_subgoal": "Remove meat from packaging",
+                    "start_timestamp": 106,
+                    "stop_timestamp": 247
+                },
+                {
+                    "secondary_subgoal": "Dispose of packaging",
+                    "start_timestamp": 247,
+                    "stop_timestamp": 369
+                },
+                {
+                    "secondary_subgoal": "Open the packed meat",
+                    "start_timestamp": 369,
+                    "stop_timestamp": 485
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the meat for cooking",
+            "start_timestamp": 485,
+            "stop_timestamp": 925,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put meat in a bowl",
+                    "start_timestamp": 582,
+                    "stop_timestamp": 677
+                },
+                {
+                    "secondary_subgoal": "Place packaging in the sink",
+                    "start_timestamp": 677,
+                    "stop_timestamp": 710
+                },
+                {
+                    "secondary_subgoal": "Repeat opening and placing meat in the bowl",
+                    "start_timestamp": 710,
+                    "stop_timestamp": 925
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash up after meat preparation",
+            "start_timestamp": 1233,
+            "stop_timestamp": 1516,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash the plates and close the tap",
+                    "start_timestamp": 1233,
+                    "stop_timestamp": 1482
+                },
+                {
+                    "secondary_subgoal": "Shake and place the plate in the sink",
+                    "start_timestamp": 1482,
+                    "stop_timestamp": 1516
+                }
+            ]
+        },
+        {
+            "subgoal": "Dispose of waste and clean up",
+            "start_timestamp": 1516,
+            "stop_timestamp": 20418,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Collect and dispose of waste in polythene paper",
+                    "start_timestamp": 1516,
+                    "stop_timestamp": 1785
+                },
+                {
+                    "secondary_subgoal": "Open the drawer and look for something",
+                    "start_timestamp": 2062,
+                    "stop_timestamp": 2297
+                },
+                {
+                    "secondary_subgoal": "Close the drawer and place item on the table",
+                    "start_timestamp": 2297,
+                    "stop_timestamp": 2405
+                },
+                {
+                    "secondary_subgoal": "Open an item and pour it on the meat",
+                    "start_timestamp": 2405,
+                    "stop_timestamp": 3001
+                },
+                {
+                    "secondary_subgoal": "Wash the sachet and dispose",
+                    "start_timestamp": 3001,
+                    "stop_timestamp": 3368
+                },
+                {
+                    "secondary_subgoal": "Take and pour another item on the meat",
+                    "start_timestamp": 3422,
+                    "stop_timestamp": 3716
+                },
+                {
+                    "secondary_subgoal": "Place the sachet in the drawer",
+                    "start_timestamp": 3716,
+                    "stop_timestamp": 3816
+                },
+                {
+                    "secondary_subgoal": "Retrieve egg from the fridge, crack, and add to bowl",
+                    "start_timestamp": 3816,
+                    "stop_timestamp": 4191
+                },
+                {
+                    "secondary_subgoal": "Wash hands after handling egg",
+                    "start_timestamp": 4259,
+                    "stop_timestamp": 4592
+                },
+                {
+                    "secondary_subgoal": "Prepare supplementary containers and ingredients",
+                    "start_timestamp": 4637,
+                    "stop_timestamp": 5357
+                },
+                {
+                    "secondary_subgoal": "Mix ingredients in the bowl",
+                    "start_timestamp": 5399,
+                    "stop_timestamp": 6605
+                },
+                {
+                    "secondary_subgoal": "Retrieve and prepare onion",
+                    "start_timestamp": 6605,
+                    "stop_timestamp": 9143
+                },
+                {
+                    "secondary_subgoal": "Chop onion and add to bowl",
+                    "start_timestamp": 9121,
+                    "stop_timestamp": 10899
+                },
+                {
+                    "secondary_subgoal": "Mix onion with minced meat",
+                    "start_timestamp": 11001,
+                    "stop_timestamp": 12661
+                },
+                {
+                    "secondary_subgoal": "Clean up after mixing ingredients",
+                    "start_timestamp": 12731,
+                    "stop_timestamp": 13247
+                },
+                {
+                    "secondary_subgoal": "Prepare cooking utensils",
+                    "start_timestamp": 13347,
+                    "stop_timestamp": 14420
+                },
+                {
+                    "secondary_subgoal": "Handle and stir the minced meat during cooking",
+                    "start_timestamp": 14795,
+                    "stop_timestamp": 21156
+                }
+            ]
+        }
+    ]
+}

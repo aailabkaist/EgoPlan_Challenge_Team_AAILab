@@ -1,0 +1,56 @@
+{
+    "overall_goal": "Prepare flatbreads (chapatis) by kneading dough, rolling dough balls, and cooking them on a pan.",
+    "clips": [
+        {
+            "subgoal": "Knead dough for chapatis",
+            "start_timestamp": 508,
+            "stop_timestamp": 9266,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare initial dough",
+                    "start_timestamp": 508,
+                    "stop_timestamp": 3647
+                },
+                {
+                    "secondary_subgoal": "Knead the prepared dough",
+                    "start_timestamp": 3647,
+                    "stop_timestamp": 9266
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare chapati balls",
+            "start_timestamp": 9266,
+            "stop_timestamp": 10909,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Form chapati balls from dough",
+                    "start_timestamp": 9266,
+                    "stop_timestamp": 9387
+                },
+                {
+                    "secondary_subgoal": "Mix and handle dough with hands",
+                    "start_timestamp": 9387,
+                    "stop_timestamp": 10909
+                }
+            ]
+        },
+        {
+            "subgoal": "Roll and cook chapatis",
+            "start_timestamp": 10953,
+            "stop_timestamp": 100178,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Roll dough into flat discs",
+                    "start_timestamp": 10953,
+                    "stop_timestamp": 65456
+                },
+                {
+                    "secondary_subgoal": "Cook flatbreads on pan",
+                    "start_timestamp": 65456,
+                    "stop_timestamp": 100178
+                }
+            ]
+        }
+    ]
+}

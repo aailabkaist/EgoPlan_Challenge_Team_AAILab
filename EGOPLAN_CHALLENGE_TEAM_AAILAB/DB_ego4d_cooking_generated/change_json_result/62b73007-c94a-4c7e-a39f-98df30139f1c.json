@@ -1,0 +1,103 @@
+{
+    "overall_goal": "Cooking meat and preparing a meal.",
+    "clips": [
+        {
+            "subgoal": "Preparing meat and cooking it in a frying pot.",
+            "start_timestamp": 0,
+            "stop_timestamp": 1261,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Searching and picking essential items.",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 397
+                },
+                {
+                    "secondary_subgoal": "Handling and preparing meat.",
+                    "start_timestamp": 397,
+                    "stop_timestamp": 588
+                },
+                {
+                    "secondary_subgoal": "Cutting and seasoning meat.",
+                    "start_timestamp": 588,
+                    "stop_timestamp": 2346
+                },
+                {
+                    "secondary_subgoal": "Turning on the gas cooker and preparing frying pot.",
+                    "start_timestamp": 2346,
+                    "stop_timestamp": 2996
+                },
+                {
+                    "secondary_subgoal": "Cooking meat in the frying pot.",
+                    "start_timestamp": 2996,
+                    "stop_timestamp": 4577
+                },
+                {
+                    "secondary_subgoal": "Cutting and adding additional ingredients.",
+                    "start_timestamp": 4577,
+                    "stop_timestamp": 5784
+                },
+                {
+                    "secondary_subgoal": "Cooking meat with additional ingredients.",
+                    "start_timestamp": 5784,
+                    "stop_timestamp": 7963
+                }
+            ]
+        },
+        {
+            "subgoal": "Mixing the cooked meat with spaghetti and finishing the dish.",
+            "start_timestamp": 7963,
+            "stop_timestamp": 11487,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mixing meat, spaghetti, and other ingredients in the pot.",
+                    "start_timestamp": 7963,
+                    "stop_timestamp": 9085
+                },
+                {
+                    "secondary_subgoal": "Serving the cooked meat in a plate.",
+                    "start_timestamp": 9085,
+                    "stop_timestamp": 11274
+                },
+                {
+                    "secondary_subgoal": "Finishing the dish presentation.",
+                    "start_timestamp": 11274,
+                    "stop_timestamp": 11487
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning up and washing kitchen utensils.",
+            "start_timestamp": 11487,
+            "stop_timestamp": 17394,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning and washing various kitchen utensils.",
+                    "start_timestamp": 11487,
+                    "stop_timestamp": 16512
+                },
+                {
+                    "secondary_subgoal": "Putting away cleaned utensils and organizing kitchen.",
+                    "start_timestamp": 16512,
+                    "stop_timestamp": 17394
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning up the kitchen area.",
+            "start_timestamp": 17394,
+            "stop_timestamp": 18864,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning sink and wiping down surfaces.",
+                    "start_timestamp": 17394,
+                    "stop_timestamp": 17967
+                },
+                {
+                    "secondary_subgoal": "Organizing and final cleaning of kitchen area.",
+                    "start_timestamp": 17967,
+                    "stop_timestamp": 18864
+                }
+            ]
+        }
+    ]
+}

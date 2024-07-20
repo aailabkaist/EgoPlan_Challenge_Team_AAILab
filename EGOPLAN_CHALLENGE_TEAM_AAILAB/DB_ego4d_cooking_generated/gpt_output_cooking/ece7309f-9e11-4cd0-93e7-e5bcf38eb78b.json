@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egkwADP2sl0zCZo0fHXfxJEXIJrU",
+    "object": "chat.completion",
+    "created": 1719484502,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal including washing, cutting, and cooking ingredients.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Clean and prepare the chopping board\",\n      \"start_timestamp\": 111,\n      \"stop_timestamp\": 1133,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Take and wash the chopping board\",\n          \"start_timestamp\": 111,\n          \"stop_timestamp\": 628\n        },\n        {\n          \"secondary_subgoal\": \"Rinse and dry the chopping board\",\n          \"start_timestamp\": 628,\n          \"stop_timestamp\": 1133\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare ingredients (Eggs, Onion, and Meat)\",\n      \"start_timestamp\": 1133,\n      \"stop_timestamp\": 16755,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Take out eggs and place meat in the fridge\",\n          \"start_timestamp\": 1133,\n          \"stop_timestamp\": 1479\n        },\n        {\n          \"secondary_subgoal\": \"Dispose of eggs' seal\",\n          \"start_timestamp\": 1479,\n          \"stop_timestamp\": 1503\n        },\n        {\n          \"secondary_subgoal\": \"Pick and close ingredients\",\n          \"start_timestamp\": 1503,\n          \"stop_timestamp\": 1621\n        },\n        {\n          \"secondary_subgoal\": \"Prepare and rinse the knife\",\n          \"start_timestamp\": 1762,\n          \"stop_timestamp\": 1890\n        },\n        {\n          \"secondary_subgoal\": \"Cut, peel, and dispose of onion peels\",\n          \"start_timestamp\": 1890,\n          \"stop_timestamp\": 2430\n        },\n        {\n          \"secondary_subgoal\": \"Chop the onions and prepare for cooking\",\n          \"start_timestamp\": 2430,\n          \"stop_timestamp\": 15503\n        },\n        {\n          \"secondary_subgoal\": \"Put onions in the pot and clean hands\",\n          \"start_timestamp\": 15503,\n          \"stop_timestamp\": 15755\n        },\n        {\n          \"secondary_subgoal\": \"Stir onions in the pot\",\n          \"start_timestamp\": 15755,\n          \"stop_timestamp\": 16078\n        },\n        {\n          \"secondary_subgoal\": \"Remove meat from plastic container and cut it\",\n          \"start_timestamp\": 16078,\n          \"stop_timestamp\": 16559\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Add and cook meat and onions in the pot\",\n      \"start_timestamp\": 16559,\n      \"stop_timestamp\": 18980,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Collect and add meat to pot\",\n          \"start_timestamp\": 16559,\n          \"stop_timestamp\": 17064\n        },\n        {\n          \"secondary_subgoal\": \"Wash hands and shake dry\",\n          \"start_timestamp\": 17064,\n          \"stop_timestamp\": 17497\n        },\n        {\n          \"secondary_subgoal\": \"Add spices and stir the food\",\n          \"start_timestamp\": 18401,\n          \"stop_timestamp\": 18980\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up used items\",\n      \"start_timestamp\": 18980,\n      \"stop_timestamp\": 21339,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash spice glass and cutlery\",\n          \"start_timestamp\": 19182,\n          \"stop_timestamp\": 19450\n        },\n        {\n          \"secondary_subgoal\": \"Dry and store the cleaned glass\",\n          \"start_timestamp\": 19450,\n          \"stop_timestamp\": 19884\n        },\n        {\n          \"secondary_subgoal\": \"Clean and store the knife\",\n          \"start_timestamp\": 19884,\n          \"stop_timestamp\": 20990\n        },\n        {\n          \"secondary_subgoal\": \"Wash and store the chopping board\",\n          \"start_timestamp\": 21014,\n          \"stop_timestamp\": 21339\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4114,
+        "completion_tokens": 864,
+        "total_tokens": 4978
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

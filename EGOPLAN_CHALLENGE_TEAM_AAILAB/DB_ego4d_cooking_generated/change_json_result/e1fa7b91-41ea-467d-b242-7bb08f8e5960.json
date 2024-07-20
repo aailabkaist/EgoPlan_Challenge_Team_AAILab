@@ -1,0 +1,160 @@
+{
+    "overall_goal": "Prepare and cook a meal using various ingredients",
+    "clips": [
+        {
+            "subgoal": "Prepare onion and beans",
+            "start_timestamp": 0,
+            "stop_timestamp": 1730,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold and cut an onion",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 92
+                },
+                {
+                    "secondary_subgoal": "Put down the onion pieces",
+                    "start_timestamp": 92,
+                    "stop_timestamp": 210
+                },
+                {
+                    "secondary_subgoal": "Cut the onion on the chop board",
+                    "start_timestamp": 210,
+                    "stop_timestamp": 423
+                },
+                {
+                    "secondary_subgoal": "Put the knife down and fold onion",
+                    "start_timestamp": 423,
+                    "stop_timestamp": 619
+                },
+                {
+                    "secondary_subgoal": "Put aside the folded onion",
+                    "start_timestamp": 619,
+                    "stop_timestamp": 652
+                },
+                {
+                    "secondary_subgoal": "Make a sound and put knife on chop board",
+                    "start_timestamp": 652,
+                    "stop_timestamp": 874
+                },
+                {
+                    "secondary_subgoal": "Open fridge and take French beans",
+                    "start_timestamp": 985,
+                    "stop_timestamp": 1113
+                },
+                {
+                    "secondary_subgoal": "Close fridge and take scissors",
+                    "start_timestamp": 1113,
+                    "stop_timestamp": 1379
+                },
+                {
+                    "secondary_subgoal": "Cut and put down the polythene paper",
+                    "start_timestamp": 1379,
+                    "stop_timestamp": 1607
+                },
+                {
+                    "secondary_subgoal": "Wash the French beans",
+                    "start_timestamp": 1607,
+                    "stop_timestamp": 1730
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook French beans",
+            "start_timestamp": 1730,
+            "stop_timestamp": 3302,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut French beans",
+                    "start_timestamp": 1730,
+                    "stop_timestamp": 2349
+                },
+                {
+                    "secondary_subgoal": "Wash hands and cherry tomatoes",
+                    "start_timestamp": 2693,
+                    "stop_timestamp": 3211
+                },
+                {
+                    "secondary_subgoal": "Touch pot, pour oil and return bottle",
+                    "start_timestamp": 3384,
+                    "stop_timestamp": 3520
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and add meat to the cooking pot",
+            "start_timestamp": 3520,
+            "stop_timestamp": 9429,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open fridge and take meat",
+                    "start_timestamp": 3520,
+                    "stop_timestamp": 3734
+                },
+                {
+                    "secondary_subgoal": "Open disposal dish and put meat on chop board",
+                    "start_timestamp": 4000,
+                    "stop_timestamp": 4132
+                },
+                {
+                    "secondary_subgoal": "Cut meat",
+                    "start_timestamp": 4842,
+                    "stop_timestamp": 4900
+                },
+                {
+                    "secondary_subgoal": "Wash hands",
+                    "start_timestamp": 5006,
+                    "stop_timestamp": 5233
+                },
+                {
+                    "secondary_subgoal": "Put on cooker and take oil",
+                    "start_timestamp": 5420,
+                    "stop_timestamp": 5495
+                },
+                {
+                    "secondary_subgoal": "Return bottle and handle",
+                    "start_timestamp": 5561,
+                    "stop_timestamp": 5667
+                },
+                {
+                    "secondary_subgoal": "Stir onions and add meat",
+                    "start_timestamp": 7638,
+                    "stop_timestamp": 8745
+                },
+                {
+                    "secondary_subgoal": "Stir meat and add salt",
+                    "start_timestamp": 9028,
+                    "stop_timestamp": 9429
+                }
+            ]
+        },
+        {
+            "subgoal": "Add various ingredients and cook",
+            "start_timestamp": 10495,
+            "stop_timestamp": 17075,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add and stir cucumber",
+                    "start_timestamp": 10495,
+                    "stop_timestamp": 11137
+                },
+                {
+                    "secondary_subgoal": "Add and stir spices",
+                    "start_timestamp": 16158,
+                    "stop_timestamp": 17075
+                }
+            ]
+        },
+        {
+            "subgoal": "Final preparations and seasoning",
+            "start_timestamp": 20799,
+            "stop_timestamp": 21228,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taste and add salt",
+                    "start_timestamp": 20954,
+                    "stop_timestamp": 21228
+                }
+            ]
+        }
+    ]
+}

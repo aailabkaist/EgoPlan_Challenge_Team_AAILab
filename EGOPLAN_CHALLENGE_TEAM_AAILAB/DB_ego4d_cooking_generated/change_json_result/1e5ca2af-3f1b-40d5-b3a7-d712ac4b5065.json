@@ -1,0 +1,328 @@
+{
+    "overall_goal": "Prepare a meal and beverage involving tea, oats, and a banana.",
+    "clips": [
+        {
+            "subgoal": "Boil water and prepare tea",
+            "start_timestamp": 80,
+            "stop_timestamp": 7701,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Boil water",
+                    "start_timestamp": 80,
+                    "stop_timestamp": 542,
+                    "actions": [
+                        {
+                            "description": "C picks a kettle",
+                            "timestamp": 80
+                        },
+                        {
+                            "description": "C puts water into the kettle",
+                            "timestamp": 204
+                        },
+                        {
+                            "description": "C connects the kettle to the power base",
+                            "timestamp": 467
+                        }
+                    ]
+                },
+                {
+                    "secondary_subgoal": "Prepare tea",
+                    "start_timestamp": 682,
+                    "stop_timestamp": 7701,
+                    "actions": [
+                        {
+                            "description": "C opens a cabinet",
+                            "timestamp": 682
+                        },
+                        {
+                            "description": "C picks a tea pot",
+                            "timestamp": 881
+                        },
+                        {
+                            "description": "C places the tea pot on a stove",
+                            "timestamp": 1116
+                        },
+                        {
+                            "description": "C puts detergent on a sponge",
+                            "timestamp": 1182
+                        },
+                        {
+                            "description": "C washes utensils",
+                            "timestamp": 1182
+                        },
+                        {
+                            "description": "C wipes the hands",
+                            "timestamp": 5602
+                        },
+                        {
+                            "description": "C opens a fridge",
+                            "timestamp": 5658
+                        },
+                        {
+                            "description": "C picks a packet of #unsure",
+                            "timestamp": 5723
+                        },
+                        {
+                            "description": "C unwraps the packet",
+                            "timestamp": 5961
+                        },
+                        {
+                            "description": "C opens the tea pot",
+                            "timestamp": 6284
+                        },
+                        {
+                            "description": "C pours #unsure into tea pot cap",
+                            "timestamp": 6543
+                        },
+                        {
+                            "description": "C puts water into the tea pot",
+                            "timestamp": 6818
+                        },
+                        {
+                            "description": "C puts down the kettle",
+                            "timestamp": 7259
+                        },
+                        {
+                            "description": "C closes the tea pot",
+                            "timestamp": 7314
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare oats and milk",
+            "start_timestamp": 8039,
+            "stop_timestamp": 16640,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Unwrap and pour oats",
+                    "start_timestamp": 8418,
+                    "stop_timestamp": 10777,
+                    "actions": [
+                        {
+                            "description": "C picks packets of #unsure",
+                            "timestamp": 8418
+                        },
+                        {
+                            "description": "C puts down the packet",
+                            "timestamp": 8496
+                        },
+                        {
+                            "description": "C unites the packet",
+                            "timestamp": 8551
+                        },
+                        {
+                            "description": "C opens a cabinet",
+                            "timestamp": 8597
+                        },
+                        {
+                            "description": "C picks a bowl",
+                            "timestamp": 8714
+                        },
+                        {
+                            "description": "C closes the cabinet",
+                            "timestamp": 8763
+                        },
+                        {
+                            "description": "C unites the packet",
+                            "timestamp": 9050
+                        },
+                        {
+                            "description": "C puts whole grain food into the bowl",
+                            "timestamp": 10086
+                        },
+                        {
+                            "description": "C opens a cabinet",
+                            "timestamp": 10116
+                        },
+                        {
+                            "description": "C picks a packet",
+                            "timestamp": 10520
+                        },
+                        {
+                            "description": "C opens a drawer",
+                            "timestamp": 10558
+                        },
+                        {
+                            "description": "C picks a scissors",
+                            "timestamp": 10596
+                        },
+                        {
+                            "description": "C cuts the packet",
+                            "timestamp": 10703
+                        }
+                    ]
+                },
+                {
+                    "secondary_subgoal": "Prepare and serve oats with milk",
+                    "start_timestamp": 10777,
+                    "stop_timestamp": 15716,
+                    "actions": [
+                        {
+                            "description": "C puts the scissors in a drawer",
+                            "timestamp": 10777
+                        },
+                        {
+                            "description": "C serves oats in a bowl",
+                            "timestamp": 11752
+                        },
+                        {
+                            "description": "C picks a spoon",
+                            "timestamp": 11942
+                        },
+                        {
+                            "description": "C adds milk to the oats",
+                            "timestamp": 12198
+                        },
+                        {
+                            "description": "C stirs the oats",
+                            "timestamp": 12291
+                        },
+                        {
+                            "description": "C tastes the oats",
+                            "timestamp": 12389
+                        },
+                        {
+                            "description": "C warms food in a microwave",
+                            "timestamp": 12615
+                        },
+                        {
+                            "description": "C opens a tea pot",
+                            "timestamp": 12702
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut and mix banana with grains",
+            "start_timestamp": 16640,
+            "stop_timestamp": 19649,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and peel banana",
+                    "start_timestamp": 16640,
+                    "stop_timestamp": 18557,
+                    "actions": [
+                        {
+                            "description": "C cuts a banana",
+                            "timestamp": 16640
+                        },
+                        {
+                            "description": "C opens the drawer",
+                            "timestamp": 16699
+                        },
+                        {
+                            "description": "C picks a cutlery knife",
+                            "timestamp": 17291
+                        },
+                        {
+                            "description": "C peels the banana",
+                            "timestamp": 17884
+                        },
+                        {
+                            "description": "C cuts the banana to the bowl",
+                            "timestamp": 18392
+                        },
+                        {
+                            "description": "C opens the drawer",
+                            "timestamp": 18413
+                        },
+                        {
+                            "description": "C puts knife into the drawer",
+                            "timestamp": 18557
+                        }
+                    ]
+                },
+                {
+                    "secondary_subgoal": "Mix banana with grains",
+                    "start_timestamp": 18557,
+                    "stop_timestamp": 19649,
+                    "actions": [
+                        {
+                            "description": "C washes the hands",
+                            "timestamp": 18688
+                        },
+                        {
+                            "description": "C mixes the banana with #unsure",
+                            "timestamp": 19160
+                        },
+                        {
+                            "description": "C puts #unsure in to the bowl",
+                            "timestamp": 19649
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subgoal": "Seal and store packets",
+            "start_timestamp": 19896,
+            "stop_timestamp": 20239,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Seal and store",
+                    "start_timestamp": 19896,
+                    "stop_timestamp": 20239,
+                    "actions": [
+                        {
+                            "description": "C seals packet of #unsure",
+                            "timestamp": 19896
+                        },
+                        {
+                            "description": "C opens a fridge",
+                            "timestamp": 19969
+                        },
+                        {
+                            "description": "C puts a bottle in to a fridge",
+                            "timestamp": 20059
+                        },
+                        {
+                            "description": "C closes a microwave",
+                            "timestamp": 20229
+                        },
+                        {
+                            "description": "C picks the bowl",
+                            "timestamp": 20239
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish preparing meal",
+            "start_timestamp": 20239,
+            "stop_timestamp": 20839,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mix food in the bowl",
+                    "start_timestamp": 20239,
+                    "stop_timestamp": 20839,
+                    "actions": [
+                        {
+                            "description": "C mixes food in the bowl",
+                            "timestamp": 20498
+                        },
+                        {
+                            "description": "C puts down the bowl",
+                            "timestamp": 20549
+                        },
+                        {
+                            "description": "C touches #unsure",
+                            "timestamp": 20627
+                        },
+                        {
+                            "description": "C picks the bowl",
+                            "timestamp": 20739
+                        },
+                        {
+                            "description": "C puts down the bowl",
+                            "timestamp": 20839
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

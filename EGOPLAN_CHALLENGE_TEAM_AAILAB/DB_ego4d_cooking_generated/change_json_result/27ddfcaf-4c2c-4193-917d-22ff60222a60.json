@@ -1,0 +1,29 @@
+{
+    "overall_goal": "Observing surroundings by raising hands and looking around",
+    "clips": [
+        {
+            "subgoal": "Raising hands to start observation",
+            "start_timestamp": 46026,
+            "stop_timestamp": 46467,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Raising hands",
+                    "start_timestamp": 46026,
+                    "stop_timestamp": 46467
+                }
+            ]
+        },
+        {
+            "subgoal": "Looking around to observe surroundings",
+            "start_timestamp": 46467,
+            "stop_timestamp": 46567,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Looking around",
+                    "start_timestamp": 46467,
+                    "stop_timestamp": 46567
+                }
+            ]
+        }
+    ]
+}

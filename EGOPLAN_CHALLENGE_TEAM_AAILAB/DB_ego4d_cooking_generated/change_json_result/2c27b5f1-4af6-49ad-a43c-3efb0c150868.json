@@ -1,0 +1,93 @@
+{
+    "overall_goal": "Prepare food and store it properly",
+    "clips": [
+        {
+            "subgoal": "Cook food in the cooking pot",
+            "start_timestamp": 134,
+            "stop_timestamp": 7112,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir food and handle cooking pot and utensils",
+                    "start_timestamp": 134,
+                    "stop_timestamp": 747
+                },
+                {
+                    "secondary_subgoal": "Prepare and handle the blender",
+                    "start_timestamp": 747,
+                    "stop_timestamp": 3026
+                },
+                {
+                    "secondary_subgoal": "Blend ingredients",
+                    "start_timestamp": 3026,
+                    "stop_timestamp": 4094
+                },
+                {
+                    "secondary_subgoal": "Clean and handle containers",
+                    "start_timestamp": 4094,
+                    "stop_timestamp": 6309
+                },
+                {
+                    "secondary_subgoal": "Pour blended contents into the cooking pot",
+                    "start_timestamp": 6309,
+                    "stop_timestamp": 7202
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up used utensils and workspace",
+            "start_timestamp": 7202,
+            "stop_timestamp": 12286,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and place blender components",
+                    "start_timestamp": 7202,
+                    "stop_timestamp": 8058
+                },
+                {
+                    "secondary_subgoal": "Cover and store containers",
+                    "start_timestamp": 8058,
+                    "stop_timestamp": 8718
+                },
+                {
+                    "secondary_subgoal": "Clean other utensils and functional areas",
+                    "start_timestamp": 8718,
+                    "stop_timestamp": 12347
+                }
+            ]
+        },
+        {
+            "subgoal": "Pack food into bags",
+            "start_timestamp": 12347,
+            "stop_timestamp": 27982,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move around and handle utensils",
+                    "start_timestamp": 12347,
+                    "stop_timestamp": 21501
+                },
+                {
+                    "secondary_subgoal": "Pack food into bags completely",
+                    "start_timestamp": 21501,
+                    "stop_timestamp": 27982
+                }
+            ]
+        },
+        {
+            "subgoal": "Store the packed food",
+            "start_timestamp": 27982,
+            "stop_timestamp": 42908,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place packed food into the freezer",
+                    "start_timestamp": 27982,
+                    "stop_timestamp": 41781
+                },
+                {
+                    "secondary_subgoal": "Put away jars and clean up",
+                    "start_timestamp": 41781,
+                    "stop_timestamp": 42908
+                }
+            ]
+        }
+    ]
+}

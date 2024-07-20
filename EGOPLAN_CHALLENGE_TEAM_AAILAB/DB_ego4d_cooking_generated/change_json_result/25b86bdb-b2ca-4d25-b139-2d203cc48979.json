@@ -1,0 +1,115 @@
+{
+    "overall_goal": "Prepare and sort grains for storage by cleaning and separating unwanted elements, then transfer them to a storage container.",
+    "clips": [
+        {
+            "subgoal": "Sort grains manually to separate unwanted particles",
+            "start_timestamp": 1,
+            "stop_timestamp": 32200,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Initial sorting of grains in the basket",
+                    "start_timestamp": 1,
+                    "stop_timestamp": 151
+                },
+                {
+                    "secondary_subgoal": "Repeat sorting, shaking, and separating grains",
+                    "start_timestamp": 151,
+                    "stop_timestamp": 31129
+                },
+                {
+                    "secondary_subgoal": "Final manual sorting and placing grains in basket",
+                    "start_timestamp": 31129,
+                    "stop_timestamp": 32200
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle grains, pour into vessel for further processing",
+            "start_timestamp": 32200,
+            "stop_timestamp": 12656,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjust vessel, pour grains in metal pot into container",
+                    "start_timestamp": 32200,
+                    "stop_timestamp": 12989
+                },
+                {
+                    "secondary_subgoal": "Collect grains from sack, pour into basket",
+                    "start_timestamp": 12989,
+                    "stop_timestamp": 12498
+                },
+                {
+                    "secondary_subgoal": "Tilt and adjust vessel, pour grains",
+                    "start_timestamp": 12498,
+                    "stop_timestamp": 12656
+                }
+            ]
+        },
+        {
+            "subgoal": "Scooping and pouring grains into storage container",
+            "start_timestamp": 12656,
+            "stop_timestamp": 14012,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Collect grains with metal pot, pour into vessel",
+                    "start_timestamp": 12656,
+                    "stop_timestamp": 13621
+                },
+                {
+                    "secondary_subgoal": "Tilt vessel, pour grains",
+                    "start_timestamp": 13621,
+                    "stop_timestamp": 14012
+                }
+            ]
+        },
+        {
+            "subgoal": "Sort grains using storage container and winnowing basket",
+            "start_timestamp": 14012,
+            "stop_timestamp": 62290,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Collect, pour grains from basket into storage container",
+                    "start_timestamp": 14012,
+                    "stop_timestamp": 16772
+                },
+                {
+                    "secondary_subgoal": "Tilt, pour, sort grains in basket and storage container",
+                    "start_timestamp": 16772,
+                    "stop_timestamp": 31086
+                },
+                {
+                    "secondary_subgoal": "Winnow rice and sort chaff from grains",
+                    "start_timestamp": 31086,
+                    "stop_timestamp": 45008
+                }
+            ]
+        },
+        {
+            "subgoal": "Final adjustments and winnowing of rice",
+            "start_timestamp": 45008,
+            "stop_timestamp": 63243,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjust winnowing basket, handle sacks of rice",
+                    "start_timestamp": 45008,
+                    "stop_timestamp": 49814
+                },
+                {
+                    "secondary_subgoal": "Sort using hands, throw away chaff, complete winnowing",
+                    "start_timestamp": 49814,
+                    "stop_timestamp": 53256
+                },
+                {
+                    "secondary_subgoal": "Handle storage container, cork and seal rice",
+                    "start_timestamp": 53256,
+                    "stop_timestamp": 61211
+                },
+                {
+                    "secondary_subgoal": "Final adjustments to storage container and winnowing basket",
+                    "start_timestamp": 61211,
+                    "stop_timestamp": 63243
+                }
+            ]
+        }
+    ]
+}

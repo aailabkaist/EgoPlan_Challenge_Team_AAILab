@@ -1,0 +1,652 @@
+[
+    {
+        "task_goal": "Locking the drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C locks up the drawer",
+                "start_frame": 57,
+                "stop_frame": 90
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 90,
+                "stop_frame": 182
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C locks up the drawer",
+                "start_frame": 57,
+                "stop_frame": 90
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 90,
+                "stop_frame": 182
+            },
+            {
+                "narration_text": "#C C stirs up #unsure with a chop stick",
+                "start_frame": 182,
+                "stop_frame": 583
+            }
+        ]
+    },
+    {
+        "task_goal": "Stirring contents with chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 90,
+                "stop_frame": 182
+            },
+            {
+                "narration_text": "#C C stirs up #unsure with a chop stick",
+                "start_frame": 182,
+                "stop_frame": 583
+            },
+            {
+                "narration_text": "#C C picks up #unsure",
+                "start_frame": 583,
+                "stop_frame": 703
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling contents",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stirs up #unsure with a chop stick",
+                "start_frame": 182,
+                "stop_frame": 583
+            },
+            {
+                "narration_text": "#C C picks up #unsure",
+                "start_frame": 583,
+                "stop_frame": 703
+            },
+            {
+                "narration_text": "#C C puts #unsure on the sink top",
+                "start_frame": 703,
+                "stop_frame": 797
+            },
+            {
+                "narration_text": "#C C opens up #unsure",
+                "start_frame": 797,
+                "stop_frame": 904
+            },
+            {
+                "narration_text": "#C C places# #unsure on the sink top",
+                "start_frame": 904,
+                "stop_frame": 989
+            },
+            {
+                "narration_text": "#C C stirs up #unsure with a chop stick",
+                "start_frame": 989,
+                "stop_frame": 4203
+            }
+        ]
+    },
+    {
+        "task_goal": "Stirring contents with chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places# #unsure on the sink top",
+                "start_frame": 904,
+                "stop_frame": 989
+            },
+            {
+                "narration_text": "#C C stirs up #unsure with a chop stick",
+                "start_frame": 989,
+                "stop_frame": 4203
+            },
+            {
+                "narration_text": "#O person X opens the drawer",
+                "start_frame": 4203,
+                "stop_frame": 4364
+            }
+        ]
+    },
+    {
+        "task_goal": "Person X interacting with drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stirs up #unsure with a chop stick",
+                "start_frame": 989,
+                "stop_frame": 4203
+            },
+            {
+                "narration_text": "#O person X opens the drawer",
+                "start_frame": 4203,
+                "stop_frame": 4364
+            },
+            {
+                "narration_text": "#O person X walks away",
+                "start_frame": 4364,
+                "stop_frame": 4365
+            },
+            {
+                "narration_text": "#C C stirs up #unsure with a chop stick",
+                "start_frame": 4365,
+                "stop_frame": 4479
+            }
+        ]
+    },
+    {
+        "task_goal": "Stirring contents with chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#O person X walks away",
+                "start_frame": 4364,
+                "stop_frame": 4365
+            },
+            {
+                "narration_text": "#C C stirs up #unsure with a chop stick",
+                "start_frame": 4365,
+                "stop_frame": 4479
+            },
+            {
+                "narration_text": "#C C picks the storage bag",
+                "start_frame": 4479,
+                "stop_frame": 4582
+            },
+            {
+                "narration_text": "#C C stirs up #unsure with a chop stick",
+                "start_frame": 4582,
+                "stop_frame": 4627
+            },
+            {
+                "narration_text": "#O person X washes his hands",
+                "start_frame": 4627,
+                "stop_frame": 4658
+            },
+            {
+                "narration_text": "#C C stirs up #unsure with a chop stick",
+                "start_frame": 4658,
+                "stop_frame": 4878
+            },
+            {
+                "narration_text": "#C C picks the storage bag",
+                "start_frame": 4878,
+                "stop_frame": 5152
+            },
+            {
+                "narration_text": "#C C opens up the storage bag",
+                "start_frame": 5152,
+                "stop_frame": 5340
+            },
+            {
+                "narration_text": "#C C scoops #unsure from the storage bag",
+                "start_frame": 5340,
+                "stop_frame": 5411
+            },
+            {
+                "narration_text": "#C C pours #unsure in the pan",
+                "start_frame": 5411,
+                "stop_frame": 5565
+            }
+        ]
+    },
+    {
+        "task_goal": "Pouring and storing contents",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C scoops #unsure from the storage bag",
+                "start_frame": 5340,
+                "stop_frame": 5411
+            },
+            {
+                "narration_text": "#C C pours #unsure in the pan",
+                "start_frame": 5411,
+                "stop_frame": 5565
+            },
+            {
+                "narration_text": "#C C zips the storage bag",
+                "start_frame": 5565,
+                "stop_frame": 5650
+            },
+            {
+                "narration_text": "#C C puts the storage bag on the stand",
+                "start_frame": 5650,
+                "stop_frame": 5880
+            },
+            {
+                "narration_text": "#C C stirs up #unsure with , a chop stick",
+                "start_frame": 5880,
+                "stop_frame": 6315
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts on the tap",
+                "start_frame": 6370,
+                "stop_frame": 6389
+            },
+            {
+                "narration_text": "#C C washes the hands",
+                "start_frame": 6389,
+                "stop_frame": 6573
+            },
+            {
+                "narration_text": "#C C turns off the tap",
+                "start_frame": 6573,
+                "stop_frame": 6713
+            },
+            {
+                "narration_text": "#C C picks the bowl",
+                "start_frame": 6713,
+                "stop_frame": 6787
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling bowl and drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the bowl",
+                "start_frame": 6713,
+                "stop_frame": 6787
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 6787,
+                "stop_frame": 6870
+            },
+            {
+                "narration_text": "#C C puts the bowl in the drawer",
+                "start_frame": 6870,
+                "stop_frame": 6916
+            },
+            {
+                "narration_text": "#C C locks the drawer",
+                "start_frame": 6916,
+                "stop_frame": 6960
+            },
+            {
+                "narration_text": "#C C stirs up #unsure with a chop stick",
+                "start_frame": 6960,
+                "stop_frame": 7013
+            },
+            {
+                "narration_text": "# O person X washes a fruit",
+                "start_frame": 7013,
+                "stop_frame": 7052
+            }
+        ]
+    },
+    {
+        "task_goal": "Stirring contents with chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stirs up #unsure with a chop stick",
+                "start_frame": 6960,
+                "stop_frame": 7013
+            },
+            {
+                "narration_text": "# O person X washes a fruit",
+                "start_frame": 7013,
+                "stop_frame": 7052
+            },
+            {
+                "narration_text": "#C C stirs up #unsure with a chop stick",
+                "start_frame": 7052,
+                "stop_frame": 8226
+            },
+            {
+                "narration_text": "# O person X opens the drawer",
+                "start_frame": 8226,
+                "stop_frame": 8228
+            },
+            {
+                "narration_text": "#C C stirs up #unsure with a chop stick",
+                "start_frame": 8228,
+                "stop_frame": 8327
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 8327,
+                "stop_frame": 8586
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stirs up #unsure with a chop stick",
+                "start_frame": 8228,
+                "stop_frame": 8327
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 8327,
+                "stop_frame": 8586
+            },
+            {
+                "narration_text": "#C C picks a serviettes on the table",
+                "start_frame": 8586,
+                "stop_frame": 8625
+            },
+            {
+                "narration_text": "#C C walks around the house",
+                "start_frame": 8625,
+                "stop_frame": 8715
+            },
+            {
+                "narration_text": "#C C holds the foil paper",
+                "start_frame": 8715,
+                "stop_frame": 8716
+            }
+        ]
+    },
+    {
+        "task_goal": "Wiping foil paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around the house",
+                "start_frame": 8625,
+                "stop_frame": 8715
+            },
+            {
+                "narration_text": "#C C holds the foil paper",
+                "start_frame": 8715,
+                "stop_frame": 8716
+            },
+            {
+                "narration_text": "#C C wipes the foil paper with a serviette",
+                "start_frame": 8716,
+                "stop_frame": 8752
+            },
+            {
+                "narration_text": "#C C holds the foil paper",
+                "start_frame": 8752,
+                "stop_frame": 8768
+            },
+            {
+                "narration_text": "#C C wipes the foil paper with a serviette",
+                "start_frame": 8768,
+                "stop_frame": 8864
+            },
+            {
+                "narration_text": "#C C looks at the serviette",
+                "start_frame": 8864,
+                "stop_frame": 8885
+            },
+            {
+                "narration_text": "#C C holds the foil paper",
+                "start_frame": 8885,
+                "stop_frame": 8886
+            },
+            {
+                "narration_text": "#C C wipes the foil paper with a serviette",
+                "start_frame": 8886,
+                "stop_frame": 9511
+            },
+            {
+                "narration_text": "#C C walks around the house",
+                "start_frame": 9511,
+                "stop_frame": 9565
+            }
+        ]
+    },
+    {
+        "task_goal": "Disposing of serviette",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C wipes the foil paper with a serviette",
+                "start_frame": 8886,
+                "stop_frame": 9511
+            },
+            {
+                "narration_text": "#C C walks around the house",
+                "start_frame": 9511,
+                "stop_frame": 9565
+            },
+            {
+                "narration_text": "#C C bends downwards",
+                "start_frame": 9565,
+                "stop_frame": 9577
+            },
+            {
+                "narration_text": "#C C puts the serviette paper in the plastic bag",
+                "start_frame": 9577,
+                "stop_frame": 9588
+            },
+            {
+                "narration_text": "#C C stands up",
+                "start_frame": 9588,
+                "stop_frame": 9596
+            }
+        ]
+    },
+    {
+        "task_goal": "Switching off gas cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around the house",
+                "start_frame": 9596,
+                "stop_frame": 9628
+            },
+            {
+                "narration_text": "#C C switches off the gas cooker",
+                "start_frame": 9628,
+                "stop_frame": 9656
+            },
+            {
+                "narration_text": "#C C picks the chop sticks",
+                "start_frame": 9656,
+                "stop_frame": 9696
+            }
+        ]
+    },
+    {
+        "task_goal": "Stirring contents with chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C switches off the gas cooker",
+                "start_frame": 9628,
+                "stop_frame": 9656
+            },
+            {
+                "narration_text": "#C C picks the chop sticks",
+                "start_frame": 9656,
+                "stop_frame": 9696
+            },
+            {
+                "narration_text": "#C C stirs pieces of #unsure with chop sticks in a cooking pan",
+                "start_frame": 9696,
+                "stop_frame": 9849
+            },
+            {
+                "narration_text": "#C C picks the cooking pan",
+                "start_frame": 9849,
+                "stop_frame": 9937
+            },
+            {
+                "narration_text": "#C C scoops pieces of #unsure with chop sticks into a bowl",
+                "start_frame": 9937,
+                "stop_frame": 10215
+            },
+            {
+                "narration_text": "#C C stirs pieces of #unsure with chop sticks in a bowl",
+                "start_frame": 10215,
+                "stop_frame": 10282
+            },
+            {
+                "narration_text": "#C C scoops pieces of #unsure with chop sticks into a bowl",
+                "start_frame": 10282,
+                "stop_frame": 10342
+            },
+            {
+                "narration_text": "#C C leans chop sticks on a bowl",
+                "start_frame": 10342,
+                "stop_frame": 10379
+            },
+            {
+                "narration_text": "#C C moves a cup in the sink",
+                "start_frame": 10379,
+                "stop_frame": 10414
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinsing hands and picking dish sponge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C rinses hands in the sink",
+                "start_frame": 10801,
+                "stop_frame": 10851
+            },
+            {
+                "narration_text": "#C C picks a dish sponge in the sink",
+                "start_frame": 10851,
+                "stop_frame": 10872
+            },
+            {
+                "narration_text": "#C C presses a dish sponge in the sink",
+                "start_frame": 10872,
+                "stop_frame": 10878
+            },
+            {
+                "narration_text": "#O A woman Y moves a plastic bag on the floor",
+                "start_frame": 10878,
+                "stop_frame": 10914
+            },
+            {
+                "narration_text": "#C C increase the water flow in a faucet",
+                "start_frame": 10914,
+                "stop_frame": 10931
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C increase the water flow in a faucet",
+                "start_frame": 10914,
+                "stop_frame": 10931
+            },
+            {
+                "narration_text": "#C C moves a faucet sideways",
+                "start_frame": 10931,
+                "stop_frame": 11008
+            },
+            {
+                "narration_text": "#C C picks the pan in the sink",
+                "start_frame": 11008,
+                "stop_frame": 11021
+            },
+            {
+                "narration_text": "#C C rinses pan in the sink",
+                "start_frame": 11021,
+                "stop_frame": 11214
+            },
+            {
+                "narration_text": "#C C washes pan in the sink with a dish sponge",
+                "start_frame": 11214,
+                "stop_frame": 11379
+            },
+            {
+                "narration_text": "#C C rinses pan in the sink",
+                "start_frame": 11379,
+                "stop_frame": 11655
+            },
+            {
+                "narration_text": "#C C washes pan in the sink with a dish sponge",
+                "start_frame": 11655,
+                "stop_frame": 11723
+            },
+            {
+                "narration_text": "#O A woman Y opens a cabinet",
+                "start_frame": 11723,
+                "stop_frame": 11760
+            },
+            {
+                "narration_text": "#O A woman Y picks #unsure in a cabinet",
+                "start_frame": 11760,
+                "stop_frame": 11780
+            },
+            {
+                "narration_text": "#O A woman Y closes a cabinet",
+                "start_frame": 11780,
+                "stop_frame": 11935
+            },
+            {
+                "narration_text": "#C C puts the dish sponge in the sink",
+                "start_frame": 11935,
+                "stop_frame": 11963
+            },
+            {
+                "narration_text": "#C C rinses hand in the sink",
+                "start_frame": 11963,
+                "stop_frame": 12001
+            },
+            {
+                "narration_text": "#C C rinses pan in the sink",
+                "start_frame": 12001,
+                "stop_frame": 12172
+            },
+            {
+                "narration_text": "#C C scrubs pan in the sink with hand",
+                "start_frame": 12172,
+                "stop_frame": 12551
+            },
+            {
+                "narration_text": "#C C rinses pan in the sink",
+                "start_frame": 12551,
+                "stop_frame": 12649
+            },
+            {
+                "narration_text": "#C C scrubs pan in the sink with hand",
+                "start_frame": 12649,
+                "stop_frame": 12867
+            },
+            {
+                "narration_text": "#C C closes the faucet",
+                "start_frame": 12867,
+                "stop_frame": 12916
+            },
+            {
+                "narration_text": "#C C shakes the pan in the sink",
+                "start_frame": 12916,
+                "stop_frame": 12930
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting pan on burner and moving around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves around the kitchen",
+                "start_frame": 12941,
+                "stop_frame": 13016
+            },
+            {
+                "narration_text": "#C C puts the pan on the burner",
+                "start_frame": 13016,
+                "stop_frame": 13049
+            },
+            {
+                "narration_text": "#C C moves around the kitchen",
+                "start_frame": 13049,
+                "stop_frame": 13063
+            },
+            {
+                "narration_text": "#C C wipes hand with his cloth",
+                "start_frame": 13063,
+                "stop_frame": 13150
+            },
+            {
+                "narration_text": "#C C fixes camera on the head",
+                "start_frame": 13150,
+                "stop_frame": 13250
+            }
+        ]
+    }
+]

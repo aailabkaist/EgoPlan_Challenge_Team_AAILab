@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgDY2dv4Wkl58TWaGAHLkPQh8eQn",
+    "object": "chat.completion",
+    "created": 1719244104,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and serve food using a pan.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Wash and clean utensils and pan.\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 66,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash the chopsticks.\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 45\n        },\n        {\n          \"secondary_subgoal\": \"Turn off the kitchen faucet.\",\n          \"start_timestamp\": 45,\n          \"stop_timestamp\": 66\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook the food in the pan.\",\n      \"start_timestamp\": 66,\n      \"stop_timestamp\": 2230,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Position by the pan and check the food.\",\n          \"start_timestamp\": 66,\n          \"stop_timestamp\": 739\n        },\n        {\n          \"secondary_subgoal\": \"Interact with the food in the pan using chopsticks.\",\n          \"start_timestamp\": 739,\n          \"stop_timestamp\": 2230\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Transfer the food to the plate.\",\n      \"start_timestamp\": 2230,\n      \"stop_timestamp\": 2544,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick up the pan and plate.\",\n          \"start_timestamp\": 2230,\n          \"stop_timestamp\": 2298\n        },\n        {\n          \"secondary_subgoal\": \"Empty the food onto the plate and place the plate on countertop.\",\n          \"start_timestamp\": 2298,\n          \"stop_timestamp\": 2489\n        },\n        {\n          \"secondary_subgoal\": \"Place the pan back on the stove.\",\n          \"start_timestamp\": 2489,\n          \"stop_timestamp\": 2544\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean the pan after cooking.\",\n      \"start_timestamp\": 2544,\n      \"stop_timestamp\": 2866,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turn on the kitchen faucet and rinse the pan.\",\n          \"start_timestamp\": 2544,\n          \"stop_timestamp\": 2751\n        },\n        {\n          \"secondary_subgoal\": \"Turn off the kitchen faucet and put the pan in the sink.\",\n          \"start_timestamp\": 2751,\n          \"stop_timestamp\": 2866\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Organize the utensils and clean up.\",\n      \"start_timestamp\": 2866,\n      \"stop_timestamp\": 2942,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put the chopsticks on the plate.\",\n          \"start_timestamp\": 2866,\n          \"stop_timestamp\": 2896\n        },\n        {\n          \"secondary_subgoal\": \"Walk around the kitchen.\",\n          \"start_timestamp\": 2896,\n          \"stop_timestamp\": 2942\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Check the phone.\",\n      \"start_timestamp\": 2942,\n      \"stop_timestamp\": 3042,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Interact with the phone.\",\n          \"start_timestamp\": 2942,\n          \"stop_timestamp\": 3042\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 658,
+        "completion_tokens": 726,
+        "total_tokens": 1384
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

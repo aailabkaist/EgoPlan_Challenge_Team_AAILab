@@ -1,0 +1,123 @@
+{
+    "overall_goal": "Prepare and cook a meal involving cutting vegetables, seasoning, and cleanup",
+    "clips": [
+        {
+            "subgoal": "Prepare vegetables for cooking",
+            "start_timestamp": 15,
+            "stop_timestamp": 2142,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and manage utensils and ingredients",
+                    "start_timestamp": 15,
+                    "stop_timestamp": 356
+                },
+                {
+                    "secondary_subgoal": "Clear and set up chopping board",
+                    "start_timestamp": 356,
+                    "stop_timestamp": 648
+                },
+                {
+                    "secondary_subgoal": "Cut vegetables",
+                    "start_timestamp": 648,
+                    "stop_timestamp": 1655
+                },
+                {
+                    "secondary_subgoal": "Place cut vegetables in cooking pot",
+                    "start_timestamp": 1655,
+                    "stop_timestamp": 2110
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean utensils and area",
+            "start_timestamp": 2142,
+            "stop_timestamp": 6502,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash hands and tidy area",
+                    "start_timestamp": 2142,
+                    "stop_timestamp": 2254
+                },
+                {
+                    "secondary_subgoal": "Dispose of leftovers",
+                    "start_timestamp": 2254,
+                    "stop_timestamp": 3176
+                },
+                {
+                    "secondary_subgoal": "Prepare more ingredients",
+                    "start_timestamp": 3176,
+                    "stop_timestamp": 4382
+                },
+                {
+                    "secondary_subgoal": "Dispose of more packaging",
+                    "start_timestamp": 4382,
+                    "stop_timestamp": 4575
+                },
+                {
+                    "secondary_subgoal": "Prepare additional ingredients",
+                    "start_timestamp": 4575,
+                    "stop_timestamp": 5374
+                },
+                {
+                    "secondary_subgoal": "Clean chopping board and knife",
+                    "start_timestamp": 5374,
+                    "stop_timestamp": 6236
+                },
+                {
+                    "secondary_subgoal": "Clean hands and manage utensils",
+                    "start_timestamp": 6236,
+                    "stop_timestamp": 6502
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the meal",
+            "start_timestamp": 6502,
+            "stop_timestamp": 14555,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir and manage ingredients",
+                    "start_timestamp": 6502,
+                    "stop_timestamp": 8493
+                },
+                {
+                    "secondary_subgoal": "Continue cooking and manage utensils",
+                    "start_timestamp": 8493,
+                    "stop_timestamp": 9936
+                },
+                {
+                    "secondary_subgoal": "Cut more vegetables and manage utensils",
+                    "start_timestamp": 9936,
+                    "stop_timestamp": 11469
+                },
+                {
+                    "secondary_subgoal": "Wrap bell peppers and organize",
+                    "start_timestamp": 11469,
+                    "stop_timestamp": 12460
+                },
+                {
+                    "secondary_subgoal": "Stir and season food",
+                    "start_timestamp": 12460,
+                    "stop_timestamp": 14555
+                }
+            ]
+        },
+        {
+            "subgoal": "Add final seasonings and complete meal",
+            "start_timestamp": 14555,
+            "stop_timestamp": 20623,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Season food with various spices",
+                    "start_timestamp": 14555,
+                    "stop_timestamp": 20027
+                },
+                {
+                    "secondary_subgoal": "Store spices and finalize meal",
+                    "start_timestamp": 20027,
+                    "stop_timestamp": 20623
+                }
+            ]
+        }
+    ]
+}

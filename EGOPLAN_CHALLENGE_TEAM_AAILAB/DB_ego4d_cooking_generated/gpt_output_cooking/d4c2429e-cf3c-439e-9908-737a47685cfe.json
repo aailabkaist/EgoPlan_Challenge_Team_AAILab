@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfy3SZyYOMB27TZeD3N62klWzid5",
+    "object": "chat.completion",
+    "created": 1719243143,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and serve a meal involving cooking, seasoning, and serving food in bowls.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Season and cook the food\",\n      \"start_timestamp\": 35,\n      \"stop_timestamp\": 10753,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Season food with salt and spices\",\n          \"start_timestamp\": 35,\n          \"stop_timestamp\": 541\n        },\n        {\n          \"secondary_subgoal\": \"Stir and season food\",\n          \"start_timestamp\": 541,\n          \"stop_timestamp\": 1494\n        },\n        {\n          \"secondary_subgoal\": \"Further season and prepare the food\",\n          \"start_timestamp\": 1494,\n          \"stop_timestamp\": 2027\n        },\n        {\n          \"secondary_subgoal\": \"Stir and compact the area\",\n          \"start_timestamp\": 2027,\n          \"stop_timestamp\": 2196\n        },\n        {\n          \"secondary_subgoal\": \"Stir and season food repeatedly\",\n          \"start_timestamp\": 2196,\n          \"stop_timestamp\": 3192\n        },\n        {\n          \"secondary_subgoal\": \"Complete seasoning and cooking\",\n          \"start_timestamp\": 3192,\n          \"stop_timestamp\": 10753\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handle utensils and ingredients for cooking\",\n      \"start_timestamp\": 10753,\n      \"stop_timestamp\": 1898,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Washing and drying utensils\",\n          \"start_timestamp\": 10753,\n          \"stop_timestamp\": 8759\n        },\n        {\n          \"secondary_subgoal\": \"Handle vegetables\",\n          \"start_timestamp\": 8759,\n          \"stop_timestamp\": 15076\n        },\n        {\n          \"secondary_subgoal\": \"Continue washing and drying utensils\",\n          \"start_timestamp\": 15076,\n          \"stop_timestamp\": 17586\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and serve the meal\",\n      \"start_timestamp\": 17586,\n      \"stop_timestamp\": 21858,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Arranging serving trays\",\n          \"start_timestamp\": 17586,\n          \"stop_timestamp\": 20760\n        },\n        {\n          \"secondary_subgoal\": \"Serve food in bowls and finalize preparations\",\n          \"start_timestamp\": 20760,\n          \"stop_timestamp\": 21858\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2955,
+        "completion_tokens": 547,
+        "total_tokens": 3502
+    },
+    "system_fingerprint": "fp_5e6c71d4a8"
+}

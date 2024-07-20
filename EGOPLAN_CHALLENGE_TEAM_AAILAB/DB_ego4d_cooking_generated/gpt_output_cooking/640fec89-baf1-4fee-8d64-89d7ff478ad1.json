@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efOlT6eUIGcPw7PWR5mFGfxRUgNd",
+    "object": "chat.completion",
+    "created": 1719479283,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing a meal using various utensils and appliances in the kitchen.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing ingredients and placing items in the fridge\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 387,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handling paper and bowl\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 160\n        },\n        {\n          \"secondary_subgoal\": \"Walking to the fridge with the bowl\",\n          \"start_timestamp\": 160,\n          \"stop_timestamp\": 177\n        },\n        {\n          \"secondary_subgoal\": \"Placing bowl in the fridge\",\n          \"start_timestamp\": 177,\n          \"stop_timestamp\": 354\n        },\n        {\n          \"secondary_subgoal\": \"Closing the fridge\",\n          \"start_timestamp\": 354,\n          \"stop_timestamp\": 387\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing bowls and placing items in the microwave\",\n      \"start_timestamp\": 387,\n      \"stop_timestamp\": 1245,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handling the cabinet and removing bowls\",\n          \"start_timestamp\": 387,\n          \"stop_timestamp\": 591\n        },\n        {\n          \"secondary_subgoal\": \"Handling small bowl and returning others\",\n          \"start_timestamp\": 591,\n          \"stop_timestamp\": 695\n        },\n        {\n          \"secondary_subgoal\": \"Placing bowl in the microwave\",\n          \"start_timestamp\": 695,\n          \"stop_timestamp\": 978\n        },\n        {\n          \"secondary_subgoal\": \"Handling dish with cooked spaghetti\",\n          \"start_timestamp\": 978,\n          \"stop_timestamp\": 1089\n        },\n        {\n          \"secondary_subgoal\": \"Handling dish with unsure item\",\n          \"start_timestamp\": 1089,\n          \"stop_timestamp\": 1245\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Washing hands and handling cooker and kettle\",\n      \"start_timestamp\": 1245,\n      \"stop_timestamp\": 2474,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Washing hands and wiping with a kitchen towel\",\n          \"start_timestamp\": 1245,\n          \"stop_timestamp\": 1735\n        },\n        {\n          \"secondary_subgoal\": \"Handling gas cooker, electric cooker, and kettle\",\n          \"start_timestamp\": 1735,\n          \"stop_timestamp\": 2419\n        },\n        {\n          \"secondary_subgoal\": \"Turning around the kitchen\",\n          \"start_timestamp\": 2419,\n          \"stop_timestamp\": 2474\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handling pressure cooker\",\n      \"start_timestamp\": 2474,\n      \"stop_timestamp\": 3312,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Opening and closing shelves\",\n          \"start_timestamp\": 2474,\n          \"stop_timestamp\": 2838\n        },\n        {\n          \"secondary_subgoal\": \"Opening pressure cooker and turning rice\",\n          \"start_timestamp\": 2838,\n          \"stop_timestamp\": 3226\n        },\n        {\n          \"secondary_subgoal\": \"Closing pressure cooker\",\n          \"start_timestamp\": 3226,\n          \"stop_timestamp\": 3312\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handling bowls, utensils, and organizing items\",\n      \"start_timestamp\": 3312,\n      \"stop_timestamp\": 3981,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Managing items in cabinet and shelves\",\n          \"start_timestamp\": 3312,\n          \"stop_timestamp\": 3583\n        },\n        {\n          \"secondary_subgoal\": \"Handling and placing dishes and unsure items\",\n          \"start_timestamp\": 3583,\n          \"stop_timestamp\": 3716\n        },\n        {\n          \"secondary_subgoal\": \"Organizing bowls and spoon\",\n          \"start_timestamp\": 3716,\n          \"stop_timestamp\": 3981\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1138,
+        "completion_tokens": 879,
+        "total_tokens": 2017
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

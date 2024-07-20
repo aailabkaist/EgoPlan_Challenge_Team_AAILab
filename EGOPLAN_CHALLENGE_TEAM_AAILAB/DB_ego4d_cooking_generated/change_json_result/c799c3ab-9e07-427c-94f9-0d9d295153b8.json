@@ -1,0 +1,150 @@
+{
+    "overall_goal": "Prepare cooked and seasoned potato and egg dish with sausage.",
+    "clips": [
+        {
+            "subgoal": "Prepare and slice potatoes",
+            "start_timestamp": 2007,
+            "stop_timestamp": 19414,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather potatoes and wash hands",
+                    "start_timestamp": 2007,
+                    "stop_timestamp": 3138
+                },
+                {
+                    "secondary_subgoal": "Wash potatoes and prepare chopping area",
+                    "start_timestamp": 3256,
+                    "stop_timestamp": 7447
+                },
+                {
+                    "secondary_subgoal": "Dispose of litter",
+                    "start_timestamp": 7566,
+                    "stop_timestamp": 7678
+                },
+                {
+                    "secondary_subgoal": "Slice potatoes",
+                    "start_timestamp": 7759,
+                    "stop_timestamp": 12020
+                },
+                {
+                    "secondary_subgoal": "Dispose of potato remnants",
+                    "start_timestamp": 13194,
+                    "stop_timestamp": 13228
+                },
+                {
+                    "secondary_subgoal": "Further potato slicing",
+                    "start_timestamp": 13893,
+                    "stop_timestamp": 17461
+                },
+                {
+                    "secondary_subgoal": "Cube potato slices",
+                    "start_timestamp": 18052,
+                    "stop_timestamp": 19086
+                },
+                {
+                    "secondary_subgoal": "Dispose of dirt",
+                    "start_timestamp": 19110,
+                    "stop_timestamp": 19222
+                },
+                {
+                    "secondary_subgoal": "Put cutting board in sink",
+                    "start_timestamp": 19280,
+                    "stop_timestamp": 19414
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix potatoes with seasoning and prepare pot",
+            "start_timestamp": 19414,
+            "stop_timestamp": 21790,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mix potatoes with unsure ingredient",
+                    "start_timestamp": 19772,
+                    "stop_timestamp": 20783
+                },
+                {
+                    "secondary_subgoal": "Prepare grill and pot",
+                    "start_timestamp": 20846,
+                    "stop_timestamp": 20915
+                },
+                {
+                    "secondary_subgoal": "Pour potatoes into pot",
+                    "start_timestamp": 21453,
+                    "stop_timestamp": 21550
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook potatoes and clean up",
+            "start_timestamp": 21790,
+            "stop_timestamp": 23030,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Dispose of tissue",
+                    "start_timestamp": 22505,
+                    "stop_timestamp": 22624
+                },
+                {
+                    "secondary_subgoal": "Prepare sausage",
+                    "start_timestamp": 22719,
+                    "stop_timestamp": 23104
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare eggs and cook them with sausage",
+            "start_timestamp": 23138,
+            "stop_timestamp": 32859,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preheat the pan with butter",
+                    "start_timestamp": 23176,
+                    "stop_timestamp": 24405
+                },
+                {
+                    "secondary_subgoal": "Prepare eggs on the pan",
+                    "start_timestamp": 24732,
+                    "stop_timestamp": 27862
+                },
+                {
+                    "secondary_subgoal": "Cook and stir eggs",
+                    "start_timestamp": 27862,
+                    "stop_timestamp": 30163
+                },
+                {
+                    "secondary_subgoal": "Prepare and cook sausage",
+                    "start_timestamp": 30454,
+                    "stop_timestamp": 31873
+                },
+                {
+                    "secondary_subgoal": "Cook and finish eggs on plate",
+                    "start_timestamp": 32251,
+                    "stop_timestamp": 32859
+                }
+            ]
+        },
+        {
+            "subgoal": "Season and finish dish",
+            "start_timestamp": 32859,
+            "stop_timestamp": 34796,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Season eggs",
+                    "start_timestamp": 33496,
+                    "stop_timestamp": 33829
+                },
+                {
+                    "secondary_subgoal": "Add sauce to eggs",
+                    "start_timestamp": 34056,
+                    "stop_timestamp": 34501
+                },
+                {
+                    "secondary_subgoal": "Cleanup",
+                    "start_timestamp": 34621,
+                    "stop_timestamp": 34796
+                }
+            ]
+        }
+    ]
+}

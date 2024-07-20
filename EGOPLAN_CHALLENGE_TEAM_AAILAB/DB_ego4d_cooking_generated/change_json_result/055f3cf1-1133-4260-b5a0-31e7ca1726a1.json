@@ -1,0 +1,167 @@
+{
+    "overall_goal": "Preparing a cooked meal involving chopping vegetables, stirring meat, adding pasta, and other ingredients.",
+    "clips": [
+        {
+            "subgoal": "Gathering ingredients and kitchen tools",
+            "start_timestamp": 53,
+            "stop_timestamp": 1809,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walking to the kitchen and opening the fridge",
+                    "start_timestamp": 53,
+                    "stop_timestamp": 186
+                },
+                {
+                    "secondary_subgoal": "Retrieving vegetables and other items from the fridge",
+                    "start_timestamp": 186,
+                    "stop_timestamp": 918
+                },
+                {
+                    "secondary_subgoal": "Placing ingredients on the counter",
+                    "start_timestamp": 918,
+                    "stop_timestamp": 1267
+                },
+                {
+                    "secondary_subgoal": "Closing the bread packet and putting it on the counter",
+                    "start_timestamp": 1267,
+                    "stop_timestamp": 1323
+                },
+                {
+                    "secondary_subgoal": "Opening the cabinet and retrieving an onion",
+                    "start_timestamp": 1506,
+                    "stop_timestamp": 1625
+                },
+                {
+                    "secondary_subgoal": "Placing the onion on the counter and closing the cabinet",
+                    "start_timestamp": 1625,
+                    "stop_timestamp": 1809
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing the ingredients",
+            "start_timestamp": 1956,
+            "stop_timestamp": 4362,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Grabbing and using the knife to cut foil paper",
+                    "start_timestamp": 1956,
+                    "stop_timestamp": 2335
+                },
+                {
+                    "secondary_subgoal": "Inspecting and discarding paprika",
+                    "start_timestamp": 2394,
+                    "stop_timestamp": 3681
+                },
+                {
+                    "secondary_subgoal": "Turning on the cooker and chopping vegetables",
+                    "start_timestamp": 3970,
+                    "stop_timestamp": 4362
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling and cooking the meat",
+            "start_timestamp": 6164,
+            "stop_timestamp": 2038,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Placing minced meat in the pan and stirring",
+                    "start_timestamp": 6164,
+                    "stop_timestamp": 7458
+                },
+                {
+                    "secondary_subgoal": "Handling pasta and placing in the cooking dish",
+                    "start_timestamp": 7508,
+                    "stop_timestamp": 8477
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning utensils and tools used",
+            "start_timestamp": 8910,
+            "stop_timestamp": 24215,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Chopping and cleaning onions",
+                    "start_timestamp": 9061,
+                    "stop_timestamp": 11930
+                },
+                {
+                    "secondary_subgoal": "Cleaning knife and other tools",
+                    "start_timestamp": 11978,
+                    "stop_timestamp": 12411
+                },
+                {
+                    "secondary_subgoal": "Cleaning various bowls and utensils",
+                    "start_timestamp": 16791,
+                    "stop_timestamp": 19097
+                },
+                {
+                    "secondary_subgoal": "Wiping hands and wearing gloves",
+                    "start_timestamp": 19097,
+                    "stop_timestamp": 19438
+                },
+                {
+                    "secondary_subgoal": "Clearing and cleaning the sink",
+                    "start_timestamp": 19838,
+                    "stop_timestamp": 21498
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking and stirring the food",
+            "start_timestamp": 24945,
+            "stop_timestamp": 41260,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring meat and covering the pan",
+                    "start_timestamp": 24945,
+                    "stop_timestamp": 25242
+                },
+                {
+                    "secondary_subgoal": "Fetching water and placing in the cooking dish",
+                    "start_timestamp": 25242,
+                    "stop_timestamp": 25751
+                },
+                {
+                    "secondary_subgoal": "Opening cabinet and handling spices",
+                    "start_timestamp": 26098,
+                    "stop_timestamp": 26444
+                },
+                {
+                    "secondary_subgoal": "Adjusting and covering the cooking dish",
+                    "start_timestamp": 26816,
+                    "stop_timestamp": 28015
+                },
+                {
+                    "secondary_subgoal": "Handling various utensils and ingredients",
+                    "start_timestamp": 28533,
+                    "stop_timestamp": 35946
+                },
+                {
+                    "secondary_subgoal": "Adding spices and sauce to the food",
+                    "start_timestamp": 35430,
+                    "stop_timestamp": 36815
+                },
+                {
+                    "secondary_subgoal": "Cleaning and stirring the food",
+                    "start_timestamp": 36815,
+                    "stop_timestamp": 41260
+                }
+            ]
+        },
+        {
+            "subgoal": "Final preparation and serving",
+            "start_timestamp": 41260,
+            "stop_timestamp": 41260,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring and adding final ingredients",
+                    "start_timestamp": 41260,
+                    "stop_timestamp": 41260
+                }
+            ]
+        }
+    ]
+}

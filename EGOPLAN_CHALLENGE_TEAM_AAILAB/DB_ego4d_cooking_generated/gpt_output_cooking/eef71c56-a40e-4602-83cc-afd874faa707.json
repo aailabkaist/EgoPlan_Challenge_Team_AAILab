@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehA6KSba6jRxlFMmVy0vAphpa4oi",
+    "object": "chat.completion",
+    "created": 1719486062,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Clean the kitchen area and organize items on the bench and fridge.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Clean and organize the bench area\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 906,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean the bench\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 25\n        },\n        {\n          \"secondary_subgoal\": \"Place the bottle on the bench\",\n          \"start_timestamp\": 25,\n          \"stop_timestamp\": 128\n        },\n        {\n          \"secondary_subgoal\": \"Place another bottle on the bench\",\n          \"start_timestamp\": 128,\n          \"stop_timestamp\": 191\n        },\n        {\n          \"secondary_subgoal\": \"Fold a serviette and clean the bench\",\n          \"start_timestamp\": 191,\n          \"stop_timestamp\": 249\n        },\n        {\n          \"secondary_subgoal\": \"Pick the pot gripper and clean the bench\",\n          \"start_timestamp\": 249,\n          \"stop_timestamp\": 358\n        },\n        {\n          \"secondary_subgoal\": \"Clean the pot gripper and place it on the bench\",\n          \"start_timestamp\": 358,\n          \"stop_timestamp\": 401\n        },\n        {\n          \"secondary_subgoal\": \"Place a bottle on the fridge\",\n          \"start_timestamp\": 401,\n          \"stop_timestamp\": 497\n        },\n        {\n          \"secondary_subgoal\": \"Clean the bench again and fold the serviettes\",\n          \"start_timestamp\": 497,\n          \"stop_timestamp\": 568\n        },\n        {\n          \"secondary_subgoal\": \"Clean the wall with the serviette\",\n          \"start_timestamp\": 568,\n          \"stop_timestamp\": 906\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Complete the task with a final touch\",\n      \"start_timestamp\": 906,\n      \"stop_timestamp\": 1028,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Hold the serviette\",\n          \"start_timestamp\": 906,\n          \"stop_timestamp\": 928\n        },\n        {\n          \"secondary_subgoal\": \"Fix the camera\",\n          \"start_timestamp\": 928,\n          \"stop_timestamp\": 1028\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 495,
+        "completion_tokens": 500,
+        "total_tokens": 995
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

@@ -1,0 +1,196 @@
+{
+    "overall_goal": "Prepare and place potatoes in a bowl in the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Initial interactions and setting up the scene.",
+            "start_timestamp": -1,
+            "stop_timestamp": 2421,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Interact with man X",
+                    "start_timestamp": -1,
+                    "stop_timestamp": 136
+                },
+                {
+                    "secondary_subgoal": "Man X cuts the sachet with scissors",
+                    "start_timestamp": 136,
+                    "stop_timestamp": 236
+                },
+                {
+                    "secondary_subgoal": "C walks around the room",
+                    "start_timestamp": 236,
+                    "stop_timestamp": 342
+                },
+                {
+                    "secondary_subgoal": "Place paper in the cabinet",
+                    "start_timestamp": 342,
+                    "stop_timestamp": 381
+                },
+                {
+                    "secondary_subgoal": "More walking around and interaction",
+                    "start_timestamp": 381,
+                    "stop_timestamp": 2421,
+                    "segments": [
+                        {
+                            "activity": "C walks around the room",
+                            "start_timestamp": 381,
+                            "stop_timestamp": 520
+                        },
+                        {
+                            "activity": "Talk to man X",
+                            "start_timestamp": 520,
+                            "stop_timestamp": 704
+                        },
+                        {
+                            "activity": "Walk around the room",
+                            "start_timestamp": 704,
+                            "stop_timestamp": 817
+                        },
+                        {
+                            "activity": "Open the drawer and look at it",
+                            "start_timestamp": 817,
+                            "stop_timestamp": 1056
+                        },
+                        {
+                            "activity": "Stare at the kitchen top",
+                            "start_timestamp": 1056,
+                            "stop_timestamp": 1234
+                        },
+                        {
+                            "activity": "Walk around the room",
+                            "start_timestamp": 1234,
+                            "stop_timestamp": 1585
+                        },
+                        {
+                            "activity": "Talk to man X",
+                            "start_timestamp": 1585,
+                            "stop_timestamp": 2014
+                        },
+                        {
+                            "activity": "Man X fetches water with the cooking pot",
+                            "start_timestamp": 2014,
+                            "stop_timestamp": 2172
+                        },
+                        {
+                            "activity": "C looks around the room",
+                            "start_timestamp": 2172,
+                            "stop_timestamp": 2267
+                        },
+                        {
+                            "activity": "Talk to man X",
+                            "start_timestamp": 2267,
+                            "stop_timestamp": 2421
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subgoal": "Chop potatoes.",
+            "start_timestamp": 2421,
+            "stop_timestamp": 8815,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Chop and prepare potatoes while interacting and moving around.",
+                    "start_timestamp": 2421,
+                    "stop_timestamp": 8842,
+                    "segments": [
+                        {
+                            "activity": "Chop potatoes",
+                            "start_timestamp": 2421,
+                            "stop_timestamp": 2819
+                        },
+                        {
+                            "activity": "Sing in the room",
+                            "start_timestamp": 3207,
+                            "stop_timestamp": 3380
+                        },
+                        {
+                            "activity": "Pick a glass and fetch water",
+                            "start_timestamp": 3380,
+                            "stop_timestamp": 3579
+                        },
+                        {
+                            "activity": "Pick and chop potatoes",
+                            "start_timestamp": 3579,
+                            "stop_timestamp": 4212,
+                            "segments": [
+                                {
+                                    "activity": "Pick a potato",
+                                    "start_timestamp": 3579,
+                                    "stop_timestamp": 3856
+                                },
+                                {
+                                    "activity": "Chop the potato",
+                                    "start_timestamp": 3856,
+                                    "stop_timestamp": 3891
+                                },
+                                {
+                                    "activity": "Man X talks",
+                                    "start_timestamp": 3891,
+                                    "stop_timestamp": 4313
+                                }
+                            ]
+                        },
+                        {
+                            "activity": "Interact with man X",
+                            "start_timestamp": 4313,
+                            "stop_timestamp": 4473
+                        },
+                        {
+                            "activity": "Man X handles the faucet and rinses",
+                            "start_timestamp": 4473,
+                            "stop_timestamp": 4750
+                        },
+                        {
+                            "activity": "Talk to man X",
+                            "start_timestamp": 4750,
+                            "stop_timestamp": 5594
+                        },
+                        {
+                            "activity": "Pick and chop potatoes",
+                            "start_timestamp": 5594,
+                            "stop_timestamp": 8842,
+                            "segments": [
+                                {
+                                    "activity": "Pick a potato",
+                                    "start_timestamp": 5594,
+                                    "stop_timestamp": 6021
+                                },
+                                {
+                                    "activity": "Chop the potato",
+                                    "start_timestamp": 6021,
+                                    "stop_timestamp": 6092
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subgoal": "Place prepared potatoes in a bowl.",
+            "start_timestamp": 8815,
+            "stop_timestamp": 11312,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place the potatoes in the bowl",
+                    "start_timestamp": 8815,
+                    "stop_timestamp": 11312,
+                    "segments": [
+                        {
+                            "activity": "Pick potatoes and place them in the bowl",
+                            "start_timestamp": 8815,
+                            "stop_timestamp": 11212
+                        },
+                        {
+                            "activity": "Look around and finish placing potatoes",
+                            "start_timestamp": 11212,
+                            "stop_timestamp": 11312
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

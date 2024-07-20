@@ -1,0 +1,90 @@
+{
+    "overall_goal": "Prepare a meal by cooking vegetables, meat, and eggs using various kitchen utensils and appliances.",
+    "clips": [
+        {
+            "subgoal": "Prepare the vegetables for cooking",
+            "start_timestamp": 135,
+            "stop_timestamp": 2185,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and prepare the necessary utensils and vegetables",
+                    "start_timestamp": 135,
+                    "stop_timestamp": 512
+                },
+                {
+                    "secondary_subgoal": "Clean and arrange the vegetables",
+                    "start_timestamp": 512,
+                    "stop_timestamp": 1060
+                },
+                {
+                    "secondary_subgoal": "Prepare the vegetables for cooking by chopping",
+                    "start_timestamp": 1060,
+                    "stop_timestamp": 2185
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the vegetables",
+            "start_timestamp": 2185,
+            "stop_timestamp": 4344,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cook and adjust the vegetables in the pan",
+                    "start_timestamp": 2185,
+                    "stop_timestamp": 4344
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook the meat",
+            "start_timestamp": 4344,
+            "stop_timestamp": 13555,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve, unwrap, and cook the meat",
+                    "start_timestamp": 4344,
+                    "stop_timestamp": 10867
+                },
+                {
+                    "secondary_subgoal": "Prepare the eggs",
+                    "start_timestamp": 10867,
+                    "stop_timestamp": 13555
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir the vegetables occasionally and clean utensils",
+            "start_timestamp": 13555,
+            "stop_timestamp": 17813,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir the vegetables to ensure they are cooking evenly",
+                    "start_timestamp": 13555,
+                    "stop_timestamp": 15728
+                },
+                {
+                    "secondary_subgoal": "Clean utensils used during the cooking process",
+                    "start_timestamp": 15728,
+                    "stop_timestamp": 17813
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish cooking the meal",
+            "start_timestamp": 17813,
+            "stop_timestamp": 21332,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Finish cooking while adjusting and stirring",
+                    "start_timestamp": 17813,
+                    "stop_timestamp": 20535
+                },
+                {
+                    "secondary_subgoal": "Clean up remaining utensils and workspace",
+                    "start_timestamp": 20535,
+                    "stop_timestamp": 21332
+                }
+            ]
+        }
+    ]
+}

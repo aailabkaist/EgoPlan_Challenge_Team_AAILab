@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeUsCzeOKFjr9D2kYpFnpA1iSAPg",
+    "object": "chat.completion",
+    "created": 1719475818,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal using various ingredients including banana, canary melon, cabbage, chili pepper, coconut, and other unspecified items.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare and chop ingredients including banana, canary melon, and cabbage\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 17161,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Set up camera and start prepping banana\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 924\n        },\n        {\n          \"secondary_subgoal\": \"Cut banana pieces and prepare cooking pan\",\n          \"start_timestamp\": 924,\n          \"stop_timestamp\": 1172\n        },\n        {\n          \"secondary_subgoal\": \"Prepare and chop canary melon\",\n          \"start_timestamp\": 1172,\n          \"stop_timestamp\": 2521\n        },\n        {\n          \"secondary_subgoal\": \"Peel and chop canary melon pieces\",\n          \"start_timestamp\": 2521,\n          \"stop_timestamp\": 3179\n        },\n        {\n          \"secondary_subgoal\": \"Cut canary melon into smaller pieces\",\n          \"start_timestamp\": 3179,\n          \"stop_timestamp\": 6811\n        },\n        {\n          \"secondary_subgoal\": \"Chop cabbage and organize it on the tray\",\n          \"start_timestamp\": 6811,\n          \"stop_timestamp\": 7506\n        },\n        {\n          \"secondary_subgoal\": \"Gather and organize various canary melon pieces on the table\",\n          \"start_timestamp\": 7506,\n          \"stop_timestamp\": 8582\n        },\n        {\n          \"secondary_subgoal\": \"Perform further cutting and cleaning actions\",\n          \"start_timestamp\": 8582,\n          \"stop_timestamp\": 17161\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Grate and blend the coconut\",\n      \"start_timestamp\": 17161,\n      \"stop_timestamp\": 30287,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Grate and organize coconut pieces\",\n          \"start_timestamp\": 17161,\n          \"stop_timestamp\": 29556\n        },\n        {\n          \"secondary_subgoal\": \"Blend the grated coconut\",\n          \"start_timestamp\": 29556,\n          \"stop_timestamp\": 30287\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Mix the ingredients and cook\",\n      \"start_timestamp\": 30287,\n      \"stop_timestamp\": 50118,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare the cooker and mix ingredients\",\n          \"start_timestamp\": 30287,\n          \"stop_timestamp\": 39619\n        },\n        {\n          \"secondary_subgoal\": \"Add seasoning and adjust the meal preparation\",\n          \"start_timestamp\": 39619,\n          \"stop_timestamp\": 46364\n        },\n        {\n          \"secondary_subgoal\": \"Pour milk and water to prepare the cooking pot\",\n          \"start_timestamp\": 46364,\n          \"stop_timestamp\": 48736\n        },\n        {\n          \"secondary_subgoal\": \"Clean and organize kitchen workspace\",\n          \"start_timestamp\": 48736,\n          \"stop_timestamp\": 50118\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6599,
+        "completion_tokens": 696,
+        "total_tokens": 7295
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

@@ -1,0 +1,51 @@
+{
+    "overall_goal": "Serve rice from a rice cooker into a bowl and place it on a tray",
+    "clips": [
+        {
+            "subgoal": "Scoop rice from the rice cooker and place it in a bowl",
+            "start_timestamp": 11,
+            "stop_timestamp": 151,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place rice in bowl using a serving spoon",
+                    "start_timestamp": 11,
+                    "stop_timestamp": 151
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize and clean serving utensils",
+            "start_timestamp": 151,
+            "stop_timestamp": 271,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put serving spoon back in rice cooker",
+                    "start_timestamp": 151,
+                    "stop_timestamp": 244
+                },
+                {
+                    "secondary_subgoal": "Place bowl of rice on a tray",
+                    "start_timestamp": 244,
+                    "stop_timestamp": 248
+                },
+                {
+                    "secondary_subgoal": "Return serving spoon to rice cooker",
+                    "start_timestamp": 248,
+                    "stop_timestamp": 271
+                }
+            ]
+        },
+        {
+            "subgoal": "Pause and survey the space",
+            "start_timestamp": 271,
+            "stop_timestamp": 429,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Raise hand and look around",
+                    "start_timestamp": 271,
+                    "stop_timestamp": 429
+                }
+            ]
+        }
+    ]
+}

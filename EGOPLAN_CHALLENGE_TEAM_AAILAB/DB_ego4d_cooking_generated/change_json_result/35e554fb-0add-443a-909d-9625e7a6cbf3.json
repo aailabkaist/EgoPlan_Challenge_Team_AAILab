@@ -1,0 +1,245 @@
+{
+    "overall_goal": "Prepare and serve a meal",
+    "clips": [
+        {
+            "subgoal": "Clean kitchen utensils and workspace",
+            "start_timestamp": 16,
+            "stop_timestamp": 1894,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean wooden spoon",
+                    "start_timestamp": 16,
+                    "stop_timestamp": 121
+                },
+                {
+                    "secondary_subgoal": "Put away wooden spoon",
+                    "start_timestamp": 121,
+                    "stop_timestamp": 182
+                },
+                {
+                    "secondary_subgoal": "Clean knife",
+                    "start_timestamp": 182,
+                    "stop_timestamp": 302
+                },
+                {
+                    "secondary_subgoal": "Put away knife",
+                    "start_timestamp": 302,
+                    "stop_timestamp": 370
+                },
+                {
+                    "secondary_subgoal": "Clean holder",
+                    "start_timestamp": 370,
+                    "stop_timestamp": 508
+                },
+                {
+                    "secondary_subgoal": "Clean bowl and put away",
+                    "start_timestamp": 508,
+                    "stop_timestamp": 758
+                },
+                {
+                    "secondary_subgoal": "Clean cup and put away",
+                    "start_timestamp": 758,
+                    "stop_timestamp": 1033
+                },
+                {
+                    "secondary_subgoal": "Clean another bowl and put away",
+                    "start_timestamp": 1033,
+                    "stop_timestamp": 1342
+                },
+                {
+                    "secondary_subgoal": "Clean final bowl and put away",
+                    "start_timestamp": 1342,
+                    "stop_timestamp": 1622
+                },
+                {
+                    "secondary_subgoal": "Clean scrub sponge and put away",
+                    "start_timestamp": 1622,
+                    "stop_timestamp": 1729
+                },
+                {
+                    "secondary_subgoal": "Clean hands and tap",
+                    "start_timestamp": 1729,
+                    "stop_timestamp": 1815
+                },
+                {
+                    "secondary_subgoal": "Wipe hands",
+                    "start_timestamp": 1815,
+                    "stop_timestamp": 1894
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the cooking area",
+            "start_timestamp": 1894,
+            "stop_timestamp": 2127,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put the chopboard in the sink",
+                    "start_timestamp": 1894,
+                    "stop_timestamp": 2021
+                },
+                {
+                    "secondary_subgoal": "Walk to the cooker",
+                    "start_timestamp": 2021,
+                    "stop_timestamp": 2127
+                }
+            ]
+        },
+        {
+            "subgoal": "Gather utensils for serving food",
+            "start_timestamp": 2127,
+            "stop_timestamp": 2361,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take a kitchen towel",
+                    "start_timestamp": 2127,
+                    "stop_timestamp": 2173
+                },
+                {
+                    "secondary_subgoal": "Hold cooking pot",
+                    "start_timestamp": 2173,
+                    "stop_timestamp": 2294
+                },
+                {
+                    "secondary_subgoal": "Take a serving spoon",
+                    "start_timestamp": 2294,
+                    "stop_timestamp": 2361
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve soup into plates",
+            "start_timestamp": 2361,
+            "stop_timestamp": 3867,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Scoop and put soup in plates",
+                    "start_timestamp": 2361,
+                    "stop_timestamp": 3480
+                },
+                {
+                    "secondary_subgoal": "Stir and continue scooping soup",
+                    "start_timestamp": 3480,
+                    "stop_timestamp": 3867
+                }
+            ]
+        },
+        {
+            "subgoal": "Close and clean up cooking area",
+            "start_timestamp": 3867,
+            "stop_timestamp": 4900,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Close the cooker",
+                    "start_timestamp": 3867,
+                    "stop_timestamp": 3921
+                },
+                {
+                    "secondary_subgoal": "Put away cooking pot and utensils",
+                    "start_timestamp": 3921,
+                    "stop_timestamp": 4810
+                },
+                {
+                    "secondary_subgoal": "Walk to the sink",
+                    "start_timestamp": 4810,
+                    "stop_timestamp": 4900
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean and dispose of papers",
+            "start_timestamp": 4900,
+            "stop_timestamp": 6651,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take, fold and dispose of papers in the sink",
+                    "start_timestamp": 4900,
+                    "stop_timestamp": 5960
+                },
+                {
+                    "secondary_subgoal": "Clean sink",
+                    "start_timestamp": 5960,
+                    "stop_timestamp": 6121
+                },
+                {
+                    "secondary_subgoal": "Fold and put papers in drawer",
+                    "start_timestamp": 6121,
+                    "stop_timestamp": 6651
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve food into cooking pot",
+            "start_timestamp": 6651,
+            "stop_timestamp": 7890,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk to the cooker and open the dish",
+                    "start_timestamp": 6651,
+                    "stop_timestamp": 7082
+                },
+                {
+                    "secondary_subgoal": "Scoop food and put in the cooking pot",
+                    "start_timestamp": 7082,
+                    "stop_timestamp": 7890
+                }
+            ]
+        },
+        {
+            "subgoal": "Add spices and mix food",
+            "start_timestamp": 7890,
+            "stop_timestamp": 13321,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add and mix spices into the food pot",
+                    "start_timestamp": 7890,
+                    "stop_timestamp": 9637
+                },
+                {
+                    "secondary_subgoal": "Taste and adjust seasoning",
+                    "start_timestamp": 9637,
+                    "stop_timestamp": 12898
+                },
+                {
+                    "secondary_subgoal": "Close the cooker and put spices away",
+                    "start_timestamp": 12898,
+                    "stop_timestamp": 13321
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve final soup bowl",
+            "start_timestamp": 13321,
+            "stop_timestamp": 14161,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk towards the cabinet and retrieve a bowl",
+                    "start_timestamp": 13321,
+                    "stop_timestamp": 13609
+                },
+                {
+                    "secondary_subgoal": "Serve soup into bowl",
+                    "start_timestamp": 13609,
+                    "stop_timestamp": 14161
+                }
+            ]
+        },
+        {
+            "subgoal": "Season soup and finalize serving",
+            "start_timestamp": 14161,
+            "stop_timestamp": 14647,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move soup bowl and retrieve spice shaker",
+                    "start_timestamp": 14161,
+                    "stop_timestamp": 14398
+                },
+                {
+                    "secondary_subgoal": "Add spice and finish serving",
+                    "start_timestamp": 14398,
+                    "stop_timestamp": 14647
+                }
+            ]
+        }
+    ]
+}

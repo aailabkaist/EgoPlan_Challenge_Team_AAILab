@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ef1OwYEZEScOGmwWuUzkUyM8zvLh",
+    "object": "chat.completion",
+    "created": 1719477834,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing a salad with various vegetables and seasoning.\"\n\n  \"clips\": [{\n      \"subgoal\": \"Preparing and washing vegetables\",\n      \"start_timestamp\": 78,\n      \"stop_timestamp\": 21178,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Washing the bowl\",\n          \"start_timestamp\": 78,\n          \"stop_timestamp\": 404\n        },\n        {\n          \"secondary_subgoal\": \"Cutting and processing tomatoes\",\n          \"start_timestamp\": 478,\n          \"stop_timestamp\": 1852\n        },\n        {\n          \"secondary_subgoal\": \"Cutting and processing cucumbers\",\n          \"start_timestamp\": 2047,\n          \"stop_timestamp\": 3865\n        },\n        {\n          \"secondary_subgoal\": \"Washing and prepping chopping board and other tools\",\n          \"start_timestamp\": 3934,\n          \"stop_timestamp\": 4155\n        },\n        {\n          \"secondary_subgoal\": \"Cutting and processing coriander\",\n          \"start_timestamp\": 4470,\n          \"stop_timestamp\": 5868\n        },\n        {\n          \"secondary_subgoal\": \"Communications and miscellaneous preparations\",\n          \"start_timestamp\": 5974,\n          \"stop_timestamp\": 7229\n        },\n        {\n          \"secondary_subgoal\": \"Mixing and seasoning the salad\",\n          \"start_timestamp\": 7391,\n          \"stop_timestamp\": 10260\n        },\n        {\n          \"secondary_subgoal\": \"Stirring and additional seasoning\",\n          \"start_timestamp\": 10320,\n          \"stop_timestamp\": 11292\n        },\n        {\n          \"secondary_subgoal\": \"Cutting and processing onions\",\n          \"start_timestamp\": 11297,\n          \"stop_timestamp\": 17259\n        },\n        {\n          \"secondary_subgoal\": \"Cutting and processing Chinese white celery (bok choy)\",\n          \"start_timestamp\": 18220,\n          \"stop_timestamp\": 19484\n        },\n        {\n          \"secondary_subgoal\": \"Washing and storing vegetables, general preparation\",\n          \"start_timestamp\": 19484,\n          \"stop_timestamp\": 21178\n        }\n      ]\n    }]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4449,
+        "completion_tokens": 462,
+        "total_tokens": 4911
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

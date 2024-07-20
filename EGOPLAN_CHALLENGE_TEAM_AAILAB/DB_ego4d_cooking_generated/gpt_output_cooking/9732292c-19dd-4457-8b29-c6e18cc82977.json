@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efP4GQwcJRwaZdX0tFkWNgFgZ2MV",
+    "object": "chat.completion",
+    "created": 1719479302,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and process the molten dough\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare the molten dough\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 3484,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Make molten dough\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 121\n        },\n        {\n          \"secondary_subgoal\": \"Look around\",\n          \"start_timestamp\": 121,\n          \"stop_timestamp\": 173\n        },\n        {\n          \"secondary_subgoal\": \"Touch the stick\",\n          \"start_timestamp\": 173,\n          \"stop_timestamp\": 290\n        },\n        {\n          \"secondary_subgoal\": \"Make molten dough\",\n          \"start_timestamp\": 290,\n          \"stop_timestamp\": 2755\n        },\n        {\n          \"secondary_subgoal\": \"Squeeze the paper\",\n          \"start_timestamp\": 2755,\n          \"stop_timestamp\": 2831\n        },\n        {\n          \"secondary_subgoal\": \"Make molten dough\",\n          \"start_timestamp\": 2831,\n          \"stop_timestamp\": 3254\n        },\n        {\n          \"secondary_subgoal\": \"Put the stick in the jar\",\n          \"start_timestamp\": 3254,\n          \"stop_timestamp\": 3269\n        },\n        {\n          \"secondary_subgoal\": \"Pick up the jar\",\n          \"start_timestamp\": 3269,\n          \"stop_timestamp\": 3384\n        },\n        {\n          \"secondary_subgoal\": \"Put on flip-flops\",\n          \"start_timestamp\": 3384,\n          \"stop_timestamp\": 3484\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 399,
+        "completion_tokens": 363,
+        "total_tokens": 762
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

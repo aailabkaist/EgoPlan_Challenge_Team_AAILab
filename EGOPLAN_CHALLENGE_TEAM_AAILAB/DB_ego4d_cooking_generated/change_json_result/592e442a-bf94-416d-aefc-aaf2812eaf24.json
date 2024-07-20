@@ -1,0 +1,145 @@
+{
+    "overall_goal": "Prepare and clean up after making an egg salad.",
+    "clips": [
+        {
+            "subgoal": "Peeling and washing boiled eggs",
+            "start_timestamp": 0,
+            "stop_timestamp": 126,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peeling boiled egg",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 138
+                },
+                {
+                    "secondary_subgoal": "Turning on faucet",
+                    "start_timestamp": 138,
+                    "stop_timestamp": 191
+                },
+                {
+                    "secondary_subgoal": "Washing boiled egg",
+                    "start_timestamp": 191,
+                    "stop_timestamp": 265
+                },
+                {
+                    "secondary_subgoal": "Turning off faucet",
+                    "start_timestamp": 265,
+                    "stop_timestamp": 336
+                },
+                {
+                    "secondary_subgoal": "Peeling boiled egg",
+                    "start_timestamp": 336,
+                    "stop_timestamp": 850
+                }
+            ]
+        },
+        {
+            "subgoal": "Removing egg shells and washing hands",
+            "start_timestamp": 1133,
+            "stop_timestamp": 1366,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Removing egg shells off right hand",
+                    "start_timestamp": 1133,
+                    "stop_timestamp": 1212
+                },
+                {
+                    "secondary_subgoal": "Turning on faucet",
+                    "start_timestamp": 1212,
+                    "stop_timestamp": 1273
+                },
+                {
+                    "secondary_subgoal": "Washing hands",
+                    "start_timestamp": 1273,
+                    "stop_timestamp": 1325
+                },
+                {
+                    "secondary_subgoal": "Turning off faucet",
+                    "start_timestamp": 1325,
+                    "stop_timestamp": 1366
+                }
+            ]
+        },
+        {
+            "subgoal": "Peeling and washing boiled eggs",
+            "start_timestamp": 1366,
+            "stop_timestamp": 3729,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peeling boiled egg",
+                    "start_timestamp": 1366,
+                    "stop_timestamp": 1698
+                },
+                {
+                    "secondary_subgoal": "Turning off faucet",
+                    "start_timestamp": 1698,
+                    "stop_timestamp": 3577
+                },
+                {
+                    "secondary_subgoal": "Turning on faucet",
+                    "start_timestamp": 3577,
+                    "stop_timestamp": 3674
+                },
+                {
+                    "secondary_subgoal": "Washing boiled egg",
+                    "start_timestamp": 3674,
+                    "stop_timestamp": 3704
+                },
+                {
+                    "secondary_subgoal": "Holding peeled egg",
+                    "start_timestamp": 3704,
+                    "stop_timestamp": 3729
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing egg salad",
+            "start_timestamp": 3729,
+            "stop_timestamp": 7509,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Shaking water off egg and putting boiled egg in bowl",
+                    "start_timestamp": 3729,
+                    "stop_timestamp": 3814
+                },
+                {
+                    "secondary_subgoal": "Collecting and dumping egg shells",
+                    "start_timestamp": 3814,
+                    "stop_timestamp": 6001
+                },
+                {
+                    "secondary_subgoal": "Mixing members and adding mayonnaise",
+                    "start_timestamp": 6001,
+                    "stop_timestamp": 7509
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning up",
+            "start_timestamp": 7509,
+            "stop_timestamp": 15119,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing and rinsing bowls, cutting board, and knife",
+                    "start_timestamp": 7509,
+                    "stop_timestamp": 8903
+                },
+                {
+                    "secondary_subgoal": "Scrubbing cooking pot and cleaning utensils",
+                    "start_timestamp": 8903,
+                    "stop_timestamp": 11612
+                },
+                {
+                    "secondary_subgoal": "Rinsing and drying cleaned items",
+                    "start_timestamp": 11612,
+                    "stop_timestamp": 13523
+                },
+                {
+                    "secondary_subgoal": "Final rinsing, drying, and putting away cleaned utensils",
+                    "start_timestamp": 13523,
+                    "stop_timestamp": 15119
+                }
+            ]
+        }
+    ]
+}

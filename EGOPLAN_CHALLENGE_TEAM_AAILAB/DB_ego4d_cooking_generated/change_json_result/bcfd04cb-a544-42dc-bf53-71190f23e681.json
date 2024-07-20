@@ -1,0 +1,76 @@
+{
+    "overall_goal": "Preparing and cleaning longans, jujubes, and cape gooseberries for a cooking or storage process",
+    "clips": [
+        {
+            "subgoal": "Prepping longans",
+            "start_timestamp": 40,
+            "stop_timestamp": 6693,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening longans",
+                    "start_timestamp": 40,
+                    "stop_timestamp": 81
+                },
+                {
+                    "secondary_subgoal": "Dropping longan in the pot",
+                    "start_timestamp": 81,
+                    "stop_timestamp": 121
+                },
+                {
+                    "secondary_subgoal": "Picking and opening longans",
+                    "start_timestamp": 121,
+                    "stop_timestamp": 344
+                },
+                {
+                    "secondary_subgoal": "Using cloth and placing longan on it",
+                    "start_timestamp": 344,
+                    "stop_timestamp": 471
+                },
+                {
+                    "secondary_subgoal": "Picking and opening longans, and using the pot",
+                    "start_timestamp": 471,
+                    "stop_timestamp": 1715
+                },
+                {
+                    "secondary_subgoal": "Bringing longans together",
+                    "start_timestamp": 1715,
+                    "stop_timestamp": 1822
+                },
+                {
+                    "secondary_subgoal": "Handling longans (picking, opening, and dropping)",
+                    "start_timestamp": 1822,
+                    "stop_timestamp": 6684
+                }
+            ]
+        },
+        {
+            "subgoal": "Peeling jujubes",
+            "start_timestamp": 6684,
+            "stop_timestamp": 22194,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peeling jujubes and placing in the pot",
+                    "start_timestamp": 6684,
+                    "stop_timestamp": 22194
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling cape gooseberries",
+            "start_timestamp": 22194,
+            "stop_timestamp": 40758,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peeling, cutting, and dropping cape gooseberries in the pot",
+                    "start_timestamp": 22194,
+                    "stop_timestamp": 39940
+                },
+                {
+                    "secondary_subgoal": "Final touches with cape gooseberries",
+                    "start_timestamp": 39940,
+                    "stop_timestamp": 40758
+                }
+            ]
+        }
+    ]
+}

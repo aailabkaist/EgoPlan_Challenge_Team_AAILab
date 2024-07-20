@@ -1,0 +1,164 @@
+{
+    "overall_goal": "Prepare meat and cook it with seasoning and other ingredients.",
+    "clips": [
+        {
+            "subgoal": "Preparation and cleaning",
+            "start_timestamp": 0,
+            "stop_timestamp": 1305,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash hands",
+                    "start_timestamp": 209,
+                    "stop_timestamp": 902
+                },
+                {
+                    "secondary_subgoal": "Pick, unwrap, and place meat",
+                    "start_timestamp": 1090,
+                    "stop_timestamp": 1305
+                }
+            ]
+        },
+        {
+            "subgoal": "Unwrap and prepare meat",
+            "start_timestamp": 1305,
+            "stop_timestamp": 2527,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Unwrap meat and place it on board",
+                    "start_timestamp": 1305,
+                    "stop_timestamp": 1866
+                },
+                {
+                    "secondary_subgoal": "Place papers in the sink",
+                    "start_timestamp": 2188,
+                    "stop_timestamp": 2234
+                },
+                {
+                    "secondary_subgoal": "Unwrap another meat and place on board",
+                    "start_timestamp": 2272,
+                    "stop_timestamp": 2548
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut and process meat",
+            "start_timestamp": 2548,
+            "stop_timestamp": 8568,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and manage meat",
+                    "start_timestamp": 2645,
+                    "stop_timestamp": 5320
+                },
+                {
+                    "secondary_subgoal": "Continue turning and cutting meat",
+                    "start_timestamp": 5964,
+                    "stop_timestamp": 7143
+                },
+                {
+                    "secondary_subgoal": "Continue cutting meat and placing pieces in sink",
+                    "start_timestamp": 7143,
+                    "stop_timestamp": 8268
+                },
+                {
+                    "secondary_subgoal": "Final cuts",
+                    "start_timestamp": 8268,
+                    "stop_timestamp": 8568
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash hands and knife",
+            "start_timestamp": 9633,
+            "stop_timestamp": 9977,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on water tap and wash knife",
+                    "start_timestamp": 9633,
+                    "stop_timestamp": 9794
+                },
+                {
+                    "secondary_subgoal": "Wash hands and switch off tap",
+                    "start_timestamp": 9794,
+                    "stop_timestamp": 9999
+                }
+            ]
+        },
+        {
+            "subgoal": "Season and cook meat",
+            "start_timestamp": 10014,
+            "stop_timestamp": 17713,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and season meat",
+                    "start_timestamp": 10671,
+                    "stop_timestamp": 11537
+                },
+                {
+                    "secondary_subgoal": "Pick up items and open fridge",
+                    "start_timestamp": 11626,
+                    "stop_timestamp": 11786
+                },
+                {
+                    "secondary_subgoal": "Prepare cooking pot and stir meat",
+                    "start_timestamp": 12120,
+                    "stop_timestamp": 13249
+                },
+                {
+                    "secondary_subgoal": "Add ingredients to pan and stir",
+                    "start_timestamp": 13977,
+                    "stop_timestamp": 15137
+                },
+                {
+                    "secondary_subgoal": "Add more ingredients and stir",
+                    "start_timestamp": 15290,
+                    "stop_timestamp": 16380
+                },
+                {
+                    "secondary_subgoal": "Tasting and adjusting seasoning",
+                    "start_timestamp": 16573,
+                    "stop_timestamp": 17713
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing up and cleaning",
+            "start_timestamp": 18046,
+            "stop_timestamp": 18802,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash spoons and other utensils",
+                    "start_timestamp": 18046,
+                    "stop_timestamp": 18423
+                },
+                {
+                    "secondary_subgoal": "Place and turn the soup",
+                    "start_timestamp": 18533,
+                    "stop_timestamp": 18660
+                },
+                {
+                    "secondary_subgoal": "Store items in the fridge",
+                    "start_timestamp": 18702,
+                    "stop_timestamp": 18802
+                }
+            ]
+        },
+        {
+            "subgoal": "Final preparation of meat",
+            "start_timestamp": 18879,
+            "stop_timestamp": 21286,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and mix meat with flour",
+                    "start_timestamp": 18879,
+                    "stop_timestamp": 21013
+                },
+                {
+                    "secondary_subgoal": "Continue mixing meat with flour",
+                    "start_timestamp": 21013,
+                    "stop_timestamp": 21286
+                }
+            ]
+        }
+    ]
+}

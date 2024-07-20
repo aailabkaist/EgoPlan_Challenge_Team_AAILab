@@ -1,0 +1,110 @@
+{
+    "overall_goal": "Prepare and cook a meal involving chopping and cooking vegetables and cleaning up after preparation",
+    "clips": [
+        {
+            "subgoal": "Prepare carrots",
+            "start_timestamp": 0,
+            "stop_timestamp": 3550,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Chop carrots",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 835
+                },
+                {
+                    "secondary_subgoal": "Chop carrots",
+                    "start_timestamp": 1165,
+                    "stop_timestamp": 3536
+                },
+                {
+                    "secondary_subgoal": "Put chopped carrots in frying pan",
+                    "start_timestamp": 3235,
+                    "stop_timestamp": 3536
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare onion",
+            "start_timestamp": 3550,
+            "stop_timestamp": 6040,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel and chop onion",
+                    "start_timestamp": 3550,
+                    "stop_timestamp": 5728
+                },
+                {
+                    "secondary_subgoal": "Put chopped onion in frying pan",
+                    "start_timestamp": 5728,
+                    "stop_timestamp": 6013
+                },
+                {
+                    "secondary_subgoal": "Clean knife and chopping board",
+                    "start_timestamp": 6028,
+                    "stop_timestamp": 6040
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cabbage",
+            "start_timestamp": 6040,
+            "stop_timestamp": 12672,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Separate and rinse cabbage",
+                    "start_timestamp": 6346,
+                    "stop_timestamp": 8637
+                },
+                {
+                    "secondary_subgoal": "Chop cabbage",
+                    "start_timestamp": 9019,
+                    "stop_timestamp": 10422
+                },
+                {
+                    "secondary_subgoal": "Put cabbage in saucepan",
+                    "start_timestamp": 9469,
+                    "stop_timestamp": 10422
+                }
+            ]
+        },
+        {
+            "subgoal": "Add seasoning and additional ingredients",
+            "start_timestamp": 10422,
+            "stop_timestamp": 19849,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add seasoning from sachet",
+                    "start_timestamp": 10422,
+                    "stop_timestamp": 12067
+                },
+                {
+                    "secondary_subgoal": "Add another ingredient and stir",
+                    "start_timestamp": 12067,
+                    "stop_timestamp": 16649
+                },
+                {
+                    "secondary_subgoal": "Taste and adjust flavor",
+                    "start_timestamp": 17434,
+                    "stop_timestamp": 17535
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up and tidy cooking area",
+            "start_timestamp": 19849,
+            "stop_timestamp": 20471,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wipe and clean surface",
+                    "start_timestamp": 19849,
+                    "stop_timestamp": 20371
+                },
+                {
+                    "secondary_subgoal": "Hang table cloth and finish",
+                    "start_timestamp": 20371,
+                    "stop_timestamp": 20471
+                }
+            ]
+        }
+    ]
+}

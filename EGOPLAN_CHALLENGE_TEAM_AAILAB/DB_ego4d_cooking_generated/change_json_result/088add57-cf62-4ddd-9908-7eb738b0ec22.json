@@ -1,0 +1,73 @@
+{
+    "overall_goal": "Prepare dough rolls for a meal",
+    "clips": [
+        {
+            "subgoal": "Making dough rolls",
+            "start_timestamp": 14,
+            "stop_timestamp": 29377,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Initial dough preparation",
+                    "start_timestamp": 14,
+                    "stop_timestamp": 2409
+                },
+                {
+                    "secondary_subgoal": "*Additional dough preparation steps",
+                    "start_timestamp": 2409,
+                    "stop_timestamp": 29377
+                }
+            ]
+        },
+        {
+            "subgoal": "Rolling dough rolls",
+            "start_timestamp": 29377,
+            "stop_timestamp": 67901,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rolling and flattening dough",
+                    "start_timestamp": 29377,
+                    "stop_timestamp": 37443
+                },
+                {
+                    "secondary_subgoal": "Organizing dough rolls in tray",
+                    "start_timestamp": 37443,
+                    "stop_timestamp": 67901
+                }
+            ]
+        },
+        {
+            "subgoal": "Dipping dough balls in flour",
+            "start_timestamp": 67901,
+            "stop_timestamp": 91614,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Dipping and rolling dough in flour",
+                    "start_timestamp": 67901,
+                    "stop_timestamp": 73881
+                },
+                {
+                    "secondary_subgoal": "Organizing dipped dough rolls in tray",
+                    "start_timestamp": 73881,
+                    "stop_timestamp": 91614
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning and packing",
+            "start_timestamp": 91614,
+            "stop_timestamp": 94663,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Organizing tools and cleaning tray",
+                    "start_timestamp": 91614,
+                    "stop_timestamp": 94470
+                },
+                {
+                    "secondary_subgoal": "Organizing and cleaning up workspace",
+                    "start_timestamp": 94470,
+                    "stop_timestamp": 94663
+                }
+            ]
+        }
+    ]
+}

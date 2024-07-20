@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeegvgg2BKvagOLWJ9LTwi5wj4wH",
+    "object": "chat.completion",
+    "created": 1719476426,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook asparagus and an egg mixture dish.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare asparagus for cooking\",\n      \"start_timestamp\": 232,\n      \"stop_timestamp\": 1847,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Get asparagus from the fridge\",\n          \"start_timestamp\": 232,\n          \"stop_timestamp\": 615\n        },\n        {\n          \"secondary_subgoal\": \"Measure asparagus\",\n          \"start_timestamp\": 615,\n          \"stop_timestamp\": 1621\n        },\n        {\n          \"secondary_subgoal\": \"Wash asparagus\",\n          \"start_timestamp\": 1621,\n          \"stop_timestamp\": 1909\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare the chopping board and knife\",\n      \"start_timestamp\": 1909,\n      \"stop_timestamp\": 2445,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Get and wash the chopping board\",\n          \"start_timestamp\": 1909,\n          \"stop_timestamp\": 2293\n        },\n        {\n          \"secondary_subgoal\": \"Get a knife\",\n          \"start_timestamp\": 2293,\n          \"stop_timestamp\": 2445\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cut and cook the asparagus\",\n      \"start_timestamp\": 2445,\n      \"stop_timestamp\": 14719,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut asparagus\",\n          \"start_timestamp\": 2445,\n          \"stop_timestamp\": 3395\n        },\n        {\n          \"secondary_subgoal\": \"Measure and add oil to the pan\",\n          \"start_timestamp\": 3395,\n          \"stop_timestamp\": 3876\n        },\n        {\n          \"secondary_subgoal\": \"Cook asparagus in the pan\",\n          \"start_timestamp\": 3876,\n          \"stop_timestamp\": 5436\n        },\n        {\n          \"secondary_subgoal\": \"Cover and monitor the cooking process\",\n          \"start_timestamp\": 5436,\n          \"stop_timestamp\": 8565\n        },\n        {\n          \"secondary_subgoal\": \"Add vinegar and seasoning\",\n          \"start_timestamp\": 8565,\n          \"stop_timestamp\": 11033\n        },\n        {\n          \"secondary_subgoal\": \"Transfer cooked asparagus to bowls\",\n          \"start_timestamp\": 11033,\n          \"stop_timestamp\": 13285\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and mix egg mixture\",\n      \"start_timestamp\": 13285,\n      \"stop_timestamp\": 20308,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare bowls and mixing utensils\",\n          \"start_timestamp\": 13285,\n          \"stop_timestamp\": 17184\n        },\n        {\n          \"secondary_subgoal\": \"Mix the egg ingredients\",\n          \"start_timestamp\": 17184,\n          \"stop_timestamp\": 18931\n        },\n        {\n          \"secondary_subgoal\": \"Add seasonings and final mixing\",\n          \"start_timestamp\": 18931,\n          \"stop_timestamp\": 20308\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2152,
+        "completion_tokens": 679,
+        "total_tokens": 2831
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

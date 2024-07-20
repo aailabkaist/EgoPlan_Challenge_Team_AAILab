@@ -1,0 +1,88 @@
+{
+    "overall_goal": "Prepare and serve spaghetti.",
+    "clips": [
+        {
+            "subgoal": "Mix and prepare spaghetti",
+            "start_timestamp": 801,
+            "stop_timestamp": 11896,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mix spaghetti",
+                    "start_timestamp": 801,
+                    "stop_timestamp": 8561
+                },
+                {
+                    "secondary_subgoal": "Mix and stir spaghetti",
+                    "start_timestamp": 8561,
+                    "stop_timestamp": 11083
+                },
+                {
+                    "secondary_subgoal": "Pour spaghetti into sieve and shake bowl",
+                    "start_timestamp": 11083,
+                    "stop_timestamp": 11372
+                },
+                {
+                    "secondary_subgoal": "Remove pan from cooker and stir food",
+                    "start_timestamp": 11372,
+                    "stop_timestamp": 11555
+                },
+                {
+                    "secondary_subgoal": "Turn off cooker and continue stirring",
+                    "start_timestamp": 11555,
+                    "stop_timestamp": 11896
+                }
+            ]
+        },
+        {
+            "subgoal": "Combine ingredients",
+            "start_timestamp": 11931,
+            "stop_timestamp": 14273,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place pan back on cooker and stir",
+                    "start_timestamp": 11931,
+                    "stop_timestamp": 12888
+                },
+                {
+                    "secondary_subgoal": "Add content from bottle and stir",
+                    "start_timestamp": 12888,
+                    "stop_timestamp": 14273
+                }
+            ]
+        },
+        {
+            "subgoal": "Taste and finalize spaghetti",
+            "start_timestamp": 14273,
+            "stop_timestamp": 14824,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taste spaghetti",
+                    "start_timestamp": 14273,
+                    "stop_timestamp": 14548
+                },
+                {
+                    "secondary_subgoal": "Store items in fridge and cabinets",
+                    "start_timestamp": 14548,
+                    "stop_timestamp": 14824
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve the spaghetti",
+            "start_timestamp": 14824,
+            "stop_timestamp": 15767,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Serve spaghetti on plate",
+                    "start_timestamp": 14824,
+                    "stop_timestamp": 15615
+                },
+                {
+                    "secondary_subgoal": "Clean up",
+                    "start_timestamp": 15615,
+                    "stop_timestamp": 15767
+                }
+            ]
+        }
+    ]
+}

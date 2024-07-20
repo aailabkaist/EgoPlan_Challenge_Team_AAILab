@@ -1,0 +1,71 @@
+{
+    "overall_goal": "Interacting with the camera and each other.",
+    "clips": [
+        {
+            "subgoal": "Standing up and moving to interact with the camera.",
+            "start_timestamp": 40,
+            "stop_timestamp": 119,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Standing up.",
+                    "start_timestamp": 40,
+                    "stop_timestamp": 42
+                },
+                {
+                    "secondary_subgoal": "Standing up.",
+                    "start_timestamp": 42,
+                    "stop_timestamp": 74
+                },
+                {
+                    "secondary_subgoal": "Moving to interact with the camera.",
+                    "start_timestamp": 74,
+                    "stop_timestamp": 119
+                }
+            ]
+        },
+        {
+            "subgoal": "Interacting within a close space.",
+            "start_timestamp": 119,
+            "stop_timestamp": 368,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Standing up.",
+                    "start_timestamp": 119,
+                    "stop_timestamp": 119
+                },
+                {
+                    "secondary_subgoal": "Touching the head.",
+                    "start_timestamp": 119,
+                    "stop_timestamp": 174
+                },
+                {
+                    "secondary_subgoal": "Moving hands and stretching hands.",
+                    "start_timestamp": 174,
+                    "stop_timestamp": 225
+                },
+                {
+                    "secondary_subgoal": "Touching the camera.",
+                    "start_timestamp": 225,
+                    "stop_timestamp": 368
+                }
+            ]
+        },
+        {
+            "subgoal": "Talking and touching the camera.",
+            "start_timestamp": 368,
+            "stop_timestamp": 580,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Talking.",
+                    "start_timestamp": 368,
+                    "stop_timestamp": 443
+                },
+                {
+                    "secondary_subgoal": "Touching the camera.",
+                    "start_timestamp": 443,
+                    "stop_timestamp": 580
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "overall_goal": "Prepare eggplant, onion, and melon for consumption with cooking, cutting, and seasoning activities in the kitchen",
+    "clips": [
+        {
+            "subgoal": "Setup initial preparation area with necessary tools and ingredients",
+            "start_timestamp": 0,
+            "stop_timestamp": 836,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather and place necessary tools and ingredients",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 357
+                },
+                {
+                    "secondary_subgoal": "Begin initial cutting of the eggplant",
+                    "start_timestamp": 357,
+                    "stop_timestamp": 836
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut the eggplant",
+            "start_timestamp": 838,
+            "stop_timestamp": 4233,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Continue cutting the eggplant",
+                    "start_timestamp": 838,
+                    "stop_timestamp": 4233
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the frying process",
+            "start_timestamp": 4233,
+            "stop_timestamp": 51091,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Set up for frying by gathering oil and putting eggplant on fryer",
+                    "start_timestamp": 4233,
+                    "stop_timestamp": 47467
+                },
+                {
+                    "secondary_subgoal": "Cut and prepare additional ingredients like onions, prepare and mix tomato paste",
+                    "start_timestamp": 47660,
+                    "stop_timestamp": 17050
+                }
+            ]
+        },
+        {
+            "subgoal": "Fry the ingredients and prepare final touches",
+            "start_timestamp": 17150,
+            "stop_timestamp": 33017,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fry the ingredients by adding and turning them, adjust with oil and salt",
+                    "start_timestamp": 17150,
+                    "stop_timestamp": 32077
+                },
+                {
+                    "secondary_subgoal": "Remove ingredients from fryer and place into serviette",
+                    "start_timestamp": 32077,
+                    "stop_timestamp": 33017
+                }
+            ]
+        },
+        {
+            "subgoal": "Assemble the dish and finalize",
+            "start_timestamp": 43045,
+            "stop_timestamp": 54370,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Arrange fried Crips, lemon, and onion into bowl",
+                    "start_timestamp": 43045,
+                    "stop_timestamp": 54141
+                },
+                {
+                    "secondary_subgoal": "Clean up and finalize",
+                    "start_timestamp": 54141,
+                    "stop_timestamp": 54370
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,497 @@
+[
+    {
+        "task_goal": "Survey contents on the table.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C is in a house",
+                "start_frame": 1,
+                "stop_frame": 25
+            },
+            {
+                "narration_text": "#C C looks at contents on the table",
+                "start_frame": 25,
+                "stop_frame": 48
+            },
+            {
+                "narration_text": "#C C turns to a sink near a window",
+                "start_frame": 48,
+                "stop_frame": 73
+            }
+        ]
+    },
+    {
+        "task_goal": "Look at the contents on the table.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C is in a house",
+                "start_frame": 1,
+                "stop_frame": 25
+            },
+            {
+                "narration_text": "#C C looks at contents on the table",
+                "start_frame": 25,
+                "stop_frame": 48
+            },
+            {
+                "narration_text": "#C C turns to a sink near a window",
+                "start_frame": 48,
+                "stop_frame": 73
+            }
+        ]
+    },
+    {
+        "task_goal": "Inspect the sink area near the window.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks at contents on the table",
+                "start_frame": 25,
+                "stop_frame": 48
+            },
+            {
+                "narration_text": "#C C turns to a sink near a window",
+                "start_frame": 48,
+                "stop_frame": 73
+            },
+            {
+                "narration_text": "#C C walks to the sink",
+                "start_frame": 73,
+                "stop_frame": 139
+            },
+            {
+                "narration_text": "#C C looks at the window",
+                "start_frame": 139,
+                "stop_frame": 645
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn to the sink near the window.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks at contents on the table",
+                "start_frame": 25,
+                "stop_frame": 48
+            },
+            {
+                "narration_text": "#C C turns to a sink near a window",
+                "start_frame": 48,
+                "stop_frame": 73
+            },
+            {
+                "narration_text": "#C C walks to the sink",
+                "start_frame": 73,
+                "stop_frame": 139
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk to the sink.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns to a sink near a window",
+                "start_frame": 48,
+                "stop_frame": 73
+            },
+            {
+                "narration_text": "#C C walks to the sink",
+                "start_frame": 73,
+                "stop_frame": 139
+            },
+            {
+                "narration_text": "#C C looks at the window",
+                "start_frame": 139,
+                "stop_frame": 645
+            }
+        ]
+    },
+    {
+        "task_goal": "Look at the window from the sink area.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks to the sink",
+                "start_frame": 73,
+                "stop_frame": 139
+            },
+            {
+                "narration_text": "#C C looks at the window",
+                "start_frame": 139,
+                "stop_frame": 645
+            },
+            {
+                "narration_text": "#C C moves along the sink",
+                "start_frame": 645,
+                "stop_frame": 688
+            }
+        ]
+    },
+    {
+        "task_goal": "Look at the window.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks to the sink",
+                "start_frame": 73,
+                "stop_frame": 139
+            },
+            {
+                "narration_text": "#C C looks at the window",
+                "start_frame": 139,
+                "stop_frame": 645
+            },
+            {
+                "narration_text": "#C C moves along the sink",
+                "start_frame": 645,
+                "stop_frame": 688
+            }
+        ]
+    },
+    {
+        "task_goal": "Look at the window intermittently while moving along the sink.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks at the window",
+                "start_frame": 139,
+                "stop_frame": 645
+            },
+            {
+                "narration_text": "#C C moves along the sink",
+                "start_frame": 645,
+                "stop_frame": 688
+            },
+            {
+                "narration_text": "#C C looks at the window",
+                "start_frame": 688,
+                "stop_frame": 830
+            },
+            {
+                "narration_text": "#C C turns to the room",
+                "start_frame": 830,
+                "stop_frame": 869
+            }
+        ]
+    },
+    {
+        "task_goal": "Move along the sink.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks at the window",
+                "start_frame": 139,
+                "stop_frame": 645
+            },
+            {
+                "narration_text": "#C C moves along the sink",
+                "start_frame": 645,
+                "stop_frame": 688
+            },
+            {
+                "narration_text": "#C C looks at the window",
+                "start_frame": 688,
+                "stop_frame": 830
+            }
+        ]
+    },
+    {
+        "task_goal": "Look at the window.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves along the sink",
+                "start_frame": 645,
+                "stop_frame": 688
+            },
+            {
+                "narration_text": "#C C looks at the window",
+                "start_frame": 688,
+                "stop_frame": 830
+            },
+            {
+                "narration_text": "#C C turns to the room",
+                "start_frame": 830,
+                "stop_frame": 869
+            }
+        ]
+    },
+    {
+        "task_goal": "Reposition towards the room.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks at the window",
+                "start_frame": 688,
+                "stop_frame": 830
+            },
+            {
+                "narration_text": "#C C turns to the room",
+                "start_frame": 830,
+                "stop_frame": 869
+            },
+            {
+                "narration_text": "#C C reaches at a table",
+                "start_frame": 869,
+                "stop_frame": 883
+            },
+            {
+                "narration_text": "#C C moves around the table",
+                "start_frame": 883,
+                "stop_frame": 1096
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn to the room.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks at the window",
+                "start_frame": 688,
+                "stop_frame": 830
+            },
+            {
+                "narration_text": "#C C turns to the room",
+                "start_frame": 830,
+                "stop_frame": 869
+            },
+            {
+                "narration_text": "#C C reaches at a table",
+                "start_frame": 869,
+                "stop_frame": 883
+            }
+        ]
+    },
+    {
+        "task_goal": "Reach the table.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns to the room",
+                "start_frame": 830,
+                "stop_frame": 869
+            },
+            {
+                "narration_text": "#C C reaches at a table",
+                "start_frame": 869,
+                "stop_frame": 883
+            },
+            {
+                "narration_text": "#C C moves around the table",
+                "start_frame": 883,
+                "stop_frame": 1096
+            }
+        ]
+    },
+    {
+        "task_goal": "Move around the table and inspect surrounding areas.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C reaches at a table",
+                "start_frame": 869,
+                "stop_frame": 883
+            },
+            {
+                "narration_text": "#C C moves around the table",
+                "start_frame": 883,
+                "stop_frame": 1096
+            },
+            {
+                "narration_text": "#C C turns to a kitchen area",
+                "start_frame": 1096,
+                "stop_frame": 1180
+            },
+            {
+                "narration_text": "#C C looks the kitchen sink",
+                "start_frame": 1180,
+                "stop_frame": 1242
+            },
+            {
+                "narration_text": "#C C turns to the living room",
+                "start_frame": 1242,
+                "stop_frame": 1289
+            },
+            {
+                "narration_text": "#C C walks to a table",
+                "start_frame": 1289,
+                "stop_frame": 1380
+            }
+        ]
+    },
+    {
+        "task_goal": "Move around the table.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C reaches at a table",
+                "start_frame": 869,
+                "stop_frame": 883
+            },
+            {
+                "narration_text": "#C C moves around the table",
+                "start_frame": 883,
+                "stop_frame": 1096
+            },
+            {
+                "narration_text": "#C C turns to a kitchen area",
+                "start_frame": 1096,
+                "stop_frame": 1180
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn to the kitchen area.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves around the table",
+                "start_frame": 883,
+                "stop_frame": 1096
+            },
+            {
+                "narration_text": "#C C turns to a kitchen area",
+                "start_frame": 1096,
+                "stop_frame": 1180
+            },
+            {
+                "narration_text": "#C C looks the kitchen sink",
+                "start_frame": 1180,
+                "stop_frame": 1242
+            }
+        ]
+    },
+    {
+        "task_goal": "Look at the kitchen sink.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns to a kitchen area",
+                "start_frame": 1096,
+                "stop_frame": 1180
+            },
+            {
+                "narration_text": "#C C looks the kitchen sink",
+                "start_frame": 1180,
+                "stop_frame": 1242
+            },
+            {
+                "narration_text": "#C C turns to the living room",
+                "start_frame": 1242,
+                "stop_frame": 1289
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn to the living room.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks the kitchen sink",
+                "start_frame": 1180,
+                "stop_frame": 1242
+            },
+            {
+                "narration_text": "#C C turns to the living room",
+                "start_frame": 1242,
+                "stop_frame": 1289
+            },
+            {
+                "narration_text": "#C C walks to a table",
+                "start_frame": 1289,
+                "stop_frame": 1380
+            }
+        ]
+    },
+    {
+        "task_goal": "Inspect the table and move towards another room.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns to the living room",
+                "start_frame": 1242,
+                "stop_frame": 1289
+            },
+            {
+                "narration_text": "#C C walks to a table",
+                "start_frame": 1289,
+                "stop_frame": 1380
+            },
+            {
+                "narration_text": "#C C walks along the table",
+                "start_frame": 1380,
+                "stop_frame": 1468
+            },
+            {
+                "narration_text": "#C C turns to a room",
+                "start_frame": 1468,
+                "stop_frame": 1518
+            },
+            {
+                "narration_text": "#C C walks to a room",
+                "start_frame": 1518,
+                "stop_frame": 1618
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk to the table.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns to the living room",
+                "start_frame": 1242,
+                "stop_frame": 1289
+            },
+            {
+                "narration_text": "#C C walks to a table",
+                "start_frame": 1289,
+                "stop_frame": 1380
+            },
+            {
+                "narration_text": "#C C walks along the table",
+                "start_frame": 1380,
+                "stop_frame": 1468
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk along the table.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks to a table",
+                "start_frame": 1289,
+                "stop_frame": 1380
+            },
+            {
+                "narration_text": "#C C walks along the table",
+                "start_frame": 1380,
+                "stop_frame": 1468
+            },
+            {
+                "narration_text": "#C C turns to a room",
+                "start_frame": 1468,
+                "stop_frame": 1518
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn to a room.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks along the table",
+                "start_frame": 1380,
+                "stop_frame": 1468
+            },
+            {
+                "narration_text": "#C C turns to a room",
+                "start_frame": 1468,
+                "stop_frame": 1518
+            },
+            {
+                "narration_text": "#C C walks to a room",
+                "start_frame": 1518,
+                "stop_frame": 1618
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk to a room.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns to a room",
+                "start_frame": 1468,
+                "stop_frame": 1518
+            },
+            {
+                "narration_text": "#C C walks to a room",
+                "start_frame": 1518,
+                "stop_frame": 1618
+            }
+        ]
+    }
+]

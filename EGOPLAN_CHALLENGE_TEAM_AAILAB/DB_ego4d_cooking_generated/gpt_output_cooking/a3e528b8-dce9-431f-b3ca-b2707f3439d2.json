@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efkmvdTjuQvNpVo2Qf0xRSSU7xNH",
+    "object": "chat.completion",
+    "created": 1719480648,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cooking pasta\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing the cooking area and water for boiling\",\n      \"start_timestamp\": 53,\n      \"stop_timestamp\": 1504,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Looking around and setting up\",\n          \"start_timestamp\": 53,\n          \"stop_timestamp\": 412\n        },\n        {\n          \"secondary_subgoal\": \"Preparing the first frying pan with water\",\n          \"start_timestamp\": 412,\n          \"stop_timestamp\": 848\n        },\n        {\n          \"secondary_subgoal\": \"Preparing the second frying pan with water\",\n          \"start_timestamp\": 955,\n          \"stop_timestamp\": 1291\n        },\n        {\n          \"secondary_subgoal\": \"Turning on the cooker\",\n          \"start_timestamp\": 1291,\n          \"stop_timestamp\": 1504\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning and organizing the kitchen\",\n      \"start_timestamp\": 1504,\n      \"stop_timestamp\": 2341,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cleaning the kitchen\",\n          \"start_timestamp\": 1504,\n          \"stop_timestamp\": 1756\n        },\n        {\n          \"secondary_subgoal\": \"Looking for and placing packets on the table sink\",\n          \"start_timestamp\": 1756,\n          \"stop_timestamp\": 2325\n        },\n        {\n          \"secondary_subgoal\": \"Placing a glass on the table sink\",\n          \"start_timestamp\": 2325,\n          \"stop_timestamp\": 2341\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing ingredients and making initial setup for cooking\",\n      \"start_timestamp\": 2341,\n      \"stop_timestamp\": 7918,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handling spaghetti\",\n          \"start_timestamp\": 2341,\n          \"stop_timestamp\": 3585\n        },\n        {\n          \"secondary_subgoal\": \"Looking around the kitchen\",\n          \"start_timestamp\": 3585,\n          \"stop_timestamp\": 5205\n        },\n        {\n          \"secondary_subgoal\": \"Picking and washing chopsticks\",\n          \"start_timestamp\": 5205,\n          \"stop_timestamp\": 6478\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning up after washing chopsticks\",\n          \"start_timestamp\": 6478,\n          \"stop_timestamp\": 6644\n        },\n        {\n          \"secondary_subgoal\": \"Looking around and evaluating the boiling water\",\n          \"start_timestamp\": 6644,\n          \"stop_timestamp\": 7918\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking the pasta\",\n      \"start_timestamp\": 7918,\n      \"stop_timestamp\": 15951,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Starting to cook and checking progress\",\n          \"start_timestamp\": 7918,\n          \"stop_timestamp\": 10881\n        },\n        {\n          \"secondary_subgoal\": \"Arranging and cooking pasta\",\n          \"start_timestamp\": 10881,\n          \"stop_timestamp\": 13004\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning a plastic glass\",\n          \"start_timestamp\": 13004,\n          \"stop_timestamp\": 14984\n        },\n        {\n          \"secondary_subgoal\": \"Final stages of cooking pasta\",\n          \"start_timestamp\": 14984,\n          \"stop_timestamp\": 15951\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2529,
+        "completion_tokens": 759,
+        "total_tokens": 3288
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

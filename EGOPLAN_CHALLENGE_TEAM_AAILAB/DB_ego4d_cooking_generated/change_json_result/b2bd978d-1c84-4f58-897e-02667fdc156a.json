@@ -1,0 +1,136 @@
+{
+    "overall_goal": "Prepare a sausage sandwich with juice",
+    "clips": [
+        {
+            "subgoal": "Gather ingredients and utensils",
+            "start_timestamp": 268,
+            "stop_timestamp": 1092,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move around the kitchen",
+                    "start_timestamp": 268,
+                    "stop_timestamp": 357
+                },
+                {
+                    "secondary_subgoal": "Interact with the drawer",
+                    "start_timestamp": 357,
+                    "stop_timestamp": 485
+                },
+                {
+                    "secondary_subgoal": "Look around the kitchen",
+                    "start_timestamp": 555,
+                    "stop_timestamp": 673
+                },
+                {
+                    "secondary_subgoal": "Pick cutting knife",
+                    "start_timestamp": 1092,
+                    "stop_timestamp": 1120
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare sausages",
+            "start_timestamp": 1897,
+            "stop_timestamp": 2733,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open fridge and take sausages",
+                    "start_timestamp": 1897,
+                    "stop_timestamp": 2019
+                },
+                {
+                    "secondary_subgoal": "Place sausages in microwave and start it",
+                    "start_timestamp": 2530,
+                    "stop_timestamp": 2631
+                }
+            ]
+        },
+        {
+            "subgoal": "Get bread from fridge",
+            "start_timestamp": 4771,
+            "stop_timestamp": 5893,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick bread from fridge",
+                    "start_timestamp": 4771,
+                    "stop_timestamp": 5003
+                }
+            ]
+        },
+        {
+            "subgoal": "Apply tomato sauce on bread",
+            "start_timestamp": 6286,
+            "stop_timestamp": 6831,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick tomato sauce",
+                    "start_timestamp": 6286,
+                    "stop_timestamp": 6348
+                },
+                {
+                    "secondary_subgoal": "Apply tomato sauce on bread",
+                    "start_timestamp": 6523,
+                    "stop_timestamp": 6688
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare onions",
+            "start_timestamp": 7002,
+            "stop_timestamp": 8578,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and assemble onion on chopping board",
+                    "start_timestamp": 7002,
+                    "stop_timestamp": 8264
+                },
+                {
+                    "secondary_subgoal": "Put onions in the plate of sausage",
+                    "start_timestamp": 8578,
+                    "stop_timestamp": 8619
+                }
+            ]
+        },
+        {
+            "subgoal": "Store ingredients",
+            "start_timestamp": 8808,
+            "stop_timestamp": 8868,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put items in fridge",
+                    "start_timestamp": 8808,
+                    "stop_timestamp": 8868
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve juice",
+            "start_timestamp": 8973,
+            "stop_timestamp": 9281,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick a bottle of juice and place on the floor",
+                    "start_timestamp": 9002,
+                    "stop_timestamp": 9030
+                },
+                {
+                    "secondary_subgoal": "Hold a bottle of juice",
+                    "start_timestamp": 9052,
+                    "stop_timestamp": 9101
+                }
+            ]
+        },
+        {
+            "subgoal": "Set the table",
+            "start_timestamp": 9385,
+            "stop_timestamp": 9523,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put juice bottle on the table",
+                    "start_timestamp": 9463,
+                    "stop_timestamp": 9523
+                }
+            ]
+        }
+    ]
+}

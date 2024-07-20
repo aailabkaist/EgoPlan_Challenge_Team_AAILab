@@ -1,0 +1,89 @@
+{
+    "overall_goal": "Serve food onto a plate",
+    "clips": [
+        {
+            "subgoal": "Prepare plate and serve initial food",
+            "start_timestamp": 0,
+            "stop_timestamp": 352,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take a plate",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 1
+                },
+                {
+                    "secondary_subgoal": "Move around the room",
+                    "start_timestamp": 1,
+                    "stop_timestamp": 66
+                },
+                {
+                    "secondary_subgoal": "Serve food onto plate",
+                    "start_timestamp": 66,
+                    "stop_timestamp": 298
+                },
+                {
+                    "secondary_subgoal": "Handle ladle after serving food",
+                    "start_timestamp": 298,
+                    "stop_timestamp": 313
+                },
+                {
+                    "secondary_subgoal": "Put ladle aside and close dish",
+                    "start_timestamp": 313,
+                    "stop_timestamp": 352
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve additional food",
+            "start_timestamp": 352,
+            "stop_timestamp": 1697,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move around the room",
+                    "start_timestamp": 352,
+                    "stop_timestamp": 426
+                },
+                {
+                    "secondary_subgoal": "Serve food onto plate",
+                    "start_timestamp": 426,
+                    "stop_timestamp": 719
+                },
+                {
+                    "secondary_subgoal": "Move and take pot lid",
+                    "start_timestamp": 719,
+                    "stop_timestamp": 856
+                },
+                {
+                    "secondary_subgoal": "Serve with tongs",
+                    "start_timestamp": 856,
+                    "stop_timestamp": 1278
+                },
+                {
+                    "secondary_subgoal": "Push dish and take tongs",
+                    "start_timestamp": 1278,
+                    "stop_timestamp": 1330
+                },
+                {
+                    "secondary_subgoal": "Take doughnut with tongs",
+                    "start_timestamp": 1330,
+                    "stop_timestamp": 1447
+                },
+                {
+                    "secondary_subgoal": "Hold doughnut and put in plate",
+                    "start_timestamp": 1447,
+                    "stop_timestamp": 1531
+                },
+                {
+                    "secondary_subgoal": "Push plate and put tongs in dish",
+                    "start_timestamp": 1531,
+                    "stop_timestamp": 1597
+                },
+                {
+                    "secondary_subgoal": "Lift hand",
+                    "start_timestamp": 1597,
+                    "stop_timestamp": 1697
+                }
+            ]
+        }
+    ]
+}

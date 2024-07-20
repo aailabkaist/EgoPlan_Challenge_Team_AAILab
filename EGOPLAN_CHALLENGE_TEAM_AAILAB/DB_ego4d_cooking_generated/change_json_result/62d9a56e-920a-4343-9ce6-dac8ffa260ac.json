@@ -1,0 +1,145 @@
+{
+    "overall_goal": "Prepare and cook seasoned meat using various kitchen activities and utensils.",
+    "clips": [
+        {
+            "subgoal": "Cutting the meat",
+            "start_timestamp": 0,
+            "stop_timestamp": 823,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Holding the knife",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 57
+                },
+                {
+                    "secondary_subgoal": "Cutting the meat",
+                    "start_timestamp": 57,
+                    "stop_timestamp": 777
+                },
+                {
+                    "secondary_subgoal": "Putting knife down",
+                    "start_timestamp": 777,
+                    "stop_timestamp": 823
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing hands before further tasks",
+            "start_timestamp": 823,
+            "stop_timestamp": 1919,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Shaking hands",
+                    "start_timestamp": 823,
+                    "stop_timestamp": 898
+                },
+                {
+                    "secondary_subgoal": "Rinsing hands",
+                    "start_timestamp": 1159,
+                    "stop_timestamp": 1179
+                },
+                {
+                    "secondary_subgoal": "Using detergent",
+                    "start_timestamp": 1242,
+                    "stop_timestamp": 1477
+                },
+                {
+                    "secondary_subgoal": "Rinsing and drying hands",
+                    "start_timestamp": 1511,
+                    "stop_timestamp": 1919
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling polythene bags",
+            "start_timestamp": 898,
+            "stop_timestamp": 3438,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking and putting bags down",
+                    "start_timestamp": 898,
+                    "stop_timestamp": 1015
+                },
+                {
+                    "secondary_subgoal": "Packing the meat",
+                    "start_timestamp": 3241,
+                    "stop_timestamp": 3438
+                }
+            ]
+        },
+        {
+            "subgoal": "Seasoning and mixing the meat",
+            "start_timestamp": 3451,
+            "stop_timestamp": 21179,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening taps and rinsing hands",
+                    "start_timestamp": 3451,
+                    "stop_timestamp": 3533
+                },
+                {
+                    "secondary_subgoal": "Pressing and applying detergent",
+                    "start_timestamp": 3627,
+                    "stop_timestamp": 3831
+                },
+                {
+                    "secondary_subgoal": "Mixing the meat with salts and spices",
+                    "start_timestamp": 7392,
+                    "stop_timestamp": 9062
+                },
+                {
+                    "secondary_subgoal": "Rinsing hands",
+                    "start_timestamp": 7460,
+                    "stop_timestamp": 7499
+                },
+                {
+                    "secondary_subgoal": "Handling spices and containers",
+                    "start_timestamp": 9079,
+                    "stop_timestamp": 10900
+                },
+                {
+                    "secondary_subgoal": "Mixing the food in the polythene bag",
+                    "start_timestamp": 10942,
+                    "stop_timestamp": 11258
+                },
+                {
+                    "secondary_subgoal": "Shaking and pressing polythene bags",
+                    "start_timestamp": 13222,
+                    "stop_timestamp": 13729
+                },
+                {
+                    "secondary_subgoal": "Handling the fridge and food storage",
+                    "start_timestamp": 14415,
+                    "stop_timestamp": 14763
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking the seasoned meat",
+            "start_timestamp": 15456,
+            "stop_timestamp": 21324,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling utensils and pans",
+                    "start_timestamp": 15456,
+                    "stop_timestamp": 15800
+                },
+                {
+                    "secondary_subgoal": "Pouring cooking oil",
+                    "start_timestamp": 19317,
+                    "stop_timestamp": 19385
+                },
+                {
+                    "secondary_subgoal": "Placing meat in the pan",
+                    "start_timestamp": 19955,
+                    "stop_timestamp": 21117
+                },
+                {
+                    "secondary_subgoal": "Frying the meat",
+                    "start_timestamp": 21117,
+                    "stop_timestamp": 21324
+                }
+            ]
+        }
+    ]
+}

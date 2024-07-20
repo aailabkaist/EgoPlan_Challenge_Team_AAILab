@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfo1lVyAENkTzwLxFg4bVEtT4zrM",
+    "object": "chat.completion",
+    "created": 1719242521,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal involving eggs and salmon using the frying pan and other kitchen utensils.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare frying pan and ingredients for cooking.\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 2178,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Adjust camera and set up cooking area.\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 273\n        },\n        {\n          \"secondary_subgoal\": \"Fix the gripper on the frying pan and prepare the pan for cooking.\",\n          \"start_timestamp\": 273,\n          \"stop_timestamp\": 336\n        },\n        {\n          \"secondary_subgoal\": \"Get the necessary ingredients from the fridge (salmon, eggs, mustard).\",\n          \"start_timestamp\": 336,\n          \"stop_timestamp\": 841\n        },\n        {\n          \"secondary_subgoal\": \"Prepare and arrange ingredients on the kitchen table.\",\n          \"start_timestamp\": 841,\n          \"stop_timestamp\": 2204\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Heat the pan and start cooking the eggs.\",\n      \"start_timestamp\": 2204,\n      \"stop_timestamp\": 4130,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Heat frying pan and break the eggs.\",\n          \"start_timestamp\": 2204,\n          \"stop_timestamp\": 3947\n        },\n        {\n          \"secondary_subgoal\": \"Dispose of egg shell and clean hands.\",\n          \"start_timestamp\": 3947,\n          \"stop_timestamp\": 4130\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finish up and serve the eggs.\",\n      \"start_timestamp\": 4130,\n      \"stop_timestamp\": 8578,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Interact with cooking utensils and continue cooking eggs.\",\n          \"start_timestamp\": 4130,\n          \"stop_timestamp\": 7267\n        },\n        {\n          \"secondary_subgoal\": \"Turn eggs, put them on the plate and prepare for salmon.\",\n          \"start_timestamp\": 7267,\n          \"stop_timestamp\": 8578\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook the salmon.\",\n      \"start_timestamp\": 8578,\n      \"stop_timestamp\": 14924,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put salmon on the frying pan and cook.\",\n          \"start_timestamp\": 8578,\n          \"stop_timestamp\": 12824\n        },\n        {\n          \"secondary_subgoal\": \"Add soy sauce and finish cooking the salmon.\",\n          \"start_timestamp\": 12824,\n          \"stop_timestamp\": 14924\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up after cooking.\",\n      \"start_timestamp\": 14924,\n      \"stop_timestamp\": 20427,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean up pan, utensils, and washing hands.\",\n          \"start_timestamp\": 14924,\n          \"stop_timestamp\": 19257\n        },\n        {\n          \"secondary_subgoal\": \"Do additional sink cleaning and general kitchen tidying.\",\n          \"start_timestamp\": 19257,\n          \"stop_timestamp\": 20427\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3200,
+        "completion_tokens": 717,
+        "total_tokens": 3917
+    },
+    "system_fingerprint": "fp_888385ccad"
+}

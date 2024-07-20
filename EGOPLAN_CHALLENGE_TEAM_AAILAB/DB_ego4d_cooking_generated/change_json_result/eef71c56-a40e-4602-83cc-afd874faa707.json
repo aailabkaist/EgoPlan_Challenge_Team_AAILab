@@ -1,0 +1,74 @@
+{
+    "overall_goal": "Clean the kitchen area and organize items on the bench and fridge.",
+    "clips": [
+        {
+            "subgoal": "Clean and organize the bench area",
+            "start_timestamp": 0,
+            "stop_timestamp": 906,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean the bench",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 25
+                },
+                {
+                    "secondary_subgoal": "Place the bottle on the bench",
+                    "start_timestamp": 25,
+                    "stop_timestamp": 128
+                },
+                {
+                    "secondary_subgoal": "Place another bottle on the bench",
+                    "start_timestamp": 128,
+                    "stop_timestamp": 191
+                },
+                {
+                    "secondary_subgoal": "Fold a serviette and clean the bench",
+                    "start_timestamp": 191,
+                    "stop_timestamp": 249
+                },
+                {
+                    "secondary_subgoal": "Pick the pot gripper and clean the bench",
+                    "start_timestamp": 249,
+                    "stop_timestamp": 358
+                },
+                {
+                    "secondary_subgoal": "Clean the pot gripper and place it on the bench",
+                    "start_timestamp": 358,
+                    "stop_timestamp": 401
+                },
+                {
+                    "secondary_subgoal": "Place a bottle on the fridge",
+                    "start_timestamp": 401,
+                    "stop_timestamp": 497
+                },
+                {
+                    "secondary_subgoal": "Clean the bench again and fold the serviettes",
+                    "start_timestamp": 497,
+                    "stop_timestamp": 568
+                },
+                {
+                    "secondary_subgoal": "Clean the wall with the serviette",
+                    "start_timestamp": 568,
+                    "stop_timestamp": 906
+                }
+            ]
+        },
+        {
+            "subgoal": "Complete the task with a final touch",
+            "start_timestamp": 906,
+            "stop_timestamp": 1028,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold the serviette",
+                    "start_timestamp": 906,
+                    "stop_timestamp": 928
+                },
+                {
+                    "secondary_subgoal": "Fix the camera",
+                    "start_timestamp": 928,
+                    "stop_timestamp": 1028
+                }
+            ]
+        }
+    ]
+}

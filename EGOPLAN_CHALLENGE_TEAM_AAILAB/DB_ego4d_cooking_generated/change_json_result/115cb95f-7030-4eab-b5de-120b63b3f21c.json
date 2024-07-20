@@ -1,0 +1,136 @@
+{
+    "overall_goal": "Preparing a meal that includes cooking rice and preparing vegetables.",
+    "clips": [
+        {
+            "subgoal": "Preparing rice",
+            "start_timestamp": 151,
+            "stop_timestamp": 9081,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gathering cooking utensils",
+                    "start_timestamp": 151,
+                    "stop_timestamp": 459
+                },
+                {
+                    "secondary_subgoal": "Pouring water into the pot",
+                    "start_timestamp": 702,
+                    "stop_timestamp": 822
+                },
+                {
+                    "secondary_subgoal": "Handling kitchen tasks",
+                    "start_timestamp": 852,
+                    "stop_timestamp": 1253
+                },
+                {
+                    "secondary_subgoal": "Transporting and positioning the pot",
+                    "start_timestamp": 1253,
+                    "stop_timestamp": 1547
+                },
+                {
+                    "secondary_subgoal": "Preparing rice for cooking",
+                    "start_timestamp": 1547,
+                    "stop_timestamp": 2372
+                },
+                {
+                    "secondary_subgoal": "Cleaning and arranging items",
+                    "start_timestamp": 2372,
+                    "stop_timestamp": 3021
+                },
+                {
+                    "secondary_subgoal": "Preparing rice for spreading",
+                    "start_timestamp": 3021,
+                    "stop_timestamp": 42286
+                },
+                {
+                    "secondary_subgoal": "Slicing vegetables",
+                    "start_timestamp": 42286,
+                    "stop_timestamp": 46361
+                },
+                {
+                    "secondary_subgoal": "Handling cucumber and other tasks",
+                    "start_timestamp": 46361,
+                    "stop_timestamp": 49164
+                },
+                {
+                    "secondary_subgoal": "Slicing bottle guard",
+                    "start_timestamp": 49164,
+                    "stop_timestamp": 51781
+                },
+                {
+                    "secondary_subgoal": "Cooking bottle guard",
+                    "start_timestamp": 51781,
+                    "stop_timestamp": 53565
+                },
+                {
+                    "secondary_subgoal": "Cleaning and organization",
+                    "start_timestamp": 53565,
+                    "stop_timestamp": 55882
+                },
+                {
+                    "secondary_subgoal": "Cleaning and personal care",
+                    "start_timestamp": 55882,
+                    "stop_timestamp": 57776
+                },
+                {
+                    "secondary_subgoal": "Preparing oil for cooking",
+                    "start_timestamp": 57903,
+                    "stop_timestamp": 59350
+                },
+                {
+                    "secondary_subgoal": "Handling garlic and coriander",
+                    "start_timestamp": 59350,
+                    "stop_timestamp": 62146
+                },
+                {
+                    "secondary_subgoal": "Cooking potatoes",
+                    "start_timestamp": 62146,
+                    "stop_timestamp": 63034
+                },
+                {
+                    "secondary_subgoal": "Eating and resting",
+                    "start_timestamp": 63608,
+                    "stop_timestamp": 67364
+                },
+                {
+                    "secondary_subgoal": "Cleaning dishes and organization",
+                    "start_timestamp": 67364,
+                    "stop_timestamp": 68740
+                }
+            ]
+        },
+        {
+            "subgoal": "Knitting the fabric",
+            "start_timestamp": 68740,
+            "stop_timestamp": 148920,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Knitting the garment",
+                    "start_timestamp": 68740,
+                    "stop_timestamp": 146350
+                },
+                {
+                    "secondary_subgoal": "Covering the pot and stirring food",
+                    "start_timestamp": 146350,
+                    "stop_timestamp": 151066
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking and stirring food",
+            "start_timestamp": 151066,
+            "stop_timestamp": 158593,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Smashing and stirring the food",
+                    "start_timestamp": 151066,
+                    "stop_timestamp": 156041
+                },
+                {
+                    "secondary_subgoal": "Adding vegetables to the pot",
+                    "start_timestamp": 156041,
+                    "stop_timestamp": 158593
+                }
+            ]
+        }
+    ]
+}

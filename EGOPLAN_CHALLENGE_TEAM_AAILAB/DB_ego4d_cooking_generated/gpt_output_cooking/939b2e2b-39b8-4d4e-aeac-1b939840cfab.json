@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eh6tt5orERKJQo5B1THB9LUfyz4S",
+    "object": "chat.completion",
+    "created": 1719485863,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Maintain a campfire by periodically adjusting the firewood and monitoring the fire.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Adjust the firewood, then monitor the fire.\",\n      \"start_timestamp\": 26,\n      \"stop_timestamp\": 3491,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Set up the camera for recording.\",\n          \"start_timestamp\": 26,\n          \"stop_timestamp\": 134\n        },\n        {\n          \"secondary_subgoal\": \"Push the firewood into the fire to maintain it.\",\n          \"start_timestamp\": 134,\n          \"stop_timestamp\": 406\n        },\n        {\n          \"secondary_subgoal\": \"Monitor the fire.\",\n          \"start_timestamp\": 406,\n          \"stop_timestamp\": 1215\n        },\n        {\n          \"secondary_subgoal\": \"Look around, probably checking the surroundings.\",\n          \"start_timestamp\": 1215,\n          \"stop_timestamp\": 3249\n        },\n        {\n          \"secondary_subgoal\": \"Monitor the fire.\",\n          \"start_timestamp\": 3249,\n          \"stop_timestamp\": 3391\n        },\n        {\n          \"secondary_subgoal\": \"Push the firewood into the fire to maintain it.\",\n          \"start_timestamp\": 3391,\n          \"stop_timestamp\": 3491\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 378,
+        "completion_tokens": 294,
+        "total_tokens": 672
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

@@ -1,0 +1,178 @@
+{
+    "overall_goal": "C prepares various ingredients by peeling and cutting fruits and vegetables, and organizing them into bowls.",
+    "clips": [
+        {
+            "subgoal": "Prepare thorny fruit",
+            "start_timestamp": -1,
+            "stop_timestamp": 1774,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pluck and drop mesocarp",
+                    "start_timestamp": -1,
+                    "stop_timestamp": 28
+                },
+                {
+                    "secondary_subgoal": "Pick and cut endocarp",
+                    "start_timestamp": 28,
+                    "stop_timestamp": 764
+                },
+                {
+                    "secondary_subgoal": "Drop endocarp parts in bowl",
+                    "start_timestamp": 764,
+                    "stop_timestamp": 1683
+                }
+            ]
+        },
+        {
+            "subgoal": "Move items",
+            "start_timestamp": 1683,
+            "stop_timestamp": 3021,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move knife and fruit piece",
+                    "start_timestamp": 1683,
+                    "stop_timestamp": 2197
+                },
+                {
+                    "secondary_subgoal": "Move bowl, magazine, and plate",
+                    "start_timestamp": 2197,
+                    "stop_timestamp": 3021
+                }
+            ]
+        },
+        {
+            "subgoal": "Adjust and organize",
+            "start_timestamp": 3021,
+            "stop_timestamp": 5213,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Spread and adjust magazine",
+                    "start_timestamp": 3021,
+                    "stop_timestamp": 3632
+                },
+                {
+                    "secondary_subgoal": "Pull magazine and other adjustments",
+                    "start_timestamp": 3632,
+                    "stop_timestamp": 5213
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut and peel various ingredients",
+            "start_timestamp": 5213,
+            "stop_timestamp": 7023,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut, peel endocarp and ginger",
+                    "start_timestamp": 5213,
+                    "stop_timestamp": 6514
+                },
+                {
+                    "secondary_subgoal": "Peel and place seeds from endocarp",
+                    "start_timestamp": 6514,
+                    "stop_timestamp": 6970
+                },
+                {
+                    "secondary_subgoal": "Finalize endocarp peeling",
+                    "start_timestamp": 6970,
+                    "stop_timestamp": 7023
+                }
+            ]
+        },
+        {
+            "subgoal": "Peel and prepare garlic",
+            "start_timestamp": 16829,
+            "stop_timestamp": 34517,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel and cut garlic",
+                    "start_timestamp": 16829,
+                    "stop_timestamp": 17371
+                },
+                {
+                    "secondary_subgoal": "Peel and place garlic outer layers",
+                    "start_timestamp": 17371,
+                    "stop_timestamp": 18091
+                },
+                {
+                    "secondary_subgoal": "Break and cut garlic",
+                    "start_timestamp": 18091,
+                    "stop_timestamp": 18877
+                },
+                {
+                    "secondary_subgoal": "Continue peeling garlic with interruptions",
+                    "start_timestamp": 18877,
+                    "stop_timestamp": 19596
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare sapote fruit",
+            "start_timestamp": 34517,
+            "stop_timestamp": 50726,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel and cut sapote fruit",
+                    "start_timestamp": 34517,
+                    "stop_timestamp": 36308
+                },
+                {
+                    "secondary_subgoal": "Peel, cut and place sapote pieces",
+                    "start_timestamp": 36308,
+                    "stop_timestamp": 40171
+                },
+                {
+                    "secondary_subgoal": "Finish sapote fruit preparation",
+                    "start_timestamp": 40171,
+                    "stop_timestamp": 50726
+                }
+            ]
+        },
+        {
+            "subgoal": "Peel and cut ginger",
+            "start_timestamp": 168,
+            "stop_timestamp": 12079,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel and cut ginger",
+                    "start_timestamp": 968,
+                    "stop_timestamp": 8246
+                },
+                {
+                    "secondary_subgoal": "Finish cutting ginger",
+                    "start_timestamp": 8246,
+                    "stop_timestamp": 12079
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cashew nuts",
+            "start_timestamp": 12350,
+            "stop_timestamp": 20779,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel and cut cashew nuts",
+                    "start_timestamp": 12350,
+                    "stop_timestamp": 14178
+                },
+                {
+                    "secondary_subgoal": "Organize and finish cashew nuts",
+                    "start_timestamp": 14178,
+                    "stop_timestamp": 20779
+                }
+            ]
+        },
+        {
+            "subgoal": "Miscellaneous preparations",
+            "start_timestamp": 104473,
+            "stop_timestamp": 107094,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Final touches and clean up",
+                    "start_timestamp": 104473,
+                    "stop_timestamp": 107094
+                }
+            ]
+        }
+    ]
+}

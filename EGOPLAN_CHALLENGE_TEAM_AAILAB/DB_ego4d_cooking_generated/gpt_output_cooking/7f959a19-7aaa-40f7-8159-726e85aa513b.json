@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeFrsA4xD1kiDfCJFP92RhOQG5ja",
+    "object": "chat.completion",
+    "created": 1719474887,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare bell peppers by cutting them and putting them in a frying pan.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare the workstation and bell peppers\",\n      \"start_timestamp\": 251,\n      \"stop_timestamp\": 1932,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and open the packed bell peppers\",\n          \"start_timestamp\": 251,\n          \"stop_timestamp\": 545\n        },\n        {\n          \"secondary_subgoal\": \"Pick and drop other packed items\",\n          \"start_timestamp\": 545,\n          \"stop_timestamp\": 583\n        },\n        {\n          \"secondary_subgoal\": \"Put on the fire\",\n          \"start_timestamp\": 583,\n          \"stop_timestamp\": 645\n        },\n        {\n          \"secondary_subgoal\": \"Handle the phone\",\n          \"start_timestamp\": 645,\n          \"stop_timestamp\": 823\n        },\n        {\n          \"secondary_subgoal\": \"Remove and drop the bell peppers\",\n          \"start_timestamp\": 823,\n          \"stop_timestamp\": 1006\n        },\n        {\n          \"secondary_subgoal\": \"Throw sealed paper and pick knife\",\n          \"start_timestamp\": 1006,\n          \"stop_timestamp\": 1130\n        },\n        {\n          \"secondary_subgoal\": \"Pick and drop sieve basket\",\n          \"start_timestamp\": 1279,\n          \"stop_timestamp\": 1301\n        },\n        {\n          \"secondary_subgoal\": \"Pick and drop sachet\",\n          \"start_timestamp\": 1471,\n          \"stop_timestamp\": 1539\n        },\n        {\n          \"secondary_subgoal\": \"Open tap and wash bell peppers\",\n          \"start_timestamp\": 1606,\n          \"stop_timestamp\": 1701\n        },\n        {\n          \"secondary_subgoal\": \"Close tap and pour bell peppers in sieve basket\",\n          \"start_timestamp\": 1870,\n          \"stop_timestamp\": 1932\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cut the bell peppers\",\n      \"start_timestamp\": 2058,\n      \"stop_timestamp\": 3598,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut bell peppers and keep alternating bell pepper locations\",\n          \"start_timestamp\": 2058,\n          \"stop_timestamp\": 3542\n        },\n        {\n          \"secondary_subgoal\": \"Handle foil paper, knife, and cleaning up\",\n          \"start_timestamp\": 3542,\n          \"stop_timestamp\": 3598\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and clean bell peppers\",\n      \"start_timestamp\": 4003,\n      \"stop_timestamp\": 7842,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Open, wash and close tap multiple times\",\n          \"start_timestamp\": 4003,\n          \"stop_timestamp\": 7842\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cut and clean bell peppers and pots\",\n      \"start_timestamp\": 7920,\n      \"stop_timestamp\": 14833,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut and clean bell peppers\",\n          \"start_timestamp\": 7920,\n          \"stop_timestamp\": 14833\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Place bell pepper pieces in frying pan\",\n      \"start_timestamp\": 15463,\n      \"stop_timestamp\": 15984,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Place bell pepper pieces in frying pan\",\n          \"start_timestamp\": 15463,\n          \"stop_timestamp\": 15984\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 5083,
+        "completion_tokens": 787,
+        "total_tokens": 5870
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

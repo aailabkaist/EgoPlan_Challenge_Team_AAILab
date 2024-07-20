@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfO1yTWVuV5i6BVW4KUgAiT0bnuU",
+    "object": "chat.completion",
+    "created": 1719240909,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and organizing baking items in the kitchen\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Organizing kitchen items\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 60,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Putting down the phone\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 60\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handling baking equipment\",\n      \"start_timestamp\": 60,\n      \"stop_timestamp\": 718,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Opening and clearing the microwave\",\n          \"start_timestamp\": 60,\n          \"stop_timestamp\": 382\n        },\n        {\n          \"secondary_subgoal\": \"Placing baking items on the counter\",\n          \"start_timestamp\": 382,\n          \"stop_timestamp\": 718\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning and shaking the kitchen towel\",\n      \"start_timestamp\": 718,\n      \"stop_timestamp\": 1795,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Straightening and placing the kitchen towel\",\n          \"start_timestamp\": 718,\n          \"stop_timestamp\": 1660\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning and shaking the kitchen towel\",\n          \"start_timestamp\": 1660,\n          \"stop_timestamp\": 1795\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handling baking items\",\n      \"start_timestamp\": 1795,\n      \"stop_timestamp\": 2194,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Placing items on the oven rack\",\n          \"start_timestamp\": 1795,\n          \"stop_timestamp\": 2151\n        },\n        {\n          \"secondary_subgoal\": \"Using the microwave\",\n          \"start_timestamp\": 2151,\n          \"stop_timestamp\": 2194\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Placing items in the microwave\",\n      \"start_timestamp\": 2194,\n      \"stop_timestamp\": 2479,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Putting plastic dish in the microwave\",\n          \"start_timestamp\": 2194,\n          \"stop_timestamp\": 2434\n        },\n        {\n          \"secondary_subgoal\": \"Closing the microwave\",\n          \"start_timestamp\": 2434,\n          \"stop_timestamp\": 2479\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Using the phone\",\n      \"start_timestamp\": 2479,\n      \"stop_timestamp\": 2579,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Operating the phone\",\n          \"start_timestamp\": 2479,\n          \"stop_timestamp\": 2579\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1194,
+        "completion_tokens": 620,
+        "total_tokens": 1814
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

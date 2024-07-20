@@ -1,0 +1,156 @@
+{
+    "overall_goal": "Prepare and package meat with seasoning for storage or cooking",
+    "clips": [
+        {
+            "subgoal": "Set up and operate the phone",
+            "start_timestamp": 0,
+            "stop_timestamp": 125,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjust camera",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 36
+                },
+                {
+                    "secondary_subgoal": "Open flap of phone compartment",
+                    "start_timestamp": 36,
+                    "stop_timestamp": 54
+                },
+                {
+                    "secondary_subgoal": "Operate phone",
+                    "start_timestamp": 54,
+                    "stop_timestamp": 92
+                },
+                {
+                    "secondary_subgoal": "Close phone flap",
+                    "start_timestamp": 92,
+                    "stop_timestamp": 125
+                }
+            ]
+        },
+        {
+            "subgoal": "Retrieve meat from the freezer",
+            "start_timestamp": 139,
+            "stop_timestamp": 406,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk to the freezer",
+                    "start_timestamp": 139,
+                    "stop_timestamp": 167
+                },
+                {
+                    "secondary_subgoal": "Open freezer",
+                    "start_timestamp": 167,
+                    "stop_timestamp": 221
+                },
+                {
+                    "secondary_subgoal": "Stare in the freezer",
+                    "start_timestamp": 221,
+                    "stop_timestamp": 275
+                },
+                {
+                    "secondary_subgoal": "Pick packed meat from the freezer",
+                    "start_timestamp": 275,
+                    "stop_timestamp": 371
+                },
+                {
+                    "secondary_subgoal": "Close freezer",
+                    "start_timestamp": 371,
+                    "stop_timestamp": 406
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and package the meat",
+            "start_timestamp": 406,
+            "stop_timestamp": 8751,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Unpack meat from original packaging",
+                    "start_timestamp": 406,
+                    "stop_timestamp": 544
+                },
+                {
+                    "secondary_subgoal": "Remove packed meat from paper",
+                    "start_timestamp": 544,
+                    "stop_timestamp": 564
+                },
+                {
+                    "secondary_subgoal": "Drop packaging papers",
+                    "start_timestamp": 564,
+                    "stop_timestamp": 582
+                },
+                {
+                    "secondary_subgoal": "Turn on faucet and rinse hands",
+                    "start_timestamp": 582,
+                    "stop_timestamp": 695
+                },
+                {
+                    "secondary_subgoal": "Turn off faucet and dry hands",
+                    "start_timestamp": 695,
+                    "stop_timestamp": 864
+                },
+                {
+                    "secondary_subgoal": "Open cabinet and retrieve Ziploc bags",
+                    "start_timestamp": 864,
+                    "stop_timestamp": 995
+                },
+                {
+                    "secondary_subgoal": "Pick Ziploc bags, drop box back in cabinet, and close cabinet",
+                    "start_timestamp": 995,
+                    "stop_timestamp": 1250
+                },
+                {
+                    "secondary_subgoal": "Move to another area, drop Ziploc bags, retrieve and set up weighing scale",
+                    "start_timestamp": 1250,
+                    "stop_timestamp": 1544
+                },
+                {
+                    "secondary_subgoal": "Prepare chopsticks, open packaging and place chopsticks",
+                    "start_timestamp": 1614,
+                    "stop_timestamp": 1932
+                },
+                {
+                    "secondary_subgoal": "Remove meat from unclogging film and begin weighing meat",
+                    "start_timestamp": 1962,
+                    "stop_timestamp": 4005
+                },
+                {
+                    "secondary_subgoal": "Drop packed meat and move meat container",
+                    "start_timestamp": 4140,
+                    "stop_timestamp": 4191
+                },
+                {
+                    "secondary_subgoal": "Open a package, retrieve and package meat, and weigh meat",
+                    "start_timestamp": 4229,
+                    "stop_timestamp": 5273
+                },
+                {
+                    "secondary_subgoal": "Retrieve additional items from the freezer, fridge, and cabinets, and continue unpacking and weighing meat",
+                    "start_timestamp": 5313,
+                    "stop_timestamp": 11146
+                },
+                {
+                    "secondary_subgoal": "Drying hands, cabinetry, and handling various bottles and containers",
+                    "start_timestamp": 11146,
+                    "stop_timestamp": 13349
+                },
+                {
+                    "secondary_subgoal": "Prepare and add various pastes and sauces to the meat",
+                    "start_timestamp": 13349,
+                    "stop_timestamp": 20778
+                },
+                {
+                    "secondary_subgoal": "Packaging bag and handling small objects in the kitchen",
+                    "start_timestamp": 20778,
+                    "stop_timestamp": 21323
+                },
+                {
+                    "secondary_subgoal": "Inspecting and managing items in the kitchen",
+                    "start_timestamp": 21323,
+                    "stop_timestamp": 21777
+                }
+            ]
+        }
+    ]
+}

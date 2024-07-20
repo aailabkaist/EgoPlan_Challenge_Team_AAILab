@@ -1,0 +1,328 @@
+{
+    "overall_goal": "Prepare a mushroom and vegetable dish",
+    "clips": [
+        {
+            "subgoal": "Prepare ingredients and begin cooking mushrooms",
+            "start_timestamp": 0,
+            "stop_timestamp": 2440,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle paper",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 41
+                },
+                {
+                    "secondary_subgoal": "Turn around",
+                    "start_timestamp": 41,
+                    "stop_timestamp": 78
+                },
+                {
+                    "secondary_subgoal": "Pick knife and mushrooms",
+                    "start_timestamp": 78,
+                    "stop_timestamp": 228
+                },
+                {
+                    "secondary_subgoal": "Put mushrooms in cooking pot",
+                    "start_timestamp": 228,
+                    "stop_timestamp": 448
+                },
+                {
+                    "secondary_subgoal": "Put another mushroom in cooking pot",
+                    "start_timestamp": 448,
+                    "stop_timestamp": 573
+                },
+                {
+                    "secondary_subgoal": "Handle knife and paper",
+                    "start_timestamp": 573,
+                    "stop_timestamp": 731
+                },
+                {
+                    "secondary_subgoal": "Put papers in the sink",
+                    "start_timestamp": 731,
+                    "stop_timestamp": 789
+                },
+                {
+                    "secondary_subgoal": "Clear chopping board and put mushrooms in cooking pot",
+                    "start_timestamp": 789,
+                    "stop_timestamp": 868
+                },
+                {
+                    "secondary_subgoal": "Pick cooking stick",
+                    "start_timestamp": 868,
+                    "stop_timestamp": 901
+                },
+                {
+                    "secondary_subgoal": "Stir mushrooms with cooking stick",
+                    "start_timestamp": 901,
+                    "stop_timestamp": 2357
+                },
+                {
+                    "secondary_subgoal": "Drop cooking stick and pick lid",
+                    "start_timestamp": 2357,
+                    "stop_timestamp": 2440
+                }
+            ]
+        },
+        {
+            "subgoal": "Add seasonings and additional ingredients",
+            "start_timestamp": 2440,
+            "stop_timestamp": 3920,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Close cooking pot and drop cooking stick",
+                    "start_timestamp": 2440,
+                    "stop_timestamp": 2525
+                },
+                {
+                    "secondary_subgoal": "Pick and drop papers",
+                    "start_timestamp": 2525,
+                    "stop_timestamp": 2860
+                },
+                {
+                    "secondary_subgoal": "Add and drop bottle",
+                    "start_timestamp": 2860,
+                    "stop_timestamp": 3019
+                },
+                {
+                    "secondary_subgoal": "Pick and add another bottle",
+                    "start_timestamp": 3019,
+                    "stop_timestamp": 3147
+                },
+                {
+                    "secondary_subgoal": "Add another bottle and drop it",
+                    "start_timestamp": 3147,
+                    "stop_timestamp": 3398
+                },
+                {
+                    "secondary_subgoal": "Drop measuring spoon on chopping board",
+                    "start_timestamp": 3398,
+                    "stop_timestamp": 3478
+                },
+                {
+                    "secondary_subgoal": "Pick and open bottle of spices",
+                    "start_timestamp": 3478,
+                    "stop_timestamp": 3580
+                },
+                {
+                    "secondary_subgoal": "Scoop and add spices",
+                    "start_timestamp": 3580,
+                    "stop_timestamp": 3739
+                },
+                {
+                    "secondary_subgoal": "Close and drop spice bottle",
+                    "start_timestamp": 3739,
+                    "stop_timestamp": 3860
+                },
+                {
+                    "secondary_subgoal": "Pick cooking stick",
+                    "start_timestamp": 3860,
+                    "stop_timestamp": 3920
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook and test mushroom and vegetable mixture",
+            "start_timestamp": 3920,
+            "stop_timestamp": 10211,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir mushrooms with cooking stick",
+                    "start_timestamp": 3920,
+                    "stop_timestamp": 4573
+                },
+                {
+                    "secondary_subgoal": "Regulate gas cooker",
+                    "start_timestamp": 4573,
+                    "stop_timestamp": 4626
+                },
+                {
+                    "secondary_subgoal": "Stir mushrooms and test",
+                    "start_timestamp": 4626,
+                    "stop_timestamp": 5133
+                },
+                {
+                    "secondary_subgoal": "Pick and put vegetables in cooking pot",
+                    "start_timestamp": 5133,
+                    "stop_timestamp": 5453
+                },
+                {
+                    "secondary_subgoal": "Drop basket in sink",
+                    "start_timestamp": 5453,
+                    "stop_timestamp": 5527
+                },
+                {
+                    "secondary_subgoal": "Pick and pour #unsure in basket",
+                    "start_timestamp": 5527,
+                    "stop_timestamp": 5849
+                },
+                {
+                    "secondary_subgoal": "Pick up #unsure",
+                    "start_timestamp": 5849,
+                    "stop_timestamp": 5927
+                },
+                {
+                    "secondary_subgoal": "Pour water in sink",
+                    "start_timestamp": 5927,
+                    "stop_timestamp": 6006
+                },
+                {
+                    "secondary_subgoal": "Chop #unsure",
+                    "start_timestamp": 6006,
+                    "stop_timestamp": 6534
+                },
+                {
+                    "secondary_subgoal": "Wash scissors",
+                    "start_timestamp": 6534,
+                    "stop_timestamp": 6684
+                },
+                {
+                    "secondary_subgoal": "Close water tap",
+                    "start_timestamp": 6684,
+                    "stop_timestamp": 6721
+                },
+                {
+                    "secondary_subgoal": "Pick and stir vegetables in cooking pot",
+                    "start_timestamp": 6721,
+                    "stop_timestamp": 7488
+                },
+                {
+                    "secondary_subgoal": "Drop dish on gas cooker",
+                    "start_timestamp": 7488,
+                    "stop_timestamp": 7532
+                },
+                {
+                    "secondary_subgoal": "Stir vegetables with cooking stick",
+                    "start_timestamp": 7532,
+                    "stop_timestamp": 8157
+                },
+                {
+                    "secondary_subgoal": "Lick vegetable",
+                    "start_timestamp": 8157,
+                    "stop_timestamp": 8208
+                },
+                {
+                    "secondary_subgoal": "Pick and add #unsure in cooking pot",
+                    "start_timestamp": 8208,
+                    "stop_timestamp": 8326
+                },
+                {
+                    "secondary_subgoal": "Stir #unsure in cooking pot",
+                    "start_timestamp": 8326,
+                    "stop_timestamp": 8596
+                },
+                {
+                    "secondary_subgoal": "Walk around and put dish in sink",
+                    "start_timestamp": 8596,
+                    "stop_timestamp": 8681
+                },
+                {
+                    "secondary_subgoal": "Shake cooking pot",
+                    "start_timestamp": 8681,
+                    "stop_timestamp": 8775
+                },
+                {
+                    "secondary_subgoal": "Stir #unsure with cooking stick",
+                    "start_timestamp": 8775,
+                    "stop_timestamp": 9669
+                },
+                {
+                    "secondary_subgoal": "Wipe cooking stick",
+                    "start_timestamp": 9669,
+                    "stop_timestamp": 9878
+                },
+                {
+                    "secondary_subgoal": "Drop cooking stick on chopping board",
+                    "start_timestamp": 9878,
+                    "stop_timestamp": 9940
+                },
+                {
+                    "secondary_subgoal": "Pick and put egg in cooking pot",
+                    "start_timestamp": 9940,
+                    "stop_timestamp": 10118
+                },
+                {
+                    "secondary_subgoal": "Stir mixture with cooking stick",
+                    "start_timestamp": 10118,
+                    "stop_timestamp": 10373
+                },
+                {
+                    "secondary_subgoal": "Walk around and open water tap",
+                    "start_timestamp": 10373,
+                    "stop_timestamp": 10449
+                },
+                {
+                    "secondary_subgoal": "Wash dish and drop it",
+                    "start_timestamp": 10449,
+                    "stop_timestamp": 10516
+                },
+                {
+                    "secondary_subgoal": "Pick soap and put on scouring pad",
+                    "start_timestamp": 10516,
+                    "stop_timestamp": 10651
+                },
+                {
+                    "secondary_subgoal": "Wash utensils",
+                    "start_timestamp": 10651,
+                    "stop_timestamp": 12762
+                }
+            ]
+        },
+        {
+            "subgoal": "Final adjustments and clean up",
+            "start_timestamp": 10211,
+            "stop_timestamp": 20174,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir mixture with cooking stick",
+                    "start_timestamp": 12853,
+                    "stop_timestamp": 13302
+                },
+                {
+                    "secondary_subgoal": "Test with chopping sticks",
+                    "start_timestamp": 13404,
+                    "stop_timestamp": 13594
+                },
+                {
+                    "secondary_subgoal": "Rinse hands and measuring spoon",
+                    "start_timestamp": 13603,
+                    "stop_timestamp": 13850
+                },
+                {
+                    "secondary_subgoal": "Add #unsure to cooking pot",
+                    "start_timestamp": 13850,
+                    "stop_timestamp": 14136
+                },
+                {
+                    "secondary_subgoal": "Handle paper and pour spices in cup",
+                    "start_timestamp": 14201,
+                    "stop_timestamp": 14478
+                },
+                {
+                    "secondary_subgoal": "Stir spices and mixture with cooking stick",
+                    "start_timestamp": 14478,
+                    "stop_timestamp": 16585
+                },
+                {
+                    "secondary_subgoal": "Regulate gas cooker",
+                    "start_timestamp": 16585,
+                    "stop_timestamp": 16634
+                },
+                {
+                    "secondary_subgoal": "Clean utensils",
+                    "start_timestamp": 16634,
+                    "stop_timestamp": 19504
+                },
+                {
+                    "secondary_subgoal": "Rinse hands and polythene paper and dispose",
+                    "start_timestamp": 19846,
+                    "stop_timestamp": 20037
+                },
+                {
+                    "secondary_subgoal": "Adjust camera",
+                    "start_timestamp": 20058,
+                    "stop_timestamp": 20174
+                }
+            ]
+        }
+    ]
+}

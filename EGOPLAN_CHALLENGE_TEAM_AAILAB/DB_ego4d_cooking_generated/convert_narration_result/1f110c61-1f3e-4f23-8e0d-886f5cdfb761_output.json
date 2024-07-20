@@ -1,0 +1,362 @@
+[
+    {
+        "task_goal": "Gathering tools and ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Looks around",
+                "start_frame": 174,
+                "stop_frame": 239
+            },
+            {
+                "narration_text": "Moves towards a dustbin",
+                "start_frame": 239,
+                "stop_frame": 664
+            },
+            {
+                "narration_text": "Turns around",
+                "start_frame": 664,
+                "stop_frame": 788
+            },
+            {
+                "narration_text": "Takes a knife",
+                "start_frame": 788,
+                "stop_frame": 1343
+            },
+            {
+                "narration_text": "Turns to his left",
+                "start_frame": 1343,
+                "stop_frame": 1372
+            },
+            {
+                "narration_text": "Turns tap on",
+                "start_frame": 1372,
+                "stop_frame": 3387
+            },
+            {
+                "narration_text": "Puts onions on a glass tray",
+                "start_frame": 3387,
+                "stop_frame": 3574
+            },
+            {
+                "narration_text": "Chops onions on a chopping board",
+                "start_frame": 3574,
+                "stop_frame": 4053
+            }
+        ]
+    },
+    {
+        "task_goal": "Chopping onions",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts onions on a glass tray",
+                "start_frame": 3387,
+                "stop_frame": 3574
+            },
+            {
+                "narration_text": "Chops onions on a chopping board",
+                "start_frame": 3574,
+                "stop_frame": 4053
+            },
+            {
+                "narration_text": "Turns to her left",
+                "start_frame": 4053,
+                "stop_frame": 4102
+            }
+        ]
+    },
+    {
+        "task_goal": "Transferring chopped onions to frying pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Chops onions on a chopping board",
+                "start_frame": 3574,
+                "stop_frame": 4053
+            },
+            {
+                "narration_text": "Turns to her left",
+                "start_frame": 4053,
+                "stop_frame": 4102
+            },
+            {
+                "narration_text": "Pours onions on a frying pan",
+                "start_frame": 4102,
+                "stop_frame": 4142
+            },
+            {
+                "narration_text": "Walks towards a fridge",
+                "start_frame": 4142,
+                "stop_frame": 4187
+            }
+        ]
+    },
+    {
+        "task_goal": "Fetching additional ingredients from fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours onions on a frying pan",
+                "start_frame": 4102,
+                "stop_frame": 4142
+            },
+            {
+                "narration_text": "Walks towards a fridge",
+                "start_frame": 4142,
+                "stop_frame": 4187
+            },
+            {
+                "narration_text": "Opens fridge door",
+                "start_frame": 4187,
+                "stop_frame": 4325
+            },
+            {
+                "narration_text": "Walks back to the electric cooker",
+                "start_frame": 4325,
+                "stop_frame": 4386
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening fridge and fetching ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks towards a fridge",
+                "start_frame": 4142,
+                "stop_frame": 4187
+            },
+            {
+                "narration_text": "Opens fridge door",
+                "start_frame": 4187,
+                "stop_frame": 4325
+            },
+            {
+                "narration_text": "Walks back to the electric cooker",
+                "start_frame": 4325,
+                "stop_frame": 4386
+            }
+        ]
+    },
+    {
+        "task_goal": "Continuous chopping and frying onions",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens fridge door",
+                "start_frame": 4187,
+                "stop_frame": 4325
+            },
+            {
+                "narration_text": "Walks back to the electric cooker",
+                "start_frame": 4325,
+                "stop_frame": 4386
+            },
+            {
+                "narration_text": "Turns to her right",
+                "start_frame": 4386,
+                "stop_frame": 4421
+            },
+            {
+                "narration_text": "Walks towards the dustbin",
+                "start_frame": 4421,
+                "stop_frame": 4466
+            },
+            {
+                "narration_text": "Opens the dustbin",
+                "start_frame": 4466,
+                "stop_frame": 4494
+            },
+            {
+                "narration_text": "Turns to her right",
+                "start_frame": 4494,
+                "stop_frame": 4513
+            },
+            {
+                "narration_text": "Walks back to the electric cooker",
+                "start_frame": 4513,
+                "stop_frame": 4583
+            },
+            {
+                "narration_text": "Looks at the onions in the glass tray",
+                "start_frame": 4583,
+                "stop_frame": 4647
+            },
+            {
+                "narration_text": "Turns to her left",
+                "start_frame": 4647,
+                "stop_frame": 4665
+            },
+            {
+                "narration_text": "Moves towards the electric cooker",
+                "start_frame": 4665,
+                "stop_frame": 4852
+            },
+            {
+                "narration_text": "Flips the pan",
+                "start_frame": 4852,
+                "stop_frame": 4992
+            },
+            {
+                "narration_text": "Turns to her right",
+                "start_frame": 4992,
+                "stop_frame": 5112
+            },
+            {
+                "narration_text": "Chops onions on a chopping board",
+                "start_frame": 5112,
+                "stop_frame": 5555
+            },
+            {
+                "narration_text": "Turns to her left",
+                "start_frame": 5555,
+                "stop_frame": 5613
+            },
+            {
+                "narration_text": "Pours onions on a frying pan",
+                "start_frame": 5613,
+                "stop_frame": 5695
+            },
+            {
+                "narration_text": "Turns to her right",
+                "start_frame": 5695,
+                "stop_frame": 5836
+            },
+            {
+                "narration_text": "Chops onion on a chopping board",
+                "start_frame": 5836,
+                "stop_frame": 6113
+            },
+            {
+                "narration_text": "Turns to her left",
+                "start_frame": 6113,
+                "stop_frame": 6182
+            },
+            {
+                "narration_text": "Pours onions on the frying pan",
+                "start_frame": 6182,
+                "stop_frame": 6298
+            },
+            {
+                "narration_text": "Turns to her right",
+                "start_frame": 6298,
+                "stop_frame": 6359
+            }
+        ]
+    },
+    {
+        "task_goal": "Chopping onions",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Chops onions on a chopping board",
+                "start_frame": 5112,
+                "stop_frame": 5555
+            },
+            {
+                "narration_text": "Turns to her left",
+                "start_frame": 5555,
+                "stop_frame": 5613
+            },
+            {
+                "narration_text": "Pours onions on a frying pan",
+                "start_frame": 5613,
+                "stop_frame": 5695
+            },
+            {
+                "narration_text": "Turns to her right",
+                "start_frame": 5695,
+                "stop_frame": 5836
+            }
+        ]
+    },
+    {
+        "task_goal": "Adding chopped onions to frying pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours onions on a frying pan",
+                "start_frame": 5613,
+                "stop_frame": 5695
+            },
+            {
+                "narration_text": "Turns to her right",
+                "start_frame": 5695,
+                "stop_frame": 5836
+            },
+            {
+                "narration_text": "Chops onion on a chopping board",
+                "start_frame": 5836,
+                "stop_frame": 6113
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing the spaghetti spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks to the sink",
+                "start_frame": 30044,
+                "stop_frame": 30088
+            },
+            {
+                "narration_text": "Turns on sink tap with left hand",
+                "start_frame": 30088,
+                "stop_frame": 30165
+            },
+            {
+                "narration_text": "Washes spaghetti spoon in right hand with tap water",
+                "start_frame": 30165,
+                "stop_frame": 30300
+            },
+            {
+                "narration_text": "Walks back to the gas cooker",
+                "start_frame": 30300,
+                "stop_frame": 30428
+            },
+            {
+                "narration_text": "Stands on the gas",
+                "start_frame": 30428,
+                "stop_frame": 30491
+            }
+        ]
+    },
+    {
+        "task_goal": "Serving food from pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Serves food",
+                "start_frame": 38085,
+                "stop_frame": 38264
+            },
+            {
+                "narration_text": " lifts spoon",
+                "start_frame": 38264,
+                "stop_frame": 38313
+            },
+            {
+                "narration_text": "Moves",
+                "start_frame": 38313,
+                "stop_frame": 38387
+            },
+            {
+                "narration_text": "Picks cooking pot",
+                "start_frame": 38387,
+                "stop_frame": 38486
+            },
+            {
+                "narration_text": "Opens cupboard",
+                "start_frame": 38486,
+                "stop_frame": 38518
+            },
+            {
+                "narration_text": "Picks plate",
+                "start_frame": 38518,
+                "stop_frame": 38612
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 38612,
+                "stop_frame": 38653
+            },
+            {
+                "narration_text": "Lifts hands",
+                "start_frame": 38653,
+                "stop_frame": 38753
+            }
+        ]
+    }
+]

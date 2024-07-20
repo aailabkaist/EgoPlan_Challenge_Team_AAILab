@@ -1,0 +1,105 @@
+{
+    "overall_goal": "Cooking a meal, including chicken and soup, and preparing the food for serving.",
+    "clips": [
+        {
+            "subgoal": "Prepare the Chicken",
+            "start_timestamp": 148,
+            "stop_timestamp": 3991,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on cooker and handle chicken",
+                    "start_timestamp": 201,
+                    "stop_timestamp": 705
+                },
+                {
+                    "secondary_subgoal": "Season the soup",
+                    "start_timestamp": 1102,
+                    "stop_timestamp": 1648
+                },
+                {
+                    "secondary_subgoal": "Stir and serve the soup",
+                    "start_timestamp": 1747,
+                    "stop_timestamp": 2223
+                },
+                {
+                    "secondary_subgoal": "Adjust cooker and handle chicken with chopsticks",
+                    "start_timestamp": 2223,
+                    "stop_timestamp": 2905
+                },
+                {
+                    "secondary_subgoal": "Handle chicken with chopsticks and cook",
+                    "start_timestamp": 2905,
+                    "stop_timestamp": 3991
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut and Cook the Chicken",
+            "start_timestamp": 3991,
+            "stop_timestamp": 7055,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare chicken for cutting",
+                    "start_timestamp": 3991,
+                    "stop_timestamp": 4650
+                },
+                {
+                    "secondary_subgoal": "Cut the chicken",
+                    "start_timestamp": 4650,
+                    "stop_timestamp": 5253
+                },
+                {
+                    "secondary_subgoal": "Cook the chicken",
+                    "start_timestamp": 5253,
+                    "stop_timestamp": 7055
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare Soup",
+            "start_timestamp": 7055,
+            "stop_timestamp": 7983,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir and place the soup",
+                    "start_timestamp": 7055,
+                    "stop_timestamp": 7890
+                },
+                {
+                    "secondary_subgoal": "Finish preparing space for cooking",
+                    "start_timestamp": 7890,
+                    "stop_timestamp": 7983
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare for Serving",
+            "start_timestamp": 7983,
+            "stop_timestamp": 15374,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Organize bowls and trays",
+                    "start_timestamp": 7983,
+                    "stop_timestamp": 13619
+                },
+                {
+                    "secondary_subgoal": "Place food in bowls and trays",
+                    "start_timestamp": 13619,
+                    "stop_timestamp": 15374
+                }
+            ]
+        },
+        {
+            "subgoal": "Set Table",
+            "start_timestamp": 15374,
+            "stop_timestamp": 15905,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare cutlery and set table",
+                    "start_timestamp": 15374,
+                    "stop_timestamp": 15905
+                }
+            ]
+        }
+    ]
+}

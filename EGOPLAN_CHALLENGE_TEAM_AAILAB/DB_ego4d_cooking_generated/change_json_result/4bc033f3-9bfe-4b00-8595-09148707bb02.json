@@ -1,0 +1,123 @@
+{
+    "overall_goal": "Preparing a meal involving various kitchen activities and food items",
+    "clips": [
+        {
+            "subgoal": "Gathering and organizing ingredients",
+            "start_timestamp": 19,
+            "stop_timestamp": 1315,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Moving phone and initial adjustments",
+                    "start_timestamp": 19,
+                    "stop_timestamp": 95
+                },
+                {
+                    "secondary_subgoal": "Picking up pasta from the fridge",
+                    "start_timestamp": 238,
+                    "stop_timestamp": 930
+                },
+                {
+                    "secondary_subgoal": "Walking and moving around in kitchen",
+                    "start_timestamp": 1111,
+                    "stop_timestamp": 1213
+                },
+                {
+                    "secondary_subgoal": "Placing pasta on the counter",
+                    "start_timestamp": 1272,
+                    "stop_timestamp": 1321
+                },
+                {
+                    "secondary_subgoal": "Gathering cooking pot and utensils",
+                    "start_timestamp": 1321,
+                    "stop_timestamp": 2157
+                },
+                {
+                    "secondary_subgoal": "Walking and looking around the kitchen",
+                    "start_timestamp": 2339,
+                    "stop_timestamp": 2514
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing cooking equipment",
+            "start_timestamp": 2514,
+            "stop_timestamp": 8566,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Filling kettle with water",
+                    "start_timestamp": 2514,
+                    "stop_timestamp": 2752
+                },
+                {
+                    "secondary_subgoal": "Carrying kettle and adjusting other items",
+                    "start_timestamp": 2752,
+                    "stop_timestamp": 3042
+                },
+                {
+                    "secondary_subgoal": "Adjusting items on the cooker and counters",
+                    "start_timestamp": 3042,
+                    "stop_timestamp": 35310
+                },
+                {
+                    "secondary_subgoal": "Stirring and checking contents",
+                    "start_timestamp": 36872,
+                    "stop_timestamp": 49166
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking and mixing ingredients",
+            "start_timestamp": 49166,
+            "stop_timestamp": 8570,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjusting cooking stick and heat",
+                    "start_timestamp": 49166,
+                    "stop_timestamp": 50162
+                },
+                {
+                    "secondary_subgoal": "Using spoon to add and mix ingredients",
+                    "start_timestamp": 50250,
+                    "stop_timestamp": 56111
+                },
+                {
+                    "secondary_subgoal": "Adding lentils and spices",
+                    "start_timestamp": 56111,
+                    "stop_timestamp": 60146
+                },
+                {
+                    "secondary_subgoal": "Closing jars and organizing",
+                    "start_timestamp": 60146,
+                    "stop_timestamp": 65981
+                },
+                {
+                    "secondary_subgoal": "Walking and adding water to mix",
+                    "start_timestamp": 65981,
+                    "stop_timestamp": 70102
+                },
+                {
+                    "secondary_subgoal": "Cutting and adding tomato",
+                    "start_timestamp": 70102,
+                    "stop_timestamp": 73098
+                },
+                {
+                    "secondary_subgoal": "Stirring and final adjustments",
+                    "start_timestamp": 73098,
+                    "stop_timestamp": 74049
+                }
+            ]
+        },
+        {
+            "subgoal": "Final checks and clean-up",
+            "start_timestamp": 74049,
+            "stop_timestamp": 74105,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Operating phone and cleaning counters",
+                    "start_timestamp": 74049,
+                    "stop_timestamp": 74105
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "overall_goal": "Prepare a meal involving onions, pepper, stew, and flatbread (roti).",
+    "clips": [
+        {
+            "subgoal": "Prepare and process onions for cooking",
+            "start_timestamp": "13",
+            "stop_timestamp": "7033",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Set up and start cutting onions",
+                    "start_timestamp": "13",
+                    "stop_timestamp": "281"
+                },
+                {
+                    "secondary_subgoal": "Cut and peel multiple onions",
+                    "start_timestamp": "281",
+                    "stop_timestamp": "7063"
+                }
+            ]
+        },
+        {
+            "subgoal": "Gather and prepare various ingredients for cooking",
+            "start_timestamp": "7063",
+            "stop_timestamp": "25201",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather additional onions from vegetable rack",
+                    "start_timestamp": "7063",
+                    "stop_timestamp": "4904"
+                },
+                {
+                    "secondary_subgoal": "Cut and peel onions",
+                    "start_timestamp": "4904",
+                    "stop_timestamp": "4225"
+                },
+                {
+                    "secondary_subgoal": "Prepare chilli and pepper",
+                    "start_timestamp": "4225",
+                    "stop_timestamp": "8912"
+                },
+                {
+                    "secondary_subgoal": "Blend ingredients",
+                    "start_timestamp": "8912",
+                    "stop_timestamp": "13267"
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cooking tools and areas",
+            "start_timestamp": "26267",
+            "stop_timestamp": "57067",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare grinder, pot and container",
+                    "start_timestamp": "26267",
+                    "stop_timestamp": "32291"
+                },
+                {
+                    "secondary_subgoal": "Prepare cooking water",
+                    "start_timestamp": "32291",
+                    "stop_timestamp": "49914"
+                },
+                {
+                    "secondary_subgoal": "Prepare and clean various cooking tools",
+                    "start_timestamp": "49914",
+                    "stop_timestamp": "57067"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the stew",
+            "start_timestamp": "57067",
+            "stop_timestamp": "75306",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir and taste the stew",
+                    "start_timestamp": "57067",
+                    "stop_timestamp": "7515"
+                },
+                {
+                    "secondary_subgoal": "Add ingredients to the stew",
+                    "start_timestamp": "7515",
+                    "stop_timestamp": "20707"
+                },
+                {
+                    "secondary_subgoal": "Final preparations and taste testing",
+                    "start_timestamp": "20707",
+                    "stop_timestamp": "75306"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook flatbread (roti)",
+            "start_timestamp": "75306",
+            "stop_timestamp": "25201",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare dough for flatbread",
+                    "start_timestamp": "75306",
+                    "stop_timestamp": "17217"
+                },
+                {
+                    "secondary_subgoal": "Roll the dough flat",
+                    "start_timestamp": "17217",
+                    "stop_timestamp": "27579"
+                },
+                {
+                    "secondary_subgoal": "Cook flatbread",
+                    "start_timestamp": "27579",
+                    "stop_timestamp": "25201"
+                }
+            ]
+        }
+    ]
+}

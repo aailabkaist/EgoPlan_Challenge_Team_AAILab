@@ -1,0 +1,1562 @@
+[
+    {
+        "task_goal": "Prepare the workspace and gather initial ingredients.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up a box from a kitchen counter",
+                "start_frame": 17,
+                "stop_frame": 135
+            },
+            {
+                "narration_text": "Removes a foil from a box",
+                "start_frame": 135,
+                "stop_frame": 140
+            },
+            {
+                "narration_text": "Puts down a box on a kitchen table",
+                "start_frame": 140,
+                "stop_frame": 220
+            },
+            {
+                "narration_text": "Turns on a weighing machine",
+                "start_frame": 220,
+                "stop_frame": 238
+            },
+            {
+                "narration_text": "Unfolds a foil with a hand",
+                "start_frame": 238,
+                "stop_frame": 266
+            },
+            {
+                "narration_text": "Puts down a foil on a kitchen table",
+                "start_frame": 266,
+                "stop_frame": 276
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 276,
+                "stop_frame": 342
+            },
+            {
+                "narration_text": "Opens up a shelf with a hand",
+                "start_frame": 342,
+                "stop_frame": 385
+            },
+            {
+                "narration_text": "Closes a shelf with a hand",
+                "start_frame": 385,
+                "stop_frame": 409
+            },
+            {
+                "narration_text": "Moves a tin on a kitchen counter",
+                "start_frame": 409,
+                "stop_frame": 434
+            },
+            {
+                "narration_text": "Opens up a shelf with a hand",
+                "start_frame": 434,
+                "stop_frame": 480
+            },
+            {
+                "narration_text": "Moves a lid microwave",
+                "start_frame": 480,
+                "stop_frame": 513
+            },
+            {
+                "narration_text": "Picks up a plate from a shelf",
+                "start_frame": 513,
+                "stop_frame": 562
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 562,
+                "stop_frame": 611
+            },
+            {
+                "narration_text": "Puts down a plate on a weighing machine",
+                "start_frame": 611,
+                "stop_frame": 653
+            },
+            {
+                "narration_text": "Picks up a foil from a kitchen counter",
+                "start_frame": 653,
+                "stop_frame": 740
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up box and remove foil.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up a box from a kitchen counter",
+                "start_frame": 17,
+                "stop_frame": 135
+            },
+            {
+                "narration_text": "Removes a foil from a box",
+                "start_frame": 135,
+                "stop_frame": 140
+            },
+            {
+                "narration_text": "Puts down a box on a kitchen table",
+                "start_frame": 140,
+                "stop_frame": 220
+            }
+        ]
+    },
+    {
+        "task_goal": "Put down box and turn on the weighing machine.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Removes a foil from a box",
+                "start_frame": 135,
+                "stop_frame": 140
+            },
+            {
+                "narration_text": "Puts down a box on a kitchen table",
+                "start_frame": 140,
+                "stop_frame": 220
+            },
+            {
+                "narration_text": "Turns on a weighing machine",
+                "start_frame": 220,
+                "stop_frame": 238
+            },
+            {
+                "narration_text": "Unfolds a foil with a hand",
+                "start_frame": 238,
+                "stop_frame": 266
+            }
+        ]
+    },
+    {
+        "task_goal": "Unfold and put down foil.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns on a weighing machine",
+                "start_frame": 220,
+                "stop_frame": 238
+            },
+            {
+                "narration_text": "Unfolds a foil with a hand",
+                "start_frame": 238,
+                "stop_frame": 266
+            },
+            {
+                "narration_text": "Puts down a foil on a kitchen table",
+                "start_frame": 266,
+                "stop_frame": 276
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 276,
+                "stop_frame": 342
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk around the kitchen and open/close shelf.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down a foil on a kitchen table",
+                "start_frame": 266,
+                "stop_frame": 276
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 276,
+                "stop_frame": 342
+            },
+            {
+                "narration_text": "Opens up a shelf with a hand",
+                "start_frame": 342,
+                "stop_frame": 385
+            },
+            {
+                "narration_text": "Closes a shelf with a hand",
+                "start_frame": 385,
+                "stop_frame": 409
+            },
+            {
+                "narration_text": "Moves a tin on a kitchen counter",
+                "start_frame": 409,
+                "stop_frame": 434
+            }
+        ]
+    },
+    {
+        "task_goal": "Move a tin on the counter and open a shelf.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes a shelf with a hand",
+                "start_frame": 385,
+                "stop_frame": 409
+            },
+            {
+                "narration_text": "Moves a tin on a kitchen counter",
+                "start_frame": 409,
+                "stop_frame": 434
+            },
+            {
+                "narration_text": "Opens up a shelf with a hand",
+                "start_frame": 434,
+                "stop_frame": 480
+            },
+            {
+                "narration_text": "Moves a lid microwave",
+                "start_frame": 480,
+                "stop_frame": 513
+            }
+        ]
+    },
+    {
+        "task_goal": "Move lid, pick up plate from shelf, walk around.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens up a shelf with a hand",
+                "start_frame": 434,
+                "stop_frame": 480
+            },
+            {
+                "narration_text": "Moves a lid microwave",
+                "start_frame": 480,
+                "stop_frame": 513
+            },
+            {
+                "narration_text": "Picks up a plate from a shelf",
+                "start_frame": 513,
+                "stop_frame": 562
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 562,
+                "stop_frame": 611
+            }
+        ]
+    },
+    {
+        "task_goal": "Put plate on the weighing machine.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up a plate from a shelf",
+                "start_frame": 513,
+                "stop_frame": 562
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 562,
+                "stop_frame": 611
+            },
+            {
+                "narration_text": "Puts down a plate on a weighing machine",
+                "start_frame": 611,
+                "stop_frame": 653
+            },
+            {
+                "narration_text": "Picks up a foil from a kitchen counter",
+                "start_frame": 653,
+                "stop_frame": 740
+            }
+        ]
+    },
+    {
+        "task_goal": "Measure and weigh the butter.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down a plate on a weighing machine",
+                "start_frame": 611,
+                "stop_frame": 653
+            },
+            {
+                "narration_text": "Picks up a foil from a kitchen counter",
+                "start_frame": 653,
+                "stop_frame": 740
+            },
+            {
+                "narration_text": "Removes butter from a foil with a hand",
+                "start_frame": 740,
+                "stop_frame": 846
+            },
+            {
+                "narration_text": "Puts down butter on a plate on a weighing machine",
+                "start_frame": 846,
+                "stop_frame": 935
+            },
+            {
+                "narration_text": "Picks up a spoon from a glass",
+                "start_frame": 935,
+                "stop_frame": 995
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up foil, remove butter, put it on plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down a plate on a weighing machine",
+                "start_frame": 611,
+                "stop_frame": 653
+            },
+            {
+                "narration_text": "Picks up a foil from a kitchen counter",
+                "start_frame": 653,
+                "stop_frame": 740
+            },
+            {
+                "narration_text": "Removes butter from a foil with a hand",
+                "start_frame": 740,
+                "stop_frame": 846
+            },
+            {
+                "narration_text": "Puts down butter on a plate on a weighing machine",
+                "start_frame": 846,
+                "stop_frame": 935
+            },
+            {
+                "narration_text": "Picks up a spoon from a glass",
+                "start_frame": 935,
+                "stop_frame": 995
+            }
+        ]
+    },
+    {
+        "task_goal": "Manage butter and utensils.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down butter on a plate on a weighing machine",
+                "start_frame": 846,
+                "stop_frame": 935
+            },
+            {
+                "narration_text": "Picks up a spoon from a glass",
+                "start_frame": 935,
+                "stop_frame": 995
+            },
+            {
+                "narration_text": "Scoops butter from a foil with a spoon",
+                "start_frame": 995,
+                "stop_frame": 1042
+            },
+            {
+                "narration_text": "Puts down butter on a plate on a weighing machine with a spoon",
+                "start_frame": 1042,
+                "stop_frame": 1138
+            },
+            {
+                "narration_text": "Puts down a foil and a spoon on a kitchen counter",
+                "start_frame": 1138,
+                "stop_frame": 1201
+            },
+            {
+                "narration_text": "Picks up a plate from a weighing machine",
+                "start_frame": 1201,
+                "stop_frame": 1217
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up spoon, scoop butter, and weigh.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down butter on a plate on a weighing machine",
+                "start_frame": 846,
+                "stop_frame": 935
+            },
+            {
+                "narration_text": "Picks up a spoon from a glass",
+                "start_frame": 935,
+                "stop_frame": 995
+            },
+            {
+                "narration_text": "Scoops butter from a foil with a spoon",
+                "start_frame": 995,
+                "stop_frame": 1042
+            },
+            {
+                "narration_text": "Puts down butter on a plate on a weighing machine with a spoon",
+                "start_frame": 1042,
+                "stop_frame": 1138
+            },
+            {
+                "narration_text": "Puts down a foil and a spoon on a kitchen counter",
+                "start_frame": 1138,
+                "stop_frame": 1201
+            }
+        ]
+    },
+    {
+        "task_goal": "Put down foil and spoon.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down butter on a plate on a weighing machine with a spoon",
+                "start_frame": 1042,
+                "stop_frame": 1138
+            },
+            {
+                "narration_text": "Puts down a foil and a spoon on a kitchen counter",
+                "start_frame": 1138,
+                "stop_frame": 1201
+            },
+            {
+                "narration_text": "Picks up a plate from a weighing machine",
+                "start_frame": 1201,
+                "stop_frame": 1217
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare microwave and move items.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down a foil and a spoon on a kitchen counter",
+                "start_frame": 1138,
+                "stop_frame": 1201
+            },
+            {
+                "narration_text": "Picks up a plate from a weighing machine",
+                "start_frame": 1201,
+                "stop_frame": 1217
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 1217,
+                "stop_frame": 1328
+            },
+            {
+                "narration_text": "Moves a tin on a microwave",
+                "start_frame": 1328,
+                "stop_frame": 1360
+            },
+            {
+                "narration_text": "Opens up a microwave with a hand",
+                "start_frame": 1360,
+                "stop_frame": 1367
+            },
+            {
+                "narration_text": "Puts butter on a plate in a microwave",
+                "start_frame": 1367,
+                "stop_frame": 1400
+            },
+            {
+                "narration_text": "Closes a microwave with a hand",
+                "start_frame": 1400,
+                "stop_frame": 1422
+            },
+            {
+                "narration_text": "Turns on a microwave with a hand",
+                "start_frame": 1422,
+                "stop_frame": 1529
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 1529,
+                "stop_frame": 1571
+            },
+            {
+                "narration_text": "Picks up a spoon from a kitchen counter",
+                "start_frame": 1571,
+                "stop_frame": 1591
+            },
+            {
+                "narration_text": "Picks up a box from a kitchen counter",
+                "start_frame": 1591,
+                "stop_frame": 1635
+            },
+            {
+                "narration_text": "Puts down a box on a kitchen counter",
+                "start_frame": 1635,
+                "stop_frame": 1652
+            },
+            {
+                "narration_text": "Picks up a foil from a kitchen counter",
+                "start_frame": 1652,
+                "stop_frame": 1697
+            },
+            {
+                "narration_text": "Puts a foil in a dust bin",
+                "start_frame": 1697,
+                "stop_frame": 1756
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 1756,
+                "stop_frame": 1883
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up plate, walk around, move tin, open microwave.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down a foil and a spoon on a kitchen counter",
+                "start_frame": 1138,
+                "stop_frame": 1201
+            },
+            {
+                "narration_text": "Picks up a plate from a weighing machine",
+                "start_frame": 1201,
+                "stop_frame": 1217
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 1217,
+                "stop_frame": 1328
+            },
+            {
+                "narration_text": "Moves a tin on a microwave",
+                "start_frame": 1328,
+                "stop_frame": 1360
+            },
+            {
+                "narration_text": "Opens up a microwave with a hand",
+                "start_frame": 1360,
+                "stop_frame": 1367
+            },
+            {
+                "narration_text": "Puts butter on a plate in a microwave",
+                "start_frame": 1367,
+                "stop_frame": 1400
+            }
+        ]
+    },
+    {
+        "task_goal": "Put butter in microwave, close, turn it on, and walk around.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens up a microwave with a hand",
+                "start_frame": 1360,
+                "stop_frame": 1367
+            },
+            {
+                "narration_text": "Puts butter on a plate in a microwave",
+                "start_frame": 1367,
+                "stop_frame": 1400
+            },
+            {
+                "narration_text": "Closes a microwave with a hand",
+                "start_frame": 1400,
+                "stop_frame": 1422
+            },
+            {
+                "narration_text": "Turns on a microwave with a hand",
+                "start_frame": 1422,
+                "stop_frame": 1529
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 1529,
+                "stop_frame": 1571
+            },
+            {
+                "narration_text": "Picks up a spoon from a kitchen counter",
+                "start_frame": 1571,
+                "stop_frame": 1591
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up spoon and box, put down box, pick up foil and dispose.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 1529,
+                "stop_frame": 1571
+            },
+            {
+                "narration_text": "Picks up a spoon from a kitchen counter",
+                "start_frame": 1571,
+                "stop_frame": 1591
+            },
+            {
+                "narration_text": "Picks up a box from a kitchen counter",
+                "start_frame": 1591,
+                "stop_frame": 1635
+            },
+            {
+                "narration_text": "Puts down a box on a kitchen counter",
+                "start_frame": 1635,
+                "stop_frame": 1652
+            },
+            {
+                "narration_text": "Picks up a foil from a kitchen counter",
+                "start_frame": 1652,
+                "stop_frame": 1697
+            },
+            {
+                "narration_text": "Puts a foil in a dust bin",
+                "start_frame": 1697,
+                "stop_frame": 1756
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 1756,
+                "stop_frame": 1883
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare flour and measure ingredients.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts a foil in a dust bin",
+                "start_frame": 1697,
+                "stop_frame": 1756
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 1756,
+                "stop_frame": 1883
+            },
+            {
+                "narration_text": "Picks up a bowl from a table",
+                "start_frame": 1883,
+                "stop_frame": 1936
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 1936,
+                "stop_frame": 1981
+            },
+            {
+                "narration_text": "Puts down a bowl on a weighing machine",
+                "start_frame": 1981,
+                "stop_frame": 2005
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 2005,
+                "stop_frame": 2060
+            },
+            {
+                "narration_text": "Picks up a sieving bowl from a shelf",
+                "start_frame": 2060,
+                "stop_frame": 2194
+            },
+            {
+                "narration_text": "Puts down a sieving bowl on a bowl in a weighing machine",
+                "start_frame": 2194,
+                "stop_frame": 2219
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 2219,
+                "stop_frame": 2405
+            },
+            {
+                "narration_text": "Picks up a shaker from a shelf",
+                "start_frame": 2405,
+                "stop_frame": 2451
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk around, pick up and put down bowl.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts a foil in a dust bin",
+                "start_frame": 1697,
+                "stop_frame": 1756
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 1756,
+                "stop_frame": 1883
+            },
+            {
+                "narration_text": "Picks up a bowl from a table",
+                "start_frame": 1883,
+                "stop_frame": 1936
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 1936,
+                "stop_frame": 1981
+            },
+            {
+                "narration_text": "Puts down a bowl on a weighing machine",
+                "start_frame": 1981,
+                "stop_frame": 2005
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up sieving bowl and put it on weighing machine.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 1936,
+                "stop_frame": 1981
+            },
+            {
+                "narration_text": "Puts down a bowl on a weighing machine",
+                "start_frame": 1981,
+                "stop_frame": 2005
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 2005,
+                "stop_frame": 2060
+            },
+            {
+                "narration_text": "Picks up a sieving bowl from a shelf",
+                "start_frame": 2060,
+                "stop_frame": 2194
+            },
+            {
+                "narration_text": "Puts down a sieving bowl on a bowl in a weighing machine",
+                "start_frame": 2194,
+                "stop_frame": 2219
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 2219,
+                "stop_frame": 2405
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk around, pick up shaker from shelf, and put it down.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down a sieving bowl on a bowl in a weighing machine",
+                "start_frame": 2194,
+                "stop_frame": 2219
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 2219,
+                "stop_frame": 2405
+            },
+            {
+                "narration_text": "Picks up a shaker from a shelf",
+                "start_frame": 2405,
+                "stop_frame": 2451
+            },
+            {
+                "narration_text": "Puts down a shaker on a kitchen table",
+                "start_frame": 2451,
+                "stop_frame": 2482
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 2482,
+                "stop_frame": 2629
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk around and pick up tin from the shelf, hold tin.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down a shaker on a kitchen table",
+                "start_frame": 2451,
+                "stop_frame": 2482
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 2482,
+                "stop_frame": 2629
+            },
+            {
+                "narration_text": "Picks up a tin from a shelf",
+                "start_frame": 2629,
+                "stop_frame": 2731
+            },
+            {
+                "narration_text": "Holds a tin with a hand",
+                "start_frame": 2731,
+                "stop_frame": 2765
+            },
+            {
+                "narration_text": "Picks up a tin from a shelf",
+                "start_frame": 2765,
+                "stop_frame": 2801
+            },
+            {
+                "narration_text": "Puts down a tin on a kitchen counter",
+                "start_frame": 2801,
+                "stop_frame": 2849
+            }
+        ]
+    },
+    {
+        "task_goal": "Add and measure flour.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up a tin from a shelf",
+                "start_frame": 2765,
+                "stop_frame": 2801
+            },
+            {
+                "narration_text": "Puts down a tin on a kitchen counter",
+                "start_frame": 2801,
+                "stop_frame": 2849
+            },
+            {
+                "narration_text": "Opens up a lid from a tin",
+                "start_frame": 2849,
+                "stop_frame": 2872
+            },
+            {
+                "narration_text": "Puts down a lid on a kitchen counter",
+                "start_frame": 2872,
+                "stop_frame": 2926
+            },
+            {
+                "narration_text": "Puts flour on a sieving bowl on a weighing machine",
+                "start_frame": 2926,
+                "stop_frame": 3359
+            }
+        ]
+    },
+    {
+        "task_goal": "Put down tin, open lid from tin, and pour flour.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up a tin from a shelf",
+                "start_frame": 2765,
+                "stop_frame": 2801
+            },
+            {
+                "narration_text": "Puts down a tin on a kitchen counter",
+                "start_frame": 2801,
+                "stop_frame": 2849
+            },
+            {
+                "narration_text": "Opens up a lid from a tin",
+                "start_frame": 2849,
+                "stop_frame": 2872
+            },
+            {
+                "narration_text": "Puts down a lid on a kitchen counter",
+                "start_frame": 2872,
+                "stop_frame": 2926
+            },
+            {
+                "narration_text": "Puts flour on a sieving bowl on a weighing machine",
+                "start_frame": 2926,
+                "stop_frame": 3359
+            }
+        ]
+    },
+    {
+        "task_goal": "Measure flour and put in sieving bowl.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down a lid on a kitchen counter",
+                "start_frame": 2872,
+                "stop_frame": 2926
+            },
+            {
+                "narration_text": "Puts flour on a sieving bowl on a weighing machine",
+                "start_frame": 2926,
+                "stop_frame": 3359
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean utensils and measure ingredients with spoon.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down a shaker on a kitchen table",
+                "start_frame": 5652,
+                "stop_frame": 5686
+            },
+            {
+                "narration_text": "Stirs flour with a measuring spoon",
+                "start_frame": 5686,
+                "stop_frame": 5725
+            },
+            {
+                "narration_text": "Picks up a tin from a kitchen counter",
+                "start_frame": 5725,
+                "stop_frame": 5765
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 5765,
+                "stop_frame": 5791
+            },
+            {
+                "narration_text": "Puts down a tin on a kitchen counter",
+                "start_frame": 5791,
+                "stop_frame": 5810
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 5810,
+                "stop_frame": 5914
+            },
+            {
+                "narration_text": "Stirs flour on a sieving bowl with a measuring spoon",
+                "start_frame": 5914,
+                "stop_frame": 6100
+            },
+            {
+                "narration_text": "Moves a tin on a kitchen counter",
+                "start_frame": 6100,
+                "stop_frame": 6126
+            },
+            {
+                "narration_text": "Stirs flour on a sieving bowl with a measuring spoon",
+                "start_frame": 6126,
+                "stop_frame": 6349
+            },
+            {
+                "narration_text": "Picks up a sieving bowl from a bowl on a weighing machine",
+                "start_frame": 6349,
+                "stop_frame": 6398
+            },
+            {
+                "narration_text": "Stirs flour on a sieving bowl with a measuring spoon",
+                "start_frame": 6398,
+                "stop_frame": 6635
+            },
+            {
+                "narration_text": "Puts down a sieving bowl on a bowl on a weighing machine",
+                "start_frame": 6635,
+                "stop_frame": 6677
+            },
+            {
+                "narration_text": "Opens up a tap with a hand",
+                "start_frame": 6677,
+                "stop_frame": 6713
+            },
+            {
+                "narration_text": "Cleans a measuring spoon with running water from a tap",
+                "start_frame": 6713,
+                "stop_frame": 6741
+            },
+            {
+                "narration_text": "Closes a tap with a hand",
+                "start_frame": 6741,
+                "stop_frame": 6764
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 6764,
+                "stop_frame": 6812
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjust lid on tin, mix sugar with flour.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts a measuring spoon in a utensils rack",
+                "start_frame": 8467,
+                "stop_frame": 8507
+            },
+            {
+                "narration_text": "Adjusts a lid on a tin with a hand",
+                "start_frame": 8507,
+                "stop_frame": 8550
+            },
+            {
+                "narration_text": "Mixes the sugar with flour",
+                "start_frame": 8550,
+                "stop_frame": 8580
+            },
+            {
+                "narration_text": "Removes the measurement",
+                "start_frame": 8580,
+                "stop_frame": 8634
+            },
+            {
+                "narration_text": "Mixes the flour with sugar",
+                "start_frame": 8634,
+                "stop_frame": 9089
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 9089,
+                "stop_frame": 9121
+            },
+            {
+                "narration_text": "Opens the microwave",
+                "start_frame": 9121,
+                "stop_frame": 9138
+            },
+            {
+                "narration_text": "Feels the microwave heat",
+                "start_frame": 9138,
+                "stop_frame": 9151
+            }
+        ]
+    },
+    {
+        "task_goal": "Use microwave and handle items.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the microwave",
+                "start_frame": 9121,
+                "stop_frame": 9138
+            },
+            {
+                "narration_text": "Feels the microwave heat",
+                "start_frame": 9138,
+                "stop_frame": 9151
+            },
+            {
+                "narration_text": "Closes the microwave",
+                "start_frame": 9151,
+                "stop_frame": 9175
+            },
+            {
+                "narration_text": "Sets the microwave timing",
+                "start_frame": 9175,
+                "stop_frame": 9226
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 9226,
+                "stop_frame": 9271
+            },
+            {
+                "narration_text": "Filters the flour with a serving spoon",
+                "start_frame": 9271,
+                "stop_frame": 10518
+            },
+            {
+                "narration_text": "Moves around",
+                "start_frame": 10518,
+                "stop_frame": 10576
+            },
+            {
+                "narration_text": "Moves the spoons",
+                "start_frame": 10576,
+                "stop_frame": 10608
+            },
+            {
+                "narration_text": "Washes the filter",
+                "start_frame": 10608,
+                "stop_frame": 11067
+            },
+            {
+                "narration_text": "Dries the filter",
+                "start_frame": 11067,
+                "stop_frame": 11363
+            },
+            {
+                "narration_text": "Places the filter on the rack",
+                "start_frame": 11363,
+                "stop_frame": 11413
+            },
+            {
+                "narration_text": "Hangs the towel",
+                "start_frame": 11413,
+                "stop_frame": 11473
+            },
+            {
+                "narration_text": "Places the container on the shelf",
+                "start_frame": 11473,
+                "stop_frame": 11594
+            }
+        ]
+    },
+    {
+        "task_goal": "Interact with microwave and set timings.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the microwave",
+                "start_frame": 9121,
+                "stop_frame": 9138
+            },
+            {
+                "narration_text": "Feels the microwave heat",
+                "start_frame": 9138,
+                "stop_frame": 9151
+            },
+            {
+                "narration_text": "Closes the microwave",
+                "start_frame": 9151,
+                "stop_frame": 9175
+            },
+            {
+                "narration_text": "Sets the microwave timing",
+                "start_frame": 9175,
+                "stop_frame": 9226
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 9226,
+                "stop_frame": 9271
+            },
+            {
+                "narration_text": "Filters the flour with a serving spoon",
+                "start_frame": 9271,
+                "stop_frame": 10518
+            }
+        ]
+    },
+    {
+        "task_goal": "Filter flour with serving spoon.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around",
+                "start_frame": 9226,
+                "stop_frame": 9271
+            },
+            {
+                "narration_text": "Filters the flour with a serving spoon",
+                "start_frame": 9271,
+                "stop_frame": 10518
+            },
+            {
+                "narration_text": "Moves around",
+                "start_frame": 10518,
+                "stop_frame": 10576
+            },
+            {
+                "narration_text": "Moves the spoons",
+                "start_frame": 10576,
+                "stop_frame": 10608
+            },
+            {
+                "narration_text": "Washes the filter",
+                "start_frame": 10608,
+                "stop_frame": 11067
+            },
+            {
+                "narration_text": "Dries the filter",
+                "start_frame": 11067,
+                "stop_frame": 11363
+            },
+            {
+                "narration_text": "Places the filter on the rack",
+                "start_frame": 11363,
+                "stop_frame": 11413
+            }
+        ]
+    },
+    {
+        "task_goal": "Dry and place filter, hang towel.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Dries the filter",
+                "start_frame": 11067,
+                "stop_frame": 11363
+            },
+            {
+                "narration_text": "Places the filter on the rack",
+                "start_frame": 11363,
+                "stop_frame": 11413
+            },
+            {
+                "narration_text": "Hangs the towel",
+                "start_frame": 11413,
+                "stop_frame": 11473
+            },
+            {
+                "narration_text": "Places the container on the shelf",
+                "start_frame": 11473,
+                "stop_frame": 11594
+            }
+        ]
+    },
+    {
+        "task_goal": "Place container on shelf, gather ingredients.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Hangs the towel",
+                "start_frame": 11413,
+                "stop_frame": 11473
+            },
+            {
+                "narration_text": "Places the container on the shelf",
+                "start_frame": 11473,
+                "stop_frame": 11594
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 11594,
+                "stop_frame": 11639
+            },
+            {
+                "narration_text": "Mixes the flour",
+                "start_frame": 11639,
+                "stop_frame": 11686
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 11686,
+                "stop_frame": 11736
+            },
+            {
+                "narration_text": "Takes the containers",
+                "start_frame": 11736,
+                "stop_frame": 11913
+            },
+            {
+                "narration_text": "Places unsure in the shelf",
+                "start_frame": 11913,
+                "stop_frame": 11998
+            },
+            {
+                "narration_text": "Moves the hands",
+                "start_frame": 11998,
+                "stop_frame": 12090
+            },
+            {
+                "narration_text": "Takes the tablet",
+                "start_frame": 12090,
+                "stop_frame": 12138
+            },
+            {
+                "narration_text": "Scrolls the tablet",
+                "start_frame": 12138,
+                "stop_frame": 12236
+            }
+        ]
+    },
+    {
+        "task_goal": "Use tablet and put egg in container.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the tablet",
+                "start_frame": 12090,
+                "stop_frame": 12138
+            },
+            {
+                "narration_text": "Scrolls the tablet",
+                "start_frame": 12138,
+                "stop_frame": 12236
+            },
+            {
+                "narration_text": "Places the tablet on a stand",
+                "start_frame": 12236,
+                "stop_frame": 12375
+            },
+            {
+                "narration_text": "Puts the egg in the container",
+                "start_frame": 12375,
+                "stop_frame": 12778
+            },
+            {
+                "narration_text": "Washes the hands",
+                "start_frame": 12778,
+                "stop_frame": 12851
+            },
+            {
+                "narration_text": "Scrolls the tablet",
+                "start_frame": 12851,
+                "stop_frame": 12930
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash hands, open fridge, take milk and shake.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the hands",
+                "start_frame": 12778,
+                "stop_frame": 12851
+            },
+            {
+                "narration_text": "Scrolls the tablet",
+                "start_frame": 12851,
+                "stop_frame": 12930
+            },
+            {
+                "narration_text": "Dries the hands",
+                "start_frame": 12930,
+                "stop_frame": 12984
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 12984,
+                "stop_frame": 13012
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 13012,
+                "stop_frame": 13059
+            },
+            {
+                "narration_text": "Takes milk",
+                "start_frame": 13059,
+                "stop_frame": 13132
+            },
+            {
+                "narration_text": "Moves the dishes",
+                "start_frame": 13132,
+                "stop_frame": 13285
+            },
+            {
+                "narration_text": "Shakes the milk",
+                "start_frame": 13285,
+                "stop_frame": 13363
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 13363,
+                "stop_frame": 13494
+            },
+            {
+                "narration_text": "Removes items from the jug",
+                "start_frame": 13494,
+                "stop_frame": 13804
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle milk jug and pour milk in dish.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Looks around",
+                "start_frame": 13363,
+                "stop_frame": 13494
+            },
+            {
+                "narration_text": "Removes items from the jug",
+                "start_frame": 13494,
+                "stop_frame": 13804
+            },
+            {
+                "narration_text": "Puts the milk in the jug",
+                "start_frame": 13804,
+                "stop_frame": 14051
+            },
+            {
+                "narration_text": "Pours the milk in the dish",
+                "start_frame": 14051,
+                "stop_frame": 14132
+            },
+            {
+                "narration_text": "Closes the milk container",
+                "start_frame": 14132,
+                "stop_frame": 14213
+            },
+            {
+                "narration_text": "Washes the jug",
+                "start_frame": 14213,
+                "stop_frame": 14681
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash and place jug, take mixer, mix egg and milk.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the milk container",
+                "start_frame": 14132,
+                "stop_frame": 14213
+            },
+            {
+                "narration_text": "Washes the jug",
+                "start_frame": 14213,
+                "stop_frame": 14681
+            },
+            {
+                "narration_text": "Places the jug in on the rack",
+                "start_frame": 14681,
+                "stop_frame": 14718
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 14718,
+                "stop_frame": 14807
+            },
+            {
+                "narration_text": "Takes the mixer",
+                "start_frame": 14807,
+                "stop_frame": 14860
+            },
+            {
+                "narration_text": "Mixes the egg with milk",
+                "start_frame": 14860,
+                "stop_frame": 15471
+            },
+            {
+                "narration_text": "Scrolls the tablet",
+                "start_frame": 15471,
+                "stop_frame": 15613
+            },
+            {
+                "narration_text": "Mixes the egg with milk",
+                "start_frame": 15613,
+                "stop_frame": 16253
+            },
+            {
+                "narration_text": "Takes the banana",
+                "start_frame": 16253,
+                "stop_frame": 16476
+            }
+        ]
+    },
+    {
+        "task_goal": "Take banana, peel it, mash it with spoon.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Mixes the egg with milk",
+                "start_frame": 15613,
+                "stop_frame": 16253
+            },
+            {
+                "narration_text": "Takes the banana",
+                "start_frame": 16253,
+                "stop_frame": 16476
+            },
+            {
+                "narration_text": "Takes the dish",
+                "start_frame": 16476,
+                "stop_frame": 16583
+            },
+            {
+                "narration_text": "Peels the banana",
+                "start_frame": 16583,
+                "stop_frame": 16954
+            },
+            {
+                "narration_text": "Washes the hands",
+                "start_frame": 16954,
+                "stop_frame": 17048
+            },
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 17048,
+                "stop_frame": 17072
+            },
+            {
+                "narration_text": "Dries the hands",
+                "start_frame": 17072,
+                "stop_frame": 17121
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 17121,
+                "stop_frame": 17186
+            },
+            {
+                "narration_text": "Takes the spoon",
+                "start_frame": 17186,
+                "stop_frame": 17252
+            },
+            {
+                "narration_text": "Mashes the banana",
+                "start_frame": 17252,
+                "stop_frame": 17536
+            },
+            {
+                "narration_text": "Mashes the banana",
+                "start_frame": 17536,
+                "stop_frame": 18240
+            },
+            {
+                "narration_text": "Removes the dirt",
+                "start_frame": 18240,
+                "stop_frame": 18426
+            },
+            {
+                "narration_text": "Mashes the banana",
+                "start_frame": 18426,
+                "stop_frame": 19597
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove dirt, wash hands, move sachet, mix ingredients.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Removes the dirt",
+                "start_frame": 18240,
+                "stop_frame": 18426
+            },
+            {
+                "narration_text": "Mashes the banana",
+                "start_frame": 18426,
+                "stop_frame": 19597
+            },
+            {
+                "narration_text": "Washes the hands",
+                "start_frame": 19597,
+                "stop_frame": 19636
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 19636,
+                "stop_frame": 19685
+            },
+            {
+                "narration_text": "Dries the hands",
+                "start_frame": 19685,
+                "stop_frame": 19809
+            },
+            {
+                "narration_text": "Moves the sachet",
+                "start_frame": 19809,
+                "stop_frame": 19908
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 19908,
+                "stop_frame": 20048
+            },
+            {
+                "narration_text": "Moves the container",
+                "start_frame": 20048,
+                "stop_frame": 20137
+            },
+            {
+                "narration_text": "Mixes the flour",
+                "start_frame": 20137,
+                "stop_frame": 20369
+            },
+            {
+                "narration_text": "Places the serving spoon in the container",
+                "start_frame": 20369,
+                "stop_frame": 20446
+            },
+            {
+                "narration_text": "Mixes the egg",
+                "start_frame": 20446,
+                "stop_frame": 20527
+            },
+            {
+                "narration_text": "Puts the egg in the flour",
+                "start_frame": 20527,
+                "stop_frame": 20594
+            },
+            {
+                "narration_text": "Puts the container on the table",
+                "start_frame": 20594,
+                "stop_frame": 20635
+            },
+            {
+                "narration_text": "Mixes the egg with the flour",
+                "start_frame": 20635,
+                "stop_frame": 21083
+            },
+            {
+                "narration_text": "Puts the egg in the flour",
+                "start_frame": 21083,
+                "stop_frame": 21171
+            },
+            {
+                "narration_text": "Places the container on the table",
+                "start_frame": 21171,
+                "stop_frame": 21232
+            },
+            {
+                "narration_text": "Mixes the egg with flour",
+                "start_frame": 21232,
+                "stop_frame": 21332
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix egg with flour and set container.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the container on the table",
+                "start_frame": 21171,
+                "stop_frame": 21232
+            },
+            {
+                "narration_text": "Mixes the egg with flour",
+                "start_frame": 21232,
+                "stop_frame": 21332
+            }
+        ]
+    }
+]

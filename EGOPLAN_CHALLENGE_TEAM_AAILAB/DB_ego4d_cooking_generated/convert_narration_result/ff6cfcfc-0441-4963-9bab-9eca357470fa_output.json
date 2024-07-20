@@ -1,0 +1,952 @@
+[
+    {
+        "task_goal": "Pick and pour hot water into the bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks an electric kettle",
+                "start_frame": 12,
+                "stop_frame": 86
+            },
+            {
+                "narration_text": "Pours hot water in a bowl",
+                "start_frame": 86,
+                "stop_frame": 241
+            },
+            {
+                "narration_text": "Moves a packet with the other hand",
+                "start_frame": 241,
+                "stop_frame": 263
+            }
+        ]
+    },
+    {
+        "task_goal": "Move and place the electric kettle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours hot water in a bowl",
+                "start_frame": 86,
+                "stop_frame": 241
+            },
+            {
+                "narration_text": "Moves a packet with the other hand",
+                "start_frame": 241,
+                "stop_frame": 263
+            },
+            {
+                "narration_text": "Puts down electric kettle on base plate",
+                "start_frame": 263,
+                "stop_frame": 310
+            },
+            {
+                "narration_text": "Picks chopsticks on a kitchen table",
+                "start_frame": 310,
+                "stop_frame": 324
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and use chopsticks to stir ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down electric kettle on base plate",
+                "start_frame": 263,
+                "stop_frame": 310
+            },
+            {
+                "narration_text": "Picks chopsticks on a kitchen table",
+                "start_frame": 310,
+                "stop_frame": 324
+            },
+            {
+                "narration_text": "Holds chopsticks with hands",
+                "start_frame": 324,
+                "stop_frame": 360
+            },
+            {
+                "narration_text": "Stirs liquid in a bowl",
+                "start_frame": 360,
+                "stop_frame": 460
+            },
+            {
+                "narration_text": "Picks a sieving bowl in a sink",
+                "start_frame": 460,
+                "stop_frame": 483
+            },
+            {
+                "narration_text": "Shakes a sieving bowl",
+                "start_frame": 483,
+                "stop_frame": 548
+            }
+        ]
+    },
+    {
+        "task_goal": "Use the sieving bowl for preparation",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a sieving bowl in a sink",
+                "start_frame": 460,
+                "stop_frame": 483
+            },
+            {
+                "narration_text": "Shakes a sieving bowl",
+                "start_frame": 483,
+                "stop_frame": 548
+            },
+            {
+                "narration_text": "Bends a sieving bowl",
+                "start_frame": 548,
+                "stop_frame": 591
+            },
+            {
+                "narration_text": "Puts unsure in a bowls",
+                "start_frame": 591,
+                "stop_frame": 651
+            },
+            {
+                "narration_text": "Remove piece of unsure on a sieving bowl with chopsticks",
+                "start_frame": 651,
+                "stop_frame": 727
+            },
+            {
+                "narration_text": "Puts piece of unsure in a bowl with chopsticks",
+                "start_frame": 727,
+                "stop_frame": 796
+            },
+            {
+                "narration_text": "Puts a sieving bowl in a sink",
+                "start_frame": 796,
+                "stop_frame": 846
+            }
+        ]
+    },
+    {
+        "task_goal": "Move the sieving bowl and continue preparation",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts piece of unsure in a bowl with chopsticks",
+                "start_frame": 727,
+                "stop_frame": 796
+            },
+            {
+                "narration_text": "Puts a sieving bowl in a sink",
+                "start_frame": 796,
+                "stop_frame": 846
+            },
+            {
+                "narration_text": "Picks a cooking pot with hands",
+                "start_frame": 846,
+                "stop_frame": 879
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare cabbage using a cooking pot and chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts a sieving bowl in a sink",
+                "start_frame": 796,
+                "stop_frame": 846
+            },
+            {
+                "narration_text": "Picks a cooking pot with hands",
+                "start_frame": 846,
+                "stop_frame": 879
+            },
+            {
+                "narration_text": "Holds a cooking pot with a hand",
+                "start_frame": 879,
+                "stop_frame": 917
+            },
+            {
+                "narration_text": "Removes pieces of cabbage with chopsticks",
+                "start_frame": 917,
+                "stop_frame": 1132
+            },
+            {
+                "narration_text": "Rotates a cooking pot with a hand",
+                "start_frame": 1132,
+                "stop_frame": 1217
+            },
+            {
+                "narration_text": "Puts pieces of cabbage in a bowl",
+                "start_frame": 1217,
+                "stop_frame": 1351
+            },
+            {
+                "narration_text": "Picks piece of cabbage with chopsticks",
+                "start_frame": 1351,
+                "stop_frame": 1374
+            },
+            {
+                "narration_text": "Puts a piece of cabbage in a bowl",
+                "start_frame": 1374,
+                "stop_frame": 1418
+            },
+            {
+                "narration_text": "Puts piece of cabbage in a bowl",
+                "start_frame": 1418,
+                "stop_frame": 1501
+            },
+            {
+                "narration_text": "Picks piece of cabbage with chopsticks",
+                "start_frame": 1501,
+                "stop_frame": 1514
+            },
+            {
+                "narration_text": "Puts piece of cabbage in a bowl",
+                "start_frame": 1514,
+                "stop_frame": 1527
+            },
+            {
+                "narration_text": "Picks piece of cabbage with chopsticks",
+                "start_frame": 1527,
+                "stop_frame": 1546
+            },
+            {
+                "narration_text": "Puts piece of cabbage in a bowl",
+                "start_frame": 1546,
+                "stop_frame": 1568
+            },
+            {
+                "narration_text": "Picks piece of cabbage with chopsticks",
+                "start_frame": 1568,
+                "stop_frame": 1603
+            },
+            {
+                "narration_text": "Picks piece of cabbage with chopsticks",
+                "start_frame": 1603,
+                "stop_frame": 1664
+            },
+            {
+                "narration_text": "Puts piece of cabbage in a bowl",
+                "start_frame": 1664,
+                "stop_frame": 1691
+            },
+            {
+                "narration_text": "Picks piece of cabbage with chopsticks",
+                "start_frame": 1691,
+                "stop_frame": 1734
+            },
+            {
+                "narration_text": "Puts piece of cabbage in a bowl",
+                "start_frame": 1734,
+                "stop_frame": 1770
+            },
+            {
+                "narration_text": "Holds a cooking pot with hands",
+                "start_frame": 1770,
+                "stop_frame": 1789
+            },
+            {
+                "narration_text": "Puts a cooking pot on a gas cooker",
+                "start_frame": 1789,
+                "stop_frame": 1836
+            }
+        ]
+    },
+    {
+        "task_goal": "Place cabbage pot on the gas cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a cooking pot with hands",
+                "start_frame": 1770,
+                "stop_frame": 1789
+            },
+            {
+                "narration_text": "Puts a cooking pot on a gas cooker",
+                "start_frame": 1789,
+                "stop_frame": 1836
+            },
+            {
+                "narration_text": "Picks piece of cabbage on a kitchen table",
+                "start_frame": 1836,
+                "stop_frame": 1853
+            }
+        ]
+    },
+    {
+        "task_goal": "Use leftover cabbage and stir ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts a cooking pot on a gas cooker",
+                "start_frame": 1789,
+                "stop_frame": 1836
+            },
+            {
+                "narration_text": "Picks piece of cabbage on a kitchen table",
+                "start_frame": 1836,
+                "stop_frame": 1853
+            },
+            {
+                "narration_text": "Stirs cabbage",
+                "start_frame": 1853,
+                "stop_frame": 1864
+            },
+            {
+                "narration_text": "Puts a piece of cabbage on a bowl",
+                "start_frame": 1864,
+                "stop_frame": 1882
+            },
+            {
+                "narration_text": "Stirs food",
+                "start_frame": 1882,
+                "stop_frame": 1908
+            },
+            {
+                "narration_text": "Picks an electric kettle",
+                "start_frame": 1908,
+                "stop_frame": 1956
+            }
+        ]
+    },
+    {
+        "task_goal": "Reheat water using the electric kettle and stir food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs food",
+                "start_frame": 1882,
+                "stop_frame": 1908
+            },
+            {
+                "narration_text": "Picks an electric kettle",
+                "start_frame": 1908,
+                "stop_frame": 1956
+            },
+            {
+                "narration_text": "Pours hot water in a bowl",
+                "start_frame": 1956,
+                "stop_frame": 2069
+            },
+            {
+                "narration_text": "Puts down electric kettle on base plate",
+                "start_frame": 2069,
+                "stop_frame": 2117
+            },
+            {
+                "narration_text": "Stirs food",
+                "start_frame": 2117,
+                "stop_frame": 2474
+            },
+            {
+                "narration_text": "Moves a piece of cabbage with chopsticks",
+                "start_frame": 2474,
+                "stop_frame": 2513
+            },
+            {
+                "narration_text": "Stirs food",
+                "start_frame": 2513,
+                "stop_frame": 2535
+            },
+            {
+                "narration_text": "Puts chopsticks on a bowl",
+                "start_frame": 2535,
+                "stop_frame": 2558
+            }
+        ]
+    },
+    {
+        "task_goal": "Add seasoning to the meal",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts chopsticks on a bowl",
+                "start_frame": 2535,
+                "stop_frame": 2558
+            },
+            {
+                "narration_text": "Cc picks a sachet on a kitchen table",
+                "start_frame": 2558,
+                "stop_frame": 2633
+            },
+            {
+                "narration_text": "Holds a sachet with hands",
+                "start_frame": 2633,
+                "stop_frame": 2673
+            },
+            {
+                "narration_text": "Shakes a sachet with a hand",
+                "start_frame": 2673,
+                "stop_frame": 2678
+            },
+            {
+                "narration_text": "Taps a sachet with a finger",
+                "start_frame": 2678,
+                "stop_frame": 2769
+            },
+            {
+                "narration_text": "Tears a sachet",
+                "start_frame": 2769,
+                "stop_frame": 2855
+            },
+            {
+                "narration_text": "Flips a sachet",
+                "start_frame": 2855,
+                "stop_frame": 2866
+            },
+            {
+                "narration_text": "Holds sachet with hands",
+                "start_frame": 2866,
+                "stop_frame": 2872
+            },
+            {
+                "narration_text": "Puts powder on a bowl",
+                "start_frame": 2872,
+                "stop_frame": 2975
+            },
+            {
+                "narration_text": "Flips a sachet",
+                "start_frame": 2975,
+                "stop_frame": 2992
+            },
+            {
+                "narration_text": "Switches a piece of sachet paper to the other hand",
+                "start_frame": 2992,
+                "stop_frame": 3030
+            },
+            {
+                "narration_text": "Puts sachet paper in a garbage box",
+                "start_frame": 3030,
+                "stop_frame": 3117
+            },
+            {
+                "narration_text": "Opens a tap of water",
+                "start_frame": 3117,
+                "stop_frame": 3133
+            },
+            {
+                "narration_text": "Holds a sieving bowl with a hand",
+                "start_frame": 3133,
+                "stop_frame": 3146
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and prepare the seasoning sachet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts chopsticks on a bowl",
+                "start_frame": 2535,
+                "stop_frame": 2558
+            },
+            {
+                "narration_text": "Cc picks a sachet on a kitchen table",
+                "start_frame": 2558,
+                "stop_frame": 2633
+            },
+            {
+                "narration_text": "Holds a sachet with hands",
+                "start_frame": 2633,
+                "stop_frame": 2673
+            },
+            {
+                "narration_text": "Shakes a sachet with a hand",
+                "start_frame": 2673,
+                "stop_frame": 2678
+            },
+            {
+                "narration_text": "Taps a sachet with a finger",
+                "start_frame": 2678,
+                "stop_frame": 2769
+            },
+            {
+                "narration_text": "Tears a sachet",
+                "start_frame": 2769,
+                "stop_frame": 2855
+            },
+            {
+                "narration_text": "Flips a sachet",
+                "start_frame": 2855,
+                "stop_frame": 2866
+            },
+            {
+                "narration_text": "Holds sachet with hands",
+                "start_frame": 2866,
+                "stop_frame": 2872
+            },
+            {
+                "narration_text": "Puts powder on a bowl",
+                "start_frame": 2872,
+                "stop_frame": 2975
+            },
+            {
+                "narration_text": "Flips a sachet",
+                "start_frame": 2975,
+                "stop_frame": 2992
+            }
+        ]
+    },
+    {
+        "task_goal": "Tear and pour the sachet contents",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts powder on a bowl",
+                "start_frame": 2872,
+                "stop_frame": 2975
+            },
+            {
+                "narration_text": "Flips a sachet",
+                "start_frame": 2975,
+                "stop_frame": 2992
+            },
+            {
+                "narration_text": "Switches a piece of sachet paper to the other hand",
+                "start_frame": 2992,
+                "stop_frame": 3030
+            }
+        ]
+    },
+    {
+        "task_goal": "Dispose of the sachet and clean hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Flips a sachet",
+                "start_frame": 2975,
+                "stop_frame": 2992
+            },
+            {
+                "narration_text": "Switches a piece of sachet paper to the other hand",
+                "start_frame": 2992,
+                "stop_frame": 3030
+            },
+            {
+                "narration_text": "Puts sachet paper in a garbage box",
+                "start_frame": 3030,
+                "stop_frame": 3117
+            },
+            {
+                "narration_text": "Opens a tap of water",
+                "start_frame": 3117,
+                "stop_frame": 3133
+            },
+            {
+                "narration_text": "Holds a sieving bowl with a hand",
+                "start_frame": 3133,
+                "stop_frame": 3146
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean the used utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens a tap of water",
+                "start_frame": 3117,
+                "stop_frame": 3133
+            },
+            {
+                "narration_text": "Holds a sieving bowl with a hand",
+                "start_frame": 3133,
+                "stop_frame": 3146
+            },
+            {
+                "narration_text": "Removes a piece of cabbage in a sieving bowl",
+                "start_frame": 3146,
+                "stop_frame": 3212
+            },
+            {
+                "narration_text": "Puts a piece of cabbage in a bowl",
+                "start_frame": 3212,
+                "stop_frame": 3213
+            },
+            {
+                "narration_text": "Rinses a hand",
+                "start_frame": 3213,
+                "stop_frame": 3236
+            },
+            {
+                "narration_text": "Rinses a the other hand",
+                "start_frame": 3236,
+                "stop_frame": 3250
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 3250,
+                "stop_frame": 3253
+            },
+            {
+                "narration_text": "Switches a sieving bowl to the other hand",
+                "start_frame": 3253,
+                "stop_frame": 3263
+            },
+            {
+                "narration_text": "Rinses a sieving bowl",
+                "start_frame": 3263,
+                "stop_frame": 3287
+            },
+            {
+                "narration_text": "Picks washing sponge",
+                "start_frame": 3287,
+                "stop_frame": 3288
+            },
+            {
+                "narration_text": "Holds a sieving bowl with hands",
+                "start_frame": 3288,
+                "stop_frame": 3342
+            },
+            {
+                "narration_text": "Washes a sieving bowl with a washing sponge",
+                "start_frame": 3342,
+                "stop_frame": 3414
+            },
+            {
+                "narration_text": "Puts a washing sponge on a sink rack",
+                "start_frame": 3414,
+                "stop_frame": 3435
+            },
+            {
+                "narration_text": "Holds a sieving bowl with hands",
+                "start_frame": 3435,
+                "stop_frame": 3452
+            },
+            {
+                "narration_text": "Rinses a sieving bowl",
+                "start_frame": 3452,
+                "stop_frame": 3602
+            },
+            {
+                "narration_text": "Shakes a sieving bowl with hands",
+                "start_frame": 3602,
+                "stop_frame": 3651
+            },
+            {
+                "narration_text": "Puts a sieving bowl on a kitchen rack",
+                "start_frame": 3651,
+                "stop_frame": 3749
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 3749,
+                "stop_frame": 3775
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse and clean the sieving bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens a tap of water",
+                "start_frame": 3117,
+                "stop_frame": 3133
+            },
+            {
+                "narration_text": "Holds a sieving bowl with a hand",
+                "start_frame": 3133,
+                "stop_frame": 3146
+            },
+            {
+                "narration_text": "Removes a piece of cabbage in a sieving bowl",
+                "start_frame": 3146,
+                "stop_frame": 3212
+            },
+            {
+                "narration_text": "Puts a piece of cabbage in a bowl",
+                "start_frame": 3212,
+                "stop_frame": 3213
+            },
+            {
+                "narration_text": "Rinses a hand",
+                "start_frame": 3213,
+                "stop_frame": 3236
+            },
+            {
+                "narration_text": "Rinses a the other hand",
+                "start_frame": 3236,
+                "stop_frame": 3250
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 3250,
+                "stop_frame": 3253
+            },
+            {
+                "narration_text": "Switches a sieving bowl to the other hand",
+                "start_frame": 3253,
+                "stop_frame": 3263
+            },
+            {
+                "narration_text": "Rinses a sieving bowl",
+                "start_frame": 3263,
+                "stop_frame": 3287
+            },
+            {
+                "narration_text": "Picks washing sponge",
+                "start_frame": 3287,
+                "stop_frame": 3288
+            },
+            {
+                "narration_text": "Holds a sieving bowl with hands",
+                "start_frame": 3288,
+                "stop_frame": 3342
+            },
+            {
+                "narration_text": "Washes a sieving bowl with a washing sponge",
+                "start_frame": 3342,
+                "stop_frame": 3414
+            },
+            {
+                "narration_text": "Puts a washing sponge on a sink rack",
+                "start_frame": 3414,
+                "stop_frame": 3435
+            },
+            {
+                "narration_text": "Holds a sieving bowl with hands",
+                "start_frame": 3435,
+                "stop_frame": 3452
+            },
+            {
+                "narration_text": "Rinses a sieving bowl",
+                "start_frame": 3452,
+                "stop_frame": 3602
+            },
+            {
+                "narration_text": "Shakes a sieving bowl with hands",
+                "start_frame": 3602,
+                "stop_frame": 3651
+            },
+            {
+                "narration_text": "Puts a sieving bowl on a kitchen rack",
+                "start_frame": 3651,
+                "stop_frame": 3749
+            }
+        ]
+    },
+    {
+        "task_goal": "Dry the sieving bowl and place it on the rack",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Shakes a sieving bowl with hands",
+                "start_frame": 3602,
+                "stop_frame": 3651
+            },
+            {
+                "narration_text": "Puts a sieving bowl on a kitchen rack",
+                "start_frame": 3651,
+                "stop_frame": 3749
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 3749,
+                "stop_frame": 3775
+            }
+        ]
+    },
+    {
+        "task_goal": "Fetch and handle the cooking pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks",
+                "start_frame": 3749,
+                "stop_frame": 3775
+            },
+            {
+                "narration_text": "Picks a cooking pan on a gas cooker",
+                "start_frame": 3775,
+                "stop_frame": 3802
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 3802,
+                "stop_frame": 3844
+            },
+            {
+                "narration_text": "Moves a tap of water",
+                "start_frame": 3844,
+                "stop_frame": 3859
+            },
+            {
+                "narration_text": "Puts water in pan",
+                "start_frame": 3859,
+                "stop_frame": 3880
+            },
+            {
+                "narration_text": "Picks washing sponge",
+                "start_frame": 3880,
+                "stop_frame": 3910
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean a wooden cooking spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts water in pan",
+                "start_frame": 3859,
+                "stop_frame": 3880
+            },
+            {
+                "narration_text": "Picks washing sponge",
+                "start_frame": 3880,
+                "stop_frame": 3910
+            },
+            {
+                "narration_text": "Washes a wooden cooking spoon",
+                "start_frame": 3910,
+                "stop_frame": 3964
+            },
+            {
+                "narration_text": "Rinses a wooden cooking spoon",
+                "start_frame": 3964,
+                "stop_frame": 4053
+            },
+            {
+                "narration_text": "Puts a wooden cooking spoon on a kitchen rack",
+                "start_frame": 4053,
+                "stop_frame": 4083
+            },
+            {
+                "narration_text": "Picks a cooking pan",
+                "start_frame": 4083,
+                "stop_frame": 4090
+            },
+            {
+                "narration_text": "Pours water in a sink",
+                "start_frame": 4090,
+                "stop_frame": 4116
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean the cooking pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a cooking pan",
+                "start_frame": 4083,
+                "stop_frame": 4090
+            },
+            {
+                "narration_text": "Pours water in a sink",
+                "start_frame": 4090,
+                "stop_frame": 4116
+            },
+            {
+                "narration_text": "Pours water on a pan",
+                "start_frame": 4116,
+                "stop_frame": 4148
+            },
+            {
+                "narration_text": "Washes a pan with a washing sponge",
+                "start_frame": 4148,
+                "stop_frame": 4259
+            },
+            {
+                "narration_text": "Drops a washing sponge in a sink",
+                "start_frame": 4259,
+                "stop_frame": 4295
+            },
+            {
+                "narration_text": "Picks a washing sponge",
+                "start_frame": 4295,
+                "stop_frame": 4315
+            },
+            {
+                "narration_text": "Puts a washing sponge on a sink rack",
+                "start_frame": 4315,
+                "stop_frame": 4353
+            },
+            {
+                "narration_text": "Holds a cooking pan with hands",
+                "start_frame": 4353,
+                "stop_frame": 4361
+            },
+            {
+                "narration_text": "Rinses a cooking pan",
+                "start_frame": 4361,
+                "stop_frame": 4424
+            },
+            {
+                "narration_text": "Moves a tap of water",
+                "start_frame": 4424,
+                "stop_frame": 4482
+            },
+            {
+                "narration_text": "Puts water in a cooking pan",
+                "start_frame": 4482,
+                "stop_frame": 4532
+            },
+            {
+                "narration_text": "Pours water from a pan",
+                "start_frame": 4532,
+                "stop_frame": 4533
+            },
+            {
+                "narration_text": "Closes a tap of water",
+                "start_frame": 4533,
+                "stop_frame": 4556
+            },
+            {
+                "narration_text": "Pours water from a pan",
+                "start_frame": 4556,
+                "stop_frame": 4620
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 4620,
+                "stop_frame": 4662
+            }
+        ]
+    },
+    {
+        "task_goal": "Complete final cleanup and hand drying",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts a cooking pan on a gas cooker",
+                "start_frame": 4662,
+                "stop_frame": 4693
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 4693,
+                "stop_frame": 4741
+            },
+            {
+                "narration_text": "Wipes his hands with a kitchen towel",
+                "start_frame": 4741,
+                "stop_frame": 4753
+            },
+            {
+                "narration_text": "Moves his hands",
+                "start_frame": 4753,
+                "stop_frame": 4853
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the cooking pan back on the gas cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts a cooking pan on a gas cooker",
+                "start_frame": 4662,
+                "stop_frame": 4693
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 4693,
+                "stop_frame": 4741
+            },
+            {
+                "narration_text": "Wipes his hands with a kitchen towel",
+                "start_frame": 4741,
+                "stop_frame": 4753
+            }
+        ]
+    },
+    {
+        "task_goal": "Dry hands using a kitchen towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks",
+                "start_frame": 4693,
+                "stop_frame": 4741
+            },
+            {
+                "narration_text": "Wipes his hands with a kitchen towel",
+                "start_frame": 4741,
+                "stop_frame": 4753
+            },
+            {
+                "narration_text": "Moves his hands",
+                "start_frame": 4753,
+                "stop_frame": 4853
+            }
+        ]
+    }
+]

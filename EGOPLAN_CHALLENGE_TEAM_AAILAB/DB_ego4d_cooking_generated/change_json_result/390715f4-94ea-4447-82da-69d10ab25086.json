@@ -1,0 +1,71 @@
+{
+    "overall_goal": "Wash and store various cooking and dining utensils in the kitchen",
+    "clips": [
+        {
+            "subgoal": "Prepare and apply soap to a dish sponge",
+            "start_timestamp": 0,
+            "stop_timestamp": 757,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on faucet and get dish sponge wet",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 320
+                },
+                {
+                    "secondary_subgoal": "Apply soap to dish sponge",
+                    "start_timestamp": 656,
+                    "stop_timestamp": 731
+                },
+                {
+                    "secondary_subgoal": "Rinse dish sponge",
+                    "start_timestamp": 731,
+                    "stop_timestamp": 757
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash and store bowls",
+            "start_timestamp": 757,
+            "stop_timestamp": 3766,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse and wash bowl",
+                    "start_timestamp": 757,
+                    "stop_timestamp": 1695
+                },
+                {
+                    "secondary_subgoal": "Handle and rinse tongs",
+                    "start_timestamp": 2506,
+                    "stop_timestamp": 2633
+                },
+                {
+                    "secondary_subgoal": "Wash and store first batch of bowls",
+                    "start_timestamp": 2633,
+                    "stop_timestamp": 3766
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash and store a variety of dishes and utensils",
+            "start_timestamp": 3766,
+            "stop_timestamp": 15979,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and store various dishes (bowls, plates, mugs, etc.)",
+                    "start_timestamp": 3766,
+                    "stop_timestamp": 11157
+                },
+                {
+                    "secondary_subgoal": "Clean and store utensils (spoons, chopsticks, etc.)",
+                    "start_timestamp": 11157,
+                    "stop_timestamp": 15789
+                },
+                {
+                    "secondary_subgoal": "Clean up area and wipe hands",
+                    "start_timestamp": 15863,
+                    "stop_timestamp": 15979
+                }
+            ]
+        }
+    ]
+}

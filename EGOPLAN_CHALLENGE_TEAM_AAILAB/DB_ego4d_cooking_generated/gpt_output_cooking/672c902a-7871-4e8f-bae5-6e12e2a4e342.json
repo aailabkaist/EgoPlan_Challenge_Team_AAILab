@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egmFuw4O4uoGILCEwnTUcrpuxZA2",
+    "object": "chat.completion",
+    "created": 1719484583,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Prepare and mix ingredients for a sauce or similar mixture.\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Stir and manage the cooking pot.\",\n            \"start_timestamp\": 19,\n            \"stop_timestamp\": 619,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Hold and lift the lid from the cooking pot.\",\n                    \"start_timestamp\": 19,\n                    \"stop_timestamp\": 54\n                },\n                {\n                    \"secondary_subgoal\": \"Stir the sauce in the cooking pot.\",\n                    \"start_timestamp\": 54,\n                    \"stop_timestamp\": 558\n                },\n                {\n                    \"secondary_subgoal\": \"Cover the cooking pot with the lid.\",\n                    \"start_timestamp\": 558,\n                    \"stop_timestamp\": 619\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Manage kitchen cloth and cooking pan.\",\n            \"start_timestamp\": 619,\n            \"stop_timestamp\": 878,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Hold and throw the kitchen cloth.\",\n                    \"start_timestamp\": 619,\n                    \"stop_timestamp\": 669\n                },\n                {\n                    \"secondary_subgoal\": \"Drain and place the cooking pan.\",\n                    \"start_timestamp\": 669,\n                    \"stop_timestamp\": 878\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Prepare and mix ingredients in the bowl.\",\n            \"start_timestamp\": 957,\n            \"stop_timestamp\": 6577,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Hold and pour ingredients into the bowl.\",\n                    \"start_timestamp\": 957,\n                    \"stop_timestamp\": 1560\n                },\n                {\n                    \"secondary_subgoal\": \"Fold and clip items.\",\n                    \"start_timestamp\": 1560,\n                    \"stop_timestamp\": 1630\n                },\n                {\n                    \"secondary_subgoal\": \"Stir and manage ingredients on the cooker.\",\n                    \"start_timestamp\": 1788,\n                    \"stop_timestamp\": 6259\n                },\n                {\n                    \"secondary_subgoal\": \"Hold bowl and rub hands.\",\n                    \"start_timestamp\": 6259,\n                    \"stop_timestamp\": 6577\n                }\n            ]\n        }\n    ]\n}\n```\n\nThis representation organizes the actions into a structured format, defining the overall objective, and breaking it down into progressive subgoals and secondary subgoals. The timestamps correspond to specific actions and transitions between states, reflecting the temporal and spatial aspects of the tasks performed within this ego-centric video."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1310,
+        "completion_tokens": 536,
+        "total_tokens": 1846
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

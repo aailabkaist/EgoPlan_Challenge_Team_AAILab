@@ -1,0 +1,807 @@
+[
+    {
+        "task_goal": "Raising hand to begin work",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Raises hand",
+                "start_frame": 1,
+                "stop_frame": 24
+            },
+            {
+                "narration_text": "Person x washes sink",
+                "start_frame": 24,
+                "stop_frame": 104
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing the sink and utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Raises hand",
+                "start_frame": 1,
+                "stop_frame": 24
+            },
+            {
+                "narration_text": "Person x washes sink",
+                "start_frame": 24,
+                "stop_frame": 104
+            },
+            {
+                "narration_text": "Holds a chopping board and unsure",
+                "start_frame": 104,
+                "stop_frame": 128
+            },
+            {
+                "narration_text": "Holds unsure",
+                "start_frame": 128,
+                "stop_frame": 129
+            },
+            {
+                "narration_text": "Lifts unsure",
+                "start_frame": 129,
+                "stop_frame": 166
+            },
+            {
+                "narration_text": "Person x washes utensils",
+                "start_frame": 166,
+                "stop_frame": 169
+            },
+            {
+                "narration_text": "Holds unsure",
+                "start_frame": 169,
+                "stop_frame": 193
+            }
+        ]
+    },
+    {
+        "task_goal": "Person x washes sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Raises hand",
+                "start_frame": 1,
+                "stop_frame": 24
+            },
+            {
+                "narration_text": "Person x washes sink",
+                "start_frame": 24,
+                "stop_frame": 104
+            },
+            {
+                "narration_text": "Holds a chopping board and unsure",
+                "start_frame": 104,
+                "stop_frame": 128
+            }
+        ]
+    },
+    {
+        "task_goal": "Person x washes utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lifts unsure",
+                "start_frame": 129,
+                "stop_frame": 166
+            },
+            {
+                "narration_text": "Person x washes utensils",
+                "start_frame": 166,
+                "stop_frame": 169
+            },
+            {
+                "narration_text": "Holds unsure",
+                "start_frame": 169,
+                "stop_frame": 193
+            }
+        ]
+    },
+    {
+        "task_goal": "Collecting tomatoes from fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places unsure on top of the cabinet",
+                "start_frame": 193,
+                "stop_frame": 228
+            },
+            {
+                "narration_text": "Walks towards the fridge",
+                "start_frame": 228,
+                "stop_frame": 255
+            },
+            {
+                "narration_text": "Opens the fridge door",
+                "start_frame": 255,
+                "stop_frame": 317
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 317,
+                "stop_frame": 365
+            },
+            {
+                "narration_text": "Picks tomato",
+                "start_frame": 365,
+                "stop_frame": 424
+            },
+            {
+                "narration_text": "Picks tomato",
+                "start_frame": 424,
+                "stop_frame": 474
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking and opening the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places unsure on top of the cabinet",
+                "start_frame": 193,
+                "stop_frame": 228
+            },
+            {
+                "narration_text": "Walks towards the fridge",
+                "start_frame": 228,
+                "stop_frame": 255
+            },
+            {
+                "narration_text": "Opens the fridge door",
+                "start_frame": 255,
+                "stop_frame": 317
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 317,
+                "stop_frame": 365
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking tomatoes from fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the fridge door",
+                "start_frame": 255,
+                "stop_frame": 317
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 317,
+                "stop_frame": 365
+            },
+            {
+                "narration_text": "Picks tomato",
+                "start_frame": 365,
+                "stop_frame": 424
+            },
+            {
+                "narration_text": "Picks tomato",
+                "start_frame": 424,
+                "stop_frame": 474
+            }
+        ]
+    },
+    {
+        "task_goal": "Placing tomatoes on the chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks tomato",
+                "start_frame": 424,
+                "stop_frame": 474
+            },
+            {
+                "narration_text": "Holds tomatoes",
+                "start_frame": 474,
+                "stop_frame": 503
+            },
+            {
+                "narration_text": "Places tomato on the chopping board",
+                "start_frame": 503,
+                "stop_frame": 558
+            },
+            {
+                "narration_text": "Puts tomato in the fridge",
+                "start_frame": 558,
+                "stop_frame": 637
+            }
+        ]
+    },
+    {
+        "task_goal": "Holding and placing tomatoes on chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks tomato",
+                "start_frame": 424,
+                "stop_frame": 474
+            },
+            {
+                "narration_text": "Holds tomatoes",
+                "start_frame": 474,
+                "stop_frame": 503
+            },
+            {
+                "narration_text": "Places tomato on the chopping board",
+                "start_frame": 503,
+                "stop_frame": 558
+            },
+            {
+                "narration_text": "Puts tomato in the fridge",
+                "start_frame": 558,
+                "stop_frame": 637
+            }
+        ]
+    },
+    {
+        "task_goal": "Returning some tomatoes to the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places tomato on the chopping board",
+                "start_frame": 503,
+                "stop_frame": 558
+            },
+            {
+                "narration_text": "Puts tomato in the fridge",
+                "start_frame": 558,
+                "stop_frame": 637
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 637,
+                "stop_frame": 666
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 666,
+                "stop_frame": 690
+            }
+        ]
+    },
+    {
+        "task_goal": "Placing tomato in fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places tomato on the chopping board",
+                "start_frame": 503,
+                "stop_frame": 558
+            },
+            {
+                "narration_text": "Puts tomato in the fridge",
+                "start_frame": 558,
+                "stop_frame": 637
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 637,
+                "stop_frame": 666
+            }
+        ]
+    },
+    {
+        "task_goal": "Closing the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts tomato in the fridge",
+                "start_frame": 558,
+                "stop_frame": 637
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 637,
+                "stop_frame": 666
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 666,
+                "stop_frame": 690
+            }
+        ]
+    },
+    {
+        "task_goal": "Touching, holding, and turning tomatoes",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks",
+                "start_frame": 666,
+                "stop_frame": 690
+            },
+            {
+                "narration_text": "Person x washes sink",
+                "start_frame": 690,
+                "stop_frame": 694
+            },
+            {
+                "narration_text": "Touches tomato",
+                "start_frame": 694,
+                "stop_frame": 724
+            },
+            {
+                "narration_text": "Person x flicks fingers",
+                "start_frame": 724,
+                "stop_frame": 862
+            },
+            {
+                "narration_text": "Holds tomato",
+                "start_frame": 862,
+                "stop_frame": 887
+            },
+            {
+                "narration_text": "Turns tomato",
+                "start_frame": 887,
+                "stop_frame": 893
+            },
+            {
+                "narration_text": "Person x hold a knife",
+                "start_frame": 893,
+                "stop_frame": 900
+            },
+            {
+                "narration_text": "Person x rinses knife",
+                "start_frame": 900,
+                "stop_frame": 914
+            }
+        ]
+    },
+    {
+        "task_goal": "Placing tomatoes on the chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Person x rinses knife",
+                "start_frame": 900,
+                "stop_frame": 914
+            },
+            {
+                "narration_text": "Places the tomato on the chopping board",
+                "start_frame": 914,
+                "stop_frame": 957
+            },
+            {
+                "narration_text": "Walks towards the fridge",
+                "start_frame": 957,
+                "stop_frame": 993
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening fridge and picking tomatoes",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks towards the fridge",
+                "start_frame": 957,
+                "stop_frame": 993
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 993,
+                "stop_frame": 1038
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 1038,
+                "stop_frame": 1056
+            },
+            {
+                "narration_text": "Picks tomato",
+                "start_frame": 1056,
+                "stop_frame": 1108
+            },
+            {
+                "narration_text": "Puts tomato on the chopping board",
+                "start_frame": 1108,
+                "stop_frame": 1141
+            },
+            {
+                "narration_text": "Turns",
+                "start_frame": 1141,
+                "stop_frame": 1164
+            }
+        ]
+    },
+    {
+        "task_goal": "Removing hand from the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches unsure",
+                "start_frame": 1164,
+                "stop_frame": 1216
+            },
+            {
+                "narration_text": "Removes hand from unsure",
+                "start_frame": 1216,
+                "stop_frame": 1312
+            },
+            {
+                "narration_text": "Puts hand in the fridge",
+                "start_frame": 1312,
+                "stop_frame": 1389
+            }
+        ]
+    },
+    {
+        "task_goal": "Arranging items in the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picking tomato",
+                "start_frame": 1389,
+                "stop_frame": 1410
+            },
+            {
+                "narration_text": "Arranges the fridge",
+                "start_frame": 1410,
+                "stop_frame": 1443
+            },
+            {
+                "narration_text": "Picking tomato",
+                "start_frame": 1443,
+                "stop_frame": 1471
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling trash bag and more tomatoes",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens trash bag",
+                "start_frame": 2514,
+                "stop_frame": 2555
+            },
+            {
+                "narration_text": "Washes tomato",
+                "start_frame": 2555,
+                "stop_frame": 2577
+            },
+            {
+                "narration_text": "Person x rinses the mug",
+                "start_frame": 2577,
+                "stop_frame": 2601
+            },
+            {
+                "narration_text": "Places tomato on the chopping board",
+                "start_frame": 2601,
+                "stop_frame": 2631
+            },
+            {
+                "narration_text": "Opens trash bag",
+                "start_frame": 2631,
+                "stop_frame": 2668
+            },
+            {
+                "narration_text": "Touches unsure",
+                "start_frame": 2668,
+                "stop_frame": 2689
+            },
+            {
+                "narration_text": "Holds unsure",
+                "start_frame": 2689,
+                "stop_frame": 2730
+            },
+            {
+                "narration_text": "Puts unsure on the top of the other",
+                "start_frame": 2730,
+                "stop_frame": 2777
+            },
+            {
+                "narration_text": "Opens trash bag",
+                "start_frame": 2777,
+                "stop_frame": 2809
+            },
+            {
+                "narration_text": "Shakes trash bag",
+                "start_frame": 2809,
+                "stop_frame": 2874
+            },
+            {
+                "narration_text": "Removes hand from the trash bag",
+                "start_frame": 2874,
+                "stop_frame": 2900
+            },
+            {
+                "narration_text": "Picks a knife",
+                "start_frame": 2900,
+                "stop_frame": 2936
+            },
+            {
+                "narration_text": "Holds a tomato",
+                "start_frame": 2936,
+                "stop_frame": 2940
+            }
+        ]
+    },
+    {
+        "task_goal": "Cutting the tomatoes",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Person x signals the how to cut tomato",
+                "start_frame": 3313,
+                "stop_frame": 3421
+            },
+            {
+                "narration_text": "Holds tomato",
+                "start_frame": 3421,
+                "stop_frame": 3451
+            },
+            {
+                "narration_text": "Cutting tomato",
+                "start_frame": 3451,
+                "stop_frame": 3502
+            },
+            {
+                "narration_text": "Person x walks around",
+                "start_frame": 3502,
+                "stop_frame": 3571
+            },
+            {
+                "narration_text": "Person x stands beside",
+                "start_frame": 3571,
+                "stop_frame": 3594
+            },
+            {
+                "narration_text": "Finishes cutting tomato",
+                "start_frame": 3594,
+                "stop_frame": 3616
+            },
+            {
+                "narration_text": "Puts knife on the chopping board",
+                "start_frame": 3616,
+                "stop_frame": 3617
+            },
+            {
+                "narration_text": "Person x bends",
+                "start_frame": 3617,
+                "stop_frame": 3618
+            },
+            {
+                "narration_text": "Person x opens drawer",
+                "start_frame": 3618,
+                "stop_frame": 3651
+            }
+        ]
+    },
+    {
+        "task_goal": "Signaling how to cut tomatoes",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Person x signals the how to cut tomato",
+                "start_frame": 3313,
+                "stop_frame": 3421
+            },
+            {
+                "narration_text": "Holds tomato",
+                "start_frame": 3421,
+                "stop_frame": 3451
+            },
+            {
+                "narration_text": "Cutting tomato",
+                "start_frame": 3451,
+                "stop_frame": 3502
+            }
+        ]
+    },
+    {
+        "task_goal": "Cutting the tomatoes",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cutting tomato",
+                "start_frame": 3451,
+                "stop_frame": 3502
+            },
+            {
+                "narration_text": "Person x walks around",
+                "start_frame": 3502,
+                "stop_frame": 3571
+            },
+            {
+                "narration_text": "Person x stands beside",
+                "start_frame": 3571,
+                "stop_frame": 3594
+            }
+        ]
+    },
+    {
+        "task_goal": "Gathering bowls for preparation",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Person x rinses knife",
+                "start_frame": 3790,
+                "stop_frame": 3843
+            },
+            {
+                "narration_text": "Moves towards the cabinet",
+                "start_frame": 3843,
+                "stop_frame": 3851
+            },
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 3851,
+                "stop_frame": 3930
+            },
+            {
+                "narration_text": "Takes a bowl",
+                "start_frame": 3930,
+                "stop_frame": 3978
+            },
+            {
+                "narration_text": "Puts a bowl on the counter top",
+                "start_frame": 3978,
+                "stop_frame": 4010
+            },
+            {
+                "narration_text": "Touches cabinet door",
+                "start_frame": 4010,
+                "stop_frame": 4043
+            },
+            {
+                "narration_text": "Takes a bowl",
+                "start_frame": 4043,
+                "stop_frame": 4063
+            },
+            {
+                "narration_text": "Person x cuts unsure",
+                "start_frame": 4063,
+                "stop_frame": 4093
+            },
+            {
+                "narration_text": "Puts a bowl on the counter top",
+                "start_frame": 4093,
+                "stop_frame": 4133
+            },
+            {
+                "narration_text": "Takes a bowl",
+                "start_frame": 4133,
+                "stop_frame": 4157
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 4157,
+                "stop_frame": 4229
+            },
+            {
+                "narration_text": "Opens drawer",
+                "start_frame": 4229,
+                "stop_frame": 4249
+            },
+            {
+                "narration_text": "Puts a bowl on the counter top",
+                "start_frame": 4249,
+                "stop_frame": 4323
+            },
+            {
+                "narration_text": "Takes a saucepan",
+                "start_frame": 4323,
+                "stop_frame": 4364
+            },
+            {
+                "narration_text": "Closes drawer",
+                "start_frame": 4364,
+                "stop_frame": 4415
+            },
+            {
+                "narration_text": "Holds saucepan",
+                "start_frame": 4415,
+                "stop_frame": 4428
+            },
+            {
+                "narration_text": "Lifts right hand",
+                "start_frame": 4428,
+                "stop_frame": 4455
+            },
+            {
+                "narration_text": "Puts saucepan on the countertop",
+                "start_frame": 4455,
+                "stop_frame": 4555
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking to and opening cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves towards the cabinet",
+                "start_frame": 3843,
+                "stop_frame": 3851
+            },
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 3851,
+                "stop_frame": 3930
+            },
+            {
+                "narration_text": "Takes a bowl",
+                "start_frame": 3930,
+                "stop_frame": 3978
+            }
+        ]
+    },
+    {
+        "task_goal": "Taking and placing bowls on countertop",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 3851,
+                "stop_frame": 3930
+            },
+            {
+                "narration_text": "Takes a bowl",
+                "start_frame": 3930,
+                "stop_frame": 3978
+            },
+            {
+                "narration_text": "Puts a bowl on the counter top",
+                "start_frame": 3978,
+                "stop_frame": 4010
+            },
+            {
+                "narration_text": "Touches cabinet door",
+                "start_frame": 4010,
+                "stop_frame": 4043
+            },
+            {
+                "narration_text": "Takes a bowl",
+                "start_frame": 4043,
+                "stop_frame": 4063
+            },
+            {
+                "narration_text": "Person x cuts unsure",
+                "start_frame": 4063,
+                "stop_frame": 4093
+            },
+            {
+                "narration_text": "Puts a bowl on the counter top",
+                "start_frame": 4093,
+                "stop_frame": 4133
+            },
+            {
+                "narration_text": "Takes a bowl",
+                "start_frame": 4133,
+                "stop_frame": 4157
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 4157,
+                "stop_frame": 4229
+            },
+            {
+                "narration_text": "Opens drawer",
+                "start_frame": 4229,
+                "stop_frame": 4249
+            },
+            {
+                "narration_text": "Puts a bowl on the counter top",
+                "start_frame": 4249,
+                "stop_frame": 4323
+            },
+            {
+                "narration_text": "Takes a saucepan",
+                "start_frame": 4323,
+                "stop_frame": 4364
+            }
+        ]
+    },
+    {
+        "task_goal": "Holding and placing saucepan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes a saucepan",
+                "start_frame": 4323,
+                "stop_frame": 4364
+            },
+            {
+                "narration_text": "Closes drawer",
+                "start_frame": 4364,
+                "stop_frame": 4415
+            },
+            {
+                "narration_text": "Holds saucepan",
+                "start_frame": 4415,
+                "stop_frame": 4428
+            },
+            {
+                "narration_text": "Lifts right hand",
+                "start_frame": 4428,
+                "stop_frame": 4455
+            },
+            {
+                "narration_text": "Puts saucepan on the countertop",
+                "start_frame": 4455,
+                "stop_frame": 4555
+            }
+        ]
+    }
+]

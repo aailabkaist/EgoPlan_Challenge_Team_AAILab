@@ -1,0 +1,90 @@
+{
+    "overall_goal": "Prepare ingredients including cutting a watermelon, cooking an egg, and preparing a vegetable salad.",
+    "clips": [
+        {
+            "subgoal": "Prepare and Cut Watermelon",
+            "start_timestamp": 0,
+            "stop_timestamp": 12056,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve Watermelon from Fridge",
+                    "start_timestamp": 111,
+                    "stop_timestamp": 299
+                },
+                {
+                    "secondary_subgoal": "Set Up Cutting Area",
+                    "start_timestamp": 411,
+                    "stop_timestamp": 903
+                },
+                {
+                    "secondary_subgoal": "Cut and Slice Watermelon",
+                    "start_timestamp": 1218,
+                    "stop_timestamp": 5788
+                },
+                {
+                    "secondary_subgoal": "Dispose of Waste and Clean Up",
+                    "start_timestamp": 5788,
+                    "stop_timestamp": 12056
+                }
+            ]
+        },
+        {
+            "subgoal": "Storage of Cut Watermelon",
+            "start_timestamp": 12211,
+            "stop_timestamp": 13325,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Store Watermelon in Fridge",
+                    "start_timestamp": 12403,
+                    "stop_timestamp": 12647
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare Ingredients for Cooking",
+            "start_timestamp": 13325,
+            "stop_timestamp": 15718,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve Additional Ingredients",
+                    "start_timestamp": 12865,
+                    "stop_timestamp": 13496
+                },
+                {
+                    "secondary_subgoal": "Set Up for Cooking",
+                    "start_timestamp": 13734,
+                    "stop_timestamp": 15318
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook Egg",
+            "start_timestamp": 15358,
+            "stop_timestamp": 19944,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and Mix Egg",
+                    "start_timestamp": 15358,
+                    "stop_timestamp": 15784
+                },
+                {
+                    "secondary_subgoal": "Cook the Egg",
+                    "start_timestamp": 17262,
+                    "stop_timestamp": 19944
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare Vegetable Salad",
+            "start_timestamp": 18765,
+            "stop_timestamp": 19944,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut Cabbage Leaves",
+                    "start_timestamp": 18941,
+                    "stop_timestamp": 19712
+                }
+            ]
+        }
+    ]
+}

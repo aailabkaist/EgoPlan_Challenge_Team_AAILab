@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efl8uLWfMe8TCGLNU3zlcpLH0hde",
+    "object": "chat.completion",
+    "created": 1719480670,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"C is preparing and cooking a meal, including chopping vegetables, cooking eggs and spaghetti, and organizing ingredients in the kitchen.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing the vegetables (cucumber, onion, baloney)\",\n      \"start_timestamp\": 74,\n      \"stop_timestamp\": 16900,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C prepares the cucumber\",\n          \"start_timestamp\": 74,\n          \"stop_timestamp\": 5279\n        },\n        {\n          \"secondary_subgoal\": \"C prepares the baloney\",\n          \"start_timestamp\": 5279,\n          \"stop_timestamp\": 7370\n        },\n        {\n          \"secondary_subgoal\": \"C prepares the onion\",\n          \"start_timestamp\": 7370,\n          \"stop_timestamp\": 8528\n        },\n        {\n          \"secondary_subgoal\": \"C finishes cucumber preparations and organizes the kitchen\",\n          \"start_timestamp\": 8528,\n          \"stop_timestamp\": 16900\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking and handling ingredients\",\n      \"start_timestamp\": 16955,\n      \"stop_timestamp\": 20650,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C handles the fried egg and the spaghetti\",\n          \"start_timestamp\": 16955,\n          \"stop_timestamp\": 19034\n        },\n        {\n          \"secondary_subgoal\": \"C continues organizing the kitchen and handles tomato pieces\",\n          \"start_timestamp\": 19034,\n          \"stop_timestamp\": 20650\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing and handling additional ingredients\",\n      \"start_timestamp\": 20650,\n      \"stop_timestamp\": 21317,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C organizes the fridge and handles spaghetti again\",\n          \"start_timestamp\": 20650,\n          \"stop_timestamp\": 21097\n        },\n        {\n          \"secondary_subgoal\": \"C wraps a plate with food and places it in the microwave\",\n          \"start_timestamp\": 21097,\n          \"stop_timestamp\": 21317\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6404,
+        "completion_tokens": 473,
+        "total_tokens": 6877
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

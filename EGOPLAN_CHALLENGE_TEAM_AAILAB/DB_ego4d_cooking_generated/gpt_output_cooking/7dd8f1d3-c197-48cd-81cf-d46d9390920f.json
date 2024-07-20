@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eh6x8NN9bKOwl2oTXoW4WAQyK9Pz",
+    "object": "chat.completion",
+    "created": 1719485867,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing a meal by cooking, boiling, washing, cutting, and mixing ingredients in the kitchen\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Gathering and preparing initial ingredients and utensils\",\n      \"start_timestamp\": 109,\n      \"stop_timestamp\": 2039,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Getting and washing cooking pot\", \"start_timestamp\": 109, \"stop_timestamp\": 882},\n        {\"secondary_subgoal\": \"Handling eggs\", \"start_timestamp\": 882, \"stop_timestamp\": 472},\n        {\"secondary_subgoal\": \"Cleaning and preparing the cooking pot\", \"start_timestamp\": 472, \"stop_timestamp\": 2039}\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing additional kitchenware and ingredients\",\n      \"start_timestamp\": 2039,\n      \"stop_timestamp\": 3310,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Gathering bowls and glasses\", \"start_timestamp\": 2039, \"stop_timestamp\": 2663},\n        {\"secondary_subgoal\": \"Prepare and handling knives\", \"start_timestamp\": 2663, \"stop_timestamp\": 2890},\n        {\"secondary_subgoal\": \"Handling and mixing ingredients\", \"start_timestamp\": 2890, \"stop_timestamp\": 3310}\n      ]\n    },\n    {\n      \"subgoal\": \"Mixing ingredients and washing hands\",\n      \"start_timestamp\": 5514,\n      \"stop_timestamp\": 1282,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Stirring mixture and washing hands\", \"start_timestamp\": 5514, \"stop_timestamp\": 6253},\n        {\"secondary_subgoal\": \"Cleaning utensils and hands\", \"start_timestamp\": 6253, \"stop_timestamp\": 6431}\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing additional ingredients\",\n      \"start_timestamp\": 6431,\n      \"stop_timestamp\": 12969,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Handling and cleaning used utensils\", \"start_timestamp\": 6431, \"stop_timestamp\": 8974},\n        {\"secondary_subgoal\": \"Stirring a new mixture\", \"start_timestamp\": 8974, \"stop_timestamp\": 12969},\n        {\"secondary_subgoal\": \"Cleaning tools and containers\", \"start_timestamp\": 12974, \"stop_timestamp\": 12969}\n      ]\n    },\n    {\n      \"subgoal\": \"Final actions and preparation\",\n      \"start_timestamp\": 12903,\n      \"stop_timestamp\": 22029,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Working on the final recipe\", \"start_timestamp\": 12903, \"stop_timestamp\": 18111},\n        {\"secondary_subgoal\": \"Cutting and preparing ingredients\", \"start_timestamp\": 18111, \"stop_timestamp\": 20248},\n        {\"secondary_subgoal\": \"Final preparations and cleanup\", \"start_timestamp\": 20248, \"stop_timestamp\": 22029}\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3067,
+        "completion_tokens": 651,
+        "total_tokens": 3718
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

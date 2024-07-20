@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehN37QgnYeHslW5TcUYCwm9rwEfi",
+    "object": "chat.completion",
+    "created": 1719486865,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Locating and identifying kitchen utensils and items in the house and store.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Surveying the utensils inside the house\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 238,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Looking at the utensils inside the house\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 238\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Exploring the kitchen\",\n      \"start_timestamp\": 238,\n      \"stop_timestamp\": 1432,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Moving to the kitchen\",\n          \"start_timestamp\": 238,\n          \"stop_timestamp\": 495\n        },\n        {\n          \"secondary_subgoal\": \"Looking at the kitchen shelves\",\n          \"start_timestamp\": 495,\n          \"stop_timestamp\": 809\n        },\n        {\n          \"secondary_subgoal\": \"Raising up his hand\",\n          \"start_timestamp\": 809,\n          \"stop_timestamp\": 1029\n        },\n        {\n          \"secondary_subgoal\": \"Moving to the store\",\n          \"start_timestamp\": 1029,\n          \"stop_timestamp\": 1123\n        },\n        {\n          \"secondary_subgoal\": \"Looking at the shelves in the store\",\n          \"start_timestamp\": 1123,\n          \"stop_timestamp\": 1250\n        },\n        {\n          \"secondary_subgoal\": \"Moving back to the kitchen\",\n          \"start_timestamp\": 1250,\n          \"stop_timestamp\": 1332\n        },\n        {\n          \"secondary_subgoal\": \"Looking at the kitchen shelves again\",\n          \"start_timestamp\": 1332,\n          \"stop_timestamp\": 1432\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 391,
+        "completion_tokens": 393,
+        "total_tokens": 784
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

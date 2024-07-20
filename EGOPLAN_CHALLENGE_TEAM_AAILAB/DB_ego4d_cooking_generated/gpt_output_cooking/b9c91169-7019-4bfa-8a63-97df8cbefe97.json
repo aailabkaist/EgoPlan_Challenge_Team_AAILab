@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgqNrPb2ilEkMEJKmR1pNH4E9S4K",
+    "object": "chat.completion",
+    "created": 1719246511,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and baking dough with various ingredients and steps.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare the dough\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 3301,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Open and adjust the appliance\",\n          \"start_timestamp\": 68,\n          \"stop_timestamp\": 377\n        },\n        {\n          \"secondary_subgoal\": \"Move to the kitchen counter and start flattening dough\",\n          \"start_timestamp\": 377,\n          \"stop_timestamp\": 580\n        },\n        {\n          \"secondary_subgoal\": \"Rub flour and prepare dough\",\n          \"start_timestamp\": 620,\n          \"stop_timestamp\": 1507\n        },\n        {\n          \"secondary_subgoal\": \"Repeat dough preparation steps\",\n          \"start_timestamp\": 1507,\n          \"stop_timestamp\": 28688\n        },\n        {\n          \"secondary_subgoal\": \"Final adjustments on the dough\",\n          \"start_timestamp\": 28688,\n          \"stop_timestamp\": 3301\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Add paste to the dough\",\n      \"start_timestamp\": 3647,\n      \"stop_timestamp\": 7644,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gather paste and knife\",\n          \"start_timestamp\": 3647,\n          \"stop_timestamp\": 3949\n        },\n        {\n          \"secondary_subgoal\": \"Stir and spread the paste\",\n          \"start_timestamp\": 3949,\n          \"stop_timestamp\": 7644\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Add spices and other ingredients\",\n      \"start_timestamp\": 7644,\n      \"stop_timestamp\": 10873,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gather spices from the cabinet\",\n          \"start_timestamp\": 7644,\n          \"stop_timestamp\": 8038\n        },\n        {\n          \"secondary_subgoal\": \"Spread spices and adjust\",\n          \"start_timestamp\": 8038,\n          \"stop_timestamp\": 10873\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Shape and re-roll the dough\",\n      \"start_timestamp\": 10873,\n      \"stop_timestamp\": 18671,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Roll and shape the dough\",\n          \"start_timestamp\": 10873,\n          \"stop_timestamp\": 11786\n        },\n        {\n          \"secondary_subgoal\": \"Adjust dough and flatten\",\n          \"start_timestamp\": 11786,\n          \"stop_timestamp\": 18671\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare baking tray and cut dough\",\n      \"start_timestamp\": 18671,\n      \"stop_timestamp\": 2179,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare tray with paper\",\n          \"start_timestamp\": 18671,\n          \"stop_timestamp\": 19254\n        },\n        {\n          \"secondary_subgoal\": \"Cutting and adjusting dough\",\n          \"start_timestamp\": 19254,\n          \"stop_timestamp\": 2113\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Spread cooking oil and prepare oven\",\n      \"start_timestamp\": 2179,\n      \"stop_timestamp\": 8202,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Spread cooking oil on the dough\",\n          \"start_timestamp\": 2179,\n          \"stop_timestamp\": 7644\n        },\n        {\n          \"secondary_subgoal\": \"Move dough to oven\",\n          \"start_timestamp\": 7644,\n          \"stop_timestamp\": 8202\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up workspace\",\n      \"start_timestamp\": 8202,\n      \"stop_timestamp\": 68876,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash dishes and organize\",\n          \"start_timestamp\": 8202,\n          \"stop_timestamp\": 68876\n        }\n      ]\n    }\n  ]\n}\n```\n\nThis JSON comprises the overall task of preparing and baking dough, broken down into several clips categorized by subgoals, with fine-grained sub-clips focusing on more specific secondary subgoals within compact spaces and activities."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9339,
+        "completion_tokens": 928,
+        "total_tokens": 10267
+    },
+    "system_fingerprint": "fp_5e6c71d4a8"
+}

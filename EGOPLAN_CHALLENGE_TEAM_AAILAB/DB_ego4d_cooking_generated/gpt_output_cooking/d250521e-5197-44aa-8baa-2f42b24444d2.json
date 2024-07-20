@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efNmnzATltr3VGJhZ49ygO10pSNY",
+    "object": "chat.completion",
+    "created": 1719479222,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal using various ingredients and cooking methods.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Wash hands and prepare cooking utensils\",\n      \"start_timestamp\": \"109\",\n      \"stop_timestamp\": \"1386\",\n      sub_clips: [\n        {\n          \"secondary_subgoal\": \"Wash hands\",\n          \"start_timestamp\": \"109\",\n          \"stop_timestamp\": \"1110\"\n        },\n        {\n          \"secondary_subgoal\": \"Prepare cooking pan\",\n          \"start_timestamp\": \"1110\",\n          \"stop_timestamp\": \"1386\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare ingredients and bowl for cooking\",\n      \"start_timestamp\": \"1502\",\n      \"stop_timestamp\": \"4447\",\n      sub_clips: [\n        {\n          \"secondary_subgoal\": \"Prepare content in paper and put into bowl\",\n          \"start_timestamp\": \"1986\",\n          \"stop_timestamp\": \"41021\"\n        },\n        {\n          \"secondary_subgoal\": \"Prepare bowl with water and start cooking\",\n          \"start_timestamp\": \"891\",\n          \"stop_timestamp\": \"4447\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and cook the meat\",\n      \"start_timestamp\": \"8261\",\n      \"stop_timestamp\": \"13782\",\n      sub_clips: [\n        {\n          \"secondary_subgoal\": \"Remove paper from container and gets sticks\",\n          \"start_timestamp\": \"8261\",\n          \"stop_timestamp\": \"8940\"\n        },\n        {\n          \"secondary_subgoal\": \"Adjusts and stirs the meat in pan\",\n          \"start_timestamp\": \"8940\",\n          \"stop_timestamp\": \"13782\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and add onions\",\n      \"start_timestamp\": \"13782\",\n      \"stop_timestamp\": \"12745\",\n      sub_clips: [\n        {\n          \"secondary_subgoal\": \"Remove paper from fridge\",\n          \"start_timestamp\": \"13782\",\n          \"stop_timestamp\": \"11881\"\n        },\n        {\n          \"secondary_subgoal\": \"Stir and add onions\",\n          \"start_timestamp\": \"11881\",\n          \"stop_timestamp\": \"12745\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Add final seasonings\",\n      \"start_timestamp\": \"16161\",\n      \"stop_timestamp\": \"17682\",\n      sub_clips: [\n        {\n          \"secondary_subgoal\": \"Add bottles of seasoning to food\",\n          \"start_timestamp\": \"16161\",\n          \"stop_timestamp\": \"17123\"\n        },\n        {\n          \"secondary_subgoal\": \"Stir and finish cooking\",\n          \"start_timestamp\": \"17123\",\n          \"stop_timestamp\": \"17682\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Serve the food\",\n      \"start_timestamp\": \"17789\",\n      \"stop_timestamp\": \"23872\",\n      sub_clips: [\n        {\n          \"secondary_subgoal\": \"Prepare container and tools\",\n          \"start_timestamp\": \"17789\",\n          \"stop_timestamp\": \"18551\"\n        },\n        {\n          \"secondary_subgoal\": \"Serve the food\",\n          \"start_timestamp\": \"18551\",\n          \"stop_timestamp\": \"23872\"\n        }\n      ]\n    }\n  ]\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3222,
+        "completion_tokens": 700,
+        "total_tokens": 3922
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

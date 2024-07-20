@@ -1,0 +1,877 @@
+[
+    {
+        "task_goal": "Preparing ingredients and placing items in the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a paper in the hands",
+                "start_frame": 1,
+                "stop_frame": 73
+            },
+            {
+                "narration_text": "Stretches the paper",
+                "start_frame": 73,
+                "stop_frame": 145
+            },
+            {
+                "narration_text": "Covers the unsure with the paper",
+                "start_frame": 145,
+                "stop_frame": 160
+            },
+            {
+                "narration_text": "Picks the bowl",
+                "start_frame": 160,
+                "stop_frame": 177
+            },
+            {
+                "narration_text": "Walks to the fridge",
+                "start_frame": 177,
+                "stop_frame": 207
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 207,
+                "stop_frame": 293
+            },
+            {
+                "narration_text": "Puts the bowl inside",
+                "start_frame": 293,
+                "stop_frame": 354
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 354,
+                "stop_frame": 387
+            },
+            {
+                "narration_text": "Walks to the microwave",
+                "start_frame": 387,
+                "stop_frame": 430
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling paper and bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a paper in the hands",
+                "start_frame": 1,
+                "stop_frame": 73
+            },
+            {
+                "narration_text": "Stretches the paper",
+                "start_frame": 73,
+                "stop_frame": 145
+            },
+            {
+                "narration_text": "Covers the unsure with the paper",
+                "start_frame": 145,
+                "stop_frame": 160
+            },
+            {
+                "narration_text": "Picks the bowl",
+                "start_frame": 160,
+                "stop_frame": 177
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking to the fridge with the bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Covers the unsure with the paper",
+                "start_frame": 145,
+                "stop_frame": 160
+            },
+            {
+                "narration_text": "Picks the bowl",
+                "start_frame": 160,
+                "stop_frame": 177
+            },
+            {
+                "narration_text": "Walks to the fridge",
+                "start_frame": 177,
+                "stop_frame": 207
+            }
+        ]
+    },
+    {
+        "task_goal": "Placing bowl in the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the bowl",
+                "start_frame": 160,
+                "stop_frame": 177
+            },
+            {
+                "narration_text": "Walks to the fridge",
+                "start_frame": 177,
+                "stop_frame": 207
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 207,
+                "stop_frame": 293
+            },
+            {
+                "narration_text": "Puts the bowl inside",
+                "start_frame": 293,
+                "stop_frame": 354
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 354,
+                "stop_frame": 387
+            }
+        ]
+    },
+    {
+        "task_goal": "Closing the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the bowl inside",
+                "start_frame": 293,
+                "stop_frame": 354
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 354,
+                "stop_frame": 387
+            },
+            {
+                "narration_text": "Walks to the microwave",
+                "start_frame": 387,
+                "stop_frame": 430
+            }
+        ]
+    },
+    {
+        "task_goal": "Preparing bowls and placing items in the microwave",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 354,
+                "stop_frame": 387
+            },
+            {
+                "narration_text": "Walks to the microwave",
+                "start_frame": 387,
+                "stop_frame": 430
+            },
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 430,
+                "stop_frame": 554
+            },
+            {
+                "narration_text": "Removes two bowls",
+                "start_frame": 554,
+                "stop_frame": 591
+            },
+            {
+                "narration_text": "Picks the small bowl",
+                "start_frame": 591,
+                "stop_frame": 640
+            },
+            {
+                "narration_text": "Returns the bowl in the cabinet",
+                "start_frame": 640,
+                "stop_frame": 695
+            },
+            {
+                "narration_text": "Closes the cabinet",
+                "start_frame": 695,
+                "stop_frame": 764
+            },
+            {
+                "narration_text": "Puts the unsure in the bowl",
+                "start_frame": 764,
+                "stop_frame": 921
+            },
+            {
+                "narration_text": "Puts the bowl in the microwave",
+                "start_frame": 921,
+                "stop_frame": 978
+            },
+            {
+                "narration_text": "Closes the cabinet",
+                "start_frame": 978,
+                "stop_frame": 1021
+            },
+            {
+                "narration_text": "Picks a dish with cooked spaghetti",
+                "start_frame": 1021,
+                "stop_frame": 1059
+            },
+            {
+                "narration_text": "Puts the dish in the microwave",
+                "start_frame": 1059,
+                "stop_frame": 1089
+            },
+            {
+                "narration_text": "Picks a dish with unsure",
+                "start_frame": 1089,
+                "stop_frame": 1157
+            },
+            {
+                "narration_text": "Puts the dish in the microwave",
+                "start_frame": 1157,
+                "stop_frame": 1245
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 1245,
+                "stop_frame": 1290
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling the cabinet and removing bowls",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 354,
+                "stop_frame": 387
+            },
+            {
+                "narration_text": "Walks to the microwave",
+                "start_frame": 387,
+                "stop_frame": 430
+            },
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 430,
+                "stop_frame": 554
+            },
+            {
+                "narration_text": "Removes two bowls",
+                "start_frame": 554,
+                "stop_frame": 591
+            },
+            {
+                "narration_text": "Picks the small bowl",
+                "start_frame": 591,
+                "stop_frame": 640
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling small bowl and returning others",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Removes two bowls",
+                "start_frame": 554,
+                "stop_frame": 591
+            },
+            {
+                "narration_text": "Picks the small bowl",
+                "start_frame": 591,
+                "stop_frame": 640
+            },
+            {
+                "narration_text": "Returns the bowl in the cabinet",
+                "start_frame": 640,
+                "stop_frame": 695
+            },
+            {
+                "narration_text": "Closes the cabinet",
+                "start_frame": 695,
+                "stop_frame": 764
+            }
+        ]
+    },
+    {
+        "task_goal": "Placing bowl in the microwave",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Returns the bowl in the cabinet",
+                "start_frame": 640,
+                "stop_frame": 695
+            },
+            {
+                "narration_text": "Closes the cabinet",
+                "start_frame": 695,
+                "stop_frame": 764
+            },
+            {
+                "narration_text": "Puts the unsure in the bowl",
+                "start_frame": 764,
+                "stop_frame": 921
+            },
+            {
+                "narration_text": "Puts the bowl in the microwave",
+                "start_frame": 921,
+                "stop_frame": 978
+            },
+            {
+                "narration_text": "Closes the cabinet",
+                "start_frame": 978,
+                "stop_frame": 1021
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling dish with cooked spaghetti",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the bowl in the microwave",
+                "start_frame": 921,
+                "stop_frame": 978
+            },
+            {
+                "narration_text": "Closes the cabinet",
+                "start_frame": 978,
+                "stop_frame": 1021
+            },
+            {
+                "narration_text": "Picks a dish with cooked spaghetti",
+                "start_frame": 1021,
+                "stop_frame": 1059
+            },
+            {
+                "narration_text": "Puts the dish in the microwave",
+                "start_frame": 1059,
+                "stop_frame": 1089
+            },
+            {
+                "narration_text": "Picks a dish with unsure",
+                "start_frame": 1089,
+                "stop_frame": 1157
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling dish with unsure item",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the dish in the microwave",
+                "start_frame": 1059,
+                "stop_frame": 1089
+            },
+            {
+                "narration_text": "Picks a dish with unsure",
+                "start_frame": 1089,
+                "stop_frame": 1157
+            },
+            {
+                "narration_text": "Puts the dish in the microwave",
+                "start_frame": 1157,
+                "stop_frame": 1245
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 1245,
+                "stop_frame": 1290
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing hands and wiping with a kitchen towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the dish in the microwave",
+                "start_frame": 1157,
+                "stop_frame": 1245
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 1245,
+                "stop_frame": 1290
+            },
+            {
+                "narration_text": "Holds a soap with hand",
+                "start_frame": 1290,
+                "stop_frame": 1313
+            },
+            {
+                "narration_text": "Washes hands",
+                "start_frame": 1313,
+                "stop_frame": 1560
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 1560,
+                "stop_frame": 1660
+            },
+            {
+                "narration_text": "Wipes the hands with a kitchen towel",
+                "start_frame": 1660,
+                "stop_frame": 1735
+            },
+            {
+                "narration_text": "Presses the gas cooker",
+                "start_frame": 1735,
+                "stop_frame": 1771
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling gas cooker, electric cooker, and kettle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Wipes the hands with a kitchen towel",
+                "start_frame": 1660,
+                "stop_frame": 1735
+            },
+            {
+                "narration_text": "Presses the gas cooker",
+                "start_frame": 1735,
+                "stop_frame": 1771
+            },
+            {
+                "narration_text": "Opens the electric cooker",
+                "start_frame": 1771,
+                "stop_frame": 1851
+            },
+            {
+                "narration_text": "Picks a kettle",
+                "start_frame": 1851,
+                "stop_frame": 1886
+            },
+            {
+                "narration_text": "Opens the kettle",
+                "start_frame": 1886,
+                "stop_frame": 1918
+            },
+            {
+                "narration_text": "Puts the lid on the sink",
+                "start_frame": 1918,
+                "stop_frame": 1983
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 1983,
+                "stop_frame": 2010
+            },
+            {
+                "narration_text": "Fetch some water in the kettle",
+                "start_frame": 2010,
+                "stop_frame": 2012
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 2012,
+                "stop_frame": 2055
+            },
+            {
+                "narration_text": "Walks from the sink",
+                "start_frame": 2055,
+                "stop_frame": 2107
+            },
+            {
+                "narration_text": "Pours the water in the cooker",
+                "start_frame": 2107,
+                "stop_frame": 2254
+            },
+            {
+                "narration_text": "Closes the kettle with the lid",
+                "start_frame": 2254,
+                "stop_frame": 2299
+            },
+            {
+                "narration_text": "Puts the kettle on the sink",
+                "start_frame": 2299,
+                "stop_frame": 2366
+            },
+            {
+                "narration_text": "Closes the cooker",
+                "start_frame": 2366,
+                "stop_frame": 2419
+            },
+            {
+                "narration_text": "Turns around the kitchen",
+                "start_frame": 2419,
+                "stop_frame": 2474
+            }
+        ]
+    },
+    {
+        "task_goal": "Turning around the kitchen",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the cooker",
+                "start_frame": 2366,
+                "stop_frame": 2419
+            },
+            {
+                "narration_text": "Turns around the kitchen",
+                "start_frame": 2419,
+                "stop_frame": 2474
+            },
+            {
+                "narration_text": "Holds the pressure cooker",
+                "start_frame": 2474,
+                "stop_frame": 2535
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling pressure cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns around the kitchen",
+                "start_frame": 2419,
+                "stop_frame": 2474
+            },
+            {
+                "narration_text": "Holds the pressure cooker",
+                "start_frame": 2474,
+                "stop_frame": 2535
+            },
+            {
+                "narration_text": "Opens a shelve",
+                "start_frame": 2535,
+                "stop_frame": 2574
+            },
+            {
+                "narration_text": "Closes the shelve",
+                "start_frame": 2574,
+                "stop_frame": 2652
+            },
+            {
+                "narration_text": "Opens another shelve",
+                "start_frame": 2652,
+                "stop_frame": 2682
+            },
+            {
+                "narration_text": "Closes the shelve",
+                "start_frame": 2682,
+                "stop_frame": 2703
+            },
+            {
+                "narration_text": "Opens another shelve",
+                "start_frame": 2703,
+                "stop_frame": 2764
+            },
+            {
+                "narration_text": "Picks a spoon",
+                "start_frame": 2764,
+                "stop_frame": 2775
+            },
+            {
+                "narration_text": "Closes the shelve",
+                "start_frame": 2775,
+                "stop_frame": 2838
+            },
+            {
+                "narration_text": "Opens the pressure cooker",
+                "start_frame": 2838,
+                "stop_frame": 2905
+            },
+            {
+                "narration_text": "Turns the rice",
+                "start_frame": 2905,
+                "stop_frame": 3226
+            },
+            {
+                "narration_text": "Closes the pressure cooker",
+                "start_frame": 3226,
+                "stop_frame": 3312
+            },
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 3312,
+                "stop_frame": 3366
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening and closing shelves",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns around the kitchen",
+                "start_frame": 2419,
+                "stop_frame": 2474
+            },
+            {
+                "narration_text": "Holds the pressure cooker",
+                "start_frame": 2474,
+                "stop_frame": 2535
+            },
+            {
+                "narration_text": "Opens a shelve",
+                "start_frame": 2535,
+                "stop_frame": 2574
+            },
+            {
+                "narration_text": "Closes the shelve",
+                "start_frame": 2574,
+                "stop_frame": 2652
+            },
+            {
+                "narration_text": "Opens another shelve",
+                "start_frame": 2652,
+                "stop_frame": 2682
+            },
+            {
+                "narration_text": "Closes the shelve",
+                "start_frame": 2682,
+                "stop_frame": 2703
+            },
+            {
+                "narration_text": "Opens another shelve",
+                "start_frame": 2703,
+                "stop_frame": 2764
+            },
+            {
+                "narration_text": "Picks a spoon",
+                "start_frame": 2764,
+                "stop_frame": 2775
+            },
+            {
+                "narration_text": "Closes the shelve",
+                "start_frame": 2775,
+                "stop_frame": 2838
+            },
+            {
+                "narration_text": "Opens the pressure cooker",
+                "start_frame": 2838,
+                "stop_frame": 2905
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening pressure cooker and turning rice",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the shelve",
+                "start_frame": 2775,
+                "stop_frame": 2838
+            },
+            {
+                "narration_text": "Opens the pressure cooker",
+                "start_frame": 2838,
+                "stop_frame": 2905
+            },
+            {
+                "narration_text": "Turns the rice",
+                "start_frame": 2905,
+                "stop_frame": 3226
+            },
+            {
+                "narration_text": "Closes the pressure cooker",
+                "start_frame": 3226,
+                "stop_frame": 3312
+            }
+        ]
+    },
+    {
+        "task_goal": "Closing pressure cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns the rice",
+                "start_frame": 2905,
+                "stop_frame": 3226
+            },
+            {
+                "narration_text": "Closes the pressure cooker",
+                "start_frame": 3226,
+                "stop_frame": 3312
+            },
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 3312,
+                "stop_frame": 3366
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling bowls, utensils, and organizing items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the pressure cooker",
+                "start_frame": 3226,
+                "stop_frame": 3312
+            },
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 3312,
+                "stop_frame": 3366
+            },
+            {
+                "narration_text": "Touches unsure",
+                "start_frame": 3366,
+                "stop_frame": 3419
+            },
+            {
+                "narration_text": "Opens a shelve",
+                "start_frame": 3419,
+                "stop_frame": 3482
+            },
+            {
+                "narration_text": "Picks a cup",
+                "start_frame": 3482,
+                "stop_frame": 3513
+            },
+            {
+                "narration_text": "Puts the cup in order",
+                "start_frame": 3513,
+                "stop_frame": 3557
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 3557,
+                "stop_frame": 3583
+            },
+            {
+                "narration_text": "Puts the bowl on the kitchen",
+                "start_frame": 3583,
+                "stop_frame": 3629
+            },
+            {
+                "narration_text": "Picks another dish",
+                "start_frame": 3629,
+                "stop_frame": 3672
+            },
+            {
+                "narration_text": "Puts the dishes on top",
+                "start_frame": 3672,
+                "stop_frame": 3706
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 3706,
+                "stop_frame": 3716
+            },
+            {
+                "narration_text": "Puts the unsure far end",
+                "start_frame": 3716,
+                "stop_frame": 3755
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 3755,
+                "stop_frame": 3794
+            },
+            {
+                "narration_text": "Puts the spoon in the bowl",
+                "start_frame": 3794,
+                "stop_frame": 3827
+            },
+            {
+                "narration_text": "Puts the bowl on the kitchen",
+                "start_frame": 3827,
+                "stop_frame": 3881
+            },
+            {
+                "narration_text": "Closes the shelve",
+                "start_frame": 3881,
+                "stop_frame": 3981
+            }
+        ]
+    },
+    {
+        "task_goal": "Managing items in cabinet and shelves",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the pressure cooker",
+                "start_frame": 3226,
+                "stop_frame": 3312
+            },
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 3312,
+                "stop_frame": 3366
+            },
+            {
+                "narration_text": "Touches unsure",
+                "start_frame": 3366,
+                "stop_frame": 3419
+            },
+            {
+                "narration_text": "Opens a shelve",
+                "start_frame": 3419,
+                "stop_frame": 3482
+            },
+            {
+                "narration_text": "Picks a cup",
+                "start_frame": 3482,
+                "stop_frame": 3513
+            },
+            {
+                "narration_text": "Puts the cup in order",
+                "start_frame": 3513,
+                "stop_frame": 3557
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 3557,
+                "stop_frame": 3583
+            },
+            {
+                "narration_text": "Puts the bowl on the kitchen",
+                "start_frame": 3583,
+                "stop_frame": 3629
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling and placing dishes and unsure items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 3557,
+                "stop_frame": 3583
+            },
+            {
+                "narration_text": "Puts the bowl on the kitchen",
+                "start_frame": 3583,
+                "stop_frame": 3629
+            },
+            {
+                "narration_text": "Picks another dish",
+                "start_frame": 3629,
+                "stop_frame": 3672
+            },
+            {
+                "narration_text": "Puts the dishes on top",
+                "start_frame": 3672,
+                "stop_frame": 3706
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 3706,
+                "stop_frame": 3716
+            },
+            {
+                "narration_text": "Puts the unsure far end",
+                "start_frame": 3716,
+                "stop_frame": 3755
+            }
+        ]
+    },
+    {
+        "task_goal": "Organizing bowls and spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 3706,
+                "stop_frame": 3716
+            },
+            {
+                "narration_text": "Puts the unsure far end",
+                "start_frame": 3716,
+                "stop_frame": 3755
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 3755,
+                "stop_frame": 3794
+            },
+            {
+                "narration_text": "Puts the spoon in the bowl",
+                "start_frame": 3794,
+                "stop_frame": 3827
+            },
+            {
+                "narration_text": "Puts the bowl on the kitchen",
+                "start_frame": 3827,
+                "stop_frame": 3881
+            },
+            {
+                "narration_text": "Closes the shelve",
+                "start_frame": 3881,
+                "stop_frame": 3981
+            }
+        ]
+    }
+]

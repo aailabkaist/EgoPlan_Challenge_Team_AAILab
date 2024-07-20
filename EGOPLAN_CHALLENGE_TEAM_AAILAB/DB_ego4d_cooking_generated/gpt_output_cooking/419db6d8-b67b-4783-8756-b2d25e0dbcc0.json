@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eexEo0puuJHftcIpf5YTQF00btF3",
+    "object": "chat.completion",
+    "created": 1719477576,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook food, and serve it in cupcake liners with additional preparations in the kitchen.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Initial preparations\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 283,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handle lids and tins\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 212\n        },\n        {\n          \"secondary_subgoal\": \"Place tin on surface\",\n          \"start_timestamp\": 212,\n          \"stop_timestamp\": 283\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare for cooking\",\n      \"start_timestamp\": 283,\n      \"stop_timestamp\": 472,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Get cookware ready\",\n          \"start_timestamp\": 283,\n          \"stop_timestamp\": 472\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare macaroni and egg mixture\",\n      \"start_timestamp\": 472,\n      \"stop_timestamp\": 1999,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handle paper towel and pour macaroni\",\n          \"start_timestamp\": 472,\n          \"stop_timestamp\": 889\n        },\n        {\n          \"secondary_subgoal\": \"Pour eggs into pot\",\n          \"start_timestamp\": 889,\n          \"stop_timestamp\": 1964\n        },\n        {\n          \"secondary_subgoal\": \"Place small bowl on table\",\n          \"start_timestamp\": 1964,\n          \"stop_timestamp\": 1999\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Use and handle strainer\",\n      \"start_timestamp\": 1999,\n      \"stop_timestamp\": 2203,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and hold strainer, pour into strainer\",\n          \"start_timestamp\": 1999,\n          \"stop_timestamp\": 2203\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handle spices and seasonings\",\n      \"start_timestamp\": 2203,\n      \"stop_timestamp\": 2453,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Shake salt and unsure content into pot\",\n          \"start_timestamp\": 2203,\n          \"stop_timestamp\": 2453\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Stir mixture and taste food\",\n      \"start_timestamp\": 2453,\n      \"stop_timestamp\": 4259,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir and taste food\",\n          \"start_timestamp\": 2453,\n          \"stop_timestamp\": 4259\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and place cupcake liners\",\n      \"start_timestamp\": 4259,\n      \"stop_timestamp\": 8626,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and place cupcake liners in tins\",\n          \"start_timestamp\": 4259,\n          \"stop_timestamp\": 8626\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Serve food in cupcake liners\",\n      \"start_timestamp\": 8626,\n      \"stop_timestamp\": 8087,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Serve vegetables in cupcake liners\",\n          \"start_timestamp\": 8626,\n          \"stop_timestamp\": 8087\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handle additional kitchen tasks\",\n      \"start_timestamp\": 8087,\n      \"stop_timestamp\": 11227,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash hands and clean chopsticks\",\n          \"start_timestamp\": 8087,\n          \"stop_timestamp\": 7350\n        },\n        {\n          \"secondary_subgoal\": \"Pick small bowl, serve vegetables\",\n          \"start_timestamp\": 7350,\n          \"stop_timestamp\": 8058\n        },\n        {\n          \"secondary_subgoal\": \"Place bowl and prepare for next steps\",\n          \"start_timestamp\": 8058,\n          \"stop_timestamp\": 11227\n        }\n      ]\n    }\n  ]\n}\n```\n\nThis organizes the actions and tasks performed chronologically and subdivides them based on their respective subgoals and secondary subgoals, focusing on logical unities of tasks within the same goal structure."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2511,
+        "completion_tokens": 946,
+        "total_tokens": 3457
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

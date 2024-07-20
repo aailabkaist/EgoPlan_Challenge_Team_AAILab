@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgcpVXZvNBDUF0d9Ug4KWOjocZ27",
+    "object": "chat.completion",
+    "created": 1719245671,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing a meal using various kitchen utensils and ingredients.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Gathering utensils and filling bowl with water\",\n      \"start_timestamp\": 21,\n      \"stop_timestamp\": 336,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Opening drawer and cabinet to gather utensils\",\n          \"start_timestamp\": 21,\n          \"stop_timestamp\": 226\n        },\n        {\n          \"secondary_subgoal\": \"Filling bowl with water\",\n          \"start_timestamp\": 226,\n          \"stop_timestamp\": 336\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing and cooking rice\",\n      \"start_timestamp\": 336,\n      \"stop_timestamp\": 1047,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Preparing the rice cooker\",\n          \"start_timestamp\": 336,\n          \"stop_timestamp\": 572\n        },\n        {\n          \"secondary_subgoal\": \"Cooking the rice\",\n          \"start_timestamp\": 572,\n          \"stop_timestamp\": 1047\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Gathering ingredients from fridge and organizing them\",\n      \"start_timestamp\": 1047,\n      \"stop_timestamp\": 2033,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Collecting and organizing vegetables and containers\",\n          \"start_timestamp\": 1256,\n          \"stop_timestamp\": 2033\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing to cook with various ingredients\",\n      \"start_timestamp\": 2033,\n      \"stop_timestamp\": 2736,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Organizing utensils and ingredients on counter\",\n          \"start_timestamp\": 2033,\n          \"stop_timestamp\": 2277\n        },\n        {\n          \"secondary_subgoal\": \"Preparing the cooking area and pan\",\n          \"start_timestamp\": 2305,\n          \"stop_timestamp\": 2736\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Managing multiple cooking activities\",\n      \"start_timestamp\": 2736,\n      \"stop_timestamp\": 8588,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Opening, arranging ingredients, and cutting them\",\n          \"start_timestamp\": 2736,\n          \"stop_timestamp\": 3852\n        },\n        {\n          \"secondary_subgoal\": \"Multiple rounds of peeling, chopping, and cutting\",\n          \"start_timestamp\": 3852,\n          \"stop_timestamp\": 5367\n        },\n        {\n          \"secondary_subgoal\": \"Grating ingredients and cleaning hands and grater\",\n          \"start_timestamp\": 5715,\n          \"stop_timestamp\": 6056\n        },\n        {\n          \"secondary_subgoal\": \"Organizing and picking plates, containers, chopsticks\",\n          \"start_timestamp\": 6056,\n          \"stop_timestamp\": 7764\n        },\n        {\n          \"secondary_subgoal\": \"Cutting and placing cucumber pieces into bowl\",\n          \"start_timestamp\": 8753,\n          \"stop_timestamp\": 9175\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning and organizing bowls\",\n          \"start_timestamp\": 9208,\n          \"stop_timestamp\": 9585\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning up and final touches\",\n      \"start_timestamp\": 9613,\n      \"stop_timestamp\": 11687,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cleaning, placing utensils on table, finalizing prep\",\n          \"start_timestamp\": 9613,\n          \"stop_timestamp\": 11687\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 8138,
+        "completion_tokens": 799,
+        "total_tokens": 8937
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

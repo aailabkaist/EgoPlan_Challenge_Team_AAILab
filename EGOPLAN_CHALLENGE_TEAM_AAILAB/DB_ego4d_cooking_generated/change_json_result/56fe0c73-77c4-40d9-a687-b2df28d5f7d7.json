@@ -1,0 +1,73 @@
+{
+    "overall_goal": "Prepare mango and potato pieces for a dish.",
+    "clips": [
+        {
+            "subgoal": "Peel the mangoes.",
+            "start_timestamp": 14,
+            "stop_timestamp": 8648,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel mango using the knife, including necessary wipes and adjustments.",
+                    "start_timestamp": 14,
+                    "stop_timestamp": 5532
+                },
+                {
+                    "secondary_subgoal": "Peel mango using the kitchen peeler.",
+                    "start_timestamp": 8648,
+                    "stop_timestamp": 10033
+                }
+            ]
+        },
+        {
+            "subgoal": "Place peeled mangoes into the grater bowl.",
+            "start_timestamp": 10033,
+            "stop_timestamp": 8367,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and place the mangoes from the bowl to the grater bowl.",
+                    "start_timestamp": 10033,
+                    "stop_timestamp": 10817
+                },
+                {
+                    "secondary_subgoal": "Cut and place mango pieces into the bowl.",
+                    "start_timestamp": 10817,
+                    "stop_timestamp": 17006
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut and prepare the potatoes.",
+            "start_timestamp": 17006,
+            "stop_timestamp": 33031,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and place potato pieces into the dish in stages.",
+                    "start_timestamp": 17006,
+                    "stop_timestamp": 29752
+                },
+                {
+                    "secondary_subgoal": "Transfer potato pieces from the dish to the basin.",
+                    "start_timestamp": 29752,
+                    "stop_timestamp": 32701
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut remaining mango and place in the bowl.",
+            "start_timestamp": 33031,
+            "stop_timestamp": 35616,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut mango pieces and place them in the bowl.",
+                    "start_timestamp": 33031,
+                    "stop_timestamp": 34485
+                },
+                {
+                    "secondary_subgoal": "Cut mango, hold seed, and place seed into the pot.",
+                    "start_timestamp": 34485,
+                    "stop_timestamp": 35616
+                }
+            ]
+        }
+    ]
+}

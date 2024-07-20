@@ -1,0 +1,372 @@
+[
+    {
+        "task_goal": "Clean and store the knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds a bowl and a kitchen towel.",
+                "start_frame": 1,
+                "stop_frame": 12
+            },
+            {
+                "narration_text": "#C C picks a knife in the dish rack.",
+                "start_frame": 12,
+                "stop_frame": 63
+            },
+            {
+                "narration_text": "#C C wipes the knife.",
+                "start_frame": 63,
+                "stop_frame": 120
+            },
+            {
+                "narration_text": "#C C pulls the drawer.",
+                "start_frame": 120,
+                "stop_frame": 139
+            },
+            {
+                "narration_text": "#C C puts the knife in the drawer.",
+                "start_frame": 139,
+                "stop_frame": 227
+            },
+            {
+                "narration_text": "#C C closes the drawer.",
+                "start_frame": 227,
+                "stop_frame": 256
+            },
+            {
+                "narration_text": "#C C hangs the kitchen towel.",
+                "start_frame": 256,
+                "stop_frame": 305
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold a bowl and a kitchen towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds a bowl and a kitchen towel.",
+                "start_frame": 1,
+                "stop_frame": 12
+            },
+            {
+                "narration_text": "#C C picks a knife in the dish rack.",
+                "start_frame": 12,
+                "stop_frame": 63
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and wipe the knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds a bowl and a kitchen towel.",
+                "start_frame": 1,
+                "stop_frame": 12
+            },
+            {
+                "narration_text": "#C C picks a knife in the dish rack.",
+                "start_frame": 12,
+                "stop_frame": 63
+            },
+            {
+                "narration_text": "#C C wipes the knife.",
+                "start_frame": 63,
+                "stop_frame": 120
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe the knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a knife in the dish rack.",
+                "start_frame": 12,
+                "stop_frame": 63
+            },
+            {
+                "narration_text": "#C C wipes the knife.",
+                "start_frame": 63,
+                "stop_frame": 120
+            },
+            {
+                "narration_text": "#C C pulls the drawer.",
+                "start_frame": 120,
+                "stop_frame": 139
+            }
+        ]
+    },
+    {
+        "task_goal": "Store the knife in the drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C wipes the knife.",
+                "start_frame": 63,
+                "stop_frame": 120
+            },
+            {
+                "narration_text": "#C C pulls the drawer.",
+                "start_frame": 120,
+                "stop_frame": 139
+            },
+            {
+                "narration_text": "#C C puts the knife in the drawer.",
+                "start_frame": 139,
+                "stop_frame": 227
+            },
+            {
+                "narration_text": "#C C closes the drawer.",
+                "start_frame": 227,
+                "stop_frame": 256
+            }
+        ]
+    },
+    {
+        "task_goal": "Close the drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the knife in the drawer.",
+                "start_frame": 139,
+                "stop_frame": 227
+            },
+            {
+                "narration_text": "#C C closes the drawer.",
+                "start_frame": 227,
+                "stop_frame": 256
+            },
+            {
+                "narration_text": "#C C hangs the kitchen towel.",
+                "start_frame": 256,
+                "stop_frame": 305
+            }
+        ]
+    },
+    {
+        "task_goal": "Organize the kitchen items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the drawer.",
+                "start_frame": 227,
+                "stop_frame": 256
+            },
+            {
+                "narration_text": "#C C hangs the kitchen towel.",
+                "start_frame": 256,
+                "stop_frame": 305
+            },
+            {
+                "narration_text": "#C C grabs a bowl and plate on the countertop.",
+                "start_frame": 305,
+                "stop_frame": 347
+            },
+            {
+                "narration_text": "#C C opens the kitchen cabinet.",
+                "start_frame": 347,
+                "stop_frame": 368
+            },
+            {
+                "narration_text": "#C C places the plate in the kitchen cabinet.",
+                "start_frame": 368,
+                "stop_frame": 511
+            },
+            {
+                "narration_text": "#C C moves around the kitchen.",
+                "start_frame": 511,
+                "stop_frame": 541
+            },
+            {
+                "narration_text": "#C C picks bowls on the countertop.",
+                "start_frame": 541,
+                "stop_frame": 576
+            },
+            {
+                "narration_text": "#C C places the bowls in the kitchen cabinet.",
+                "start_frame": 576,
+                "stop_frame": 637
+            },
+            {
+                "narration_text": "#C C moves around the kitchen.",
+                "start_frame": 637,
+                "stop_frame": 739
+            },
+            {
+                "narration_text": "#C C adjusts his camera.",
+                "start_frame": 739,
+                "stop_frame": 839
+            }
+        ]
+    },
+    {
+        "task_goal": "Hang the kitchen towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the drawer.",
+                "start_frame": 227,
+                "stop_frame": 256
+            },
+            {
+                "narration_text": "#C C hangs the kitchen towel.",
+                "start_frame": 256,
+                "stop_frame": 305
+            },
+            {
+                "narration_text": "#C C grabs a bowl and plate on the countertop.",
+                "start_frame": 305,
+                "stop_frame": 347
+            }
+        ]
+    },
+    {
+        "task_goal": "Grab a bowl and plate from the countertop",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C hangs the kitchen towel.",
+                "start_frame": 256,
+                "stop_frame": 305
+            },
+            {
+                "narration_text": "#C C grabs a bowl and plate on the countertop.",
+                "start_frame": 305,
+                "stop_frame": 347
+            },
+            {
+                "narration_text": "#C C opens the kitchen cabinet.",
+                "start_frame": 347,
+                "stop_frame": 368
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the kitchen cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C grabs a bowl and plate on the countertop.",
+                "start_frame": 305,
+                "stop_frame": 347
+            },
+            {
+                "narration_text": "#C C opens the kitchen cabinet.",
+                "start_frame": 347,
+                "stop_frame": 368
+            },
+            {
+                "narration_text": "#C C places the plate in the kitchen cabinet.",
+                "start_frame": 368,
+                "stop_frame": 511
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the plate in the kitchen cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the kitchen cabinet.",
+                "start_frame": 347,
+                "stop_frame": 368
+            },
+            {
+                "narration_text": "#C C places the plate in the kitchen cabinet.",
+                "start_frame": 368,
+                "stop_frame": 511
+            },
+            {
+                "narration_text": "#C C moves around the kitchen.",
+                "start_frame": 511,
+                "stop_frame": 541
+            }
+        ]
+    },
+    {
+        "task_goal": "Move around the kitchen",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places the plate in the kitchen cabinet.",
+                "start_frame": 368,
+                "stop_frame": 511
+            },
+            {
+                "narration_text": "#C C moves around the kitchen.",
+                "start_frame": 511,
+                "stop_frame": 541
+            },
+            {
+                "narration_text": "#C C picks bowls on the countertop.",
+                "start_frame": 541,
+                "stop_frame": 576
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick bowls on the countertop",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves around the kitchen.",
+                "start_frame": 511,
+                "stop_frame": 541
+            },
+            {
+                "narration_text": "#C C picks bowls on the countertop.",
+                "start_frame": 541,
+                "stop_frame": 576
+            },
+            {
+                "narration_text": "#C C places the bowls in the kitchen cabinet.",
+                "start_frame": 576,
+                "stop_frame": 637
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the bowls in the kitchen cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks bowls on the countertop.",
+                "start_frame": 541,
+                "stop_frame": 576
+            },
+            {
+                "narration_text": "#C C places the bowls in the kitchen cabinet.",
+                "start_frame": 576,
+                "stop_frame": 637
+            },
+            {
+                "narration_text": "#C C moves around the kitchen.",
+                "start_frame": 637,
+                "stop_frame": 739
+            }
+        ]
+    },
+    {
+        "task_goal": "Move around the kitchen",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places the bowls in the kitchen cabinet.",
+                "start_frame": 576,
+                "stop_frame": 637
+            },
+            {
+                "narration_text": "#C C moves around the kitchen.",
+                "start_frame": 637,
+                "stop_frame": 739
+            },
+            {
+                "narration_text": "#C C adjusts his camera.",
+                "start_frame": 739,
+                "stop_frame": 839
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjust the camera",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves around the kitchen.",
+                "start_frame": 637,
+                "stop_frame": 739
+            },
+            {
+                "narration_text": "#C C adjusts his camera.",
+                "start_frame": 739,
+                "stop_frame": 839
+            }
+        ]
+    }
+]

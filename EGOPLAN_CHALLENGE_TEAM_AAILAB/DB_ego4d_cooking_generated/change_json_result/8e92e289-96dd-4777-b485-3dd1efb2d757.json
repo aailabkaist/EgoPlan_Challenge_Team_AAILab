@@ -1,0 +1,81 @@
+{
+    "overall_goal": "Prepare ingredients for cooking",
+    "clips": [
+        {
+            "subgoal": "Gather ingredients from fridge",
+            "start_timestamp": 34,
+            "stop_timestamp": 440,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open fridge",
+                    "start_timestamp": 34,
+                    "stop_timestamp": 101
+                },
+                {
+                    "secondary_subgoal": "Pick up items from fridge",
+                    "start_timestamp": 101,
+                    "stop_timestamp": 244
+                },
+                {
+                    "secondary_subgoal": "Remove capsicum from fridge",
+                    "start_timestamp": 244,
+                    "stop_timestamp": 365
+                },
+                {
+                    "secondary_subgoal": "Close fridge",
+                    "start_timestamp": 365,
+                    "stop_timestamp": 440
+                }
+            ]
+        },
+        {
+            "subgoal": "Collect additional items from kitchen cabinet",
+            "start_timestamp": 456,
+            "stop_timestamp": 1376,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open kitchen cabinet door",
+                    "start_timestamp": 456,
+                    "stop_timestamp": 599
+                },
+                {
+                    "secondary_subgoal": "Bend down to reach item",
+                    "start_timestamp": 599,
+                    "stop_timestamp": 640
+                },
+                {
+                    "secondary_subgoal": "Interact with nylon paper",
+                    "start_timestamp": 640,
+                    "stop_timestamp": 1196
+                },
+                {
+                    "secondary_subgoal": "Stand up and close cabinet",
+                    "start_timestamp": 1196,
+                    "stop_timestamp": 1277
+                },
+                {
+                    "secondary_subgoal": "Place packet on counter",
+                    "start_timestamp": 1277,
+                    "stop_timestamp": 1376
+                }
+            ]
+        },
+        {
+            "subgoal": "Walk and interact with phone",
+            "start_timestamp": 1376,
+            "stop_timestamp": 1617,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk towards phone",
+                    "start_timestamp": 1376,
+                    "stop_timestamp": 1517
+                },
+                {
+                    "secondary_subgoal": "Touch the phone",
+                    "start_timestamp": 1517,
+                    "stop_timestamp": 1617
+                }
+            ]
+        }
+    ]
+}

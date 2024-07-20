@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egEfWwEc5xr0GVgcDFa2AWDTqWKN",
+    "object": "chat.completion",
+    "created": 1719482501,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and process various grains and cereals using traditional cooking methods.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Gather and prepare sticks and firewood.\",\n      \"start_timestamp\": 163,\n      \"stop_timestamp\": 1772,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Pick and divide sticks.\", \"start_timestamp\": 163, \"stop_timestamp\": 507},\n        {\"secondary_subgoal\": \"Use sticks to hit cloth and stir in pot.\", \"start_timestamp\": 507, \"stop_timestamp\": 1544},\n        {\"secondary_subgoal\": \"Transfer and sweep fabric with sticks.\", \"start_timestamp\": 1544, \"stop_timestamp\": 1971}\n      ]\n    },\n    {\n      \"subgoal\": \"Adjust fire and stir rice.\",\n      \"start_timestamp\": 1971,\n      \"stop_timestamp\": 30079,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Adjust firewood and stir rice.\", \"start_timestamp\": 1971, \"stop_timestamp\": 2957},\n        {\"secondary_subgoal\": \"Walk in garden and collect more firewood.\", \"start_timestamp\": 3044, \"stop_timestamp\": 3475},\n        {\"secondary_subgoal\": \"Sit on a stool and stir rice.\", \"start_timestamp\": 3622, \"stop_timestamp\": 4162},\n        {\"secondary_subgoal\": \"Scoops rice into cooking pot and stir.\", \"start_timestamp\": 4235, \"stop_timestamp\": 5152},\n        {\"secondary_subgoal\": \"Repeat stirring and adjusting firewood.\", \"start_timestamp\": 5152, \"stop_timestamp\": 30079}\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare grains in the pot.\",\n      \"start_timestamp\": 57357,\n      \"stop_timestamp\": 56603,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Repeat cycle of stirring and removing grains from pot.\", \"start_timestamp\": 57357, \"stop_timestamp\": 39872},\n        {\"secondary_subgoal\": \"Stir grains in pot with broomsticks.\", \"start_timestamp\": 39901, \"stop_timestamp\": 56603}\n      ]\n    },\n    {\n      \"subgoal\": \"Sand roast popcorns.\",\n      \"start_timestamp\": 33363,\n      \"stop_timestamp\": 39786,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Add popcorn maize and stir with coconut sticks.\", \"start_timestamp\": 33363, \"stop_timestamp\": 38882}\n      ]\n    },\n    {\n      \"subgoal\": \"Roast seeds and remove chaff.\",\n      \"start_timestamp\": 39786,\n      \"stop_timestamp\": 67234,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Repeat cycle of adding seeds, stirring, and removing from pot.\", \"start_timestamp\": 39786, \"stop_timestamp\": 56603}\n      ]\n    },\n    {\n      \"subgoal\": \"Collect and sieve grains.\",\n      \"start_timestamp\": 69824,\n      \"stop_timestamp\": 77200,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Collect grains into bowl and sieve.\", \"start_timestamp\": 69824, \"stop_timestamp\": 76506},\n        {\"secondary_subgoal\": \"Remove chaff and pour grains into bucket.\", \"start_timestamp\": 66506, \"stop_timestamp\": 77200}\n      ]\n    },\n    {\n      \"subgoal\": \"Perform miscellaneous activities.\",\n      \"start_timestamp\": 9351,\n      \"stop_timestamp\": 77200,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Other minor actions unrelated to main workflow.\", \"start_timestamp\": 9351, \"stop_timestamp\": 77200}\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 8934,
+        "completion_tokens": 800,
+        "total_tokens": 9734
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

@@ -1,0 +1,96 @@
+{
+    "overall_goal": "Prepare and store grapes and peppers",
+    "clips": [
+        {
+            "subgoal": "Prepare grapes",
+            "start_timestamp": 0,
+            "stop_timestamp": 4570,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather grapes",
+                    "start_timestamp": 290,
+                    "stop_timestamp": 354
+                },
+                {
+                    "secondary_subgoal": "Cut grapes with hands",
+                    "start_timestamp": 354,
+                    "stop_timestamp": 567
+                },
+                {
+                    "secondary_subgoal": "Cut grapes with scissors",
+                    "start_timestamp": 850,
+                    "stop_timestamp": 1594
+                },
+                {
+                    "secondary_subgoal": "Arrange grapes in plastic tin",
+                    "start_timestamp": 2473,
+                    "stop_timestamp": 3368
+                },
+                {
+                    "secondary_subgoal": "Store grapes in fridge",
+                    "start_timestamp": 3574,
+                    "stop_timestamp": 4570
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare peppers",
+            "start_timestamp": 5632,
+            "stop_timestamp": 14381,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Remove seeds from a pepper",
+                    "start_timestamp": 6688,
+                    "stop_timestamp": 6876
+                },
+                {
+                    "secondary_subgoal": "Cutting and storing peppers",
+                    "start_timestamp": 6876,
+                    "stop_timestamp": 7167
+                },
+                {
+                    "secondary_subgoal": "Picking and cutting more peppers",
+                    "start_timestamp": 8211,
+                    "stop_timestamp": 11184
+                },
+                {
+                    "secondary_subgoal": "Store peppers in a bowl",
+                    "start_timestamp": 11290,
+                    "stop_timestamp": 11622
+                },
+                {
+                    "secondary_subgoal": "Remove seeds and cut peppers",
+                    "start_timestamp": 12300,
+                    "stop_timestamp": 12378
+                },
+                {
+                    "secondary_subgoal": "Remove seeds from a pepper",
+                    "start_timestamp": 12300,
+                    "stop_timestamp": 13149
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up the kitchen",
+            "start_timestamp": 14381,
+            "stop_timestamp": 16492,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open the tap",
+                    "start_timestamp": 14469,
+                    "stop_timestamp": 15760
+                },
+                {
+                    "secondary_subgoal": "Remove a bowl from the shelve",
+                    "start_timestamp": 15826,
+                    "stop_timestamp": 16145
+                },
+                {
+                    "secondary_subgoal": "Remove and return a utensil",
+                    "start_timestamp": 16330,
+                    "stop_timestamp": 16392
+                }
+            ]
+        }
+    ]
+}

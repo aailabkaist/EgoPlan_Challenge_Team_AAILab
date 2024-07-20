@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgbFM37nXgVuOWp7gCRV38H6HMlN",
+    "object": "chat.completion",
+    "created": 1719245573,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare food by cleaning, chopping, and cooking various ingredients in the kitchen.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare potatoes for cooking\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 7442,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Retrieve necessary items\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 341\n        },\n        {\n          \"secondary_subgoal\": \"Clean the potatoes\",\n          \"start_timestamp\": 751,\n          \"stop_timestamp\": 1251\n        },\n        {\n          \"secondary_subgoal\": \"Peel and chop the potatoes\",\n          \"start_timestamp\": 1251,\n          \"stop_timestamp\": 3020\n        },\n        {\n          \"secondary_subgoal\": \"Add water to the potatoes\",\n          \"start_timestamp\": 3177,\n          \"stop_timestamp\": 3312\n        },\n        {\n          \"secondary_subgoal\": \"Continue to chop and add potatoes\",\n          \"start_timestamp\": 3312,\n          \"stop_timestamp\": 5909\n        },\n        {\n          \"secondary_subgoal\": \"Clean the filter basket\",\n          \"start_timestamp\": 5944,\n          \"stop_timestamp\": 6301\n        },\n        {\n          \"secondary_subgoal\": \"Place the chopped potatoes in a plate\",\n          \"start_timestamp\": 6352,\n          \"stop_timestamp\": 6835\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Start preparing ham for cooking\",\n      \"start_timestamp\": 7998,\n      \"stop_timestamp\": 11289,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Retrieve and unwrap ham\",\n          \"start_timestamp\": 9316,\n          \"stop_timestamp\": 9724\n        },\n        {\n          \"secondary_subgoal\": \"Prepare cooking utensils\",\n          \"start_timestamp\": 8678,\n          \"stop_timestamp\": 9176\n        },\n        {\n          \"secondary_subgoal\": \"Heat pan and oil\",\n          \"start_timestamp\": 9991,\n          \"stop_timestamp\": 10155\n        },\n        {\n          \"secondary_subgoal\": \"Place ham in pan\",\n          \"start_timestamp\": 10834,\n          \"stop_timestamp\": 11289\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare additional ingredients\",\n      \"start_timestamp\": 11927,\n      \"stop_timestamp\": 20505,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Retrieve and clean vegetables\",\n          \"start_timestamp\": 11949,\n          \"stop_timestamp\": 14737\n        },\n        {\n          \"secondary_subgoal\": \"Cut tomatoes\",\n          \"start_timestamp\": 14737,\n          \"stop_timestamp\": 14929\n        },\n        {\n          \"secondary_subgoal\": \"Retrieve and clean bell peppers\",\n          \"start_timestamp\": 15502,\n          \"stop_timestamp\": 15772\n        },\n        {\n          \"secondary_subgoal\": \"Clean and peel maize corns\",\n          \"start_timestamp\": 17505,\n          \"stop_timestamp\": 18880\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4695,
+        "completion_tokens": 672,
+        "total_tokens": 5367
+    },
+    "system_fingerprint": "fp_888385ccad"
+}

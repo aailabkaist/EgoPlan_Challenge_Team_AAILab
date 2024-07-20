@@ -1,0 +1,164 @@
+{
+    "overall_goal": "Prepping and cooking a meal in the kitchen, while interacting with two men (X and N)",
+    "clips": [
+        {
+            "subgoal": "Getting vegetables and seasoning ingredients",
+            "start_timestamp": 0,
+            "stop_timestamp": 1751,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Interacting with the fridge",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 346
+                },
+                {
+                    "secondary_subgoal": "Picking vegetables from the fridge",
+                    "start_timestamp": 346,
+                    "stop_timestamp": 788
+                },
+                {
+                    "secondary_subgoal": "Interacting with Man X",
+                    "start_timestamp": 788,
+                    "stop_timestamp": 1149
+                },
+                {
+                    "secondary_subgoal": "Getting ingredients from the fridge",
+                    "start_timestamp": 1149,
+                    "stop_timestamp": 1751
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing the cooking tools and ingredients",
+            "start_timestamp": 1751,
+            "stop_timestamp": 4901,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Looking around and setting up",
+                    "start_timestamp": 1751,
+                    "stop_timestamp": 1996
+                },
+                {
+                    "secondary_subgoal": "Interacting with sachets and spices",
+                    "start_timestamp": 2033,
+                    "stop_timestamp": 2800
+                },
+                {
+                    "secondary_subgoal": "Putting on gloves and chopping",
+                    "start_timestamp": 3130,
+                    "stop_timestamp": 4097
+                },
+                {
+                    "secondary_subgoal": "Interacting with Man X",
+                    "start_timestamp": 4097,
+                    "stop_timestamp": 4901
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing utensils",
+            "start_timestamp": 5155,
+            "stop_timestamp": 6029,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing hands and utensils",
+                    "start_timestamp": 5184,
+                    "stop_timestamp": 6029
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking and prepping food",
+            "start_timestamp": 6148,
+            "stop_timestamp": 10747,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepping ingredients and wiping knife",
+                    "start_timestamp": 6148,
+                    "stop_timestamp": 7518
+                },
+                {
+                    "secondary_subgoal": "Hovering over packets and interacting with the heater",
+                    "start_timestamp": 7581,
+                    "stop_timestamp": 8400
+                },
+                {
+                    "secondary_subgoal": "Interacting and scooping rice",
+                    "start_timestamp": 8574,
+                    "stop_timestamp": 10423
+                },
+                {
+                    "secondary_subgoal": "Cooking and placing the pack",
+                    "start_timestamp": 10423,
+                    "stop_timestamp": 10747
+                }
+            ]
+        },
+        {
+            "subgoal": "Cutting meat",
+            "start_timestamp": 10752,
+            "stop_timestamp": 13148,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preparing and cutting meat",
+                    "start_timestamp": 10752,
+                    "stop_timestamp": 13424
+                },
+                {
+                    "secondary_subgoal": "Interacting with Man N",
+                    "start_timestamp": 12819,
+                    "stop_timestamp": 13424
+                },
+                {
+                    "secondary_subgoal": "Finishing cutting and placing meat",
+                    "start_timestamp": 13424,
+                    "stop_timestamp": 13444
+                }
+            ]
+        },
+        {
+            "subgoal": "Sprinkling seasoning and stirring the food",
+            "start_timestamp": 13753,
+            "stop_timestamp": 15919,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Sprinkling seasoning in the bowl",
+                    "start_timestamp": 14116,
+                    "stop_timestamp": 14856
+                },
+                {
+                    "secondary_subgoal": "Interacting with Man N",
+                    "start_timestamp": 14856,
+                    "stop_timestamp": 15736
+                },
+                {
+                    "secondary_subgoal": "Finishing prep with Man N and Man M",
+                    "start_timestamp": 15736,
+                    "stop_timestamp": 15919
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning and tidying",
+            "start_timestamp": 17161,
+            "stop_timestamp": 21284,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Interacting with utensils and cleaning",
+                    "start_timestamp": 18193,
+                    "stop_timestamp": 18889
+                },
+                {
+                    "secondary_subgoal": "Cleaning kitchen utensils and appliances",
+                    "start_timestamp": 19789,
+                    "stop_timestamp": 21083
+                },
+                {
+                    "secondary_subgoal": "Final cleanup and interactions",
+                    "start_timestamp": 21184,
+                    "stop_timestamp": 21284
+                }
+            ]
+        }
+    ]
+}

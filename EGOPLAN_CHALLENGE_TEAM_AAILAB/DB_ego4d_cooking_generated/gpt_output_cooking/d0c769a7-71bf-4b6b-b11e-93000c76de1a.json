@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehTUesdFW5iLPKGD37V9o62aq5rO",
+    "object": "chat.completion",
+    "created": 1719487264,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and serve food, eat, and interact with a baby and women X and Y.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare food in the kitchen\",\n      \"start_timestamp\": 336,\n      \"stop_timestamp\": 18185,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Move objects and stir food on the countertop\",\n          \"start_timestamp\": 336,\n          \"stop_timestamp\": 10257\n        },\n        {\n          \"secondary_subgoal\": \"Prepare and serve food on a plate\",\n          \"start_timestamp\": 10257,\n          \"stop_timestamp\": 19199\n        },\n        {\n          \"secondary_subgoal\": \"Interact with woman X and use kitchen appliances\",\n          \"start_timestamp\": 19199,\n          \"stop_timestamp\": 18185\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Eat and interact at the dining table\",\n      \"start_timestamp\": 22856,\n      \"stop_timestamp\": 49621,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Feed the baby and interact with woman Y\",\n          \"start_timestamp\": 22856,\n          \"stop_timestamp\": 30018\n        },\n        {\n          \"secondary_subgoal\": \"Eat and interact with people\",\n          \"start_timestamp\": 30018,\n          \"stop_timestamp\": 49621\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final cleanup and looking around\",\n      \"start_timestamp\": 49621,\n      \"stop_timestamp\": 54027,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Feed the baby and clean up\",\n          \"start_timestamp\": 49621,\n          \"stop_timestamp\": 53768\n        },\n        {\n          \"secondary_subgoal\": \"Interact with people and look around\",\n          \"start_timestamp\": 53768,\n          \"stop_timestamp\": 54027\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3991,
+        "completion_tokens": 424,
+        "total_tokens": 4415
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

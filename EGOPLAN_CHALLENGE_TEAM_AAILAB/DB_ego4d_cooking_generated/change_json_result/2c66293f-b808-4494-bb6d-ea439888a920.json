@@ -1,0 +1,93 @@
+{
+    "overall_goal": "Prepare a meal involving cooking eggs and another dish (possibly multiple items) using various utensils, ingredients, and maintaining cleanliness in the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Gather and ready utensils and ingredients for cooking",
+            "start_timestamp": 20,
+            "stop_timestamp": 389,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Search for and take a bowl",
+                    "start_timestamp": 20,
+                    "stop_timestamp": 321
+                },
+                {
+                    "secondary_subgoal": "Prepare to pour liquid by taking the bottle and opening it",
+                    "start_timestamp": 321,
+                    "stop_timestamp": 389
+                }
+            ]
+        },
+        {
+            "subgoal": "Pour and prepare ingredients for cooking",
+            "start_timestamp": 389,
+            "stop_timestamp": 6408,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare the first round of egg cooking, involving pouring liquid into various containers and wiping the pan",
+                    "start_timestamp": 389,
+                    "stop_timestamp": 2235
+                },
+                {
+                    "secondary_subgoal": "Adjust the cooker and handle the pan contents",
+                    "start_timestamp": 2235,
+                    "stop_timestamp": 2400
+                },
+                {
+                    "secondary_subgoal": "Pour and stir ingredients, involving various bottles and the cooker",
+                    "start_timestamp": 2400,
+                    "stop_timestamp": 3006
+                },
+                {
+                    "secondary_subgoal": "Work with the egg mixture in the pan and clean the pan when necessary",
+                    "start_timestamp": 3006,
+                    "stop_timestamp": 6408
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare additional ingredients for the meal",
+            "start_timestamp": 6408,
+            "stop_timestamp": 8148,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel and clean onions for cooking",
+                    "start_timestamp": 6408,
+                    "stop_timestamp": 8148
+                }
+            ]
+        },
+        {
+            "subgoal": "Perform final preparations and cooking steps",
+            "start_timestamp": 8148,
+            "stop_timestamp": 21748,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Deal with egg cooking in the pan and egg rolling",
+                    "start_timestamp": 8148,
+                    "stop_timestamp": 16239
+                },
+                {
+                    "secondary_subgoal": "Cook bread and handle utensils",
+                    "start_timestamp": 16849,
+                    "stop_timestamp": 17560
+                },
+                {
+                    "secondary_subgoal": "Clean and wash used utensils and dishes",
+                    "start_timestamp": 17560,
+                    "stop_timestamp": 18251
+                },
+                {
+                    "secondary_subgoal": "Handle pan and sausages cooking",
+                    "start_timestamp": 18251,
+                    "stop_timestamp": 20573
+                },
+                {
+                    "secondary_subgoal": "Final washing of cutting board and knife",
+                    "start_timestamp": 20573,
+                    "stop_timestamp": 21128
+                }
+            ]
+        }
+    ]
+}

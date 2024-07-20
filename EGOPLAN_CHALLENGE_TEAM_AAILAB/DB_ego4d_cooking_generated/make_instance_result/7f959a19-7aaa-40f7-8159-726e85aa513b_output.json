@@ -1,0 +1,412 @@
+[
+    {
+        "task_goal": "Pick and open the packed bell peppers",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves around the kitchen",
+                "start_frame": 4,
+                "stop_frame": 251
+            },
+            {
+                "narration_text": "#C C picks the packed bell pepper",
+                "start_frame": 251,
+                "stop_frame": 267
+            },
+            {
+                "narration_text": "#C C opens the packed bell pepper",
+                "start_frame": 267,
+                "stop_frame": 511
+            },
+            {
+                "narration_text": "#C C picks the packed items",
+                "start_frame": 511,
+                "stop_frame": 545
+            },
+            {
+                "narration_text": "#C C drops the packed items",
+                "start_frame": 545,
+                "stop_frame": 583
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and drop other packed items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the packed items",
+                "start_frame": 511,
+                "stop_frame": 545
+            },
+            {
+                "narration_text": "#C C drops the packed items",
+                "start_frame": 545,
+                "stop_frame": 583
+            },
+            {
+                "narration_text": "#C C puts on the fire",
+                "start_frame": 583,
+                "stop_frame": 645
+            }
+        ]
+    },
+    {
+        "task_goal": "Put on the fire",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C drops the packed items",
+                "start_frame": 545,
+                "stop_frame": 583
+            },
+            {
+                "narration_text": "#C C puts on the fire",
+                "start_frame": 583,
+                "stop_frame": 645
+            },
+            {
+                "narration_text": "#C C lifts the phone",
+                "start_frame": 645,
+                "stop_frame": 691
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle the phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts on the fire",
+                "start_frame": 583,
+                "stop_frame": 645
+            },
+            {
+                "narration_text": "#C C lifts the phone",
+                "start_frame": 645,
+                "stop_frame": 691
+            },
+            {
+                "narration_text": "#C C drops the phone",
+                "start_frame": 691,
+                "stop_frame": 823
+            },
+            {
+                "narration_text": "#C C removes the bell peppers",
+                "start_frame": 823,
+                "stop_frame": 915
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove and drop the bell peppers",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C drops the phone",
+                "start_frame": 691,
+                "stop_frame": 823
+            },
+            {
+                "narration_text": "#C C removes the bell peppers",
+                "start_frame": 823,
+                "stop_frame": 915
+            },
+            {
+                "narration_text": "#C C drops the bell peppers",
+                "start_frame": 915,
+                "stop_frame": 937
+            },
+            {
+                "narration_text": "#C C drops the bell peppers",
+                "start_frame": 937,
+                "stop_frame": 1006
+            },
+            {
+                "narration_text": "#C C throws the sealed paper",
+                "start_frame": 1006,
+                "stop_frame": 1085
+            }
+        ]
+    },
+    {
+        "task_goal": "Throw sealed paper and pick knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C drops the bell peppers",
+                "start_frame": 937,
+                "stop_frame": 1006
+            },
+            {
+                "narration_text": "#C C throws the sealed paper",
+                "start_frame": 1006,
+                "stop_frame": 1085
+            },
+            {
+                "narration_text": "#C C picks the knife",
+                "start_frame": 1085,
+                "stop_frame": 1130
+            },
+            {
+                "narration_text": "#C C drops the knife",
+                "start_frame": 1130,
+                "stop_frame": 1226
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and drop sieve basket",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the sieve basket",
+                "start_frame": 1226,
+                "stop_frame": 1279
+            },
+            {
+                "narration_text": "#C C picks the bell peppers",
+                "start_frame": 1279,
+                "stop_frame": 1301
+            },
+            {
+                "narration_text": "#C C drops the bell peppers",
+                "start_frame": 1301,
+                "stop_frame": 1384
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and drop sachet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the sachet",
+                "start_frame": 1384,
+                "stop_frame": 1471
+            },
+            {
+                "narration_text": "#C C drops the sachet",
+                "start_frame": 1471,
+                "stop_frame": 1529
+            },
+            {
+                "narration_text": "#C C picks the bell pepper",
+                "start_frame": 1529,
+                "stop_frame": 1539
+            },
+            {
+                "narration_text": "#C C drops the bell pepper",
+                "start_frame": 1539,
+                "stop_frame": 1558
+            }
+        ]
+    },
+    {
+        "task_goal": "Open tap and wash bell peppers",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 1591,
+                "stop_frame": 1606
+            },
+            {
+                "narration_text": "#C C washes the bell pepper",
+                "start_frame": 1606,
+                "stop_frame": 1701
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 1701,
+                "stop_frame": 1870
+            }
+        ]
+    },
+    {
+        "task_goal": "Close tap and pour bell peppers in sieve basket",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 1701,
+                "stop_frame": 1870
+            },
+            {
+                "narration_text": "#C C pours the bell pepper",
+                "start_frame": 1870,
+                "stop_frame": 1924
+            },
+            {
+                "narration_text": "#C C drops the sieve basket",
+                "start_frame": 1924,
+                "stop_frame": 1932
+            },
+            {
+                "narration_text": "#C C picks the bell pepper",
+                "start_frame": 1932,
+                "stop_frame": 1995
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle foil paper, knife, and cleaning up",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cuts the bell pepper",
+                "start_frame": 3347,
+                "stop_frame": 3542
+            },
+            {
+                "narration_text": "#C C picks the foil paper",
+                "start_frame": 3542,
+                "stop_frame": 3568
+            },
+            {
+                "narration_text": "#C C wipes the knife",
+                "start_frame": 3568,
+                "stop_frame": 3957
+            }
+        ]
+    },
+    {
+        "task_goal": "Place bell pepper pieces in frying pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the pieces of bell pepper in the frying pan",
+                "start_frame": 15446,
+                "stop_frame": 15463
+            },
+            {
+                "narration_text": "#C C picks up the piece of bell pepper from the chopping board",
+                "start_frame": 15463,
+                "stop_frame": 15471
+            },
+            {
+                "narration_text": "#C C puts the piece of bell pepper in the frying pan",
+                "start_frame": 15471,
+                "stop_frame": 15488
+            },
+            {
+                "narration_text": "#C C picks the bell pepper from the chopping board",
+                "start_frame": 15488,
+                "stop_frame": 15497
+            },
+            {
+                "narration_text": "#C C puts the bell pepper on the chopping board",
+                "start_frame": 15497,
+                "stop_frame": 15511
+            },
+            {
+                "narration_text": "#C C holds the bell pepper on the chopping board",
+                "start_frame": 15511,
+                "stop_frame": 15555
+            },
+            {
+                "narration_text": "#C C cuts the bell pepper into small pieces",
+                "start_frame": 15555,
+                "stop_frame": 15878
+            },
+            {
+                "narration_text": "#C C collects the pieces of bell pepper from the chopping board",
+                "start_frame": 15878,
+                "stop_frame": 15929
+            },
+            {
+                "narration_text": "#C C puts the pieces of bell pepper in the frying pan",
+                "start_frame": 15929,
+                "stop_frame": 15946
+            },
+            {
+                "narration_text": "#C C picks up the bell pepper from the chopping board",
+                "start_frame": 15946,
+                "stop_frame": 15955
+            },
+            {
+                "narration_text": "#C C puts the bell pepper on the chopping board",
+                "start_frame": 15955,
+                "stop_frame": 15962
+            },
+            {
+                "narration_text": "#C C picks up a piece of bell pepper from the chopping board",
+                "start_frame": 15962,
+                "stop_frame": 15972
+            },
+            {
+                "narration_text": "#C C puts a piece of bell pepper in the frying pan",
+                "start_frame": 15972,
+                "stop_frame": 15984
+            },
+            {
+                "narration_text": "#C C moves the chopping board on the sink",
+                "start_frame": 15984,
+                "stop_frame": 16006
+            }
+        ]
+    },
+    {
+        "task_goal": "Place bell pepper pieces in frying pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the pieces of bell pepper in the frying pan",
+                "start_frame": 15446,
+                "stop_frame": 15463
+            },
+            {
+                "narration_text": "#C C picks up the piece of bell pepper from the chopping board",
+                "start_frame": 15463,
+                "stop_frame": 15471
+            },
+            {
+                "narration_text": "#C C puts the piece of bell pepper in the frying pan",
+                "start_frame": 15471,
+                "stop_frame": 15488
+            },
+            {
+                "narration_text": "#C C picks the bell pepper from the chopping board",
+                "start_frame": 15488,
+                "stop_frame": 15497
+            },
+            {
+                "narration_text": "#C C puts the bell pepper on the chopping board",
+                "start_frame": 15497,
+                "stop_frame": 15511
+            },
+            {
+                "narration_text": "#C C holds the bell pepper on the chopping board",
+                "start_frame": 15511,
+                "stop_frame": 15555
+            },
+            {
+                "narration_text": "#C C cuts the bell pepper into small pieces",
+                "start_frame": 15555,
+                "stop_frame": 15878
+            },
+            {
+                "narration_text": "#C C collects the pieces of bell pepper from the chopping board",
+                "start_frame": 15878,
+                "stop_frame": 15929
+            },
+            {
+                "narration_text": "#C C puts the pieces of bell pepper in the frying pan",
+                "start_frame": 15929,
+                "stop_frame": 15946
+            },
+            {
+                "narration_text": "#C C picks up the bell pepper from the chopping board",
+                "start_frame": 15946,
+                "stop_frame": 15955
+            },
+            {
+                "narration_text": "#C C puts the bell pepper on the chopping board",
+                "start_frame": 15955,
+                "stop_frame": 15962
+            },
+            {
+                "narration_text": "#C C picks up a piece of bell pepper from the chopping board",
+                "start_frame": 15962,
+                "stop_frame": 15972
+            },
+            {
+                "narration_text": "#C C puts a piece of bell pepper in the frying pan",
+                "start_frame": 15972,
+                "stop_frame": 15984
+            },
+            {
+                "narration_text": "#C C moves the chopping board on the sink",
+                "start_frame": 15984,
+                "stop_frame": 16006
+            }
+        ]
+    }
+]

@@ -1,0 +1,897 @@
+[
+    {
+        "task_goal": "Clean glass",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens tap, rinses glass",
+                "start_frame": 42,
+                "stop_frame": 49
+            },
+            {
+                "narration_text": "#C C places glass aside",
+                "start_frame": 49,
+                "stop_frame": 115
+            }
+        ]
+    },
+    {
+        "task_goal": "Place glass aside",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens tap, rinses glass",
+                "start_frame": 42,
+                "stop_frame": 49
+            },
+            {
+                "narration_text": "#C C places glass aside",
+                "start_frame": 49,
+                "stop_frame": 115
+            },
+            {
+                "narration_text": "#C C opens draw",
+                "start_frame": 115,
+                "stop_frame": 183
+            }
+        ]
+    },
+    {
+        "task_goal": "Open drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places glass aside",
+                "start_frame": 49,
+                "stop_frame": 115
+            },
+            {
+                "narration_text": "#C C opens draw",
+                "start_frame": 115,
+                "stop_frame": 183
+            },
+            {
+                "narration_text": "#C C wipes hands",
+                "start_frame": 183,
+                "stop_frame": 283
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens draw",
+                "start_frame": 115,
+                "stop_frame": 183
+            },
+            {
+                "narration_text": "#C C wipes hands",
+                "start_frame": 183,
+                "stop_frame": 283
+            },
+            {
+                "narration_text": "#C C opens draw",
+                "start_frame": 283,
+                "stop_frame": 380
+            },
+            {
+                "narration_text": "#C C picks small container",
+                "start_frame": 380,
+                "stop_frame": 443
+            }
+        ]
+    },
+    {
+        "task_goal": "Open drawer and pick small container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens draw",
+                "start_frame": 283,
+                "stop_frame": 380
+            },
+            {
+                "narration_text": "#C C picks small container",
+                "start_frame": 380,
+                "stop_frame": 443
+            },
+            {
+                "narration_text": "#C C places container on table",
+                "start_frame": 443,
+                "stop_frame": 457
+            },
+            {
+                "narration_text": "#C C opens container",
+                "start_frame": 457,
+                "stop_frame": 512
+            }
+        ]
+    },
+    {
+        "task_goal": "Open container and pour salt",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places container on table",
+                "start_frame": 443,
+                "stop_frame": 457
+            },
+            {
+                "narration_text": "#C C opens container",
+                "start_frame": 457,
+                "stop_frame": 512
+            },
+            {
+                "narration_text": "#C C pours salt",
+                "start_frame": 512,
+                "stop_frame": 614
+            },
+            {
+                "narration_text": "#C C pours salt",
+                "start_frame": 614,
+                "stop_frame": 737
+            },
+            {
+                "narration_text": "#C C closes salt",
+                "start_frame": 737,
+                "stop_frame": 861
+            },
+            {
+                "narration_text": "#C C pours #Unsure to side plate",
+                "start_frame": 861,
+                "stop_frame": 909
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour #unsure to side plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes salt",
+                "start_frame": 737,
+                "stop_frame": 861
+            },
+            {
+                "narration_text": "#C C pours #Unsure to side plate",
+                "start_frame": 861,
+                "stop_frame": 909
+            },
+            {
+                "narration_text": "#C C pours #Unsure to side plate",
+                "start_frame": 909,
+                "stop_frame": 1015
+            },
+            {
+                "narration_text": "#C C closes container",
+                "start_frame": 1015,
+                "stop_frame": 1100
+            }
+        ]
+    },
+    {
+        "task_goal": "Close container and place in drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pours #Unsure to side plate",
+                "start_frame": 909,
+                "stop_frame": 1015
+            },
+            {
+                "narration_text": "#C C closes container",
+                "start_frame": 1015,
+                "stop_frame": 1100
+            },
+            {
+                "narration_text": "#C C opens draw",
+                "start_frame": 1100,
+                "stop_frame": 1132
+            },
+            {
+                "narration_text": "#C C places containers in drawer",
+                "start_frame": 1132,
+                "stop_frame": 1283
+            },
+            {
+                "narration_text": "#C C closes drawer",
+                "start_frame": 1283,
+                "stop_frame": 1318
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and close cabinets with cling film",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens cabinet",
+                "start_frame": 1318,
+                "stop_frame": 1357
+            },
+            {
+                "narration_text": "#C C picks cling film",
+                "start_frame": 1357,
+                "stop_frame": 1409
+            },
+            {
+                "narration_text": "#C C cuts cling film",
+                "start_frame": 1409,
+                "stop_frame": 1449
+            },
+            {
+                "narration_text": "#C C returns cling film",
+                "start_frame": 1449,
+                "stop_frame": 1496
+            },
+            {
+                "narration_text": "#C C closes kitchen cabinet",
+                "start_frame": 1496,
+                "stop_frame": 1539
+            },
+            {
+                "narration_text": "#C C covers side plate with cling film",
+                "start_frame": 1539,
+                "stop_frame": 1709
+            }
+        ]
+    },
+    {
+        "task_goal": "Cover side plate with cling film",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes kitchen cabinet",
+                "start_frame": 1496,
+                "stop_frame": 1539
+            },
+            {
+                "narration_text": "#C C covers side plate with cling film",
+                "start_frame": 1539,
+                "stop_frame": 1709
+            },
+            {
+                "narration_text": "#C C picks the side plate",
+                "start_frame": 1709,
+                "stop_frame": 1752
+            }
+        ]
+    },
+    {
+        "task_goal": "Put plate in fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens fridge",
+                "start_frame": 1752,
+                "stop_frame": 1882
+            },
+            {
+                "narration_text": "#C C puts plate in fridge",
+                "start_frame": 1882,
+                "stop_frame": 1923
+            },
+            {
+                "narration_text": "#C C closes fridge",
+                "start_frame": 1923,
+                "stop_frame": 1960
+            },
+            {
+                "narration_text": "#C C walks in the room",
+                "start_frame": 1960,
+                "stop_frame": 2051
+            }
+        ]
+    },
+    {
+        "task_goal": "Move in room and hold box",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes fridge",
+                "start_frame": 1923,
+                "stop_frame": 1960
+            },
+            {
+                "narration_text": "#C C walks in the room",
+                "start_frame": 1960,
+                "stop_frame": 2051
+            },
+            {
+                "narration_text": "#C C holds box",
+                "start_frame": 2051,
+                "stop_frame": 2057
+            },
+            {
+                "narration_text": "#C C moves plate",
+                "start_frame": 2057,
+                "stop_frame": 2148
+            }
+        ]
+    },
+    {
+        "task_goal": "Move plate and open cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds box",
+                "start_frame": 2051,
+                "stop_frame": 2057
+            },
+            {
+                "narration_text": "#C C moves plate",
+                "start_frame": 2057,
+                "stop_frame": 2148
+            },
+            {
+                "narration_text": "#C C opens cabinet",
+                "start_frame": 2148,
+                "stop_frame": 2199
+            },
+            {
+                "narration_text": "#C C picks towel from cabinet",
+                "start_frame": 2199,
+                "stop_frame": 2253
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and use towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens cabinet",
+                "start_frame": 2148,
+                "stop_frame": 2199
+            },
+            {
+                "narration_text": "#C C picks towel from cabinet",
+                "start_frame": 2199,
+                "stop_frame": 2253
+            },
+            {
+                "narration_text": "#C C wipes using towel",
+                "start_frame": 2253,
+                "stop_frame": 2518
+            },
+            {
+                "narration_text": "#C C wipes",
+                "start_frame": 2518,
+                "stop_frame": 2569
+            },
+            {
+                "narration_text": "#C C wipes tap",
+                "start_frame": 2569,
+                "stop_frame": 2644
+            },
+            {
+                "narration_text": "#C C wipes",
+                "start_frame": 2644,
+                "stop_frame": 2693
+            },
+            {
+                "narration_text": "#C C holds liquid soap then wipes",
+                "start_frame": 2693,
+                "stop_frame": 2734
+            },
+            {
+                "narration_text": "#C C wipes",
+                "start_frame": 2734,
+                "stop_frame": 2951
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold sticks and stir food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds sticks",
+                "start_frame": 2951,
+                "stop_frame": 2975
+            },
+            {
+                "narration_text": "#C C opens food",
+                "start_frame": 2975,
+                "stop_frame": 3009
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 3009,
+                "stop_frame": 3089
+            },
+            {
+                "narration_text": "#C C puts sticks down",
+                "start_frame": 3089,
+                "stop_frame": 3152
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare serving spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts sticks down",
+                "start_frame": 3089,
+                "stop_frame": 3152
+            },
+            {
+                "narration_text": "#C C opens drawer",
+                "start_frame": 3152,
+                "stop_frame": 3201
+            },
+            {
+                "narration_text": "#C C picks serving spoon",
+                "start_frame": 3201,
+                "stop_frame": 3240
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 3240,
+                "stop_frame": 3444
+            }
+        ]
+    },
+    {
+        "task_goal": "Scoop and pour soup",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C scoops soup",
+                "start_frame": 3444,
+                "stop_frame": 3613
+            },
+            {
+                "narration_text": "#C C pours soup",
+                "start_frame": 3613,
+                "stop_frame": 3705
+            },
+            {
+                "narration_text": "#C C scoops soup",
+                "start_frame": 3705,
+                "stop_frame": 3708
+            },
+            {
+                "narration_text": "#C C pours soup",
+                "start_frame": 3708,
+                "stop_frame": 3785
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 3785,
+                "stop_frame": 3884
+            }
+        ]
+    },
+    {
+        "task_goal": "Close and open the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens fridge",
+                "start_frame": 4898,
+                "stop_frame": 4970
+            },
+            {
+                "narration_text": "#C C puts tin in fridge",
+                "start_frame": 4970,
+                "stop_frame": 4976
+            },
+            {
+                "narration_text": "#C C closes fridge",
+                "start_frame": 4976,
+                "stop_frame": 5034
+            },
+            {
+                "narration_text": "#C C holds serving spoon",
+                "start_frame": 5034,
+                "stop_frame": 5060
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare and stir food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds serving spoon",
+                "start_frame": 5034,
+                "stop_frame": 5060
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 5060,
+                "stop_frame": 5140
+            },
+            {
+                "narration_text": "#C C picks box",
+                "start_frame": 5140,
+                "stop_frame": 5162
+            },
+            {
+                "narration_text": "#C C places box down",
+                "start_frame": 5162,
+                "stop_frame": 5167
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 5167,
+                "stop_frame": 5219
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 5219,
+                "stop_frame": 5311
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 5311,
+                "stop_frame": 5393
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 5393,
+                "stop_frame": 5504
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 5504,
+                "stop_frame": 5734
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 5734,
+                "stop_frame": 5915
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 5915,
+                "stop_frame": 6017
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 6017,
+                "stop_frame": 6280
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 6280,
+                "stop_frame": 6613
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 6613,
+                "stop_frame": 6753
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 6753,
+                "stop_frame": 6836
+            },
+            {
+                "narration_text": "#C C presses ipod",
+                "start_frame": 6836,
+                "stop_frame": 6887
+            }
+        ]
+    },
+    {
+        "task_goal": "Interact with iPod",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C presses ipod",
+                "start_frame": 6836,
+                "stop_frame": 6887
+            },
+            {
+                "narration_text": "#C C picks sticks",
+                "start_frame": 6887,
+                "stop_frame": 6950
+            },
+            {
+                "narration_text": "#C C holds lid",
+                "start_frame": 6950,
+                "stop_frame": 7024
+            }
+        ]
+    },
+    {
+        "task_goal": "Place sticks on cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks sticks",
+                "start_frame": 6887,
+                "stop_frame": 6950
+            },
+            {
+                "narration_text": "#C C holds lid",
+                "start_frame": 6950,
+                "stop_frame": 7024
+            },
+            {
+                "narration_text": "#C C places sticks on cooking pot",
+                "start_frame": 7024,
+                "stop_frame": 7057
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 7057,
+                "stop_frame": 7129
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 7129,
+                "stop_frame": 7211
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean lid at sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cleans lid",
+                "start_frame": 7295,
+                "stop_frame": 7430
+            },
+            {
+                "narration_text": "#C C cleans lid",
+                "start_frame": 7430,
+                "stop_frame": 7604
+            },
+            {
+                "narration_text": "#C C rinses lid",
+                "start_frame": 7604,
+                "stop_frame": 7641
+            },
+            {
+                "narration_text": "#C C turns lid",
+                "start_frame": 7641,
+                "stop_frame": 7736
+            },
+            {
+                "narration_text": "#C C rinses lid",
+                "start_frame": 7736,
+                "stop_frame": 7842
+            },
+            {
+                "narration_text": "#C C rinses lid",
+                "start_frame": 7842,
+                "stop_frame": 7946
+            },
+            {
+                "narration_text": "#C C closes tap",
+                "start_frame": 7946,
+                "stop_frame": 7980
+            },
+            {
+                "narration_text": "#C C places lid down",
+                "start_frame": 7980,
+                "stop_frame": 8055
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe hands and place sticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places lid down",
+                "start_frame": 7980,
+                "stop_frame": 8055
+            },
+            {
+                "narration_text": "#C C wipes hands",
+                "start_frame": 8055,
+                "stop_frame": 8151
+            },
+            {
+                "narration_text": "#C C picks sticks",
+                "start_frame": 8151,
+                "stop_frame": 8188
+            },
+            {
+                "narration_text": "#C C places sticks on side plate",
+                "start_frame": 8188,
+                "stop_frame": 8226
+            },
+            {
+                "narration_text": "#C C uses towel to wipe",
+                "start_frame": 8226,
+                "stop_frame": 8263
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe and hold box",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C uses towel to wipe",
+                "start_frame": 8226,
+                "stop_frame": 8263
+            },
+            {
+                "narration_text": "#C C holds box",
+                "start_frame": 8263,
+                "stop_frame": 8323
+            },
+            {
+                "narration_text": "#C C wipes",
+                "start_frame": 8323,
+                "stop_frame": 8370
+            },
+            {
+                "narration_text": "#C C places box down",
+                "start_frame": 8370,
+                "stop_frame": 8464
+            }
+        ]
+    },
+    {
+        "task_goal": "Dry hands and prepare bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C dries the hands using a towel",
+                "start_frame": 11606,
+                "stop_frame": 11688
+            },
+            {
+                "narration_text": "#C C picks a bowl",
+                "start_frame": 11688,
+                "stop_frame": 11729
+            },
+            {
+                "narration_text": "#C C puts the bowl on the cabinet",
+                "start_frame": 11729,
+                "stop_frame": 11729
+            },
+            {
+                "narration_text": "#C C moves a bowl on the cabinet",
+                "start_frame": 11729,
+                "stop_frame": 11743
+            },
+            {
+                "narration_text": "#C C holds a towel",
+                "start_frame": 11743,
+                "stop_frame": 11807
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare cabinet and spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves a bowl on the cabinet",
+                "start_frame": 11729,
+                "stop_frame": 11743
+            },
+            {
+                "narration_text": "#C C holds a towel",
+                "start_frame": 11743,
+                "stop_frame": 11807
+            },
+            {
+                "narration_text": "#C C wipes on top of the cabinet using a towel",
+                "start_frame": 11807,
+                "stop_frame": 11832
+            },
+            {
+                "narration_text": "#C C holds a bowl",
+                "start_frame": 11832,
+                "stop_frame": 11863
+            },
+            {
+                "narration_text": "#C C holds a large spoon",
+                "start_frame": 11863,
+                "stop_frame": 11888
+            },
+            {
+                "narration_text": "#C C holds a frying pan",
+                "start_frame": 11888,
+                "stop_frame": 11916
+            },
+            {
+                "narration_text": "#C C stirs the stew",
+                "start_frame": 11916,
+                "stop_frame": 11962
+            },
+            {
+                "narration_text": "#C C mixes the stew",
+                "start_frame": 11962,
+                "stop_frame": 12008
+            },
+            {
+                "narration_text": "#C C stirs the stew",
+                "start_frame": 12008,
+                "stop_frame": 12100
+            },
+            {
+                "narration_text": "#C C mixes the stew",
+                "start_frame": 12100,
+                "stop_frame": 12140
+            },
+            {
+                "narration_text": "#C C stirs the stew",
+                "start_frame": 12140,
+                "stop_frame": 12196
+            },
+            {
+                "narration_text": "#C C mixes the stew",
+                "start_frame": 12196,
+                "stop_frame": 12237
+            },
+            {
+                "narration_text": "#C C touches #unsure",
+                "start_frame": 12237,
+                "stop_frame": 12343
+            },
+            {
+                "narration_text": "#C C touches the frying pan",
+                "start_frame": 12343,
+                "stop_frame": 12362
+            },
+            {
+                "narration_text": "#C C stirs the stew",
+                "start_frame": 12362,
+                "stop_frame": 12445
+            },
+            {
+                "narration_text": "#C C mixes the stew",
+                "start_frame": 12445,
+                "stop_frame": 12507
+            },
+            {
+                "narration_text": "#C C stirs the stew",
+                "start_frame": 12507,
+                "stop_frame": 12530
+            },
+            {
+                "narration_text": "#C C puts the large spoon in a frying pan",
+                "start_frame": 12530,
+                "stop_frame": 12530
+            },
+            {
+                "narration_text": "#C C moves a pot on a cooker",
+                "start_frame": 12530,
+                "stop_frame": 12599
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjust gas stove and move bowls",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a pot lid",
+                "start_frame": 16549,
+                "stop_frame": 16629
+            },
+            {
+                "narration_text": "#C C holds the pot lid",
+                "start_frame": 16629,
+                "stop_frame": 16646
+            },
+            {
+                "narration_text": "#C C covers the frying pan",
+                "start_frame": 16646,
+                "stop_frame": 16681
+            },
+            {
+                "narration_text": "#C C adjusts the pressure of a gas stove",
+                "start_frame": 16681,
+                "stop_frame": 16704
+            },
+            {
+                "narration_text": "#C C holds the pot lid",
+                "start_frame": 16704,
+                "stop_frame": 16781
+            },
+            {
+                "narration_text": "#C C moves a bowl",
+                "start_frame": 16781,
+                "stop_frame": 16827
+            },
+            {
+                "narration_text": "#C C touches #unsure",
+                "start_frame": 16827,
+                "stop_frame": 16927
+            }
+        ]
+    },
+    {
+        "task_goal": "Final food preparations",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves a bowl",
+                "start_frame": 16781,
+                "stop_frame": 16827
+            },
+            {
+                "narration_text": "#C C touches #unsure",
+                "start_frame": 16827,
+                "stop_frame": 16927
+            }
+        ]
+    }
+]

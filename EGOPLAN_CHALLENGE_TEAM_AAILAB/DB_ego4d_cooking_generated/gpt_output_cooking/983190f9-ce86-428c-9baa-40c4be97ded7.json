@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfe1xwG3h3FdQSjFkSS9iPiOnPNU",
+    "object": "chat.completion",
+    "created": 1719241901,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cover the plate with paper\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare the dough with flour\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 211,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Hold the paper and add flour on the baked dough\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 211\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean hands after adding flour\",\n      \"start_timestamp\": 211,\n      \"stop_timestamp\": 448,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Drop the paper, turn around, and open the water tap\",\n          \"start_timestamp\": 211,\n          \"stop_timestamp\": 337\n        },\n        {\n          \"secondary_subgoal\": \"Rinse the hands and close the water tap\",\n          \"start_timestamp\": 337,\n          \"stop_timestamp\": 405\n        },\n        {\n          \"secondary_subgoal\": \"Rinse the hands with the towel\",\n          \"start_timestamp\": 405,\n          \"stop_timestamp\": 448\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cover the plate with paper\",\n      \"start_timestamp\": 448,\n      \"stop_timestamp\": 832,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick the box of papers and twist the paper on the table\",\n          \"start_timestamp\": 448,\n          \"stop_timestamp\": 542\n        },\n        {\n          \"secondary_subgoal\": \"Pick the paper and cover the plate with it\",\n          \"start_timestamp\": 542,\n          \"stop_timestamp\": 578\n        },\n        {\n          \"secondary_subgoal\": \"Cut off the paper and cover the plate again\",\n          \"start_timestamp\": 578,\n          \"stop_timestamp\": 652\n        },\n        {\n          \"secondary_subgoal\": \"Cover the plate with paper again and drop the plate on the table\",\n          \"start_timestamp\": 652,\n          \"stop_timestamp\": 746\n        },\n        {\n          \"secondary_subgoal\": \"Pick up the box, roll off the paper, and cut it off\",\n          \"start_timestamp\": 746,\n          \"stop_timestamp\": 832\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Document the process\",\n      \"start_timestamp\": 832,\n      \"stop_timestamp\": 978,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Hold the camera to document the process\",\n          \"start_timestamp\": 832,\n          \"stop_timestamp\": 978\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 522,
+        "completion_tokens": 571,
+        "total_tokens": 1093
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

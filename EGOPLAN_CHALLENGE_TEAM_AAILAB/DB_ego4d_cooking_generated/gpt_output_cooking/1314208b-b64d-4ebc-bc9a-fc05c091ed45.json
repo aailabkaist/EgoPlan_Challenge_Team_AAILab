@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfZ9d2z8zErjMiG921m0MEP9pGbw",
+    "object": "chat.completion",
+    "created": 1719241599,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Serving food from a cooking pot to a plate and arranging it on a table.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Serving food from the cooking pot to the plate.\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 472,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pouring soup onto the plate.\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 122\n        },\n        {\n          \"secondary_subgoal\": \"Serving food using chopsticks.\",\n          \"start_timestamp\": 122,\n          \"stop_timestamp\": 472\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Placing the cooking pot and arranging the plate and bowl on the table.\",\n      \"start_timestamp\": 472,\n      \"stop_timestamp\": 704,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Placing the cooking pot back on the gas cooker.\",\n          \"start_timestamp\": 472,\n          \"stop_timestamp\": 528\n        },\n        {\n          \"secondary_subgoal\": \"Moving and arranging the plate and bowl.\",\n          \"start_timestamp\": 536,\n          \"stop_timestamp\": 704\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Performing an unclear action.\",\n      \"start_timestamp\": 704,\n      \"stop_timestamp\": 804,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Uncertain actions with unspecified objects.\",\n          \"start_timestamp\": 704,\n          \"stop_timestamp\": 804\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 436,
+        "completion_tokens": 345,
+        "total_tokens": 781
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

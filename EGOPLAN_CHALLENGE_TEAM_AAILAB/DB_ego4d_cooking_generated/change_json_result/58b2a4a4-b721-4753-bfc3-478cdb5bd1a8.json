@@ -1,0 +1,64 @@
+{
+    "overall_goal": "Prepare tea and serve cake",
+    "clips": [
+        {
+            "subgoal": "Prepare tea",
+            "start_timestamp": 1,
+            "stop_timestamp": 1356,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and place mug",
+                    "start_timestamp": 1,
+                    "stop_timestamp": 542
+                },
+                {
+                    "secondary_subgoal": "Add tea bag to mug",
+                    "start_timestamp": 542,
+                    "stop_timestamp": 761
+                },
+                {
+                    "secondary_subgoal": "Pour hot water",
+                    "start_timestamp": 761,
+                    "stop_timestamp": 947
+                },
+                {
+                    "secondary_subgoal": "Steep and dispose tea bag",
+                    "start_timestamp": 947,
+                    "stop_timestamp": 1279
+                },
+                {
+                    "secondary_subgoal": "Move tea mug to table",
+                    "start_timestamp": 1279,
+                    "stop_timestamp": 1485
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve cake",
+            "start_timestamp": 1485,
+            "stop_timestamp": 3988,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle knife",
+                    "start_timestamp": 1485,
+                    "stop_timestamp": 1827
+                },
+                {
+                    "secondary_subgoal": "Prepare cake",
+                    "start_timestamp": 1827,
+                    "stop_timestamp": 3689
+                },
+                {
+                    "secondary_subgoal": "Move cake to plate",
+                    "start_timestamp": 3689,
+                    "stop_timestamp": 3888
+                },
+                {
+                    "secondary_subgoal": "Close cake container",
+                    "start_timestamp": 3888,
+                    "stop_timestamp": 3988
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "overall_goal": "Prepare and serve a meal involving meat, soup, and vegetables using various kitchen tools and appliances, and clean up after preparation.",
+    "clips": [
+        {
+            "subgoal": "Prepare the meat for cooking",
+            "start_timestamp": 0,
+            "stop_timestamp": 698,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and transfer meat",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 698
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare additional ingredients and cooking utensils",
+            "start_timestamp": 698,
+            "stop_timestamp": 1914,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and prepare items for food preparation",
+                    "start_timestamp": 698,
+                    "stop_timestamp": 1635
+                },
+                {
+                    "secondary_subgoal": "Cut open paper pack",
+                    "start_timestamp": 1635,
+                    "stop_timestamp": 1794
+                },
+                {
+                    "secondary_subgoal": "Clean up and rinse hands",
+                    "start_timestamp": 1914,
+                    "stop_timestamp": 1999
+                }
+            ]
+        },
+        {
+            "subgoal": "Transfer food items into the paper pack",
+            "start_timestamp": 1999,
+            "stop_timestamp": 2999,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Remove container and pack food items",
+                    "start_timestamp": 1999,
+                    "stop_timestamp": 2512
+                },
+                {
+                    "secondary_subgoal": "Close paper pack and store in fridge",
+                    "start_timestamp": 2967,
+                    "stop_timestamp": 3134
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare vegetables",
+            "start_timestamp": 3134,
+            "stop_timestamp": 3792,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean hands and work area",
+                    "start_timestamp": 3134,
+                    "stop_timestamp": 3365
+                },
+                {
+                    "secondary_subgoal": "Mix vegetables in paper pack",
+                    "start_timestamp": 3365,
+                    "stop_timestamp": 3486
+                },
+                {
+                    "secondary_subgoal": "Prepare for cooking",
+                    "start_timestamp": 3486,
+                    "stop_timestamp": 3792
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the meat",
+            "start_timestamp": 3792,
+            "stop_timestamp": 4780,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Light the cooker and cook meat",
+                    "start_timestamp": 3792,
+                    "stop_timestamp": 4780
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve the soup",
+            "start_timestamp": 4780,
+            "stop_timestamp": 6106,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Serve and clean cooking utensils",
+                    "start_timestamp": 4780,
+                    "stop_timestamp": 6085
+                },
+                {
+                    "secondary_subgoal": "Carry and place bowls on table",
+                    "start_timestamp": 6106,
+                    "stop_timestamp": 6340
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve the meat",
+            "start_timestamp": 6340,
+            "stop_timestamp": 8235,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Serve meat from pot to tray",
+                    "start_timestamp": 6340,
+                    "stop_timestamp": 7892
+                },
+                {
+                    "secondary_subgoal": "Transfer meat to cooking pot and clean up",
+                    "start_timestamp": 7892,
+                    "stop_timestamp": 8235
+                }
+            ]
+        },
+        {
+            "subgoal": "Final clean-up and preparation",
+            "start_timestamp": 8235,
+            "stop_timestamp": 9999,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean cooking utensils and hands",
+                    "start_timestamp": 8235,
+                    "stop_timestamp": 8722
+                },
+                {
+                    "secondary_subgoal": "Dispose waste and organize counter",
+                    "start_timestamp": 8722,
+                    "stop_timestamp": 9475
+                },
+                {
+                    "secondary_subgoal": "Prepare vegetables and items",
+                    "start_timestamp": 9475,
+                    "stop_timestamp": 9999
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve the vegetables",
+            "start_timestamp": 9999,
+            "stop_timestamp": 10984,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and serve vegetables in bowls",
+                    "start_timestamp": 9999,
+                    "stop_timestamp": 10984
+                }
+            ]
+        },
+        {
+            "subgoal": "Final serving and cleaning",
+            "start_timestamp": 10984,
+            "stop_timestamp": 14851,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Serve and present food items",
+                    "start_timestamp": 10984,
+                    "stop_timestamp": 12339
+                },
+                {
+                    "secondary_subgoal": "Organize and serve food with chopsticks",
+                    "start_timestamp": 12339,
+                    "stop_timestamp": 14851
+                }
+            ]
+        }
+    ]
+}

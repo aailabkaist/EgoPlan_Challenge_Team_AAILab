@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eemtSvELLM0OFvo4LVgdN0KkPsgY",
+    "object": "chat.completion",
+    "created": 1719476935,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing cucumber for consumption\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing the workspace\",\n      \"start_timestamp\": 13,\n      \"stop_timestamp\": 338,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Opening the tap\", \"start_timestamp\": 13, \"stop_timestamp\": 122},\n        {\"secondary_subgoal\": \"Handling papers\", \"start_timestamp\": 122, \"stop_timestamp\": 317},\n        {\"secondary_subgoal\": \"Closing the tap\", \"start_timestamp\": 317, \"stop_timestamp\": 338}\n      ]\n    },\n    {\n      \"subgoal\": \"Organizing and cleaning up\",\n      \"start_timestamp\": 338,\n      \"stop_timestamp\": 1472,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Drying hands and handling kitchen towel\", \"start_timestamp\": 338, \"stop_timestamp\": 401},\n        {\"secondary_subgoal\": \"Handling papers on the countertop\", \"start_timestamp\": 401, \"stop_timestamp\": 679},\n        {\"secondary_subgoal\": \"Moving and handling kitchen objects\", \"start_timestamp\": 679, \"stop_timestamp\": 944},\n        {\"secondary_subgoal\": \"Retrieving and handling items from the fridge\", \"start_timestamp\": 944, \"stop_timestamp\": 1489}\n      ]\n    },\n    {\n      \"subgoal\": \"Washing the cucumber\",\n      \"start_timestamp\": 1489,\n      \"stop_timestamp\": 2185,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Moving items to the sink and washing cucumber\", \"start_timestamp\": 1489, \"stop_timestamp\": 2185}\n      ]\n    },\n    {\n      \"subgoal\": \"Cutting the cucumber\",\n      \"start_timestamp\": 2185,\n      \"stop_timestamp\": 4597,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Retrieving the knife\", \"start_timestamp\": 2185, \"stop_timestamp\": 2299},\n        {\"secondary_subgoal\": \"Placing the cucumber on the chopping board\", \"start_timestamp\": 2299, \"stop_timestamp\": 3015},\n        {\"secondary_subgoal\": \"Cutting and organizing the cucumber pieces\", \"start_timestamp\": 3015, \"stop_timestamp\": 4597}\n      ]\n    },\n    {\n      \"subgoal\": \"Eating the cucumber\",\n      \"start_timestamp\": 4597,\n      \"stop_timestamp\": 5221,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Sampling the cucumber pieces\", \"start_timestamp\": 4597, \"stop_timestamp\": 4597}\n      ]\n    }\n  ]\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4069,
+        "completion_tokens": 570,
+        "total_tokens": 4639
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

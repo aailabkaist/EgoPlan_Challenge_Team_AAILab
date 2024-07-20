@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efMeFluwRUoUCyFSTg7ArHHxxJLm",
+    "object": "chat.completion",
+    "created": 1719479152,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Clean the kitchen and arrange utensils and food items\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Clean the sink\",\n      \"start_timestamp\": 21,\n      \"stop_timestamp\": 140,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean the sink basin\",\n          \"start_timestamp\": 21,\n          \"stop_timestamp\": 140\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Pick and arrange chopping sticks and plates\",\n      \"start_timestamp\": 140,\n      \"stop_timestamp\": 653,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick chopping sticks\",\n          \"start_timestamp\": 140,\n          \"stop_timestamp\": 207\n        },\n        {\n          \"secondary_subgoal\": \"Move around kitchen\",\n          \"start_timestamp\": 207,\n          \"stop_timestamp\": 371\n        },\n        {\n          \"secondary_subgoal\": \"Open cupboard drawer and pick utensil\",\n          \"start_timestamp\": 371,\n          \"stop_timestamp\": 463\n        },\n        {\n          \"secondary_subgoal\": \"Move and place plates\",\n          \"start_timestamp\": 463,\n          \"stop_timestamp\": 653\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Operate the microwave and handle containers\",\n      \"start_timestamp\": 653,\n      \"stop_timestamp\": 1356,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put utensil and open microwave\",\n          \"start_timestamp\": 653,\n          \"stop_timestamp\": 873\n        },\n        {\n          \"secondary_subgoal\": \"Handle container on kitchen cabinet\",\n          \"start_timestamp\": 873,\n          \"stop_timestamp\": 1129\n        },\n        {\n          \"secondary_subgoal\": \"Put container in plate and sink\",\n          \"start_timestamp\": 1129,\n          \"stop_timestamp\": 1356\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Stir food and wash utensils\",\n      \"start_timestamp\": 1356,\n      \"stop_timestamp\": 2103,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir food with chopping sticks\",\n          \"start_timestamp\": 1356,\n          \"stop_timestamp\": 1473\n        },\n        {\n          \"secondary_subgoal\": \"Wash food containers and lid\",\n          \"start_timestamp\": 1473,\n          \"stop_timestamp\": 2083\n        },\n        {\n          \"secondary_subgoal\": \"Put container in plastic bucket\",\n          \"start_timestamp\": 2083,\n          \"stop_timestamp\": 2103\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean hand with kitchen towel and finalize actions\",\n      \"start_timestamp\": 2103,\n      \"stop_timestamp\": 2806,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean hand with kitchen towel\",\n          \"start_timestamp\": 2103,\n          \"stop_timestamp\": 2299\n        },\n        {\n          \"secondary_subgoal\": \"Various final actions\",\n          \"start_timestamp\": 2299,\n          \"stop_timestamp\": 2806\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 867,
+        "completion_tokens": 683,
+        "total_tokens": 1550
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

@@ -1,0 +1,115 @@
+{
+    "overall_goal": "Prepare seasoned chicken for cooking in a cooking pot on the stove.",
+    "clips": [
+        {
+            "subgoal": "Fetch and prepare the cooking pot with water.",
+            "start_timestamp": "25",
+            "stop_timestamp": "676",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move cooking pot to the sink and fill it with water.",
+                    "start_timestamp": "25",
+                    "stop_timestamp": "217"
+                },
+                {
+                    "secondary_subgoal": "Place the cooking pot filled with water on the stove.",
+                    "start_timestamp": "585",
+                    "stop_timestamp": "649"
+                },
+                {
+                    "secondary_subgoal": "Prepare ingredients (onions and chicken) for cooking.",
+                    "start_timestamp": "676",
+                    "stop_timestamp": "804"
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the chicken by cleaning and cutting.",
+            "start_timestamp": "804",
+            "stop_timestamp": "3623",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place chicken for cleaning.",
+                    "start_timestamp": "804",
+                    "stop_timestamp": "927"
+                },
+                {
+                    "secondary_subgoal": "Dispose of packaging and prepare sink area.",
+                    "start_timestamp": "927",
+                    "stop_timestamp": "1042"
+                },
+                {
+                    "secondary_subgoal": "Walk to the drawer to fetch a fork for handling chicken.",
+                    "start_timestamp": "1111",
+                    "stop_timestamp": "1246"
+                },
+                {
+                    "secondary_subgoal": "Stab pieces of chicken for water cleaning in the sink.",
+                    "start_timestamp": "1246",
+                    "stop_timestamp": "3623"
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up and continue with seasoning preparation.",
+            "start_timestamp": "3623",
+            "stop_timestamp": "4266",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Dispose of knives and excess utensils in the dishwasher.",
+                    "start_timestamp": "3623",
+                    "stop_timestamp": "3775"
+                },
+                {
+                    "secondary_subgoal": "Transfer cleaned chicken pieces to a bowl.",
+                    "start_timestamp": "3775",
+                    "stop_timestamp": "4169"
+                },
+                {
+                    "secondary_subgoal": "Wash and dry hands after handling chicken.",
+                    "start_timestamp": "4169",
+                    "stop_timestamp": "4365"
+                }
+            ]
+        },
+        {
+            "subgoal": "Season the chicken.",
+            "start_timestamp": "4365",
+            "stop_timestamp": "6034",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add and mix salt, pepper, oil and other spices.",
+                    "start_timestamp": "4365",
+                    "stop_timestamp": "5615"
+                },
+                {
+                    "secondary_subgoal": "Mix the seasoning thoroughly with hands.",
+                    "start_timestamp": "5615",
+                    "stop_timestamp": "6034"
+                }
+            ]
+        },
+        {
+            "subgoal": "Final touch-ups and start cooking.",
+            "start_timestamp": "6035",
+            "stop_timestamp": "7655",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fetch garlic powder and add it to the pot of water.",
+                    "start_timestamp": "6035",
+                    "stop_timestamp": "6847"
+                },
+                {
+                    "secondary_subgoal": "Fetch paste and add it to the bowl for mixing.",
+                    "start_timestamp": "6958",
+                    "stop_timestamp": "7265"
+                },
+                {
+                    "secondary_subgoal": "Mix the ingredients in the bowl one last time before cooking.",
+                    "start_timestamp": "7265",
+                    "stop_timestamp": "7655"
+                }
+            ]
+        }
+    ]
+}

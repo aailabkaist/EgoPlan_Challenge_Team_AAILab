@@ -1,0 +1,597 @@
+[
+    {
+        "task_goal": "Preparing ingredients and utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lifts up a hand",
+                "start_frame": 1,
+                "stop_frame": 47
+            },
+            {
+                "narration_text": "Presses the cooker",
+                "start_frame": 47,
+                "stop_frame": 178
+            },
+            {
+                "narration_text": "Takes a chopboard",
+                "start_frame": 178,
+                "stop_frame": 201
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 201,
+                "stop_frame": 233
+            },
+            {
+                "narration_text": "Cleans the chopboard",
+                "start_frame": 233,
+                "stop_frame": 286
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 286,
+                "stop_frame": 334
+            },
+            {
+                "narration_text": "Puts down the chopboard",
+                "start_frame": 334,
+                "stop_frame": 371
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 371,
+                "stop_frame": 437
+            },
+            {
+                "narration_text": "Takes a meat tray",
+                "start_frame": 437,
+                "stop_frame": 462
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 462,
+                "stop_frame": 478
+            },
+            {
+                "narration_text": "Puts down a meat tray",
+                "start_frame": 478,
+                "stop_frame": 547
+            },
+            {
+                "narration_text": "Takes a knife",
+                "start_frame": 547,
+                "stop_frame": 587
+            },
+            {
+                "narration_text": "Cuts the cover",
+                "start_frame": 587,
+                "stop_frame": 714
+            },
+            {
+                "narration_text": "Takes the meat",
+                "start_frame": 714,
+                "stop_frame": 822
+            },
+            {
+                "narration_text": "Puts away the meat tray",
+                "start_frame": 822,
+                "stop_frame": 854
+            },
+            {
+                "narration_text": "Takes a knife",
+                "start_frame": 854,
+                "stop_frame": 924
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 924,
+                "stop_frame": 948
+            },
+            {
+                "narration_text": "Cleans the knife",
+                "start_frame": 948,
+                "stop_frame": 1017
+            },
+            {
+                "narration_text": "Slices meat",
+                "start_frame": 1017,
+                "stop_frame": 1971
+            },
+            {
+                "narration_text": "Puts down the knife",
+                "start_frame": 1971,
+                "stop_frame": 2045
+            }
+        ]
+    },
+    {
+        "task_goal": "Activating the cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lifts up a hand",
+                "start_frame": 1,
+                "stop_frame": 47
+            },
+            {
+                "narration_text": "Presses the cooker",
+                "start_frame": 47,
+                "stop_frame": 178
+            },
+            {
+                "narration_text": "Takes a chopboard",
+                "start_frame": 178,
+                "stop_frame": 201
+            }
+        ]
+    },
+    {
+        "task_goal": "Cleaning the chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes a chopboard",
+                "start_frame": 178,
+                "stop_frame": 201
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 201,
+                "stop_frame": 233
+            },
+            {
+                "narration_text": "Cleans the chopboard",
+                "start_frame": 233,
+                "stop_frame": 286
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 286,
+                "stop_frame": 334
+            },
+            {
+                "narration_text": "Puts down the chopboard",
+                "start_frame": 334,
+                "stop_frame": 371
+            }
+        ]
+    },
+    {
+        "task_goal": "Gathering necessary ingredients from the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down the chopboard",
+                "start_frame": 334,
+                "stop_frame": 371
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 371,
+                "stop_frame": 437
+            },
+            {
+                "narration_text": "Takes a meat tray",
+                "start_frame": 437,
+                "stop_frame": 462
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 462,
+                "stop_frame": 478
+            },
+            {
+                "narration_text": "Puts down a meat tray",
+                "start_frame": 478,
+                "stop_frame": 547
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling the meat tray and knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 462,
+                "stop_frame": 478
+            },
+            {
+                "narration_text": "Puts down a meat tray",
+                "start_frame": 478,
+                "stop_frame": 547
+            },
+            {
+                "narration_text": "Takes a knife",
+                "start_frame": 547,
+                "stop_frame": 587
+            },
+            {
+                "narration_text": "Cuts the cover",
+                "start_frame": 587,
+                "stop_frame": 714
+            },
+            {
+                "narration_text": "Takes the meat",
+                "start_frame": 714,
+                "stop_frame": 822
+            }
+        ]
+    },
+    {
+        "task_goal": "Preparing and slicing the meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cuts the cover",
+                "start_frame": 587,
+                "stop_frame": 714
+            },
+            {
+                "narration_text": "Takes the meat",
+                "start_frame": 714,
+                "stop_frame": 822
+            },
+            {
+                "narration_text": "Puts away the meat tray",
+                "start_frame": 822,
+                "stop_frame": 854
+            },
+            {
+                "narration_text": "Takes a knife",
+                "start_frame": 854,
+                "stop_frame": 924
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 924,
+                "stop_frame": 948
+            },
+            {
+                "narration_text": "Cleans the knife",
+                "start_frame": 948,
+                "stop_frame": 1017
+            },
+            {
+                "narration_text": "Slices meat",
+                "start_frame": 1017,
+                "stop_frame": 1971
+            },
+            {
+                "narration_text": "Puts down the knife",
+                "start_frame": 1971,
+                "stop_frame": 2045
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling the oil and adding meat to the pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Slices meat",
+                "start_frame": 1017,
+                "stop_frame": 1971
+            },
+            {
+                "narration_text": "Puts down the knife",
+                "start_frame": 1971,
+                "stop_frame": 2045
+            },
+            {
+                "narration_text": "Takes a bottle",
+                "start_frame": 2045,
+                "stop_frame": 2116
+            },
+            {
+                "narration_text": "Opens the bottle",
+                "start_frame": 2116,
+                "stop_frame": 2511
+            },
+            {
+                "narration_text": "Puts down the bottle",
+                "start_frame": 2511,
+                "stop_frame": 2564
+            },
+            {
+                "narration_text": "Takes a bottle",
+                "start_frame": 2564,
+                "stop_frame": 2647
+            },
+            {
+                "narration_text": "Pours oil on the pan",
+                "start_frame": 2647,
+                "stop_frame": 2731
+            },
+            {
+                "narration_text": "Puts down the bottle",
+                "start_frame": 2731,
+                "stop_frame": 2824
+            },
+            {
+                "narration_text": "Holds up the pan",
+                "start_frame": 2824,
+                "stop_frame": 2992
+            },
+            {
+                "narration_text": "Puts away the bottle",
+                "start_frame": 2992,
+                "stop_frame": 3043
+            },
+            {
+                "narration_text": "Puts the knife in the sink",
+                "start_frame": 3043,
+                "stop_frame": 3121
+            },
+            {
+                "narration_text": "Puts meat in the pan",
+                "start_frame": 3121,
+                "stop_frame": 3253
+            },
+            {
+                "narration_text": "Puts the chopboard in the sink",
+                "start_frame": 3253,
+                "stop_frame": 3386
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling and using the spatula",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the chopboard in the sink",
+                "start_frame": 3253,
+                "stop_frame": 3386
+            },
+            {
+                "narration_text": "Wipes hand",
+                "start_frame": 3386,
+                "stop_frame": 3411
+            },
+            {
+                "narration_text": "Wipes the sink",
+                "start_frame": 3411,
+                "stop_frame": 3468
+            },
+            {
+                "narration_text": "Takes the chopstick",
+                "start_frame": 3468,
+                "stop_frame": 3543
+            },
+            {
+                "narration_text": "Presses the fire place button",
+                "start_frame": 3543,
+                "stop_frame": 3692
+            },
+            {
+                "narration_text": "Puts the chopstick in the sink",
+                "start_frame": 3692,
+                "stop_frame": 3730
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 3730,
+                "stop_frame": 3755
+            },
+            {
+                "narration_text": "Takes a spatula",
+                "start_frame": 3755,
+                "stop_frame": 3820
+            },
+            {
+                "narration_text": " closes the drawer",
+                "start_frame": 3820,
+                "stop_frame": 3897
+            },
+            {
+                "narration_text": "Turns the meat",
+                "start_frame": 3897,
+                "stop_frame": 4201
+            },
+            {
+                "narration_text": "Touches the sink",
+                "start_frame": 4201,
+                "stop_frame": 4450
+            },
+            {
+                "narration_text": "Holds up the bottle",
+                "start_frame": 4450,
+                "stop_frame": 4642
+            },
+            {
+                "narration_text": "Puts down the bottle",
+                "start_frame": 4642,
+                "stop_frame": 4887
+            }
+        ]
+    },
+    {
+        "task_goal": "Turning off the cooking heat and cleaning",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks",
+                "start_frame": 14092,
+                "stop_frame": 14119
+            },
+            {
+                "narration_text": "Puts down the cooking spoon",
+                "start_frame": 14119,
+                "stop_frame": 14183
+            },
+            {
+                "narration_text": "Picks the cup",
+                "start_frame": 14183,
+                "stop_frame": 14207
+            },
+            {
+                "narration_text": "Drinks unsure",
+                "start_frame": 14207,
+                "stop_frame": 14249
+            },
+            {
+                "narration_text": "Puts down the cup",
+                "start_frame": 14249,
+                "stop_frame": 14388
+            },
+            {
+                "narration_text": "Looks as the burrito cooks",
+                "start_frame": 14388,
+                "stop_frame": 14996
+            },
+            {
+                "narration_text": "Shakes the pan",
+                "start_frame": 14996,
+                "stop_frame": 15034
+            },
+            {
+                "narration_text": "Picks the cooking spoon",
+                "start_frame": 15034,
+                "stop_frame": 15045
+            },
+            {
+                "narration_text": "Turns the burrito with the cooking spoon",
+                "start_frame": 15045,
+                "stop_frame": 15782
+            },
+            {
+                "narration_text": "Puts down the cooking spoon",
+                "start_frame": 15782,
+                "stop_frame": 15878
+            },
+            {
+                "narration_text": "Picks the chopping board",
+                "start_frame": 15878,
+                "stop_frame": 15920
+            },
+            {
+                "narration_text": "Washes the chopping board",
+                "start_frame": 15920,
+                "stop_frame": 16056
+            },
+            {
+                "narration_text": "Turns off the water tap",
+                "start_frame": 16056,
+                "stop_frame": 16233
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling dishes and utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the spatula",
+                "start_frame": 18324,
+                "stop_frame": 18397
+            },
+            {
+                "narration_text": "Takes the pan",
+                "start_frame": 18397,
+                "stop_frame": 18457
+            },
+            {
+                "narration_text": "Puts the pan in the sink",
+                "start_frame": 18457,
+                "stop_frame": 18545
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 18545,
+                "stop_frame": 18690
+            },
+            {
+                "narration_text": "Takes the serviette",
+                "start_frame": 18690,
+                "stop_frame": 18763
+            },
+            {
+                "narration_text": "Holds the meat",
+                "start_frame": 18763,
+                "stop_frame": 18819
+            },
+            {
+                "narration_text": "Slices the meat",
+                "start_frame": 18819,
+                "stop_frame": 18976
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 18976,
+                "stop_frame": 19026
+            },
+            {
+                "narration_text": "Slices the meat",
+                "start_frame": 19026,
+                "stop_frame": 19516
+            },
+            {
+                "narration_text": "Puts away the serviette",
+                "start_frame": 19516,
+                "stop_frame": 19671
+            }
+        ]
+    },
+    {
+        "task_goal": "Final cleaning touches",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Slices the meat",
+                "start_frame": 19026,
+                "stop_frame": 19516
+            },
+            {
+                "narration_text": "Puts away the serviette",
+                "start_frame": 19516,
+                "stop_frame": 19671
+            },
+            {
+                "narration_text": "Puts the meat in the plate",
+                "start_frame": 19671,
+                "stop_frame": 19940
+            },
+            {
+                "narration_text": "Takes the serviette",
+                "start_frame": 19940,
+                "stop_frame": 20014
+            },
+            {
+                "narration_text": "Puts the knife in the sink",
+                "start_frame": 20014,
+                "stop_frame": 20032
+            },
+            {
+                "narration_text": "Holds up the plate",
+                "start_frame": 20032,
+                "stop_frame": 20197
+            },
+            {
+                "narration_text": "Puts down the plate",
+                "start_frame": 20197,
+                "stop_frame": 20276
+            },
+            {
+                "narration_text": "Takes a paper",
+                "start_frame": 20276,
+                "stop_frame": 20355
+            },
+            {
+                "narration_text": "Puts the serviette on the chopboard",
+                "start_frame": 20355,
+                "stop_frame": 20410
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 20410,
+                "stop_frame": 20483
+            },
+            {
+                "narration_text": "Cleans the knife",
+                "start_frame": 20483,
+                "stop_frame": 20858
+            },
+            {
+                "narration_text": "Puts away the knife",
+                "start_frame": 20858,
+                "stop_frame": 20928
+            },
+            {
+                "narration_text": "Cleans the spatula",
+                "start_frame": 20928,
+                "stop_frame": 21028
+            }
+        ]
+    }
+]

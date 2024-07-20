@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfRYthbvVkBDDnTDHl5m0wM9fkIr",
+    "object": "chat.completion",
+    "created": 1719241128,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and store food using various ingredients and clean up afterwards\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Initial actions and gathering ingredients\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 10866,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Use phone\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 185\n        },\n        {\n          \"secondary_subgoal\": \"Pick up and use a knife\",\n          \"start_timestamp\": 185,\n          \"stop_timestamp\": 216\n        },\n        {\n          \"secondary_subgoal\": \"Cut and transfer meat into bowls\",\n          \"start_timestamp\": 216,\n          \"stop_timestamp\": 5268\n        },\n        {\n          \"secondary_subgoal\": \"Manipulating a tin and paper\",\n          \"start_timestamp\": 5268,\n          \"stop_timestamp\": 8023\n        },\n        {\n          \"secondary_subgoal\": \"Organize ingredients and clean hands\",\n          \"start_timestamp\": 8023,\n          \"stop_timestamp\": 10866\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and cut vegetables\",\n      \"start_timestamp\": 10866,\n      \"stop_timestamp\": 17103,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick vegetables and open drawers\",\n          \"start_timestamp\": 10866,\n          \"stop_timestamp\": 10442\n        },\n        {\n          \"secondary_subgoal\": \"Cut and prepare vegetables\",\n          \"start_timestamp\": 10442,\n          \"stop_timestamp\": 17103\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Rinse chopping board and clean dishes\",\n      \"start_timestamp\": 27226,\n      \"stop_timestamp\": 31565,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Rinse chopping board\",\n          \"start_timestamp\": 27226,\n          \"stop_timestamp\": 27429\n        },\n        {\n          \"secondary_subgoal\": \"Wash dishes and clean kitchen surface\",\n          \"start_timestamp\": 27429,\n          \"stop_timestamp\": 31565\n        }\n      ]\n    }\n  ]\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2750,
+        "completion_tokens": 471,
+        "total_tokens": 3221
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

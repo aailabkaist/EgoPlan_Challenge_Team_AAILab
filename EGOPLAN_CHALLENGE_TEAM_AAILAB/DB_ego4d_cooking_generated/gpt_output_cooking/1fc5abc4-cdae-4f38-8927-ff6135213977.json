@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dt6ANKf2ycr9LDTFJyy01UFuoZtr",
+    "object": "chat.completion",
+    "created": 1719293618,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Prepare food by cutting and transferring pieces to plates while maintaining cleanliness in the kitchen\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Clean the kitchen area and prepare for food handling\",\n            \"start_timestamp\": 8,\n            \"stop_timestamp\": 215,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Clean the kitchen area\",\n                    \"start_timestamp\": 8,\n                    \"stop_timestamp\": 119\n                },\n                {\n                    \"secondary_subgoal\": \"Open the water tap and wash hands\",\n                    \"start_timestamp\": 119,\n                    \"stop_timestamp\": 215\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Dry hands and place cloth on the kitchen area\",\n            \"start_timestamp\": 215,\n            \"stop_timestamp\": 512,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Dry hands with a towel\",\n                    \"start_timestamp\": 215,\n                    \"stop_timestamp\": 335\n                },\n                {\n                    \"secondary_subgoal\": \"Pick and stretch a piece of cloth\",\n                    \"start_timestamp\": 335,\n                    \"stop_timestamp\": 463\n                },\n                {\n                    \"secondary_subgoal\": \"Place the cloth on the kitchen area\",\n                    \"start_timestamp\": 463,\n                    \"stop_timestamp\": 512\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Handle food items by uncovering, cutting, and transferring to plates\",\n            \"start_timestamp\": 512,\n            \"stop_timestamp\": 1912,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Move a plate and uncover food\",\n                    \"start_timestamp\": 512,\n                    \"stop_timestamp\": 665\n                },\n                {\n                    \"secondary_subgoal\": \"Pick and plate the food\",\n                    \"start_timestamp\": 665,\n                    \"stop_timestamp\": 859\n                },\n                {\n                    \"secondary_subgoal\": \"Pick and cut pieces with a knife\",\n                    \"start_timestamp\": 859,\n                    \"stop_timestamp\": 1048\n                },\n                {\n                    \"secondary_subgoal\": \"Put the knife in the sink\",\n                    \"start_timestamp\": 1048,\n                    \"stop_timestamp\": 1185\n                },\n                {\n                    \"secondary_subgoal\": \"Put the pieces together and transfer to another plate\",\n                    \"start_timestamp\": 1185,\n                    \"stop_timestamp\": 1265\n                },\n                {\n                    \"secondary_subgoal\": \"Repeat process of picking, cutting, and transferring food pieces\",\n                    \"start_timestamp\": 1265,\n                    \"stop_timestamp\": 1912\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Clean hands after handling food\",\n            \"start_timestamp\": 2097,\n            \"stop_timestamp\": 2289,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Open water tap and wash hands\",\n                    \"start_timestamp\": 2097,\n                    \"stop_timestamp\": 2189\n                },\n                {\n                    \"secondary_subgoal\": \"Dry hands with a towel and turn off the tap\",\n                    \"start_timestamp\": 2189,\n                    \"stop_timestamp\": 2289\n                }\n            ]\n        }\n    ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 646,
+        "completion_tokens": 683,
+        "total_tokens": 1329
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

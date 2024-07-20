@@ -1,0 +1,1097 @@
+[
+    {
+        "task_goal": "Start by holding the piece of lettuce and knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds a piece of lettuce on his left hand",
+                "start_frame": 1,
+                "stop_frame": 1
+            },
+            {
+                "narration_text": "#C C holds a knife on his right hand",
+                "start_frame": 1,
+                "stop_frame": 6
+            },
+            {
+                "narration_text": "#C C puts the piece of lettuce in the plastic colander",
+                "start_frame": 6,
+                "stop_frame": 7
+            }
+        ]
+    },
+    {
+        "task_goal": "Put the lettuce in the plastic colander",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds a knife on his right hand",
+                "start_frame": 1,
+                "stop_frame": 6
+            },
+            {
+                "narration_text": "#C C puts the piece of lettuce in the plastic colander",
+                "start_frame": 6,
+                "stop_frame": 7
+            },
+            {
+                "narration_text": "#C C places the knife on the kitchen top surface",
+                "start_frame": 7,
+                "stop_frame": 36
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the knife on the kitchen top surface",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the piece of lettuce in the plastic colander",
+                "start_frame": 6,
+                "stop_frame": 7
+            },
+            {
+                "narration_text": "#C C places the knife on the kitchen top surface",
+                "start_frame": 7,
+                "stop_frame": 36
+            },
+            {
+                "narration_text": "#C C collects the pieces of lettuce on the kitchen top surface",
+                "start_frame": 36,
+                "stop_frame": 48
+            }
+        ]
+    },
+    {
+        "task_goal": "Collect and bag the lettuce",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places the knife on the kitchen top surface",
+                "start_frame": 7,
+                "stop_frame": 36
+            },
+            {
+                "narration_text": "#C C collects the pieces of lettuce on the kitchen top surface",
+                "start_frame": 36,
+                "stop_frame": 48
+            },
+            {
+                "narration_text": "#C C throws the pieces of lettuce into the plastic clear bag",
+                "start_frame": 48,
+                "stop_frame": 75
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 75,
+                "stop_frame": 88
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C throws the pieces of lettuce into the plastic clear bag",
+                "start_frame": 48,
+                "stop_frame": 75
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 75,
+                "stop_frame": 88
+            },
+            {
+                "narration_text": "#C C washes the lettuce in the plastic colander with the tap water",
+                "start_frame": 88,
+                "stop_frame": 259
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the lettuce",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 75,
+                "stop_frame": 88
+            },
+            {
+                "narration_text": "#C C washes the lettuce in the plastic colander with the tap water",
+                "start_frame": 88,
+                "stop_frame": 259
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 259,
+                "stop_frame": 259
+            },
+            {
+                "narration_text": "#C C lifts the plastic colander",
+                "start_frame": 259,
+                "stop_frame": 301
+            }
+        ]
+    },
+    {
+        "task_goal": "Close the tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C washes the lettuce in the plastic colander with the tap water",
+                "start_frame": 88,
+                "stop_frame": 259
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 259,
+                "stop_frame": 259
+            },
+            {
+                "narration_text": "#C C lifts the plastic colander",
+                "start_frame": 259,
+                "stop_frame": 301
+            }
+        ]
+    },
+    {
+        "task_goal": "Shake and lift the colander",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C washes the lettuce in the plastic colander with the tap water",
+                "start_frame": 88,
+                "stop_frame": 259
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 259,
+                "stop_frame": 259
+            },
+            {
+                "narration_text": "#C C lifts the plastic colander",
+                "start_frame": 259,
+                "stop_frame": 301
+            },
+            {
+                "narration_text": "#C C shakes the plastic colander",
+                "start_frame": 301,
+                "stop_frame": 338
+            },
+            {
+                "narration_text": "#C C touches the plastic clear bag",
+                "start_frame": 338,
+                "stop_frame": 385
+            }
+        ]
+    },
+    {
+        "task_goal": "Touch the plastic clear bag",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C shakes the plastic colander",
+                "start_frame": 301,
+                "stop_frame": 338
+            },
+            {
+                "narration_text": "#C C touches the plastic clear bag",
+                "start_frame": 338,
+                "stop_frame": 385
+            },
+            {
+                "narration_text": "#C C pics the tomato on the kitchen top surface with her left hand",
+                "start_frame": 385,
+                "stop_frame": 464
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick the tomato from the kitchen top surface",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C touches the plastic clear bag",
+                "start_frame": 338,
+                "stop_frame": 385
+            },
+            {
+                "narration_text": "#C C pics the tomato on the kitchen top surface with her left hand",
+                "start_frame": 385,
+                "stop_frame": 464
+            },
+            {
+                "narration_text": "#C C moves the chopping board with the back of his left hand",
+                "start_frame": 464,
+                "stop_frame": 483
+            }
+        ]
+    },
+    {
+        "task_goal": "Move the chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pics the tomato on the kitchen top surface with her left hand",
+                "start_frame": 385,
+                "stop_frame": 464
+            },
+            {
+                "narration_text": "#C C moves the chopping board with the back of his left hand",
+                "start_frame": 464,
+                "stop_frame": 483
+            },
+            {
+                "narration_text": "#C C places the plastic colander on the kitchen top surface",
+                "start_frame": 483,
+                "stop_frame": 509
+            },
+            {
+                "narration_text": "#C C dip the tomato in the round glass bowl",
+                "start_frame": 509,
+                "stop_frame": 518
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the plastic colander on the kitchen surface",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places the plastic colander on the kitchen top surface",
+                "start_frame": 483,
+                "stop_frame": 509
+            },
+            {
+                "narration_text": "#C C dip the tomato in the round glass bowl",
+                "start_frame": 509,
+                "stop_frame": 518
+            },
+            {
+                "narration_text": "#C C washes the tomato in the round glass bowl with the water in it",
+                "start_frame": 518,
+                "stop_frame": 604
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the tomato",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C dip the tomato in the round glass bowl",
+                "start_frame": 509,
+                "stop_frame": 518
+            },
+            {
+                "narration_text": "#C C washes the tomato in the round glass bowl with the water in it",
+                "start_frame": 518,
+                "stop_frame": 604
+            },
+            {
+                "narration_text": "#C C pours the water in the round glass bowl",
+                "start_frame": 604,
+                "stop_frame": 639
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour water and clean the bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C washes the tomato in the round glass bowl with the water in it",
+                "start_frame": 518,
+                "stop_frame": 604
+            },
+            {
+                "narration_text": "#C C pours the water in the round glass bowl",
+                "start_frame": 604,
+                "stop_frame": 639
+            },
+            {
+                "narration_text": "#C C keeps the bowl in the sink",
+                "start_frame": 639,
+                "stop_frame": 652
+            },
+            {
+                "narration_text": "#C C picks the plastic colander",
+                "start_frame": 652,
+                "stop_frame": 665
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the colander in and out of the bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C keeps the bowl in the sink",
+                "start_frame": 639,
+                "stop_frame": 652
+            },
+            {
+                "narration_text": "#C C picks the plastic colander",
+                "start_frame": 652,
+                "stop_frame": 665
+            },
+            {
+                "narration_text": "#C C places the plastic colander inside the round glass bowl",
+                "start_frame": 665,
+                "stop_frame": 707
+            },
+            {
+                "narration_text": "#C C does #Unsure",
+                "start_frame": 707,
+                "stop_frame": 788
+            },
+            {
+                "narration_text": "#C C shakes the plastic colander inside the round glass bowl",
+                "start_frame": 788,
+                "stop_frame": 850
+            }
+        ]
+    },
+    {
+        "task_goal": "Shake colander to dry lettuce",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C does #Unsure",
+                "start_frame": 707,
+                "stop_frame": 788
+            },
+            {
+                "narration_text": "#C C shakes the plastic colander inside the round glass bowl",
+                "start_frame": 788,
+                "stop_frame": 850
+            },
+            {
+                "narration_text": "#C C holds the tomato with his right hand",
+                "start_frame": 850,
+                "stop_frame": 874
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and handle tomato",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C shakes the plastic colander inside the round glass bowl",
+                "start_frame": 788,
+                "stop_frame": 850
+            },
+            {
+                "narration_text": "#C C holds the tomato with his right hand",
+                "start_frame": 850,
+                "stop_frame": 874
+            },
+            {
+                "narration_text": "#C C touches the plastic clear bag",
+                "start_frame": 874,
+                "stop_frame": 934
+            }
+        ]
+    },
+    {
+        "task_goal": "Touch and handle clear plastic bag",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the tomato with his right hand",
+                "start_frame": 850,
+                "stop_frame": 874
+            },
+            {
+                "narration_text": "#C C touches the plastic clear bag",
+                "start_frame": 874,
+                "stop_frame": 934
+            },
+            {
+                "narration_text": "#C C picks the chopping board",
+                "start_frame": 934,
+                "stop_frame": 969
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and rinse chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C touches the plastic clear bag",
+                "start_frame": 874,
+                "stop_frame": 934
+            },
+            {
+                "narration_text": "#C C picks the chopping board",
+                "start_frame": 934,
+                "stop_frame": 969
+            },
+            {
+                "narration_text": "#C C holds the chopping board with his left hand",
+                "start_frame": 969,
+                "stop_frame": 974
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 974,
+                "stop_frame": 974
+            },
+            {
+                "narration_text": "#C C rinses the chopping board",
+                "start_frame": 974,
+                "stop_frame": 1021
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 1021,
+                "stop_frame": 1066
+            },
+            {
+                "narration_text": "#C C moves the tomato on the kitchen top surfaces",
+                "start_frame": 1066,
+                "stop_frame": 1088
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean the area and bag dirt",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 1021,
+                "stop_frame": 1066
+            },
+            {
+                "narration_text": "#C C moves the tomato on the kitchen top surfaces",
+                "start_frame": 1066,
+                "stop_frame": 1088
+            },
+            {
+                "narration_text": "#C C places the chopping board at the kitchen top surface",
+                "start_frame": 1088,
+                "stop_frame": 1104
+            },
+            {
+                "narration_text": "#C C collects the dirt on the kitchen top surface",
+                "start_frame": 1104,
+                "stop_frame": 1129
+            },
+            {
+                "narration_text": "#C C throws the dirt in the plastic clear bag",
+                "start_frame": 1129,
+                "stop_frame": 1145
+            },
+            {
+                "narration_text": "#C C collects the dirt on the kitchen top surface",
+                "start_frame": 1145,
+                "stop_frame": 1176
+            },
+            {
+                "narration_text": "#C C throws the dirt in the plastic clear bag",
+                "start_frame": 1176,
+                "stop_frame": 1199
+            },
+            {
+                "narration_text": "#C C releases the plastic clear bag",
+                "start_frame": 1199,
+                "stop_frame": 1219
+            },
+            {
+                "narration_text": "#C C picks the plastic clear bag",
+                "start_frame": 1219,
+                "stop_frame": 1235
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle and fold plastic clear bag",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C releases the plastic clear bag",
+                "start_frame": 1199,
+                "stop_frame": 1219
+            },
+            {
+                "narration_text": "#C C picks the plastic clear bag",
+                "start_frame": 1219,
+                "stop_frame": 1235
+            },
+            {
+                "narration_text": "#C C folds the plastic clear bag",
+                "start_frame": 1235,
+                "stop_frame": 1266
+            },
+            {
+                "narration_text": "#C C touches the tomato package",
+                "start_frame": 1266,
+                "stop_frame": 1283
+            },
+            {
+                "narration_text": "#C C moves the plastic clear bag a bit",
+                "start_frame": 1283,
+                "stop_frame": 1326
+            },
+            {
+                "narration_text": "#C C places the plastic clear bag on the kitchen top surface",
+                "start_frame": 1326,
+                "stop_frame": 1361
+            },
+            {
+                "narration_text": "#C C picks the white radish in the plastic bag with his left hand",
+                "start_frame": 1361,
+                "stop_frame": 1375
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut white radish",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places the white radish on the chopping board",
+                "start_frame": 2088,
+                "stop_frame": 2121
+            },
+            {
+                "narration_text": "#C C picks the knife on the kitchen top surface",
+                "start_frame": 2121,
+                "stop_frame": 2158
+            },
+            {
+                "narration_text": "#C C cuts the white radish at the top",
+                "start_frame": 2158,
+                "stop_frame": 2247
+            },
+            {
+                "narration_text": "#C C cuts a piece of white radish",
+                "start_frame": 2247,
+                "stop_frame": 2279
+            },
+            {
+                "narration_text": "#C C picks the white radish",
+                "start_frame": 2279,
+                "stop_frame": 2301
+            },
+            {
+                "narration_text": "#C C fits back the white radish in the plastic bag",
+                "start_frame": 2301,
+                "stop_frame": 2566
+            },
+            {
+                "narration_text": "#C C hits the whit radish",
+                "start_frame": 2566,
+                "stop_frame": 2694
+            },
+            {
+                "narration_text": "#C C places the white radish on the kitchen top surface",
+                "start_frame": 2694,
+                "stop_frame": 2721
+            }
+        ]
+    },
+    {
+        "task_goal": "Bag white radish and clean colander",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C hits the whit radish",
+                "start_frame": 2566,
+                "stop_frame": 2694
+            },
+            {
+                "narration_text": "#C C places the white radish on the kitchen top surface",
+                "start_frame": 2694,
+                "stop_frame": 2721
+            },
+            {
+                "narration_text": "#C C pulls the plastic bag with the white radish",
+                "start_frame": 2721,
+                "stop_frame": 2737
+            },
+            {
+                "narration_text": "#C C folds the plastic bag with the white radish",
+                "start_frame": 2737,
+                "stop_frame": 2760
+            },
+            {
+                "narration_text": "#C C holds the plastic bag with the white radish with his left hand",
+                "start_frame": 2760,
+                "stop_frame": 2778
+            },
+            {
+                "narration_text": "#C C picks the chopped top part of the white radish",
+                "start_frame": 2778,
+                "stop_frame": 2806
+            },
+            {
+                "narration_text": "#C C let go of the white radish in the plastic bag",
+                "start_frame": 2806,
+                "stop_frame": 2813
+            },
+            {
+                "narration_text": "#C C opens the plastic clear bag",
+                "start_frame": 2813,
+                "stop_frame": 2828
+            },
+            {
+                "narration_text": "#C C throws the chopped top part of the white radish",
+                "start_frame": 2828,
+                "stop_frame": 2855
+            },
+            {
+                "narration_text": "#C C picks the white radish in the plastic bag",
+                "start_frame": 2855,
+                "stop_frame": 2911
+            },
+            {
+                "narration_text": "#C C places the white radish in the plastic bag on the kitchen top surface",
+                "start_frame": 2911,
+                "stop_frame": 2965
+            },
+            {
+                "narration_text": "#C C lifts the clear plastic bag",
+                "start_frame": 2965,
+                "stop_frame": 3008
+            },
+            {
+                "narration_text": "#C C places the plastic clear bag on the plastic clear bag with the dirt",
+                "start_frame": 3008,
+                "stop_frame": 3009
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 3009,
+                "stop_frame": 3043
+            },
+            {
+                "narration_text": "#C C rinses his hands",
+                "start_frame": 3043,
+                "stop_frame": 3062
+            },
+            {
+                "narration_text": "#C C picks the piece of white radish on the chopping board",
+                "start_frame": 3062,
+                "stop_frame": 3068
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 3068,
+                "stop_frame": 3090
+            },
+            {
+                "narration_text": "#C C picks the knife on the chopping board",
+                "start_frame": 3090,
+                "stop_frame": 3120
+            },
+            {
+                "narration_text": "#C C peels off the piece of white radish",
+                "start_frame": 3120,
+                "stop_frame": 3473
+            }
+        ]
+    },
+    {
+        "task_goal": "Arrange utensils and grab ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the kitchen cabinet door",
+                "start_frame": 7003,
+                "stop_frame": 7073
+            },
+            {
+                "narration_text": "#C C arranges the utensils in the dish rack",
+                "start_frame": 7073,
+                "stop_frame": 7576
+            },
+            {
+                "narration_text": "#C C walks to the cooking area",
+                "start_frame": 7576,
+                "stop_frame": 7615
+            },
+            {
+                "narration_text": "#C C picks the spoon ladle",
+                "start_frame": 7615,
+                "stop_frame": 7628
+            },
+            {
+                "narration_text": "#C C opens the cooking pot lid",
+                "start_frame": 7628,
+                "stop_frame": 7650
+            },
+            {
+                "narration_text": "#C C stirs #Unsure with the spoon ladle",
+                "start_frame": 7650,
+                "stop_frame": 7899
+            },
+            {
+                "narration_text": "#C C covers the cooking pot with the cooking pot lid",
+                "start_frame": 7899,
+                "stop_frame": 7933
+            },
+            {
+                "narration_text": "#C C places the spoon ladle on the fleet ceramic white tray",
+                "start_frame": 7933,
+                "stop_frame": 7947
+            }
+        ]
+    },
+    {
+        "task_goal": "Cook and stir food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C covers the cooking pot with the cooking pot lid",
+                "start_frame": 7899,
+                "stop_frame": 7933
+            },
+            {
+                "narration_text": "#C C places the spoon ladle on the fleet ceramic white tray",
+                "start_frame": 7933,
+                "stop_frame": 7947
+            },
+            {
+                "narration_text": "#C C holds the cooking pot hand",
+                "start_frame": 7947,
+                "stop_frame": 7955
+            },
+            {
+                "narration_text": "#C C moves the cooking pot hand",
+                "start_frame": 7955,
+                "stop_frame": 7988
+            },
+            {
+                "narration_text": "#C C presses the button on the cooking gas",
+                "start_frame": 7988,
+                "stop_frame": 8021
+            },
+            {
+                "narration_text": "#C C walks to the kitchen sink",
+                "start_frame": 8021,
+                "stop_frame": 8076
+            },
+            {
+                "narration_text": "#C C picks the plastic grater",
+                "start_frame": 8076,
+                "stop_frame": 8155
+            },
+            {
+                "narration_text": "#C C holds the plastic grater with his left hand",
+                "start_frame": 8155,
+                "stop_frame": 8173
+            },
+            {
+                "narration_text": "#C C opens the plastic grater",
+                "start_frame": 8173,
+                "stop_frame": 8252
+            },
+            {
+                "narration_text": "#C C picks the piece of white radish",
+                "start_frame": 8252,
+                "stop_frame": 8283
+            },
+            {
+                "narration_text": "#C C grates the white radish with the plastic grater on the white ceramic plate with blue flower",
+                "start_frame": 8283,
+                "stop_frame": 8314
+            },
+            {
+                "narration_text": "#C C grates the white radish with the plastic grater on the white ceramic plate with pink flower",
+                "start_frame": 8314,
+                "stop_frame": 8513
+            },
+            {
+                "narration_text": "#C C grates the white radish with the plastic grater on the white ceramic plate with blue flower",
+                "start_frame": 8513,
+                "stop_frame": 8667
+            },
+            {
+                "narration_text": "#C C stops chopping the fruit with a cheese Grater",
+                "start_frame": 8667,
+                "stop_frame": 8757
+            },
+            {
+                "narration_text": "#C C chops the fruit with a cheese Grater",
+                "start_frame": 8757,
+                "stop_frame": 8959
+            }
+        ]
+    },
+    {
+        "task_goal": "Grate white radish and clean grater",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C chops the fruit with a cheese Grater",
+                "start_frame": 8757,
+                "stop_frame": 8959
+            },
+            {
+                "narration_text": "#C C stops chopping the fruit with a cheese Grater",
+                "start_frame": 8959,
+                "stop_frame": 8979
+            },
+            {
+                "narration_text": "#C C chops the fruit with a cheese Grater",
+                "start_frame": 8979,
+                "stop_frame": 9009
+            },
+            {
+                "narration_text": "#C C stops chopping the fruit with a cheese Grater",
+                "start_frame": 9009,
+                "stop_frame": 9035
+            },
+            {
+                "narration_text": "#C C chops the fruit with a cheese Grater",
+                "start_frame": 9035,
+                "stop_frame": 9406
+            },
+            {
+                "narration_text": "#C C puts the fruit in the plates",
+                "start_frame": 9406,
+                "stop_frame": 9579
+            },
+            {
+                "narration_text": "#C C walks on the floor",
+                "start_frame": 9579,
+                "stop_frame": 9614
+            },
+            {
+                "narration_text": "#C C cleans the cheese grater",
+                "start_frame": 9614,
+                "stop_frame": 9733
+            }
+        ]
+    },
+    {
+        "task_goal": "Store and clean-up",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks on the floor",
+                "start_frame": 9579,
+                "stop_frame": 9614
+            },
+            {
+                "narration_text": "#C C cleans the cheese grater",
+                "start_frame": 9614,
+                "stop_frame": 9733
+            },
+            {
+                "narration_text": "#C C puts the cheese grater in a kitchen cabinet",
+                "start_frame": 9733,
+                "stop_frame": 9764
+            },
+            {
+                "narration_text": "#C C wipes his hands with a kitchen towel",
+                "start_frame": 9764,
+                "stop_frame": 9812
+            },
+            {
+                "narration_text": "#C C picks the glasses in the kitchen cabinet",
+                "start_frame": 9812,
+                "stop_frame": 9921
+            },
+            {
+                "narration_text": "#C C opens the kitchen cabinet",
+                "start_frame": 9921,
+                "stop_frame": 9987
+            },
+            {
+                "narration_text": "#C C puts the glasses in the kitchen cabinet",
+                "start_frame": 9987,
+                "stop_frame": 10043
+            },
+            {
+                "narration_text": "#C C picks the plate in the kitchen cabinet",
+                "start_frame": 10043,
+                "stop_frame": 10119
+            },
+            {
+                "narration_text": "#C C puts the plate in the kitchen cabinet",
+                "start_frame": 10119,
+                "stop_frame": 10177
+            },
+            {
+                "narration_text": "#C C picks the plates in the kitchen cabinet",
+                "start_frame": 10177,
+                "stop_frame": 10297
+            },
+            {
+                "narration_text": "#C C puts the plates on the table",
+                "start_frame": 10297,
+                "stop_frame": 10317
+            },
+            {
+                "narration_text": "#C C closes the kitchen cabinet door",
+                "start_frame": 10317,
+                "stop_frame": 10358
+            },
+            {
+                "narration_text": "#C C walks on the floor",
+                "start_frame": 10358,
+                "stop_frame": 10442
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle food preparation items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the kitchen cabinet door",
+                "start_frame": 10317,
+                "stop_frame": 10358
+            },
+            {
+                "narration_text": "#C C walks on the floor",
+                "start_frame": 10358,
+                "stop_frame": 10442
+            },
+            {
+                "narration_text": "#C C holds the plates",
+                "start_frame": 10442,
+                "stop_frame": 10463
+            },
+            {
+                "narration_text": "#C C holds the polythene paper on the countertop",
+                "start_frame": 10463,
+                "stop_frame": 10487
+            },
+            {
+                "narration_text": "#C C stands on the floor",
+                "start_frame": 10487,
+                "stop_frame": 10583
+            },
+            {
+                "narration_text": "#C C opens the Cast Iron Deep Skillet",
+                "start_frame": 10583,
+                "stop_frame": 10585
+            },
+            {
+                "narration_text": "#C C picks a spoon in the plate",
+                "start_frame": 10585,
+                "stop_frame": 10610
+            },
+            {
+                "narration_text": "#C C stirs the food with a spoon",
+                "start_frame": 10610,
+                "stop_frame": 10765
+            },
+            {
+                "narration_text": "#C C covers the Cast Iron deep skillet with a lid",
+                "start_frame": 10765,
+                "stop_frame": 10804
+            },
+            {
+                "narration_text": "#C C puts the spoon in the plate",
+                "start_frame": 10804,
+                "stop_frame": 10846
+            },
+            {
+                "narration_text": "#C C walks on the floor",
+                "start_frame": 10846,
+                "stop_frame": 10938
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 10938,
+                "stop_frame": 11008
+            },
+            {
+                "narration_text": "#C C picks #unsure in the fridge",
+                "start_frame": 11008,
+                "stop_frame": 11186
+            },
+            {
+                "narration_text": "#C C picks golden curry in the fridge",
+                "start_frame": 11186,
+                "stop_frame": 11244
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 11244,
+                "stop_frame": 11269
+            },
+            {
+                "narration_text": "#C C walks on the floor",
+                "start_frame": 11269,
+                "stop_frame": 11351
+            },
+            {
+                "narration_text": "#C C puts #unsure on the chopping board",
+                "start_frame": 11351,
+                "stop_frame": 11358
+            },
+            {
+                "narration_text": "#C C holds the golden curry with his hands",
+                "start_frame": 11358,
+                "stop_frame": 11510
+            }
+        ]
+    },
+    {
+        "task_goal": "Season and serve food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the golden curry with his hands",
+                "start_frame": 11358,
+                "stop_frame": 11510
+            },
+            {
+                "narration_text": "#C C puts the golden curry on the countertop",
+                "start_frame": 11510,
+                "stop_frame": 11584
+            },
+            {
+                "narration_text": "#C C unrolls #unsure with his hands",
+                "start_frame": 11584,
+                "stop_frame": 11759
+            },
+            {
+                "narration_text": "#C C holds #unsure with his hands",
+                "start_frame": 11759,
+                "stop_frame": 11932
+            },
+            {
+                "narration_text": "#C C picks a knife on the chopping board",
+                "start_frame": 11932,
+                "stop_frame": 11965
+            },
+            {
+                "narration_text": "#C C opens #unsure with a knife",
+                "start_frame": 11965,
+                "stop_frame": 12088
+            },
+            {
+                "narration_text": "#C C puts the knife on the chopping board",
+                "start_frame": 12088,
+                "stop_frame": 12112
+            },
+            {
+                "narration_text": "#C C holds #unsure with his hands",
+                "start_frame": 12112,
+                "stop_frame": 12250
+            },
+            {
+                "narration_text": "#C C picks a chopsticks on the plate",
+                "start_frame": 12250,
+                "stop_frame": 12295
+            },
+            {
+                "narration_text": "#C C serves #unsure",
+                "start_frame": 12295,
+                "stop_frame": 12569
+            },
+            {
+                "narration_text": "#C C stops serving #unsure",
+                "start_frame": 12569,
+                "stop_frame": 12635
+            },
+            {
+                "narration_text": "#C C puts the chopstick on the chopping board",
+                "start_frame": 12635,
+                "stop_frame": 12644
+            },
+            {
+                "narration_text": "#C C holds #unsure with his hands",
+                "start_frame": 12644,
+                "stop_frame": 12707
+            },
+            {
+                "narration_text": "#C C puts #unsure in a polythene paper",
+                "start_frame": 12707,
+                "stop_frame": 12786
+            },
+            {
+                "narration_text": "#C C walks on the floor",
+                "start_frame": 12786,
+                "stop_frame": 12829
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 12829,
+                "stop_frame": 12905
+            }
+        ]
+    }
+]

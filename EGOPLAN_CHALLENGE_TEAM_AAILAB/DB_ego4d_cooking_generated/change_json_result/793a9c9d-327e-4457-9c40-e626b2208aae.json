@@ -1,0 +1,44 @@
+{
+    "overall_goal": "Cook a dish using spinach",
+    "clips": [
+        {
+            "subgoal": "Prepare the bowl with water",
+            "start_timestamp": 74,
+            "stop_timestamp": 154,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Lift the bowl",
+                    "start_timestamp": 74,
+                    "stop_timestamp": 108
+                },
+                {
+                    "secondary_subgoal": "Pour water into the sink",
+                    "start_timestamp": 108,
+                    "stop_timestamp": 154
+                }
+            ]
+        },
+        {
+            "subgoal": "Add spinach to the pot",
+            "start_timestamp": 201,
+            "stop_timestamp": 514,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up spinach from the bowl",
+                    "start_timestamp": 260,
+                    "stop_timestamp": 356
+                },
+                {
+                    "secondary_subgoal": "Put spinach into the pot",
+                    "start_timestamp": 376,
+                    "stop_timestamp": 414
+                },
+                {
+                    "secondary_subgoal": "Pick up more spinach from the bowl",
+                    "start_timestamp": 414,
+                    "stop_timestamp": 514
+                }
+            ]
+        }
+    ]
+}

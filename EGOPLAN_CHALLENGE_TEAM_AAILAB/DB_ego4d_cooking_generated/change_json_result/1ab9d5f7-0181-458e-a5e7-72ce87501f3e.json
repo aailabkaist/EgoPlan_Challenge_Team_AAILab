@@ -1,0 +1,185 @@
+{
+    "overall_goal": "Prepare and store an avocado-based mixture",
+    "clips": [
+        {
+            "subgoal": "Gather necessary items and prepare the ingredients",
+            "start_timestamp": 0,
+            "stop_timestamp": 2507,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve ingredients from the fridge",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 242
+                },
+                {
+                    "secondary_subgoal": "Place items on the kitchen slab",
+                    "start_timestamp": 242,
+                    "stop_timestamp": 782
+                },
+                {
+                    "secondary_subgoal": "Peel and prepare avocado for cutting",
+                    "start_timestamp": 782,
+                    "stop_timestamp": 1095
+                },
+                {
+                    "secondary_subgoal": "Drain water from the sieve with content",
+                    "start_timestamp": 1716,
+                    "stop_timestamp": 1716
+                }
+            ]
+        },
+        {
+            "subgoal": "Process the avocado",
+            "start_timestamp": 1874,
+            "stop_timestamp": 2905,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Slice the avocado",
+                    "start_timestamp": 2104,
+                    "stop_timestamp": 2536
+                },
+                {
+                    "secondary_subgoal": "Remove avocado seed",
+                    "start_timestamp": 2691,
+                    "stop_timestamp": 2856
+                },
+                {
+                    "secondary_subgoal": "Dispose of avocado seed",
+                    "start_timestamp": 2962,
+                    "stop_timestamp": 2962
+                }
+            ]
+        },
+        {
+            "subgoal": "Peel avocado slices",
+            "start_timestamp": 3145,
+            "stop_timestamp": 4054,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel avocado slice",
+                    "start_timestamp": 3145,
+                    "stop_timestamp": 3427
+                },
+                {
+                    "secondary_subgoal": "Dispose of peels in the sink",
+                    "start_timestamp": 3173,
+                    "stop_timestamp": 3805
+                },
+                {
+                    "secondary_subgoal": "Collect pieces in the glass",
+                    "start_timestamp": 7089,
+                    "stop_timestamp": 7393
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut avocado into pieces",
+            "start_timestamp": 4074,
+            "stop_timestamp": 5802,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut avocado into smaller pieces",
+                    "start_timestamp": 4074,
+                    "stop_timestamp": 5802
+                },
+                {
+                    "secondary_subgoal": "Dispose of waste",
+                    "start_timestamp": 5068,
+                    "stop_timestamp": 5125
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and add other ingredients",
+            "start_timestamp": 6108,
+            "stop_timestamp": 6147,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve glass from cupboard",
+                    "start_timestamp": 6201,
+                    "stop_timestamp": 6760
+                }
+            ]
+        },
+        {
+            "subgoal": "Add extracted avocado pieces",
+            "start_timestamp": 7089,
+            "stop_timestamp": 7392,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve avocado pieces",
+                    "start_timestamp": 7039,
+                    "stop_timestamp": 7244
+                }
+            ]
+        },
+        {
+            "subgoal": "Store avocado mixture",
+            "start_timestamp": 7341,
+            "stop_timestamp": 8087,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cover glass with paper",
+                    "start_timestamp": 7817,
+                    "stop_timestamp": 8077
+                },
+                {
+                    "secondary_subgoal": "Cover glass with cling wrap",
+                    "start_timestamp": 16794,
+                    "stop_timestamp": 16866
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix prepared ingredients",
+            "start_timestamp": 9012,
+            "stop_timestamp": 12876,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir mixture",
+                    "start_timestamp": 9782,
+                    "stop_timestamp": 14068
+                },
+                {
+                    "secondary_subgoal": "Add seasoning",
+                    "start_timestamp": 10808,
+                    "stop_timestamp": 11701
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean workstation",
+            "start_timestamp": 14153,
+            "stop_timestamp": 16587,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean kitchen tools",
+                    "start_timestamp": 15430,
+                    "stop_timestamp": 15746
+                },
+                {
+                    "secondary_subgoal": "Store away cleaned tools",
+                    "start_timestamp": 16507,
+                    "stop_timestamp": 16587
+                }
+            ]
+        },
+        {
+            "subgoal": "Store prepared mixture in the fridge",
+            "start_timestamp": 16670,
+            "stop_timestamp": 17124,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put cling wrap on glass",
+                    "start_timestamp": 16796,
+                    "stop_timestamp": 16866
+                },
+                {
+                    "secondary_subgoal": "Store glass in the fridge",
+                    "start_timestamp": 17023,
+                    "stop_timestamp": 17064
+                }
+            ]
+        }
+    ]
+}

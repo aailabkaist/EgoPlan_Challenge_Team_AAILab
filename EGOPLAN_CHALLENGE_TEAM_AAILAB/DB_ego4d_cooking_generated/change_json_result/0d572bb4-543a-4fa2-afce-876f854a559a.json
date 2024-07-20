@@ -1,0 +1,81 @@
+{
+    "overall_goal": "Prepare and cook food, then interact with others and conclude with a separation task.",
+    "clips": [
+        {
+            "subgoal": "Prepare and cook the food.",
+            "start_timestamp": 67,
+            "stop_timestamp": 15173,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Set up and start cooking the onions.",
+                    "start_timestamp": 67,
+                    "stop_timestamp": 996
+                },
+                {
+                    "secondary_subgoal": "Add spices and other ingredients to the onions.",
+                    "start_timestamp": 996,
+                    "stop_timestamp": 7329
+                },
+                {
+                    "secondary_subgoal": "Cook the onion mixture and add eggs.",
+                    "start_timestamp": 7329,
+                    "stop_timestamp": 9870
+                },
+                {
+                    "secondary_subgoal": "Adjust the flame and cook the food gradually.",
+                    "start_timestamp": 9870,
+                    "stop_timestamp": 10762
+                },
+                {
+                    "secondary_subgoal": "Add salt and spice to the food",
+                    "start_timestamp": 10762,
+                    "stop_timestamp": 13941
+                },
+                {
+                    "secondary_subgoal": "Clean up and finish cooking.",
+                    "start_timestamp": 13941,
+                    "stop_timestamp": 15173
+                }
+            ]
+        },
+        {
+            "subgoal": "Engage with others and handle some tasks.",
+            "start_timestamp": 15173,
+            "stop_timestamp": 27388,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Interact with others and perform inspection or handover tasks.",
+                    "start_timestamp": 15173,
+                    "stop_timestamp": 25712
+                },
+                {
+                    "secondary_subgoal": "Further inspection or interaction tasks involving plates and paper.",
+                    "start_timestamp": 25712,
+                    "stop_timestamp": 26816
+                },
+                {
+                    "secondary_subgoal": "Finish the interaction and walk around the store.",
+                    "start_timestamp": 26816,
+                    "stop_timestamp": 27388
+                }
+            ]
+        },
+        {
+            "subgoal": "Sort and clean lentils.",
+            "start_timestamp": 27388,
+            "stop_timestamp": 29355,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Sort lentils from chaff.",
+                    "start_timestamp": 27388,
+                    "stop_timestamp": 28260
+                },
+                {
+                    "secondary_subgoal": "Separate lentils further and conclude the task.",
+                    "start_timestamp": 28260,
+                    "stop_timestamp": 29355
+                }
+            ]
+        }
+    ]
+}

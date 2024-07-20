@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eegr8DVsFHW3u0x6oiPAZhCkv3Vv",
+    "object": "chat.completion",
+    "created": 1719476561,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"C prepares a dish using a pan and serves it.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"C cooks in the pan.\",\n      \"start_timestamp\": 15,\n      \"stop_timestamp\": 2135,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C cooks in the pan.\",\n          \"start_timestamp\": 15,\n          \"stop_timestamp\": 27\n        },\n        {\n          \"secondary_subgoal\": \"C stirs the contents of the pan.\",\n          \"start_timestamp\": 27,\n          \"stop_timestamp\": 1913\n        },\n        {\n          \"secondary_subgoal\": \"C takes a plate to serve the dish.\",\n          \"start_timestamp\": 1913,\n          \"stop_timestamp\": 1945\n        },\n        {\n          \"secondary_subgoal\": \"C puts the plate on the sink.\",\n          \"start_timestamp\": 1945,\n          \"stop_timestamp\": 2135\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"C serves the dish.\",\n      \"start_timestamp\": 2135,\n      \"stop_timestamp\": 4840,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C serves the dish.\",\n          \"start_timestamp\": 2135,\n          \"stop_timestamp\": 4535\n        },\n        {\n          \"secondary_subgoal\": \"C puts together the served dish.\",\n          \"start_timestamp\": 4535,\n          \"stop_timestamp\": 4660\n        },\n        {\n          \"secondary_subgoal\": \"C takes the lid to cover the pan.\",\n          \"start_timestamp\": 4660,\n          \"stop_timestamp\": 4703\n        },\n        {\n          \"secondary_subgoal\": \"C puts the spoon in the pan.\",\n          \"start_timestamp\": 4703,\n          \"stop_timestamp\": 4715\n        },\n        {\n          \"secondary_subgoal\": \"C covers the pan.\",\n          \"start_timestamp\": 4715,\n          \"stop_timestamp\": 4728\n        },\n        {\n          \"secondary_subgoal\": \"C moves the plate.\",\n          \"start_timestamp\": 4728,\n          \"stop_timestamp\": 4740\n        },\n        {\n          \"secondary_subgoal\": \"C raises his hand.\",\n          \"start_timestamp\": 4740,\n          \"stop_timestamp\": 4840\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 440,
+        "completion_tokens": 506,
+        "total_tokens": 946
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

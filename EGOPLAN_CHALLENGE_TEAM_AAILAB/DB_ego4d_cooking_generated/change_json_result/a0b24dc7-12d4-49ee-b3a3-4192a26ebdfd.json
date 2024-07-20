@@ -1,0 +1,135 @@
+{
+    "overall_goal": "Cooking and cleaning the kitchen while preparing a meal",
+    "clips": [
+        {
+            "subgoal": "Add vinegar to the cooking pot",
+            "start_timestamp": 0,
+            "stop_timestamp": 407,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Uncover the cooking pot",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 45
+                },
+                {
+                    "secondary_subgoal": "Take and open the vinegar bottle",
+                    "start_timestamp": 70,
+                    "stop_timestamp": 131
+                },
+                {
+                    "secondary_subgoal": "Pour vinegar into the cooking pot",
+                    "start_timestamp": 186,
+                    "stop_timestamp": 294
+                },
+                {
+                    "secondary_subgoal": "Close the cooking pot",
+                    "start_timestamp": 378,
+                    "stop_timestamp": 407
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and use cleaning tools",
+            "start_timestamp": 515,
+            "stop_timestamp": 1822,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare cleaning tools (e.g., tissue and scrub sponge)",
+                    "start_timestamp": 515,
+                    "stop_timestamp": 659
+                },
+                {
+                    "secondary_subgoal": "Wash grater",
+                    "start_timestamp": 655,
+                    "stop_timestamp": 723
+                },
+                {
+                    "secondary_subgoal": "Finish cleaning and set tools aside",
+                    "start_timestamp": 669,
+                    "stop_timestamp": 814
+                },
+                {
+                    "secondary_subgoal": "Clean the sink",
+                    "start_timestamp": 1003,
+                    "stop_timestamp": 1023
+                },
+                {
+                    "secondary_subgoal": "Fill dish with water and pour out water",
+                    "start_timestamp": 1038,
+                    "stop_timestamp": 1152
+                },
+                {
+                    "secondary_subgoal": "Clean grater again",
+                    "start_timestamp": 1152,
+                    "stop_timestamp": 1376
+                },
+                {
+                    "secondary_subgoal": "Clean knife and put it in the cupboard",
+                    "start_timestamp": 1376,
+                    "stop_timestamp": 1705
+                },
+                {
+                    "secondary_subgoal": "Clean and put away the cutting board",
+                    "start_timestamp": 1705,
+                    "stop_timestamp": 1822
+                }
+            ]
+        },
+        {
+            "subgoal": "Move meat in the cooking pot",
+            "start_timestamp": 1848,
+            "stop_timestamp": 2352,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Uncover the cooking pot and stir meat with chop sticks",
+                    "start_timestamp": 1848,
+                    "stop_timestamp": 2275
+                },
+                {
+                    "secondary_subgoal": "Cover the cooking pot and adjust heat",
+                    "start_timestamp": 2322,
+                    "stop_timestamp": 2352
+                }
+            ]
+        },
+        {
+            "subgoal": "Perform hand hygiene and drink water",
+            "start_timestamp": 2400,
+            "stop_timestamp": 2854,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wipe hands on cloth and sigh",
+                    "start_timestamp": 2400,
+                    "stop_timestamp": 2671
+                },
+                {
+                    "secondary_subgoal": "Take and drink from the glass",
+                    "start_timestamp": 2671,
+                    "stop_timestamp": 2854
+                }
+            ]
+        },
+        {
+            "subgoal": "Final look at the cooking process and tidy up",
+            "start_timestamp": 3041,
+            "stop_timestamp": 4381,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Uncover cooking pot, look at meat, and cover cooking pot",
+                    "start_timestamp": 3041,
+                    "stop_timestamp": 3366
+                },
+                {
+                    "secondary_subgoal": "Clean the kitchen area",
+                    "start_timestamp": 3551,
+                    "stop_timestamp": 4163
+                },
+                {
+                    "secondary_subgoal": "Final check on meat",
+                    "start_timestamp": 4163,
+                    "stop_timestamp": 4381
+                }
+            ]
+        }
+    ]
+}

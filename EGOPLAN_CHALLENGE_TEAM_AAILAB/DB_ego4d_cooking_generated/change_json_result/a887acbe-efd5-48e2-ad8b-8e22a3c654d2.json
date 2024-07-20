@@ -1,0 +1,113 @@
+{
+    "overall_goal": "Prepare a meal and serve it on the table for consumption.",
+    "clips": [
+        {
+            "subgoal": "Prepare and store items in containers",
+            "start_timestamp": 0,
+            "stop_timestamp": 923,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold bottles",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 48
+                },
+                {
+                    "secondary_subgoal": "Open and use container",
+                    "start_timestamp": 48,
+                    "stop_timestamp": 560
+                },
+                {
+                    "secondary_subgoal": "Close container and store it in fridge",
+                    "start_timestamp": 560,
+                    "stop_timestamp": 923
+                }
+            ]
+        },
+        {
+            "subgoal": "Get items from the cabinet",
+            "start_timestamp": 923,
+            "stop_timestamp": 1578,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Close fridge and bring container to table",
+                    "start_timestamp": 923,
+                    "stop_timestamp": 1025
+                },
+                {
+                    "secondary_subgoal": "Get towels and bottle from the cabinet",
+                    "start_timestamp": 1025,
+                    "stop_timestamp": 1505
+                },
+                {
+                    "secondary_subgoal": "Get bowls from the cabinet",
+                    "start_timestamp": 1505,
+                    "stop_timestamp": 1578
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook food on the stove",
+            "start_timestamp": 1578,
+            "stop_timestamp": 8972,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Arrange and handle bowls",
+                    "start_timestamp": 1578,
+                    "stop_timestamp": 2100
+                },
+                {
+                    "secondary_subgoal": "Check and adjust heat on the stove",
+                    "start_timestamp": 2100,
+                    "stop_timestamp": 2370
+                },
+                {
+                    "secondary_subgoal": "Select and use cooking utensils",
+                    "start_timestamp": 2370,
+                    "stop_timestamp": 2746
+                },
+                {
+                    "secondary_subgoal": "Use chopsticks and turners",
+                    "start_timestamp": 2746,
+                    "stop_timestamp": 2972
+                },
+                {
+                    "secondary_subgoal": "Move items and adjust heat during cooking",
+                    "start_timestamp": 2972,
+                    "stop_timestamp": 8744
+                },
+                {
+                    "secondary_subgoal": "Serve finished meal from the pan",
+                    "start_timestamp": 8744,
+                    "stop_timestamp": 8972
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve food",
+            "start_timestamp": 8972,
+            "stop_timestamp": 14411,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Bring plate to table",
+                    "start_timestamp": 8972,
+                    "stop_timestamp": 13206
+                },
+                {
+                    "secondary_subgoal": "Set table with bowls",
+                    "start_timestamp": 13206,
+                    "stop_timestamp": 13544
+                },
+                {
+                    "secondary_subgoal": "Serve food from electric pressure cooker",
+                    "start_timestamp": 13544,
+                    "stop_timestamp": 14311
+                },
+                {
+                    "secondary_subgoal": "Adjust camera and finalize setup",
+                    "start_timestamp": 14311,
+                    "stop_timestamp": 14411
+                }
+            ]
+        }
+    ]
+}

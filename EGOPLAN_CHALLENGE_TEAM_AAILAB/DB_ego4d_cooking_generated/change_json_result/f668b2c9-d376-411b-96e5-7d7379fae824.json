@@ -1,0 +1,119 @@
+{
+    "overall_goal": "Preparing dough and tidying up the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Preparing the dough",
+            "start_timestamp": 83,
+            "stop_timestamp": 10158,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Placing the container and starting to knead the dough",
+                    "start_timestamp": 83,
+                    "stop_timestamp": 667
+                },
+                {
+                    "secondary_subgoal": "Handling the dough on the table",
+                    "start_timestamp": 667,
+                    "stop_timestamp": 839
+                },
+                {
+                    "secondary_subgoal": "Cutting and placing dough in the bucket",
+                    "start_timestamp": 839,
+                    "stop_timestamp": 975
+                },
+                {
+                    "secondary_subgoal": "Kneading dough again",
+                    "start_timestamp": 1006,
+                    "stop_timestamp": 1545
+                },
+                {
+                    "secondary_subgoal": "Speaking to children",
+                    "start_timestamp": 1545,
+                    "stop_timestamp": 1969
+                },
+                {
+                    "secondary_subgoal": "Handling dough and organizing the table",
+                    "start_timestamp": 1969,
+                    "stop_timestamp": 2574
+                },
+                {
+                    "secondary_subgoal": "Throwing the paper bag and general cleanup",
+                    "start_timestamp": 2574,
+                    "stop_timestamp": 3089
+                },
+                {
+                    "secondary_subgoal": "Sweeping the floor",
+                    "start_timestamp": 3452,
+                    "stop_timestamp": 3525
+                },
+                {
+                    "secondary_subgoal": "Handling the container",
+                    "start_timestamp": 3525,
+                    "stop_timestamp": 3670
+                },
+                {
+                    "secondary_subgoal": "More sweeping and tidying up",
+                    "start_timestamp": 3723,
+                    "stop_timestamp": 4240
+                },
+                {
+                    "secondary_subgoal": "Removing the paper bags and further cleaning",
+                    "start_timestamp": 4240,
+                    "stop_timestamp": 4852
+                },
+                {
+                    "secondary_subgoal": "Dragging the chair and sweeping the floor",
+                    "start_timestamp": 4852,
+                    "stop_timestamp": 5792
+                },
+                {
+                    "secondary_subgoal": "Cleaning with broom and cloth",
+                    "start_timestamp": 5792,
+                    "stop_timestamp": 6117
+                },
+                {
+                    "secondary_subgoal": "Setting the table cloth and adjusting things on the table",
+                    "start_timestamp": 6117,
+                    "stop_timestamp": 7267
+                },
+                {
+                    "secondary_subgoal": "Kneading dough again",
+                    "start_timestamp": 7267,
+                    "stop_timestamp": 7535
+                },
+                {
+                    "secondary_subgoal": "Picking and kneading dough multiple times",
+                    "start_timestamp": 7600,
+                    "stop_timestamp": 11598
+                },
+                {
+                    "secondary_subgoal": "Finalizing and dropping the dough",
+                    "start_timestamp": 11598,
+                    "stop_timestamp": 10158
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning up and interacting with environment",
+            "start_timestamp": 10158,
+            "stop_timestamp": 12407,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Dropping the bowl in the sink and walking around",
+                    "start_timestamp": 10158,
+                    "stop_timestamp": 10326
+                },
+                {
+                    "secondary_subgoal": "Looking and kneading the dough",
+                    "start_timestamp": 10532,
+                    "stop_timestamp": 11688
+                },
+                {
+                    "secondary_subgoal": "Interacting with the kids and cleaning up",
+                    "start_timestamp": 11688,
+                    "stop_timestamp": 12407
+                }
+            ]
+        }
+    ]
+}

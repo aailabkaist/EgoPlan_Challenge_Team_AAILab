@@ -1,0 +1,66 @@
+{
+    "overall_goal": "Prepare and store chopped coriander in the fridge.",
+    "clips": [
+        {
+            "subgoal": "Process coriander",
+            "start_timestamp": 43,
+            "stop_timestamp": 926,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and wash coriander",
+                    "start_timestamp": 43,
+                    "stop_timestamp": 383
+                },
+                {
+                    "secondary_subgoal": "Chop coriander",
+                    "start_timestamp": 383,
+                    "stop_timestamp": 876
+                },
+                {
+                    "secondary_subgoal": "Pick and close coriander dish",
+                    "start_timestamp": 876,
+                    "stop_timestamp": 926
+                }
+            ]
+        },
+        {
+            "subgoal": "Store coriander in the fridge",
+            "start_timestamp": 926,
+            "stop_timestamp": 1069,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move and open crisper drawer",
+                    "start_timestamp": 937,
+                    "stop_timestamp": 983
+                },
+                {
+                    "secondary_subgoal": "Put dish in crisper drawer",
+                    "start_timestamp": 983,
+                    "stop_timestamp": 1069
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up",
+            "start_timestamp": 1069,
+            "stop_timestamp": 1418,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Discard and move aside",
+                    "start_timestamp": 1069,
+                    "stop_timestamp": 1170
+                },
+                {
+                    "secondary_subgoal": "Rinse hands",
+                    "start_timestamp": 1170,
+                    "stop_timestamp": 1292
+                },
+                {
+                    "secondary_subgoal": "Move towards the plate",
+                    "start_timestamp": 1292,
+                    "stop_timestamp": 1418
+                }
+            ]
+        }
+    ]
+}

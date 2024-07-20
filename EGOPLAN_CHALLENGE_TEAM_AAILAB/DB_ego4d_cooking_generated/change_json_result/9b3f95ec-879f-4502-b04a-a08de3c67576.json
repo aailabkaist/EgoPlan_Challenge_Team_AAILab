@@ -1,0 +1,78 @@
+{
+    "overall_goal": "Prepare banana florets and male flowers for cooking by peeling and removing stamens.",
+    "clips": [
+        {
+            "subgoal": "Peel male flowers and remove the inner flowers, placing them on the table.",
+            "start_timestamp": "107",
+            "stop_timestamp": "7251",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel and remove inner flowers from a single male flower.",
+                    "start_timestamp": "107",
+                    "stop_timestamp": "1542"
+                },
+                {
+                    "secondary_subgoal": "Peel and remove inner flowers from subsequent male flowers.",
+                    "start_timestamp": "1572",
+                    "stop_timestamp": "7251"
+                }
+            ]
+        },
+        {
+            "subgoal": "Peel banana buds and remove male flowers from them.",
+            "start_timestamp": "7378",
+            "stop_timestamp": "8071",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Remove the banana bud.",
+                    "start_timestamp": "7378",
+                    "stop_timestamp": "7619"
+                },
+                {
+                    "secondary_subgoal": "Remove male flowers from the banana bud.",
+                    "start_timestamp": "7619",
+                    "stop_timestamp": "8071"
+                }
+            ]
+        },
+        {
+            "subgoal": "Peel banana florets and remove the stamens, placing them in a tray.",
+            "start_timestamp": "8572",
+            "stop_timestamp": "17269",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel and remove stamens from banana florets.",
+                    "start_timestamp": "8572",
+                    "stop_timestamp": "15780"
+                },
+                {
+                    "secondary_subgoal": "Sort and organize banana florets in a tray.",
+                    "start_timestamp": "15780",
+                    "stop_timestamp": "17269"
+                }
+            ]
+        },
+        {
+            "subgoal": "Spill the banana flowers and remove outer cover repeatedly in a bamboo basket.",
+            "start_timestamp": "17335",
+            "stop_timestamp": "23038",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick, spill, and place outer covers of banana flowers.",
+                    "start_timestamp": "17335",
+                    "stop_timestamp": "17813"
+                },
+                {
+                    "secondary_subgoal": "Pick from bamboo basket, spill, and cut the stalks.",
+                    "start_timestamp": "17813",
+                    "stop_timestamp": "21514"
+                },
+                {
+                    "secondary_subgoal": "Spill and put down the flowers together.",
+                    "start_timestamp": "21514",
+                    "stop_timestamp": "23038"
+                }
+            ]
+        }
+    ]
+}

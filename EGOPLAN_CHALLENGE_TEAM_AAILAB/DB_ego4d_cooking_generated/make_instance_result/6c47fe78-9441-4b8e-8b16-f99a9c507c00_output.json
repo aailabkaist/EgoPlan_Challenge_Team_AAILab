@@ -1,0 +1,1152 @@
+[
+    {
+        "task_goal": "Stir food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stares a food",
+                "start_frame": -1,
+                "stop_frame": 68
+            },
+            {
+                "narration_text": "#C C stirs a food",
+                "start_frame": 68,
+                "stop_frame": 84
+            },
+            {
+                "narration_text": "#O woman A stands in the room",
+                "start_frame": 84,
+                "stop_frame": 154
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk around and interact",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stirs a food",
+                "start_frame": 68,
+                "stop_frame": 84
+            },
+            {
+                "narration_text": "#O woman A stands in the room",
+                "start_frame": 84,
+                "stop_frame": 154
+            },
+            {
+                "narration_text": "#C C walks in the room",
+                "start_frame": 154,
+                "stop_frame": 234
+            },
+            {
+                "narration_text": "#C C picks a phone",
+                "start_frame": 234,
+                "stop_frame": 375
+            },
+            {
+                "narration_text": "#C C converse on a phone",
+                "start_frame": 375,
+                "stop_frame": 551
+            }
+        ]
+    },
+    {
+        "task_goal": "Talk on the phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a phone",
+                "start_frame": 234,
+                "stop_frame": 375
+            },
+            {
+                "narration_text": "#C C converse on a phone",
+                "start_frame": 375,
+                "stop_frame": 551
+            },
+            {
+                "narration_text": "#C C dials a phone",
+                "start_frame": 551,
+                "stop_frame": 640
+            }
+        ]
+    },
+    {
+        "task_goal": "Dial and place phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C converse on a phone",
+                "start_frame": 375,
+                "stop_frame": 551
+            },
+            {
+                "narration_text": "#C C dials a phone",
+                "start_frame": 551,
+                "stop_frame": 640
+            },
+            {
+                "narration_text": "#C C puts phone on the fridge",
+                "start_frame": 640,
+                "stop_frame": 753
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 753,
+                "stop_frame": 1040
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts phone on the fridge",
+                "start_frame": 640,
+                "stop_frame": 753
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 753,
+                "stop_frame": 1040
+            },
+            {
+                "narration_text": "#C C picks a bottle",
+                "start_frame": 1040,
+                "stop_frame": 1056
+            },
+            {
+                "narration_text": "#C C opens a bottle",
+                "start_frame": 1056,
+                "stop_frame": 1095
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and pour from bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a bottle",
+                "start_frame": 1040,
+                "stop_frame": 1056
+            },
+            {
+                "narration_text": "#C C opens a bottle",
+                "start_frame": 1056,
+                "stop_frame": 1095
+            },
+            {
+                "narration_text": "#C C pours water in a fry pan",
+                "start_frame": 1095,
+                "stop_frame": 1246
+            },
+            {
+                "narration_text": "#C C closes bottle",
+                "start_frame": 1246,
+                "stop_frame": 1289
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 1289,
+                "stop_frame": 1722
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes bottle",
+                "start_frame": 1246,
+                "stop_frame": 1289
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 1289,
+                "stop_frame": 1722
+            },
+            {
+                "narration_text": "#C C picks a bottle",
+                "start_frame": 1722,
+                "stop_frame": 1845
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and pour from bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 1289,
+                "stop_frame": 1722
+            },
+            {
+                "narration_text": "#C C picks a bottle",
+                "start_frame": 1722,
+                "stop_frame": 1845
+            },
+            {
+                "narration_text": "#C C pours in the food",
+                "start_frame": 1845,
+                "stop_frame": 1891
+            },
+            {
+                "narration_text": "#C C puts bottle down",
+                "start_frame": 1891,
+                "stop_frame": 1911
+            },
+            {
+                "narration_text": "#C C closes bottle",
+                "start_frame": 1911,
+                "stop_frame": 1958
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts bottle down",
+                "start_frame": 1891,
+                "stop_frame": 1911
+            },
+            {
+                "narration_text": "#C C closes bottle",
+                "start_frame": 1911,
+                "stop_frame": 1958
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 1958,
+                "stop_frame": 2486
+            },
+            {
+                "narration_text": "#C C converse",
+                "start_frame": 2486,
+                "stop_frame": 2582
+            },
+            {
+                "narration_text": "#C C picks a lid",
+                "start_frame": 2582,
+                "stop_frame": 2610
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and cover bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C converse",
+                "start_frame": 2486,
+                "stop_frame": 2582
+            },
+            {
+                "narration_text": "#C C picks a lid",
+                "start_frame": 2582,
+                "stop_frame": 2610
+            },
+            {
+                "narration_text": "#C C covers a bottle",
+                "start_frame": 2610,
+                "stop_frame": 2677
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 2677,
+                "stop_frame": 2807
+            },
+            {
+                "narration_text": "#O woman A converse",
+                "start_frame": 2807,
+                "stop_frame": 2886
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 2677,
+                "stop_frame": 2807
+            },
+            {
+                "narration_text": "#O woman A converse",
+                "start_frame": 2807,
+                "stop_frame": 2886
+            },
+            {
+                "narration_text": "#C C converse",
+                "start_frame": 2886,
+                "stop_frame": 3031
+            },
+            {
+                "narration_text": "#O woman A converse",
+                "start_frame": 3031,
+                "stop_frame": 3055
+            }
+        ]
+    },
+    {
+        "task_goal": "Converse",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C converse",
+                "start_frame": 2886,
+                "stop_frame": 3031
+            },
+            {
+                "narration_text": "#O woman A converse",
+                "start_frame": 3031,
+                "stop_frame": 3055
+            },
+            {
+                "narration_text": "#C C picks #unsure",
+                "start_frame": 3055,
+                "stop_frame": 3141
+            },
+            {
+                "narration_text": "#C C converse",
+                "start_frame": 3141,
+                "stop_frame": 3372
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and put food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks #unsure",
+                "start_frame": 3055,
+                "stop_frame": 3141
+            },
+            {
+                "narration_text": "#C C converse",
+                "start_frame": 3141,
+                "stop_frame": 3372
+            },
+            {
+                "narration_text": "#C C scoops food",
+                "start_frame": 3372,
+                "stop_frame": 3420
+            },
+            {
+                "narration_text": "#C C picks #unsure",
+                "start_frame": 3420,
+                "stop_frame": 3574
+            },
+            {
+                "narration_text": "#C C puts food food on the hand",
+                "start_frame": 3574,
+                "stop_frame": 3642
+            },
+            {
+                "narration_text": "#O woman A tastes a food",
+                "start_frame": 3642,
+                "stop_frame": 3808
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 3808,
+                "stop_frame": 3867
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#O woman A tastes a food",
+                "start_frame": 3642,
+                "stop_frame": 3808
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 3808,
+                "stop_frame": 3867
+            },
+            {
+                "narration_text": "#C C picks a bottle",
+                "start_frame": 3867,
+                "stop_frame": 3896
+            },
+            {
+                "narration_text": "#C C opens a lid",
+                "start_frame": 3896,
+                "stop_frame": 3942
+            },
+            {
+                "narration_text": "#C C scoops salt with spoon",
+                "start_frame": 3942,
+                "stop_frame": 4039
+            },
+            {
+                "narration_text": "#C C puts salt on food",
+                "start_frame": 4039,
+                "stop_frame": 4070
+            },
+            {
+                "narration_text": "#C C scoops salt with spoon",
+                "start_frame": 4070,
+                "stop_frame": 4149
+            }
+        ]
+    },
+    {
+        "task_goal": "Add salt",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C scoops salt with spoon",
+                "start_frame": 4070,
+                "stop_frame": 4149
+            },
+            {
+                "narration_text": "#C C puts salt on food",
+                "start_frame": 4149,
+                "stop_frame": 4178
+            },
+            {
+                "narration_text": "#C C closes bottle",
+                "start_frame": 4178,
+                "stop_frame": 4204
+            },
+            {
+                "narration_text": "#C C puts bottle down",
+                "start_frame": 4204,
+                "stop_frame": 4244
+            },
+            {
+                "narration_text": "#C C stairs food",
+                "start_frame": 4244,
+                "stop_frame": 4693
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts bottle down",
+                "start_frame": 4204,
+                "stop_frame": 4244
+            },
+            {
+                "narration_text": "#C C stairs food",
+                "start_frame": 4244,
+                "stop_frame": 4693
+            },
+            {
+                "narration_text": "#C C picks a bottle",
+                "start_frame": 4693,
+                "stop_frame": 4701
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and pour from bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stairs food",
+                "start_frame": 4244,
+                "stop_frame": 4693
+            },
+            {
+                "narration_text": "#C C picks a bottle",
+                "start_frame": 4693,
+                "stop_frame": 4701
+            },
+            {
+                "narration_text": "#C C opens bottle lid",
+                "start_frame": 4701,
+                "stop_frame": 4818
+            },
+            {
+                "narration_text": "#C C pours water in the food",
+                "start_frame": 4818,
+                "stop_frame": 4925
+            },
+            {
+                "narration_text": "#C C closes bottle",
+                "start_frame": 4925,
+                "stop_frame": 4953
+            },
+            {
+                "narration_text": "#C C puts bottle down",
+                "start_frame": 4953,
+                "stop_frame": 4987
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 4987,
+                "stop_frame": 5676
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts bottle down",
+                "start_frame": 4953,
+                "stop_frame": 4987
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 4987,
+                "stop_frame": 5676
+            },
+            {
+                "narration_text": "#C C touches stew",
+                "start_frame": 5676,
+                "stop_frame": 5699
+            },
+            {
+                "narration_text": "#C C taste a stew",
+                "start_frame": 5699,
+                "stop_frame": 5755
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 5755,
+                "stop_frame": 6058
+            },
+            {
+                "narration_text": "#C C walks in a room",
+                "start_frame": 6058,
+                "stop_frame": 6108
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk and interact with phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 5755,
+                "stop_frame": 6058
+            },
+            {
+                "narration_text": "#C C walks in a room",
+                "start_frame": 6058,
+                "stop_frame": 6108
+            },
+            {
+                "narration_text": "#C C picks a phone",
+                "start_frame": 6108,
+                "stop_frame": 6162
+            },
+            {
+                "narration_text": "#C C dials a phone",
+                "start_frame": 6162,
+                "stop_frame": 6213
+            },
+            {
+                "narration_text": "#C C converse on a phone",
+                "start_frame": 6213,
+                "stop_frame": 6286
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 6286,
+                "stop_frame": 6780
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C converse on a phone",
+                "start_frame": 6213,
+                "stop_frame": 6286
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 6286,
+                "stop_frame": 6780
+            },
+            {
+                "narration_text": "#O woman A seats on a chair",
+                "start_frame": 6780,
+                "stop_frame": 6865
+            },
+            {
+                "narration_text": "#C C picks a bottle",
+                "start_frame": 6865,
+                "stop_frame": 6938
+            },
+            {
+                "narration_text": "#C C puts bottle down",
+                "start_frame": 6938,
+                "stop_frame": 7059
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and pour from bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a bottle",
+                "start_frame": 6865,
+                "stop_frame": 6938
+            },
+            {
+                "narration_text": "#C C puts bottle down",
+                "start_frame": 6938,
+                "stop_frame": 7059
+            },
+            {
+                "narration_text": "#C C pours water on food",
+                "start_frame": 7059,
+                "stop_frame": 7109
+            },
+            {
+                "narration_text": "#C C puts bottle down",
+                "start_frame": 7109,
+                "stop_frame": 7184
+            },
+            {
+                "narration_text": "#C C closes bottle",
+                "start_frame": 7184,
+                "stop_frame": 7268
+            }
+        ]
+    },
+    {
+        "task_goal": "Close bottle and walk",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts bottle down",
+                "start_frame": 7109,
+                "stop_frame": 7184
+            },
+            {
+                "narration_text": "#C C closes bottle",
+                "start_frame": 7184,
+                "stop_frame": 7268
+            },
+            {
+                "narration_text": "#C C walks in a room",
+                "start_frame": 7268,
+                "stop_frame": 7310
+            },
+            {
+                "narration_text": "#C C puts phone the table",
+                "start_frame": 7310,
+                "stop_frame": 7350
+            },
+            {
+                "narration_text": "#C C walks in a room",
+                "start_frame": 7350,
+                "stop_frame": 7418
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 7418,
+                "stop_frame": 7726
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in a room",
+                "start_frame": 7350,
+                "stop_frame": 7418
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 7418,
+                "stop_frame": 7726
+            },
+            {
+                "narration_text": "#C C touches stew with finger",
+                "start_frame": 7726,
+                "stop_frame": 7749
+            },
+            {
+                "narration_text": "#C C tastes stew",
+                "start_frame": 7749,
+                "stop_frame": 7798
+            },
+            {
+                "narration_text": "#C C converse",
+                "start_frame": 7798,
+                "stop_frame": 7919
+            }
+        ]
+    },
+    {
+        "task_goal": "Taste stew",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C converse",
+                "start_frame": 7798,
+                "stop_frame": 7919
+            },
+            {
+                "narration_text": "#C C picks a bottle",
+                "start_frame": 7919,
+                "stop_frame": 7923
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick bottle and spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C converse",
+                "start_frame": 7798,
+                "stop_frame": 7919
+            },
+            {
+                "narration_text": "#C C picks a bottle",
+                "start_frame": 7919,
+                "stop_frame": 7923
+            },
+            {
+                "narration_text": "#C C picks a spoon",
+                "start_frame": 7923,
+                "stop_frame": 7995
+            },
+            {
+                "narration_text": "#C C puts spoon down",
+                "start_frame": 7995,
+                "stop_frame": 8000
+            },
+            {
+                "narration_text": "#C C picks a lid",
+                "start_frame": 8000,
+                "stop_frame": 8027
+            },
+            {
+                "narration_text": "#C C covers a bottle",
+                "start_frame": 8027,
+                "stop_frame": 8044
+            },
+            {
+                "narration_text": "#C C picks bottle",
+                "start_frame": 8044,
+                "stop_frame": 8261
+            }
+        ]
+    },
+    {
+        "task_goal": "Cover bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks bottle",
+                "start_frame": 8044,
+                "stop_frame": 8261
+            },
+            {
+                "narration_text": "#C C puts bottle down",
+                "start_frame": 8261,
+                "stop_frame": 8275
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food and pick pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks bottle",
+                "start_frame": 8044,
+                "stop_frame": 8261
+            },
+            {
+                "narration_text": "#C C puts bottle down",
+                "start_frame": 8261,
+                "stop_frame": 8275
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 8275,
+                "stop_frame": 8289
+            },
+            {
+                "narration_text": "#C C picks fry pan from gas cooker",
+                "start_frame": 8289,
+                "stop_frame": 8318
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 8318,
+                "stop_frame": 8642
+            },
+            {
+                "narration_text": "#c c places the pan of food on the cooker",
+                "start_frame": 8642,
+                "stop_frame": 8690
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle spice container and sachet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 8318,
+                "stop_frame": 8642
+            },
+            {
+                "narration_text": "#c c places the pan of food on the cooker",
+                "start_frame": 8642,
+                "stop_frame": 8690
+            },
+            {
+                "narration_text": "#c c takes the container of spice",
+                "start_frame": 8690,
+                "stop_frame": 8740
+            },
+            {
+                "narration_text": "#c c opens the container",
+                "start_frame": 8740,
+                "stop_frame": 8898
+            },
+            {
+                "narration_text": "#c c puts the container on the counter table",
+                "start_frame": 8898,
+                "stop_frame": 8965
+            },
+            {
+                "narration_text": "#c c takes #unsure",
+                "start_frame": 8965,
+                "stop_frame": 9017
+            },
+            {
+                "narration_text": "#c c walks back",
+                "start_frame": 9017,
+                "stop_frame": 9359
+            },
+            {
+                "narration_text": "#c c takes the sachet",
+                "start_frame": 9359,
+                "stop_frame": 9454
+            },
+            {
+                "narration_text": "#c c ties the sachet",
+                "start_frame": 9454,
+                "stop_frame": 9575
+            },
+            {
+                "narration_text": "#c c walks back",
+                "start_frame": 9575,
+                "stop_frame": 9643
+            },
+            {
+                "narration_text": "#c c opens the fridge",
+                "start_frame": 9643,
+                "stop_frame": 9695
+            },
+            {
+                "narration_text": "#c c places the sachet in the fridge",
+                "start_frame": 9695,
+                "stop_frame": 9732
+            },
+            {
+                "narration_text": "#c c closes the fridge",
+                "start_frame": 9732,
+                "stop_frame": 9778
+            },
+            {
+                "narration_text": "#c c walks back",
+                "start_frame": 9778,
+                "stop_frame": 9891
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk back and forth storing items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c closes the fridge",
+                "start_frame": 9732,
+                "stop_frame": 9778
+            },
+            {
+                "narration_text": "#c c walks back",
+                "start_frame": 9778,
+                "stop_frame": 9891
+            },
+            {
+                "narration_text": "#c c takes the container",
+                "start_frame": 9891,
+                "stop_frame": 10015
+            },
+            {
+                "narration_text": "#c c places the container in the drawer",
+                "start_frame": 10015,
+                "stop_frame": 10265
+            },
+            {
+                "narration_text": "#c c places the container on the shelve",
+                "start_frame": 10265,
+                "stop_frame": 10429
+            },
+            {
+                "narration_text": "#c c takes the sachet",
+                "start_frame": 10429,
+                "stop_frame": 10479
+            },
+            {
+                "narration_text": "#c c opens the cabinet",
+                "start_frame": 10479,
+                "stop_frame": 10562
+            },
+            {
+                "narration_text": "#c c places the sachet in the cabinet",
+                "start_frame": 10562,
+                "stop_frame": 10597
+            },
+            {
+                "narration_text": "#c c closes the cabinet",
+                "start_frame": 10597,
+                "stop_frame": 10672
+            },
+            {
+                "narration_text": "#c c mixes the food",
+                "start_frame": 10672,
+                "stop_frame": 10753
+            },
+            {
+                "narration_text": "#c c takes the bottle",
+                "start_frame": 10753,
+                "stop_frame": 10787
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix food and pour water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c mixes the food",
+                "start_frame": 10672,
+                "stop_frame": 10753
+            },
+            {
+                "narration_text": "#c c takes the bottle",
+                "start_frame": 10753,
+                "stop_frame": 10787
+            },
+            {
+                "narration_text": "#c c opens the bottle",
+                "start_frame": 10787,
+                "stop_frame": 10813
+            },
+            {
+                "narration_text": "#c c pours water in the food",
+                "start_frame": 10813,
+                "stop_frame": 10969
+            },
+            {
+                "narration_text": "#c c walks back",
+                "start_frame": 10969,
+                "stop_frame": 11185
+            },
+            {
+                "narration_text": "#c c puts the bottle in the cabinet",
+                "start_frame": 11185,
+                "stop_frame": 11280
+            },
+            {
+                "narration_text": "#c c walks back",
+                "start_frame": 11280,
+                "stop_frame": 11397
+            }
+        ]
+    },
+    {
+        "task_goal": "Store bottle in cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c puts the bottle in the cabinet",
+                "start_frame": 11185,
+                "stop_frame": 11280
+            },
+            {
+                "narration_text": "#c c walks back",
+                "start_frame": 11280,
+                "stop_frame": 11397
+            },
+            {
+                "narration_text": "#c c mixes the food",
+                "start_frame": 11397,
+                "stop_frame": 11596
+            },
+            {
+                "narration_text": "#c c walks back",
+                "start_frame": 11596,
+                "stop_frame": 11733
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix food and take plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c mixes the food",
+                "start_frame": 11397,
+                "stop_frame": 11596
+            },
+            {
+                "narration_text": "#c c walks back",
+                "start_frame": 11596,
+                "stop_frame": 11733
+            },
+            {
+                "narration_text": "#c c takes the plate",
+                "start_frame": 11733,
+                "stop_frame": 11923
+            },
+            {
+                "narration_text": "#c c walks back",
+                "start_frame": 11923,
+                "stop_frame": 12129
+            },
+            {
+                "narration_text": "#c c mixes the food",
+                "start_frame": 12129,
+                "stop_frame": 12670
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix food and pour on plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c walks back",
+                "start_frame": 11923,
+                "stop_frame": 12129
+            },
+            {
+                "narration_text": "#c c mixes the food",
+                "start_frame": 12129,
+                "stop_frame": 12670
+            },
+            {
+                "narration_text": "#c c pours food on the plate",
+                "start_frame": 12670,
+                "stop_frame": 13562
+            },
+            {
+                "narration_text": "#c c puts the frying pan aside",
+                "start_frame": 13562,
+                "stop_frame": 13691
+            },
+            {
+                "narration_text": "#c c wipes the lid",
+                "start_frame": 13691,
+                "stop_frame": 13726
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean up and cover container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c puts the frying pan aside",
+                "start_frame": 13562,
+                "stop_frame": 13691
+            },
+            {
+                "narration_text": "#c c wipes the lid",
+                "start_frame": 13691,
+                "stop_frame": 13726
+            },
+            {
+                "narration_text": "#c c covers the container",
+                "start_frame": 13726,
+                "stop_frame": 13802
+            },
+            {
+                "narration_text": "#c c puts the container aside",
+                "start_frame": 13802,
+                "stop_frame": 14084
+            },
+            {
+                "narration_text": "#c c walks back",
+                "start_frame": 14084,
+                "stop_frame": 14214
+            },
+            {
+                "narration_text": "#c c takes the lid",
+                "start_frame": 14214,
+                "stop_frame": 14256
+            }
+        ]
+    },
+    {
+        "task_goal": "Final clean-up and wrapping up",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c walks back",
+                "start_frame": 14084,
+                "stop_frame": 14214
+            },
+            {
+                "narration_text": "#c c takes the lid",
+                "start_frame": 14214,
+                "stop_frame": 14256
+            },
+            {
+                "narration_text": "#c c walks back",
+                "start_frame": 14256,
+                "stop_frame": 14372
+            },
+            {
+                "narration_text": "#c c covers the frying pan",
+                "start_frame": 14372,
+                "stop_frame": 14437
+            },
+            {
+                "narration_text": "#c c adjusts the camera",
+                "start_frame": 14437,
+                "stop_frame": 14537
+            }
+        ]
+    },
+    {
+        "task_goal": "Cover frying pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c walks back",
+                "start_frame": 14084,
+                "stop_frame": 14214
+            },
+            {
+                "narration_text": "#c c takes the lid",
+                "start_frame": 14214,
+                "stop_frame": 14256
+            },
+            {
+                "narration_text": "#c c walks back",
+                "start_frame": 14256,
+                "stop_frame": 14372
+            },
+            {
+                "narration_text": "#c c covers the frying pan",
+                "start_frame": 14372,
+                "stop_frame": 14437
+            },
+            {
+                "narration_text": "#c c adjusts the camera",
+                "start_frame": 14437,
+                "stop_frame": 14537
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjust the camera",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c covers the frying pan",
+                "start_frame": 14372,
+                "stop_frame": 14437
+            },
+            {
+                "narration_text": "#c c adjusts the camera",
+                "start_frame": 14437,
+                "stop_frame": 14537
+            }
+        ]
+    }
+]

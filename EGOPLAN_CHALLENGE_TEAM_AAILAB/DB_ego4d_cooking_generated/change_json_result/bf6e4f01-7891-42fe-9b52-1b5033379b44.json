@@ -1,0 +1,120 @@
+{
+    "overall_goal": "C prepares a dish by cutting bread, gathering ingredients, mixing them, and seasoning the food",
+    "clips": [
+        {
+            "subgoal": "Cutting and preparing bread",
+            "start_timestamp": "13",
+            "stop_timestamp": "2422",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking up and placing phone and pliers",
+                    "start_timestamp": "13",
+                    "stop_timestamp": "255"
+                },
+                {
+                    "secondary_subgoal": "Preparing pliers and knife",
+                    "start_timestamp": "255",
+                    "stop_timestamp": "998"
+                },
+                {
+                    "secondary_subgoal": "Cutting bread with a knife",
+                    "start_timestamp": "1113",
+                    "stop_timestamp": "2075"
+                },
+                {
+                    "secondary_subgoal": "Picking and transferring bread pieces to a bowl",
+                    "start_timestamp": "2075",
+                    "stop_timestamp": "2422"
+                }
+            ]
+        },
+        {
+            "subgoal": "Gathering and preparing further ingredients",
+            "start_timestamp": "2422",
+            "stop_timestamp": "3657",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening fridge and gathering ingredients",
+                    "start_timestamp": "2671",
+                    "stop_timestamp": "2956"
+                },
+                {
+                    "secondary_subgoal": "Breaking and placing eggs in a bowl",
+                    "start_timestamp": "3306",
+                    "stop_timestamp": "3600"
+                },
+                {
+                    "secondary_subgoal": "Moving around and washing hands",
+                    "start_timestamp": "3762",
+                    "stop_timestamp": "4031"
+                }
+            ]
+        },
+        {
+            "subgoal": "Trash management and preparation for mixing",
+            "start_timestamp": "4031",
+            "stop_timestamp": "8749",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking and cutting trash paper",
+                    "start_timestamp": "4074",
+                    "stop_timestamp": "4277"
+                },
+                {
+                    "secondary_subgoal": "Aligning and disposing of trash paper",
+                    "start_timestamp": "4500",
+                    "stop_timestamp": "4943"
+                },
+                {
+                    "secondary_subgoal": "Stirring ingredients and more food preparation",
+                    "start_timestamp": "5008",
+                    "stop_timestamp": "7170"
+                },
+                {
+                    "secondary_subgoal": "Washing hands and dishes",
+                    "start_timestamp": "7855",
+                    "stop_timestamp": "8749"
+                }
+            ]
+        },
+        {
+            "subgoal": "Mixing ingredients and final preparations",
+            "start_timestamp": "9769",
+            "stop_timestamp": "15467",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Smashing and stirring food",
+                    "start_timestamp": "9769",
+                    "stop_timestamp": "16509"
+                },
+                {
+                    "secondary_subgoal": "Covering and organizing",
+                    "start_timestamp": "17082",
+                    "stop_timestamp": "17466"
+                },
+                {
+                    "secondary_subgoal": "Transferring food between bowls",
+                    "start_timestamp": "18257",
+                    "stop_timestamp": "24995"
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding cheese and final touches",
+            "start_timestamp": "25108",
+            "stop_timestamp": "31971",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking and preparing cheese",
+                    "start_timestamp": "25108",
+                    "stop_timestamp": "28511"
+                },
+                {
+                    "secondary_subgoal": "Adding butter and adjusting final ingredients",
+                    "start_timestamp": "29320",
+                    "stop_timestamp": "31971"
+                }
+            ]
+        }
+    ]
+}

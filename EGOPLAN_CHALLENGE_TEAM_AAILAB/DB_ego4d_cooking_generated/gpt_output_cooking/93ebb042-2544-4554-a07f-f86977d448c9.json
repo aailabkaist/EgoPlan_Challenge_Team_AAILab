@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfmQM4wnlb5Ww9gS4s0NQGQdKsXu",
+    "object": "chat.completion",
+    "created": 1719242422,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Wash and clean various kitchen items including dishes, utensils, and cookware using a dish cloth, water, and soap.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare dish cloth for washing\",\n      \"start_timestamp\": 33,\n      \"stop_timestamp\": 183,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and wet dish cloth\",\n          \"start_timestamp\": 33,\n          \"stop_timestamp\": 81\n        },\n        {\n          \"secondary_subgoal\": \"Add soap to dish cloth\",\n          \"start_timestamp\": 108,\n          \"stop_timestamp\": 166\n        },\n        {\n          \"secondary_subgoal\": \"Place soap back\",\n          \"start_timestamp\": 166,\n          \"stop_timestamp\": 183\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Wash various utensils\",\n      \"start_timestamp\": 219,\n      \"stop_timestamp\": 322,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash a chopstick\",\n          \"start_timestamp\": 219,\n          \"stop_timestamp\": 295\n        },\n        {\n          \"secondary_subgoal\": \"Wash a spoon\",\n          \"start_timestamp\": 315,\n          \"stop_timestamp\": 392\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Wash plates\",\n      \"start_timestamp\": 408,\n      \"stop_timestamp\": 2233,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Hold and wash plates\",\n          \"start_timestamp\": 408,\n          \"stop_timestamp\": 2233\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Wash compartment serving plates\",\n      \"start_timestamp\": 2285,\n      \"stop_timestamp\": 3074,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash the first compartment serving plate\",\n          \"start_timestamp\": 2285,\n          \"stop_timestamp\": 2667\n        },\n        {\n          \"secondary_subgoal\": \"Wash the second compartment serving plate\",\n          \"start_timestamp\": 2695,\n          \"stop_timestamp\": 3027\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Wash and place metal items\",\n      \"start_timestamp\": 3375,\n      \"stop_timestamp\": 6624,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash the strainer\",\n          \"start_timestamp\": 3375,\n          \"stop_timestamp\": 3626\n        },\n        {\n          \"secondary_subgoal\": \"Wash the metal bowl\",\n          \"start_timestamp\": 3641,\n          \"stop_timestamp\": 3878\n        },\n        {\n          \"secondary_subgoal\": \"Wash water glasses\",\n          \"start_timestamp\": 3911,\n          \"stop_timestamp\": 4729\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Re-wash using a fresh dish cloth\",\n      \"start_timestamp\": 5319,\n      \"stop_timestamp\": 5745,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare fresh dish cloth\",\n          \"start_timestamp\": 5607,\n          \"stop_timestamp\": 5745\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Wash various items\",\n      \"start_timestamp\": 6686,\n      \"stop_timestamp\": 10452,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash saucer, cups, plates, and glasses\",\n          \"start_timestamp\": 6686,\n          \"stop_timestamp\": 8450\n        },\n        {\n          \"secondary_subgoal\": \"Wash and place the fork and bowl\",\n          \"start_timestamp\": 8585,\n          \"stop_timestamp\": 9400\n        },\n        {\n          \"secondary_subgoal\": \"Wash knife, chopping board, rack, and other glass items\",\n          \"start_timestamp\": 9482,\n          \"stop_timestamp\": 10452\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final rinse and dry items\",\n      \"start_timestamp\": 13249,\n      \"stop_timestamp\": 21205,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Rinse and dry various items\",\n          \"start_timestamp\": 13183,\n          \"stop_timestamp\": 21205\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4407,
+        "completion_tokens": 931,
+        "total_tokens": 5338
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehhkziCh4SjczSoTXwBjDoD0pbYI",
+    "object": "chat.completion",
+    "created": 1719488148,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Sorting and preparing vegetables for further use.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Adjust the camera and prepare to pick vegetables.\",\n      \"start_timestamp\": 204,\n      \"stop_timestamp\": 1077,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Look outside and adjust the camera.\",\n          \"start_timestamp\": 204,\n          \"stop_timestamp\": 1077\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Picking and sorting vegetables.\",\n      \"start_timestamp\": 1077,\n      \"stop_timestamp\": 3699,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and transfer vegetables between hands.\",\n          \"start_timestamp\": 1077,\n          \"stop_timestamp\": 3670\n        },\n        {\n          \"secondary_subgoal\": \"Sort the vegetables and put some down.\",\n          \"start_timestamp\": 3670,\n          \"stop_timestamp\": 3699\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Continue sorting and processing vegetables.\",\n      \"start_timestamp\": 3699,\n      \"stop_timestamp\": 4914,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and transfer vegetables.\",\n          \"start_timestamp\": 3699,\n          \"stop_timestamp\": 4367\n        },\n        {\n          \"secondary_subgoal\": \"Put vegetables in the basket, and cut sticks on vegetables.\",\n          \"start_timestamp\": 4367,\n          \"stop_timestamp\": 4914\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Interact with the vegetable basket and metal rod.\",\n      \"start_timestamp\": 4914,\n      \"stop_timestamp\": 5223,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Take, put down the vegetable basket, and interact with the metal rod.\",\n          \"start_timestamp\": 4914,\n          \"stop_timestamp\": 5223\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up vegetable sticks and area.\",\n      \"start_timestamp\": 5223,\n      \"stop_timestamp\": 5934,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Take vegetable sticks and put them in the basin.\",\n          \"start_timestamp\": 5223,\n          \"stop_timestamp\": 5618\n        },\n        {\n          \"secondary_subgoal\": \"Wipe ground, collect and put vegetable sticks in basin.\",\n          \"start_timestamp\": 5618,\n          \"stop_timestamp\": 5874\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finalize preparation of the vegetables.\",\n      \"start_timestamp\": 5874,\n      \"stop_timestamp\": 6140,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Take vegetables basket and vegetables.\",\n          \"start_timestamp\": 5874,\n          \"stop_timestamp\": 6040\n        },\n        {\n          \"secondary_subgoal\": \"Adjust the camera again.\",\n          \"start_timestamp\": 6040,\n          \"stop_timestamp\": 6140\n        }\n      ]\n    }\n  ]\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1576,
+        "completion_tokens": 667,
+        "total_tokens": 2243
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

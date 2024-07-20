@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9demA24NpX0ymIFyRtETMF4Ldrqnw",
+    "object": "chat.completion",
+    "created": 1719238562,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Clean the pea pods and prepare them for cooking\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Retrieve scissors and pea pods\",\n            \"start_timestamp\": 8,\n            \"stop_timestamp\": 206,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Retrieve scissors\",\n                    \"start_timestamp\": 8,\n                    \"stop_timestamp\": 174\n                },\n                {\n                    \"secondary_subgoal\": \"Pick a pea pod\",\n                    \"start_timestamp\": 174,\n                    \"stop_timestamp\": 206\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Cut and place pea pods in the bowl\",\n            \"start_timestamp\": 206,\n            \"stop_timestamp\": 14516,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Cut a pea pod\",\n                    \"start_timestamp\": 206,\n                    \"stop_timestamp\": 2408\n                },\n                {\n                    \"secondary_subgoal\": \"Categorical cuts and placements of pea pods\",\n                    \"start_timestamp\": 2408,\n                    \"stop_timestamp\": 14516\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Clean kitchen tools and area\",\n            \"start_timestamp\": 14516,\n            \"stop_timestamp\": 17961,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Wash the scissors and sieve\",\n                    \"start_timestamp\": 14516,\n                    \"stop_timestamp\": 15676\n                },\n                {\n                    \"secondary_subgoal\": \"Clean the area around the sink\",\n                    \"start_timestamp\": 15676,\n                    \"stop_timestamp\": 17840\n                },\n                {\n                    \"secondary_subgoal\": \"Regulate cooker heat and prepare cooking\",\n                    \"start_timestamp\": 17840,\n                    \"stop_timestamp\": 17961\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Add pea pods to the cooking pot\",\n            \"start_timestamp\": 17961,\n            \"stop_timestamp\": 18336,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Add pea pods to cooking pot\",\n                    \"start_timestamp\": 17961,\n                    \"stop_timestamp\": 18336\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Wash the cutting board and hands\",\n            \"start_timestamp\": 18336,\n            \"stop_timestamp\": 19207,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Wash cutting board and nearby items\",\n                    \"start_timestamp\": 18336,\n                    \"stop_timestamp\": 18738\n                },\n                {\n                    \"secondary_subgoal\": \"Wash hands and move items\",\n                    \"start_timestamp\": 18738,\n                    \"stop_timestamp\": 19207\n                }\n            ]\n        }\n    ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7471,
+        "completion_tokens": 595,
+        "total_tokens": 8066
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

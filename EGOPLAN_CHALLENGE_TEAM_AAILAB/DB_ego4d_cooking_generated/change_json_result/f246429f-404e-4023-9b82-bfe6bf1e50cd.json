@@ -1,0 +1,221 @@
+{
+    "overall_goal": "Prepare and cook food items for a meal using various elements such as vegetables, meat, and a blender.",
+    "clips": [
+        {
+            "subgoal": "Walk around the room and operate a phone.",
+            "start_timestamp": 86,
+            "stop_timestamp": 486,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk around the room.",
+                    "start_timestamp": 86,
+                    "stop_timestamp": 181
+                },
+                {
+                    "secondary_subgoal": "Operate a phone.",
+                    "start_timestamp": 181,
+                    "stop_timestamp": 486
+                }
+            ]
+        },
+        {
+            "subgoal": "Season and handle beef.",
+            "start_timestamp": 486,
+            "stop_timestamp": 3492,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look at the table.",
+                    "start_timestamp": 486,
+                    "stop_timestamp": 675
+                },
+                {
+                    "secondary_subgoal": "Take meat from the table.",
+                    "start_timestamp": 675,
+                    "stop_timestamp": 827
+                },
+                {
+                    "secondary_subgoal": "Put salt in the hand.",
+                    "start_timestamp": 827,
+                    "stop_timestamp": 882
+                },
+                {
+                    "secondary_subgoal": "Sprinkle salt on the beef.",
+                    "start_timestamp": 882,
+                    "stop_timestamp": 1635
+                },
+                {
+                    "secondary_subgoal": "Look around the room.",
+                    "start_timestamp": 1635,
+                    "stop_timestamp": 1750
+                },
+                {
+                    "secondary_subgoal": "Take beef from the package.",
+                    "start_timestamp": 1750,
+                    "stop_timestamp": 1946
+                },
+                {
+                    "secondary_subgoal": "Sprinkle salt on the beef.",
+                    "start_timestamp": 2140,
+                    "stop_timestamp": 2361
+                },
+                {
+                    "secondary_subgoal": "Remove spectacles from woman X.",
+                    "start_timestamp": 2361,
+                    "stop_timestamp": 2457
+                },
+                {
+                    "secondary_subgoal": "Sprinkle salt on the beef.",
+                    "start_timestamp": 2548,
+                    "stop_timestamp": 2933
+                },
+                {
+                    "secondary_subgoal": "Hold the beef.",
+                    "start_timestamp": 3186,
+                    "stop_timestamp": 3492
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash and clean tools.",
+            "start_timestamp": 3942,
+            "stop_timestamp": 6091,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open tap.",
+                    "start_timestamp": 3942,
+                    "stop_timestamp": 4612
+                },
+                {
+                    "secondary_subgoal": "Wash chop board.",
+                    "start_timestamp": 4612,
+                    "stop_timestamp": 4859
+                },
+                {
+                    "secondary_subgoal": "Wash hands.",
+                    "start_timestamp": 5633,
+                    "stop_timestamp": 5812
+                },
+                {
+                    "secondary_subgoal": "Wipe the chopping board.",
+                    "start_timestamp": 5884,
+                    "stop_timestamp": 6091
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare a glass and do other house activities.",
+            "start_timestamp": 7650,
+            "stop_timestamp": 8786,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open a cabinet.",
+                    "start_timestamp": 7650,
+                    "stop_timestamp": 7713
+                },
+                {
+                    "secondary_subgoal": "Take a glass from the cabinet.",
+                    "start_timestamp": 7713,
+                    "stop_timestamp": 7986
+                },
+                {
+                    "secondary_subgoal": "Put a glass on the table.",
+                    "start_timestamp": 8615,
+                    "stop_timestamp": 8786
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare vegetables for the blender.",
+            "start_timestamp": 9254,
+            "stop_timestamp": 25488,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Use a knife.",
+                    "start_timestamp": 9254,
+                    "stop_timestamp": 9424
+                },
+                {
+                    "secondary_subgoal": "Cut coriander for S.",
+                    "start_timestamp": 9624,
+                    "stop_timestamp": 10303
+                },
+                {
+                    "secondary_subgoal": "Put some vegetable in the blender.",
+                    "start_timestamp": 10818,
+                    "stop_timestamp": 11009
+                },
+                {
+                    "secondary_subgoal": "Add more vegetables to the blender.",
+                    "start_timestamp": 14680,
+                    "stop_timestamp": 21202
+                },
+                {
+                    "secondary_subgoal": "Continue putting vegetables in the blender.",
+                    "start_timestamp": 24806,
+                    "stop_timestamp": 25488
+                }
+            ]
+        },
+        {
+            "subgoal": "Continue handling vegetables and preparing them in the kitchen.",
+            "start_timestamp": 25488,
+            "stop_timestamp": 49663,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Continue putting vegetables in the blender with the help of others.",
+                    "start_timestamp": 25488,
+                    "stop_timestamp": 40486
+                },
+                {
+                    "secondary_subgoal": "Interacts with woman X and assists in blending parsley.",
+                    "start_timestamp": 41481,
+                    "stop_timestamp": 44696
+                },
+                {
+                    "secondary_subgoal": "Woman X chops tomatoes and interacts with C.",
+                    "start_timestamp": 45652,
+                    "stop_timestamp": 49663
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare additional vegetables.",
+            "start_timestamp": 50195,
+            "stop_timestamp": 51834,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Person X cuts vegetables.",
+                    "start_timestamp": 50195,
+                    "stop_timestamp": 50649
+                },
+                {
+                    "secondary_subgoal": "C removes vegetables and looks around the kitchen.",
+                    "start_timestamp": 50649,
+                    "stop_timestamp": 51182
+                },
+                {
+                    "secondary_subgoal": "Person X puts vegetable in the cooking pot.",
+                    "start_timestamp": 51444,
+                    "stop_timestamp": 51834
+                }
+            ]
+        },
+        {
+            "subgoal": "Proceed to the grill.",
+            "start_timestamp": 52497,
+            "stop_timestamp": 53681,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk around and open grill.",
+                    "start_timestamp": 52497,
+                    "stop_timestamp": 53198
+                },
+                {
+                    "secondary_subgoal": "Turn meat on the grill and adjust the grill.",
+                    "start_timestamp": 53545,
+                    "stop_timestamp": 53681
+                }
+            ]
+        }
+    ]
+}

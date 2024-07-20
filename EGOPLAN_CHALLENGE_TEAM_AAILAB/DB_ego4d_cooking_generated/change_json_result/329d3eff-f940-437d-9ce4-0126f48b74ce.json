@@ -1,0 +1,71 @@
+{
+    "overall_goal": "Prepare a meal and clean the kitchen afterward.",
+    "clips": [
+        {
+            "subgoal": "Preparation of ingredients and setting up the cooking environment.",
+            "start_timestamp": 0,
+            "stop_timestamp": 1387,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gathering equipment and initial setup activities in the kitchen.",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 845
+                },
+                {
+                    "secondary_subgoal": "Preparing items for cooking.",
+                    "start_timestamp": 845,
+                    "stop_timestamp": 1387
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking and combining ingredients.",
+            "start_timestamp": 1387,
+            "stop_timestamp": 9579,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Setting up and washing items for cooking.",
+                    "start_timestamp": 1387,
+                    "stop_timestamp": 1940
+                },
+                {
+                    "secondary_subgoal": "Chopping and processing ingredients.",
+                    "start_timestamp": 1940,
+                    "stop_timestamp": 3072
+                },
+                {
+                    "secondary_subgoal": "Mixing and combining ingredients in the cooking pot.",
+                    "start_timestamp": 3072,
+                    "stop_timestamp": 4432
+                },
+                {
+                    "secondary_subgoal": "Adding additional ingredients and preparing for cooking process.",
+                    "start_timestamp": 4432,
+                    "stop_timestamp": 5913
+                },
+                {
+                    "secondary_subgoal": "Continuing to chop, mix, and prepare ingredients.",
+                    "start_timestamp": 5913,
+                    "stop_timestamp": 9579
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning and arranging the kitchen.",
+            "start_timestamp": 9579,
+            "stop_timestamp": 21338,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning utensils and kitchen items used during cooking.",
+                    "start_timestamp": 9579,
+                    "stop_timestamp": 17234
+                },
+                {
+                    "secondary_subgoal": "Storing cooked food items and completing the cleaning process.",
+                    "start_timestamp": 17234,
+                    "stop_timestamp": 21338
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgkC1wLtOz5QJW7QwzcnZfLYveet",
+    "object": "chat.completion",
+    "created": 1719246128,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and cooking a dish involving stirring and combining various ingredients\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing turmeric mixture and cooking\",\n      \"start_timestamp\": 1,\n      \"stop_timestamp\": 3017,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Opening jar and cutting turmeric packet\",\n          \"start_timestamp\": 1,\n          \"stop_timestamp\": 369\n        },\n        {\n          \"secondary_subgoal\": \"Pouring turmeric powder into the wok\",\n          \"start_timestamp\": 369,\n          \"stop_timestamp\": 598\n        },\n        {\n          \"secondary_subgoal\": \"Adding paste to the wok and storing\",\n          \"start_timestamp\": 643,\n          \"stop_timestamp\": 970\n        },\n        {\n          \"secondary_subgoal\": \"Stirring contents in the wok and lighting the cooker\",\n          \"start_timestamp\": 1053,\n          \"stop_timestamp\": 1260\n        },\n        {\n          \"secondary_subgoal\": \"Stirring content while cooking\",\n          \"start_timestamp\": 1335,\n          \"stop_timestamp\": 2147\n        },\n        {\n          \"secondary_subgoal\": \"Turning off the cooker and transferring content\",\n          \"start_timestamp\": 3017,\n          \"stop_timestamp\": 3110\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking and stirring milk mixture\",\n      \"start_timestamp\": 3301,\n      \"stop_timestamp\": 54872,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pouring content into pot with milk and stirring\",\n          \"start_timestamp\": 3301,\n          \"stop_timestamp\": 3742\n        },\n        {\n          \"secondary_subgoal\": \"Scooping and pouring milk content repeatedly\",\n          \"start_timestamp\": 3742,\n          \"stop_timestamp\": 8690\n        },\n        {\n          \"secondary_subgoal\": \"Continuing to stir and scoop milk mixture\",\n          \"start_timestamp\": 9069,\n          \"stop_timestamp\": 16578\n        },\n        {\n          \"secondary_subgoal\": \"Adjusting the cooking process and stirring\",\n          \"start_timestamp\": 17166,\n          \"stop_timestamp\": 22281\n        },\n        {\n          \"secondary_subgoal\": \"Continuing to stir and monitor mixture\",\n          \"start_timestamp\": 22493,\n          \"stop_timestamp\": 34176\n        },\n        {\n          \"secondary_subgoal\": \"Assisting other people while cooking\",\n          \"start_timestamp\": 34494,\n          \"stop_timestamp\": 55865\n        },\n        {\n          \"secondary_subgoal\": \"Final stirring and checking the mixture\",\n          \"start_timestamp\": 56149,\n          \"stop_timestamp\": 54872\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking the soup and adding cream\",\n      \"start_timestamp\": 57777,\n      \"stop_timestamp\": 13095,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stirring soup and adding cream incrementally\",\n          \"start_timestamp\": 57777,\n          \"stop_timestamp\": 69266\n        },\n        {\n          \"secondary_subgoal\": \"Tasting and adjusting the soup\",\n          \"start_timestamp\": 69422,\n          \"stop_timestamp\": 69507\n        },\n        {\n          \"secondary_subgoal\": \"Further stirring and scraping cream\",\n          \"start_timestamp\": 69971,\n          \"stop_timestamp\": 74510\n        },\n        {\n          \"secondary_subgoal\": \"Stirring soup continuously and tasting\",\n          \"start_timestamp\": 71969,\n          \"stop_timestamp\": 78538\n        },\n        {\n          \"secondary_subgoal\": \"Stirring the pot and interacting with others\",\n          \"start_timestamp\": 75252,\n          \"stop_timestamp\": 85637\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 13281,
+        "completion_tokens": 824,
+        "total_tokens": 14105
+    },
+    "system_fingerprint": "fp_5e6c71d4a8"
+}

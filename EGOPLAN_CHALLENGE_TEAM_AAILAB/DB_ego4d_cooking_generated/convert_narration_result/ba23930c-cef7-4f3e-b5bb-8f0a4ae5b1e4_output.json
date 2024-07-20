@@ -1,0 +1,677 @@
+[
+    {
+        "task_goal": "Set up the cooking workspace",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Operates the phone",
+                "start_frame": 1,
+                "stop_frame": 64
+            },
+            {
+                "narration_text": "Puts the phone on the counter top",
+                "start_frame": 64,
+                "stop_frame": 146
+            },
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 146,
+                "stop_frame": 226
+            },
+            {
+                "narration_text": "Removes the chopping board from the cabinet",
+                "start_frame": 226,
+                "stop_frame": 272
+            },
+            {
+                "narration_text": "Puts the chopping board on the counter top",
+                "start_frame": 272,
+                "stop_frame": 273
+            },
+            {
+                "narration_text": "Removes another chopping board from the cabinet",
+                "start_frame": 273,
+                "stop_frame": 381
+            },
+            {
+                "narration_text": "Puts the chopping board on the counter top",
+                "start_frame": 381,
+                "stop_frame": 452
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 452,
+                "stop_frame": 541
+            },
+            {
+                "narration_text": "Picks knives from the drawer",
+                "start_frame": 541,
+                "stop_frame": 706
+            },
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 706,
+                "stop_frame": 769
+            },
+            {
+                "narration_text": "Passes person x one knife",
+                "start_frame": 769,
+                "stop_frame": 813
+            }
+        ]
+    },
+    {
+        "task_goal": "Operate mobile phone and place it on the counter",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Operates the phone",
+                "start_frame": 1,
+                "stop_frame": 64
+            },
+            {
+                "narration_text": "Puts the phone on the counter top",
+                "start_frame": 64,
+                "stop_frame": 146
+            },
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 146,
+                "stop_frame": 226
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve and place chopping boards on the counter",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the phone on the counter top",
+                "start_frame": 64,
+                "stop_frame": 146
+            },
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 146,
+                "stop_frame": 226
+            },
+            {
+                "narration_text": "Removes the chopping board from the cabinet",
+                "start_frame": 226,
+                "stop_frame": 272
+            },
+            {
+                "narration_text": "Puts the chopping board on the counter top",
+                "start_frame": 272,
+                "stop_frame": 273
+            },
+            {
+                "narration_text": "Removes another chopping board from the cabinet",
+                "start_frame": 273,
+                "stop_frame": 381
+            },
+            {
+                "narration_text": "Puts the chopping board on the counter top",
+                "start_frame": 381,
+                "stop_frame": 452
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 452,
+                "stop_frame": 541
+            }
+        ]
+    },
+    {
+        "task_goal": "Select and arrange knives",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the chopping board on the counter top",
+                "start_frame": 381,
+                "stop_frame": 452
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 452,
+                "stop_frame": 541
+            },
+            {
+                "narration_text": "Picks knives from the drawer",
+                "start_frame": 541,
+                "stop_frame": 706
+            },
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 706,
+                "stop_frame": 769
+            },
+            {
+                "narration_text": "Passes person x one knife",
+                "start_frame": 769,
+                "stop_frame": 813
+            }
+        ]
+    },
+    {
+        "task_goal": "Knife sharpening and initial setup",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 706,
+                "stop_frame": 769
+            },
+            {
+                "narration_text": "Passes person x one knife",
+                "start_frame": 769,
+                "stop_frame": 813
+            },
+            {
+                "narration_text": "Person x holds the knife",
+                "start_frame": 813,
+                "stop_frame": 840
+            },
+            {
+                "narration_text": "Sharpens the knife with the steel knife sharpener",
+                "start_frame": 840,
+                "stop_frame": 1200
+            },
+            {
+                "narration_text": "Person x opens the drawer",
+                "start_frame": 1200,
+                "stop_frame": 1223
+            },
+            {
+                "narration_text": "Puts the knife on the chopping board",
+                "start_frame": 1223,
+                "stop_frame": 1257
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 1257,
+                "stop_frame": 1313
+            },
+            {
+                "narration_text": "Puts the steel knife sharpener in the drawer",
+                "start_frame": 1313,
+                "stop_frame": 1341
+            },
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 1341,
+                "stop_frame": 1366
+            }
+        ]
+    },
+    {
+        "task_goal": "Collect additional ingredients, prepare, and set aside",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Peels the garlic",
+                "start_frame": 7701,
+                "stop_frame": 8157
+            },
+            {
+                "narration_text": "Puts the garlic on the chopping board",
+                "start_frame": 8157,
+                "stop_frame": 8170
+            },
+            {
+                "narration_text": "Person x peels the egg plant with the knife",
+                "start_frame": 8170,
+                "stop_frame": 8222
+            },
+            {
+                "narration_text": "Picks another garlic from the counter top",
+                "start_frame": 8222,
+                "stop_frame": 8246
+            },
+            {
+                "narration_text": "Extends the chilly",
+                "start_frame": 8246,
+                "stop_frame": 8247
+            },
+            {
+                "narration_text": "Puts the garlic on the chopping board",
+                "start_frame": 8247,
+                "stop_frame": 8276
+            },
+            {
+                "narration_text": "Picks the knife from the chopping board",
+                "start_frame": 8276,
+                "stop_frame": 8298
+            },
+            {
+                "narration_text": "Cuts the garlic with the knife on the chopping board",
+                "start_frame": 8298,
+                "stop_frame": 8371
+            },
+            {
+                "narration_text": "Drops the knife on the chopping board",
+                "start_frame": 8371,
+                "stop_frame": 9129
+            },
+            {
+                "narration_text": "Gathers waste",
+                "start_frame": 9129,
+                "stop_frame": 9265
+            },
+            {
+                "narration_text": "Throws waste in trash bin",
+                "start_frame": 9265,
+                "stop_frame": 9403
+            },
+            {
+                "narration_text": "Gathers waste",
+                "start_frame": 9403,
+                "stop_frame": 9656
+            },
+            {
+                "narration_text": "Throws waste in trash bin",
+                "start_frame": 9656,
+                "stop_frame": 9767
+            },
+            {
+                "narration_text": "Picks up knife",
+                "start_frame": 9767,
+                "stop_frame": 9767
+            },
+            {
+                "narration_text": "Gathers the garlic",
+                "start_frame": 9767,
+                "stop_frame": 9854
+            },
+            {
+                "narration_text": "Chops the ingredients",
+                "start_frame": 9854,
+                "stop_frame": 10633
+            },
+            {
+                "narration_text": "Carries the pepper to the sink",
+                "start_frame": 10633,
+                "stop_frame": 10708
+            }
+        ]
+    },
+    {
+        "task_goal": "Processing pepper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Chops the ingredients",
+                "start_frame": 9854,
+                "stop_frame": 10633
+            },
+            {
+                "narration_text": "Carries the pepper to the sink",
+                "start_frame": 10633,
+                "stop_frame": 10708
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 10708,
+                "stop_frame": 10751
+            },
+            {
+                "narration_text": "Washes the pepper",
+                "start_frame": 10751,
+                "stop_frame": 10789
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 10789,
+                "stop_frame": 10878
+            },
+            {
+                "narration_text": "Dries the pepper",
+                "start_frame": 10878,
+                "stop_frame": 11033
+            },
+            {
+                "narration_text": "Places pepper on the chopboard",
+                "start_frame": 11033,
+                "stop_frame": 11054
+            },
+            {
+                "narration_text": "Prepares the pepper",
+                "start_frame": 11054,
+                "stop_frame": 14172
+            },
+            {
+                "narration_text": "Puts down the knife",
+                "start_frame": 14172,
+                "stop_frame": 14245
+            },
+            {
+                "narration_text": "Throws waste in trash bin",
+                "start_frame": 14245,
+                "stop_frame": 14327
+            },
+            {
+                "narration_text": "Takes the pepper to the fridge",
+                "start_frame": 14327,
+                "stop_frame": 14400
+            },
+            {
+                "narration_text": "Picks a package",
+                "start_frame": 14400,
+                "stop_frame": 14528
+            },
+            {
+                "narration_text": "Packs the pepper",
+                "start_frame": 14528,
+                "stop_frame": 14571
+            },
+            {
+                "narration_text": "Folds the package",
+                "start_frame": 14571,
+                "stop_frame": 14655
+            },
+            {
+                "narration_text": "Packs the ingredients",
+                "start_frame": 14655,
+                "stop_frame": 14753
+            },
+            {
+                "narration_text": "Puts the packet in the fridge",
+                "start_frame": 14753,
+                "stop_frame": 14871
+            },
+            {
+                "narration_text": "Checks the garlic",
+                "start_frame": 14871,
+                "stop_frame": 14896
+            },
+            {
+                "narration_text": "Checks the ginger",
+                "start_frame": 14896,
+                "stop_frame": 15031
+            },
+            {
+                "narration_text": "Peels the ginger",
+                "start_frame": 15031,
+                "stop_frame": 15081
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash, dry, and prepare pepper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Chops the ingredients",
+                "start_frame": 9854,
+                "stop_frame": 10633
+            },
+            {
+                "narration_text": "Carries the pepper to the sink",
+                "start_frame": 10633,
+                "stop_frame": 10708
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 10708,
+                "stop_frame": 10751
+            },
+            {
+                "narration_text": "Washes the pepper",
+                "start_frame": 10751,
+                "stop_frame": 10789
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 10789,
+                "stop_frame": 10878
+            },
+            {
+                "narration_text": "Dries the pepper",
+                "start_frame": 10878,
+                "stop_frame": 11033
+            },
+            {
+                "narration_text": "Places pepper on the chopboard",
+                "start_frame": 11033,
+                "stop_frame": 11054
+            },
+            {
+                "narration_text": "Prepares the pepper",
+                "start_frame": 11054,
+                "stop_frame": 14172
+            },
+            {
+                "narration_text": "Puts down the knife",
+                "start_frame": 14172,
+                "stop_frame": 14245
+            },
+            {
+                "narration_text": "Throws waste in trash bin",
+                "start_frame": 14245,
+                "stop_frame": 14327
+            },
+            {
+                "narration_text": "Takes the pepper to the fridge",
+                "start_frame": 14327,
+                "stop_frame": 14400
+            },
+            {
+                "narration_text": "Picks a package",
+                "start_frame": 14400,
+                "stop_frame": 14528
+            }
+        ]
+    },
+    {
+        "task_goal": "Pack and store pepper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the pepper to the fridge",
+                "start_frame": 14327,
+                "stop_frame": 14400
+            },
+            {
+                "narration_text": "Picks a package",
+                "start_frame": 14400,
+                "stop_frame": 14528
+            },
+            {
+                "narration_text": "Packs the pepper",
+                "start_frame": 14528,
+                "stop_frame": 14571
+            },
+            {
+                "narration_text": "Folds the package",
+                "start_frame": 14571,
+                "stop_frame": 14655
+            },
+            {
+                "narration_text": "Packs the ingredients",
+                "start_frame": 14655,
+                "stop_frame": 14753
+            },
+            {
+                "narration_text": "Puts the packet in the fridge",
+                "start_frame": 14753,
+                "stop_frame": 14871
+            },
+            {
+                "narration_text": "Checks the garlic",
+                "start_frame": 14871,
+                "stop_frame": 14896
+            },
+            {
+                "narration_text": "Checks the ginger",
+                "start_frame": 14896,
+                "stop_frame": 15031
+            },
+            {
+                "narration_text": "Peels the ginger",
+                "start_frame": 15031,
+                "stop_frame": 15081
+            }
+        ]
+    },
+    {
+        "task_goal": "Cook, organize, and clean up the kitchen",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Woman x wipes the floor",
+                "start_frame": 23759,
+                "stop_frame": 23953
+            },
+            {
+                "narration_text": "Dries the hands",
+                "start_frame": 23953,
+                "stop_frame": 24024
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 24024,
+                "stop_frame": 24074
+            },
+            {
+                "narration_text": "Picks up the cooking stick",
+                "start_frame": 24074,
+                "stop_frame": 24259
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 24259,
+                "stop_frame": 24408
+            },
+            {
+                "narration_text": "Turns up the flames",
+                "start_frame": 24408,
+                "stop_frame": 24438
+            },
+            {
+                "narration_text": "Walks to the sink",
+                "start_frame": 24438,
+                "stop_frame": 24484
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 24484,
+                "stop_frame": 24535
+            },
+            {
+                "narration_text": "Washes the cooking stick",
+                "start_frame": 24535,
+                "stop_frame": 24556
+            },
+            {
+                "narration_text": "Puts the cooking stick in the racks",
+                "start_frame": 24556,
+                "stop_frame": 24585
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare and serve plates",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes plates to the table",
+                "start_frame": 35788,
+                "stop_frame": 36160
+            },
+            {
+                "narration_text": "Walks to the kitchen",
+                "start_frame": 36160,
+                "stop_frame": 36252
+            },
+            {
+                "narration_text": "Uses the phone",
+                "start_frame": 36252,
+                "stop_frame": 36311
+            },
+            {
+                "narration_text": "Peels the ginger",
+                "start_frame": 36311,
+                "stop_frame": 37955
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash hands and clean work area",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Scraps off garlic with the knife",
+                "start_frame": 49935,
+                "stop_frame": 50002
+            },
+            {
+                "narration_text": "Puts down the garlic press",
+                "start_frame": 50002,
+                "stop_frame": 50029
+            },
+            {
+                "narration_text": "Scoops the garlic with knife",
+                "start_frame": 50029,
+                "stop_frame": 50106
+            },
+            {
+                "narration_text": "Adds the garlic in the pot",
+                "start_frame": 50106,
+                "stop_frame": 50170
+            },
+            {
+                "narration_text": "Opens up the garlic press",
+                "start_frame": 50170,
+                "stop_frame": 50234
+            },
+            {
+                "narration_text": "Scraps off garlic with the knife",
+                "start_frame": 50234,
+                "stop_frame": 50484
+            },
+            {
+                "narration_text": "Scraps off garlic on the pot edges",
+                "start_frame": 50484,
+                "stop_frame": 50573
+            },
+            {
+                "narration_text": "Scraps off garlic with the knife",
+                "start_frame": 50573,
+                "stop_frame": 50883
+            },
+            {
+                "narration_text": "Scraps off garlic on the pot edges",
+                "start_frame": 50883,
+                "stop_frame": 51015
+            },
+            {
+                "narration_text": "Scraps off garlic with the knife",
+                "start_frame": 51015,
+                "stop_frame": 51445
+            },
+            {
+                "narration_text": "Puts down the sieve",
+                "start_frame": 51445,
+                "stop_frame": 51533
+            },
+            {
+                "narration_text": "Scraps off garlic on the pot edges",
+                "start_frame": 51533,
+                "stop_frame": 51608
+            },
+            {
+                "narration_text": "Puts down the knife",
+                "start_frame": 51608,
+                "stop_frame": 51684
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 51684,
+                "stop_frame": 51703
+            },
+            {
+                "narration_text": "Washes the hand",
+                "start_frame": 51703,
+                "stop_frame": 51776
+            },
+            {
+                "narration_text": "Applies soap on the hand",
+                "start_frame": 51776,
+                "stop_frame": 51840
+            },
+            {
+                "narration_text": "Washes the hand",
+                "start_frame": 51840,
+                "stop_frame": 52244
+            }
+        ]
+    }
+]

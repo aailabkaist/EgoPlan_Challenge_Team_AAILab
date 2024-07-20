@@ -1,0 +1,46 @@
+{
+    "overall_goal": "Prepare and clean up after making spaghetti",
+    "clips": [
+        {
+            "subgoal": "Adding ingredients to the spaghetti",
+            "start_timestamp": 69,
+            "stop_timestamp": 4290,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adding tomatoes to the spaghetti",
+                    "start_timestamp": 69,
+                    "stop_timestamp": 374
+                },
+                {
+                    "secondary_subgoal": "Adding other toppings to the spaghetti",
+                    "start_timestamp": 374,
+                    "stop_timestamp": 4290
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing various utensils",
+            "start_timestamp": 4371,
+            "stop_timestamp": 7895,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing the hands and various utensils",
+                    "start_timestamp": 4371,
+                    "stop_timestamp": 7895
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning the kitchen area",
+            "start_timestamp": 8022,
+            "stop_timestamp": 13196,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning the cooking gas stove",
+                    "start_timestamp": 8022,
+                    "stop_timestamp": 13196
+                }
+            ]
+        }
+    ]
+}

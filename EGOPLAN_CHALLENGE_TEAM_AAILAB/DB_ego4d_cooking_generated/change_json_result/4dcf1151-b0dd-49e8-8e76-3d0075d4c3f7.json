@@ -1,0 +1,68 @@
+{
+    "overall_goal": "Prepare bread with tomato sauce and bake it.",
+    "clips": [
+        {
+            "subgoal": "Collect necessary items for food preparation",
+            "start_timestamp": 27,
+            "stop_timestamp": 684,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Operate phone and place it on table",
+                    "start_timestamp": 27,
+                    "stop_timestamp": 523
+                },
+                {
+                    "secondary_subgoal": "Open and close drawer",
+                    "start_timestamp": 523,
+                    "stop_timestamp": 684
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare bread with tomato sauce",
+            "start_timestamp": 684,
+            "stop_timestamp": 3533,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Remove bakery tray from oven",
+                    "start_timestamp": 684,
+                    "stop_timestamp": 866
+                },
+                {
+                    "secondary_subgoal": "Get tomato sauce from the fridge and apply it",
+                    "start_timestamp": 866,
+                    "stop_timestamp": 2513
+                },
+                {
+                    "secondary_subgoal": "Wipe excess sauce and clean up",
+                    "start_timestamp": 2513,
+                    "stop_timestamp": 3533
+                }
+            ]
+        },
+        {
+            "subgoal": "Bake the prepared bread",
+            "start_timestamp": 3533,
+            "stop_timestamp": 3695,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put bread in oven",
+                    "start_timestamp": 3533,
+                    "stop_timestamp": 3695
+                }
+            ]
+        },
+        {
+            "subgoal": "End activity by using the phone",
+            "start_timestamp": 3695,
+            "stop_timestamp": 3826,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and operate phone",
+                    "start_timestamp": 3695,
+                    "stop_timestamp": 3826
+                }
+            ]
+        }
+    ]
+}

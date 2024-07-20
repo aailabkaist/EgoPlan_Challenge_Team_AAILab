@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfuzm0TaZj40oTOcauSzBRYxCuA1",
+    "object": "chat.completion",
+    "created": 1719242953,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal using a cooking gas stove, various kitchen tools, and ingredients from the fridge.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Setting up the cooking gas stove\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 649,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Initial stove interaction\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 26\n        },\n        {\n          \"secondary_subgoal\": \"Pressing stove button intermittently\",\n          \"start_timestamp\": 26,\n          \"stop_timestamp\": 649\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing ingredients\",\n      \"start_timestamp\": 1015,\n      \"stop_timestamp\": 2879,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Organizing countertop items\",\n          \"start_timestamp\": 1015,\n          \"stop_timestamp\": 1276\n        },\n        {\n          \"secondary_subgoal\": \"Interacting with the fridge\",\n          \"start_timestamp\": 1276,\n          \"stop_timestamp\": 1786\n        },\n        {\n          \"secondary_subgoal\": \"Using fridge items\",\n          \"start_timestamp\": 1786,\n          \"stop_timestamp\": 1871\n        },\n        {\n          \"secondary_subgoal\": \"Handling cooking pot and stove\",\n          \"start_timestamp\": 1937,\n          \"stop_timestamp\": 2069\n        },\n        {\n          \"secondary_subgoal\": \"Handling cooking pot and mesh food strainer\",\n          \"start_timestamp\": 2069,\n          \"stop_timestamp\": 2731\n        },\n        {\n          \"secondary_subgoal\": \"Using chopping stick for stirring\",\n          \"start_timestamp\": 2836,\n          \"stop_timestamp\": 3171\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning and adding water to cooking pot\",\n      \"start_timestamp\": 3219,\n      \"stop_timestamp\": 4147,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cleaning actions\",\n          \"start_timestamp\": 3219,\n          \"stop_timestamp\": 3295\n        },\n        {\n          \"secondary_subgoal\": \"Handling cooking pot\",\n          \"start_timestamp\": 3366,\n          \"stop_timestamp\": 4024\n        },\n        {\n          \"secondary_subgoal\": \"Final cleaning actions\",\n          \"start_timestamp\": 4024,\n          \"stop_timestamp\": 4147\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Transferring ingredients to winnowing tray\",\n      \"start_timestamp\": 4147,\n      \"stop_timestamp\": 4994,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Scooping and transferring items\",\n          \"start_timestamp\": 4147,\n          \"stop_timestamp\": 4945\n        },\n        {\n          \"secondary_subgoal\": \"Handling the mesh food strainer\",\n          \"start_timestamp\": 4945,\n          \"stop_timestamp\": 4994\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing and serving drinks\",\n      \"start_timestamp\": 5038,\n      \"stop_timestamp\": 5545,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handling glasses and bottle\",\n          \"start_timestamp\": 5038,\n          \"stop_timestamp\": 5373\n        },\n        {\n          \"secondary_subgoal\": \"Adding water to glasses\",\n          \"start_timestamp\": 5373,\n          \"stop_timestamp\": 5545\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final adjustments and camera calibration\",\n      \"start_timestamp\": 5545,\n      \"stop_timestamp\": 5680,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Standing on the floor\",\n          \"start_timestamp\": 5545,\n          \"stop_timestamp\": 5580\n        },\n        {\n          \"secondary_subgoal\": \"Adjusting the camera\",\n          \"start_timestamp\": 5580,\n          \"stop_timestamp\": 5680\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1425,
+        "completion_tokens": 877,
+        "total_tokens": 2302
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

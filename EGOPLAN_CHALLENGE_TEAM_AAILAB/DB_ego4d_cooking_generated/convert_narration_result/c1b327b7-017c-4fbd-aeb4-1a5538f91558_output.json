@@ -1,0 +1,487 @@
+[
+    {
+        "task_goal": "Wash and clean utensils and pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the chopsticks",
+                "start_frame": 1,
+                "stop_frame": 45
+            },
+            {
+                "narration_text": "Turns off the kitchen faucet",
+                "start_frame": 45,
+                "stop_frame": 66
+            },
+            {
+                "narration_text": "Turns towards the pan on the electric stove",
+                "start_frame": 66,
+                "stop_frame": 144
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the chopsticks.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the chopsticks",
+                "start_frame": 1,
+                "stop_frame": 45
+            },
+            {
+                "narration_text": "Turns off the kitchen faucet",
+                "start_frame": 45,
+                "stop_frame": 66
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn off the kitchen faucet.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the chopsticks",
+                "start_frame": 1,
+                "stop_frame": 45
+            },
+            {
+                "narration_text": "Turns off the kitchen faucet",
+                "start_frame": 45,
+                "stop_frame": 66
+            },
+            {
+                "narration_text": "Turns towards the pan on the electric stove",
+                "start_frame": 66,
+                "stop_frame": 144
+            }
+        ]
+    },
+    {
+        "task_goal": "Cook the food in the pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns off the kitchen faucet",
+                "start_frame": 45,
+                "stop_frame": 66
+            },
+            {
+                "narration_text": "Turns towards the pan on the electric stove",
+                "start_frame": 66,
+                "stop_frame": 144
+            },
+            {
+                "narration_text": "Holds the pan",
+                "start_frame": 144,
+                "stop_frame": 256
+            },
+            {
+                "narration_text": "Checks the food on the pan using the chopsticks",
+                "start_frame": 256,
+                "stop_frame": 739
+            },
+            {
+                "narration_text": "Holds the pan",
+                "start_frame": 739,
+                "stop_frame": 895
+            },
+            {
+                "narration_text": "Checks the food on the pan using the chopsticks",
+                "start_frame": 895,
+                "stop_frame": 1362
+            },
+            {
+                "narration_text": "Adjusts the food on the pan",
+                "start_frame": 1362,
+                "stop_frame": 1499
+            },
+            {
+                "narration_text": "Checks the food on the pan using the chopsticks",
+                "start_frame": 1499,
+                "stop_frame": 2062
+            },
+            {
+                "narration_text": "Adjusts the food on the pan",
+                "start_frame": 2062,
+                "stop_frame": 2230
+            },
+            {
+                "narration_text": "Picks up the pan",
+                "start_frame": 2230,
+                "stop_frame": 2244
+            }
+        ]
+    },
+    {
+        "task_goal": "Position by the pan and check the food.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns off the kitchen faucet",
+                "start_frame": 45,
+                "stop_frame": 66
+            },
+            {
+                "narration_text": "Turns towards the pan on the electric stove",
+                "start_frame": 66,
+                "stop_frame": 144
+            },
+            {
+                "narration_text": "Holds the pan",
+                "start_frame": 144,
+                "stop_frame": 256
+            },
+            {
+                "narration_text": "Checks the food on the pan using the chopsticks",
+                "start_frame": 256,
+                "stop_frame": 739
+            },
+            {
+                "narration_text": "Holds the pan",
+                "start_frame": 739,
+                "stop_frame": 895
+            }
+        ]
+    },
+    {
+        "task_goal": "Interact with the food in the pan using chopsticks.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Checks the food on the pan using the chopsticks",
+                "start_frame": 256,
+                "stop_frame": 739
+            },
+            {
+                "narration_text": "Holds the pan",
+                "start_frame": 739,
+                "stop_frame": 895
+            },
+            {
+                "narration_text": "Checks the food on the pan using the chopsticks",
+                "start_frame": 895,
+                "stop_frame": 1362
+            },
+            {
+                "narration_text": "Adjusts the food on the pan",
+                "start_frame": 1362,
+                "stop_frame": 1499
+            },
+            {
+                "narration_text": "Checks the food on the pan using the chopsticks",
+                "start_frame": 1499,
+                "stop_frame": 2062
+            },
+            {
+                "narration_text": "Adjusts the food on the pan",
+                "start_frame": 2062,
+                "stop_frame": 2230
+            },
+            {
+                "narration_text": "Picks up the pan",
+                "start_frame": 2230,
+                "stop_frame": 2244
+            }
+        ]
+    },
+    {
+        "task_goal": "Transfer the food to the plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Adjusts the food on the pan",
+                "start_frame": 2062,
+                "stop_frame": 2230
+            },
+            {
+                "narration_text": "Picks up the pan",
+                "start_frame": 2230,
+                "stop_frame": 2244
+            },
+            {
+                "narration_text": "Picks up the plate",
+                "start_frame": 2244,
+                "stop_frame": 2298
+            },
+            {
+                "narration_text": "Empties the food onto the plate from the pan",
+                "start_frame": 2298,
+                "stop_frame": 2434
+            },
+            {
+                "narration_text": "Puts the plate on the countertop",
+                "start_frame": 2434,
+                "stop_frame": 2450
+            },
+            {
+                "narration_text": "Scrapes the food from the pan using the chopsticks",
+                "start_frame": 2450,
+                "stop_frame": 2489
+            },
+            {
+                "narration_text": "Puts the pan on the electric stove",
+                "start_frame": 2489,
+                "stop_frame": 2540
+            },
+            {
+                "narration_text": "Picks up the pan from the electric stove",
+                "start_frame": 2540,
+                "stop_frame": 2544
+            },
+            {
+                "narration_text": "Carries the pan to the sink",
+                "start_frame": 2544,
+                "stop_frame": 2611
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up the pan and plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Adjusts the food on the pan",
+                "start_frame": 2062,
+                "stop_frame": 2230
+            },
+            {
+                "narration_text": "Picks up the pan",
+                "start_frame": 2230,
+                "stop_frame": 2244
+            },
+            {
+                "narration_text": "Picks up the plate",
+                "start_frame": 2244,
+                "stop_frame": 2298
+            },
+            {
+                "narration_text": "Empties the food onto the plate from the pan",
+                "start_frame": 2298,
+                "stop_frame": 2434
+            }
+        ]
+    },
+    {
+        "task_goal": "Empty the food onto the plate and place the plate on countertop.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up the plate",
+                "start_frame": 2244,
+                "stop_frame": 2298
+            },
+            {
+                "narration_text": "Empties the food onto the plate from the pan",
+                "start_frame": 2298,
+                "stop_frame": 2434
+            },
+            {
+                "narration_text": "Puts the plate on the countertop",
+                "start_frame": 2434,
+                "stop_frame": 2450
+            },
+            {
+                "narration_text": "Scrapes the food from the pan using the chopsticks",
+                "start_frame": 2450,
+                "stop_frame": 2489
+            },
+            {
+                "narration_text": "Puts the pan on the electric stove",
+                "start_frame": 2489,
+                "stop_frame": 2540
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the pan back on the stove.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Scrapes the food from the pan using the chopsticks",
+                "start_frame": 2450,
+                "stop_frame": 2489
+            },
+            {
+                "narration_text": "Puts the pan on the electric stove",
+                "start_frame": 2489,
+                "stop_frame": 2540
+            },
+            {
+                "narration_text": "Picks up the pan from the electric stove",
+                "start_frame": 2540,
+                "stop_frame": 2544
+            },
+            {
+                "narration_text": "Carries the pan to the sink",
+                "start_frame": 2544,
+                "stop_frame": 2611
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean the pan after cooking.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up the pan from the electric stove",
+                "start_frame": 2540,
+                "stop_frame": 2544
+            },
+            {
+                "narration_text": "Carries the pan to the sink",
+                "start_frame": 2544,
+                "stop_frame": 2611
+            },
+            {
+                "narration_text": "Turns on the kitchen faucet",
+                "start_frame": 2611,
+                "stop_frame": 2652
+            },
+            {
+                "narration_text": "Rinses off the pan",
+                "start_frame": 2652,
+                "stop_frame": 2751
+            },
+            {
+                "narration_text": "Turns off the kitchen faucet",
+                "start_frame": 2751,
+                "stop_frame": 2855
+            },
+            {
+                "narration_text": "Puts the pan in the sink",
+                "start_frame": 2855,
+                "stop_frame": 2866
+            },
+            {
+                "narration_text": "Puts the chopsticks on the plate",
+                "start_frame": 2866,
+                "stop_frame": 2896
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn on the kitchen faucet and rinse the pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up the pan from the electric stove",
+                "start_frame": 2540,
+                "stop_frame": 2544
+            },
+            {
+                "narration_text": "Carries the pan to the sink",
+                "start_frame": 2544,
+                "stop_frame": 2611
+            },
+            {
+                "narration_text": "Turns on the kitchen faucet",
+                "start_frame": 2611,
+                "stop_frame": 2652
+            },
+            {
+                "narration_text": "Rinses off the pan",
+                "start_frame": 2652,
+                "stop_frame": 2751
+            },
+            {
+                "narration_text": "Turns off the kitchen faucet",
+                "start_frame": 2751,
+                "stop_frame": 2855
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn off the kitchen faucet and put the pan in the sink.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rinses off the pan",
+                "start_frame": 2652,
+                "stop_frame": 2751
+            },
+            {
+                "narration_text": "Turns off the kitchen faucet",
+                "start_frame": 2751,
+                "stop_frame": 2855
+            },
+            {
+                "narration_text": "Puts the pan in the sink",
+                "start_frame": 2855,
+                "stop_frame": 2866
+            },
+            {
+                "narration_text": "Puts the chopsticks on the plate",
+                "start_frame": 2866,
+                "stop_frame": 2896
+            }
+        ]
+    },
+    {
+        "task_goal": "Organize the utensils and clean up.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the pan in the sink",
+                "start_frame": 2855,
+                "stop_frame": 2866
+            },
+            {
+                "narration_text": "Puts the chopsticks on the plate",
+                "start_frame": 2866,
+                "stop_frame": 2896
+            },
+            {
+                "narration_text": "Walks around in the kitchen",
+                "start_frame": 2896,
+                "stop_frame": 2942
+            },
+            {
+                "narration_text": "Checks the phone",
+                "start_frame": 2942,
+                "stop_frame": 3042
+            }
+        ]
+    },
+    {
+        "task_goal": "Put the chopsticks on the plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the pan in the sink",
+                "start_frame": 2855,
+                "stop_frame": 2866
+            },
+            {
+                "narration_text": "Puts the chopsticks on the plate",
+                "start_frame": 2866,
+                "stop_frame": 2896
+            },
+            {
+                "narration_text": "Walks around in the kitchen",
+                "start_frame": 2896,
+                "stop_frame": 2942
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk around the kitchen.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the chopsticks on the plate",
+                "start_frame": 2866,
+                "stop_frame": 2896
+            },
+            {
+                "narration_text": "Walks around in the kitchen",
+                "start_frame": 2896,
+                "stop_frame": 2942
+            },
+            {
+                "narration_text": "Checks the phone",
+                "start_frame": 2942,
+                "stop_frame": 3042
+            }
+        ]
+    },
+    {
+        "task_goal": "Interact with the phone.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around in the kitchen",
+                "start_frame": 2896,
+                "stop_frame": 2942
+            },
+            {
+                "narration_text": "Checks the phone",
+                "start_frame": 2942,
+                "stop_frame": 3042
+            }
+        ]
+    }
+]

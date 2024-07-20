@@ -1,0 +1,287 @@
+[
+    {
+        "task_goal": "Get a bottle from the shelf and place it on the counter",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Moves around a kitchen",
+                "start_frame": 32,
+                "stop_frame": 72
+            },
+            {
+                "narration_text": "#C C Opens up a shelf with a hand",
+                "start_frame": 72,
+                "stop_frame": 109
+            },
+            {
+                "narration_text": "#C C Picks up a bottle from a shelf",
+                "start_frame": 109,
+                "stop_frame": 156
+            },
+            {
+                "narration_text": "#C C Puts a bottle on a kitchen counter",
+                "start_frame": 156,
+                "stop_frame": 195
+            },
+            {
+                "narration_text": "#C C Opens up a lid from a bottle with a hand",
+                "start_frame": 195,
+                "stop_frame": 243
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the bottle and move items on the counter",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Puts a bottle on a kitchen counter",
+                "start_frame": 156,
+                "stop_frame": 195
+            },
+            {
+                "narration_text": "#C C Opens up a lid from a bottle with a hand",
+                "start_frame": 195,
+                "stop_frame": 243
+            },
+            {
+                "narration_text": "#C C Picks up a lid from a pan",
+                "start_frame": 243,
+                "stop_frame": 301
+            },
+            {
+                "narration_text": "#C C Moves a storage can on a kitchen counter",
+                "start_frame": 301,
+                "stop_frame": 310
+            },
+            {
+                "narration_text": "#C C Puts down a lid on a kitchen counter",
+                "start_frame": 310,
+                "stop_frame": 350
+            }
+        ]
+    },
+    {
+        "task_goal": "Empty the pan and place it on the cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Puts down a lid on a kitchen counter",
+                "start_frame": 310,
+                "stop_frame": 350
+            },
+            {
+                "narration_text": "#C C Picks up a pan from a gas cooker",
+                "start_frame": 350,
+                "stop_frame": 409
+            },
+            {
+                "narration_text": "#C C Pours water from a pan in a sink",
+                "start_frame": 409,
+                "stop_frame": 449
+            },
+            {
+                "narration_text": "#C C Puts down a pan on a gas cooker",
+                "start_frame": 449,
+                "stop_frame": 490
+            },
+            {
+                "narration_text": "#C C Picks up a packet of bell pepper from a kitchen counter",
+                "start_frame": 490,
+                "stop_frame": 516
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle bell peppers and potatoes on the counter and chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Picks up a packet of bell pepper from a kitchen counter",
+                "start_frame": 490,
+                "stop_frame": 516
+            },
+            {
+                "narration_text": "#C C Unwraps a packet of bell pepper with a hand",
+                "start_frame": 516,
+                "stop_frame": 589
+            },
+            {
+                "narration_text": "#C C Puts down a packet of bell pepper on a chopping board",
+                "start_frame": 589,
+                "stop_frame": 602
+            },
+            {
+                "narration_text": "#C C Lifts hands up",
+                "start_frame": 602,
+                "stop_frame": 699
+            },
+            {
+                "narration_text": "#C C Moves a packet of bell pepper on a chopping board",
+                "start_frame": 699,
+                "stop_frame": 749
+            },
+            {
+                "narration_text": "#C C Pours bell peppers on a chopping board",
+                "start_frame": 749,
+                "stop_frame": 782
+            },
+            {
+                "narration_text": "#C C Puts down a piece of paper on a kitchen counter",
+                "start_frame": 782,
+                "stop_frame": 804
+            },
+            {
+                "narration_text": "#C C Picks up a knife from a chopping board",
+                "start_frame": 804,
+                "stop_frame": 838
+            },
+            {
+                "narration_text": "#C C Cuts a piece of paper with a knife",
+                "start_frame": 838,
+                "stop_frame": 882
+            },
+            {
+                "narration_text": "#C C Puts down a knife on a chopping board",
+                "start_frame": 882,
+                "stop_frame": 908
+            },
+            {
+                "narration_text": "#C C Unwraps a piece of paper with hands",
+                "start_frame": 908,
+                "stop_frame": 935
+            },
+            {
+                "narration_text": "#C C Picks up a potato from a piece of paper on a kitchen counter",
+                "start_frame": 935,
+                "stop_frame": 955
+            },
+            {
+                "narration_text": "#C C Puts down a potato on a kitchen counter",
+                "start_frame": 955,
+                "stop_frame": 962
+            },
+            {
+                "narration_text": "#C C Picks up a potato from a piece of paper on a kitchen counter",
+                "start_frame": 962,
+                "stop_frame": 1016
+            },
+            {
+                "narration_text": "#C C Puts down a potato on a kitchen counter",
+                "start_frame": 1016,
+                "stop_frame": 1033
+            },
+            {
+                "narration_text": "#C C Picks up a potato from a piece of paper on a kitchen counter",
+                "start_frame": 1033,
+                "stop_frame": 1038
+            },
+            {
+                "narration_text": "#C C Puts down a potato on a kitchen counter",
+                "start_frame": 1038,
+                "stop_frame": 1041
+            },
+            {
+                "narration_text": "#C C Picks up a piece of paper from a kitchen counter",
+                "start_frame": 1041,
+                "stop_frame": 1070
+            },
+            {
+                "narration_text": "#C C Puts down a piece of paper on a kitchen counter",
+                "start_frame": 1070,
+                "stop_frame": 1093
+            },
+            {
+                "narration_text": "#C C Walks around a kitchen",
+                "start_frame": 1093,
+                "stop_frame": 1130
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut the bell peppers on the chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Cuts a bell pepper on a chopping board with a knife",
+                "start_frame": 6911,
+                "stop_frame": 7127
+            },
+            {
+                "narration_text": "#C C Puts down bell pepper seeds in a sink",
+                "start_frame": 7127,
+                "stop_frame": 7183
+            },
+            {
+                "narration_text": "#C C Picks up a piece of bell pepper from a sink",
+                "start_frame": 7183,
+                "stop_frame": 7203
+            },
+            {
+                "narration_text": "#C C Removes seeds from a piece of bell pepper with hands",
+                "start_frame": 7203,
+                "stop_frame": 7218
+            },
+            {
+                "narration_text": "#C C Puts down bell pepper seeds in a sink",
+                "start_frame": 7218,
+                "stop_frame": 7255
+            },
+            {
+                "narration_text": "#C C Puts down a piece of bell pepper on a chopping board",
+                "start_frame": 7255,
+                "stop_frame": 7303
+            },
+            {
+                "narration_text": "#C C Cuts a piece of bell pepper on a chopping board with a knife",
+                "start_frame": 7303,
+                "stop_frame": 7508
+            },
+            {
+                "narration_text": "#C C Moves a bell pepper on a chopping board",
+                "start_frame": 7508,
+                "stop_frame": 7561
+            },
+            {
+                "narration_text": "#C C Cuts a bell pepper on a chopping board with a knife",
+                "start_frame": 7561,
+                "stop_frame": 7599
+            },
+            {
+                "narration_text": "#C C Picks up a bell pepper from a kitchen counter",
+                "start_frame": 7599,
+                "stop_frame": 7633
+            },
+            {
+                "narration_text": "#C C Cuts a bell pepper on a chopping board with a knife",
+                "start_frame": 7633,
+                "stop_frame": 7672
+            },
+            {
+                "narration_text": "#C C Picks up a bell pepper from a kitchen counter",
+                "start_frame": 7672,
+                "stop_frame": 7724
+            },
+            {
+                "narration_text": "#C C Cuts a bell pepper on a chopping board with a knife",
+                "start_frame": 7724,
+                "stop_frame": 7758
+            },
+            {
+                "narration_text": "#C C Picks up a bell pepper from a kitchen counter",
+                "start_frame": 7758,
+                "stop_frame": 7824
+            },
+            {
+                "narration_text": "#C C Cuts a bell pepper on a chopping board with a knife",
+                "start_frame": 7824,
+                "stop_frame": 7888
+            },
+            {
+                "narration_text": "#C C Wipes off seeds from a knife with a hand",
+                "start_frame": 7888,
+                "stop_frame": 7938
+            },
+            {
+                "narration_text": "#C C Moves pieces of bell pepper on a chopping board",
+                "start_frame": 7938,
+                "stop_frame": 8061
+            }
+        ]
+    }
+]

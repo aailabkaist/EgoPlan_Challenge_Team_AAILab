@@ -1,0 +1,207 @@
+{
+    "overall_goal": "Preparing and organizing food items by cutting, cooking, and storing them.",
+    "clips": [
+        {
+            "subgoal": "Handling carrot dish",
+            "start_timestamp": 0,
+            "stop_timestamp": 218,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Putting down chop sticks",
+                    "start_timestamp": 93,
+                    "stop_timestamp": 121
+                },
+                {
+                    "secondary_subgoal": "Closing the dish",
+                    "start_timestamp": 121,
+                    "stop_timestamp": 218
+                }
+            ]
+        },
+        {
+            "subgoal": "Storing carrot dish",
+            "start_timestamp": 218,
+            "stop_timestamp": 377,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening the fridge",
+                    "start_timestamp": 218,
+                    "stop_timestamp": 285
+                },
+                {
+                    "secondary_subgoal": "Putting dish in the fridge",
+                    "start_timestamp": 285,
+                    "stop_timestamp": 377
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling tomato dish",
+            "start_timestamp": 377,
+            "stop_timestamp": 772,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening the dish and taking tomato",
+                    "start_timestamp": 507,
+                    "stop_timestamp": 564
+                },
+                {
+                    "secondary_subgoal": "Putting the tomato on the plate",
+                    "start_timestamp": 564,
+                    "stop_timestamp": 772
+                }
+            ]
+        },
+        {
+            "subgoal": "Storing tomato dish",
+            "start_timestamp": 772,
+            "stop_timestamp": 1010,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Putting the dish in the polythene bag",
+                    "start_timestamp": 772,
+                    "stop_timestamp": 807
+                },
+                {
+                    "secondary_subgoal": "Taking chop sticks and rice bowl",
+                    "start_timestamp": 807,
+                    "stop_timestamp": 900
+                },
+                {
+                    "secondary_subgoal": "Handling tray and rice bowl",
+                    "start_timestamp": 900,
+                    "stop_timestamp": 1010
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling rice",
+            "start_timestamp": 1010,
+            "stop_timestamp": 1177,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening the rice bowl",
+                    "start_timestamp": 1010,
+                    "stop_timestamp": 1056
+                },
+                {
+                    "secondary_subgoal": "Putting polythene bag in trash bin",
+                    "start_timestamp": 1056,
+                    "stop_timestamp": 1177
+                }
+            ]
+        },
+        {
+            "subgoal": "Checking and stirring food",
+            "start_timestamp": 1177,
+            "stop_timestamp": 1384,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Checking the rice",
+                    "start_timestamp": 1177,
+                    "stop_timestamp": 1310
+                },
+                {
+                    "secondary_subgoal": "Stirring the meat in cooking pot",
+                    "start_timestamp": 1310,
+                    "stop_timestamp": 1348
+                },
+                {
+                    "secondary_subgoal": "Turning off air conditioner",
+                    "start_timestamp": 1348,
+                    "stop_timestamp": 1384
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling meat",
+            "start_timestamp": 1384,
+            "stop_timestamp": 2213,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Putting meat on plate using chop sticks",
+                    "start_timestamp": 1470,
+                    "stop_timestamp": 2108
+                },
+                {
+                    "secondary_subgoal": "Putting down the cooking pot and chop sticks",
+                    "start_timestamp": 2108,
+                    "stop_timestamp": 2232
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling cooking pot",
+            "start_timestamp": 2232,
+            "stop_timestamp": 2587,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Covering the cooking pot",
+                    "start_timestamp": 2298,
+                    "stop_timestamp": 2355
+                },
+                {
+                    "secondary_subgoal": "Taking the bowl and opening cooking pot",
+                    "start_timestamp": 2426,
+                    "stop_timestamp": 2474
+                },
+                {
+                    "secondary_subgoal": "Putting down the pot lid",
+                    "start_timestamp": 2474,
+                    "stop_timestamp": 2537
+                },
+                {
+                    "secondary_subgoal": "Taking stew",
+                    "start_timestamp": 2537,
+                    "stop_timestamp": 2587
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling stew",
+            "start_timestamp": 2587,
+            "stop_timestamp": 3545,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking and putting stew on bowl",
+                    "start_timestamp": 2587,
+                    "stop_timestamp": 3422
+                },
+                {
+                    "secondary_subgoal": "Putting down the spoon and bowl",
+                    "start_timestamp": 3422,
+                    "stop_timestamp": 3545
+                }
+            ]
+        },
+        {
+            "subgoal": "Collecting chop sticks and covering pot",
+            "start_timestamp": 3545,
+            "stop_timestamp": 3989,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking and closing drawer with chop sticks",
+                    "start_timestamp": 3627,
+                    "stop_timestamp": 3749
+                },
+                {
+                    "secondary_subgoal": "Covering the cooking pot",
+                    "start_timestamp": 3795,
+                    "stop_timestamp": 3862
+                }
+            ]
+        },
+        {
+            "subgoal": "Taking the tray",
+            "start_timestamp": 3989,
+            "stop_timestamp": 4089,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Raising up hand with tray",
+                    "start_timestamp": 3989,
+                    "stop_timestamp": 4089
+                }
+            ]
+        }
+    ]
+}

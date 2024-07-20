@@ -1,0 +1,124 @@
+{
+    "overall_goal": "Organize the kitchen and prepare a meal using vegetables and meat.",
+    "clips": [
+        {
+            "subgoal": "Clean the kitchen.",
+            "start_timestamp": 27,
+            "stop_timestamp": 466,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and put aside the chopping board.",
+                    "start_timestamp": 27,
+                    "stop_timestamp": 114
+                },
+                {
+                    "secondary_subgoal": "Wipe the sink and clean dishes.",
+                    "start_timestamp": 114,
+                    "stop_timestamp": 462
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and wrap a dish.",
+            "start_timestamp": 462,
+            "stop_timestamp": 983,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Get wrapping paper and cover the dish.",
+                    "start_timestamp": 462,
+                    "stop_timestamp": 844
+                },
+                {
+                    "secondary_subgoal": "Wrap the dish and store it.",
+                    "start_timestamp": 844,
+                    "stop_timestamp": 983
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix and prepare meat.",
+            "start_timestamp": 983,
+            "stop_timestamp": 2396,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mix meat and prepare utensils.",
+                    "start_timestamp": 983,
+                    "stop_timestamp": 2212
+                },
+                {
+                    "secondary_subgoal": "Clean up and organize kitchen.",
+                    "start_timestamp": 2212,
+                    "stop_timestamp": 2396
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean again.",
+            "start_timestamp": 2396,
+            "stop_timestamp": 2941,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse a plate and wipe the sink.",
+                    "start_timestamp": 2396,
+                    "stop_timestamp": 2791
+                },
+                {
+                    "secondary_subgoal": "Mix meat again.",
+                    "start_timestamp": 2791,
+                    "stop_timestamp": 2941
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize dishes and utensils.",
+            "start_timestamp": 2941,
+            "stop_timestamp": 4487,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle the meat and put sticks on pan.",
+                    "start_timestamp": 2941,
+                    "stop_timestamp": 4102
+                },
+                {
+                    "secondary_subgoal": "Store leftover utensils and clean up.",
+                    "start_timestamp": 4102,
+                    "stop_timestamp": 4487
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare soup and cut vegetables.",
+            "start_timestamp": 4487,
+            "stop_timestamp": 6320,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pour soup in cup and store.",
+                    "start_timestamp": 4487,
+                    "stop_timestamp": 5574
+                },
+                {
+                    "secondary_subgoal": "Prepare vegetables.",
+                    "start_timestamp": 5574,
+                    "stop_timestamp": 6320
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up remaining items.",
+            "start_timestamp": 6320,
+            "stop_timestamp": 8338,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Store remaining groceries and clean.",
+                    "start_timestamp": 6320,
+                    "stop_timestamp": 7392
+                },
+                {
+                    "secondary_subgoal": "Organize clothing and clean sink.",
+                    "start_timestamp": 7392,
+                    "stop_timestamp": 8338
+                }
+            ]
+        }
+    ]
+}

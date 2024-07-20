@@ -1,0 +1,178 @@
+{
+    "overall_goal": "To cook a meal with various ingredients including onions, tomatoes, spices, and pasta.",
+    "clips": [
+        {
+            "subgoal": "Preparing the cooking oil and switching on the cooker.",
+            "start_timestamp": 108,
+            "stop_timestamp": 600,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walking closer to the counter and picking the cooking oil.",
+                    "start_timestamp": 108,
+                    "stop_timestamp": 179
+                },
+                {
+                    "secondary_subgoal": "Opening the bottle lid and pouring the oil into the pot.",
+                    "start_timestamp": 179,
+                    "stop_timestamp": 486
+                },
+                {
+                    "secondary_subgoal": "Closing the bottle lid and placing the cooking oil on the counter.",
+                    "start_timestamp": 486,
+                    "stop_timestamp": 551
+                },
+                {
+                    "secondary_subgoal": "Pushing the packet of pasta aside and switching on the cooker.",
+                    "start_timestamp": 551,
+                    "stop_timestamp": 600
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing a cup and fetching water.",
+            "start_timestamp": 738,
+            "stop_timestamp": 1061,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking a cup from the rack and opening the water tank.",
+                    "start_timestamp": 738,
+                    "stop_timestamp": 767
+                },
+                {
+                    "secondary_subgoal": "Washing the cup with tap water and turning off the tap.",
+                    "start_timestamp": 767,
+                    "stop_timestamp": 885
+                },
+                {
+                    "secondary_subgoal": "Fetching water in the cup and turning off the tap.",
+                    "start_timestamp": 885,
+                    "stop_timestamp": 1012
+                },
+                {
+                    "secondary_subgoal": "Walking to the cooker and placing the cup on the counter.",
+                    "start_timestamp": 1012,
+                    "stop_timestamp": 1061
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding onions to the cooking pot.",
+            "start_timestamp": 1364,
+            "stop_timestamp": 2000,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking the knife from the cutting board and placing it on the bowl.",
+                    "start_timestamp": 1364,
+                    "stop_timestamp": 1419
+                },
+                {
+                    "secondary_subgoal": "Picking the cutting board and onions from the counter and adding them to the pot.",
+                    "start_timestamp": 1419,
+                    "stop_timestamp": 2000
+                }
+            ]
+        },
+        {
+            "subgoal": "Stirring the onions and adding salt.",
+            "start_timestamp": 2308,
+            "stop_timestamp": 3319,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking a tin from the counter and stirring the onions.",
+                    "start_timestamp": 2308,
+                    "stop_timestamp": 2766
+                },
+                {
+                    "secondary_subgoal": "Adding and closing the salt, then stirring the onions.",
+                    "start_timestamp": 2766,
+                    "stop_timestamp": 3319
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding tomatoes to the cooking pot.",
+            "start_timestamp": 3381,
+            "stop_timestamp": 3501,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking the bowl with tomatoes and pouring into the pot.",
+                    "start_timestamp": 3381,
+                    "stop_timestamp": 3462
+                },
+                {
+                    "secondary_subgoal": "Placing the bowl on the counter.",
+                    "start_timestamp": 3462,
+                    "stop_timestamp": 3501
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding spices and stirring the food.",
+            "start_timestamp": 4524,
+            "stop_timestamp": 5669,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking a bottle of spice, pouring it on the food, and stirring.",
+                    "start_timestamp": 4524,
+                    "stop_timestamp": 5200
+                },
+                {
+                    "secondary_subgoal": "Picking and pouring salt and sauce into the food, then stirring.",
+                    "start_timestamp": 5200,
+                    "stop_timestamp": 5669
+                }
+            ]
+        },
+        {
+            "subgoal": "Covering the cooking pot with a lid.",
+            "start_timestamp": 6182,
+            "stop_timestamp": 6324,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking the lid from the counter and covering the pot.",
+                    "start_timestamp": 6182,
+                    "stop_timestamp": 6324
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding and cooking pasta.",
+            "start_timestamp": 6422,
+            "stop_timestamp": 9228,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening the packet of pasta and placing it on the counter.",
+                    "start_timestamp": 6422,
+                    "stop_timestamp": 7525
+                },
+                {
+                    "secondary_subgoal": "Stirring the food and opening the lid, then adding water and stirring again.",
+                    "start_timestamp": 7525,
+                    "stop_timestamp": 8228
+                },
+                {
+                    "secondary_subgoal": "Switching the cooker, pouring pasta into the pot, and stirring.",
+                    "start_timestamp": 8228,
+                    "stop_timestamp": 9228
+                }
+            ]
+        },
+        {
+            "subgoal": "Finalizing the cooking.",
+            "start_timestamp": 9888,
+            "stop_timestamp": 10363,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring the pasta, covering the pot with the lid, and looking around.",
+                    "start_timestamp": 9888,
+                    "stop_timestamp": 10140
+                },
+                {
+                    "secondary_subgoal": "Moving to the other side of the table and looking around, then tapping on phone.",
+                    "start_timestamp": 10140,
+                    "stop_timestamp": 10363
+                }
+            ]
+        }
+    ]
+}

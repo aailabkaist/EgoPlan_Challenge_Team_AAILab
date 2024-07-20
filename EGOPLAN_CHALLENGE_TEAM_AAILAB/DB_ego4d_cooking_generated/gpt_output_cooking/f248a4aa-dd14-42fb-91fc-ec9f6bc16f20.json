@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9derJKie1RpQ6lvZcIK3JL96rBdhH",
+    "object": "chat.completion",
+    "created": 1719238881,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and cooking a cabbage dish in the kitchen.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing the cabbage for cooking\",\n      \"start_timestamp\": 22,\n      \"stop_timestamp\": 4230,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Taking out and prepping the cabbage\",\n          \"start_timestamp\": 22,\n          \"stop_timestamp\": 827\n        },\n        {\n          \"secondary_subgoal\": \"Cutting and cleaning the cabbage\",\n          \"start_timestamp\": 827,\n          \"stop_timestamp\": 1470\n        },\n        {\n          \"secondary_subgoal\": \"Handling leftovers and cleaning cutting tools\",\n          \"start_timestamp\": 1470,\n          \"stop_timestamp\": 4243\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking the cabbage dish\",\n      \"start_timestamp\": 4243,\n      \"stop_timestamp\": 20872,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Starting the cooking process and heating oil\",\n          \"start_timestamp\": 4243,\n          \"stop_timestamp\": 6682\n        },\n        {\n          \"secondary_subgoal\": \"Adding and sautéing onions\",\n          \"start_timestamp\": 6682,\n          \"stop_timestamp\": 10355\n        },\n        {\n          \"secondary_subgoal\": \"Transferring sautéed onions and adding main ingredients\",\n          \"start_timestamp\": 10355,\n          \"stop_timestamp\": 13552\n        },\n        {\n          \"secondary_subgoal\": \"Mixing and cooking the food thoroughly\",\n          \"start_timestamp\": 13552,\n          \"stop_timestamp\": 20483\n        },\n        {\n          \"secondary_subgoal\": \"Final adjustments and preparing for serving\",\n          \"start_timestamp\": 20483,\n          \"stop_timestamp\": 20872\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4584,
+        "completion_tokens": 403,
+        "total_tokens": 4987
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

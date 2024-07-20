@@ -1,0 +1,118 @@
+{
+    "overall_goal": "Prepare ingredients for a meal by cutting meat, carrots, and onions, and placing them in a sieve bowl.",
+    "clips": [
+        {
+            "subgoal": "Gather ingredients and tools",
+            "start_timestamp": 11,
+            "stop_timestamp": 2250,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move phone to kitchen table",
+                    "start_timestamp": 11,
+                    "stop_timestamp": 74
+                },
+                {
+                    "secondary_subgoal": "Retrieve meat from fridge",
+                    "start_timestamp": 74,
+                    "stop_timestamp": 585
+                },
+                {
+                    "secondary_subgoal": "Place meat on kitchen table",
+                    "start_timestamp": 585,
+                    "stop_timestamp": 602
+                },
+                {
+                    "secondary_subgoal": "Retrieve packet from cabinet and place on table",
+                    "start_timestamp": 726,
+                    "stop_timestamp": 994
+                },
+                {
+                    "secondary_subgoal": "Retrieve carrots and onion from fridge",
+                    "start_timestamp": 1085,
+                    "stop_timestamp": 1737
+                },
+                {
+                    "secondary_subgoal": "Place carrots and onion on kitchen table",
+                    "start_timestamp": 1737,
+                    "stop_timestamp": 1783
+                },
+                {
+                    "secondary_subgoal": "Retrieve pot from cabinet and place on gas cooker",
+                    "start_timestamp": 1875,
+                    "stop_timestamp": 2073
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cutting area and tools",
+            "start_timestamp": 2467,
+            "stop_timestamp": 3720,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place cutting board on kitchen table",
+                    "start_timestamp": 2616,
+                    "stop_timestamp": 2750
+                },
+                {
+                    "secondary_subgoal": "Retrieve knife and wooden spatula",
+                    "start_timestamp": 3452,
+                    "stop_timestamp": 3678
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut and prepare vegetables",
+            "start_timestamp": 4181,
+            "stop_timestamp": 7948,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and wrap onion pieces",
+                    "start_timestamp": 4181,
+                    "stop_timestamp": 5369
+                },
+                {
+                    "secondary_subgoal": "Place onion pieces in crisper",
+                    "start_timestamp": 5396,
+                    "stop_timestamp": 5552
+                },
+                {
+                    "secondary_subgoal": "Cut and wrap carrot pieces",
+                    "start_timestamp": 5652,
+                    "stop_timestamp": 6123
+                },
+                {
+                    "secondary_subgoal": "Rinse carrot pieces",
+                    "start_timestamp": 6158,
+                    "stop_timestamp": 6216
+                },
+                {
+                    "secondary_subgoal": "Cut onions into smaller pieces and place in sink",
+                    "start_timestamp": 6267,
+                    "stop_timestamp": 7524
+                },
+                {
+                    "secondary_subgoal": "Clean and dry cutting board",
+                    "start_timestamp": 7822,
+                    "stop_timestamp": 7948
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut meat and place in bowl",
+            "start_timestamp": 8958,
+            "stop_timestamp": 17935,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Unwrap and place meat on cutting board",
+                    "start_timestamp": 8958,
+                    "stop_timestamp": 19812
+                },
+                {
+                    "secondary_subgoal": "Cut meat into pieces and place in sieve bowl",
+                    "start_timestamp": 19832,
+                    "stop_timestamp": 20281
+                }
+            ]
+        }
+    ]
+}

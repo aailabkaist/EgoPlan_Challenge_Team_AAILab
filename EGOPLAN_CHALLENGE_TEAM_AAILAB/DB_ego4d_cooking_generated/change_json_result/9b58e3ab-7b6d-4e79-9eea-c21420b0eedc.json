@@ -1,0 +1,102 @@
+{
+    "overall_goal": "Prepare and cook an omelette and buns, while maintaining cleanliness",
+    "clips": [
+        {
+            "subgoal": "Prepare cookware and turn on stove",
+            "start_timestamp": 39,
+            "stop_timestamp": 380,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Get pot and turn on stove",
+                    "start_timestamp": 39,
+                    "stop_timestamp": 380
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and toast buns",
+            "start_timestamp": 380,
+            "stop_timestamp": 874,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve buns and place on pan",
+                    "start_timestamp": 380,
+                    "stop_timestamp": 570
+                },
+                {
+                    "secondary_subgoal": "Handle buns while toasting",
+                    "start_timestamp": 570,
+                    "stop_timestamp": 874
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean the area",
+            "start_timestamp": 874,
+            "stop_timestamp": 1843,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Dispose of used paper and clean hands",
+                    "start_timestamp": 874,
+                    "stop_timestamp": 1172
+                },
+                {
+                    "secondary_subgoal": "Wipe down surfaces",
+                    "start_timestamp": 1172,
+                    "stop_timestamp": 1843
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare ingredients for omelette",
+            "start_timestamp": 1843,
+            "stop_timestamp": 3546,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve eggs and other ingredients",
+                    "start_timestamp": 1843,
+                    "stop_timestamp": 2500
+                },
+                {
+                    "secondary_subgoal": "Crack and prepare eggs",
+                    "start_timestamp": 2500,
+                    "stop_timestamp": 3546
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook omelette",
+            "start_timestamp": 3546,
+            "stop_timestamp": 8769,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add butter and cook eggs",
+                    "start_timestamp": 3546,
+                    "stop_timestamp": 5421
+                },
+                {
+                    "secondary_subgoal": "Flip and finish cooking omelette",
+                    "start_timestamp": 5421,
+                    "stop_timestamp": 8769
+                }
+            ]
+        },
+        {
+            "subgoal": "Finalize and clean up",
+            "start_timestamp": 8769,
+            "stop_timestamp": 15292,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Plate omelette and add ketchup",
+                    "start_timestamp": 8769,
+                    "stop_timestamp": 14469
+                },
+                {
+                    "secondary_subgoal": "Clean up workspace and hands",
+                    "start_timestamp": 14469,
+                    "stop_timestamp": 15292
+                }
+            ]
+        }
+    ]
+}

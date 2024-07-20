@@ -1,0 +1,100 @@
+{
+    "overall_goal": "Preparing a meal involving various ingredients and cooking processes in the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Preparation of ingredients and setting up the cooking workspace.",
+            "start_timestamp": 0,
+            "stop_timestamp": 476,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Locating and handling cooking equipment.",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 241
+                },
+                {
+                    "secondary_subgoal": "Setting up for cooking and initial ingredient handling.",
+                    "start_timestamp": 241,
+                    "stop_timestamp": 407
+                },
+                {
+                    "secondary_subgoal": "Setting up the pan for cooking.",
+                    "start_timestamp": 407,
+                    "stop_timestamp": 476
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing onions for cooking.",
+            "start_timestamp": 476,
+            "stop_timestamp": 2756,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieving and washing onions.",
+                    "start_timestamp": 476,
+                    "stop_timestamp": 872
+                },
+                {
+                    "secondary_subgoal": "Chopping onions and handling onion waste.",
+                    "start_timestamp": 872,
+                    "stop_timestamp": 1465
+                },
+                {
+                    "secondary_subgoal": "Further chopping and putting onions into the pan.",
+                    "start_timestamp": 1465,
+                    "stop_timestamp": 2756
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding water and extra ingredients to the pan.",
+            "start_timestamp": 2756,
+            "stop_timestamp": 3319,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing hands and adding water to the pan.",
+                    "start_timestamp": 2756,
+                    "stop_timestamp": 3235
+                },
+                {
+                    "secondary_subgoal": "Handling additional ingredients.",
+                    "start_timestamp": 3235,
+                    "stop_timestamp": 3319
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling storage papers and additional ingredients.",
+            "start_timestamp": 3319,
+            "stop_timestamp": 12320,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling ingredients from storage.",
+                    "start_timestamp": 3319,
+                    "stop_timestamp": 4173
+                },
+                {
+                    "secondary_subgoal": "Washing, chopping, and preparing additional ingredients.",
+                    "start_timestamp": 4173,
+                    "stop_timestamp": 12320
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing cabbage and additional side ingredients.",
+            "start_timestamp": 12320,
+            "stop_timestamp": 21208,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling preparation of cabbage.",
+                    "start_timestamp": 12320,
+                    "stop_timestamp": 18737
+                },
+                {
+                    "secondary_subgoal": "Handling other additional preparations.",
+                    "start_timestamp": 18737,
+                    "stop_timestamp": 21208
+                }
+            ]
+        }
+    ]
+}

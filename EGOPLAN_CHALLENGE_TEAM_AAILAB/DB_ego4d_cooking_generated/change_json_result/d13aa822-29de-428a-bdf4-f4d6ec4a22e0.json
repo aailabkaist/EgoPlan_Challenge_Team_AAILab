@@ -1,0 +1,127 @@
+{
+    "overall_goal": "Prepare and cook pasta with sausages",
+    "clips": [
+        {
+            "subgoal": "Prepare cooking pot with water",
+            "start_timestamp": 0,
+            "stop_timestamp": 1046,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare pot",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 352
+                },
+                {
+                    "secondary_subgoal": "Fill pot with water",
+                    "start_timestamp": 352,
+                    "stop_timestamp": 879
+                },
+                {
+                    "secondary_subgoal": "Place pot on gas cooker",
+                    "start_timestamp": 879,
+                    "stop_timestamp": 1046
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare pasta",
+            "start_timestamp": 1046,
+            "stop_timestamp": 3511,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on gas cooker",
+                    "start_timestamp": 1046,
+                    "stop_timestamp": 1258
+                },
+                {
+                    "secondary_subgoal": "Open and prepare pasta packages",
+                    "start_timestamp": 1258,
+                    "stop_timestamp": 3450
+                },
+                {
+                    "secondary_subgoal": "Touch gas cooker and organize pastas",
+                    "start_timestamp": 3450,
+                    "stop_timestamp": 3511
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare table",
+            "start_timestamp": 3511,
+            "stop_timestamp": 4999,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Organize dining area",
+                    "start_timestamp": 3511,
+                    "stop_timestamp": 4999
+                }
+            ]
+        },
+        {
+            "subgoal": "Fetch ingredients from fridge",
+            "start_timestamp": 4999,
+            "stop_timestamp": 6818,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open fridge and organize ingredients",
+                    "start_timestamp": 4999,
+                    "stop_timestamp": 6790
+                },
+                {
+                    "secondary_subgoal": "Prepare sausage",
+                    "start_timestamp": 6790,
+                    "stop_timestamp": 6818
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare sausage",
+            "start_timestamp": 6818,
+            "stop_timestamp": 8879,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and unwrap sausage",
+                    "start_timestamp": 6818,
+                    "stop_timestamp": 7364
+                },
+                {
+                    "secondary_subgoal": "Sort rubber bands",
+                    "start_timestamp": 7364,
+                    "stop_timestamp": 7711
+                },
+                {
+                    "secondary_subgoal": "Cut sausage",
+                    "start_timestamp": 7711,
+                    "stop_timestamp": 8879
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare pasta and organize kitchen",
+            "start_timestamp": 8879,
+            "stop_timestamp": 21230,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash knife and plates",
+                    "start_timestamp": 8879,
+                    "stop_timestamp": 9244
+                },
+                {
+                    "secondary_subgoal": "Prepare cabbage",
+                    "start_timestamp": 9244,
+                    "stop_timestamp": 12220
+                },
+                {
+                    "secondary_subgoal": "Store shredded cabbage and sausage",
+                    "start_timestamp": 12220,
+                    "stop_timestamp": 15591
+                },
+                {
+                    "secondary_subgoal": "Prepare and cook spaghetti",
+                    "start_timestamp": 15591,
+                    "stop_timestamp": 21230
+                }
+            ]
+        }
+    ]
+}

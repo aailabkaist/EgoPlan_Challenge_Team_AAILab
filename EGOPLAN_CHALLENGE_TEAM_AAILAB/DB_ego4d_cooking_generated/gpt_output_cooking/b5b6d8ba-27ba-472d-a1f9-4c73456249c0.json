@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egz9cXlEOL32QJupUY28QuuWv2BM",
+    "object": "chat.completion",
+    "created": 1719485383,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Prepare and shape dough using a silicone pastry bag and mat\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Prepare silicone pastry bag and dough\",\n            \"start_timestamp\": \"27\",\n            \"stop_timestamp\": \"474\",\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Set up and look at work surface\",\n                    \"start_timestamp\": \"27\",\n                    \"stop_timestamp\": \"184\"\n                },\n                {\n                    \"secondary_subgoal\": \"Adjust camera and examine setup\",\n                    \"start_timestamp\": \"184\",\n                    \"stop_timestamp\": \"293\"\n                },\n                {\n                    \"secondary_subgoal\": \"Start using the silicone pastry bag\",\n                    \"start_timestamp\": \"293\",\n                    \"stop_timestamp\": \"474\"\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Squeeze dough out of silicone pastry bag\",\n            \"start_timestamp\": \"474\",\n            \"stop_timestamp\": \"10217\",\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Squeeze dough and manage silicone pastry bag\",\n                    \"start_timestamp\": \"474\",\n                    \"stop_timestamp\": \"22339\"\n                },\n                {\n                    \"secondary_subgoal\": \"Continue shaping dough with silicone pastry bag\",\n                    \"start_timestamp\": \"22339\",\n                    \"stop_timestamp\": \"27402\"\n                },\n                {\n                    \"secondary_subgoal\": \"Replenish silicone pastry bag and resume dough shaping\",\n                    \"start_timestamp\": \"27402\",\n                    \"stop_timestamp\": \"32778\"\n                },\n                {\n                    \"secondary_subgoal\": \"Squeeze cream from silicone pastry bag\",\n                    \"start_timestamp\": \"32778\",\n                    \"stop_timestamp\": \"35695\"\n                }\n            ]\n        }\n    ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4056,
+        "completion_tokens": 371,
+        "total_tokens": 4427
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

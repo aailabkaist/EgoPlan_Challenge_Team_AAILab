@@ -1,0 +1,134 @@
+{
+    "overall_goal": "Prepare and cook a meal using various ingredients and kitchen utensils.",
+    "clips": [
+        {
+            "subgoal": "Prepare the cabbage for cooking.",
+            "start_timestamp": 53,
+            "stop_timestamp": 4228,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and wash the cabbage.",
+                    "start_timestamp": 101,
+                    "stop_timestamp": 1678
+                },
+                {
+                    "secondary_subgoal": "Place cabbage on chopping board and chop it.",
+                    "start_timestamp": 1678,
+                    "stop_timestamp": 3359
+                },
+                {
+                    "secondary_subgoal": "Put chopped cabbage into a plate.",
+                    "start_timestamp": 3359,
+                    "stop_timestamp": 4228
+                }
+            ]
+        },
+        {
+            "subgoal": "Process the second batch of cabbage.",
+            "start_timestamp": 4829,
+            "stop_timestamp": 6229,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and remove cabbage from polythene paper.",
+                    "start_timestamp": 4829,
+                    "stop_timestamp": 5929
+                },
+                {
+                    "secondary_subgoal": "Remove outer layer, put cabbage in polythene paper, and tie it with a rubber band.",
+                    "start_timestamp": 5929,
+                    "stop_timestamp": 7072
+                },
+                {
+                    "secondary_subgoal": "Store cabbage in a drawer.",
+                    "start_timestamp": 7072,
+                    "stop_timestamp": 7343
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and chop cabbage for cooking.",
+            "start_timestamp": 7430,
+            "stop_timestamp": 8877,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash cabbage.",
+                    "start_timestamp": 7430,
+                    "stop_timestamp": 7495
+                },
+                {
+                    "secondary_subgoal": "Chop and put cabbage in a plate.",
+                    "start_timestamp": 7495,
+                    "stop_timestamp": 8877
+                }
+            ]
+        },
+        {
+            "subgoal": "Gather kitchen tools and prepare for cooking.",
+            "start_timestamp": 9027,
+            "stop_timestamp": 10075,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather tools including mesh sieve and kettle, and fill kettle with water.",
+                    "start_timestamp": 9027,
+                    "stop_timestamp": 9988
+                },
+                {
+                    "secondary_subgoal": "Plug in and turn on the electric kettle.",
+                    "start_timestamp": 9988,
+                    "stop_timestamp": 10075
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the frying pan and oil for cooking.",
+            "start_timestamp": 12007,
+            "stop_timestamp": 12762,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pour cooking oil into frying pan.",
+                    "start_timestamp": 12007,
+                    "stop_timestamp": 12406
+                },
+                {
+                    "secondary_subgoal": "Turn on the cooker.",
+                    "start_timestamp": 12726,
+                    "stop_timestamp": 12762
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and chop carrot.",
+            "start_timestamp": 16383,
+            "stop_timestamp": 17546,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel the carrot with fruit peeler.",
+                    "start_timestamp": 16383,
+                    "stop_timestamp": 17252
+                },
+                {
+                    "secondary_subgoal": "Chop the carrot into small pieces.",
+                    "start_timestamp": 17263,
+                    "stop_timestamp": 17546
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook using the prepared ingredients.",
+            "start_timestamp": 17900,
+            "stop_timestamp": 21174,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pour hot water into the prepared dish.",
+                    "start_timestamp": 17900,
+                    "stop_timestamp": 18585
+                },
+                {
+                    "secondary_subgoal": "Stir ingredients in the frying pan using chopsticks.",
+                    "start_timestamp": 18841,
+                    "stop_timestamp": 20871
+                }
+            ]
+        }
+    ]
+}

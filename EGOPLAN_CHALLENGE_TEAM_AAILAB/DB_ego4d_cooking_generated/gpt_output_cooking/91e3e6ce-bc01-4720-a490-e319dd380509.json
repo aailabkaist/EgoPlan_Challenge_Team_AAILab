@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egyK1fl929afXMMnFomTUtOGWXdS",
+    "object": "chat.completion",
+    "created": 1719485332,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and cooking food (vegetables, dough, and milk mixture).\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Cutting Vegetables\",\n      \"start_timestamp\": 48,\n      \"stop_timestamp\": 2641,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Initial Cutting of Vegetables\",\n          \"start_timestamp\": 48,\n          \"stop_timestamp\": 812\n        },\n        {\n          \"secondary_subgoal\": \"Transferring Vegetables\",\n          \"start_timestamp\": 812,\n          \"stop_timestamp\": 911\n        },\n        {\n          \"secondary_subgoal\": \"Sauteing and Pouring Vegetables\",\n          \"start_timestamp\": 911,\n          \"stop_timestamp\": 2641\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing Leaves\",\n      \"start_timestamp\": 2641,\n      \"stop_timestamp\": 14687,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Plucking Leaves\",\n          \"start_timestamp\": 2726,\n          \"stop_timestamp\": 7247\n        },\n        {\n          \"secondary_subgoal\": \"Placing and Arranging Leaves\",\n          \"start_timestamp\": 7247,\n          \"stop_timestamp\": 14603\n        },\n        {\n          \"secondary_subgoal\": \"Sighing and Reviewing the Work\",\n          \"start_timestamp\": 14603,\n          \"stop_timestamp\": 14687\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Making Dough\",\n      \"start_timestamp\": 14687,\n      \"stop_timestamp\": 45337,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Preparing Dough Balls\",\n          \"start_timestamp\": 14687,\n          \"stop_timestamp\": 18693\n        },\n        {\n          \"secondary_subgoal\": \"Rolling the Dough\",\n          \"start_timestamp\": 18693,\n          \"stop_timestamp\": 45337\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking Tortillas\",\n      \"start_timestamp\": 45337,\n      \"stop_timestamp\": 45787,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cooking and Flipping Tortillas\",\n          \"start_timestamp\": 45337,\n          \"stop_timestamp\": 45787\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing and Cooking Butter Cream\",\n      \"start_timestamp\": 45787,\n      \"stop_timestamp\": 76093,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Preparing Butter Cream\",\n          \"start_timestamp\": 45787,\n          \"stop_timestamp\": 72715\n        },\n        {\n          \"secondary_subgoal\": \"Stirring the Soup\",\n          \"start_timestamp\": 72715,\n          \"stop_timestamp\": 76093\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 15218,
+        "completion_tokens": 618,
+        "total_tokens": 15836
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

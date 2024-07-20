@@ -1,0 +1,101 @@
+{
+    "overall_goal": "Prepare food by cleaning, chopping, and cooking various ingredients in the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Prepare potatoes for cooking",
+            "start_timestamp": 0,
+            "stop_timestamp": 7442,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve necessary items",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 341
+                },
+                {
+                    "secondary_subgoal": "Clean the potatoes",
+                    "start_timestamp": 751,
+                    "stop_timestamp": 1251
+                },
+                {
+                    "secondary_subgoal": "Peel and chop the potatoes",
+                    "start_timestamp": 1251,
+                    "stop_timestamp": 3020
+                },
+                {
+                    "secondary_subgoal": "Add water to the potatoes",
+                    "start_timestamp": 3177,
+                    "stop_timestamp": 3312
+                },
+                {
+                    "secondary_subgoal": "Continue to chop and add potatoes",
+                    "start_timestamp": 3312,
+                    "stop_timestamp": 5909
+                },
+                {
+                    "secondary_subgoal": "Clean the filter basket",
+                    "start_timestamp": 5944,
+                    "stop_timestamp": 6301
+                },
+                {
+                    "secondary_subgoal": "Place the chopped potatoes in a plate",
+                    "start_timestamp": 6352,
+                    "stop_timestamp": 6835
+                }
+            ]
+        },
+        {
+            "subgoal": "Start preparing ham for cooking",
+            "start_timestamp": 7998,
+            "stop_timestamp": 11289,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and unwrap ham",
+                    "start_timestamp": 9316,
+                    "stop_timestamp": 9724
+                },
+                {
+                    "secondary_subgoal": "Prepare cooking utensils",
+                    "start_timestamp": 8678,
+                    "stop_timestamp": 9176
+                },
+                {
+                    "secondary_subgoal": "Heat pan and oil",
+                    "start_timestamp": 9991,
+                    "stop_timestamp": 10155
+                },
+                {
+                    "secondary_subgoal": "Place ham in pan",
+                    "start_timestamp": 10834,
+                    "stop_timestamp": 11289
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare additional ingredients",
+            "start_timestamp": 11927,
+            "stop_timestamp": 20505,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and clean vegetables",
+                    "start_timestamp": 11949,
+                    "stop_timestamp": 14737
+                },
+                {
+                    "secondary_subgoal": "Cut tomatoes",
+                    "start_timestamp": 14737,
+                    "stop_timestamp": 14929
+                },
+                {
+                    "secondary_subgoal": "Retrieve and clean bell peppers",
+                    "start_timestamp": 15502,
+                    "stop_timestamp": 15772
+                },
+                {
+                    "secondary_subgoal": "Clean and peel maize corns",
+                    "start_timestamp": 17505,
+                    "stop_timestamp": 18880
+                }
+            ]
+        }
+    ]
+}

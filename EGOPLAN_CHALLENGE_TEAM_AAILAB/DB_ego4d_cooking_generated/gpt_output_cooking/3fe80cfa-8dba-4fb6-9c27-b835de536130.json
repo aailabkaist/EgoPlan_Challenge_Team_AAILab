@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egOOK3B9u67nzDKhTxiOXZWn18mE",
+    "object": "chat.completion",
+    "created": 1719483104,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Prepare and cook greens with garlic and other ingredients.\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Clean the cooking pan and prepare for cooking\",\n            \"start_timestamp\": 45,\n            \"stop_timestamp\": 669,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Clean the cooking pan\", \"start_timestamp\": 85, \"stop_timestamp\": 454},\n                {\"secondary_subgoal\": \"Dry hands with towel\", \"start_timestamp\": 612, \"stop_timestamp\": 669}\n            ]\n        },\n        {\n            \"subgoal\": \"Prepare chopping board and other cooking utensils\",\n            \"start_timestamp\": 716,\n            \"stop_timestamp\": 1248,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Get plate and board ready\", \"start_timestamp\": 772, \"stop_timestamp\": 1076},\n                {\"secondary_subgoal\": \"Pour water from kettle\", \"start_timestamp\": 1164, \"stop_timestamp\": 1248}\n            ]\n        },\n        {\n            \"subgoal\": \"Prepare ingredients in water dish\",\n            \"start_timestamp\": 1345,\n            \"stop_timestamp\": 2383,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Add water to dish with sticks\", \"start_timestamp\": 1635, \"stop_timestamp\": 1934},\n                {\"secondary_subgoal\": \"Clean greens\", \"start_timestamp\": 2064, \"stop_timestamp\": 2383}\n            ]\n        },\n        {\n            \"subgoal\": \"Cut and prepare greens\",\n            \"start_timestamp\": 2431,\n            \"stop_timestamp\": 3338,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Cut and press greens\", \"start_timestamp\": 2659, \"stop_timestamp\": 2710},\n                {\"secondary_subgoal\": \"Stir greens in dish\", \"start_timestamp\": 2925, \"stop_timestamp\": 3338}\n            ]\n        },\n        {\n            \"subgoal\": \"Continue food preparation and handle garlic ingredients\",\n            \"start_timestamp\": 3511,\n            \"stop_timestamp\": 4400,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Handle and cut greens\", \"start_timestamp\": 3622, \"stop_timestamp\": 4095},\n                {\"secondary_subgoal\": \"Prepare and peel garlic\", \"start_timestamp\": 4377, \"stop_timestamp\": 4959}\n            ]\n        },\n        {\n            \"subgoal\": \"Cut garlic and mix\",\n            \"start_timestamp\": 4959,\n            \"stop_timestamp\": 11232,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Cut garlic\", \"start_timestamp\": 5010, \"stop_timestamp\": 10809},\n                {\"secondary_subgoal\": \"Place garlic in cooking pan\", \"start_timestamp\": 11402, \"stop_timestamp\": 12106}\n            ]\n        },\n        {\n            \"subgoal\": \"Open kitchen cabinets and get ingredients\",\n            \"start_timestamp\": 12399,\n            \"stop_timestamp\": 1284,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Open kitchen cabinets\", \"start_timestamp\": 12399, \"stop_timestamp\": 12399},\n                {\"secondary_subgoal\": \"Pick oil from cabinets\", \"start_timestamp\": 12507, \"stop_timestamp\": 12859}\n            ]\n        },\n        {\n            \"subgoal\": \"Cook the prepared food mixture\",\n            \"start_timestamp\": 13653,\n            \"stop_timestamp\": 18477,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Pour oil and stir food\", \"start_timestamp\": 13653, \"stop_timestamp\": 13747},\n                {\"secondary_subgoal\": \"Continue stirring food\", \"start_timestamp\": 16487, \"stop_timestamp\": 18541}\n            ]\n        },\n        {\n            \"subgoal\": \"Stir and taste cooked food\",\n            \"start_timestamp\": 20890,\n            \"stop_timestamp\": 21321,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Stir and taste food\", \"start_timestamp\": 20933, \"stop_timestamp\": 21225}\n            ]\n        }\n    ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4007,
+        "completion_tokens": 892,
+        "total_tokens": 4899
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

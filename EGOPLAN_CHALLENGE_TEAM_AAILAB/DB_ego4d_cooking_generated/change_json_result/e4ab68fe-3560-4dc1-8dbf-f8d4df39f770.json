@@ -1,0 +1,190 @@
+{
+    "overall_goal": "Prepare a dish using onions, garlic, bell peppers, hot pepper, and tomato paste",
+    "clips": [
+        {
+            "subgoal": "Prepare initial snacks and collect ingredients",
+            "start_timestamp": 27,
+            "stop_timestamp": 394,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and eat initial snacks",
+                    "start_timestamp": 27,
+                    "stop_timestamp": 154
+                },
+                {
+                    "secondary_subgoal": "Collect ingredients from the fridge",
+                    "start_timestamp": 154,
+                    "stop_timestamp": 394
+                }
+            ]
+        },
+        {
+            "subgoal": "Open energy drink and snack",
+            "start_timestamp": 394,
+            "stop_timestamp": 692,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and drink energy drink",
+                    "start_timestamp": 394,
+                    "stop_timestamp": 664
+                },
+                {
+                    "secondary_subgoal": "Place drink and hold bag",
+                    "start_timestamp": 664,
+                    "stop_timestamp": 692
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the onions",
+            "start_timestamp": 692,
+            "stop_timestamp": 9072,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Unpack and prepare onions",
+                    "start_timestamp": 692,
+                    "stop_timestamp": 1397
+                },
+                {
+                    "secondary_subgoal": "Cut and peel onions",
+                    "start_timestamp": 1397,
+                    "stop_timestamp": 3090
+                },
+                {
+                    "secondary_subgoal": "Chop the onions",
+                    "start_timestamp": 3090,
+                    "stop_timestamp": 6357
+                },
+                {
+                    "secondary_subgoal": "Snack break",
+                    "start_timestamp": 6357,
+                    "stop_timestamp": 8745
+                },
+                {
+                    "secondary_subgoal": "Continue onion preparation",
+                    "start_timestamp": 8745,
+                    "stop_timestamp": 9072
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the cooking pan and stove",
+            "start_timestamp": 9072,
+            "stop_timestamp": 10484,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Setup cooking pan and stove",
+                    "start_timestamp": 9072,
+                    "stop_timestamp": 9525
+                },
+                {
+                    "secondary_subgoal": "Pour oil and snack",
+                    "start_timestamp": 9525,
+                    "stop_timestamp": 9994
+                },
+                {
+                    "secondary_subgoal": "Heat cooking pan",
+                    "start_timestamp": 9994,
+                    "stop_timestamp": 10484
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook onions",
+            "start_timestamp": 10484,
+            "stop_timestamp": 18853,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Transfer onions to pan",
+                    "start_timestamp": 10484,
+                    "stop_timestamp": 11511
+                },
+                {
+                    "secondary_subgoal": "Snack and stir onions",
+                    "start_timestamp": 11511,
+                    "stop_timestamp": 12907
+                },
+                {
+                    "secondary_subgoal": "Continue stirring and snacking",
+                    "start_timestamp": 12907,
+                    "stop_timestamp": 18853
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare garlic",
+            "start_timestamp": 18853,
+            "stop_timestamp": 22320,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and prepare garlic",
+                    "start_timestamp": 18853,
+                    "stop_timestamp": 20432
+                },
+                {
+                    "secondary_subgoal": "Cut and peel garlic",
+                    "start_timestamp": 20432,
+                    "stop_timestamp": 22320
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare hot and bell peppers",
+            "start_timestamp": 22320,
+            "stop_timestamp": 29017,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and wash peppers",
+                    "start_timestamp": 22320,
+                    "stop_timestamp": 22684
+                },
+                {
+                    "secondary_subgoal": "Cut and prepare hot peppers",
+                    "start_timestamp": 22684,
+                    "stop_timestamp": 21881
+                },
+                {
+                    "secondary_subgoal": "Prepare bell peppers",
+                    "start_timestamp": 21881,
+                    "stop_timestamp": 29017
+                }
+            ]
+        },
+        {
+            "subgoal": "Add bell peppers to the cooking pot",
+            "start_timestamp": 29017,
+            "stop_timestamp": 34488,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir and Add",
+                    "start_timestamp": 29017,
+                    "stop_timestamp": 34516
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare tomato paste",
+            "start_timestamp": 34516,
+            "stop_timestamp": 37971,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and add tomato paste",
+                    "start_timestamp": 34516,
+                    "stop_timestamp": 37971
+                }
+            ]
+        },
+        {
+            "subgoal": "Final preparation and cooking",
+            "start_timestamp": 37971,
+            "stop_timestamp": 39206,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Final steps and cleanup",
+                    "start_timestamp": 37971,
+                    "stop_timestamp": 39206
+                }
+            ]
+        }
+    ]
+}

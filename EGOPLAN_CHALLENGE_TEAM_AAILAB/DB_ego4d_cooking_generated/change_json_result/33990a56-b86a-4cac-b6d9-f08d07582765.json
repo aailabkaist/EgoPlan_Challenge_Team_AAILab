@@ -1,0 +1,84 @@
+{
+    "overall_goal": "Prepare a cucumber salad and cook garlic-onion meat.",
+    "clips": [
+        {
+            "subgoal": "Prepare cucumber salad",
+            "start_timestamp": 61,
+            "stop_timestamp": 8400,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve cucumber from fridge",
+                    "start_timestamp": 61,
+                    "stop_timestamp": 461
+                },
+                {
+                    "secondary_subgoal": "Place cucumber on kitchen top",
+                    "start_timestamp": 461,
+                    "stop_timestamp": 537
+                },
+                {
+                    "secondary_subgoal": "Prepare kitchen for cucumber slicing",
+                    "start_timestamp": 537,
+                    "stop_timestamp": 784
+                },
+                {
+                    "secondary_subgoal": "Unwrap and wash cucumber",
+                    "start_timestamp": 784,
+                    "stop_timestamp": 1446
+                },
+                {
+                    "secondary_subgoal": "Cut and place cucumber slices in plastic tin",
+                    "start_timestamp": 1446,
+                    "stop_timestamp": 1906
+                },
+                {
+                    "secondary_subgoal": "Dispose cucumber leftovers and clean",
+                    "start_timestamp": 1906,
+                    "stop_timestamp": 8836
+                },
+                {
+                    "secondary_subgoal": "Add salt and #unsure to the cucumber",
+                    "start_timestamp": 8836,
+                    "stop_timestamp": 8003
+                },
+                {
+                    "secondary_subgoal": "Mix cucumber with salt and #unsure",
+                    "start_timestamp": 8003,
+                    "stop_timestamp": 8176
+                },
+                {
+                    "secondary_subgoal": "Place cucumber salad in plastic tin and shake",
+                    "start_timestamp": 8176,
+                    "stop_timestamp": 8324
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare garlic-onion meat",
+            "start_timestamp": 8324,
+            "stop_timestamp": 21172,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Unwrap and cut eggplant",
+                    "start_timestamp": 8324,
+                    "stop_timestamp": 11053
+                },
+                {
+                    "secondary_subgoal": "Prepare and cut onion",
+                    "start_timestamp": 11053,
+                    "stop_timestamp": 13632
+                },
+                {
+                    "secondary_subgoal": "Retrieve and prepare garlic",
+                    "start_timestamp": 13632,
+                    "stop_timestamp": 18848
+                },
+                {
+                    "secondary_subgoal": "Prepare and cook meat",
+                    "start_timestamp": 18848,
+                    "stop_timestamp": 21172
+                }
+            ]
+        }
+    ]
+}

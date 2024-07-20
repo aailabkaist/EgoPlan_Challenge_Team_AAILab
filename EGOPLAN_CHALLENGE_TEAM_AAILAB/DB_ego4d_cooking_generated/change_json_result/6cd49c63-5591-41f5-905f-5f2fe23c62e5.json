@@ -1,0 +1,305 @@
+{
+    "overall_goal": "Cleaning the kitchen items and the kitchen sink",
+    "clips": [
+        {
+            "subgoal": "Preparing to wash dishes",
+            "start_timestamp": 64,
+            "stop_timestamp": 1031,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjusting camera",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 64
+                },
+                {
+                    "secondary_subgoal": "Turning on the tap",
+                    "start_timestamp": 64,
+                    "stop_timestamp": 84
+                },
+                {
+                    "secondary_subgoal": "Opening the tap",
+                    "start_timestamp": 84,
+                    "stop_timestamp": 103
+                },
+                {
+                    "secondary_subgoal": "Taking and washing the scrub sponge",
+                    "start_timestamp": 103,
+                    "stop_timestamp": 219
+                },
+                {
+                    "secondary_subgoal": "Taking the soap bottle",
+                    "start_timestamp": 219,
+                    "stop_timestamp": 263
+                },
+                {
+                    "secondary_subgoal": "Adding soap to the scrub sponge",
+                    "start_timestamp": 263,
+                    "stop_timestamp": 303
+                },
+                {
+                    "secondary_subgoal": "Putting down the soap bottle",
+                    "start_timestamp": 303,
+                    "stop_timestamp": 330
+                },
+                {
+                    "secondary_subgoal": "Rotating the tap",
+                    "start_timestamp": 330,
+                    "stop_timestamp": 373
+                },
+                {
+                    "secondary_subgoal": "Washing the tap",
+                    "start_timestamp": 373,
+                    "stop_timestamp": 418
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing chop sticks and spoon",
+            "start_timestamp": 418,
+            "stop_timestamp": 627,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking the chop sticks",
+                    "start_timestamp": 418,
+                    "stop_timestamp": 505
+                },
+                {
+                    "secondary_subgoal": "Washing the chop sticks",
+                    "start_timestamp": 505,
+                    "stop_timestamp": 519
+                },
+                {
+                    "secondary_subgoal": "Putting down the chop sticks",
+                    "start_timestamp": 519,
+                    "stop_timestamp": 533
+                },
+                {
+                    "secondary_subgoal": "Taking the spoon",
+                    "start_timestamp": 533,
+                    "stop_timestamp": 566
+                },
+                {
+                    "secondary_subgoal": "Washing the spoon",
+                    "start_timestamp": 566,
+                    "stop_timestamp": 627
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing various bowls and putting them down",
+            "start_timestamp": 627,
+            "stop_timestamp": 1031,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking and washing a bowl",
+                    "start_timestamp": 627,
+                    "stop_timestamp": 782
+                },
+                {
+                    "secondary_subgoal": "Taking, washing, and dropping another bowl",
+                    "start_timestamp": 819,
+                    "stop_timestamp": 916
+                },
+                {
+                    "secondary_subgoal": "Taking and washing yet another bowl",
+                    "start_timestamp": 941,
+                    "stop_timestamp": 999
+                },
+                {
+                    "secondary_subgoal": "Putting down the bowls",
+                    "start_timestamp": 999,
+                    "stop_timestamp": 1031
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning the cutting board and knife",
+            "start_timestamp": 1031,
+            "stop_timestamp": 1456,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning the cutting board",
+                    "start_timestamp": 1329,
+                    "stop_timestamp": 1414
+                },
+                {
+                    "secondary_subgoal": "Putting down the cutting board",
+                    "start_timestamp": 1414,
+                    "stop_timestamp": 1476
+                },
+                {
+                    "secondary_subgoal": "Taking, washing, and putting down the knife",
+                    "start_timestamp": 1227,
+                    "stop_timestamp": 1329
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing and scrubbing a plate",
+            "start_timestamp": 1525,
+            "stop_timestamp": 1777,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking the plate",
+                    "start_timestamp": 1525,
+                    "stop_timestamp": 1560
+                },
+                {
+                    "secondary_subgoal": "Opening the tap and washing the plate",
+                    "start_timestamp": 1560,
+                    "stop_timestamp": 1583
+                },
+                {
+                    "secondary_subgoal": "Touching the tap",
+                    "start_timestamp": 1583,
+                    "stop_timestamp": 1611
+                },
+                {
+                    "secondary_subgoal": "Taking and scrubbing the plate with the scrub sponge",
+                    "start_timestamp": 1638,
+                    "stop_timestamp": 1747
+                },
+                {
+                    "secondary_subgoal": "Putting down the plate",
+                    "start_timestamp": 1747,
+                    "stop_timestamp": 1777
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning the trash",
+            "start_timestamp": 6989,
+            "stop_timestamp": 7431,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking the trash bag",
+                    "start_timestamp": 6989,
+                    "stop_timestamp": 7291
+                },
+                {
+                    "secondary_subgoal": "Closing the trash bag and putting it in the trash bin",
+                    "start_timestamp": 7291,
+                    "stop_timestamp": 7395
+                },
+                {
+                    "secondary_subgoal": "Wiping hands with a hand towel",
+                    "start_timestamp": 7395,
+                    "stop_timestamp": 7431
+                }
+            ]
+        },
+        {
+            "subgoal": "Drying and storing the bowls",
+            "start_timestamp": 7498,
+            "stop_timestamp": 8567,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Drying the bowls with a towel",
+                    "start_timestamp": 7498,
+                    "stop_timestamp": 8470
+                },
+                {
+                    "secondary_subgoal": "Opening the cupboard",
+                    "start_timestamp": 8470,
+                    "stop_timestamp": 8502
+                },
+                {
+                    "secondary_subgoal": "Putting the plates in the cupboard",
+                    "start_timestamp": 8502,
+                    "stop_timestamp": 8567
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning and storing the utensils",
+            "start_timestamp": 8580,
+            "stop_timestamp": 10371,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wiping the knife",
+                    "start_timestamp": 8588,
+                    "stop_timestamp": 8743
+                },
+                {
+                    "secondary_subgoal": "Placing the knife in the cabinet",
+                    "start_timestamp": 8743,
+                    "stop_timestamp": 8825
+                },
+                {
+                    "secondary_subgoal": "Cleaning and storing the chopsticks",
+                    "start_timestamp": 8825,
+                    "stop_timestamp": 8989
+                },
+                {
+                    "secondary_subgoal": "Wiping chopsticks with a towel",
+                    "start_timestamp": 8989,
+                    "stop_timestamp": 9101
+                },
+                {
+                    "secondary_subgoal": "Placing chopsticks in the drawer",
+                    "start_timestamp": 9101,
+                    "stop_timestamp": 9227
+                },
+                {
+                    "secondary_subgoal": "Wiping the plate",
+                    "start_timestamp": 9227,
+                    "stop_timestamp": 9460
+                },
+                {
+                    "secondary_subgoal": "Moving items and storing them in the cabinet",
+                    "start_timestamp": 9460,
+                    "stop_timestamp": 9701
+                }
+            ]
+        },
+        {
+            "subgoal": "Wiping the sink and surrounding area",
+            "start_timestamp": 9701,
+            "stop_timestamp": 11093,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wiping the spoon",
+                    "start_timestamp": 9701,
+                    "stop_timestamp": 9781
+                },
+                {
+                    "secondary_subgoal": "Placing the spoon in the tray",
+                    "start_timestamp": 9781,
+                    "stop_timestamp": 9816
+                },
+                {
+                    "secondary_subgoal": "Unfolding, hanging, and folding the towel",
+                    "start_timestamp": 9816,
+                    "stop_timestamp": 9993
+                },
+                {
+                    "secondary_subgoal": "Wiping the tray and placing it on the floor",
+                    "start_timestamp": 9993,
+                    "stop_timestamp": 10210
+                },
+                {
+                    "secondary_subgoal": "Wiping the sink",
+                    "start_timestamp": 10210,
+                    "stop_timestamp": 10496
+                }
+            ]
+        },
+        {
+            "subgoal": "Final rinse and close-up",
+            "start_timestamp": 11023,
+            "stop_timestamp": 11816,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening the tap and rinsing the sink",
+                    "start_timestamp": 11023,
+                    "stop_timestamp": 11340
+                },
+                {
+                    "secondary_subgoal": "Closing the tap and handling the nozzle",
+                    "start_timestamp": 11340,
+                    "stop_timestamp": 11408
+                }
+            ]
+        }
+    ]
+}

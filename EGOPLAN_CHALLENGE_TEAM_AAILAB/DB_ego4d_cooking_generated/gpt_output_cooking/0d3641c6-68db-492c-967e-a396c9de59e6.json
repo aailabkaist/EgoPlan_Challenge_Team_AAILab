@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efI9zi2NYrfi1WElAiy1sPho269O",
+    "object": "chat.completion",
+    "created": 1719478873,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook broccoli, clean the kitchen, and store and mix additional ingredients.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare and cook broccoli\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 2283,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Set up the cooking pot and prepare for cooking\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 393\n        },\n        {\n          \"secondary_subgoal\": \"Handle and wash broccoli\",\n          \"start_timestamp\": 438,\n          \"stop_timestamp\": 728\n        },\n        {\n          \"secondary_subgoal\": \"Cut the broccoli\",\n          \"start_timestamp\": 822,\n          \"stop_timestamp\": 1718\n        },\n        {\n          \"secondary_subgoal\": \"Cook the broccoli\",\n          \"start_timestamp\": 1765,\n          \"stop_timestamp\": 2283\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean the kitchen utensils\",\n      \"start_timestamp\": 2343,\n      \"stop_timestamp\": 3983,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean serving bowl and chopping board\",\n          \"start_timestamp\": 2343,\n          \"stop_timestamp\": 3178\n        },\n        {\n          \"secondary_subgoal\": \"Dry serving bowl and container\",\n          \"start_timestamp\": 3220,\n          \"stop_timestamp\": 3773\n        },\n        {\n          \"secondary_subgoal\": \"Clean and dry knife\",\n          \"start_timestamp\": 3934,\n          \"stop_timestamp\": 4589\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Store and mix additional ingredients\",\n      \"start_timestamp\": 4625,\n      \"stop_timestamp\": 10146,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Rinse and prepare serving bowl\",\n          \"start_timestamp\": 4698,\n          \"stop_timestamp\": 5044\n        },\n        {\n          \"secondary_subgoal\": \"Prepare spices and soy sauce, mix ingredients\",\n          \"start_timestamp\": 5354,\n          \"stop_timestamp\": 7586\n        },\n        {\n          \"secondary_subgoal\": \"Store ingredients in the refrigerator\",\n          \"start_timestamp\": 7909,\n          \"stop_timestamp\": 8606\n        },\n        {\n          \"secondary_subgoal\": \"Check cooking pot and cook broccoli\",\n          \"start_timestamp\": 8639,\n          \"stop_timestamp\": 9445\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Set up the camera\",\n      \"start_timestamp\": 10739,\n      \"stop_timestamp\": 10839,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Mount the camera\",\n          \"start_timestamp\": 10739,\n          \"stop_timestamp\": 10839\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4551,
+        "completion_tokens": 620,
+        "total_tokens": 5171
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

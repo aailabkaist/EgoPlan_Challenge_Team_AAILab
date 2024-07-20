@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egwP9szDtwb6dz4p8D5j5VBjrb5v",
+    "object": "chat.completion",
+    "created": 1719485213,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare vegetables for cooking by taking, plucking, cutting, and placing them in a pot.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Gather leaves and remove them from stalks\",\n      \"start_timestamp\": 33,\n      \"stop_timestamp\": 2989,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Take leaves\",\n          \"start_timestamp\": 33,\n          \"stop_timestamp\": 191\n        },\n        {\n          \"secondary_subgoal\": \"Remove leaves from stalks\",\n          \"start_timestamp\": 191,\n          \"stop_timestamp\": 383\n        },\n        {\n          \"secondary_subgoal\": \"Take leaves\",\n          \"start_timestamp\": 383,\n          \"stop_timestamp\": 516\n        },\n        {\n          \"secondary_subgoal\": \"Mend the camera\",\n          \"start_timestamp\": 516,\n          \"stop_timestamp\": 580\n        },\n        {\n          \"secondary_subgoal\": \"Take leaves\",\n          \"start_timestamp\": 580,\n          \"stop_timestamp\": 1097\n        },\n        {\n          \"secondary_subgoal\": \"Remove leaves from stalks\",\n          \"start_timestamp\": 1097,\n          \"stop_timestamp\": 2989\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Process leaves and put in a container\",\n      \"start_timestamp\": 2989,\n      \"stop_timestamp\": 8555,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Place leaves in steel container\",\n          \"start_timestamp\": 2989,\n          \"stop_timestamp\": 8555\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Pluck vegetable leaves and dispose of waste\",\n      \"start_timestamp\": 8555,\n      \"stop_timestamp\": 10617,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pluck, cut, and throw stems\",\n          \"start_timestamp\": 8555,\n          \"stop_timestamp\": 10617\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cut and place vegetable leaves in a cooking pot\",\n      \"start_timestamp\": 10617,\n      \"stop_timestamp\": 14249,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut and place leaves\",\n          \"start_timestamp\": 10617,\n          \"stop_timestamp\": 14249\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Peel and drop vegetables in different locations\",\n      \"start_timestamp\": 14249,\n      \"stop_timestamp\": 29924,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Peel, cut, and drop vegetables\",\n          \"start_timestamp\": 14249,\n          \"stop_timestamp\": 10617\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final peels and drops of vegetables\",\n      \"start_timestamp\": 29924,\n      \"stop_timestamp\": 31680,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Final vegetable processing\",\n          \"start_timestamp\": 29924,\n          \"stop_timestamp\": 31680\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3454,
+        "completion_tokens": 681,
+        "total_tokens": 4135
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

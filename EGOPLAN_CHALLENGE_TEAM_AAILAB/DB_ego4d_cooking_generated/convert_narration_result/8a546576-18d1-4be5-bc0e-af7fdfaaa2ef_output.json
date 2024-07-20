@@ -1,0 +1,917 @@
+[
+    {
+        "task_goal": "Sift the rice.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Sieves rice.",
+                "start_frame": 31774,
+                "stop_frame": 31889
+            },
+            {
+                "narration_text": "Puts the rice sieve on the floor.",
+                "start_frame": 31889,
+                "stop_frame": 31935
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the rice sieve on the floor.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Sieves rice.",
+                "start_frame": 31774,
+                "stop_frame": 31889
+            },
+            {
+                "narration_text": "Puts the rice sieve on the floor.",
+                "start_frame": 31889,
+                "stop_frame": 31935
+            },
+            {
+                "narration_text": "Walks around.",
+                "start_frame": 31935,
+                "stop_frame": 31985
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk to find a pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the rice sieve on the floor.",
+                "start_frame": 31889,
+                "stop_frame": 31935
+            },
+            {
+                "narration_text": "Walks around.",
+                "start_frame": 31935,
+                "stop_frame": 31985
+            },
+            {
+                "narration_text": "Picks up a pot.",
+                "start_frame": 31985,
+                "stop_frame": 32029
+            },
+            {
+                "narration_text": "Walks around.",
+                "start_frame": 32029,
+                "stop_frame": 32247
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up and fill the pot with water.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up a pot.",
+                "start_frame": 31985,
+                "stop_frame": 32029
+            },
+            {
+                "narration_text": "Walks around.",
+                "start_frame": 32029,
+                "stop_frame": 32247
+            },
+            {
+                "narration_text": "Pours water in the pot.",
+                "start_frame": 32247,
+                "stop_frame": 32424
+            },
+            {
+                "narration_text": "Pumps water.",
+                "start_frame": 32424,
+                "stop_frame": 32550
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse the pot and place it on the floor.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours the water on the floor.",
+                "start_frame": 32726,
+                "stop_frame": 32838
+            },
+            {
+                "narration_text": "Rinses the pot.",
+                "start_frame": 32838,
+                "stop_frame": 32894
+            },
+            {
+                "narration_text": "Walks around.",
+                "start_frame": 32894,
+                "stop_frame": 33076
+            },
+            {
+                "narration_text": "Places the pot on the floor.",
+                "start_frame": 33076,
+                "stop_frame": 33112
+            },
+            {
+                "narration_text": "Walks around.",
+                "start_frame": 33112,
+                "stop_frame": 33169
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick ginger from a shelf.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around.",
+                "start_frame": 33112,
+                "stop_frame": 33169
+            },
+            {
+                "narration_text": "Picks ginger from a shelf.",
+                "start_frame": 33169,
+                "stop_frame": 33293
+            },
+            {
+                "narration_text": "Unhangs a serving spoon.",
+                "start_frame": 33293,
+                "stop_frame": 33342
+            }
+        ]
+    },
+    {
+        "task_goal": "Unhang and use a serving spoon to cut and break ginger.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Unhangs a serving spoon.",
+                "start_frame": 33293,
+                "stop_frame": 33342
+            },
+            {
+                "narration_text": "Cuts the ginger with the back edge of the spoon.",
+                "start_frame": 33342,
+                "stop_frame": 33424
+            },
+            {
+                "narration_text": "Turns the spoon.",
+                "start_frame": 33424,
+                "stop_frame": 33478
+            },
+            {
+                "narration_text": "Cuts the ginger.",
+                "start_frame": 33478,
+                "stop_frame": 34108
+            },
+            {
+                "narration_text": "Breaks the ginger with his hands.",
+                "start_frame": 34108,
+                "stop_frame": 34164
+            },
+            {
+                "narration_text": "Hangs the spoon back on the wall.",
+                "start_frame": 34164,
+                "stop_frame": 34206
+            }
+        ]
+    },
+    {
+        "task_goal": "Hang the spoon back on the wall and collect a cutter.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Breaks the ginger with his hands.",
+                "start_frame": 34108,
+                "stop_frame": 34164
+            },
+            {
+                "narration_text": "Hangs the spoon back on the wall.",
+                "start_frame": 34164,
+                "stop_frame": 34206
+            },
+            {
+                "narration_text": "Looks around.",
+                "start_frame": 34206,
+                "stop_frame": 34364
+            },
+            {
+                "narration_text": "Moves around.",
+                "start_frame": 34364,
+                "stop_frame": 34400
+            },
+            {
+                "narration_text": "Moves the rice sieve.",
+                "start_frame": 34400,
+                "stop_frame": 34454
+            },
+            {
+                "narration_text": "Collects a cutter.",
+                "start_frame": 34454,
+                "stop_frame": 34523
+            },
+            {
+                "narration_text": "Cuts the ginger.",
+                "start_frame": 34523,
+                "stop_frame": 34579
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut and process the ginger, then place it on a wood board.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cuts the ginger.",
+                "start_frame": 34523,
+                "stop_frame": 34579
+            },
+            {
+                "narration_text": "Drops the cutter on the floor.",
+                "start_frame": 34579,
+                "stop_frame": 34654
+            },
+            {
+                "narration_text": "Walks around.",
+                "start_frame": 34654,
+                "stop_frame": 34694
+            },
+            {
+                "narration_text": "Holds a bowl.",
+                "start_frame": 34694,
+                "stop_frame": 34718
+            },
+            {
+                "narration_text": "Puts the bowl on the floor.",
+                "start_frame": 34718,
+                "stop_frame": 34747
+            },
+            {
+                "narration_text": "Places the ginger on a wood board.",
+                "start_frame": 34747,
+                "stop_frame": 34784
+            },
+            {
+                "narration_text": "Crushes the ginger.",
+                "start_frame": 34784,
+                "stop_frame": 35061
+            },
+            {
+                "narration_text": "Collects the ginger powder.",
+                "start_frame": 35061,
+                "stop_frame": 35190
+            }
+        ]
+    },
+    {
+        "task_goal": "Collect ginger powder and drop it in a cooking pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Collects the ginger powder.",
+                "start_frame": 35061,
+                "stop_frame": 35190
+            },
+            {
+                "narration_text": "Walks around.",
+                "start_frame": 35190,
+                "stop_frame": 35249
+            },
+            {
+                "narration_text": "Drops the ginger powder in a cooking pot.",
+                "start_frame": 35249,
+                "stop_frame": 35295
+            },
+            {
+                "narration_text": "Adjusts the cooker.",
+                "start_frame": 35295,
+                "stop_frame": 35307
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjust the cooker and start stirring vegetables in the cooking pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Adjusts the cooker.",
+                "start_frame": 35295,
+                "stop_frame": 35307
+            },
+            {
+                "narration_text": "Holds a spoon on top of a cooking pan.",
+                "start_frame": 35307,
+                "stop_frame": 35323
+            },
+            {
+                "narration_text": "Moves the lid with the spoon.",
+                "start_frame": 35323,
+                "stop_frame": 35379
+            },
+            {
+                "narration_text": "Removes the lid from the cooking pan.",
+                "start_frame": 35379,
+                "stop_frame": 35415
+            },
+            {
+                "narration_text": "Stirs vegetables in the cooking pan.",
+                "start_frame": 35415,
+                "stop_frame": 35616
+            },
+            {
+                "narration_text": "Moves around.",
+                "start_frame": 35616,
+                "stop_frame": 35660
+            },
+            {
+                "narration_text": "Collects a wood board.",
+                "start_frame": 35660,
+                "stop_frame": 35693
+            },
+            {
+                "narration_text": "Drops the board on the floor.",
+                "start_frame": 35693,
+                "stop_frame": 35710
+            },
+            {
+                "narration_text": "Steps on the board.",
+                "start_frame": 35710,
+                "stop_frame": 35769
+            },
+            {
+                "narration_text": "Operates the cooker.",
+                "start_frame": 35769,
+                "stop_frame": 35822
+            },
+            {
+                "narration_text": "Stirs the vegetables in cooking pan.",
+                "start_frame": 35822,
+                "stop_frame": 36389
+            },
+            {
+                "narration_text": "Takes out unsure from the vegetables.",
+                "start_frame": 36389,
+                "stop_frame": 36586
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove items from the vegetables and adjust the cooker.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes out unsure from the vegetables.",
+                "start_frame": 36389,
+                "stop_frame": 36586
+            },
+            {
+                "narration_text": "Removes another unsure from the pan.",
+                "start_frame": 36586,
+                "stop_frame": 37623
+            },
+            {
+                "narration_text": "Takes out unsure from the vegetables.",
+                "start_frame": 37623,
+                "stop_frame": 37680
+            },
+            {
+                "narration_text": "Adjusts the cooker.",
+                "start_frame": 37680,
+                "stop_frame": 37728
+            },
+            {
+                "narration_text": "Lifts the lid.",
+                "start_frame": 37728,
+                "stop_frame": 37744
+            }
+        ]
+    },
+    {
+        "task_goal": "Continue cooking vegetables with intermittent adjustments.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Swings the serving spoon.",
+                "start_frame": 37744,
+                "stop_frame": 37800
+            },
+            {
+                "narration_text": "Puts the serving spoon, lid on the table.",
+                "start_frame": 37800,
+                "stop_frame": 37835
+            },
+            {
+                "narration_text": "Operates the cooker.",
+                "start_frame": 37835,
+                "stop_frame": 37901
+            },
+            {
+                "narration_text": "Walks around.",
+                "start_frame": 37901,
+                "stop_frame": 37951
+            },
+            {
+                "narration_text": "Picks up the rice sieve.",
+                "start_frame": 37951,
+                "stop_frame": 38006
+            },
+            {
+                "narration_text": "Pours the rice in the pot.",
+                "start_frame": 38006,
+                "stop_frame": 38248
+            },
+            {
+                "narration_text": "Leans the rice sieve on the wall.",
+                "start_frame": 38248,
+                "stop_frame": 38273
+            },
+            {
+                "narration_text": "Picks up the pot.",
+                "start_frame": 38273,
+                "stop_frame": 38291
+            },
+            {
+                "narration_text": "Walks around.",
+                "start_frame": 38291,
+                "stop_frame": 38518
+            }
+        ]
+    },
+    {
+        "task_goal": "Start washing the rice.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pumps water into the pot.",
+                "start_frame": 38518,
+                "stop_frame": 38742
+            },
+            {
+                "narration_text": "Washes the rice in the pot.",
+                "start_frame": 38742,
+                "stop_frame": 39501
+            },
+            {
+                "narration_text": "Pours the water in the pot on the floor.",
+                "start_frame": 39501,
+                "stop_frame": 39938
+            },
+            {
+                "narration_text": "Pumps water into the pot.",
+                "start_frame": 39938,
+                "stop_frame": 40078
+            },
+            {
+                "narration_text": "Washes the rice in the pot.",
+                "start_frame": 40078,
+                "stop_frame": 40494
+            },
+            {
+                "narration_text": "Drains water from the rice.",
+                "start_frame": 40494,
+                "stop_frame": 40894
+            },
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 40894,
+                "stop_frame": 40952
+            },
+            {
+                "narration_text": "Puts water in the pot.",
+                "start_frame": 40952,
+                "stop_frame": 40986
+            },
+            {
+                "narration_text": "Holds the tap.",
+                "start_frame": 40986,
+                "stop_frame": 41036
+            },
+            {
+                "narration_text": "Closes the tap.",
+                "start_frame": 41036,
+                "stop_frame": 41201
+            },
+            {
+                "narration_text": "Cleans the rice.",
+                "start_frame": 41201,
+                "stop_frame": 41315
+            },
+            {
+                "narration_text": "Drains the water from the rice.",
+                "start_frame": 41315,
+                "stop_frame": 41450
+            },
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 41450,
+                "stop_frame": 41500
+            }
+        ]
+    },
+    {
+        "task_goal": "Setup the cooking pot and continue cooking.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the pot on the floor.",
+                "start_frame": 41956,
+                "stop_frame": 42028
+            },
+            {
+                "narration_text": "Walks in the room.",
+                "start_frame": 42028,
+                "stop_frame": 42204
+            },
+            {
+                "narration_text": "Wipes her hands with a cloth.",
+                "start_frame": 42204,
+                "stop_frame": 42221
+            },
+            {
+                "narration_text": "Walks in the room holding a cloth.",
+                "start_frame": 42221,
+                "stop_frame": 42360
+            },
+            {
+                "narration_text": "Holds the cooking pot with a cloth",
+                "start_frame": 42360,
+                "stop_frame": 42381
+            },
+            {
+                "narration_text": "Lifts the cooking pot from the cooker.",
+                "start_frame": 42381,
+                "stop_frame": 42422
+            },
+            {
+                "narration_text": "Places the cooking pot on the table.",
+                "start_frame": 42422,
+                "stop_frame": 42476
+            },
+            {
+                "narration_text": "Picks the cooking pot containing rice from the floor.",
+                "start_frame": 42476,
+                "stop_frame": 42512
+            },
+            {
+                "narration_text": "Places the cooking pot on the cooker.",
+                "start_frame": 42512,
+                "stop_frame": 42592
+            },
+            {
+                "narration_text": "Walks towards the table.",
+                "start_frame": 42592,
+                "stop_frame": 42622
+            },
+            {
+                "narration_text": "Picks a lid from the basin.",
+                "start_frame": 42622,
+                "stop_frame": 42694
+            },
+            {
+                "narration_text": "Wipes the lid with the cloth.",
+                "start_frame": 42694,
+                "stop_frame": 42703
+            },
+            {
+                "narration_text": "Covers the cooking pot.",
+                "start_frame": 42703,
+                "stop_frame": 42755
+            },
+            {
+                "narration_text": "Drops the piece of cloth on the piece of wood.",
+                "start_frame": 42755,
+                "stop_frame": 42843
+            },
+            {
+                "narration_text": "Picks a serving spoon .",
+                "start_frame": 42843,
+                "stop_frame": 42910
+            },
+            {
+                "narration_text": "Stirs the vegetables in the cooking pot.",
+                "start_frame": 42910,
+                "stop_frame": 43106
+            },
+            {
+                "narration_text": "Regulates the heat on the cooker.",
+                "start_frame": 43106,
+                "stop_frame": 43188
+            },
+            {
+                "narration_text": "Stirs the vegetables in the cooking pot.",
+                "start_frame": 43188,
+                "stop_frame": 45168
+            },
+            {
+                "narration_text": "A woman a stands in the room.",
+                "start_frame": 45168,
+                "stop_frame": 45204
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the pot on the floor and walk around the room.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the pot on the floor.",
+                "start_frame": 41956,
+                "stop_frame": 42028
+            },
+            {
+                "narration_text": "Walks in the room.",
+                "start_frame": 42028,
+                "stop_frame": 42204
+            },
+            {
+                "narration_text": "Wipes her hands with a cloth.",
+                "start_frame": 42204,
+                "stop_frame": 42221
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe hands, walk in the room, hold and lift the cooking pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Wipes her hands with a cloth.",
+                "start_frame": 42204,
+                "stop_frame": 42221
+            },
+            {
+                "narration_text": "Walks in the room holding a cloth.",
+                "start_frame": 42221,
+                "stop_frame": 42360
+            },
+            {
+                "narration_text": "Holds the cooking pot with a cloth",
+                "start_frame": 42360,
+                "stop_frame": 42381
+            },
+            {
+                "narration_text": "Lifts the cooking pot from the cooker.",
+                "start_frame": 42381,
+                "stop_frame": 42422
+            },
+            {
+                "narration_text": "Places the cooking pot on the table.",
+                "start_frame": 42422,
+                "stop_frame": 42476
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the cooking pot and lid, start stirring the vegetables.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lifts the cooking pot from the cooker.",
+                "start_frame": 42381,
+                "stop_frame": 42422
+            },
+            {
+                "narration_text": "Places the cooking pot on the table.",
+                "start_frame": 42422,
+                "stop_frame": 42476
+            },
+            {
+                "narration_text": "Picks the cooking pot containing rice from the floor.",
+                "start_frame": 42476,
+                "stop_frame": 42512
+            },
+            {
+                "narration_text": "Places the cooking pot on the cooker.",
+                "start_frame": 42512,
+                "stop_frame": 42592
+            },
+            {
+                "narration_text": "Walks towards the table.",
+                "start_frame": 42592,
+                "stop_frame": 42622
+            },
+            {
+                "narration_text": "Picks a lid from the basin.",
+                "start_frame": 42622,
+                "stop_frame": 42694
+            },
+            {
+                "narration_text": "Wipes the lid with the cloth.",
+                "start_frame": 42694,
+                "stop_frame": 42703
+            },
+            {
+                "narration_text": "Covers the cooking pot.",
+                "start_frame": 42703,
+                "stop_frame": 42755
+            },
+            {
+                "narration_text": "Drops the piece of cloth on the piece of wood.",
+                "start_frame": 42755,
+                "stop_frame": 42843
+            },
+            {
+                "narration_text": "Picks a serving spoon .",
+                "start_frame": 42843,
+                "stop_frame": 42910
+            },
+            {
+                "narration_text": "Stirs the vegetables in the cooking pot.",
+                "start_frame": 42910,
+                "stop_frame": 43106
+            },
+            {
+                "narration_text": "Regulates the heat on the cooker.",
+                "start_frame": 43106,
+                "stop_frame": 43188
+            }
+        ]
+    },
+    {
+        "task_goal": "Regulate heat and continue stirring veggies.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs the vegetables in the cooking pot.",
+                "start_frame": 42910,
+                "stop_frame": 43106
+            },
+            {
+                "narration_text": "Regulates the heat on the cooker.",
+                "start_frame": 43106,
+                "stop_frame": 43188
+            },
+            {
+                "narration_text": "Stirs the vegetables in the cooking pot.",
+                "start_frame": 43188,
+                "stop_frame": 45168
+            },
+            {
+                "narration_text": "A woman a stands in the room.",
+                "start_frame": 45168,
+                "stop_frame": 45204
+            }
+        ]
+    },
+    {
+        "task_goal": "Continue cooking vegetables and remove items.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "A woman a stands in the room.",
+                "start_frame": 45168,
+                "stop_frame": 45204
+            },
+            {
+                "narration_text": "A woman a places a paper bag containing potatoes in the floor.",
+                "start_frame": 45204,
+                "stop_frame": 45261
+            },
+            {
+                "narration_text": "Stirs the vegetables in the cooking pot.",
+                "start_frame": 45261,
+                "stop_frame": 45786
+            },
+            {
+                "narration_text": "Looks around the kitchen.",
+                "start_frame": 45786,
+                "stop_frame": 45869
+            },
+            {
+                "narration_text": "Stirs the vegetables in the cooking pot.",
+                "start_frame": 45869,
+                "stop_frame": 46576
+            },
+            {
+                "narration_text": "Removes unsure from the cooking pot.",
+                "start_frame": 46576,
+                "stop_frame": 46630
+            },
+            {
+                "narration_text": "Looks around the kitchen.",
+                "start_frame": 46630,
+                "stop_frame": 46675
+            },
+            {
+                "narration_text": "Stirs the vegetables in the cooking pot.",
+                "start_frame": 46675,
+                "stop_frame": 46847
+            },
+            {
+                "narration_text": "Lifts her hand .",
+                "start_frame": 46847,
+                "stop_frame": 46896
+            },
+            {
+                "narration_text": "Holds the cooking pot.",
+                "start_frame": 46896,
+                "stop_frame": 46916
+            },
+            {
+                "narration_text": "Stirs the vegetables in the cooking pot.",
+                "start_frame": 46916,
+                "stop_frame": 47452
+            },
+            {
+                "narration_text": "Looks around the kitchen.",
+                "start_frame": 47452,
+                "stop_frame": 47649
+            }
+        ]
+    },
+    {
+        "task_goal": "Finish cooking and serve/set aside the cooked vegetables.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Looks around the kitchen.",
+                "start_frame": 47452,
+                "stop_frame": 47649
+            },
+            {
+                "narration_text": "Stirs the vegetables in the cooking pot.",
+                "start_frame": 47649,
+                "stop_frame": 47879
+            },
+            {
+                "narration_text": "Looks around the kitchen.",
+                "start_frame": 47879,
+                "stop_frame": 47912
+            },
+            {
+                "narration_text": "Stirs the vegetables in the cooking pot.",
+                "start_frame": 47912,
+                "stop_frame": 48410
+            },
+            {
+                "narration_text": "Picks up the lid",
+                "start_frame": 48410,
+                "stop_frame": 48537
+            },
+            {
+                "narration_text": "Puts the lid on top of the cooking pot",
+                "start_frame": 48537,
+                "stop_frame": 48548
+            },
+            {
+                "narration_text": "Puts the cooking spoon on top of the lid",
+                "start_frame": 48548,
+                "stop_frame": 48583
+            },
+            {
+                "narration_text": "Turns around the room",
+                "start_frame": 48583,
+                "stop_frame": 48786
+            }
+        ]
+    },
+    {
+        "task_goal": "Put cups on the floor and prepare a chair.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 50860,
+                "stop_frame": 50894
+            },
+            {
+                "narration_text": "Puts the cup on the floor",
+                "start_frame": 50894,
+                "stop_frame": 50967
+            },
+            {
+                "narration_text": "Picks a cup",
+                "start_frame": 50967,
+                "stop_frame": 51004
+            },
+            {
+                "narration_text": "Picks up a chair",
+                "start_frame": 51004,
+                "stop_frame": 51102
+            },
+            {
+                "narration_text": "Puts the chair on the floor",
+                "start_frame": 51102,
+                "stop_frame": 51148
+            },
+            {
+                "narration_text": "Puts the cup on the chair",
+                "start_frame": 51148,
+                "stop_frame": 51179
+            },
+            {
+                "narration_text": "Turns around the room",
+                "start_frame": 51179,
+                "stop_frame": 51196
+            },
+            {
+                "narration_text": "A woman y walks towards",
+                "start_frame": 51196,
+                "stop_frame": 51252
+            },
+            {
+                "narration_text": "Picks up a cloth",
+                "start_frame": 51252,
+                "stop_frame": 51295
+            },
+            {
+                "narration_text": "A woman y walks past",
+                "start_frame": 51295,
+                "stop_frame": 51339
+            },
+            {
+                "narration_text": "Wipes the chair with the cloth",
+                "start_frame": 51339,
+                "stop_frame": 51467
+            },
+            {
+                "narration_text": "Turns around the room",
+                "start_frame": 51467,
+                "stop_frame": 51511
+            },
+            {
+                "narration_text": "Picks up the cup",
+                "start_frame": 51511,
+                "stop_frame": 51695
+            }
+        ]
+    }
+]

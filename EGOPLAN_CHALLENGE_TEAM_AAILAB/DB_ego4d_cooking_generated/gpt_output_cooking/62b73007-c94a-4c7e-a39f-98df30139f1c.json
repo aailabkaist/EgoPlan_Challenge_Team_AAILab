@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egzarAHlU1JVSO664eEu5ilL0uZQ",
+    "object": "chat.completion",
+    "created": 1719485410,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cooking meat and preparing a meal.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing meat and cooking it in a frying pot.\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 1261,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Searching and picking essential items.\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 397\n        },\n        {\n          \"secondary_subgoal\": \"Handling and preparing meat.\",\n          \"start_timestamp\": 397,\n          \"stop_timestamp\": 588\n        },\n        {\n          \"secondary_subgoal\": \"Cutting and seasoning meat.\",\n          \"start_timestamp\": 588,\n          \"stop_timestamp\": 2346\n        },\n        {\n          \"secondary_subgoal\": \"Turning on the gas cooker and preparing frying pot.\",\n          \"start_timestamp\": 2346,\n          \"stop_timestamp\": 2996\n        },\n        {\n          \"secondary_subgoal\": \"Cooking meat in the frying pot.\",\n          \"start_timestamp\": 2996,\n          \"stop_timestamp\": 4577\n        },\n        {\n          \"secondary_subgoal\": \"Cutting and adding additional ingredients.\",\n          \"start_timestamp\": 4577,\n          \"stop_timestamp\": 5784\n        },\n        {\n          \"secondary_subgoal\": \"Cooking meat with additional ingredients.\",\n          \"start_timestamp\": 5784,\n          \"stop_timestamp\": 7963\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Mixing the cooked meat with spaghetti and finishing the dish.\",\n      \"start_timestamp\": 7963,\n      \"stop_timestamp\": 11487,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Mixing meat, spaghetti, and other ingredients in the pot.\",\n          \"start_timestamp\": 7963,\n          \"stop_timestamp\": 9085\n        },\n        {\n          \"secondary_subgoal\": \"Serving the cooked meat in a plate.\",\n          \"start_timestamp\": 9085,\n          \"stop_timestamp\": 11274\n        },\n        {\n          \"secondary_subgoal\": \"Finishing the dish presentation.\",\n          \"start_timestamp\": 11274,\n          \"stop_timestamp\": 11487\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning up and washing kitchen utensils.\",\n      \"start_timestamp\": 11487,\n      \"stop_timestamp\": 17394,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cleaning and washing various kitchen utensils.\",\n          \"start_timestamp\": 11487,\n          \"stop_timestamp\": 16512\n        },\n        {\n          \"secondary_subgoal\": \"Putting away cleaned utensils and organizing kitchen.\",\n          \"start_timestamp\": 16512,\n          \"stop_timestamp\": 17394\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning up the kitchen area.\",\n      \"start_timestamp\": 17394,\n      \"stop_timestamp\": 18864,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cleaning sink and wiping down surfaces.\",\n          \"start_timestamp\": 17394,\n          \"stop_timestamp\": 17967\n        },\n        {\n          \"secondary_subgoal\": \"Organizing and final cleaning of kitchen area.\",\n          \"start_timestamp\": 17967,\n          \"stop_timestamp\": 18864\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3846,
+        "completion_tokens": 714,
+        "total_tokens": 4560
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

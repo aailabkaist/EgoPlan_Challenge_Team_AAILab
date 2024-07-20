@@ -1,0 +1,1377 @@
+[
+    {
+        "task_goal": "Turn on tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 1,
+                "stop_frame": 14
+            },
+            {
+                "narration_text": "Closes the tap.",
+                "start_frame": 14,
+                "stop_frame": 30
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn off tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 1,
+                "stop_frame": 14
+            },
+            {
+                "narration_text": "Closes the tap.",
+                "start_frame": 14,
+                "stop_frame": 30
+            },
+            {
+                "narration_text": "Pours the water on the sink.",
+                "start_frame": 30,
+                "stop_frame": 50
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour water in sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the tap.",
+                "start_frame": 14,
+                "stop_frame": 30
+            },
+            {
+                "narration_text": "Pours the water on the sink.",
+                "start_frame": 30,
+                "stop_frame": 50
+            },
+            {
+                "narration_text": "Puts the bowl on the sink.",
+                "start_frame": 50,
+                "stop_frame": 92
+            }
+        ]
+    },
+    {
+        "task_goal": "Place bowl in sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours the water on the sink.",
+                "start_frame": 30,
+                "stop_frame": 50
+            },
+            {
+                "narration_text": "Puts the bowl on the sink.",
+                "start_frame": 50,
+                "stop_frame": 92
+            },
+            {
+                "narration_text": "Picks the lid.",
+                "start_frame": 92,
+                "stop_frame": 140
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn on tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the lid.",
+                "start_frame": 92,
+                "stop_frame": 140
+            },
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 140,
+                "stop_frame": 153
+            },
+            {
+                "narration_text": "Cleans the lid.",
+                "start_frame": 153,
+                "stop_frame": 177
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean lid",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 140,
+                "stop_frame": 153
+            },
+            {
+                "narration_text": "Cleans the lid.",
+                "start_frame": 153,
+                "stop_frame": 177
+            },
+            {
+                "narration_text": "Puts the lid on the bowl.",
+                "start_frame": 177,
+                "stop_frame": 203
+            }
+        ]
+    },
+    {
+        "task_goal": "Place lid on bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans the lid.",
+                "start_frame": 153,
+                "stop_frame": 177
+            },
+            {
+                "narration_text": "Puts the lid on the bowl.",
+                "start_frame": 177,
+                "stop_frame": 203
+            },
+            {
+                "narration_text": "Moves the lid.",
+                "start_frame": 203,
+                "stop_frame": 226
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn on tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves the lid.",
+                "start_frame": 203,
+                "stop_frame": 226
+            },
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 226,
+                "stop_frame": 257
+            },
+            {
+                "narration_text": "Cleans the hands.",
+                "start_frame": 257,
+                "stop_frame": 283
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 226,
+                "stop_frame": 257
+            },
+            {
+                "narration_text": "Cleans the hands.",
+                "start_frame": 257,
+                "stop_frame": 283
+            },
+            {
+                "narration_text": "Touches the tap.",
+                "start_frame": 283,
+                "stop_frame": 331
+            }
+        ]
+    },
+    {
+        "task_goal": "Touch the tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans the hands.",
+                "start_frame": 257,
+                "stop_frame": 283
+            },
+            {
+                "narration_text": "Touches the tap.",
+                "start_frame": 283,
+                "stop_frame": 331
+            },
+            {
+                "narration_text": "Picks the soap.",
+                "start_frame": 331,
+                "stop_frame": 370
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick soap and rub on hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches the tap.",
+                "start_frame": 283,
+                "stop_frame": 331
+            },
+            {
+                "narration_text": "Picks the soap.",
+                "start_frame": 331,
+                "stop_frame": 370
+            },
+            {
+                "narration_text": "Rubs the soap on the hands.",
+                "start_frame": 370,
+                "stop_frame": 398
+            },
+            {
+                "narration_text": "Puts the soap on the soap dish.",
+                "start_frame": 398,
+                "stop_frame": 426
+            }
+        ]
+    },
+    {
+        "task_goal": "Put soap back",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rubs the soap on the hands.",
+                "start_frame": 370,
+                "stop_frame": 398
+            },
+            {
+                "narration_text": "Puts the soap on the soap dish.",
+                "start_frame": 398,
+                "stop_frame": 426
+            },
+            {
+                "narration_text": "Cleans the hands.",
+                "start_frame": 426,
+                "stop_frame": 675
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the soap on the soap dish.",
+                "start_frame": 398,
+                "stop_frame": 426
+            },
+            {
+                "narration_text": "Cleans the hands.",
+                "start_frame": 426,
+                "stop_frame": 675
+            },
+            {
+                "narration_text": "Looks around.",
+                "start_frame": 675,
+                "stop_frame": 879
+            }
+        ]
+    },
+    {
+        "task_goal": "Look around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans the hands.",
+                "start_frame": 426,
+                "stop_frame": 675
+            },
+            {
+                "narration_text": "Looks around.",
+                "start_frame": 675,
+                "stop_frame": 879
+            },
+            {
+                "narration_text": "Touches the tap.",
+                "start_frame": 879,
+                "stop_frame": 895
+            }
+        ]
+    },
+    {
+        "task_goal": "Touch tap and clean hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Looks around.",
+                "start_frame": 675,
+                "stop_frame": 879
+            },
+            {
+                "narration_text": "Touches the tap.",
+                "start_frame": 879,
+                "stop_frame": 895
+            },
+            {
+                "narration_text": "Cleans the the hands.",
+                "start_frame": 895,
+                "stop_frame": 930
+            },
+            {
+                "narration_text": "Touches the tap.",
+                "start_frame": 930,
+                "stop_frame": 946
+            },
+            {
+                "narration_text": "Cleans the hands.",
+                "start_frame": 946,
+                "stop_frame": 986
+            },
+            {
+                "narration_text": "Closes the tap.",
+                "start_frame": 986,
+                "stop_frame": 1006
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn off tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans the hands.",
+                "start_frame": 946,
+                "stop_frame": 986
+            },
+            {
+                "narration_text": "Closes the tap.",
+                "start_frame": 986,
+                "stop_frame": 1006
+            },
+            {
+                "narration_text": "Shakes the hands.",
+                "start_frame": 1006,
+                "stop_frame": 1025
+            }
+        ]
+    },
+    {
+        "task_goal": "Shake hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the tap.",
+                "start_frame": 986,
+                "stop_frame": 1006
+            },
+            {
+                "narration_text": "Shakes the hands.",
+                "start_frame": 1006,
+                "stop_frame": 1025
+            },
+            {
+                "narration_text": "Looks around.",
+                "start_frame": 1025,
+                "stop_frame": 1053
+            }
+        ]
+    },
+    {
+        "task_goal": "Dry hands with a towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Steps forward.",
+                "start_frame": 1053,
+                "stop_frame": 1065
+            },
+            {
+                "narration_text": "Wipes the hands with the towel.",
+                "start_frame": 1065,
+                "stop_frame": 1176
+            },
+            {
+                "narration_text": "Steps forward.",
+                "start_frame": 1176,
+                "stop_frame": 1186
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and place bottle from fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the bottle.",
+                "start_frame": 1186,
+                "stop_frame": 1194
+            },
+            {
+                "narration_text": "Opens the fridge.",
+                "start_frame": 1194,
+                "stop_frame": 1236
+            },
+            {
+                "narration_text": "Picks the bottle.",
+                "start_frame": 1236,
+                "stop_frame": 1280
+            },
+            {
+                "narration_text": "Puts the bottle on the fridge.",
+                "start_frame": 1280,
+                "stop_frame": 1327
+            }
+        ]
+    },
+    {
+        "task_goal": "Put bottle back and close fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the bottle.",
+                "start_frame": 1236,
+                "stop_frame": 1280
+            },
+            {
+                "narration_text": "Puts the bottle on the fridge.",
+                "start_frame": 1280,
+                "stop_frame": 1327
+            },
+            {
+                "narration_text": "Closes the door.",
+                "start_frame": 1327,
+                "stop_frame": 1361
+            },
+            {
+                "narration_text": "Opens the bottle.",
+                "start_frame": 1361,
+                "stop_frame": 1365
+            }
+        ]
+    },
+    {
+        "task_goal": "Open bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the door.",
+                "start_frame": 1327,
+                "stop_frame": 1361
+            },
+            {
+                "narration_text": "Opens the bottle.",
+                "start_frame": 1361,
+                "stop_frame": 1365
+            },
+            {
+                "narration_text": "Steps forward.",
+                "start_frame": 1365,
+                "stop_frame": 1411
+            }
+        ]
+    },
+    {
+        "task_goal": "Pouring soy sauce",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Steps forward.",
+                "start_frame": 1365,
+                "stop_frame": 1411
+            },
+            {
+                "narration_text": "Pours soy sauce in the bowl.",
+                "start_frame": 1411,
+                "stop_frame": 1535
+            },
+            {
+                "narration_text": "Closes the bottle.",
+                "start_frame": 1535,
+                "stop_frame": 1545
+            }
+        ]
+    },
+    {
+        "task_goal": "Grab bottle and put soy sauce in bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the bottle.",
+                "start_frame": 1656,
+                "stop_frame": 1670
+            },
+            {
+                "narration_text": "Opens the bottle.",
+                "start_frame": 1670,
+                "stop_frame": 1722
+            },
+            {
+                "narration_text": "Puts the paste in the bowl.",
+                "start_frame": 1722,
+                "stop_frame": 1821
+            },
+            {
+                "narration_text": "Closes the bottle.",
+                "start_frame": 1821,
+                "stop_frame": 1835
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix the mixture",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches the bowl.",
+                "start_frame": 2075,
+                "stop_frame": 2085
+            },
+            {
+                "narration_text": "Mixes the mixture.",
+                "start_frame": 2085,
+                "stop_frame": 2793
+            },
+            {
+                "narration_text": "Puts the spoon on the bowl.",
+                "start_frame": 2793,
+                "stop_frame": 2807
+            }
+        ]
+    },
+    {
+        "task_goal": "Lift kid and put lid on pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lifts the kid.",
+                "start_frame": 2807,
+                "stop_frame": 2851
+            },
+            {
+                "narration_text": "Puts the lid on the pan.",
+                "start_frame": 2851,
+                "stop_frame": 2883
+            },
+            {
+                "narration_text": "Switches on the cooker.",
+                "start_frame": 2883,
+                "stop_frame": 2916
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn on cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Switches on the cooker.",
+                "start_frame": 2883,
+                "stop_frame": 2916
+            },
+            {
+                "narration_text": "Steps forward.",
+                "start_frame": 2916,
+                "stop_frame": 2936
+            },
+            {
+                "narration_text": "Opens the fridge.",
+                "start_frame": 2936,
+                "stop_frame": 2981
+            }
+        ]
+    },
+    {
+        "task_goal": "Open fridge and pick bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the fridge.",
+                "start_frame": 2936,
+                "stop_frame": 2981
+            },
+            {
+                "narration_text": "Picks the bottle.",
+                "start_frame": 2981,
+                "stop_frame": 3019
+            },
+            {
+                "narration_text": "Picks the bottle.",
+                "start_frame": 3019,
+                "stop_frame": 3050
+            },
+            {
+                "narration_text": "Puts the bottle on the table.",
+                "start_frame": 3050,
+                "stop_frame": 3076
+            }
+        ]
+    },
+    {
+        "task_goal": "Put bottle on table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the bottle.",
+                "start_frame": 3019,
+                "stop_frame": 3050
+            },
+            {
+                "narration_text": "Puts the bottle on the table.",
+                "start_frame": 3050,
+                "stop_frame": 3076
+            },
+            {
+                "narration_text": "Steps forward.",
+                "start_frame": 3076,
+                "stop_frame": 3105
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour paste from bottle and close it",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the bottle.",
+                "start_frame": 3105,
+                "stop_frame": 3147
+            },
+            {
+                "narration_text": "Puts the paste in the bowl.",
+                "start_frame": 3147,
+                "stop_frame": 3278
+            },
+            {
+                "narration_text": "Closes the bottle.",
+                "start_frame": 3278,
+                "stop_frame": 3301
+            },
+            {
+                "narration_text": "Steps forward.",
+                "start_frame": 3301,
+                "stop_frame": 3340
+            }
+        ]
+    },
+    {
+        "task_goal": "Put bottle in fridge and close the door",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Steps forward.",
+                "start_frame": 3301,
+                "stop_frame": 3340
+            },
+            {
+                "narration_text": "Passes the bottle to the left hand.",
+                "start_frame": 3340,
+                "stop_frame": 3350
+            },
+            {
+                "narration_text": "Opens the fridge.",
+                "start_frame": 3350,
+                "stop_frame": 3374
+            },
+            {
+                "narration_text": "Puts the bottle in the fridge.",
+                "start_frame": 3374,
+                "stop_frame": 3403
+            },
+            {
+                "narration_text": "Closes the door.",
+                "start_frame": 3403,
+                "stop_frame": 3417
+            },
+            {
+                "narration_text": "Picks the bottle.",
+                "start_frame": 3417,
+                "stop_frame": 3426
+            }
+        ]
+    },
+    {
+        "task_goal": "Add soy sauce from bottle in pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lifts the lid.",
+                "start_frame": 3498,
+                "stop_frame": 3531
+            },
+            {
+                "narration_text": "Puts the soy sauce in the pan.",
+                "start_frame": 3531,
+                "stop_frame": 3590
+            },
+            {
+                "narration_text": "Puts the lid on the pan.",
+                "start_frame": 3590,
+                "stop_frame": 3615
+            }
+        ]
+    },
+    {
+        "task_goal": "Put lid on pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the soy sauce in the pan.",
+                "start_frame": 3531,
+                "stop_frame": 3590
+            },
+            {
+                "narration_text": "Puts the lid on the pan.",
+                "start_frame": 3590,
+                "stop_frame": 3615
+            },
+            {
+                "narration_text": "Puts the bottle on the table.",
+                "start_frame": 3615,
+                "stop_frame": 3648
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the chopsticks.",
+                "start_frame": 3661,
+                "stop_frame": 3670
+            },
+            {
+                "narration_text": "Stirs the food.",
+                "start_frame": 3670,
+                "stop_frame": 4275
+            },
+            {
+                "narration_text": "Puts the lid on the pan.",
+                "start_frame": 4275,
+                "stop_frame": 4275
+            },
+            {
+                "narration_text": "Puts the chopsticks on the pan.",
+                "start_frame": 4275,
+                "stop_frame": 4298
+            }
+        ]
+    },
+    {
+        "task_goal": "Put lid on pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs the food.",
+                "start_frame": 3670,
+                "stop_frame": 4275
+            },
+            {
+                "narration_text": "Puts the lid on the pan.",
+                "start_frame": 4275,
+                "stop_frame": 4275
+            },
+            {
+                "narration_text": "Puts the chopsticks on the pan.",
+                "start_frame": 4275,
+                "stop_frame": 4298
+            },
+            {
+                "narration_text": "Picks the bottle.",
+                "start_frame": 4298,
+                "stop_frame": 4329
+            }
+        ]
+    },
+    {
+        "task_goal": "Lift lid and add final soy sauce",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lifts the lid.",
+                "start_frame": 4329,
+                "stop_frame": 4372
+            },
+            {
+                "narration_text": "Pours the soy sauce in the pan.",
+                "start_frame": 4372,
+                "stop_frame": 4431
+            },
+            {
+                "narration_text": "Puts the lid on the pan.",
+                "start_frame": 4431,
+                "stop_frame": 4455
+            }
+        ]
+    },
+    {
+        "task_goal": "Put back bottle in fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the fridge door.",
+                "start_frame": 4505,
+                "stop_frame": 4536
+            },
+            {
+                "narration_text": "Lifts the bottle.",
+                "start_frame": 4536,
+                "stop_frame": 4563
+            },
+            {
+                "narration_text": "Puts the bottle in the fridge.",
+                "start_frame": 4563,
+                "stop_frame": 4577
+            },
+            {
+                "narration_text": "Closes the fridge door.",
+                "start_frame": 4577,
+                "stop_frame": 4596
+            }
+        ]
+    },
+    {
+        "task_goal": "Switch on air conditioner",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Steps forward.",
+                "start_frame": 4596,
+                "stop_frame": 4643
+            },
+            {
+                "narration_text": "Switches on the kitchen air conditioner.",
+                "start_frame": 4643,
+                "stop_frame": 4671
+            },
+            {
+                "narration_text": "Lifts the lid.",
+                "start_frame": 4671,
+                "stop_frame": 4685
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food again",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches the chopsticks.",
+                "start_frame": 4685,
+                "stop_frame": 4687
+            },
+            {
+                "narration_text": "Stirs the food.",
+                "start_frame": 4687,
+                "stop_frame": 5625
+            },
+            {
+                "narration_text": "Puts the chopsticks on the pan.",
+                "start_frame": 5625,
+                "stop_frame": 5641
+            },
+            {
+                "narration_text": "Switches off the cooker.",
+                "start_frame": 5641,
+                "stop_frame": 5663
+            },
+            {
+                "narration_text": "Picks the chopsticks.",
+                "start_frame": 5663,
+                "stop_frame": 5668
+            },
+            {
+                "narration_text": "Stirs the food.",
+                "start_frame": 5668,
+                "stop_frame": 5833
+            },
+            {
+                "narration_text": "Puts the chopsticks on the pan.",
+                "start_frame": 5833,
+                "stop_frame": 5837
+            },
+            {
+                "narration_text": "Covers the pan with the lid.",
+                "start_frame": 5837,
+                "stop_frame": 5869
+            },
+            {
+                "narration_text": "Touches the bowl.",
+                "start_frame": 5869,
+                "stop_frame": 5889
+            },
+            {
+                "narration_text": "Touches the spoon.",
+                "start_frame": 5889,
+                "stop_frame": 5906
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix secondary mixture in bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches the spoon.",
+                "start_frame": 5889,
+                "stop_frame": 5906
+            },
+            {
+                "narration_text": "Stirs the mixture.",
+                "start_frame": 5906,
+                "stop_frame": 5950
+            },
+            {
+                "narration_text": "Lifts the bowl.",
+                "start_frame": 5950,
+                "stop_frame": 6283
+            },
+            {
+                "narration_text": "Puts the bowl on the table.",
+                "start_frame": 6283,
+                "stop_frame": 6286
+            },
+            {
+                "narration_text": "Puts the spoon on the bowl.",
+                "start_frame": 6286,
+                "stop_frame": 6295
+            },
+            {
+                "narration_text": "Steps forward.",
+                "start_frame": 6295,
+                "stop_frame": 6310
+            },
+            {
+                "narration_text": "Opens the drawer.",
+                "start_frame": 6310,
+                "stop_frame": 6348
+            },
+            {
+                "narration_text": "Picks the spice container.",
+                "start_frame": 6348,
+                "stop_frame": 6361
+            },
+            {
+                "narration_text": "Moves the legs.",
+                "start_frame": 6361,
+                "stop_frame": 6381
+            },
+            {
+                "narration_text": "Opens the spice container.",
+                "start_frame": 6381,
+                "stop_frame": 6420
+            },
+            {
+                "narration_text": "Puts the spice in the bowl.",
+                "start_frame": 6420,
+                "stop_frame": 6507
+            },
+            {
+                "narration_text": "Closes the container.",
+                "start_frame": 6507,
+                "stop_frame": 6535
+            },
+            {
+                "narration_text": "Puts the spice container in the drawer.",
+                "start_frame": 6535,
+                "stop_frame": 6580
+            },
+            {
+                "narration_text": "Closes the drawer.",
+                "start_frame": 6580,
+                "stop_frame": 6608
+            },
+            {
+                "narration_text": "Lifts the bowl.",
+                "start_frame": 6608,
+                "stop_frame": 6618
+            },
+            {
+                "narration_text": "Mixes the mixture.",
+                "start_frame": 6618,
+                "stop_frame": 7008
+            },
+            {
+                "narration_text": "Puts the spoon in the bowl.",
+                "start_frame": 7008,
+                "stop_frame": 7012
+            },
+            {
+                "narration_text": "Puts the bowl on the table.",
+                "start_frame": 7012,
+                "stop_frame": 7050
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix mixture in bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs the mixture.",
+                "start_frame": 5906,
+                "stop_frame": 5950
+            },
+            {
+                "narration_text": "Lifts the bowl.",
+                "start_frame": 5950,
+                "stop_frame": 6283
+            },
+            {
+                "narration_text": "Puts the bowl on the table.",
+                "start_frame": 6283,
+                "stop_frame": 6286
+            }
+        ]
+    },
+    {
+        "task_goal": "Put bowl on table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the bowl on the table.",
+                "start_frame": 6283,
+                "stop_frame": 6286
+            },
+            {
+                "narration_text": "Puts the spoon on the bowl.",
+                "start_frame": 6286,
+                "stop_frame": 6295
+            },
+            {
+                "narration_text": "Steps forward.",
+                "start_frame": 6295,
+                "stop_frame": 6310
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick spice container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the drawer.",
+                "start_frame": 6310,
+                "stop_frame": 6348
+            },
+            {
+                "narration_text": "Picks the spice container.",
+                "start_frame": 6348,
+                "stop_frame": 6361
+            },
+            {
+                "narration_text": "Moves the legs.",
+                "start_frame": 6361,
+                "stop_frame": 6381
+            },
+            {
+                "narration_text": "Opens the spice container.",
+                "start_frame": 6381,
+                "stop_frame": 6420
+            },
+            {
+                "narration_text": "Puts the spice in the bowl.",
+                "start_frame": 6420,
+                "stop_frame": 6507
+            },
+            {
+                "narration_text": "Closes the container.",
+                "start_frame": 6507,
+                "stop_frame": 6535
+            },
+            {
+                "narration_text": "Puts the spice container in the drawer.",
+                "start_frame": 6535,
+                "stop_frame": 6580
+            },
+            {
+                "narration_text": "Closes the drawer.",
+                "start_frame": 6580,
+                "stop_frame": 6608
+            }
+        ]
+    },
+    {
+        "task_goal": "Regulate heat on cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lifts the lid.",
+                "start_frame": 7050,
+                "stop_frame": 7066
+            },
+            {
+                "narration_text": "Regulates heat on the cooker.",
+                "start_frame": 7066,
+                "stop_frame": 7093
+            },
+            {
+                "narration_text": "Covers the pan with the lid.",
+                "start_frame": 7093,
+                "stop_frame": 7110
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches the chopsticks.",
+                "start_frame": 7156,
+                "stop_frame": 7162
+            },
+            {
+                "narration_text": "Stirs the food.",
+                "start_frame": 7162,
+                "stop_frame": 7690
+            },
+            {
+                "narration_text": "Puts the the chopsticks.",
+                "start_frame": 7690,
+                "stop_frame": 7692
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve food in bowls and pick saucers",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the bowl on the table.",
+                "start_frame": 7969,
+                "stop_frame": 7985
+            },
+            {
+                "narration_text": "Picks the spoon.",
+                "start_frame": 7985,
+                "stop_frame": 7990
+            },
+            {
+                "narration_text": "Touches the bowl.",
+                "start_frame": 7990,
+                "stop_frame": 7993
+            },
+            {
+                "narration_text": "Scoops the mixture with the spoon.",
+                "start_frame": 7993,
+                "stop_frame": 8104
+            },
+            {
+                "narration_text": "Puts the mixture in the bowl.",
+                "start_frame": 8104,
+                "stop_frame": 8194
+            },
+            {
+                "narration_text": "Scoops the mixture with the spoon.",
+                "start_frame": 8194,
+                "stop_frame": 8245
+            },
+            {
+                "narration_text": "Puts the mixture in the bowl.",
+                "start_frame": 8245,
+                "stop_frame": 8312
+            },
+            {
+                "narration_text": "Puts the spoon in the bowl.",
+                "start_frame": 8312,
+                "stop_frame": 8322
+            },
+            {
+                "narration_text": "Passes the bowl to the right hand.",
+                "start_frame": 8322,
+                "stop_frame": 8333
+            },
+            {
+                "narration_text": "Puts the bowl on the table.",
+                "start_frame": 8333,
+                "stop_frame": 8357
+            },
+            {
+                "narration_text": "Steps forward.",
+                "start_frame": 8357,
+                "stop_frame": 8393
+            },
+            {
+                "narration_text": "Opens the drawer.",
+                "start_frame": 8393,
+                "stop_frame": 8438
+            },
+            {
+                "narration_text": "Picks the chopstick.",
+                "start_frame": 8438,
+                "stop_frame": 8467
+            },
+            {
+                "narration_text": "Passes the chopstick to the right hand.",
+                "start_frame": 8467,
+                "stop_frame": 8490
+            },
+            {
+                "narration_text": "Puts the chopstick on the bowls.",
+                "start_frame": 8490,
+                "stop_frame": 8529
+            },
+            {
+                "narration_text": "Closes the drawer.",
+                "start_frame": 8529,
+                "stop_frame": 8573
+            },
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 8573,
+                "stop_frame": 8619
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 8619,
+                "stop_frame": 8644
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 8644,
+                "stop_frame": 8664
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick lids and cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a saucer",
+                "start_frame": 8723,
+                "stop_frame": 8828
+            },
+            {
+                "narration_text": "Puts the saucer on the kitchen area",
+                "start_frame": 8828,
+                "stop_frame": 8877
+            },
+            {
+                "narration_text": "Picks up the lid",
+                "start_frame": 8877,
+                "stop_frame": 8899
+            },
+            {
+                "narration_text": "Covers the cooking pot with the lid",
+                "start_frame": 8899,
+                "stop_frame": 8930
+            },
+            {
+                "narration_text": "Picks up the lid",
+                "start_frame": 8930,
+                "stop_frame": 8943
+            },
+            {
+                "narration_text": "Covers the cooking pot with the lid",
+                "start_frame": 8943,
+                "stop_frame": 8985
+            },
+            {
+                "narration_text": "Picks up the kettle",
+                "start_frame": 8985,
+                "stop_frame": 9001
+            },
+            {
+                "narration_text": "Picks up the cooking pot",
+                "start_frame": 9001,
+                "stop_frame": 9036
+            },
+            {
+                "narration_text": "Puts the cooking pot on the cooker",
+                "start_frame": 9036,
+                "stop_frame": 9093
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 9093,
+                "stop_frame": 9141
+            },
+            {
+                "narration_text": "Moves the gas grill",
+                "start_frame": 9141,
+                "stop_frame": 9173
+            },
+            {
+                "narration_text": "Puts the kettle on the gas grill",
+                "start_frame": 9173,
+                "stop_frame": 9205
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 9205,
+                "stop_frame": 9255
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 9255,
+                "stop_frame": 9326
+            }
+        ]
+    },
+    {
+        "task_goal": "Operate gas grill and kettle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves the gas grill",
+                "start_frame": 9141,
+                "stop_frame": 9173
+            },
+            {
+                "narration_text": "Puts the kettle on the gas grill",
+                "start_frame": 9173,
+                "stop_frame": 9205
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 9205,
+                "stop_frame": 9255
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 9255,
+                "stop_frame": 9326
+            }
+        ]
+    },
+    {
+        "task_goal": "Open fridge and pick pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 9255,
+                "stop_frame": 9326
+            },
+            {
+                "narration_text": "Picks a pan",
+                "start_frame": 9326,
+                "stop_frame": 9377
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 9377,
+                "stop_frame": 9483
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir ingredients in pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs the ingredients with the chop sticks",
+                "start_frame": 10857,
+                "stop_frame": 10969
+            },
+            {
+                "narration_text": "Removes the lid from the pan",
+                "start_frame": 10969,
+                "stop_frame": 10974
+            },
+            {
+                "narration_text": "Stirs the ingredients with the chop sticks",
+                "start_frame": 10974,
+                "stop_frame": 11092
+            },
+            {
+                "narration_text": "Holds the pan with his left hand",
+                "start_frame": 11092,
+                "stop_frame": 11102
+            },
+            {
+                "narration_text": "Stirs the ingredients with the chop sticks",
+                "start_frame": 11102,
+                "stop_frame": 11185
+            },
+            {
+                "narration_text": "Holds the lid",
+                "start_frame": 11185,
+                "stop_frame": 11277
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove lids from pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs the ingredients with the chop sticks",
+                "start_frame": 11337,
+                "stop_frame": 11944
+            },
+            {
+                "narration_text": "Covers the pan with the lid",
+                "start_frame": 11944,
+                "stop_frame": 11955
+            },
+            {
+                "narration_text": "Puts the cloth on top of the lid",
+                "start_frame": 11955,
+                "stop_frame": 11989
+            },
+            {
+                "narration_text": "Lifts up the lid",
+                "start_frame": 11989,
+                "stop_frame": 12007
+            },
+            {
+                "narration_text": "Stirs the ingredients",
+                "start_frame": 12007,
+                "stop_frame": 12098
+            },
+            {
+                "narration_text": "Covers the cooking pot with the lid",
+                "start_frame": 12098,
+                "stop_frame": 12167
+            }
+        ]
+    }
+]

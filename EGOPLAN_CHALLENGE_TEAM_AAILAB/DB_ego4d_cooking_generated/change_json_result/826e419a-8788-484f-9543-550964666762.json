@@ -1,0 +1,122 @@
+{
+    "overall_goal": "Prepare a meal using coconut and other ingredients.",
+    "clips": [
+        {
+            "subgoal": "Blend coconut and other ingredients.",
+            "start_timestamp": 24,
+            "stop_timestamp": 3088,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare the blender.",
+                    "start_timestamp": 24,
+                    "stop_timestamp": 305
+                },
+                {
+                    "secondary_subgoal": "Blend the coconut.",
+                    "start_timestamp": 305,
+                    "stop_timestamp": 484
+                },
+                {
+                    "secondary_subgoal": "Pour the blended coconut into a dish.",
+                    "start_timestamp": 511,
+                    "stop_timestamp": 1232
+                },
+                {
+                    "secondary_subgoal": "Open and add ingredients to the blending jar.",
+                    "start_timestamp": 1321,
+                    "stop_timestamp": 1817
+                },
+                {
+                    "secondary_subgoal": "Blend the jar contents again.",
+                    "start_timestamp": 1817,
+                    "stop_timestamp": 3030
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and grate coconut.",
+            "start_timestamp": 3088,
+            "stop_timestamp": 4206,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare the grater and dish.",
+                    "start_timestamp": 3088,
+                    "stop_timestamp": 3307
+                },
+                {
+                    "secondary_subgoal": "Grate the coconut.",
+                    "start_timestamp": 3307,
+                    "stop_timestamp": 4206
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix various powders and blend again.",
+            "start_timestamp": 4206,
+            "stop_timestamp": 28521,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add various powders to the dish.",
+                    "start_timestamp": 4206,
+                    "stop_timestamp": 18688
+                },
+                {
+                    "secondary_subgoal": "Stir and heat the food.",
+                    "start_timestamp": 18688,
+                    "stop_timestamp": 28521
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash and prepare vegetables.",
+            "start_timestamp": 28521,
+            "stop_timestamp": 48309,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and peel garlic.",
+                    "start_timestamp": 28521,
+                    "stop_timestamp": 30365
+                },
+                {
+                    "secondary_subgoal": "Grate and prepare leafy vegetables.",
+                    "start_timestamp": 30365,
+                    "stop_timestamp": 48309
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix dough and roll it.",
+            "start_timestamp": 48309,
+            "stop_timestamp": 61066,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Knead the dough.",
+                    "start_timestamp": 48309,
+                    "stop_timestamp": 57331
+                },
+                {
+                    "secondary_subgoal": "Roll the dough into shapes.",
+                    "start_timestamp": 57331,
+                    "stop_timestamp": 61066
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix food and cook final dish.",
+            "start_timestamp": 61066,
+            "stop_timestamp": 84064,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cook and stir food with various ingredients.",
+                    "start_timestamp": 61066,
+                    "stop_timestamp": 73698
+                },
+                {
+                    "secondary_subgoal": "Put food in cooking container and clean up.",
+                    "start_timestamp": 73698,
+                    "stop_timestamp": 84064
+                }
+            ]
+        }
+    ]
+}

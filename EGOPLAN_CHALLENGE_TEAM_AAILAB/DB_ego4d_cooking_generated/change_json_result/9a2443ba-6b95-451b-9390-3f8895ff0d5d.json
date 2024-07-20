@@ -1,0 +1,125 @@
+{
+    "overall_goal": "Preparing and serving a meal",
+    "clips": [
+        {
+            "subgoal": "Obtaining necessary items from the fridge and cabinet",
+            "start_timestamp": 59,
+            "stop_timestamp": 912,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking a packet from the cabinet",
+                    "start_timestamp": 59,
+                    "stop_timestamp": 113
+                },
+                {
+                    "secondary_subgoal": "Walking away with the packet",
+                    "start_timestamp": 113,
+                    "stop_timestamp": 138
+                },
+                {
+                    "secondary_subgoal": "Placing packet on table",
+                    "start_timestamp": 138,
+                    "stop_timestamp": 152
+                },
+                {
+                    "secondary_subgoal": "Opening fridge and taking an item (string)",
+                    "start_timestamp": 655,
+                    "stop_timestamp": 912
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing lettuce",
+            "start_timestamp": 1269,
+            "stop_timestamp": 3857,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Placing sieve on the counter",
+                    "start_timestamp": 1285,
+                    "stop_timestamp": 1445
+                },
+                {
+                    "secondary_subgoal": "Cutting the lettuce",
+                    "start_timestamp": 1482,
+                    "stop_timestamp": 2995
+                },
+                {
+                    "secondary_subgoal": "Cutting coriander",
+                    "start_timestamp": 3008,
+                    "stop_timestamp": 3299
+                },
+                {
+                    "secondary_subgoal": "Rinsing utensils",
+                    "start_timestamp": 3300,
+                    "stop_timestamp": 3883
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking the meal",
+            "start_timestamp": 4420,
+            "stop_timestamp": 7208,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Using microwave",
+                    "start_timestamp": 4420,
+                    "stop_timestamp": 4593
+                },
+                {
+                    "secondary_subgoal": "Preparing rice with chopsticks",
+                    "start_timestamp": 4634,
+                    "stop_timestamp": 5381
+                },
+                {
+                    "secondary_subgoal": "Serving rice into the plate",
+                    "start_timestamp": 5381,
+                    "stop_timestamp": 5503
+                },
+                {
+                    "secondary_subgoal": "Cooking eggs",
+                    "start_timestamp": 5514,
+                    "stop_timestamp": 6833
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning utensils and organizing",
+            "start_timestamp": 7800,
+            "stop_timestamp": 8418,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing the utensils in the sink",
+                    "start_timestamp": 7800,
+                    "stop_timestamp": 8478
+                },
+                {
+                    "secondary_subgoal": "Putting the utensils back in the drawer",
+                    "start_timestamp": 8478,
+                    "stop_timestamp": 8958
+                }
+            ]
+        },
+        {
+            "subgoal": "Finishing up",
+            "start_timestamp": 11055,
+            "stop_timestamp": 11787,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Drying the utensils",
+                    "start_timestamp": 11055,
+                    "stop_timestamp": 11343
+                },
+                {
+                    "secondary_subgoal": "Storing the utensils",
+                    "start_timestamp": 11343,
+                    "stop_timestamp": 11428
+                },
+                {
+                    "secondary_subgoal": "Placing chopsticks in the food",
+                    "start_timestamp": 11607,
+                    "stop_timestamp": 11787
+                }
+            ]
+        }
+    ]
+}

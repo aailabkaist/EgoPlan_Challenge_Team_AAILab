@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeJRW7IlKN0ov0x440d1EnFx5nUS",
+    "object": "chat.completion",
+    "created": 1719475109,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing a meal in the kitchen with help from woman X.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing vegetables\",\n      \"start_timestamp\": 51,\n      \"stop_timestamp\": 6666,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Setting up and gathering items\",\n          \"start_timestamp\": 51,\n          \"stop_timestamp\": 421\n        },\n        {\n          \"secondary_subgoal\": \"Chopping and interacting with a woman\",\n          \"start_timestamp\": 421,\n          \"stop_timestamp\": 2163\n        },\n        {\n          \"secondary_subgoal\": \"Sorting trash and cleaning\",\n          \"start_timestamp\": 2163,\n          \"stop_timestamp\": 3402\n        },\n        {\n          \"secondary_subgoal\": \"Continuing with chopping and preparing pepper\",\n          \"start_timestamp\": 3402,\n          \"stop_timestamp\": 6666\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Using electronic devices and interacting with the woman\",\n      \"start_timestamp\": 6666,\n      \"stop_timestamp\": 11361,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Setting up the laptop and performing stretches\",\n          \"start_timestamp\": 6666,\n          \"stop_timestamp\": 8130\n        },\n        {\n          \"secondary_subgoal\": \"Continuing with vegetable preparation and interacting\",\n          \"start_timestamp\": 8130,\n          \"stop_timestamp\": 11361\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handling kitchen tasks with woman X\",\n      \"start_timestamp\": 11361,\n      \"stop_timestamp\": 18620,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Preparing vegetables and interacting with woman X\",\n          \"start_timestamp\": 11361,\n          \"stop_timestamp\": 17643\n        },\n        {\n          \"secondary_subgoal\": \"Peeling a carrot and interacting with woman X\",\n          \"start_timestamp\": 17643,\n          \"stop_timestamp\": 18620\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Using phones and interacting with woman X\",\n      \"start_timestamp\": 18620,\n      \"stop_timestamp\": 36500,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Using phone and moving around\",\n          \"start_timestamp\": 18620,\n          \"stop_timestamp\": 30548\n        },\n        {\n          \"secondary_subgoal\": \"Interacting with woman and using phone\",\n          \"start_timestamp\": 30548,\n          \"stop_timestamp\": 36500\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finishing tasks and cleaning up\",\n      \"start_timestamp\": 36500,\n      \"stop_timestamp\": 44674,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Using laptop and interacting with woman X\",\n          \"start_timestamp\": 36500,\n          \"stop_timestamp\": 38410\n        },\n        {\n          \"secondary_subgoal\": \"Handling an oven and final tasks\",\n          \"start_timestamp\": 38410,\n          \"stop_timestamp\": 44674\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4278,
+        "completion_tokens": 684,
+        "total_tokens": 4962
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

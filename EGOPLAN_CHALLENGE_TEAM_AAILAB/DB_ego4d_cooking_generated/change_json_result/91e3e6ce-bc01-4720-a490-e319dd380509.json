@@ -1,0 +1,95 @@
+{
+    "overall_goal": "Preparing and cooking food (vegetables, dough, and milk mixture).",
+    "clips": [
+        {
+            "subgoal": "Cutting Vegetables",
+            "start_timestamp": 48,
+            "stop_timestamp": 2641,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Initial Cutting of Vegetables",
+                    "start_timestamp": 48,
+                    "stop_timestamp": 812
+                },
+                {
+                    "secondary_subgoal": "Transferring Vegetables",
+                    "start_timestamp": 812,
+                    "stop_timestamp": 911
+                },
+                {
+                    "secondary_subgoal": "Sauteing and Pouring Vegetables",
+                    "start_timestamp": 911,
+                    "stop_timestamp": 2641
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing Leaves",
+            "start_timestamp": 2641,
+            "stop_timestamp": 14687,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Plucking Leaves",
+                    "start_timestamp": 2726,
+                    "stop_timestamp": 7247
+                },
+                {
+                    "secondary_subgoal": "Placing and Arranging Leaves",
+                    "start_timestamp": 7247,
+                    "stop_timestamp": 14603
+                },
+                {
+                    "secondary_subgoal": "Sighing and Reviewing the Work",
+                    "start_timestamp": 14603,
+                    "stop_timestamp": 14687
+                }
+            ]
+        },
+        {
+            "subgoal": "Making Dough",
+            "start_timestamp": 14687,
+            "stop_timestamp": 45337,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preparing Dough Balls",
+                    "start_timestamp": 14687,
+                    "stop_timestamp": 18693
+                },
+                {
+                    "secondary_subgoal": "Rolling the Dough",
+                    "start_timestamp": 18693,
+                    "stop_timestamp": 45337
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking Tortillas",
+            "start_timestamp": 45337,
+            "stop_timestamp": 45787,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cooking and Flipping Tortillas",
+                    "start_timestamp": 45337,
+                    "stop_timestamp": 45787
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing and Cooking Butter Cream",
+            "start_timestamp": 45787,
+            "stop_timestamp": 76093,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preparing Butter Cream",
+                    "start_timestamp": 45787,
+                    "stop_timestamp": 72715
+                },
+                {
+                    "secondary_subgoal": "Stirring the Soup",
+                    "start_timestamp": 72715,
+                    "stop_timestamp": 76093
+                }
+            ]
+        }
+    ]
+}

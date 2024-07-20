@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efehjAz7cOopYqeKcZDaMEGYZ1ck",
+    "object": "chat.completion",
+    "created": 1719480271,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing a meal in the kitchen involving various vegetables and macaroni.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing broccoli.\",\n      \"start_timestamp\": 79,\n      \"stop_timestamp\": 47195,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Taking broccoli from the fridge and preparing it.\",\n          \"start_timestamp\": 79,\n          \"stop_timestamp\": 2209\n        },\n        {\n          \"secondary_subgoal\": \"Cutting and washing broccoli.\",\n          \"start_timestamp\": 2209,\n          \"stop_timestamp\": 2905\n        },\n        {\n          \"secondary_subgoal\": \"Starting to cook broccoli on the cooker.\",\n          \"start_timestamp\": 2905,\n          \"stop_timestamp\": 3535\n        },\n        {\n          \"secondary_subgoal\": \"Adding salt to broccoli.\",\n          \"start_timestamp\": 3535,\n          \"stop_timestamp\": 4444\n        },\n        {\n          \"secondary_subgoal\": \"Preparing more vegetables.\",\n          \"start_timestamp\": 4444,\n          \"stop_timestamp\": 8245\n        },\n        {\n          \"secondary_subgoal\": \"Cooking broccoli with added garlic.\",\n          \"start_timestamp\": 8245,\n          \"stop_timestamp\": 11575\n        },\n        {\n          \"secondary_subgoal\": \"Adding cooking oil to the broccoli.\",\n          \"start_timestamp\": 11575,\n          \"stop_timestamp\": 12305\n        },\n        {\n          \"secondary_subgoal\": \"Cooking potato in the oven.\",\n          \"start_timestamp\": 12305,\n          \"stop_timestamp\": 13597\n        },\n        {\n          \"secondary_subgoal\": \"Measuring macaroni.\",\n          \"start_timestamp\": 13597,\n          \"stop_timestamp\": 15745\n        },\n        {\n          \"secondary_subgoal\": \"Storing unused macaroni.\",\n          \"start_timestamp\": 15745,\n          \"stop_timestamp\": 17576\n        },\n        {\n          \"secondary_subgoal\": \"Carrying out intermediate cooking tasks and checking on veggies.\",\n          \"start_timestamp\": 17576,\n          \"stop_timestamp\": 26744\n        },\n        {\n          \"secondary_subgoal\": \"Preparing lettuce.\",\n          \"start_timestamp\": 26744,\n          \"stop_timestamp\": 33507\n        },\n        {\n          \"secondary_subgoal\": \"Checking capsicums and stirring broccolis.\",\n          \"start_timestamp\": 33507,\n          \"stop_timestamp\": 34583\n        },\n        {\n          \"secondary_subgoal\": \"Grating carrots.\",\n          \"start_timestamp\": 34583,\n          \"stop_timestamp\": 38553\n        },\n        {\n          \"secondary_subgoal\": \"Adding mushrooms to cooking veggies.\",\n          \"start_timestamp\": 38553,\n          \"stop_timestamp\": 47209\n        },\n        {\n          \"secondary_subgoal\": \"Checking and seasoning the mushrooms.\",\n          \"start_timestamp\": 47209,\n          \"stop_timestamp\": 47195\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking macaroni and final food prep.\",\n      \"start_timestamp\": 47195,\n      \"stop_timestamp\": 82411,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cooking and stirring macaroni.\",\n          \"start_timestamp\": 47195,\n          \"stop_timestamp\": 70690\n        },\n        {\n          \"secondary_subgoal\": \"Washing utensils.\",\n          \"start_timestamp\": 70690,\n          \"stop_timestamp\": 80354\n        },\n        {\n          \"secondary_subgoal\": \"Final cooking and stirring veggies.\",\n          \"start_timestamp\": 80354,\n          \"stop_timestamp\": 81492\n        },\n        {\n          \"secondary_subgoal\": \"Serving food on the plate.\",\n          \"start_timestamp\": 81492,\n          \"stop_timestamp\": 82411\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7393,
+        "completion_tokens": 819,
+        "total_tokens": 8212
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

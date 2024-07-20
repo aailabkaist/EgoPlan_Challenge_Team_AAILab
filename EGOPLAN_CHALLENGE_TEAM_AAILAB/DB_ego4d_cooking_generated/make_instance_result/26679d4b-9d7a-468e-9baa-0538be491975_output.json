@@ -1,0 +1,857 @@
+[
+    {
+        "task_goal": "Wash and dry hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C shakes his hands over the bowl",
+                "start_frame": 1,
+                "stop_frame": 30
+            },
+            {
+                "narration_text": "#C C picks the hand towel",
+                "start_frame": 30,
+                "stop_frame": 48
+            },
+            {
+                "narration_text": "#C C wipes his hand",
+                "start_frame": 48,
+                "stop_frame": 86
+            },
+            {
+                "narration_text": "#C C puts the hand towel on the shelf",
+                "start_frame": 86,
+                "stop_frame": 110
+            },
+            {
+                "narration_text": "#C C picks the bottle",
+                "start_frame": 110,
+                "stop_frame": 126
+            }
+        ]
+    },
+    {
+        "task_goal": "Shake off water from hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C shakes his hands over the bowl",
+                "start_frame": 1,
+                "stop_frame": 30
+            },
+            {
+                "narration_text": "#C C picks the hand towel",
+                "start_frame": 30,
+                "stop_frame": 48
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and wipe hands with a towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C shakes his hands over the bowl",
+                "start_frame": 1,
+                "stop_frame": 30
+            },
+            {
+                "narration_text": "#C C picks the hand towel",
+                "start_frame": 30,
+                "stop_frame": 48
+            },
+            {
+                "narration_text": "#C C wipes his hand",
+                "start_frame": 48,
+                "stop_frame": 86
+            },
+            {
+                "narration_text": "#C C puts the hand towel on the shelf",
+                "start_frame": 86,
+                "stop_frame": 110
+            }
+        ]
+    },
+    {
+        "task_goal": "Put hand towel on the shelf",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C wipes his hand",
+                "start_frame": 48,
+                "stop_frame": 86
+            },
+            {
+                "narration_text": "#C C puts the hand towel on the shelf",
+                "start_frame": 86,
+                "stop_frame": 110
+            },
+            {
+                "narration_text": "#C C picks the bottle",
+                "start_frame": 110,
+                "stop_frame": 126
+            }
+        ]
+    },
+    {
+        "task_goal": "Season vegetables",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the hand towel on the shelf",
+                "start_frame": 86,
+                "stop_frame": 110
+            },
+            {
+                "narration_text": "#C C picks the bottle",
+                "start_frame": 110,
+                "stop_frame": 126
+            },
+            {
+                "narration_text": "#C C holds the bottle with both hands",
+                "start_frame": 126,
+                "stop_frame": 140
+            },
+            {
+                "narration_text": "#C C opens the bottle",
+                "start_frame": 140,
+                "stop_frame": 246
+            },
+            {
+                "narration_text": "#C C pours the oil #unsure over the vegetables",
+                "start_frame": 246,
+                "stop_frame": 307
+            },
+            {
+                "narration_text": "#C C closes the bottle",
+                "start_frame": 307,
+                "stop_frame": 346
+            },
+            {
+                "narration_text": "#C C puts the bottle on the shelf",
+                "start_frame": 346,
+                "stop_frame": 409
+            },
+            {
+                "narration_text": "#C C picks a bottle",
+                "start_frame": 409,
+                "stop_frame": 422
+            },
+            {
+                "narration_text": "#C C holds the bottle with both hands",
+                "start_frame": 422,
+                "stop_frame": 430
+            },
+            {
+                "narration_text": "#C C opens the bottle",
+                "start_frame": 430,
+                "stop_frame": 465
+            },
+            {
+                "narration_text": "#C C sprinkles the spice over the vegetables",
+                "start_frame": 465,
+                "stop_frame": 599
+            },
+            {
+                "narration_text": "#C C closes the bottle",
+                "start_frame": 599,
+                "stop_frame": 639
+            },
+            {
+                "narration_text": "#C C puts the bottle on the shelf",
+                "start_frame": 639,
+                "stop_frame": 658
+            },
+            {
+                "narration_text": "#C C wipes his hand",
+                "start_frame": 658,
+                "stop_frame": 700
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and pour oil over the vegetables",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the hand towel on the shelf",
+                "start_frame": 86,
+                "stop_frame": 110
+            },
+            {
+                "narration_text": "#C C picks the bottle",
+                "start_frame": 110,
+                "stop_frame": 126
+            },
+            {
+                "narration_text": "#C C holds the bottle with both hands",
+                "start_frame": 126,
+                "stop_frame": 140
+            },
+            {
+                "narration_text": "#C C opens the bottle",
+                "start_frame": 140,
+                "stop_frame": 246
+            },
+            {
+                "narration_text": "#C C pours the oil #unsure over the vegetables",
+                "start_frame": 246,
+                "stop_frame": 307
+            }
+        ]
+    },
+    {
+        "task_goal": "Sprinkle spice over the vegetables",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the bottle on the shelf",
+                "start_frame": 346,
+                "stop_frame": 409
+            },
+            {
+                "narration_text": "#C C picks a bottle",
+                "start_frame": 409,
+                "stop_frame": 422
+            },
+            {
+                "narration_text": "#C C holds the bottle with both hands",
+                "start_frame": 422,
+                "stop_frame": 430
+            },
+            {
+                "narration_text": "#C C opens the bottle",
+                "start_frame": 430,
+                "stop_frame": 465
+            },
+            {
+                "narration_text": "#C C sprinkles the spice over the vegetables",
+                "start_frame": 465,
+                "stop_frame": 599
+            },
+            {
+                "narration_text": "#C C closes the bottle",
+                "start_frame": 599,
+                "stop_frame": 639
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick items from the counter and window frame",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C wipes his hand",
+                "start_frame": 658,
+                "stop_frame": 700
+            },
+            {
+                "narration_text": "#C C touches the container on the window frame",
+                "start_frame": 700,
+                "stop_frame": 730
+            },
+            {
+                "narration_text": "#C C picks a box",
+                "start_frame": 730,
+                "stop_frame": 778
+            },
+            {
+                "narration_text": "#C C holds the plastic bag in the box",
+                "start_frame": 778,
+                "stop_frame": 858
+            },
+            {
+                "narration_text": "#C C picks the pair of scissors",
+                "start_frame": 858,
+                "stop_frame": 862
+            },
+            {
+                "narration_text": "#C C puts down the box on the counter top",
+                "start_frame": 862,
+                "stop_frame": 906
+            },
+            {
+                "narration_text": "#C C holds the plastic bag in the box",
+                "start_frame": 906,
+                "stop_frame": 925
+            },
+            {
+                "narration_text": "#C C holds the box with the other hand",
+                "start_frame": 925,
+                "stop_frame": 963
+            },
+            {
+                "narration_text": "#C C holds the knob of the cooker",
+                "start_frame": 963,
+                "stop_frame": 993
+            },
+            {
+                "narration_text": "#C C puts down the pair of scissors",
+                "start_frame": 993,
+                "stop_frame": 1006
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn on and adjust cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the knob of the cooker",
+                "start_frame": 963,
+                "stop_frame": 993
+            },
+            {
+                "narration_text": "#C C puts down the pair of scissors",
+                "start_frame": 993,
+                "stop_frame": 1006
+            },
+            {
+                "narration_text": "#C C picks the chopsticks",
+                "start_frame": 1006,
+                "stop_frame": 1034
+            },
+            {
+                "narration_text": "#C C holds the handle of the cooking pan",
+                "start_frame": 1034,
+                "stop_frame": 1078
+            },
+            {
+                "narration_text": "#C C turns over the food in the pan",
+                "start_frame": 1078,
+                "stop_frame": 1322
+            },
+            {
+                "narration_text": "#C C puts down the chopsticks",
+                "start_frame": 1322,
+                "stop_frame": 1339
+            },
+            {
+                "narration_text": "#C C holds the bottle",
+                "start_frame": 1339,
+                "stop_frame": 1362
+            },
+            {
+                "narration_text": "#C C opens the bottle",
+                "start_frame": 1362,
+                "stop_frame": 1403
+            },
+            {
+                "narration_text": "#C C holds the bottle",
+                "start_frame": 1403,
+                "stop_frame": 1479
+            },
+            {
+                "narration_text": "#C C pours the sauce over the food in the cooking pan",
+                "start_frame": 1479,
+                "stop_frame": 1526
+            },
+            {
+                "narration_text": "#C C closes the bottle",
+                "start_frame": 1526,
+                "stop_frame": 1545
+            },
+            {
+                "narration_text": "#C C holds the handle of the cooking pan",
+                "start_frame": 1545,
+                "stop_frame": 1549
+            },
+            {
+                "narration_text": "#C C puts down the bottle",
+                "start_frame": 1549,
+                "stop_frame": 1582
+            },
+            {
+                "narration_text": "#C C lifts the cooking pan",
+                "start_frame": 1582,
+                "stop_frame": 1591
+            },
+            {
+                "narration_text": "#C C picks the chopsticks",
+                "start_frame": 1591,
+                "stop_frame": 1610
+            },
+            {
+                "narration_text": "#C C moves the cooking pan up and down",
+                "start_frame": 1610,
+                "stop_frame": 1662
+            },
+            {
+                "narration_text": "#C C puts down the cooking pan on the cooker",
+                "start_frame": 1662,
+                "stop_frame": 1676
+            },
+            {
+                "narration_text": "#C C puts down the chopsticks",
+                "start_frame": 1676,
+                "stop_frame": 1769
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn over food in the pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts down the cooking pan on the cooker",
+                "start_frame": 1662,
+                "stop_frame": 1676
+            },
+            {
+                "narration_text": "#C C puts down the chopsticks",
+                "start_frame": 1676,
+                "stop_frame": 1769
+            },
+            {
+                "narration_text": "#C C holds the box",
+                "start_frame": 1769,
+                "stop_frame": 1794
+            },
+            {
+                "narration_text": "#C C removes the plastic packaging from the box",
+                "start_frame": 1794,
+                "stop_frame": 1806
+            },
+            {
+                "narration_text": "#C C picks the pair of scissors",
+                "start_frame": 1806,
+                "stop_frame": 1843
+            },
+            {
+                "narration_text": "#C C cuts the plastic packaging",
+                "start_frame": 1843,
+                "stop_frame": 1864
+            },
+            {
+                "narration_text": "#C C puts down the pair of scissors",
+                "start_frame": 1864,
+                "stop_frame": 1887
+            },
+            {
+                "narration_text": "#C C holds the plastic packaging with the other hand",
+                "start_frame": 1887,
+                "stop_frame": 1925
+            },
+            {
+                "narration_text": "#C C sprinkles the salt over the vegetables",
+                "start_frame": 1925,
+                "stop_frame": 2016
+            },
+            {
+                "narration_text": "#C C holds the plastic packaging with both hands",
+                "start_frame": 2016,
+                "stop_frame": 2163
+            },
+            {
+                "narration_text": "#C C holds the plastic packaging with one hand",
+                "start_frame": 2163,
+                "stop_frame": 2177
+            },
+            {
+                "narration_text": "#C C holds the box",
+                "start_frame": 2177,
+                "stop_frame": 2194
+            },
+            {
+                "narration_text": "#C C puts the plastic packaging inside the box",
+                "start_frame": 2194,
+                "stop_frame": 2221
+            },
+            {
+                "narration_text": "#C C lifts the box",
+                "start_frame": 2221,
+                "stop_frame": 2246
+            },
+            {
+                "narration_text": "#C C puts the box on the window frame",
+                "start_frame": 2246,
+                "stop_frame": 2285
+            },
+            {
+                "narration_text": "#C C picks the bottle",
+                "start_frame": 2285,
+                "stop_frame": 2299
+            },
+            {
+                "narration_text": "#C C holds the bottle with both hands",
+                "start_frame": 2299,
+                "stop_frame": 2326
+            },
+            {
+                "narration_text": "#C C opens the bottle",
+                "start_frame": 2326,
+                "stop_frame": 2348
+            }
+        ]
+    },
+    {
+        "task_goal": "Season food in the pan with sauce",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the bottle",
+                "start_frame": 2326,
+                "stop_frame": 2348
+            },
+            {
+                "narration_text": "#C C holds the bottle with one hand",
+                "start_frame": 2348,
+                "stop_frame": 2358
+            },
+            {
+                "narration_text": "#C C sprinkles the spice over the vegetables",
+                "start_frame": 2358,
+                "stop_frame": 2433
+            },
+            {
+                "narration_text": "#C C closes the bottle",
+                "start_frame": 2433,
+                "stop_frame": 2457
+            },
+            {
+                "narration_text": "#C C puts the bottle on the shelf",
+                "start_frame": 2457,
+                "stop_frame": 2492
+            },
+            {
+                "narration_text": "#C C mixes the vegetables with the spices",
+                "start_frame": 2492,
+                "stop_frame": 2512
+            },
+            {
+                "narration_text": "#C C holds the bowl",
+                "start_frame": 2512,
+                "stop_frame": 2849
+            },
+            {
+                "narration_text": "#C C picks the vegetable",
+                "start_frame": 2849,
+                "stop_frame": 2860
+            },
+            {
+                "narration_text": "#C C eats the vegetable",
+                "start_frame": 2860,
+                "stop_frame": 2897
+            },
+            {
+                "narration_text": "#C C mixes the vegetables with the spices",
+                "start_frame": 2897,
+                "stop_frame": 2993
+            },
+            {
+                "narration_text": "#C C picks the vegetable",
+                "start_frame": 2993,
+                "stop_frame": 3010
+            },
+            {
+                "narration_text": "#C C eats the vegetable",
+                "start_frame": 3010,
+                "stop_frame": 3043
+            },
+            {
+                "narration_text": "#C C mixes the vegetables with the spices",
+                "start_frame": 3043,
+                "stop_frame": 3089
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve and eat food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C mixes the vegetables with the spices",
+                "start_frame": 3043,
+                "stop_frame": 3089
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 3089,
+                "stop_frame": 3108
+            },
+            {
+                "narration_text": "#C C washes his hands",
+                "start_frame": 3108,
+                "stop_frame": 3221
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 3221,
+                "stop_frame": 3260
+            },
+            {
+                "narration_text": "#C C picks the hand towel",
+                "start_frame": 3260,
+                "stop_frame": 3279
+            },
+            {
+                "narration_text": "#C C wipes his hand",
+                "start_frame": 3279,
+                "stop_frame": 3318
+            },
+            {
+                "narration_text": "#C C puts the hand towel on the shelf",
+                "start_frame": 3318,
+                "stop_frame": 3349
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve food from pan to plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C mixes the vegetables with the spices",
+                "start_frame": 3043,
+                "stop_frame": 3089
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 3089,
+                "stop_frame": 3108
+            },
+            {
+                "narration_text": "#C C washes his hands",
+                "start_frame": 3108,
+                "stop_frame": 3221
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 3221,
+                "stop_frame": 3260
+            },
+            {
+                "narration_text": "#C C picks the hand towel",
+                "start_frame": 3260,
+                "stop_frame": 3279
+            }
+        ]
+    },
+    {
+        "task_goal": "Eat vegetables",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 3221,
+                "stop_frame": 3260
+            },
+            {
+                "narration_text": "#C C picks the hand towel",
+                "start_frame": 3260,
+                "stop_frame": 3279
+            },
+            {
+                "narration_text": "#C C wipes his hand",
+                "start_frame": 3279,
+                "stop_frame": 3318
+            },
+            {
+                "narration_text": "#C C puts the hand towel on the shelf",
+                "start_frame": 3318,
+                "stop_frame": 3349
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the hand towel on the shelf",
+                "start_frame": 3318,
+                "stop_frame": 3349
+            },
+            {
+                "narration_text": "#C C moves towards the cooker",
+                "start_frame": 3349,
+                "stop_frame": 3420
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare and store containers",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the chopsticks",
+                "start_frame": 5087,
+                "stop_frame": 5115
+            },
+            {
+                "narration_text": "#C C turns over the food in the cooking pan",
+                "start_frame": 5115,
+                "stop_frame": 5286
+            },
+            {
+                "narration_text": "#C C puts down the chopsticks",
+                "start_frame": 5286,
+                "stop_frame": 5300
+            },
+            {
+                "narration_text": "#C C moves away from the cooker",
+                "start_frame": 5300,
+                "stop_frame": 5326
+            },
+            {
+                "narration_text": "#C C picks the spoon",
+                "start_frame": 5326,
+                "stop_frame": 5345
+            },
+            {
+                "narration_text": "#C C hits the spoon against the edge of the container",
+                "start_frame": 5345,
+                "stop_frame": 5359
+            },
+            {
+                "narration_text": "#C C puts down the spoon",
+                "start_frame": 5359,
+                "stop_frame": 5382
+            },
+            {
+                "narration_text": "#C C lifts his hand",
+                "start_frame": 5382,
+                "stop_frame": 5390
+            },
+            {
+                "narration_text": "#C C holds the container",
+                "start_frame": 5390,
+                "stop_frame": 5403
+            },
+            {
+                "narration_text": "#C C lifts the container",
+                "start_frame": 5403,
+                "stop_frame": 5445
+            },
+            {
+                "narration_text": "#C C moves the container on the window frame",
+                "start_frame": 5445,
+                "stop_frame": 5496
+            },
+            {
+                "narration_text": "#C C puts the container on top of the container",
+                "start_frame": 5496,
+                "stop_frame": 5505
+            },
+            {
+                "narration_text": "#C C holds a plastic top",
+                "start_frame": 5505,
+                "stop_frame": 5566
+            },
+            {
+                "narration_text": "#C C puts the plastic top on the container",
+                "start_frame": 5566,
+                "stop_frame": 5587
+            },
+            {
+                "narration_text": "#C C lifts the box",
+                "start_frame": 5587,
+                "stop_frame": 5600
+            },
+            {
+                "narration_text": "#C C takes the lid from the window frame",
+                "start_frame": 5600,
+                "stop_frame": 5618
+            },
+            {
+                "narration_text": "#C C closes the container",
+                "start_frame": 5618,
+                "stop_frame": 5622
+            },
+            {
+                "narration_text": "#C C puts down the box",
+                "start_frame": 5622,
+                "stop_frame": 5728
+            },
+            {
+                "narration_text": "#C C moves towards the shelf",
+                "start_frame": 5728,
+                "stop_frame": 5791
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare and store containers",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the chopsticks",
+                "start_frame": 5087,
+                "stop_frame": 5115
+            },
+            {
+                "narration_text": "#C C turns over the food in the cooking pan",
+                "start_frame": 5115,
+                "stop_frame": 5286
+            },
+            {
+                "narration_text": "#C C puts down the chopsticks",
+                "start_frame": 5286,
+                "stop_frame": 5300
+            },
+            {
+                "narration_text": "#C C moves away from the cooker",
+                "start_frame": 5300,
+                "stop_frame": 5326
+            },
+            {
+                "narration_text": "#C C picks the spoon",
+                "start_frame": 5326,
+                "stop_frame": 5345
+            },
+            {
+                "narration_text": "#C C hits the spoon against the edge of the container",
+                "start_frame": 5345,
+                "stop_frame": 5359
+            },
+            {
+                "narration_text": "#C C puts down the spoon",
+                "start_frame": 5359,
+                "stop_frame": 5382
+            },
+            {
+                "narration_text": "#C C lifts his hand",
+                "start_frame": 5382,
+                "stop_frame": 5390
+            },
+            {
+                "narration_text": "#C C holds the container",
+                "start_frame": 5390,
+                "stop_frame": 5403
+            },
+            {
+                "narration_text": "#C C lifts the container",
+                "start_frame": 5403,
+                "stop_frame": 5445
+            },
+            {
+                "narration_text": "#C C moves the container on the window frame",
+                "start_frame": 5445,
+                "stop_frame": 5496
+            },
+            {
+                "narration_text": "#C C puts the container on top of the container",
+                "start_frame": 5496,
+                "stop_frame": 5505
+            },
+            {
+                "narration_text": "#C C holds a plastic top",
+                "start_frame": 5505,
+                "stop_frame": 5566
+            },
+            {
+                "narration_text": "#C C puts the plastic top on the container",
+                "start_frame": 5566,
+                "stop_frame": 5587
+            },
+            {
+                "narration_text": "#C C lifts the box",
+                "start_frame": 5587,
+                "stop_frame": 5600
+            },
+            {
+                "narration_text": "#C C takes the lid from the window frame",
+                "start_frame": 5600,
+                "stop_frame": 5618
+            },
+            {
+                "narration_text": "#C C closes the container",
+                "start_frame": 5618,
+                "stop_frame": 5622
+            },
+            {
+                "narration_text": "#C C puts down the box",
+                "start_frame": 5622,
+                "stop_frame": 5728
+            },
+            {
+                "narration_text": "#C C moves towards the shelf",
+                "start_frame": 5728,
+                "stop_frame": 5791
+            }
+        ]
+    }
+]

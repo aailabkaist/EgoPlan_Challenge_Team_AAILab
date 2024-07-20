@@ -1,0 +1,141 @@
+{
+    "overall_goal": "Prepare a meal including mushroom potato stew and rice while also clearing and organizing the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Prepare the ingredients and start cooking mushroom potato stew.",
+            "start_timestamp": 23,
+            "stop_timestamp": 1047,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and prepare the mushrooms.",
+                    "start_timestamp": 23,
+                    "stop_timestamp": 383
+                },
+                {
+                    "secondary_subgoal": "Begin cooking by adding mushrooms to the cooking pan.",
+                    "start_timestamp": 383,
+                    "stop_timestamp": 517
+                }
+            ]
+        },
+        {
+            "subgoal": "Continue cooking the mushroom potato stew by adding other ingredients and stirring.",
+            "start_timestamp": 517,
+            "stop_timestamp": 516,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir the mushroom potato stew.",
+                    "start_timestamp": 517,
+                    "stop_timestamp": 517
+                }
+            ]
+        },
+        {
+            "subgoal": "Add carrot soup to the mushroom potato stew.",
+            "start_timestamp": 874,
+            "stop_timestamp": 1042,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and add carrot soup.",
+                    "start_timestamp": 874,
+                    "stop_timestamp": 1010
+                },
+                {
+                    "secondary_subgoal": "Stir the mushroom potato stew.",
+                    "start_timestamp": 1010,
+                    "stop_timestamp": 1047
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and add curry bricks to the mushroom potato stew.",
+            "start_timestamp": 5020,
+            "stop_timestamp": 8509,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add and stir curry bricks in the mushroom potato stew.",
+                    "start_timestamp": 5020,
+                    "stop_timestamp": 5698
+                },
+                {
+                    "secondary_subgoal": "Continue stirring the mushroom potato stew.",
+                    "start_timestamp": 5698,
+                    "stop_timestamp": 8496
+                }
+            ]
+        },
+        {
+            "subgoal": "Make further preparations and organize the kitchen.",
+            "start_timestamp": 10629,
+            "stop_timestamp": 9007,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put a cooking spoon in the mushroom potato stew.",
+                    "start_timestamp": 10629,
+                    "stop_timestamp": 9007
+                }
+            ]
+        },
+        {
+            "subgoal": "Open cabinet and scoop rice for cooking.",
+            "start_timestamp": 6007,
+            "stop_timestamp": 14803,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Scoop rice.",
+                    "start_timestamp": 6007,
+                    "stop_timestamp": 14803
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash and prepare rice for cooking.",
+            "start_timestamp": 12075,
+            "stop_timestamp": 14821,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash the rice.",
+                    "start_timestamp": 12075,
+                    "stop_timestamp": 13035
+                },
+                {
+                    "secondary_subgoal": "Wash the rice again.",
+                    "start_timestamp": 13035,
+                    "stop_timestamp": 14821
+                }
+            ]
+        },
+        {
+            "subgoal": "Organizing and cleaning the kitchen.",
+            "start_timestamp": 14821,
+            "stop_timestamp": 20723,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Start rice cooker.",
+                    "start_timestamp": 14821,
+                    "stop_timestamp": 14939
+                },
+                {
+                    "secondary_subgoal": "Organize the kitchen.",
+                    "start_timestamp": 14939,
+                    "stop_timestamp": 15005
+                },
+                {
+                    "secondary_subgoal": "Stir the mushroom potato stew.",
+                    "start_timestamp": 15005,
+                    "stop_timestamp": 15482
+                },
+                {
+                    "secondary_subgoal": "Place cooking spoon in the chopping board and pick waste in the sink.",
+                    "start_timestamp": 7457,
+                    "stop_timestamp": 15699
+                },
+                {
+                    "secondary_subgoal": "Organize the kitchen and clean utensils.",
+                    "start_timestamp": 15780,
+                    "stop_timestamp": 20723
+                }
+            ]
+        }
+    ]
+}

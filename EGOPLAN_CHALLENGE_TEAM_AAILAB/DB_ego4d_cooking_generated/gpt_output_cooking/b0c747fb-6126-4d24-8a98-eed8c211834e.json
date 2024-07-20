@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfyGFJxIpWOzfDWPSPv5EhP1MNMX",
+    "object": "chat.completion",
+    "created": 1719243156,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Prepare and cook onions, then additional ingredients such as mushrooms and potatoes in a kitchen.\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Pick and prepare onions\",\n            \"start_timestamp\": 0,\n            \"stop_timestamp\": 2146,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Pick an onion and unwrap it\", \"start_timestamp\": 39, \"stop_timestamp\": 271},\n                {\"secondary_subgoal\": \"Place the onion on the chopping board\", \"start_timestamp\": 271, \"stop_timestamp\": 317},\n                {\"secondary_subgoal\": \"Turn on the tap and rinse hands\", \"start_timestamp\": 317, \"stop_timestamp\": 347},\n                {\"secondary_subgoal\": \"Wash and handle a paper\", \"start_timestamp\": 347, \"stop_timestamp\": 455},\n                {\"secondary_subgoal\": \"Pour water into a sink and hang a paper in a rack\", \"start_timestamp\": 499, \"stop_timestamp\": 788},\n                {\"secondary_subgoal\": \"Close the tap and pick a knife\", \"start_timestamp\": 824, \"stop_timestamp\": 869},\n                {\"secondary_subgoal\": \"Hold and cut the onion\", \"start_timestamp\": 897, \"stop_timestamp\": 947},\n                {\"secondary_subgoal\": \"Pick and dispose of a part of the onion\", \"start_timestamp\": 967, \"stop_timestamp\": 1013},\n                {\"secondary_subgoal\": \"Hold and cut the onion\", \"start_timestamp\": 1042, \"stop_timestamp\": 1274},\n                {\"secondary_subgoal\": \"Remove onions stuck on the knife\", \"start_timestamp\": 1274, \"stop_timestamp\": 1293},\n                {\"secondary_subgoal\": \"Place onions in a strainer\", \"start_timestamp\": 1321, \"stop_timestamp\": 1321},\n                {\"secondary_subgoal\": \"Continue cutting the onions and placing them in a strainer\", \"start_timestamp\": 1321, \"stop_timestamp\": 2137}\n            ]\n        },\n        {\n            \"subgoal\": \"Peel and prepare yellow onions\",\n            \"start_timestamp\": 2770,\n            \"stop_timestamp\": 3774,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Peel and dispose of onion peels\", \"start_timestamp\": 2770, \"stop_timestamp\": 3774}\n            ]\n        },\n        {\n            \"subgoal\": \"Wash dishes\",\n            \"start_timestamp\": 18529,\n            \"stop_timestamp\": 20549,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Wash knife\", \"start_timestamp\": 18808, \"stop_timestamp\": 19076},\n                {\"secondary_subgoal\": \"Rinse knife\", \"start_timestamp\": 19390, \"stop_timestamp\": 19421}\n            ]\n        },\n        {\n            \"subgoal\": \"Move items to and from cooking area\",\n            \"start_timestamp\": 10055,\n            \"stop_timestamp\": 13416,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Move the pot\", \"start_timestamp\": 10304, \"stop_timestamp\": 10336},\n                {\"secondary_subgoal\": \"Pour oil\", \"start_timestamp\": 13353, \"stop_timestamp\": 13416}\n            ]\n        }\n    ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6824,
+        "completion_tokens": 703,
+        "total_tokens": 7527
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

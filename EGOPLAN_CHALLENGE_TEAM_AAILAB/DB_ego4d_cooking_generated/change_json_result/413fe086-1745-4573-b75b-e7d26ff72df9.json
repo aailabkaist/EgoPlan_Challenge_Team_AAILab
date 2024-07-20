@@ -1,0 +1,150 @@
+{
+    "overall_goal": "Prepare a meal by cooking and mixing various ingredients including stirring, cutting vegetables, washing, and seasoning.",
+    "clips": [
+        {
+            "subgoal": "Preparation of cooking ingredients",
+            "start_timestamp": 0,
+            "stop_timestamp": 191,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Holding utensils (spoon, chopsticks)",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 103
+                },
+                {
+                    "secondary_subgoal": "Stirring ingredients",
+                    "start_timestamp": 103,
+                    "stop_timestamp": 158
+                },
+                {
+                    "secondary_subgoal": "Putting down chopsticks",
+                    "start_timestamp": 158,
+                    "stop_timestamp": 191
+                }
+            ]
+        },
+        {
+            "subgoal": "Collecting and handling ingredients for cooking",
+            "start_timestamp": 191,
+            "stop_timestamp": 680,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening fridge and closing microwave",
+                    "start_timestamp": 191,
+                    "stop_timestamp": 392
+                },
+                {
+                    "secondary_subgoal": "Handling plastic can",
+                    "start_timestamp": 392,
+                    "stop_timestamp": 556
+                },
+                {
+                    "secondary_subgoal": "Opening can and using cooking spoon",
+                    "start_timestamp": 556,
+                    "stop_timestamp": 680
+                }
+            ]
+        },
+        {
+            "subgoal": "Stirring and combining ingredients",
+            "start_timestamp": 680,
+            "stop_timestamp": 9235,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring with spoon and chopsticks",
+                    "start_timestamp": 680,
+                    "stop_timestamp": 7934
+                },
+                {
+                    "secondary_subgoal": "Adding and stirring additional ingredients",
+                    "start_timestamp": 7934,
+                    "stop_timestamp": 8720
+                },
+                {
+                    "secondary_subgoal": "Adding black pepper and stirring soup",
+                    "start_timestamp": 8720,
+                    "stop_timestamp": 8939
+                },
+                {
+                    "secondary_subgoal": "Handling black pepper package",
+                    "start_timestamp": 8939,
+                    "stop_timestamp": 9338
+                },
+                {
+                    "secondary_subgoal": "Handling vegetables",
+                    "start_timestamp": 9338,
+                    "stop_timestamp": 10480
+                },
+                {
+                    "secondary_subgoal": "Cutting onions",
+                    "start_timestamp": 10480,
+                    "stop_timestamp": 11245
+                },
+                {
+                    "secondary_subgoal": "Washing and cutting onions",
+                    "start_timestamp": 11245,
+                    "stop_timestamp": 12342
+                },
+                {
+                    "secondary_subgoal": "Adding onions to pot",
+                    "start_timestamp": 12342,
+                    "stop_timestamp": 12636
+                },
+                {
+                    "secondary_subgoal": "Stirring soup and handling utensils",
+                    "start_timestamp": 12636,
+                    "stop_timestamp": 13277
+                },
+                {
+                    "secondary_subgoal": "Cleaning utensils and cooking equipment",
+                    "start_timestamp": 13277,
+                    "stop_timestamp": 13841
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling rice and preparing serving utensils",
+            "start_timestamp": 13841,
+            "stop_timestamp": 15765,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling rice cooker and stirring rice",
+                    "start_timestamp": 13841,
+                    "stop_timestamp": 14479
+                },
+                {
+                    "secondary_subgoal": "Handling plates and spoon",
+                    "start_timestamp": 14500,
+                    "stop_timestamp": 15065
+                },
+                {
+                    "secondary_subgoal": "Serving soup and meat",
+                    "start_timestamp": 15065,
+                    "stop_timestamp": 15765
+                }
+            ]
+        },
+        {
+            "subgoal": "Final touches in cooking and kitchen organization",
+            "start_timestamp": 15765,
+            "stop_timestamp": 18161,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Multi-tasking with utensils and serving",
+                    "start_timestamp": 15765,
+                    "stop_timestamp": 16859
+                },
+                {
+                    "secondary_subgoal": "Moving and organizing kitchen items",
+                    "start_timestamp": 16859,
+                    "stop_timestamp": 17963
+                },
+                {
+                    "secondary_subgoal": "Cleaning hands and minor adjustments",
+                    "start_timestamp": 17963,
+                    "stop_timestamp": 18161
+                }
+            ]
+        }
+    ]
+}

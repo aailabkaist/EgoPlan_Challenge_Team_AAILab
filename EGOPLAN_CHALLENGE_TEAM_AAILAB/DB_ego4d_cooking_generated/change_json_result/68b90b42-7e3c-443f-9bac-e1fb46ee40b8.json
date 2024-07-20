@@ -1,0 +1,126 @@
+{
+    "overall_goal": "Preparing a mixture of eggs and flour",
+    "clips": [
+        {
+            "subgoal": "Cooking something in the pot",
+            "start_timestamp": 14,
+            "stop_timestamp": 745,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring contents in the pot",
+                    "start_timestamp": 14,
+                    "stop_timestamp": 106
+                },
+                {
+                    "secondary_subgoal": "Operating the cooker",
+                    "start_timestamp": 106,
+                    "stop_timestamp": 554
+                },
+                {
+                    "secondary_subgoal": "Removing the pot from the cooker and placing it on the table",
+                    "start_timestamp": 554,
+                    "stop_timestamp": 745
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding ingredients and mixing in the pot",
+            "start_timestamp": 1230,
+            "stop_timestamp": 3319,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring contents in the pot",
+                    "start_timestamp": 1230,
+                    "stop_timestamp": 1786
+                },
+                {
+                    "secondary_subgoal": "Cracking eggs and adding them to the pot",
+                    "start_timestamp": 2246,
+                    "stop_timestamp": 3319
+                }
+            ]
+        },
+        {
+            "subgoal": "Disposing of egg shells",
+            "start_timestamp": 3367,
+            "stop_timestamp": 3683,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walking to the dustbin and disposing of shells",
+                    "start_timestamp": 3367,
+                    "stop_timestamp": 3683
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning hands",
+            "start_timestamp": 3926,
+            "stop_timestamp": 4140,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing hands",
+                    "start_timestamp": 3926,
+                    "stop_timestamp": 4010
+                },
+                {
+                    "secondary_subgoal": "Drying hands",
+                    "start_timestamp": 4140,
+                    "stop_timestamp": 4140
+                }
+            ]
+        },
+        {
+            "subgoal": "Mixing wheat flour",
+            "start_timestamp": 5421,
+            "stop_timestamp": 7769,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring wheat flour in the bowl",
+                    "start_timestamp": 5421,
+                    "stop_timestamp": 7769
+                }
+            ]
+        },
+        {
+            "subgoal": "Kneading dough",
+            "start_timestamp": 9262,
+            "stop_timestamp": 12834,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Kneading the flour in the bowl with hands",
+                    "start_timestamp": 9262,
+                    "stop_timestamp": 12834
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning hands after kneading",
+            "start_timestamp": 12867,
+            "stop_timestamp": 15488,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing and drying hands",
+                    "start_timestamp": 12867,
+                    "stop_timestamp": 15488
+                }
+            ]
+        },
+        {
+            "subgoal": "Final adjustments to the dough",
+            "start_timestamp": 15510,
+            "stop_timestamp": 16943,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Shaking the kneaded dough and covering it",
+                    "start_timestamp": 15510,
+                    "stop_timestamp": 16044
+                },
+                {
+                    "secondary_subgoal": "Putting the dish on the table and adjusting the lid of the bowl",
+                    "start_timestamp": 16760,
+                    "stop_timestamp": 16943
+                }
+            ]
+        }
+    ]
+}

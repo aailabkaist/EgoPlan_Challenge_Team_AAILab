@@ -1,0 +1,257 @@
+[
+    {
+        "task_goal": "Collecting ingredients from the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves around.",
+                "start_frame": 71,
+                "stop_frame": 137
+            },
+            {
+                "narration_text": "Opens the fridge.",
+                "start_frame": 137,
+                "stop_frame": 242
+            },
+            {
+                "narration_text": "Pulls out the shelf.",
+                "start_frame": 242,
+                "stop_frame": 400
+            },
+            {
+                "narration_text": "Picks the carrot.",
+                "start_frame": 400,
+                "stop_frame": 566
+            },
+            {
+                "narration_text": "Pushes back the shelf.",
+                "start_frame": 566,
+                "stop_frame": 649
+            },
+            {
+                "narration_text": "Picks the food",
+                "start_frame": 649,
+                "stop_frame": 774
+            },
+            {
+                "narration_text": "Puts the food on the table.",
+                "start_frame": 774,
+                "stop_frame": 983
+            },
+            {
+                "narration_text": "Picks the fruit",
+                "start_frame": 983,
+                "stop_frame": 1247
+            },
+            {
+                "narration_text": "Picks the cucumber",
+                "start_frame": 1247,
+                "stop_frame": 1363
+            },
+            {
+                "narration_text": "Puts the cucumber on the table.",
+                "start_frame": 1363,
+                "stop_frame": 1648
+            },
+            {
+                "narration_text": "Picks the pepper.",
+                "start_frame": 1648,
+                "stop_frame": 1698
+            },
+            {
+                "narration_text": "Puts the pepper on the table.",
+                "start_frame": 1698,
+                "stop_frame": 1999
+            },
+            {
+                "narration_text": "Picks the cabbage.",
+                "start_frame": 1999,
+                "stop_frame": 2301
+            },
+            {
+                "narration_text": "Puts the cabbage on the table.",
+                "start_frame": 2301,
+                "stop_frame": 2337
+            },
+            {
+                "narration_text": "Returns another cabbage into the fridge.",
+                "start_frame": 2337,
+                "stop_frame": 3471
+            }
+        ]
+    },
+    {
+        "task_goal": "Open fridge and take out vegetables",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves around.",
+                "start_frame": 71,
+                "stop_frame": 137
+            },
+            {
+                "narration_text": "Opens the fridge.",
+                "start_frame": 137,
+                "stop_frame": 242
+            },
+            {
+                "narration_text": "Pulls out the shelf.",
+                "start_frame": 242,
+                "stop_frame": 400
+            },
+            {
+                "narration_text": "Picks the carrot.",
+                "start_frame": 400,
+                "stop_frame": 566
+            },
+            {
+                "narration_text": "Pushes back the shelf.",
+                "start_frame": 566,
+                "stop_frame": 649
+            },
+            {
+                "narration_text": "Picks the food",
+                "start_frame": 649,
+                "stop_frame": 774
+            },
+            {
+                "narration_text": "Puts the food on the table.",
+                "start_frame": 774,
+                "stop_frame": 983
+            }
+        ]
+    },
+    {
+        "task_goal": "Place vegetables on table for further preparation",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the food",
+                "start_frame": 649,
+                "stop_frame": 774
+            },
+            {
+                "narration_text": "Puts the food on the table.",
+                "start_frame": 774,
+                "stop_frame": 983
+            },
+            {
+                "narration_text": "Picks the fruit",
+                "start_frame": 983,
+                "stop_frame": 1247
+            },
+            {
+                "narration_text": "Picks the cucumber",
+                "start_frame": 1247,
+                "stop_frame": 1363
+            },
+            {
+                "narration_text": "Puts the cucumber on the table.",
+                "start_frame": 1363,
+                "stop_frame": 1648
+            },
+            {
+                "narration_text": "Picks the pepper.",
+                "start_frame": 1648,
+                "stop_frame": 1698
+            },
+            {
+                "narration_text": "Puts the pepper on the table.",
+                "start_frame": 1698,
+                "stop_frame": 1999
+            },
+            {
+                "narration_text": "Picks the cabbage.",
+                "start_frame": 1999,
+                "stop_frame": 2301
+            },
+            {
+                "narration_text": "Puts the cabbage on the table.",
+                "start_frame": 2301,
+                "stop_frame": 2337
+            },
+            {
+                "narration_text": "Returns another cabbage into the fridge.",
+                "start_frame": 2337,
+                "stop_frame": 3471
+            }
+        ]
+    },
+    {
+        "task_goal": "Chop specific vegetables (carrot, onion, mushrooms)",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the knife.",
+                "start_frame": 3471,
+                "stop_frame": 3537
+            },
+            {
+                "narration_text": "Chops the carrot with the knife.",
+                "start_frame": 3537,
+                "stop_frame": 6484
+            },
+            {
+                "narration_text": "Chops the onion",
+                "start_frame": 6484,
+                "stop_frame": 9038
+            },
+            {
+                "narration_text": "Takes mushrooms cuts them",
+                "start_frame": 9038,
+                "stop_frame": 9118
+            },
+            {
+                "narration_text": "Talks to oo",
+                "start_frame": 9118,
+                "stop_frame": 9688
+            },
+            {
+                "narration_text": "Takes unsure to the bin",
+                "start_frame": 9688,
+                "stop_frame": 9740
+            }
+        ]
+    },
+    {
+        "task_goal": "Dispose of waste and clean up workspace",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Talks to oo",
+                "start_frame": 9118,
+                "stop_frame": 9688
+            },
+            {
+                "narration_text": "Takes unsure to the bin",
+                "start_frame": 9688,
+                "stop_frame": 9740
+            },
+            {
+                "narration_text": " closes the bin",
+                "start_frame": 9740,
+                "stop_frame": 10031
+            },
+            {
+                "narration_text": "Cuts broccoli",
+                "start_frame": 10031,
+                "stop_frame": 10866
+            },
+            {
+                "narration_text": "Throws the unsure to the bin",
+                "start_frame": 10866,
+                "stop_frame": 11075
+            },
+            {
+                "narration_text": "Cuts broccoli",
+                "start_frame": 11075,
+                "stop_frame": 11094
+            },
+            {
+                "narration_text": "Cc takes onions",
+                "start_frame": 11094,
+                "stop_frame": 11306
+            },
+            {
+                "narration_text": "Oo takes a spoon",
+                "start_frame": 11306,
+                "stop_frame": 12217
+            }
+        ]
+    }
+]

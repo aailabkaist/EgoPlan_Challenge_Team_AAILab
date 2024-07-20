@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efH5PQEhniHY91sqJwye6y4mrtIr",
+    "object": "chat.completion",
+    "created": 1719478807,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook a meal, followed by cleaning the kitchen tools used.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Cooking vegetables in a pan\",\n      \"start_timestamp\": 11,\n      \"stop_timestamp\": 25436,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir-frying vegetables with chopsticks\",\n          \"start_timestamp\": 11,\n          \"stop_timestamp\": 832\n        },\n        {\n          \"secondary_subgoal\": \"Shaking vegetables in the pan\",\n          \"start_timestamp\": 833,\n          \"stop_timestamp\": 566\n        },\n        {\n          \"secondary_subgoal\": \"Adjusting gas flame and stirring vegetables after shaking\",\n          \"start_timestamp\": 1702,\n          \"stop_timestamp\": 1775\n        },\n        {\n          \"secondary_subgoal\": \"Collecting and preparing vegetable peels\",\n          \"start_timestamp\": 2486,\n          \"stop_timestamp\": 2893\n        },\n        {\n          \"secondary_subgoal\": \"Washing and handling peels, chopping board, and knife\",\n          \"start_timestamp\": 2893,\n          \"stop_timestamp\": 3557\n        },\n        {\n          \"secondary_subgoal\": \"Dropping and picking utensils\",\n          \"start_timestamp\": 3557,\n          \"stop_timestamp\": 4943\n        },\n        {\n          \"secondary_subgoal\": \"Drying and reordering kitchen tools\",\n          \"start_timestamp\": 4943,\n          \"stop_timestamp\": 7114\n        },\n        {\n          \"secondary_subgoal\": \"Handling seasoning packets and stirring food\",\n          \"start_timestamp\": 7114,\n          \"stop_timestamp\": 10051\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Adding and cooking with meat and adjusting taste\",\n      \"start_timestamp\": 10051,\n      \"stop_timestamp\": 13498,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Adding meat and stirring\",\n          \"start_timestamp\": 10051,\n          \"stop_timestamp\": 10204\n        },\n        {\n          \"secondary_subgoal\": \"More seasoning adjustments\",\n          \"start_timestamp\": 10204,\n          \"stop_timestamp\": 11321\n        },\n        {\n          \"secondary_subgoal\": \"Final cooking steps\",\n          \"start_timestamp\": 11321,\n          \"stop_timestamp\": 13498\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning used utensils and workspace\",\n      \"start_timestamp\": 13498,\n      \"stop_timestamp\": 14191,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cleaning the pan and other dishes\",\n          \"start_timestamp\": 13498,\n          \"stop_timestamp\": 14020\n        },\n        {\n          \"secondary_subgoal\": \"Wiping surfaces and general cleaning\",\n          \"start_timestamp\": 14020,\n          \"stop_timestamp\": 14191\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Ending the task by using phone\",\n      \"start_timestamp\": 14191,\n      \"stop_timestamp\": 14291,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Using a phone\",\n          \"start_timestamp\": 14291,\n          \"stop_timestamp\": 14291\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4203,
+        "completion_tokens": 709,
+        "total_tokens": 4912
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

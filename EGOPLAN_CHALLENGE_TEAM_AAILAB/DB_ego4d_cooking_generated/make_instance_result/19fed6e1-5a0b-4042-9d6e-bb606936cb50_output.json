@@ -1,0 +1,737 @@
+[
+    {
+        "task_goal": "Wash hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C lowers hands from head",
+                "start_frame": 23,
+                "stop_frame": 95
+            },
+            {
+                "narration_text": "#C C opens tap in a sink",
+                "start_frame": 95,
+                "stop_frame": 114
+            },
+            {
+                "narration_text": "#C C washes hands in the sink",
+                "start_frame": 114,
+                "stop_frame": 142
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 142,
+                "stop_frame": 172
+            },
+            {
+                "narration_text": "#C C dries the sink area with sponge",
+                "start_frame": 172,
+                "stop_frame": 398
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare cooking area",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 142,
+                "stop_frame": 172
+            },
+            {
+                "narration_text": "#C C dries the sink area with sponge",
+                "start_frame": 172,
+                "stop_frame": 398
+            },
+            {
+                "narration_text": "#C C puts the sponge a hanger",
+                "start_frame": 398,
+                "stop_frame": 399
+            },
+            {
+                "narration_text": "#C C walks in the kitchen",
+                "start_frame": 399,
+                "stop_frame": 453
+            },
+            {
+                "narration_text": "#C C opens a cabinet",
+                "start_frame": 453,
+                "stop_frame": 484
+            },
+            {
+                "narration_text": "#C C takes packet from the cabinet",
+                "start_frame": 484,
+                "stop_frame": 530
+            },
+            {
+                "narration_text": "#C C places the packet on kitchen slab",
+                "start_frame": 530,
+                "stop_frame": 576
+            }
+        ]
+    },
+    {
+        "task_goal": "Collect ingredients (milk, egg, bread)",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks to a fridge",
+                "start_frame": 1185,
+                "stop_frame": 1229
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 1229,
+                "stop_frame": 1298
+            },
+            {
+                "narration_text": "#C C takes a box of milk",
+                "start_frame": 1298,
+                "stop_frame": 1363
+            },
+            {
+                "narration_text": "#C C touches eggs tray",
+                "start_frame": 1363,
+                "stop_frame": 1577
+            },
+            {
+                "narration_text": "#C C takes an egg",
+                "start_frame": 1577,
+                "stop_frame": 1667
+            },
+            {
+                "narration_text": "#C C walks to the sink",
+                "start_frame": 1667,
+                "stop_frame": 1689
+            },
+            {
+                "narration_text": "#C C places egg and milk on the slab",
+                "start_frame": 1689,
+                "stop_frame": 1750
+            },
+            {
+                "narration_text": "#C C dispositions the egg",
+                "start_frame": 1750,
+                "stop_frame": 1834
+            },
+            {
+                "narration_text": "#C C takes bread from the fridge",
+                "start_frame": 1834,
+                "stop_frame": 1902
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 1902,
+                "stop_frame": 1975
+            },
+            {
+                "narration_text": "#C C places the bread on the table",
+                "start_frame": 1975,
+                "stop_frame": 1993
+            },
+            {
+                "narration_text": "#C C takes a jug from the rack",
+                "start_frame": 1993,
+                "stop_frame": 2053
+            }
+        ]
+    },
+    {
+        "task_goal": "Unwrap bread and cut into slices",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes the bread",
+                "start_frame": 3018,
+                "stop_frame": 3050
+            },
+            {
+                "narration_text": "#C C unwraps the bread",
+                "start_frame": 3050,
+                "stop_frame": 3200
+            },
+            {
+                "narration_text": "#C C puts the bread slice on the chopping board",
+                "start_frame": 3200,
+                "stop_frame": 3262
+            },
+            {
+                "narration_text": "#C C takes a knife",
+                "start_frame": 3262,
+                "stop_frame": 3289
+            },
+            {
+                "narration_text": "#C C cuts the bread into smaller slices",
+                "start_frame": 3289,
+                "stop_frame": 3563
+            },
+            {
+                "narration_text": "#C C pushes the polythene onto the slab",
+                "start_frame": 3563,
+                "stop_frame": 3598
+            },
+            {
+                "narration_text": "#C C cuts the bread into smaller slices",
+                "start_frame": 3598,
+                "stop_frame": 4100
+            },
+            {
+                "narration_text": "#C C places the knife into the sink",
+                "start_frame": 4100,
+                "stop_frame": 4126
+            },
+            {
+                "narration_text": "#C C takes the polythene wrapping",
+                "start_frame": 4126,
+                "stop_frame": 4181
+            }
+        ]
+    },
+    {
+        "task_goal": "Dispose of bread wrapping",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places the knife into the sink",
+                "start_frame": 4100,
+                "stop_frame": 4126
+            },
+            {
+                "narration_text": "#C C takes the polythene wrapping",
+                "start_frame": 4126,
+                "stop_frame": 4181
+            },
+            {
+                "narration_text": "#C C places the wrapping into a dustbin",
+                "start_frame": 4181,
+                "stop_frame": 4222
+            },
+            {
+                "narration_text": "#C C touches the chopping board",
+                "start_frame": 4222,
+                "stop_frame": 4246
+            }
+        ]
+    },
+    {
+        "task_goal": "Measure and pour milk into jug",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes the jug",
+                "start_frame": 4931,
+                "stop_frame": 4992
+            },
+            {
+                "narration_text": "#C C looks at the measurements of the jug",
+                "start_frame": 4992,
+                "stop_frame": 5024
+            },
+            {
+                "narration_text": "#C C places the jug on the slab",
+                "start_frame": 5024,
+                "stop_frame": 5073
+            },
+            {
+                "narration_text": "#C C looks at the measurements of the jug",
+                "start_frame": 5073,
+                "stop_frame": 5126
+            },
+            {
+                "narration_text": "#C C pours milk into the jug",
+                "start_frame": 5126,
+                "stop_frame": 5224
+            },
+            {
+                "narration_text": "#C C looks at the measurements of the jug",
+                "start_frame": 5224,
+                "stop_frame": 5288
+            },
+            {
+                "narration_text": "#C C pours milk into the jug",
+                "start_frame": 5288,
+                "stop_frame": 5370
+            },
+            {
+                "narration_text": "#C C looks at the measurements of the jug",
+                "start_frame": 5370,
+                "stop_frame": 5436
+            },
+            {
+                "narration_text": "#C C adds more milk into the jug",
+                "start_frame": 5436,
+                "stop_frame": 5501
+            },
+            {
+                "narration_text": "#C C places the box and jug of milk on the slab",
+                "start_frame": 5501,
+                "stop_frame": 5539
+            },
+            {
+                "narration_text": "#C C squats to look at the demarcations",
+                "start_frame": 5539,
+                "stop_frame": 5568
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare egg",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes the egg",
+                "start_frame": 6574,
+                "stop_frame": 6601
+            },
+            {
+                "narration_text": "#C C knocks the egg on the sink edge",
+                "start_frame": 6601,
+                "stop_frame": 6788
+            },
+            {
+                "narration_text": "#C C breaks the egg shell",
+                "start_frame": 6788,
+                "stop_frame": 6981
+            },
+            {
+                "narration_text": "#C C takes a polythene from the sink",
+                "start_frame": 6981,
+                "stop_frame": 7002
+            },
+            {
+                "narration_text": "#C C opens the polythene",
+                "start_frame": 7002,
+                "stop_frame": 7259
+            },
+            {
+                "narration_text": "#C C places the egg shell in the polythene",
+                "start_frame": 7259,
+                "stop_frame": 7347
+            },
+            {
+                "narration_text": "#C C puts the polythene beside the tap",
+                "start_frame": 7347,
+                "stop_frame": 7379
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 7379,
+                "stop_frame": 7403
+            },
+            {
+                "narration_text": "#C C washes hands",
+                "start_frame": 7403,
+                "stop_frame": 7430
+            },
+            {
+                "narration_text": "#C C puts water into the jug",
+                "start_frame": 7430,
+                "stop_frame": 7494
+            }
+        ]
+    },
+    {
+        "task_goal": "Break and handle egg",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C knocks the egg on the sink edge",
+                "start_frame": 6601,
+                "stop_frame": 6788
+            },
+            {
+                "narration_text": "#C C breaks the egg shell",
+                "start_frame": 6788,
+                "stop_frame": 6981
+            },
+            {
+                "narration_text": "#C C takes a polythene from the sink",
+                "start_frame": 6981,
+                "stop_frame": 7002
+            },
+            {
+                "narration_text": "#C C opens the polythene",
+                "start_frame": 7002,
+                "stop_frame": 7259
+            },
+            {
+                "narration_text": "#C C places the egg shell in the polythene",
+                "start_frame": 7259,
+                "stop_frame": 7347
+            },
+            {
+                "narration_text": "#C C puts the polythene beside the tap",
+                "start_frame": 7347,
+                "stop_frame": 7379
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash hands after handling egg",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 7379,
+                "stop_frame": 7403
+            },
+            {
+                "narration_text": "#C C washes hands",
+                "start_frame": 7403,
+                "stop_frame": 7430
+            },
+            {
+                "narration_text": "#C C puts water into the jug",
+                "start_frame": 7430,
+                "stop_frame": 7494
+            }
+        ]
+    },
+    {
+        "task_goal": "Add sugar to mixture",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes a packet of sugar on the slab",
+                "start_frame": 7689,
+                "stop_frame": 7731
+            },
+            {
+                "narration_text": "#C C opens the packet",
+                "start_frame": 7731,
+                "stop_frame": 7761
+            },
+            {
+                "narration_text": "#C C places #Unsure on the slab",
+                "start_frame": 7761,
+                "stop_frame": 7824
+            },
+            {
+                "narration_text": "#C C touches the packet",
+                "start_frame": 7824,
+                "stop_frame": 7868
+            },
+            {
+                "narration_text": "#C C takes a spoon from the rack",
+                "start_frame": 7868,
+                "stop_frame": 7993
+            },
+            {
+                "narration_text": "#C C scoops sugar from the packet",
+                "start_frame": 7993,
+                "stop_frame": 8125
+            },
+            {
+                "narration_text": "#C C places sugar into the milk",
+                "start_frame": 8125,
+                "stop_frame": 8179
+            },
+            {
+                "narration_text": "#C C scoops sugar from the packet",
+                "start_frame": 8179,
+                "stop_frame": 8247
+            },
+            {
+                "narration_text": "#C C places sugar into the milk",
+                "start_frame": 8247,
+                "stop_frame": 8313
+            },
+            {
+                "narration_text": "#C C puts the spoon into the sink",
+                "start_frame": 8313,
+                "stop_frame": 8348
+            },
+            {
+                "narration_text": "#C C closes the sugar packet",
+                "start_frame": 8348,
+                "stop_frame": 8392
+            },
+            {
+                "narration_text": "#C C pushes the bowl",
+                "start_frame": 8392,
+                "stop_frame": 8443
+            }
+        ]
+    },
+    {
+        "task_goal": "Scoop and add sugar to mixture",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C scoops sugar from the packet",
+                "start_frame": 7993,
+                "stop_frame": 8125
+            },
+            {
+                "narration_text": "#C C places sugar into the milk",
+                "start_frame": 8125,
+                "stop_frame": 8179
+            },
+            {
+                "narration_text": "#C C scoops sugar from the packet",
+                "start_frame": 8179,
+                "stop_frame": 8247
+            },
+            {
+                "narration_text": "#C C places sugar into the milk",
+                "start_frame": 8247,
+                "stop_frame": 8313
+            },
+            {
+                "narration_text": "#C C puts the spoon into the sink",
+                "start_frame": 8313,
+                "stop_frame": 8348
+            },
+            {
+                "narration_text": "#C C closes the sugar packet",
+                "start_frame": 8348,
+                "stop_frame": 8392
+            },
+            {
+                "narration_text": "#C C pushes the bowl",
+                "start_frame": 8392,
+                "stop_frame": 8443
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks chopsticks",
+                "start_frame": 8872,
+                "stop_frame": 9035
+            },
+            {
+                "narration_text": "#C C holds the chopsticks with the right hand",
+                "start_frame": 9035,
+                "stop_frame": 9040
+            },
+            {
+                "narration_text": "#C C walks in the room",
+                "start_frame": 9040,
+                "stop_frame": 9084
+            },
+            {
+                "narration_text": "#C C holds the mixing bowl",
+                "start_frame": 9084,
+                "stop_frame": 9089
+            },
+            {
+                "narration_text": "#C C stirs the egg, sugar and milk with the chopsticks",
+                "start_frame": 9089,
+                "stop_frame": 9189
+            },
+            {
+                "narration_text": "#C C unhands the mixing bowl",
+                "start_frame": 9189,
+                "stop_frame": 9779
+            },
+            {
+                "narration_text": "#C C moves backwards",
+                "start_frame": 9779,
+                "stop_frame": 10075
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir egg, sugar, and milk mixture",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the mixing bowl",
+                "start_frame": 9084,
+                "stop_frame": 9089
+            },
+            {
+                "narration_text": "#C C stirs the egg, sugar and milk with the chopsticks",
+                "start_frame": 9089,
+                "stop_frame": 9189
+            },
+            {
+                "narration_text": "#C C unhands the mixing bowl",
+                "start_frame": 9189,
+                "stop_frame": 9779
+            },
+            {
+                "narration_text": "#C C moves backwards",
+                "start_frame": 9779,
+                "stop_frame": 10075
+            }
+        ]
+    },
+    {
+        "task_goal": "Add bread to mixture and stir",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks piece of bread",
+                "start_frame": 10653,
+                "stop_frame": 10672
+            },
+            {
+                "narration_text": "#C C puts the piece of bread in the mixing bowl",
+                "start_frame": 10672,
+                "stop_frame": 10717
+            },
+            {
+                "narration_text": "#C C picks pieces of bread",
+                "start_frame": 10717,
+                "stop_frame": 10743
+            },
+            {
+                "narration_text": "#C C holds the piece of bread",
+                "start_frame": 10743,
+                "stop_frame": 10743
+            },
+            {
+                "narration_text": "#C C puts the piece of bread in the mixing bowl",
+                "start_frame": 10743,
+                "stop_frame": 10758
+            },
+            {
+                "narration_text": "#C C puts the piece of bread in the mixing bowl",
+                "start_frame": 10758,
+                "stop_frame": 10792
+            },
+            {
+                "narration_text": "#C C picks pieces of bread",
+                "start_frame": 10792,
+                "stop_frame": 10817
+            },
+            {
+                "narration_text": "#C C puts the pieces of bread in the mixing bowl",
+                "start_frame": 10817,
+                "stop_frame": 10848
+            },
+            {
+                "narration_text": "#C C presses the pieces of bread",
+                "start_frame": 10848,
+                "stop_frame": 10874
+            },
+            {
+                "narration_text": "#C C picks piece of bread",
+                "start_frame": 10874,
+                "stop_frame": 10901
+            },
+            {
+                "narration_text": "#C C puts the piece of bread in the mixing bowl",
+                "start_frame": 10901,
+                "stop_frame": 10976
+            },
+            {
+                "narration_text": "#C C picks the chopsticks",
+                "start_frame": 10976,
+                "stop_frame": 11050
+            },
+            {
+                "narration_text": "#C C turns the pieces of bread",
+                "start_frame": 11050,
+                "stop_frame": 11598
+            },
+            {
+                "narration_text": "#C C arranges the pieces of bread",
+                "start_frame": 11598,
+                "stop_frame": 11625
+            },
+            {
+                "narration_text": "#C C shakes the chopsticks",
+                "start_frame": 11625,
+                "stop_frame": 11652
+            },
+            {
+                "narration_text": "#C C places the chopsticks on the cutting board",
+                "start_frame": 11652,
+                "stop_frame": 11684
+            },
+            {
+                "narration_text": "#C C picks the mixing bowl",
+                "start_frame": 11684,
+                "stop_frame": 11717
+            }
+        ]
+    },
+    {
+        "task_goal": "Wrap bowl and store in fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the mixing bowl",
+                "start_frame": 11684,
+                "stop_frame": 11717
+            },
+            {
+                "narration_text": "#C C walks in the room",
+                "start_frame": 11717,
+                "stop_frame": 11759
+            },
+            {
+                "narration_text": "#C C holds the mixing bowl",
+                "start_frame": 11759,
+                "stop_frame": 11791
+            },
+            {
+                "narration_text": "#C C places the mixing bowl on the bench",
+                "start_frame": 11791,
+                "stop_frame": 11878
+            },
+            {
+                "narration_text": "#C C picks a box",
+                "start_frame": 11878,
+                "stop_frame": 11932
+            },
+            {
+                "narration_text": "#C C opens the box",
+                "start_frame": 11932,
+                "stop_frame": 11943
+            },
+            {
+                "narration_text": "#C C pulls plastic wrap",
+                "start_frame": 11943,
+                "stop_frame": 12023
+            },
+            {
+                "narration_text": "#C C wraps the mixing bowl",
+                "start_frame": 12023,
+                "stop_frame": 12090
+            },
+            {
+                "narration_text": "#C C tears the plastic wrap",
+                "start_frame": 12090,
+                "stop_frame": 12146
+            },
+            {
+                "narration_text": "#C C walks in the room",
+                "start_frame": 12146,
+                "stop_frame": 12205
+            },
+            {
+                "narration_text": "#C C puts the plastic wrap in a tin",
+                "start_frame": 12205,
+                "stop_frame": 12241
+            },
+            {
+                "narration_text": "#C C walks in the room",
+                "start_frame": 12241,
+                "stop_frame": 12270
+            },
+            {
+                "narration_text": "#C C folds the plastic wrap",
+                "start_frame": 12270,
+                "stop_frame": 12311
+            },
+            {
+                "narration_text": "#C C lifts the mixing bowl",
+                "start_frame": 12311,
+                "stop_frame": 12347
+            },
+            {
+                "narration_text": "#C C walks in the room",
+                "start_frame": 12347,
+                "stop_frame": 12429
+            },
+            {
+                "narration_text": "#C C opens the fridge door",
+                "start_frame": 12429,
+                "stop_frame": 12524
+            },
+            {
+                "narration_text": "#C C puts the mixing bowl in the fridge",
+                "start_frame": 12524,
+                "stop_frame": 12562
+            },
+            {
+                "narration_text": "#C C holds food freezer container",
+                "start_frame": 12562,
+                "stop_frame": 12671
+            }
+        ]
+    }
+]

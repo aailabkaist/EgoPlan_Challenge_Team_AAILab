@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeRTBXbgoz9sFqJjKAw9bcHMczsW",
+    "object": "chat.completion",
+    "created": 1719475607,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"C prepares, cooks, and consumes a meal, then engages in sewing and knitting activities.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"C prepares chapati and coconut stew\",\n      \"start_timestamp\": 31742,\n      \"stop_timestamp\": 40304,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C fries chapatis\",\n          \"start_timestamp\": 31742,\n          \"stop_timestamp\": 35221\n        },\n        {\n          \"secondary_subgoal\": \"C handles coconut and checks the chapati\",\n          \"start_timestamp\": 35221,\n          \"stop_timestamp\": 36837\n        },\n        {\n          \"secondary_subgoal\": \"C adjusts stove and prepares pot\",\n          \"start_timestamp\": 36837,\n          \"stop_timestamp\": 37716\n        },\n        {\n          \"secondary_subgoal\": \"C eats coconut and finishes cooking chapati\",\n          \"start_timestamp\": 37716,\n          \"stop_timestamp\": 40508\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"C serves and sets up food for eating\",\n      \"start_timestamp\": 40508,\n      \"stop_timestamp\": 43668,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C serves chapati and stew onto plates\",\n          \"start_timestamp\": 40508,\n          \"stop_timestamp\": 42187\n        },\n        {\n          \"secondary_subgoal\": \"C arranges plates and jug\",\n          \"start_timestamp\": 42187,\n          \"stop_timestamp\": 43668\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"C eats the meal\",\n      \"start_timestamp\": 43668,\n      \"stop_timestamp\": 52856,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C begins eating chapati with stew\",\n          \"start_timestamp\": 43668,\n          \"stop_timestamp\": 47776\n        },\n        {\n          \"secondary_subgoal\": \"C continues eating chapati and meat\",\n          \"start_timestamp\": 47776,\n          \"stop_timestamp\": 51959\n        },\n        {\n          \"secondary_subgoal\": \"C drinks water and washes hands\",\n          \"start_timestamp\": 51959,\n          \"stop_timestamp\": 52589\n        },\n        {\n          \"secondary_subgoal\": \"C relaxes and rests\",\n          \"start_timestamp\": 52589,\n          \"stop_timestamp\": 52856\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"C shifts to weaving/knitting tasks\",\n      \"start_timestamp\": 52856,\n      \"stop_timestamp\": 109868,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C knits a fabric with a crochet hook\",\n          \"start_timestamp\": 52856,\n          \"stop_timestamp\": 60999\n        },\n        {\n          \"secondary_subgoal\": \"C clears and prepares fireplace\",\n          \"start_timestamp\": 60999,\n          \"stop_timestamp\": 68723\n        },\n        {\n          \"secondary_subgoal\": \"C spins yam and knits fabric\",\n          \"start_timestamp\": 68723,\n          \"stop_timestamp\": 107177\n        },\n        {\n          \"secondary_subgoal\": \"C starts using a phone\",\n          \"start_timestamp\": 107177,\n          \"stop_timestamp\": 109868\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"C continues with knitting tasks and talking on the phone\",\n      \"start_timestamp\": 109868,\n      \"stop_timestamp\": 151495,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C talks on the phone and knits\",\n          \"start_timestamp\": 109868,\n          \"stop_timestamp\": 138540\n        },\n        {\n          \"secondary_subgoal\": \"C continues knitting without phone\",\n          \"start_timestamp\": 138540,\n          \"stop_timestamp\": 151495\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 15587,
+        "completion_tokens": 848,
+        "total_tokens": 16435
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

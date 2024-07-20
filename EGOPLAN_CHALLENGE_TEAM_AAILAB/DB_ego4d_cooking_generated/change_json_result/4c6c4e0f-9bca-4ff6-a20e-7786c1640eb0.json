@@ -1,0 +1,100 @@
+{
+    "overall_goal": "Prepare and store something using the cooker and kitchen napkins",
+    "clips": [
+        {
+            "subgoal": "Preparing and handling items using the cooker",
+            "start_timestamp": 36,
+            "stop_timestamp": 313,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking and placing kitchen napkin",
+                    "start_timestamp": 36,
+                    "stop_timestamp": 93
+                },
+                {
+                    "secondary_subgoal": "Opening and closing something in the cooker",
+                    "start_timestamp": 93,
+                    "stop_timestamp": 234
+                },
+                {
+                    "secondary_subgoal": "Returning the napkin to the sink counter",
+                    "start_timestamp": 234,
+                    "stop_timestamp": 313
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling the cooker and items with kitchen napkins",
+            "start_timestamp": 313,
+            "stop_timestamp": 1384,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turning off the cooker",
+                    "start_timestamp": 313,
+                    "stop_timestamp": 500
+                },
+                {
+                    "secondary_subgoal": "Picking and placing kitchen napkin, and removing something from the cooker",
+                    "start_timestamp": 500,
+                    "stop_timestamp": 761
+                },
+                {
+                    "secondary_subgoal": "Handling and wrapping items with napkins",
+                    "start_timestamp": 761,
+                    "stop_timestamp": 1384
+                }
+            ]
+        },
+        {
+            "subgoal": "Packaging the wrapped item and handling polythene bag",
+            "start_timestamp": 1384,
+            "stop_timestamp": 1866,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Moving around and handling polythene bag",
+                    "start_timestamp": 1384,
+                    "stop_timestamp": 1482
+                },
+                {
+                    "secondary_subgoal": "Placing wrapped item in the polythene bag and sealing it",
+                    "start_timestamp": 1482,
+                    "stop_timestamp": 1833
+                },
+                {
+                    "secondary_subgoal": "Lifting and placing the sealed bag on the sink counter",
+                    "start_timestamp": 1833,
+                    "stop_timestamp": 1866
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning the cooker and handling the small cylinder",
+            "start_timestamp": 1866,
+            "stop_timestamp": 2393,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning the cooker and removing small cylinder",
+                    "start_timestamp": 1980,
+                    "stop_timestamp": 2161
+                },
+                {
+                    "secondary_subgoal": "Handling and closing the small cylinder",
+                    "start_timestamp": 2161,
+                    "stop_timestamp": 2393
+                }
+            ]
+        },
+        {
+            "subgoal": "Wrapping up and finishing the task",
+            "start_timestamp": 2393,
+            "stop_timestamp": 2493,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Moving around",
+                    "start_timestamp": 2393,
+                    "stop_timestamp": 2493
+                }
+            ]
+        }
+    ]
+}

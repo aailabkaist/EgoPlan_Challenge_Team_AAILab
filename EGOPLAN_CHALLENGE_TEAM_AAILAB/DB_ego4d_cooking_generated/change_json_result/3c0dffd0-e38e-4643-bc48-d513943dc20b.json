@@ -1,0 +1,105 @@
+{
+    "overall_goal": "Prepare and serve food",
+    "clips": [
+        {
+            "subgoal": "Prepare sausages",
+            "start_timestamp": 0,
+            "stop_timestamp": 1988,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Remove oven plate with sausages",
+                    "start_timestamp": 529,
+                    "stop_timestamp": 789
+                },
+                {
+                    "secondary_subgoal": "Turn sausages",
+                    "start_timestamp": 916,
+                    "stop_timestamp": 1544
+                },
+                {
+                    "secondary_subgoal": "Put oven plate back in oven",
+                    "start_timestamp": 1607,
+                    "stop_timestamp": 1819
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook food on the stove",
+            "start_timestamp": 1988,
+            "stop_timestamp": 9445,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir and add water in cooking pan",
+                    "start_timestamp": 1988,
+                    "stop_timestamp": 2294
+                },
+                {
+                    "secondary_subgoal": "Continue stirring food",
+                    "start_timestamp": 2895,
+                    "stop_timestamp": 5115
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up cooking tools and space",
+            "start_timestamp": 9550,
+            "stop_timestamp": 10461,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and put away measuring jag",
+                    "start_timestamp": 9550,
+                    "stop_timestamp": 10063
+                },
+                {
+                    "secondary_subgoal": "Clean cooking pan and put it away",
+                    "start_timestamp": 10229,
+                    "stop_timestamp": 10659
+                },
+                {
+                    "secondary_subgoal": "Clean up and put away utensils",
+                    "start_timestamp": 10881,
+                    "stop_timestamp": 11574
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish cooking sausage dish",
+            "start_timestamp": 11574,
+            "stop_timestamp": 15603,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Finish preparing sausage dish",
+                    "start_timestamp": 13431,
+                    "stop_timestamp": 15081
+                },
+                {
+                    "secondary_subgoal": "Serve sausages",
+                    "start_timestamp": 15513,
+                    "stop_timestamp": 15840
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve food in the plate",
+            "start_timestamp": 15840,
+            "stop_timestamp": 19420,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Serve food and perform final touch-ups",
+                    "start_timestamp": 15840,
+                    "stop_timestamp": 17468
+                },
+                {
+                    "secondary_subgoal": "Clean up and organize kitchen",
+                    "start_timestamp": 18311,
+                    "stop_timestamp": 18812
+                },
+                {
+                    "secondary_subgoal": "Look around and use phone",
+                    "start_timestamp": 19265,
+                    "stop_timestamp": 19420
+                }
+            ]
+        }
+    ]
+}

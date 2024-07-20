@@ -1,0 +1,150 @@
+{
+    "overall_goal": "Cook and prepare meal with meatballs, vegetables, and soup",
+    "clips": [
+        {
+            "subgoal": "Prepare cooking utensils and ingredients",
+            "start_timestamp": 0,
+            "stop_timestamp": 2799,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn cutlets in the pan",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 274
+                },
+                {
+                    "secondary_subgoal": "Adjust cooking settings and start cooking meatballs",
+                    "start_timestamp": 274,
+                    "stop_timestamp": 902
+                },
+                {
+                    "secondary_subgoal": "Mold and shape meatballs",
+                    "start_timestamp": 902,
+                    "stop_timestamp": 1341
+                },
+                {
+                    "secondary_subgoal": "Clean bowl and wash hands",
+                    "start_timestamp": 1341,
+                    "stop_timestamp": 1621
+                },
+                {
+                    "secondary_subgoal": "Wash knife and other utensils",
+                    "start_timestamp": 1621,
+                    "stop_timestamp": 1776
+                },
+                {
+                    "secondary_subgoal": "Dry hands and adjust cooking settings",
+                    "start_timestamp": 1776,
+                    "stop_timestamp": 2039
+                },
+                {
+                    "secondary_subgoal": "Wash spoon and stir the mixture",
+                    "start_timestamp": 2039,
+                    "stop_timestamp": 2362
+                },
+                {
+                    "secondary_subgoal": "Operate cooking gas",
+                    "start_timestamp": 2362,
+                    "stop_timestamp": 2542
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare vegetables",
+            "start_timestamp": 2542,
+            "stop_timestamp": 3636,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Manage fridge content",
+                    "start_timestamp": 2542,
+                    "stop_timestamp": 2936
+                },
+                {
+                    "secondary_subgoal": "Pick and unseal ingredients",
+                    "start_timestamp": 2936,
+                    "stop_timestamp": 3378
+                },
+                {
+                    "secondary_subgoal": "Place ingredients in the fridge",
+                    "start_timestamp": 3378,
+                    "stop_timestamp": 3607
+                },
+                {
+                    "secondary_subgoal": "Pick sachets and slotted spoon",
+                    "start_timestamp": 3607,
+                    "stop_timestamp": 3765
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook meatballs",
+            "start_timestamp": 3765,
+            "stop_timestamp": 7556,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn meatball and cover pan",
+                    "start_timestamp": 3765,
+                    "stop_timestamp": 4002
+                },
+                {
+                    "secondary_subgoal": "Operate cooking gas and stir",
+                    "start_timestamp": 4002,
+                    "stop_timestamp": 4361
+                },
+                {
+                    "secondary_subgoal": "Manage vegetables and cook",
+                    "start_timestamp": 4361,
+                    "stop_timestamp": 5074
+                },
+                {
+                    "secondary_subgoal": "Cut and place vegetables in the pan",
+                    "start_timestamp": 5074,
+                    "stop_timestamp": 6766
+                },
+                {
+                    "secondary_subgoal": "Wash hands and operate cooking gas",
+                    "start_timestamp": 6766,
+                    "stop_timestamp": 7292
+                },
+                {
+                    "secondary_subgoal": "Stir and cover meatballs",
+                    "start_timestamp": 7292,
+                    "stop_timestamp": 7556
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook vegetables",
+            "start_timestamp": 7556,
+            "stop_timestamp": 9286,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir vegetables into the pot",
+                    "start_timestamp": 7556,
+                    "stop_timestamp": 9442
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare soup",
+            "start_timestamp": 9442,
+            "stop_timestamp": 12983,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and add cheese",
+                    "start_timestamp": 9442,
+                    "stop_timestamp": 11851
+                },
+                {
+                    "secondary_subgoal": "Add cheese to pot and stir",
+                    "start_timestamp": 11851,
+                    "stop_timestamp": 12287
+                },
+                {
+                    "secondary_subgoal": "Taste and finalize soup",
+                    "start_timestamp": 12287,
+                    "stop_timestamp": 12983
+                }
+            ]
+        }
+    ]
+}

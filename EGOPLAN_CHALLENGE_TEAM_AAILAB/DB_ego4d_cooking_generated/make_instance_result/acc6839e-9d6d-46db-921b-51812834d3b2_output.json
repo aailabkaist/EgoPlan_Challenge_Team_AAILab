@@ -1,0 +1,1817 @@
+[
+    {
+        "task_goal": "Carry the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves the right hand",
+                "start_frame": -1,
+                "stop_frame": 80
+            },
+            {
+                "narration_text": "#C C carries the plate with the left hand",
+                "start_frame": 80,
+                "stop_frame": 154
+            },
+            {
+                "narration_text": "#C C drops the tray",
+                "start_frame": 154,
+                "stop_frame": 208
+            }
+        ]
+    },
+    {
+        "task_goal": "Drop the tray",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C carries the plate with the left hand",
+                "start_frame": 80,
+                "stop_frame": 154
+            },
+            {
+                "narration_text": "#C C drops the tray",
+                "start_frame": 154,
+                "stop_frame": 208
+            },
+            {
+                "narration_text": "#C C carries the plate with the left hand",
+                "start_frame": 208,
+                "stop_frame": 280
+            }
+        ]
+    },
+    {
+        "task_goal": "Carry the plate again and look ahead",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C drops the tray",
+                "start_frame": 154,
+                "stop_frame": 208
+            },
+            {
+                "narration_text": "#C C carries the plate with the left hand",
+                "start_frame": 208,
+                "stop_frame": 280
+            },
+            {
+                "narration_text": "#C C looks ahead",
+                "start_frame": 280,
+                "stop_frame": 376
+            },
+            {
+                "narration_text": "#C C serves food on the plate with the right hand",
+                "start_frame": 376,
+                "stop_frame": 479
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve food on the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks ahead",
+                "start_frame": 280,
+                "stop_frame": 376
+            },
+            {
+                "narration_text": "#C C serves food on the plate with the right hand",
+                "start_frame": 376,
+                "stop_frame": 479
+            },
+            {
+                "narration_text": "#C C turns the plate",
+                "start_frame": 479,
+                "stop_frame": 591
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C serves food on the plate with the right hand",
+                "start_frame": 376,
+                "stop_frame": 479
+            },
+            {
+                "narration_text": "#C C turns the plate",
+                "start_frame": 479,
+                "stop_frame": 591
+            },
+            {
+                "narration_text": "#C C serves food on the plate with the right hand",
+                "start_frame": 591,
+                "stop_frame": 729
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve more food on the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns the plate",
+                "start_frame": 479,
+                "stop_frame": 591
+            },
+            {
+                "narration_text": "#C C serves food on the plate with the right hand",
+                "start_frame": 591,
+                "stop_frame": 729
+            },
+            {
+                "narration_text": "#C C places the plate on the plate holder",
+                "start_frame": 729,
+                "stop_frame": 856
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the plate on the plate holder",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C serves food on the plate with the right hand",
+                "start_frame": 591,
+                "stop_frame": 729
+            },
+            {
+                "narration_text": "#C C places the plate on the plate holder",
+                "start_frame": 729,
+                "stop_frame": 856
+            },
+            {
+                "narration_text": "#C C picks a plate with the left hand",
+                "start_frame": 856,
+                "stop_frame": 976
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick another plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places the plate on the plate holder",
+                "start_frame": 729,
+                "stop_frame": 856
+            },
+            {
+                "narration_text": "#C C picks a plate with the left hand",
+                "start_frame": 856,
+                "stop_frame": 976
+            },
+            {
+                "narration_text": "#C C serves food on the plate with the right hand",
+                "start_frame": 976,
+                "stop_frame": 3021
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve on the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a plate with the left hand",
+                "start_frame": 856,
+                "stop_frame": 976
+            },
+            {
+                "narration_text": "#C C serves food on the plate with the right hand",
+                "start_frame": 976,
+                "stop_frame": 3021
+            },
+            {
+                "narration_text": "#C C places the plate on the plate holder",
+                "start_frame": 3021,
+                "stop_frame": 3135
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the plate on the plate holder",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C serves food on the plate with the right hand",
+                "start_frame": 976,
+                "stop_frame": 3021
+            },
+            {
+                "narration_text": "#C C places the plate on the plate holder",
+                "start_frame": 3021,
+                "stop_frame": 3135
+            },
+            {
+                "narration_text": "#C C moves around the plates with the right hand",
+                "start_frame": 3135,
+                "stop_frame": 3183
+            }
+        ]
+    },
+    {
+        "task_goal": "Move around the plates",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places the plate on the plate holder",
+                "start_frame": 3021,
+                "stop_frame": 3135
+            },
+            {
+                "narration_text": "#C C moves around the plates with the right hand",
+                "start_frame": 3135,
+                "stop_frame": 3183
+            },
+            {
+                "narration_text": "#C C picks the plate holder with the right hand",
+                "start_frame": 3183,
+                "stop_frame": 3229
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and drop plate holder",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves around the plates with the right hand",
+                "start_frame": 3135,
+                "stop_frame": 3183
+            },
+            {
+                "narration_text": "#C C picks the plate holder with the right hand",
+                "start_frame": 3183,
+                "stop_frame": 3229
+            },
+            {
+                "narration_text": "#C C drops the plate holder with the right hand",
+                "start_frame": 3229,
+                "stop_frame": 3268
+            },
+            {
+                "narration_text": "#C C piles the utensils with the left hand",
+                "start_frame": 3268,
+                "stop_frame": 3311
+            }
+        ]
+    },
+    {
+        "task_goal": "Pile and move utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C drops the plate holder with the right hand",
+                "start_frame": 3229,
+                "stop_frame": 3268
+            },
+            {
+                "narration_text": "#C C piles the utensils with the left hand",
+                "start_frame": 3268,
+                "stop_frame": 3311
+            },
+            {
+                "narration_text": "#C C moves the utensils with the left hand",
+                "start_frame": 3311,
+                "stop_frame": 3351
+            },
+            {
+                "narration_text": "#C C stands up",
+                "start_frame": 3351,
+                "stop_frame": 3385
+            }
+        ]
+    },
+    {
+        "task_goal": "Stand up and carry plate holder",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves the utensils with the left hand",
+                "start_frame": 3311,
+                "stop_frame": 3351
+            },
+            {
+                "narration_text": "#C C stands up",
+                "start_frame": 3351,
+                "stop_frame": 3385
+            },
+            {
+                "narration_text": "#C C carries the plate holder with the right hand",
+                "start_frame": 3385,
+                "stop_frame": 3412
+            },
+            {
+                "narration_text": "#C C opens the container lid with the left hand",
+                "start_frame": 3412,
+                "stop_frame": 3452
+            }
+        ]
+    },
+    {
+        "task_goal": "Open container lid",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C carries the plate holder with the right hand",
+                "start_frame": 3385,
+                "stop_frame": 3412
+            },
+            {
+                "narration_text": "#C C opens the container lid with the left hand",
+                "start_frame": 3412,
+                "stop_frame": 3452
+            },
+            {
+                "narration_text": "#C C places the plate handle in the pot with the right hand",
+                "start_frame": 3452,
+                "stop_frame": 3498
+            }
+        ]
+    },
+    {
+        "task_goal": "Placing plate holder and covering pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the container lid with the left hand",
+                "start_frame": 3412,
+                "stop_frame": 3452
+            },
+            {
+                "narration_text": "#C C places the plate handle in the pot with the right hand",
+                "start_frame": 3452,
+                "stop_frame": 3498
+            },
+            {
+                "narration_text": "#C C covers the pot with the left hand",
+                "start_frame": 3498,
+                "stop_frame": 3532
+            },
+            {
+                "narration_text": "#C C presses the switch with the right hand",
+                "start_frame": 3532,
+                "stop_frame": 3594
+            },
+            {
+                "narration_text": "#C C moves around the right hand",
+                "start_frame": 3594,
+                "stop_frame": 3664
+            }
+        ]
+    },
+    {
+        "task_goal": "Place plate holder in pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the container lid with the left hand",
+                "start_frame": 3412,
+                "stop_frame": 3452
+            },
+            {
+                "narration_text": "#C C places the plate handle in the pot with the right hand",
+                "start_frame": 3452,
+                "stop_frame": 3498
+            },
+            {
+                "narration_text": "#C C covers the pot with the left hand",
+                "start_frame": 3498,
+                "stop_frame": 3532
+            }
+        ]
+    },
+    {
+        "task_goal": "Cover pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places the plate handle in the pot with the right hand",
+                "start_frame": 3452,
+                "stop_frame": 3498
+            },
+            {
+                "narration_text": "#C C covers the pot with the left hand",
+                "start_frame": 3498,
+                "stop_frame": 3532
+            },
+            {
+                "narration_text": "#C C presses the switch with the right hand",
+                "start_frame": 3532,
+                "stop_frame": 3594
+            }
+        ]
+    },
+    {
+        "task_goal": "Press switch",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C covers the pot with the left hand",
+                "start_frame": 3498,
+                "stop_frame": 3532
+            },
+            {
+                "narration_text": "#C C presses the switch with the right hand",
+                "start_frame": 3532,
+                "stop_frame": 3594
+            },
+            {
+                "narration_text": "#C C moves around the right hand",
+                "start_frame": 3594,
+                "stop_frame": 3664
+            }
+        ]
+    },
+    {
+        "task_goal": "Liquid pouring and utensil handling.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves around the right hand",
+                "start_frame": 3594,
+                "stop_frame": 3664
+            },
+            {
+                "narration_text": "#C C looks ahead",
+                "start_frame": 3664,
+                "stop_frame": 4312
+            },
+            {
+                "narration_text": "#C C pours a liquid from the jug with the right hand",
+                "start_frame": 4312,
+                "stop_frame": 4449
+            },
+            {
+                "narration_text": "#C C drops the right hand",
+                "start_frame": 4449,
+                "stop_frame": 4530
+            },
+            {
+                "narration_text": "#C C looks ahead",
+                "start_frame": 4530,
+                "stop_frame": 4742
+            },
+            {
+                "narration_text": "#C C turns around",
+                "start_frame": 4742,
+                "stop_frame": 4780
+            },
+            {
+                "narration_text": "#C C picks a serving spoon with the right hand",
+                "start_frame": 4780,
+                "stop_frame": 4781
+            },
+            {
+                "narration_text": "#C C walks ahead",
+                "start_frame": 4781,
+                "stop_frame": 4886
+            },
+            {
+                "narration_text": "#C C looks at the cooking pot",
+                "start_frame": 4886,
+                "stop_frame": 5188
+            },
+            {
+                "narration_text": "#C C squats down",
+                "start_frame": 5188,
+                "stop_frame": 5228
+            },
+            {
+                "narration_text": "#C C picks a metallic pot with the left hand",
+                "start_frame": 5228,
+                "stop_frame": 5261
+            },
+            {
+                "narration_text": "#C C stands up",
+                "start_frame": 5261,
+                "stop_frame": 5301
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour liquid from jug",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves around the right hand",
+                "start_frame": 3594,
+                "stop_frame": 3664
+            },
+            {
+                "narration_text": "#C C looks ahead",
+                "start_frame": 3664,
+                "stop_frame": 4312
+            },
+            {
+                "narration_text": "#C C pours a liquid from the jug with the right hand",
+                "start_frame": 4312,
+                "stop_frame": 4449
+            },
+            {
+                "narration_text": "#C C drops the right hand",
+                "start_frame": 4449,
+                "stop_frame": 4530
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn around and pick serving spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pours a liquid from the jug with the right hand",
+                "start_frame": 4312,
+                "stop_frame": 4449
+            },
+            {
+                "narration_text": "#C C drops the right hand",
+                "start_frame": 4449,
+                "stop_frame": 4530
+            },
+            {
+                "narration_text": "#C C looks ahead",
+                "start_frame": 4530,
+                "stop_frame": 4742
+            },
+            {
+                "narration_text": "#C C turns around",
+                "start_frame": 4742,
+                "stop_frame": 4780
+            },
+            {
+                "narration_text": "#C C picks a serving spoon with the right hand",
+                "start_frame": 4780,
+                "stop_frame": 4781
+            },
+            {
+                "narration_text": "#C C walks ahead",
+                "start_frame": 4781,
+                "stop_frame": 4886
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk and look at cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a serving spoon with the right hand",
+                "start_frame": 4780,
+                "stop_frame": 4781
+            },
+            {
+                "narration_text": "#C C walks ahead",
+                "start_frame": 4781,
+                "stop_frame": 4886
+            },
+            {
+                "narration_text": "#C C looks at the cooking pot",
+                "start_frame": 4886,
+                "stop_frame": 5188
+            },
+            {
+                "narration_text": "#C C squats down",
+                "start_frame": 5188,
+                "stop_frame": 5228
+            }
+        ]
+    },
+    {
+        "task_goal": "Squat, pick, and place metallic pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks at the cooking pot",
+                "start_frame": 4886,
+                "stop_frame": 5188
+            },
+            {
+                "narration_text": "#C C squats down",
+                "start_frame": 5188,
+                "stop_frame": 5228
+            },
+            {
+                "narration_text": "#C C picks a metallic pot with the left hand",
+                "start_frame": 5228,
+                "stop_frame": 5261
+            },
+            {
+                "narration_text": "#C C stands up",
+                "start_frame": 5261,
+                "stop_frame": 5301
+            }
+        ]
+    },
+    {
+        "task_goal": "Move around pots and pick metallic pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a metallic pot with the left hand",
+                "start_frame": 5228,
+                "stop_frame": 5261
+            },
+            {
+                "narration_text": "#C C stands up",
+                "start_frame": 5261,
+                "stop_frame": 5301
+            },
+            {
+                "narration_text": "#C C places the pot on a surface",
+                "start_frame": 5301,
+                "stop_frame": 5350
+            },
+            {
+                "narration_text": "#C C drops the serving spoon with the right hand",
+                "start_frame": 5350,
+                "stop_frame": 5420
+            },
+            {
+                "narration_text": "#C C moves around the pot on the surface",
+                "start_frame": 5420,
+                "stop_frame": 5455
+            },
+            {
+                "narration_text": "#C C picks a metallic pot with the left hand",
+                "start_frame": 5455,
+                "stop_frame": 5522
+            },
+            {
+                "narration_text": "#C C moves around the pot on the shelf",
+                "start_frame": 5522,
+                "stop_frame": 5574
+            },
+            {
+                "narration_text": "#C C picks a metallic pot with the left hand",
+                "start_frame": 5574,
+                "stop_frame": 5612
+            },
+            {
+                "narration_text": "#C C places the pot on a surface",
+                "start_frame": 5612,
+                "stop_frame": 5675
+            },
+            {
+                "narration_text": "#C C squats down",
+                "start_frame": 5675,
+                "stop_frame": 5723
+            }
+        ]
+    },
+    {
+        "task_goal": "Stand up and look ahead",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C squats down",
+                "start_frame": 5675,
+                "stop_frame": 5723
+            },
+            {
+                "narration_text": "#C C stands up",
+                "start_frame": 5723,
+                "stop_frame": 5800
+            },
+            {
+                "narration_text": "#C C looks ahead",
+                "start_frame": 5800,
+                "stop_frame": 6098
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour liquid from jug",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks ahead",
+                "start_frame": 5800,
+                "stop_frame": 6098
+            },
+            {
+                "narration_text": "#C C pours a liquid from the jug with the right hand",
+                "start_frame": 6098,
+                "stop_frame": 6176
+            },
+            {
+                "narration_text": "#C C drops the right hand",
+                "start_frame": 6176,
+                "stop_frame": 6240
+            },
+            {
+                "narration_text": "#C C looks ahead",
+                "start_frame": 6240,
+                "stop_frame": 6276
+            }
+        ]
+    },
+    {
+        "task_goal": "Look ahead, pick, and place tray back on cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C drops the right hand",
+                "start_frame": 6176,
+                "stop_frame": 6240
+            },
+            {
+                "narration_text": "#C C looks ahead",
+                "start_frame": 6240,
+                "stop_frame": 6276
+            },
+            {
+                "narration_text": "#C C picks a tray with the left hand",
+                "start_frame": 6276,
+                "stop_frame": 6321
+            },
+            {
+                "narration_text": "#C C looks ahead",
+                "start_frame": 6321,
+                "stop_frame": 6376
+            },
+            {
+                "narration_text": "#C C places back the tray on the cooker",
+                "start_frame": 6376,
+                "stop_frame": 6390
+            },
+            {
+                "narration_text": "#C C pours spice in the pot with the right hand",
+                "start_frame": 6390,
+                "stop_frame": 6408
+            },
+            {
+                "narration_text": "#C C drops the right hand",
+                "start_frame": 6408,
+                "stop_frame": 6431
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour spice in the pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pours spice in the pot with the right hand",
+                "start_frame": 6390,
+                "stop_frame": 6408
+            },
+            {
+                "narration_text": "#C C drops the right hand",
+                "start_frame": 6408,
+                "stop_frame": 6431
+            },
+            {
+                "narration_text": "#C C looks ahead",
+                "start_frame": 6431,
+                "stop_frame": 6511
+            },
+            {
+                "narration_text": "#C C pours spice in the pot with the right hand",
+                "start_frame": 6511,
+                "stop_frame": 6512
+            },
+            {
+                "narration_text": "#C C drops the right hand",
+                "start_frame": 6512,
+                "stop_frame": 6685
+            },
+            {
+                "narration_text": "#C C pours spice in the pot with the right hand",
+                "start_frame": 6685,
+                "stop_frame": 6739
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour multiple ingredients in the pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C drops the right hand",
+                "start_frame": 6512,
+                "stop_frame": 6685
+            },
+            {
+                "narration_text": "#C C pours spice in the pot with the right hand",
+                "start_frame": 6685,
+                "stop_frame": 6739
+            },
+            {
+                "narration_text": "#C C drops the right hand",
+                "start_frame": 6739,
+                "stop_frame": 6823
+            },
+            {
+                "narration_text": "#C C looks ahead",
+                "start_frame": 6823,
+                "stop_frame": 7221
+            },
+            {
+                "narration_text": "#C C picks the tray with the left hand",
+                "start_frame": 7221,
+                "stop_frame": 7294
+            },
+            {
+                "narration_text": "#C C picks the ingredients with the right hand",
+                "start_frame": 7294,
+                "stop_frame": 7334
+            },
+            {
+                "narration_text": "#C C pours the ingredients in the pot",
+                "start_frame": 7334,
+                "stop_frame": 7373
+            },
+            {
+                "narration_text": "#C C picks the ingredients with the right hand",
+                "start_frame": 7373,
+                "stop_frame": 7417
+            },
+            {
+                "narration_text": "#C C pours the ingredients in the pot",
+                "start_frame": 7417,
+                "stop_frame": 7458
+            },
+            {
+                "narration_text": "#C C picks the ingredients with the right hand",
+                "start_frame": 7458,
+                "stop_frame": 7508
+            },
+            {
+                "narration_text": "#C C pours the ingredients in the pot",
+                "start_frame": 7508,
+                "stop_frame": 7551
+            },
+            {
+                "narration_text": "#C C picks the ingredients with the right hand",
+                "start_frame": 7551,
+                "stop_frame": 7599
+            },
+            {
+                "narration_text": "#C C pours the ingredients in the pot",
+                "start_frame": 7599,
+                "stop_frame": 7619
+            },
+            {
+                "narration_text": "#C C picks the ingredients with the right hand",
+                "start_frame": 7619,
+                "stop_frame": 7643
+            },
+            {
+                "narration_text": "#C C pours the ingredients in the pot",
+                "start_frame": 7643,
+                "stop_frame": 7679
+            },
+            {
+                "narration_text": "#C C picks the ingredients with the right hand",
+                "start_frame": 7679,
+                "stop_frame": 7698
+            },
+            {
+                "narration_text": "#C C pours the ingredients in the pot",
+                "start_frame": 7698,
+                "stop_frame": 7750
+            },
+            {
+                "narration_text": "#C C places the tray on a surface",
+                "start_frame": 7750,
+                "stop_frame": 7812
+            },
+            {
+                "narration_text": "#C C turns around",
+                "start_frame": 7812,
+                "stop_frame": 7900
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn around, pick, and place tray",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places the tray on a surface",
+                "start_frame": 7750,
+                "stop_frame": 7812
+            },
+            {
+                "narration_text": "#C C turns around",
+                "start_frame": 7812,
+                "stop_frame": 7900
+            },
+            {
+                "narration_text": "#C C picks the serving spoon with the right hand",
+                "start_frame": 7900,
+                "stop_frame": 7949
+            },
+            {
+                "narration_text": "#C C stirs the ingredients with the right hand",
+                "start_frame": 7949,
+                "stop_frame": 8116
+            },
+            {
+                "narration_text": "#C C dubs the serving spoon with the right hand",
+                "start_frame": 8116,
+                "stop_frame": 8175
+            },
+            {
+                "narration_text": "#C C carries the spoon with the right hand",
+                "start_frame": 8175,
+                "stop_frame": 8211
+            },
+            {
+                "narration_text": "#C C places the serving spoon on the tray",
+                "start_frame": 8211,
+                "stop_frame": 8265
+            },
+            {
+                "narration_text": "#C C moves around the right hand",
+                "start_frame": 8265,
+                "stop_frame": 8331
+            },
+            {
+                "narration_text": "#C C moves away the right hand",
+                "start_frame": 8331,
+                "stop_frame": 8364
+            },
+            {
+                "narration_text": "#C C looks at the cooking pot",
+                "start_frame": 8364,
+                "stop_frame": 8433
+            },
+            {
+                "narration_text": "#C C moves around the right hand",
+                "start_frame": 8433,
+                "stop_frame": 8487
+            }
+        ]
+    },
+    {
+        "task_goal": "Look at cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks at the cooking pot",
+                "start_frame": 8364,
+                "stop_frame": 8433
+            },
+            {
+                "narration_text": "#C C moves around the right hand",
+                "start_frame": 8433,
+                "stop_frame": 8487
+            },
+            {
+                "narration_text": "#C C moves away the right hand",
+                "start_frame": 8487,
+                "stop_frame": 8771
+            },
+            {
+                "narration_text": "#C C Picks the metal tray",
+                "start_frame": 8771,
+                "stop_frame": 8816
+            },
+            {
+                "narration_text": "#C C Holds the metal tray",
+                "start_frame": 8816,
+                "stop_frame": 8867
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and hold metal tray",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Picks the metal tray",
+                "start_frame": 8771,
+                "stop_frame": 8816
+            },
+            {
+                "narration_text": "#C C Holds the metal tray",
+                "start_frame": 8816,
+                "stop_frame": 8867
+            },
+            {
+                "narration_text": "#C C Looks at the cooking pot",
+                "start_frame": 8867,
+                "stop_frame": 8898
+            },
+            {
+                "narration_text": "#C C Holds the spice with the spoon",
+                "start_frame": 8898,
+                "stop_frame": 8927
+            }
+        ]
+    },
+    {
+        "task_goal": "Look at the cooking pot and add spice",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Looks at the cooking pot",
+                "start_frame": 8867,
+                "stop_frame": 8898
+            },
+            {
+                "narration_text": "#C C Holds the spice with the spoon",
+                "start_frame": 8898,
+                "stop_frame": 8927
+            },
+            {
+                "narration_text": "#C C Puts the spice in the pot",
+                "start_frame": 8927,
+                "stop_frame": 8952
+            },
+            {
+                "narration_text": "#C C Looks at the cooking pot",
+                "start_frame": 8952,
+                "stop_frame": 8979
+            },
+            {
+                "narration_text": "#C C Puts the metal tray down",
+                "start_frame": 8979,
+                "stop_frame": 9028
+            }
+        ]
+    },
+    {
+        "task_goal": "Put down the tray and pick the spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Looks at the cooking pot",
+                "start_frame": 8952,
+                "stop_frame": 8979
+            },
+            {
+                "narration_text": "#C C Puts the metal tray down",
+                "start_frame": 8979,
+                "stop_frame": 9028
+            },
+            {
+                "narration_text": "#C C Picks the spoon",
+                "start_frame": 9028,
+                "stop_frame": 9057
+            },
+            {
+                "narration_text": "#C C Holds the spoon",
+                "start_frame": 9057,
+                "stop_frame": 9096
+            },
+            {
+                "narration_text": "#C C Mixes the food",
+                "start_frame": 9096,
+                "stop_frame": 9301
+            },
+            {
+                "narration_text": "#C C Shakes the spoon",
+                "start_frame": 9301,
+                "stop_frame": 9367
+            },
+            {
+                "narration_text": "#C C Puts the spoon down",
+                "start_frame": 9367,
+                "stop_frame": 9385
+            },
+            {
+                "narration_text": "#C C Picks the tray",
+                "start_frame": 9385,
+                "stop_frame": 9422
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix food and shake spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Picks the tray",
+                "start_frame": 9385,
+                "stop_frame": 9422
+            },
+            {
+                "narration_text": "#C C Holds the tray",
+                "start_frame": 9422,
+                "stop_frame": 9491
+            },
+            {
+                "narration_text": "#C C Puts the slices of #unsure in the pot",
+                "start_frame": 9491,
+                "stop_frame": 9714
+            },
+            {
+                "narration_text": "#C C Holds the tray",
+                "start_frame": 9714,
+                "stop_frame": 9760
+            },
+            {
+                "narration_text": "#C C Puts the tray down",
+                "start_frame": 9760,
+                "stop_frame": 9797
+            },
+            {
+                "narration_text": "#C C Mixes the food",
+                "start_frame": 9797,
+                "stop_frame": 10019
+            }
+        ]
+    },
+    {
+        "task_goal": "Put ingredients in the pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Puts the tray down",
+                "start_frame": 9760,
+                "stop_frame": 9797
+            },
+            {
+                "narration_text": "#C C Mixes the food",
+                "start_frame": 9797,
+                "stop_frame": 10019
+            },
+            {
+                "narration_text": "#C C Puts the #unsure in the pot",
+                "start_frame": 10019,
+                "stop_frame": 10199
+            },
+            {
+                "narration_text": "#C C Holds the tray",
+                "start_frame": 10199,
+                "stop_frame": 10222
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold the tray, mix food with spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Puts the #unsure in the pot",
+                "start_frame": 10019,
+                "stop_frame": 10199
+            },
+            {
+                "narration_text": "#C C Holds the tray",
+                "start_frame": 10199,
+                "stop_frame": 10222
+            },
+            {
+                "narration_text": "#C C Holds the spoon",
+                "start_frame": 10222,
+                "stop_frame": 10237
+            },
+            {
+                "narration_text": "#C C Mixes the food",
+                "start_frame": 10237,
+                "stop_frame": 10525
+            },
+            {
+                "narration_text": "#C C Puts the spoon in the pot",
+                "start_frame": 10525,
+                "stop_frame": 10551
+            },
+            {
+                "narration_text": "#C C Puts the #unsure in the pot",
+                "start_frame": 10551,
+                "stop_frame": 10798
+            },
+            {
+                "narration_text": "#C C Holds the tray",
+                "start_frame": 10798,
+                "stop_frame": 10843
+            },
+            {
+                "narration_text": "#C C Puts the tray down",
+                "start_frame": 10843,
+                "stop_frame": 10888
+            },
+            {
+                "narration_text": "#C C Mixes the food with the spoon",
+                "start_frame": 10888,
+                "stop_frame": 11210
+            },
+            {
+                "narration_text": "#C C Shakes the spoon",
+                "start_frame": 11210,
+                "stop_frame": 11289
+            },
+            {
+                "narration_text": "#C C Puts the spoon on the tray",
+                "start_frame": 11289,
+                "stop_frame": 11333
+            }
+        ]
+    },
+    {
+        "task_goal": "Put spoon on the tray, walk towards cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Shakes the spoon",
+                "start_frame": 11210,
+                "stop_frame": 11289
+            },
+            {
+                "narration_text": "#C C Puts the spoon on the tray",
+                "start_frame": 11289,
+                "stop_frame": 11333
+            },
+            {
+                "narration_text": "#C C Walks toward the cooker",
+                "start_frame": 11333,
+                "stop_frame": 11446
+            },
+            {
+                "narration_text": "#C C Looks at the cooker",
+                "start_frame": 11446,
+                "stop_frame": 11507
+            },
+            {
+                "narration_text": "#C C Toward the door",
+                "start_frame": 11507,
+                "stop_frame": 11565
+            }
+        ]
+    },
+    {
+        "task_goal": "Look at cooker, lift hand, converse",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Looks at the cooker",
+                "start_frame": 11446,
+                "stop_frame": 11507
+            },
+            {
+                "narration_text": "#C C Toward the door",
+                "start_frame": 11507,
+                "stop_frame": 11565
+            },
+            {
+                "narration_text": "#C C Lifts the right hand",
+                "start_frame": 11565,
+                "stop_frame": 11578
+            },
+            {
+                "narration_text": "#C C Converses",
+                "start_frame": 11578,
+                "stop_frame": 11636
+            },
+            {
+                "narration_text": "#C C Holds the bottle",
+                "start_frame": 11636,
+                "stop_frame": 11714
+            },
+            {
+                "narration_text": "#C C Looks at the door",
+                "start_frame": 11714,
+                "stop_frame": 11795
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold bottle, put salt in food with plastic spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Holds the bottle",
+                "start_frame": 11636,
+                "stop_frame": 11714
+            },
+            {
+                "narration_text": "#C C Looks at the door",
+                "start_frame": 11714,
+                "stop_frame": 11795
+            },
+            {
+                "narration_text": "#C C Puts the salt in the food",
+                "start_frame": 11795,
+                "stop_frame": 11855
+            },
+            {
+                "narration_text": "#C C Holds the plastic spoon",
+                "start_frame": 11855,
+                "stop_frame": 11878
+            },
+            {
+                "narration_text": "#C C Holds the bottle",
+                "start_frame": 11878,
+                "stop_frame": 11980
+            },
+            {
+                "narration_text": "#C C Puts the salt in the food",
+                "start_frame": 11980,
+                "stop_frame": 12015
+            },
+            {
+                "narration_text": "#C C Holds the plastic spoon",
+                "start_frame": 12015,
+                "stop_frame": 12055
+            },
+            {
+                "narration_text": "#C C Looks at the pot",
+                "start_frame": 12055,
+                "stop_frame": 12205
+            },
+            {
+                "narration_text": "#C C Looks at the cooker",
+                "start_frame": 12205,
+                "stop_frame": 12342
+            }
+        ]
+    },
+    {
+        "task_goal": "Look around kitchen",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Looks at the pot",
+                "start_frame": 12055,
+                "stop_frame": 12205
+            },
+            {
+                "narration_text": "#C C Looks at the cooker",
+                "start_frame": 12205,
+                "stop_frame": 12342
+            },
+            {
+                "narration_text": "#C C Looks at the tray",
+                "start_frame": 12342,
+                "stop_frame": 12376
+            },
+            {
+                "narration_text": "#C C Looks at the floor",
+                "start_frame": 12376,
+                "stop_frame": 12410
+            },
+            {
+                "narration_text": "#C C Looks around the kitchen",
+                "start_frame": 12410,
+                "stop_frame": 12455
+            },
+            {
+                "narration_text": "#C C Picks the tray",
+                "start_frame": 12455,
+                "stop_frame": 12504
+            },
+            {
+                "narration_text": "#C C Puts the tray down",
+                "start_frame": 12504,
+                "stop_frame": 12593
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and put tray down, shake hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Picks the tray",
+                "start_frame": 12455,
+                "stop_frame": 12504
+            },
+            {
+                "narration_text": "#C C Puts the tray down",
+                "start_frame": 12504,
+                "stop_frame": 12593
+            },
+            {
+                "narration_text": "#C C Walks toward the cooker",
+                "start_frame": 12593,
+                "stop_frame": 12660
+            },
+            {
+                "narration_text": "#C C Shakes the hand",
+                "start_frame": 12660,
+                "stop_frame": 12704
+            },
+            {
+                "narration_text": "#C C Holds the spoon",
+                "start_frame": 12704,
+                "stop_frame": 12733
+            },
+            {
+                "narration_text": "#C C Mixes the food",
+                "start_frame": 12733,
+                "stop_frame": 13083
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold spoon, mix food, put spoon on tray",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Holds the spoon",
+                "start_frame": 12704,
+                "stop_frame": 12733
+            },
+            {
+                "narration_text": "#C C Mixes the food",
+                "start_frame": 12733,
+                "stop_frame": 13083
+            },
+            {
+                "narration_text": "#C C Holds the spoon",
+                "start_frame": 13083,
+                "stop_frame": 13129
+            },
+            {
+                "narration_text": "#C C Puts the spoon on the tray",
+                "start_frame": 13129,
+                "stop_frame": 13138
+            },
+            {
+                "narration_text": "#C C Looks around the kitchen",
+                "start_frame": 13138,
+                "stop_frame": 13225
+            }
+        ]
+    },
+    {
+        "task_goal": "Look around kitchen, pick metal lid",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Puts the spoon on the tray",
+                "start_frame": 13129,
+                "stop_frame": 13138
+            },
+            {
+                "narration_text": "#C C Looks around the kitchen",
+                "start_frame": 13138,
+                "stop_frame": 13225
+            },
+            {
+                "narration_text": "#C C Picks the metal lid",
+                "start_frame": 13225,
+                "stop_frame": 13323
+            },
+            {
+                "narration_text": "#C C Holds the metal lid",
+                "start_frame": 13323,
+                "stop_frame": 13348
+            },
+            {
+                "narration_text": "#C C Closes the pot with the metal lid",
+                "start_frame": 13348,
+                "stop_frame": 13401
+            },
+            {
+                "narration_text": "#C C Walks in the kitchen",
+                "start_frame": 13401,
+                "stop_frame": 13504
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk in kitchen, pick and put pot on cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Closes the pot with the metal lid",
+                "start_frame": 13348,
+                "stop_frame": 13401
+            },
+            {
+                "narration_text": "#C C Walks in the kitchen",
+                "start_frame": 13401,
+                "stop_frame": 13504
+            },
+            {
+                "narration_text": "#C C Picks the pot",
+                "start_frame": 13504,
+                "stop_frame": 13546
+            },
+            {
+                "narration_text": "#C C Walks toward the cooker",
+                "start_frame": 13546,
+                "stop_frame": 13605
+            },
+            {
+                "narration_text": "#C C Looks at the pots",
+                "start_frame": 13605,
+                "stop_frame": 13925
+            },
+            {
+                "narration_text": "#C C Removes the lid from the pot",
+                "start_frame": 13925,
+                "stop_frame": 13969
+            },
+            {
+                "narration_text": "#C C Holds the lid",
+                "start_frame": 13969,
+                "stop_frame": 14019
+            },
+            {
+                "narration_text": "#C C Picks the pot",
+                "start_frame": 14019,
+                "stop_frame": 14043
+            },
+            {
+                "narration_text": "#C C Puts the tray on the cooker",
+                "start_frame": 14043,
+                "stop_frame": 14069
+            },
+            {
+                "narration_text": "#C C Puts the pot on the cooker with the left hand",
+                "start_frame": 14069,
+                "stop_frame": 14120
+            },
+            {
+                "narration_text": "#C C Looks at the pots on the cooker",
+                "start_frame": 14120,
+                "stop_frame": 14527
+            },
+            {
+                "narration_text": "#C C Looks around the kitchen",
+                "start_frame": 14527,
+                "stop_frame": 14563
+            }
+        ]
+    },
+    {
+        "task_goal": "Look at pots, pick plastic bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Looks at the pots on the cooker",
+                "start_frame": 14120,
+                "stop_frame": 14527
+            },
+            {
+                "narration_text": "#C C Looks around the kitchen",
+                "start_frame": 14527,
+                "stop_frame": 14563
+            },
+            {
+                "narration_text": "#C C Picks the plastic bowl",
+                "start_frame": 14563,
+                "stop_frame": 14607
+            },
+            {
+                "narration_text": "#C C Holds the plastic bowl",
+                "start_frame": 14607,
+                "stop_frame": 14631
+            },
+            {
+                "narration_text": "#C C Scoops the spice with the plastic spoon",
+                "start_frame": 14631,
+                "stop_frame": 14660
+            },
+            {
+                "narration_text": "#C C Puts the spice in the food",
+                "start_frame": 14660,
+                "stop_frame": 14693
+            },
+            {
+                "narration_text": "#C C Scoops the spice with the plastic spoon",
+                "start_frame": 14693,
+                "stop_frame": 14724
+            },
+            {
+                "narration_text": "#C C Puts the spice in the food",
+                "start_frame": 14724,
+                "stop_frame": 14769
+            },
+            {
+                "narration_text": "#C C Holds the plastic bowl",
+                "start_frame": 14769,
+                "stop_frame": 14812
+            },
+            {
+                "narration_text": "#C C Picks the lid",
+                "start_frame": 14812,
+                "stop_frame": 14839
+            },
+            {
+                "narration_text": "#C C Closes the plastic bowl with the lid",
+                "start_frame": 14839,
+                "stop_frame": 14885
+            },
+            {
+                "narration_text": "#C C Walks toward the fridge",
+                "start_frame": 14885,
+                "stop_frame": 14931
+            },
+            {
+                "narration_text": "#C C Opens the fridge",
+                "start_frame": 14931,
+                "stop_frame": 14965
+            },
+            {
+                "narration_text": "#C C Puts the plastic bowl in the fridge",
+                "start_frame": 14965,
+                "stop_frame": 14988
+            },
+            {
+                "narration_text": "#C C Closes the fridge",
+                "start_frame": 14988,
+                "stop_frame": 15010
+            }
+        ]
+    },
+    {
+        "task_goal": "Put spice in food, walk to fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Puts the plastic bowl in the fridge",
+                "start_frame": 14965,
+                "stop_frame": 14988
+            },
+            {
+                "narration_text": "#C C Closes the fridge",
+                "start_frame": 14988,
+                "stop_frame": 15010
+            },
+            {
+                "narration_text": "#C C Walks toward the cooker",
+                "start_frame": 15010,
+                "stop_frame": 15099
+            },
+            {
+                "narration_text": "#C C Picks the spoon",
+                "start_frame": 15099,
+                "stop_frame": 15148
+            },
+            {
+                "narration_text": "#C C Mixes the food with the spoon",
+                "start_frame": 15148,
+                "stop_frame": 15898
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick spoon, mix food, shake spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Picks the spoon",
+                "start_frame": 15099,
+                "stop_frame": 15148
+            },
+            {
+                "narration_text": "#C C Mixes the food with the spoon",
+                "start_frame": 15148,
+                "stop_frame": 15898
+            },
+            {
+                "narration_text": "#C C Shakes the spoon",
+                "start_frame": 15898,
+                "stop_frame": 15927
+            },
+            {
+                "narration_text": "#C C Picks the tray with the left hand",
+                "start_frame": 15927,
+                "stop_frame": 15955
+            },
+            {
+                "narration_text": "#C C Holds the tray",
+                "start_frame": 15955,
+                "stop_frame": 16007
+            },
+            {
+                "narration_text": "#C C Closes the pot with the lid",
+                "start_frame": 16007,
+                "stop_frame": 16041
+            },
+            {
+                "narration_text": "#C C Holds the spoon with he left hand",
+                "start_frame": 16041,
+                "stop_frame": 16079
+            },
+            {
+                "narration_text": "#C C Puts the spoon down",
+                "start_frame": 16079,
+                "stop_frame": 16123
+            },
+            {
+                "narration_text": "#C C Picks the pot",
+                "start_frame": 16123,
+                "stop_frame": 16210
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick pot, pour water on tray",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Puts the spoon down",
+                "start_frame": 16079,
+                "stop_frame": 16123
+            },
+            {
+                "narration_text": "#C C Picks the pot",
+                "start_frame": 16123,
+                "stop_frame": 16210
+            },
+            {
+                "narration_text": "#C C Pours the water on the tray",
+                "start_frame": 16210,
+                "stop_frame": 16299
+            },
+            {
+                "narration_text": "#O Woman X talks to C",
+                "start_frame": 16299,
+                "stop_frame": 16422
+            },
+            {
+                "narration_text": "#C C Holds the pot",
+                "start_frame": 16422,
+                "stop_frame": 16501
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold pot, turn cooker knob",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#O Woman X talks to C",
+                "start_frame": 16299,
+                "stop_frame": 16422
+            },
+            {
+                "narration_text": "#C C Holds the pot",
+                "start_frame": 16422,
+                "stop_frame": 16501
+            },
+            {
+                "narration_text": "#C C Turns the cooker knob",
+                "start_frame": 16501,
+                "stop_frame": 16540
+            },
+            {
+                "narration_text": "#C C Walks in the kitchen",
+                "start_frame": 16540,
+                "stop_frame": 16649
+            },
+            {
+                "narration_text": "#C C Puts the pot down",
+                "start_frame": 16649,
+                "stop_frame": 16656
+            },
+            {
+                "narration_text": "#C C puts down the cup",
+                "start_frame": 16656,
+                "stop_frame": 16685
+            },
+            {
+                "narration_text": "#C C moves around",
+                "start_frame": 16685,
+                "stop_frame": 16753
+            },
+            {
+                "narration_text": "#C C picks a tray",
+                "start_frame": 16753,
+                "stop_frame": 16771
+            },
+            {
+                "narration_text": "#C C moves around",
+                "start_frame": 16771,
+                "stop_frame": 16831
+            },
+            {
+                "narration_text": "#C C puts down the tray",
+                "start_frame": 16831,
+                "stop_frame": 16903
+            },
+            {
+                "narration_text": "#C C picks the tray",
+                "start_frame": 16903,
+                "stop_frame": 16931
+            },
+            {
+                "narration_text": "#C C puts down the tray",
+                "start_frame": 16931,
+                "stop_frame": 16952
+            },
+            {
+                "narration_text": "#C C grates #unsure",
+                "start_frame": 16952,
+                "stop_frame": 17140
+            }
+        ]
+    },
+    {
+        "task_goal": "Cleaning grater and finalizing prep.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the grater",
+                "start_frame": 21601,
+                "stop_frame": 21779
+            },
+            {
+                "narration_text": "#C C cleans the grater",
+                "start_frame": 21779,
+                "stop_frame": 22119
+            },
+            {
+                "narration_text": "#C C picks the tray",
+                "start_frame": 22119,
+                "stop_frame": 22147
+            },
+            {
+                "narration_text": "#C C puts down the tray",
+                "start_frame": 22147,
+                "stop_frame": 22247
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean grater",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the grater",
+                "start_frame": 21601,
+                "stop_frame": 21779
+            },
+            {
+                "narration_text": "#C C cleans the grater",
+                "start_frame": 21779,
+                "stop_frame": 22119
+            },
+            {
+                "narration_text": "#C C picks the tray",
+                "start_frame": 22119,
+                "stop_frame": 22147
+            },
+            {
+                "narration_text": "#C C puts down the tray",
+                "start_frame": 22147,
+                "stop_frame": 22247
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and put down tray",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the tray",
+                "start_frame": 22119,
+                "stop_frame": 22147
+            },
+            {
+                "narration_text": "#C C puts down the tray",
+                "start_frame": 22147,
+                "stop_frame": 22247
+            }
+        ]
+    }
+]

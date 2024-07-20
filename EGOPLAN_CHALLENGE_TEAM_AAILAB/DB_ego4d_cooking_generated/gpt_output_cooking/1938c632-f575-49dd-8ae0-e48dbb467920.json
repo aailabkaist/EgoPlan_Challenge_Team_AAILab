@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgRo9icIYpieV3Nb6x0INsuCvzZD",
+    "object": "chat.completion",
+    "created": 1719244988,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal and clean the kitchen\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Turn on the cooker and prepare kitchenware\",\n      \"start_timestamp\": \"76\",\n      \"stop_timestamp\": \"1259\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turn on the cooker\",\n          \"start_timestamp\": \"76\",\n          \"stop_timestamp\": \"120\"\n        },\n        {\n          \"secondary_subgoal\": \"Take a plate from the cabinet and place it on the slab\",\n          \"start_timestamp\": \"329\",\n          \"stop_timestamp\": \"609\"\n        },\n        {\n          \"secondary_subgoal\": \"Add oil to the pan on the cooker\",\n          \"start_timestamp\": \"699\",\n          \"stop_timestamp\": \"797\"\n        },\n        {\n          \"secondary_subgoal\": \"Retrieve and place lid from cabinet on the slab\",\n          \"start_timestamp\": \"1082\",\n          \"stop_timestamp\": \"1259\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare ingredients\",\n      \"start_timestamp\": \"1321\",\n      \"stop_timestamp\": \"2475\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Retrieve ingredients from fridge\",\n          \"start_timestamp\": \"1321\",\n          \"stop_timestamp\": \"2239\"\n        },\n        {\n          \"secondary_subgoal\": \"Place ingredients on slab and clean up\",\n          \"start_timestamp\": \"2239\",\n          \"stop_timestamp\": \"2475\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook food\",\n      \"start_timestamp\": \"2532\",\n      \"stop_timestamp\": \"6368\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Add pellets and eggs to pan\",\n          \"start_timestamp\": \"2532\",\n          \"stop_timestamp\": \"4407\"\n        },\n        {\n          \"secondary_subgoal\": \"Fetch water, cook, and seal pan\",\n          \"start_timestamp\": \"4533\",\n          \"stop_timestamp\": \"4974\"\n        },\n        {\n          \"secondary_subgoal\": \"Use turner spoon and stand near cooker\",\n          \"start_timestamp\": \"5086\",\n          \"stop_timestamp\": \"6368\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up kitchen\",\n      \"start_timestamp\": \"6451\",\n      \"stop_timestamp\": \"10957\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash dishes\",\n          \"start_timestamp\": \"6451\",\n          \"stop_timestamp\": \"10957\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare final meal components\",\n      \"start_timestamp\": \"11893\",\n      \"stop_timestamp\": \"16607\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare rice and cabbage salad\",\n          \"start_timestamp\": \"11893\",\n          \"stop_timestamp\": \"14198\"\n        },\n        {\n          \"secondary_subgoal\": \"Seasoning and final preparations\",\n          \"start_timestamp\": \"14239\",\n          \"stop_timestamp\": \"16607\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finish cleaning up\",\n      \"start_timestamp\": \"16643\",\n      \"stop_timestamp\": \"17947\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean remaining dishware and store ingredients\",\n          \"start_timestamp\": \"16643\",\n          \"stop_timestamp\": \"17947\"\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4241,
+        "completion_tokens": 745,
+        "total_tokens": 4986
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

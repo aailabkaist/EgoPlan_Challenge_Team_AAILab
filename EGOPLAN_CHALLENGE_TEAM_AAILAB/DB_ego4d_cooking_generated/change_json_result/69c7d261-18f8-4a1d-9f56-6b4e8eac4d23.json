@@ -1,0 +1,141 @@
+{
+    "overall_goal": "Prepare and cook greens",
+    "clips": [
+        {
+            "subgoal": "Remove unwanted parts from the greens and cut the greens",
+            "start_timestamp": 0,
+            "stop_timestamp": 5104,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Remove unwanted parts from the greens",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 675
+                },
+                {
+                    "secondary_subgoal": "Cut the greens",
+                    "start_timestamp": 675,
+                    "stop_timestamp": 5104
+                }
+            ]
+        },
+        {
+            "subgoal": "Collect, press, and cut greens",
+            "start_timestamp": 5104,
+            "stop_timestamp": 4084,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Collect and press the greens",
+                    "start_timestamp": 4946,
+                    "stop_timestamp": 5732
+                },
+                {
+                    "secondary_subgoal": "Cut the greens",
+                    "start_timestamp": 5732,
+                    "stop_timestamp": 4084
+                }
+            ]
+        },
+        {
+            "subgoal": "Align the greens and cut using boti knife",
+            "start_timestamp": 8943,
+            "stop_timestamp": 13034,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Align and cut vegetables using boti knife",
+                    "start_timestamp": 9490,
+                    "stop_timestamp": 10533
+                },
+                {
+                    "secondary_subgoal": "Collect and move vegetables",
+                    "start_timestamp": 10533,
+                    "stop_timestamp": 13034
+                }
+            ]
+        },
+        {
+            "subgoal": "Move the cooking pot and converses",
+            "start_timestamp": 13685,
+            "stop_timestamp": 17223,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place hand on window, touch gas and converse",
+                    "start_timestamp": 14002,
+                    "stop_timestamp": 14551
+                },
+                {
+                    "secondary_subgoal": "Converse",
+                    "start_timestamp": 14551,
+                    "stop_timestamp": 17223
+                }
+            ]
+        },
+        {
+            "subgoal": "Fill the cooking pot with water and continue conversing",
+            "start_timestamp": 17223,
+            "stop_timestamp": 20192,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pump water into pot",
+                    "start_timestamp": 17340,
+                    "stop_timestamp": 17555
+                },
+                {
+                    "secondary_subgoal": "Operate phone",
+                    "start_timestamp": 20021,
+                    "stop_timestamp": 20192
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean the greens",
+            "start_timestamp": 21006,
+            "stop_timestamp": 24065,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean and drain water from the greens",
+                    "start_timestamp": 21006,
+                    "stop_timestamp": 22258
+                },
+                {
+                    "secondary_subgoal": "Clean and move the greens",
+                    "start_timestamp": 22922,
+                    "stop_timestamp": 24065
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and set up cooking",
+            "start_timestamp": 24920,
+            "stop_timestamp": 26701,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take the tray",
+                    "start_timestamp": 24920,
+                    "stop_timestamp": 25024
+                },
+                {
+                    "secondary_subgoal": "Light gas stove and put pot on cooking plate",
+                    "start_timestamp": 25970,
+                    "stop_timestamp": 26399
+                }
+            ]
+        },
+        {
+            "subgoal": "Walk around the house",
+            "start_timestamp": 27524,
+            "stop_timestamp": 31362,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk up and down the stairs",
+                    "start_timestamp": 27524,
+                    "stop_timestamp": 28540
+                },
+                {
+                    "secondary_subgoal": "Walk out of the kitchen and to the rooftop",
+                    "start_timestamp": 30615,
+                    "stop_timestamp": 31362
+                }
+            ]
+        }
+    ]
+}

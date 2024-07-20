@@ -1,0 +1,76 @@
+{
+    "overall_goal": "Preparing garlic for cooking",
+    "clips": [
+        {
+            "subgoal": "Gathering and arranging the necessary items",
+            "start_timestamp": 0,
+            "stop_timestamp": 390,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Looking for and inspecting the environment",
+                    "start_timestamp": -1,
+                    "stop_timestamp": 23
+                },
+                {
+                    "secondary_subgoal": "Preparing the items on the table",
+                    "start_timestamp": 23,
+                    "stop_timestamp": 390
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing garlic",
+            "start_timestamp": 390,
+            "stop_timestamp": 1636,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Selecting garlic and removing extra",
+                    "start_timestamp": 390,
+                    "stop_timestamp": 417
+                },
+                {
+                    "secondary_subgoal": "Peeling garlic",
+                    "start_timestamp": 417,
+                    "stop_timestamp": 671
+                },
+                {
+                    "secondary_subgoal": "Dropping peels and garlic remains on the table",
+                    "start_timestamp": 671,
+                    "stop_timestamp": 945
+                },
+                {
+                    "secondary_subgoal": "Peeling and placing peeled garlic on the board",
+                    "start_timestamp": 945,
+                    "stop_timestamp": 1454
+                },
+                {
+                    "secondary_subgoal": "Cutting the garlic",
+                    "start_timestamp": 1454,
+                    "stop_timestamp": 1615
+                },
+                {
+                    "secondary_subgoal": "Final cleanup and disposal of remains",
+                    "start_timestamp": 1615,
+                    "stop_timestamp": 1636
+                }
+            ]
+        },
+        {
+            "subgoal": "Post-preparation activities",
+            "start_timestamp": 1636,
+            "stop_timestamp": 1790,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Organizing work area by walking around kitchen",
+                    "start_timestamp": 1636,
+                    "stop_timestamp": 1690
+                },
+                {
+                    "secondary_subgoal": "Using phone",
+                    "start_timestamp": 1690,
+                    "stop_timestamp": 1790
+                }
+            ]
+        }
+    ]
+}

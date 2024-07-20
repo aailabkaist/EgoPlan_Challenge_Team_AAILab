@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egmwkJnLS3FclmlSAriSPAkFTL6J",
+    "object": "chat.completion",
+    "created": 1719484626,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a mixture and then pour it into a container.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Mixing the ingredients in the bowl\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 1734,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stirring the mixture\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 501\n        },\n        {\n          \"secondary_subgoal\": \"Turning the bowl\",\n          \"start_timestamp\": 501,\n          \"stop_timestamp\": 507\n        },\n        {\n          \"secondary_subgoal\": \"Stirring the mixture\",\n          \"start_timestamp\": 507,\n          \"stop_timestamp\": 689\n        },\n        {\n          \"secondary_subgoal\": \"Picking a cooking pot of water\",\n          \"start_timestamp\": 689,\n          \"stop_timestamp\": 718\n        },\n        {\n          \"secondary_subgoal\": \"Pouring water into an unsure container\",\n          \"start_timestamp\": 718,\n          \"stop_timestamp\": 785\n        },\n        {\n          \"secondary_subgoal\": \"Placing the cooking pot down\",\n          \"start_timestamp\": 785,\n          \"stop_timestamp\": 794\n        },\n        {\n          \"secondary_subgoal\": \"Stirring the mixture\",\n          \"start_timestamp\": 794,\n          \"stop_timestamp\": 1033\n        },\n        {\n          \"secondary_subgoal\": \"Looking at unsure\",\n          \"start_timestamp\": 1033,\n          \"stop_timestamp\": 1068\n        },\n        {\n          \"secondary_subgoal\": \"Stirring the mixture\",\n          \"start_timestamp\": 1068,\n          \"stop_timestamp\": 1575\n        },\n        {\n          \"secondary_subgoal\": \"Conversing with person Z\",\n          \"start_timestamp\": 1575,\n          \"stop_timestamp\": 1594\n        },\n        {\n          \"secondary_subgoal\": \"Stirring the mixture\",\n          \"start_timestamp\": 1594,\n          \"stop_timestamp\": 1669\n        },\n        {\n          \"secondary_subgoal\": \"Looking around\",\n          \"start_timestamp\": 1669,\n          \"stop_timestamp\": 1702\n        },\n        {\n          \"secondary_subgoal\": \"Conversing with person Z\",\n          \"start_timestamp\": 1702,\n          \"stop_timestamp\": 1734\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Continuing to mix and squeeze the content in the bowl\",\n      \"start_timestamp\": 1734,\n      \"stop_timestamp\": 6765,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Holding the bowl and stirring\",\n          \"start_timestamp\": 1734,\n          \"stop_timestamp\": 2152\n        },\n        {\n          \"secondary_subgoal\": \"Lifting the left hand\",\n          \"start_timestamp\": 2152,\n          \"stop_timestamp\": 2159\n        },\n        {\n          \"secondary_subgoal\": \"Looking around\",\n          \"start_timestamp\": 2159,\n          \"stop_timestamp\": 2524\n        },\n        {\n          \"secondary_subgoal\": \"Stirring the mixture\",\n          \"start_timestamp\": 2524,\n          \"stop_timestamp\": 2574\n        },\n        {\n          \"secondary_subgoal\": \"Holding the bowl\",\n          \"start_timestamp\": 2574,\n          \"stop_timestamp\": 2587\n        },\n        {\n          \"secondary_subgoal\": \"Squeezing and picking unknown objects\",\n          \"start_timestamp\": 2587,\n          \"stop_timestamp\": 6765\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final touches and looking around\",\n      \"start_timestamp\": 6765,\n      \"stop_timestamp\": 6985,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Squeezing and pushing the bowl\",\n          \"start_timestamp\": 6765,\n          \"stop_timestamp\": 6885\n        },\n        {\n          \"secondary_subgoal\": \"Looking around\",\n          \"start_timestamp\": 6885,\n          \"stop_timestamp\": 6985\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1357,
+        "completion_tokens": 881,
+        "total_tokens": 2238
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

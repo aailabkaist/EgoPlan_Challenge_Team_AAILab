@@ -1,0 +1,712 @@
+[
+    {
+        "task_goal": "Gather utensils and ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves around the room",
+                "start_frame": 2,
+                "stop_frame": 342
+            },
+            {
+                "narration_text": "#C C picks a bowl from the table",
+                "start_frame": 342,
+                "stop_frame": 369
+            },
+            {
+                "narration_text": "#C C moves around the room",
+                "start_frame": 369,
+                "stop_frame": 447
+            },
+            {
+                "narration_text": "#C C places bowl in a sink",
+                "start_frame": 447,
+                "stop_frame": 467
+            },
+            {
+                "narration_text": "#C C moves around the room",
+                "start_frame": 467,
+                "stop_frame": 923
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 923,
+                "stop_frame": 1130
+            },
+            {
+                "narration_text": "#C C picks #unsure from the fridge",
+                "start_frame": 1130,
+                "stop_frame": 1164
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 1164,
+                "stop_frame": 1228
+            },
+            {
+                "narration_text": "#C C picks #unsure from the fridge",
+                "start_frame": 1228,
+                "stop_frame": 1381
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 1381,
+                "stop_frame": 1414
+            },
+            {
+                "narration_text": "#C C moves around the room",
+                "start_frame": 1414,
+                "stop_frame": 1485
+            },
+            {
+                "narration_text": "#C C goes upstairs",
+                "start_frame": 1485,
+                "stop_frame": 1679
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick bowl from table and place in sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves around the room",
+                "start_frame": 2,
+                "stop_frame": 342
+            },
+            {
+                "narration_text": "#C C picks a bowl from the table",
+                "start_frame": 342,
+                "stop_frame": 369
+            },
+            {
+                "narration_text": "#C C moves around the room",
+                "start_frame": 369,
+                "stop_frame": 447
+            },
+            {
+                "narration_text": "#C C places bowl in a sink",
+                "start_frame": 447,
+                "stop_frame": 467
+            },
+            {
+                "narration_text": "#C C moves around the room",
+                "start_frame": 467,
+                "stop_frame": 923
+            }
+        ]
+    },
+    {
+        "task_goal": "Open fridge to pick items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves around the room",
+                "start_frame": 467,
+                "stop_frame": 923
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 923,
+                "stop_frame": 1130
+            },
+            {
+                "narration_text": "#C C picks #unsure from the fridge",
+                "start_frame": 1130,
+                "stop_frame": 1164
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 1164,
+                "stop_frame": 1228
+            },
+            {
+                "narration_text": "#C C picks #unsure from the fridge",
+                "start_frame": 1228,
+                "stop_frame": 1381
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 1381,
+                "stop_frame": 1414
+            },
+            {
+                "narration_text": "#C C moves around the room",
+                "start_frame": 1414,
+                "stop_frame": 1485
+            }
+        ]
+    },
+    {
+        "task_goal": "Move around the room and go upstairs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 1381,
+                "stop_frame": 1414
+            },
+            {
+                "narration_text": "#C C moves around the room",
+                "start_frame": 1414,
+                "stop_frame": 1485
+            },
+            {
+                "narration_text": "#C C goes upstairs",
+                "start_frame": 1485,
+                "stop_frame": 1679
+            },
+            {
+                "narration_text": "#C C enters in the room",
+                "start_frame": 1679,
+                "stop_frame": 1805
+            }
+        ]
+    },
+    {
+        "task_goal": "Enter room and interact with Man Y",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C goes upstairs",
+                "start_frame": 1485,
+                "stop_frame": 1679
+            },
+            {
+                "narration_text": "#C C enters in the room",
+                "start_frame": 1679,
+                "stop_frame": 1805
+            },
+            {
+                "narration_text": "#C C interacts with Man Y",
+                "start_frame": 1805,
+                "stop_frame": 2087
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 2087,
+                "stop_frame": 2177
+            },
+            {
+                "narration_text": "#C C moves around the room",
+                "start_frame": 2177,
+                "stop_frame": 2349
+            }
+        ]
+    },
+    {
+        "task_goal": "Open drawer and interact with Man Y",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 3188,
+                "stop_frame": 3296
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 3296,
+                "stop_frame": 3375
+            },
+            {
+                "narration_text": "#C C picks a lid from the drawer",
+                "start_frame": 3375,
+                "stop_frame": 3404
+            },
+            {
+                "narration_text": "#C C pours water in the sink with the right hand",
+                "start_frame": 3404,
+                "stop_frame": 3500
+            },
+            {
+                "narration_text": "#C C places lid in the drawer",
+                "start_frame": 3500,
+                "stop_frame": 3580
+            },
+            {
+                "narration_text": "#C C closes the drawer",
+                "start_frame": 3580,
+                "stop_frame": 3606
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 3606,
+                "stop_frame": 3646
+            }
+        ]
+    },
+    {
+        "task_goal": "Look around and pick items from cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the drawer",
+                "start_frame": 3580,
+                "stop_frame": 3606
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 3606,
+                "stop_frame": 3646
+            },
+            {
+                "narration_text": "#O A Man Y cuts #unsure on the table with a knife",
+                "start_frame": 3646,
+                "stop_frame": 3787
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 3787,
+                "stop_frame": 3846
+            },
+            {
+                "narration_text": "#C C moves around the room",
+                "start_frame": 3846,
+                "stop_frame": 3925
+            },
+            {
+                "narration_text": "#C C serches #unsure from the cabinet with the right hand",
+                "start_frame": 3925,
+                "stop_frame": 3943
+            },
+            {
+                "narration_text": "#C C picks #unsure from the cabinet",
+                "start_frame": 3943,
+                "stop_frame": 4007
+            }
+        ]
+    },
+    {
+        "task_goal": "Peel banana and place on table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#O A Man Y picks #unsure from the drawer",
+                "start_frame": 4606,
+                "stop_frame": 4671
+            },
+            {
+                "narration_text": "#C C peels the banana with hands",
+                "start_frame": 4671,
+                "stop_frame": 4811
+            },
+            {
+                "narration_text": "#O A Man Y moves around the room",
+                "start_frame": 4811,
+                "stop_frame": 4842
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 4842,
+                "stop_frame": 4936
+            },
+            {
+                "narration_text": "#O A Man Y picks #unsure from the shelf",
+                "start_frame": 4936,
+                "stop_frame": 4989
+            },
+            {
+                "narration_text": "#C C places #unsure on the table",
+                "start_frame": 4989,
+                "stop_frame": 4989
+            },
+            {
+                "narration_text": "#O A Man Y places #unsure on the table",
+                "start_frame": 4989,
+                "stop_frame": 5039
+            },
+            {
+                "narration_text": "#C C does #unsure",
+                "start_frame": 5039,
+                "stop_frame": 5101
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut and peel more items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts #unsure in a bowl",
+                "start_frame": 5437,
+                "stop_frame": 5566
+            },
+            {
+                "narration_text": "#C C places #unsure on top of the table in a paper",
+                "start_frame": 5566,
+                "stop_frame": 5639
+            },
+            {
+                "narration_text": "#C C holds the paper with the right hand",
+                "start_frame": 5639,
+                "stop_frame": 5662
+            },
+            {
+                "narration_text": "#O A Man y Picks #unsure from a bowl with the left hand",
+                "start_frame": 5662,
+                "stop_frame": 5698
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 5698,
+                "stop_frame": 5736
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash hands and move around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C Cdoes #unsure in the sink",
+                "start_frame": 5961,
+                "stop_frame": 5995
+            },
+            {
+                "narration_text": "#C C washes hands in the sink",
+                "start_frame": 5995,
+                "stop_frame": 6024
+            },
+            {
+                "narration_text": "#C C closes the sink",
+                "start_frame": 6024,
+                "stop_frame": 6051
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 6051,
+                "stop_frame": 6087
+            },
+            {
+                "narration_text": "#C C moves around the room",
+                "start_frame": 6087,
+                "stop_frame": 6133
+            },
+            {
+                "narration_text": "#C C picks a surviettes",
+                "start_frame": 6133,
+                "stop_frame": 6200
+            },
+            {
+                "narration_text": "#C C cuts the surviettes",
+                "start_frame": 6200,
+                "stop_frame": 6226
+            },
+            {
+                "narration_text": "#C C moves around the room",
+                "start_frame": 6226,
+                "stop_frame": 6279
+            },
+            {
+                "narration_text": "#C C opens the bucket",
+                "start_frame": 6279,
+                "stop_frame": 6302
+            }
+        ]
+    },
+    {
+        "task_goal": "Gather and cut more ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the bucket",
+                "start_frame": 6279,
+                "stop_frame": 6302
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 6302,
+                "stop_frame": 6321
+            },
+            {
+                "narration_text": "#C C moves around the room",
+                "start_frame": 6321,
+                "stop_frame": 6368
+            },
+            {
+                "narration_text": "#C C touches the paper",
+                "start_frame": 6368,
+                "stop_frame": 6395
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 6395,
+                "stop_frame": 6458
+            },
+            {
+                "narration_text": "#C C picks #unsure from the paper",
+                "start_frame": 6458,
+                "stop_frame": 6487
+            },
+            {
+                "narration_text": "#C C holds #unsure with the right hand",
+                "start_frame": 6487,
+                "stop_frame": 6534
+            },
+            {
+                "narration_text": "#C C picks #unsure from the paper",
+                "start_frame": 6534,
+                "stop_frame": 6573
+            },
+            {
+                "narration_text": "#C C puts #unsure in a bowl",
+                "start_frame": 6573,
+                "stop_frame": 6594
+            },
+            {
+                "narration_text": "#C C does #unsure",
+                "start_frame": 6594,
+                "stop_frame": 6625
+            },
+            {
+                "narration_text": "#O A Man Y places knife on the table",
+                "start_frame": 6625,
+                "stop_frame": 6665
+            },
+            {
+                "narration_text": "#O A Man Y does #unsure",
+                "start_frame": 6665,
+                "stop_frame": 6714
+            },
+            {
+                "narration_text": "#O A Man Y moves around the room",
+                "start_frame": 6714,
+                "stop_frame": 6749
+            },
+            {
+                "narration_text": "#C C moves hands",
+                "start_frame": 6749,
+                "stop_frame": 6841
+            }
+        ]
+    },
+    {
+        "task_goal": "Open cabinet and gather items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves hands",
+                "start_frame": 6749,
+                "stop_frame": 6841
+            },
+            {
+                "narration_text": "#C C opens the cabinet",
+                "start_frame": 6841,
+                "stop_frame": 6933
+            },
+            {
+                "narration_text": "#O A Man X moves sachet on the table with the right hand",
+                "start_frame": 6933,
+                "stop_frame": 6933
+            },
+            {
+                "narration_text": "#O A Man Y places plate on the table",
+                "start_frame": 6933,
+                "stop_frame": 6968
+            },
+            {
+                "narration_text": "#C C scoops #unsure with a spoon",
+                "start_frame": 6968,
+                "stop_frame": 7017
+            },
+            {
+                "narration_text": "#C C puts #unsure in a bowl",
+                "start_frame": 7017,
+                "stop_frame": 7023
+            },
+            {
+                "narration_text": "#O A Man Y moves knife on the table",
+                "start_frame": 7023,
+                "stop_frame": 7078
+            },
+            {
+                "narration_text": "#C C points #unsure",
+                "start_frame": 7078,
+                "stop_frame": 7079
+            },
+            {
+                "narration_text": "#C C places bowl on the table",
+                "start_frame": 7079,
+                "stop_frame": 7095
+            },
+            {
+                "narration_text": "#O A Man Y picks a can from the table with the right hand",
+                "start_frame": 7095,
+                "stop_frame": 7140
+            },
+            {
+                "narration_text": "#C C Picks bowl from the table",
+                "start_frame": 7140,
+                "stop_frame": 7175
+            },
+            {
+                "narration_text": "#C C scoops #unsure from the bowl with a spoon",
+                "start_frame": 7175,
+                "stop_frame": 7282
+            },
+            {
+                "narration_text": "#O A Man Y places can on the table",
+                "start_frame": 7282,
+                "stop_frame": 7346
+            }
+        ]
+    },
+    {
+        "task_goal": "Blend and open blending jar",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the blending jar",
+                "start_frame": 10759,
+                "stop_frame": 11026
+            },
+            {
+                "narration_text": "#C C picks blending jar from table top",
+                "start_frame": 11026,
+                "stop_frame": 11058
+            },
+            {
+                "narration_text": "#C C puts jar in the blending blending machine",
+                "start_frame": 11058,
+                "stop_frame": 11068
+            },
+            {
+                "narration_text": "#C C blends the mixture",
+                "start_frame": 11068,
+                "stop_frame": 11612
+            },
+            {
+                "narration_text": "#C C stops blending the mixture",
+                "start_frame": 11612,
+                "stop_frame": 11756
+            },
+            {
+                "narration_text": "#C C opens the blendig jar",
+                "start_frame": 11756,
+                "stop_frame": 12120
+            },
+            {
+                "narration_text": "#C C moves around the house",
+                "start_frame": 12120,
+                "stop_frame": 12275
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean up and finalize",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the blendig jar",
+                "start_frame": 11756,
+                "stop_frame": 12120
+            },
+            {
+                "narration_text": "#C C moves around the house",
+                "start_frame": 12120,
+                "stop_frame": 12275
+            },
+            {
+                "narration_text": "#C C opens tap",
+                "start_frame": 12275,
+                "stop_frame": 12334
+            },
+            {
+                "narration_text": "#C C rinses blending jar lid",
+                "start_frame": 12334,
+                "stop_frame": 12566
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 12566,
+                "stop_frame": 12765
+            },
+            {
+                "narration_text": "#C C returns the packet in the shelve",
+                "start_frame": 12765,
+                "stop_frame": 13084
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 13084,
+                "stop_frame": 13201
+            },
+            {
+                "narration_text": "#C C closes the fridge door",
+                "start_frame": 13201,
+                "stop_frame": 13261
+            },
+            {
+                "narration_text": "#C C moves around the house",
+                "start_frame": 13261,
+                "stop_frame": 14822
+            },
+            {
+                "narration_text": "#C C pours the coffee in a cup",
+                "start_frame": 14822,
+                "stop_frame": 15153
+            },
+            {
+                "narration_text": "#C C place a cup on the table",
+                "start_frame": 15153,
+                "stop_frame": 15253
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash blending jar lid",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens tap",
+                "start_frame": 12275,
+                "stop_frame": 12334
+            },
+            {
+                "narration_text": "#C C rinses blending jar lid",
+                "start_frame": 12334,
+                "stop_frame": 12566
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 12566,
+                "stop_frame": 12765
+            },
+            {
+                "narration_text": "#C C returns the packet in the shelve",
+                "start_frame": 12765,
+                "stop_frame": 13084
+            }
+        ]
+    },
+    {
+        "task_goal": "Return packet and close fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C returns the packet in the shelve",
+                "start_frame": 12765,
+                "stop_frame": 13084
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 13084,
+                "stop_frame": 13201
+            },
+            {
+                "narration_text": "#C C closes the fridge door",
+                "start_frame": 13201,
+                "stop_frame": 13261
+            },
+            {
+                "narration_text": "#C C moves around the house",
+                "start_frame": 13261,
+                "stop_frame": 14822
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour coffee and place cup on table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves around the house",
+                "start_frame": 13261,
+                "stop_frame": 14822
+            },
+            {
+                "narration_text": "#C C pours the coffee in a cup",
+                "start_frame": 14822,
+                "stop_frame": 15153
+            },
+            {
+                "narration_text": "#C C place a cup on the table",
+                "start_frame": 15153,
+                "stop_frame": 15253
+            }
+        ]
+    }
+]

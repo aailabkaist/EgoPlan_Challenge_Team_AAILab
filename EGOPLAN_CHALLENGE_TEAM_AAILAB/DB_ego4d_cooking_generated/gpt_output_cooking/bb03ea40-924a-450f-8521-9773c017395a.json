@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehc4uJd1nxe1J7Zr0B8WjBM0DCQE",
+    "object": "chat.completion",
+    "created": 1719487796,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare rolls with cheese, ham, and vegetables, then bake them in the oven and add some toppings.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare the rolls with cheese\",\n      \"start_timestamp\": 33,\n      \"stop_timestamp\": 2326,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick rolls and open wrapper\",\n          \"start_timestamp\": 33,\n          \"stop_timestamp\": 232\n        },\n        {\n          \"secondary_subgoal\": \"Remove rolls from the wrapper\",\n          \"start_timestamp\": 232,\n          \"stop_timestamp\": 357\n        },\n        {\n          \"secondary_subgoal\": \"Put wrapper aside and pick a knife\",\n          \"start_timestamp\": 357,\n          \"stop_timestamp\": 466\n        },\n        {\n          \"secondary_subgoal\": \"Cut the rolls with knife and hand\",\n          \"start_timestamp\": 466,\n          \"stop_timestamp\": 1071\n        },\n        {\n          \"secondary_subgoal\": \"Prepare cheese slices and insert them in rolls\",\n          \"start_timestamp\": 1071,\n          \"stop_timestamp\": 2226\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare the rolls for baking\",\n      \"start_timestamp\": 2321,\n      \"stop_timestamp\": 3121,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Walk to cabinet and retrieve a tray\",\n          \"start_timestamp\": 2321,\n          \"stop_timestamp\": 2603\n        },\n        {\n          \"secondary_subgoal\": \"Put rolls in tray and place in the oven\",\n          \"start_timestamp\": 2654,\n          \"stop_timestamp\": 3079\n        },\n        {\n          \"secondary_subgoal\": \"Press buttons on oven\",\n          \"start_timestamp\": 3079,\n          \"stop_timestamp\": 3118\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare additional ingredients\",\n      \"start_timestamp\": 3221,\n      \"stop_timestamp\": 6824,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Retrieve and prepare items from fridge\",\n          \"start_timestamp\": 3221,\n          \"stop_timestamp\": 4041\n        },\n        {\n          \"secondary_subgoal\": \"Cut unspecified items\",\n          \"start_timestamp\": 4140,\n          \"stop_timestamp\": 6643\n        },\n        {\n          \"secondary_subgoal\": \"Collect items together\",\n          \"start_timestamp\": 6643,\n          \"stop_timestamp\": 6824\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finish baking rolls and start preparing ham\",\n      \"start_timestamp\": 6900,\n      \"stop_timestamp\": 965,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Take tray out of oven\",\n          \"start_timestamp\": 6900,\n          \"stop_timestamp\": 7569\n        },\n        {\n          \"secondary_subgoal\": \"Prepare and put ham on rolls\",\n          \"start_timestamp\": 7652,\n          \"stop_timestamp\": 9527\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Apply more toppings\",\n      \"start_timestamp\": 9585,\n      \"stop_timestamp\": 12916,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Unsure substance with spoon onto rolls\",\n          \"start_timestamp\": 9742,\n          \"stop_timestamp\": 10095\n        },\n        {\n          \"secondary_subgoal\": \"Spread substance on rolls\",\n          \"start_timestamp\": 10733,\n          \"stop_timestamp\": 11744\n        },\n        {\n          \"secondary_subgoal\": \"Add vegetables from a bag onto rolls\",\n          \"start_timestamp\": 11838,\n          \"stop_timestamp\": 12866\n        },\n        {\n          \"secondary_subgoal\": \"Pick a towel and put the towel down\",\n          \"start_timestamp\": 12916,\n          \"stop_timestamp\": 13016\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1871,
+        "completion_tokens": 855,
+        "total_tokens": 2726
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

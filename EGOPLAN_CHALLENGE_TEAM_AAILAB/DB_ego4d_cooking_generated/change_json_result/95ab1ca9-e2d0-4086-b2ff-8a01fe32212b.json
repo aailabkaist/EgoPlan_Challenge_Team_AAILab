@@ -1,0 +1,71 @@
+{
+    "overall_goal": "Cooking food in the kitchen",
+    "clips": [
+        {
+            "subgoal": "Preparing sausage for cooking",
+            "start_timestamp": "93",
+            "stop_timestamp": "5112",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Getting sausage from the fridge",
+                    "start_timestamp": "93",
+                    "stop_timestamp": "876"
+                },
+                {
+                    "secondary_subgoal": "Preparing the sausage on the chopping board",
+                    "start_timestamp": "887",
+                    "stop_timestamp": "2216"
+                },
+                {
+                    "secondary_subgoal": "Cutting and placing sausage pieces on the plate",
+                    "start_timestamp": "2229",
+                    "stop_timestamp": "5112"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning up the utensils",
+            "start_timestamp": "5197",
+            "stop_timestamp": "8773",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning the chopping board and knife",
+                    "start_timestamp": "5197",
+                    "stop_timestamp": "7620"
+                },
+                {
+                    "secondary_subgoal": "Cleaning the grater",
+                    "start_timestamp": "7656",
+                    "stop_timestamp": "8773"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking the food and adjusting the kitchen",
+            "start_timestamp": "8927",
+            "stop_timestamp": "13492",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Using chopsticks to round and rotate the cooking food",
+                    "start_timestamp": "8927",
+                    "stop_timestamp": "8961"
+                },
+                {
+                    "secondary_subgoal": "Pressing the food with a stick",
+                    "start_timestamp": "9812",
+                    "stop_timestamp": "11236"
+                },
+                {
+                    "secondary_subgoal": "Cleaning the kitchen top",
+                    "start_timestamp": "11288",
+                    "stop_timestamp": "11502"
+                },
+                {
+                    "secondary_subgoal": "Scrolling phone and adjusting the camera",
+                    "start_timestamp": "12078",
+                    "stop_timestamp": "13492"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "overall_goal": "Prepare and cook food using various ingredients and kitchen tools.",
+    "clips": [
+        {
+            "subgoal": "Prepare initial mixture",
+            "start_timestamp": 0,
+            "stop_timestamp": 837,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold and use various kitchen utensils",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 398
+                },
+                {
+                    "secondary_subgoal": "Pour water into the plastic tin",
+                    "start_timestamp": 398,
+                    "stop_timestamp": 243
+                },
+                {
+                    "secondary_subgoal": "Stir and transfer mixture",
+                    "start_timestamp": 457,
+                    "stop_timestamp": 1585
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean and rearrange kitchen utensils",
+            "start_timestamp": 1585,
+            "stop_timestamp": 2541,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean chopsticks and spoon",
+                    "start_timestamp": 1585,
+                    "stop_timestamp": 1890
+                },
+                {
+                    "secondary_subgoal": "Store utensils in their designated places",
+                    "start_timestamp": 2556,
+                    "stop_timestamp": 2640
+                },
+                {
+                    "secondary_subgoal": "Rinse plastic tin",
+                    "start_timestamp": 5400,
+                    "stop_timestamp": 5759
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare vegetables",
+            "start_timestamp": 6377,
+            "stop_timestamp": 1780,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and clean the small saucepan",
+                    "start_timestamp": 7695,
+                    "stop_timestamp": 8535
+                },
+                {
+                    "secondary_subgoal": "Organize fridge and kitchen slab",
+                    "start_timestamp": 8587,
+                    "stop_timestamp": 9926
+                },
+                {
+                    "secondary_subgoal": "Cut and clean vegetables",
+                    "start_timestamp": 10195,
+                    "stop_timestamp": 27289
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook and mix ingredients",
+            "start_timestamp": 34030,
+            "stop_timestamp": 90432,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and mix greens",
+                    "start_timestamp": 24842,
+                    "stop_timestamp": 31995
+                },
+                {
+                    "secondary_subgoal": "Grind greens and clean grinder",
+                    "start_timestamp": 34742,
+                    "stop_timestamp": 40006
+                },
+                {
+                    "secondary_subgoal": "Prepare and cook vegetables",
+                    "start_timestamp": 40262,
+                    "stop_timestamp": 46483
+                }
+            ]
+        },
+        {
+            "subgoal": "Make dumplings",
+            "start_timestamp": 86588,
+            "stop_timestamp": 107207,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Roll and prepare dough",
+                    "start_timestamp": 86588,
+                    "stop_timestamp": 98788
+                },
+                {
+                    "secondary_subgoal": "Fill and cook dumplings",
+                    "start_timestamp": 98834,
+                    "stop_timestamp": 100868
+                },
+                {
+                    "secondary_subgoal": "Store cooked dumplings",
+                    "start_timestamp": 104030,
+                    "stop_timestamp": 107207
+                }
+            ]
+        }
+    ]
+}

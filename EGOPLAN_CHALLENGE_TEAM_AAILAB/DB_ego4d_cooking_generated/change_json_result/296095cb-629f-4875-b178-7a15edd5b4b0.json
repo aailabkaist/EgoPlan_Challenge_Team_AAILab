@@ -1,0 +1,105 @@
+{
+    "overall_goal": "Prepare and clean up after a meal involving sausages and various kitchen tools.",
+    "clips": [
+        {
+            "subgoal": "Gather initial items and prepare workspace in the kitchen",
+            "start_timestamp": 0,
+            "stop_timestamp": 622,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look around the kitchen",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 79
+                },
+                {
+                    "secondary_subgoal": "Open and inspect the fridge",
+                    "start_timestamp": 79,
+                    "stop_timestamp": 269
+                },
+                {
+                    "secondary_subgoal": "Gather container and look around",
+                    "start_timestamp": 269,
+                    "stop_timestamp": 622
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle and prepare food items",
+            "start_timestamp": 622,
+            "stop_timestamp": 6451,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle kitchen tools (dish, switch, knife)",
+                    "start_timestamp": 622,
+                    "stop_timestamp": 2397
+                },
+                {
+                    "secondary_subgoal": "Store and retrieve items from the fridge",
+                    "start_timestamp": 2397,
+                    "stop_timestamp": 2882
+                },
+                {
+                    "secondary_subgoal": "Handle polythene paper and microwave operations",
+                    "start_timestamp": 2882,
+                    "stop_timestamp": 518
+                },
+                {
+                    "secondary_subgoal": "Handle chopping board and additional kitchen tools",
+                    "start_timestamp": 518,
+                    "stop_timestamp": 6451
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean and organize kitchen items",
+            "start_timestamp": 6451,
+            "stop_timestamp": 10631,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean individual kitchen utensils",
+                    "start_timestamp": 6451,
+                    "stop_timestamp": 9207
+                },
+                {
+                    "secondary_subgoal": "Group clean kitchen utensils",
+                    "start_timestamp": 9207,
+                    "stop_timestamp": 10631
+                }
+            ]
+        },
+        {
+            "subgoal": "Add final touches to meal preparation",
+            "start_timestamp": 10631,
+            "stop_timestamp": 16944,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add condiments to sausages and store items",
+                    "start_timestamp": 10631,
+                    "stop_timestamp": 17206
+                },
+                {
+                    "secondary_subgoal": "Move around and inspect kitchen area",
+                    "start_timestamp": 17206,
+                    "stop_timestamp": 16944
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve meal and relax",
+            "start_timestamp": 16944,
+            "stop_timestamp": 17914,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and serve drink",
+                    "start_timestamp": 16944,
+                    "stop_timestamp": 17491
+                },
+                {
+                    "secondary_subgoal": "Move to and arrange items in the sitting room",
+                    "start_timestamp": 17491,
+                    "stop_timestamp": 17914
+                }
+            ]
+        }
+    ]
+}

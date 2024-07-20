@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfxRXsq4yl9zKOJ1ow4MmWGEmEka",
+    "object": "chat.completion",
+    "created": 1719243105,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook a dish involving spitzkohl (a type of cabbage) and meat\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare utensils and cooking zone\",\n      \"start_timestamp\": 242,\n      \"stop_timestamp\": 531,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean the pan\",\n          \"start_timestamp\": 242,\n          \"stop_timestamp\": 487\n        },\n        {\n          \"secondary_subgoal\": \"Put the pan on the cooker\",\n          \"start_timestamp\": 487,\n          \"stop_timestamp\": 531\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Switch on the cooker and gather kitchen tools\",\n      \"start_timestamp\": 531,\n      \"stop_timestamp\": 1264,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Switch on the cooker, gather and wash tools\",\n          \"start_timestamp\": 531,\n          \"stop_timestamp\": 1264\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare ingredients and start cooking\",\n      \"start_timestamp\": 1264,\n      \"stop_timestamp\": 3010,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash knife and spitzkohl\",\n          \"start_timestamp\": 1264,\n          \"stop_timestamp\": 1965\n        },\n        {\n          \"secondary_subgoal\": \"Cut and discard waste\",\n          \"start_timestamp\": 1965,\n          \"stop_timestamp\": 3010\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook the spitzkohl and meat\",\n      \"start_timestamp\": 3010,\n      \"stop_timestamp\": 8811,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pour oil in pan and add ingredients\",\n          \"start_timestamp\": 3010,\n          \"stop_timestamp\": 7012\n        },\n        {\n          \"secondary_subgoal\": \"Add and stir cabbage and lettuce\",\n          \"start_timestamp\": 7012,\n          \"stop_timestamp\": 8811\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up and complete the meal\",\n      \"start_timestamp\": 8811,\n      \"stop_timestamp\": 21325,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Dispose of lettuce scraps\",\n          \"start_timestamp\": 8811,\n          \"stop_timestamp\": 9385\n        },\n        {\n          \"secondary_subgoal\": \"Wash the utensils\",\n          \"start_timestamp\": 9385,\n          \"stop_timestamp\": 10363\n        },\n        {\n          \"secondary_subgoal\": \"Final cooking stage\",\n          \"start_timestamp\": 10363,\n          \"stop_timestamp\": 21325\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3132,
+        "completion_tokens": 604,
+        "total_tokens": 3736
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

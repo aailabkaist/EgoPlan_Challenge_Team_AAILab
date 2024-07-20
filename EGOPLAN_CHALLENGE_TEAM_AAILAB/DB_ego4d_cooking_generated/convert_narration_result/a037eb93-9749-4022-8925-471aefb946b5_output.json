@@ -1,0 +1,492 @@
+[
+    {
+        "task_goal": "Clean and prepare hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around.",
+                "start_frame": 1,
+                "stop_frame": 1
+            },
+            {
+                "narration_text": "Adjusts head cameras.",
+                "start_frame": 1,
+                "stop_frame": 28
+            },
+            {
+                "narration_text": "Lowers hand.",
+                "start_frame": 28,
+                "stop_frame": 61
+            },
+            {
+                "narration_text": "Walks around the kitchen.",
+                "start_frame": 61,
+                "stop_frame": 132
+            },
+            {
+                "narration_text": "Opens a tap.",
+                "start_frame": 132,
+                "stop_frame": 145
+            },
+            {
+                "narration_text": "Washes hand.",
+                "start_frame": 145,
+                "stop_frame": 240
+            },
+            {
+                "narration_text": "Closes hand.",
+                "start_frame": 240,
+                "stop_frame": 252
+            },
+            {
+                "narration_text": "Takes soap.",
+                "start_frame": 252,
+                "stop_frame": 261
+            },
+            {
+                "narration_text": "Applies soap on the hands.",
+                "start_frame": 261,
+                "stop_frame": 301
+            },
+            {
+                "narration_text": "Washes hand.",
+                "start_frame": 301,
+                "stop_frame": 640
+            },
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 640,
+                "stop_frame": 655
+            },
+            {
+                "narration_text": "Rinses hand.",
+                "start_frame": 655,
+                "stop_frame": 866
+            },
+            {
+                "narration_text": "Closes tap.",
+                "start_frame": 866,
+                "stop_frame": 887
+            },
+            {
+                "narration_text": "Removes excess water from hands.",
+                "start_frame": 887,
+                "stop_frame": 929
+            },
+            {
+                "narration_text": "Touches a kitchen towel.",
+                "start_frame": 929,
+                "stop_frame": 939
+            },
+            {
+                "narration_text": "Wipes hand.",
+                "start_frame": 939,
+                "stop_frame": 1127
+            },
+            {
+                "narration_text": "Walks near the chopping board.",
+                "start_frame": 1127,
+                "stop_frame": 1166
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjust camera and walk around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around.",
+                "start_frame": 1,
+                "stop_frame": 1
+            },
+            {
+                "narration_text": "Adjusts head cameras.",
+                "start_frame": 1,
+                "stop_frame": 28
+            },
+            {
+                "narration_text": "Lowers hand.",
+                "start_frame": 28,
+                "stop_frame": 61
+            }
+        ]
+    },
+    {
+        "task_goal": "Lower hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Adjusts head cameras.",
+                "start_frame": 1,
+                "stop_frame": 28
+            },
+            {
+                "narration_text": "Lowers hand.",
+                "start_frame": 28,
+                "stop_frame": 61
+            },
+            {
+                "narration_text": "Walks around the kitchen.",
+                "start_frame": 61,
+                "stop_frame": 132
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk around the kitchen",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lowers hand.",
+                "start_frame": 28,
+                "stop_frame": 61
+            },
+            {
+                "narration_text": "Walks around the kitchen.",
+                "start_frame": 61,
+                "stop_frame": 132
+            },
+            {
+                "narration_text": "Opens a tap.",
+                "start_frame": 132,
+                "stop_frame": 145
+            }
+        ]
+    },
+    {
+        "task_goal": "Hands washing routine",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the kitchen.",
+                "start_frame": 61,
+                "stop_frame": 132
+            },
+            {
+                "narration_text": "Opens a tap.",
+                "start_frame": 132,
+                "stop_frame": 145
+            },
+            {
+                "narration_text": "Washes hand.",
+                "start_frame": 145,
+                "stop_frame": 240
+            },
+            {
+                "narration_text": "Closes hand.",
+                "start_frame": 240,
+                "stop_frame": 252
+            },
+            {
+                "narration_text": "Takes soap.",
+                "start_frame": 252,
+                "stop_frame": 261
+            },
+            {
+                "narration_text": "Applies soap on the hands.",
+                "start_frame": 261,
+                "stop_frame": 301
+            },
+            {
+                "narration_text": "Washes hand.",
+                "start_frame": 301,
+                "stop_frame": 640
+            },
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 640,
+                "stop_frame": 655
+            },
+            {
+                "narration_text": "Rinses hand.",
+                "start_frame": 655,
+                "stop_frame": 866
+            },
+            {
+                "narration_text": "Closes tap.",
+                "start_frame": 866,
+                "stop_frame": 887
+            },
+            {
+                "narration_text": "Removes excess water from hands.",
+                "start_frame": 887,
+                "stop_frame": 929
+            },
+            {
+                "narration_text": "Touches a kitchen towel.",
+                "start_frame": 929,
+                "stop_frame": 939
+            },
+            {
+                "narration_text": "Wipes hand.",
+                "start_frame": 939,
+                "stop_frame": 1127
+            },
+            {
+                "narration_text": "Walks near the chopping board.",
+                "start_frame": 1127,
+                "stop_frame": 1166
+            }
+        ]
+    },
+    {
+        "task_goal": "Look around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks near the chopping board.",
+                "start_frame": 1127,
+                "stop_frame": 1166
+            },
+            {
+                "narration_text": "Looks around.",
+                "start_frame": 1166,
+                "stop_frame": 1207
+            },
+            {
+                "narration_text": "Stretches t shirt.",
+                "start_frame": 1207,
+                "stop_frame": 1236
+            }
+        ]
+    },
+    {
+        "task_goal": "Get cabbage from the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Looks around.",
+                "start_frame": 1166,
+                "stop_frame": 1207
+            },
+            {
+                "narration_text": "Stretches t shirt.",
+                "start_frame": 1207,
+                "stop_frame": 1236
+            },
+            {
+                "narration_text": "Holds a knife on the chopping board.",
+                "start_frame": 1236,
+                "stop_frame": 1277
+            },
+            {
+                "narration_text": "Removes hand from the knife.",
+                "start_frame": 1277,
+                "stop_frame": 1307
+            },
+            {
+                "narration_text": "Looks around.",
+                "start_frame": 1307,
+                "stop_frame": 1444
+            },
+            {
+                "narration_text": "Raises hand.",
+                "start_frame": 1444,
+                "stop_frame": 1469
+            },
+            {
+                "narration_text": "Opens a fridge.",
+                "start_frame": 1469,
+                "stop_frame": 1508
+            },
+            {
+                "narration_text": "Takes a paper bag in the fridge.",
+                "start_frame": 1508,
+                "stop_frame": 1559
+            },
+            {
+                "narration_text": "Turns.",
+                "start_frame": 1559,
+                "stop_frame": 1586
+            },
+            {
+                "narration_text": "Takes a bowl on a dishrack.",
+                "start_frame": 1586,
+                "stop_frame": 1646
+            }
+        ]
+    },
+    {
+        "task_goal": "Unpack and store extra green chilies",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts knife on the chopping board.",
+                "start_frame": 8785,
+                "stop_frame": 8796
+            },
+            {
+                "narration_text": "Takes a packet of green chilies.",
+                "start_frame": 8796,
+                "stop_frame": 8819
+            },
+            {
+                "narration_text": "Opens the packet.",
+                "start_frame": 8819,
+                "stop_frame": 8836
+            },
+            {
+                "narration_text": "Cuts the part of the packet.",
+                "start_frame": 8836,
+                "stop_frame": 8855
+            },
+            {
+                "narration_text": "Takes the cut piece of the packet.",
+                "start_frame": 8855,
+                "stop_frame": 8868
+            },
+            {
+                "narration_text": "Throws the packet piece in the trash bin.",
+                "start_frame": 8868,
+                "stop_frame": 8897
+            },
+            {
+                "narration_text": "Opens the packet with green chilies.",
+                "start_frame": 8897,
+                "stop_frame": 9081
+            },
+            {
+                "narration_text": "Takes the green chilies.",
+                "start_frame": 9081,
+                "stop_frame": 9231
+            },
+            {
+                "narration_text": "Puts the green chilies on the chopping board.",
+                "start_frame": 9231,
+                "stop_frame": 9250
+            },
+            {
+                "narration_text": "Closes the packet of the green chilies.",
+                "start_frame": 9250,
+                "stop_frame": 9267
+            },
+            {
+                "narration_text": "Rises right hand.",
+                "start_frame": 9267,
+                "stop_frame": 9268
+            },
+            {
+                "narration_text": "Walks around.",
+                "start_frame": 9268,
+                "stop_frame": 9296
+            },
+            {
+                "narration_text": "Opens a fridge.",
+                "start_frame": 9296,
+                "stop_frame": 9315
+            },
+            {
+                "narration_text": "Puts the greens chili in the fridge.",
+                "start_frame": 9315,
+                "stop_frame": 9353
+            },
+            {
+                "narration_text": "Closes the fridge.",
+                "start_frame": 9353,
+                "stop_frame": 9363
+            }
+        ]
+    },
+    {
+        "task_goal": "Cook the beef",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the beef in the frying pan.",
+                "start_frame": 20199,
+                "stop_frame": 20265
+            },
+            {
+                "narration_text": "Turns around.",
+                "start_frame": 20265,
+                "stop_frame": 20286
+            },
+            {
+                "narration_text": "Throws the packet bag in the trash bin.",
+                "start_frame": 20286,
+                "stop_frame": 20333
+            },
+            {
+                "narration_text": "Turns around.",
+                "start_frame": 20333,
+                "stop_frame": 20356
+            },
+            {
+                "narration_text": "Stirs ingredients in the frying pan.",
+                "start_frame": 20356,
+                "stop_frame": 20362
+            },
+            {
+                "narration_text": "Holds the frying pan handle.",
+                "start_frame": 20362,
+                "stop_frame": 20374
+            },
+            {
+                "narration_text": "Stirs ingredients in the frying pan.",
+                "start_frame": 20374,
+                "stop_frame": 20477
+            },
+            {
+                "narration_text": "Mixes beef in the frying pan with chopsticks.",
+                "start_frame": 20477,
+                "stop_frame": 20765
+            },
+            {
+                "narration_text": "Stirs ingredients in the frying pan.",
+                "start_frame": 20765,
+                "stop_frame": 21064
+            },
+            {
+                "narration_text": "Stirs ingredients in the frying pan.",
+                "start_frame": 21064,
+                "stop_frame": 21164
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix beef with other ingredients and continue cooking",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the beef in the frying pan.",
+                "start_frame": 20199,
+                "stop_frame": 20265
+            },
+            {
+                "narration_text": "Turns around.",
+                "start_frame": 20265,
+                "stop_frame": 20286
+            },
+            {
+                "narration_text": "Throws the packet bag in the trash bin.",
+                "start_frame": 20286,
+                "stop_frame": 20333
+            },
+            {
+                "narration_text": "Turns around.",
+                "start_frame": 20333,
+                "stop_frame": 20356
+            },
+            {
+                "narration_text": "Stirs ingredients in the frying pan.",
+                "start_frame": 20356,
+                "stop_frame": 20362
+            },
+            {
+                "narration_text": "Holds the frying pan handle.",
+                "start_frame": 20362,
+                "stop_frame": 20374
+            },
+            {
+                "narration_text": "Stirs ingredients in the frying pan.",
+                "start_frame": 20374,
+                "stop_frame": 20477
+            },
+            {
+                "narration_text": "Mixes beef in the frying pan with chopsticks.",
+                "start_frame": 20477,
+                "stop_frame": 20765
+            },
+            {
+                "narration_text": "Stirs ingredients in the frying pan.",
+                "start_frame": 20765,
+                "stop_frame": 21064
+            },
+            {
+                "narration_text": "Stirs ingredients in the frying pan.",
+                "start_frame": 21064,
+                "stop_frame": 21164
+            }
+        ]
+    }
+]

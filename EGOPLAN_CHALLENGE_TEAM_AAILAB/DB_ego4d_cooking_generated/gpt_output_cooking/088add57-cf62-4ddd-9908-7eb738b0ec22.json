@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeUEgaah2FAta8wuwb5NHH6Xl6iI",
+    "object": "chat.completion",
+    "created": 1719475778,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare dough rolls for a meal\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Making dough rolls\",\n      \"start_timestamp\": 14,\n      \"stop_timestamp\": 29377,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Initial dough preparation\",\n          \"start_timestamp\": 14,\n          \"stop_timestamp\": 2409\n        },\n        {\n          \"secondary_subgoal\": \"*Additional dough preparation steps\",\n          \"start_timestamp\": 2409,\n          \"stop_timestamp\": 29377\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Rolling dough rolls\",\n      \"start_timestamp\": 29377,\n      \"stop_timestamp\": 67901,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Rolling and flattening dough\",\n          \"start_timestamp\": 29377,\n          \"stop_timestamp\": 37443\n        },\n        {\n          \"secondary_subgoal\": \"Organizing dough rolls in tray\",\n          \"start_timestamp\": 37443,\n          \"stop_timestamp\": 67901\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Dipping dough balls in flour\",\n      \"start_timestamp\": 67901,\n      \"stop_timestamp\": 91614,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Dipping and rolling dough in flour\",\n          \"start_timestamp\": 67901,\n          \"stop_timestamp\": 73881\n        },\n        {\n          \"secondary_subgoal\": \"Organizing dipped dough rolls in tray\",\n          \"start_timestamp\": 73881,\n          \"stop_timestamp\": 91614\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning and packing\",\n      \"start_timestamp\": 91614,\n      \"stop_timestamp\": 94663,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Organizing tools and cleaning tray\",\n          \"start_timestamp\": 91614,\n          \"stop_timestamp\": 94470\n        },\n        {\n          \"secondary_subgoal\": \"Organizing and cleaning up workspace\",\n          \"start_timestamp\": 94470,\n          \"stop_timestamp\": 94663\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 11683,
+        "completion_tokens": 475,
+        "total_tokens": 12158
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

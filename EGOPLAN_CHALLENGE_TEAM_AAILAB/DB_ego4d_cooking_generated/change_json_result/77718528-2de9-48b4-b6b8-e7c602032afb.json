@@ -1,0 +1,134 @@
+{
+    "overall_goal": "To clean and organize kitchen utensils and prepare for future use.",
+    "clips": [
+        {
+            "subgoal": "Cleaning various kitchen utensils.",
+            "start_timestamp": 127,
+            "stop_timestamp": 408,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling and placing utensils.",
+                    "start_timestamp": 127,
+                    "stop_timestamp": 352
+                },
+                {
+                    "secondary_subgoal": "Organizing utensils.",
+                    "start_timestamp": 352,
+                    "stop_timestamp": 408
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing and scrubbing the wok.",
+            "start_timestamp": 406,
+            "stop_timestamp": 1124,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing the wok.",
+                    "start_timestamp": 461,
+                    "stop_timestamp": 632
+                },
+                {
+                    "secondary_subgoal": "Pushing the wok away.",
+                    "start_timestamp": 1035,
+                    "stop_timestamp": 1124
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning various trays, cups, and utensils.",
+            "start_timestamp": 1124,
+            "stop_timestamp": 2107,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pulling tray to scrub it.",
+                    "start_timestamp": 2248,
+                    "stop_timestamp": 2582
+                },
+                {
+                    "secondary_subgoal": "Cleaning trays.",
+                    "start_timestamp": 2641,
+                    "stop_timestamp": 3423
+                },
+                {
+                    "secondary_subgoal": "Scrubbing trays, cups, and utensils.",
+                    "start_timestamp": 3423,
+                    "stop_timestamp": 8571
+                }
+            ]
+        },
+        {
+            "subgoal": "Interacting with another person and handling kitchen items.",
+            "start_timestamp": 4206,
+            "stop_timestamp": 6639,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Interacting with person X.",
+                    "start_timestamp": 4206,
+                    "stop_timestamp": 4971
+                },
+                {
+                    "secondary_subgoal": "Washing more metal pots.",
+                    "start_timestamp": 9700,
+                    "stop_timestamp": 16400
+                },
+                {
+                    "secondary_subgoal": "Handling a basket and washing pots.",
+                    "start_timestamp": 31510,
+                    "stop_timestamp": 35000
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing metal trays and pots.",
+            "start_timestamp": 40981,
+            "stop_timestamp": 47822,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing trays and putting them in a basin.",
+                    "start_timestamp": 40981,
+                    "stop_timestamp": 42884
+                },
+                {
+                    "secondary_subgoal": "Washing and organizing pots.",
+                    "start_timestamp": 42940,
+                    "stop_timestamp": 48152
+                }
+            ]
+        },
+        {
+            "subgoal": "Placing items and organizing the kitchen area.",
+            "start_timestamp": 48042,
+            "stop_timestamp": 50691,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walking around and organizing cooking items.",
+                    "start_timestamp": 48042,
+                    "stop_timestamp": 48451
+                },
+                {
+                    "secondary_subgoal": "Washing hands and organizing the area.",
+                    "start_timestamp": 49114,
+                    "stop_timestamp": 50691
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning and drying utensils.",
+            "start_timestamp": 50763,
+            "stop_timestamp": 54232,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Drying and preparing cleaning area.",
+                    "start_timestamp": 50763,
+                    "stop_timestamp": 52354
+                },
+                {
+                    "secondary_subgoal": "Cleaning with ash and washing items.",
+                    "start_timestamp": 53837,
+                    "stop_timestamp": 54232
+                }
+            ]
+        }
+    ]
+}

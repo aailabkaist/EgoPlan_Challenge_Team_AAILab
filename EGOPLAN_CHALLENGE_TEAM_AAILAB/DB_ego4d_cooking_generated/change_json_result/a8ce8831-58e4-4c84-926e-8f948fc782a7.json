@@ -1,0 +1,98 @@
+{
+    "overall_goal": "Prepare and cook a dish, and clean up afterwards",
+    "clips": [
+        {
+            "subgoal": "Prepare the ingredients and utensils",
+            "start_timestamp": 44,
+            "stop_timestamp": 372,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather materials",
+                    "start_timestamp": 44,
+                    "stop_timestamp": 127
+                },
+                {
+                    "secondary_subgoal": "Fold blue paper",
+                    "start_timestamp": 127,
+                    "stop_timestamp": 336
+                },
+                {
+                    "secondary_subgoal": "Put folded paper down",
+                    "start_timestamp": 336,
+                    "stop_timestamp": 372
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cooking utensils and mix ingredients",
+            "start_timestamp": 372,
+            "stop_timestamp": 738,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle cooking utensils",
+                    "start_timestamp": 372,
+                    "stop_timestamp": 440
+                },
+                {
+                    "secondary_subgoal": "Prepare paste",
+                    "start_timestamp": 440,
+                    "stop_timestamp": 1213
+                },
+                {
+                    "secondary_subgoal": "Clean and organize utensils",
+                    "start_timestamp": 1213,
+                    "stop_timestamp": 1298
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix and cook the dish",
+            "start_timestamp": 1298,
+            "stop_timestamp": 8094,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add ingredients to pan",
+                    "start_timestamp": 1298,
+                    "stop_timestamp": 2043
+                },
+                {
+                    "secondary_subgoal": "Place pan on stove",
+                    "start_timestamp": 2043,
+                    "stop_timestamp": 2077
+                },
+                {
+                    "secondary_subgoal": "Organize and clean workspace",
+                    "start_timestamp": 2077,
+                    "stop_timestamp": 14205
+                },
+                {
+                    "secondary_subgoal": "Stir ingredients",
+                    "start_timestamp": 14205,
+                    "stop_timestamp": 14831
+                },
+                {
+                    "secondary_subgoal": "Add new ingredient and return utensils",
+                    "start_timestamp": 14831,
+                    "stop_timestamp": 19844
+                },
+                {
+                    "secondary_subgoal": "Prepare water for cooking",
+                    "start_timestamp": 19844,
+                    "stop_timestamp": 21233
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up cooking area",
+            "start_timestamp": 21233,
+            "stop_timestamp": 21333,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put kettle back",
+                    "start_timestamp": 21233,
+                    "stop_timestamp": 21333
+                }
+            ]
+        }
+    ]
+}

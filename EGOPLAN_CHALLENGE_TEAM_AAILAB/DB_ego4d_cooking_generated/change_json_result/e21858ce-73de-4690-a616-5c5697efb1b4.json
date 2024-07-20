@@ -1,0 +1,120 @@
+{
+    "overall_goal": "Perform a series of household tasks, including food preparation, cleaning, and watering plants",
+    "clips": [
+        {
+            "subgoal": "Prepare chili pepper mixture",
+            "start_timestamp": 45,
+            "stop_timestamp": 1503,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather and handle ingredients",
+                    "start_timestamp": 45,
+                    "stop_timestamp": 323
+                },
+                {
+                    "secondary_subgoal": "Add salt to chili pepper",
+                    "start_timestamp": 492,
+                    "stop_timestamp": 793
+                },
+                {
+                    "secondary_subgoal": "Mix chili pepper in the bucket",
+                    "start_timestamp": 853,
+                    "stop_timestamp": 1154
+                },
+                {
+                    "secondary_subgoal": "Seal container and bucket",
+                    "start_timestamp": 1323,
+                    "stop_timestamp": 1469
+                },
+                {
+                    "secondary_subgoal": "Move items on the table",
+                    "start_timestamp": 1503,
+                    "stop_timestamp": 1523
+                }
+            ]
+        },
+        {
+            "subgoal": "Turn on the lights",
+            "start_timestamp": 1724,
+            "stop_timestamp": 1854,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk to the switch",
+                    "start_timestamp": 1724,
+                    "stop_timestamp": 1753
+                },
+                {
+                    "secondary_subgoal": "Turn on the lights",
+                    "start_timestamp": 1753,
+                    "stop_timestamp": 1854
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean kitchen items",
+            "start_timestamp": 1922,
+            "stop_timestamp": 10224,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and scrub different kitchen items",
+                    "start_timestamp": 1922,
+                    "stop_timestamp": 5079
+                },
+                {
+                    "secondary_subgoal": "Rinse and place items on the rack",
+                    "start_timestamp": 5085,
+                    "stop_timestamp": 6365
+                },
+                {
+                    "secondary_subgoal": "Rinse more items and arrange them",
+                    "start_timestamp": 6388,
+                    "stop_timestamp": 7445
+                },
+                {
+                    "secondary_subgoal": "Rinse more items and place them on the rack",
+                    "start_timestamp": 7453,
+                    "stop_timestamp": 8390
+                },
+                {
+                    "secondary_subgoal": "Wash more items and put them on the shelf",
+                    "start_timestamp": 8414,
+                    "stop_timestamp": 10224
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean the sink",
+            "start_timestamp": 10983,
+            "stop_timestamp": 13627,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Scrub and rinse the sink",
+                    "start_timestamp": 10983,
+                    "stop_timestamp": 13627
+                }
+            ]
+        },
+        {
+            "subgoal": "Water the plants",
+            "start_timestamp": 20243,
+            "stop_timestamp": 30274,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Collect and move the water pipe",
+                    "start_timestamp": 20243,
+                    "stop_timestamp": 21800
+                },
+                {
+                    "secondary_subgoal": "Water the plants",
+                    "start_timestamp": 21800,
+                    "stop_timestamp": 29797
+                },
+                {
+                    "secondary_subgoal": "Turn off the tap and walk around",
+                    "start_timestamp": 29797,
+                    "stop_timestamp": 30274
+                }
+            ]
+        }
+    ]
+}

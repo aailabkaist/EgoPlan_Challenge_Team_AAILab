@@ -1,0 +1,92 @@
+{
+    "overall_goal": "Prepare and eat pomegranate seeds.",
+    "clips": [
+        {
+            "subgoal": "Select and prepare tools and ingredients.",
+            "start_timestamp": 0,
+            "stop_timestamp": 422,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look around the room and gather ingredients and tools.",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 130
+                },
+                {
+                    "secondary_subgoal": "Arrange objects on the floor and begin the cutting process.",
+                    "start_timestamp": 130,
+                    "stop_timestamp": 422
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut and deseed the pomegranate.",
+            "start_timestamp": 422,
+            "stop_timestamp": 6897,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and deseed the pomegranate continuously.",
+                    "start_timestamp": 422,
+                    "stop_timestamp": 2885
+                },
+                {
+                    "secondary_subgoal": "Continue the deseeding process.",
+                    "start_timestamp": 2885,
+                    "stop_timestamp": 6897
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish cutting, arrange seeds, and prepare the bowl.",
+            "start_timestamp": 6897,
+            "stop_timestamp": 24760,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Continue preparing the pomegranate and arranging seeds.",
+                    "start_timestamp": 6897,
+                    "stop_timestamp": 9637
+                },
+                {
+                    "secondary_subgoal": "Cut pomegranate and put the seeds in the bowl.",
+                    "start_timestamp": 9637,
+                    "stop_timestamp": 24760
+                }
+            ]
+        },
+        {
+            "subgoal": "Thresh the seeds and interact with others.",
+            "start_timestamp": 24760,
+            "stop_timestamp": 32788,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Thresh the seeds and discard waste.",
+                    "start_timestamp": 24760,
+                    "stop_timestamp": 32788
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the food and serve.",
+            "start_timestamp": 32788,
+            "stop_timestamp": 42104,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle bottles and containers, stir food, and serve.",
+                    "start_timestamp": 32788,
+                    "stop_timestamp": 42104
+                }
+            ]
+        },
+        {
+            "subgoal": "Consume the food.",
+            "start_timestamp": 42104,
+            "stop_timestamp": 42204,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Eat and interact with others.",
+                    "start_timestamp": 42104,
+                    "stop_timestamp": 42204
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dg9Ny48s7iyOOj3nt7daec5F7WCX",
+    "object": "chat.completion",
+    "created": 1719243845,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Organize, prepare, and cut vegetables in the kitchen\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Retrieve items from the fridge\",\n      \"start_timestamp\": 46,\n      \"stop_timestamp\": 964,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Open fridge and interact with crisper drawer\",\n          \"start_timestamp\": 106,\n          \"stop_timestamp\": 1371\n        },\n        {\n          \"secondary_subgoal\": \"Look at items inside fridge and decide what to take\",\n          \"start_timestamp\": 430,\n          \"stop_timestamp\": 443\n        },\n        {\n          \"secondary_subgoal\": \"Move items between drawers\",\n          \"start_timestamp\": 505,\n          \"stop_timestamp\": 868\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Move items to countertop\",\n      \"start_timestamp\": 1648,\n      \"stop_timestamp\": 2082,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Place various vegetables on the countertop\",\n          \"start_timestamp\": 1648,\n          \"stop_timestamp\": 1783\n        },\n        {\n          \"secondary_subgoal\": \"Untie and arrange items on the countertop\",\n          \"start_timestamp\": 1783,\n          \"stop_timestamp\": 2082\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cut vegetables\",\n      \"start_timestamp\": 2026,\n      \"stop_timestamp\": 8333,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut Brussel sprouts\",\n          \"start_timestamp\": 2026,\n          \"stop_timestamp\": 2915\n        },\n        {\n          \"secondary_subgoal\": \"Cut bell peppers\",\n          \"start_timestamp\": 3383,\n          \"stop_timestamp\": 8389\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Organize items after cutting\",\n      \"start_timestamp\": 8403,\n      \"stop_timestamp\": 8648,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick tomatoes and put them in the bowl\",\n          \"start_timestamp\": 8606,\n          \"stop_timestamp\": 8648\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean kitchen tools\",\n      \"start_timestamp\": 8950,\n      \"stop_timestamp\": 9128,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash the chopping board and knife\",\n          \"start_timestamp\": 8980,\n          \"stop_timestamp\": 9128\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handle onions\",\n      \"start_timestamp\": 9330,\n      \"stop_timestamp\": 13002,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Open polythene bag and cut the onion\",\n          \"start_timestamp\": 9330,\n          \"stop_timestamp\": 11983\n        },\n        {\n          \"secondary_subgoal\": \"Finish cutting and adjust the camera\",\n          \"start_timestamp\": 11963,\n          \"stop_timestamp\": 13002\n        }\n      ]\n    }\n  ]\n}\n```\n\nThis structure follows the instructions on segmenting the actions temporally into clips and sub-clips based on their subgoals and secondary subgoals. The timestamps are retained as provided, ensuring detailed descriptions connect to the relevant essential objects."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4078,
+        "completion_tokens": 722,
+        "total_tokens": 4800
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

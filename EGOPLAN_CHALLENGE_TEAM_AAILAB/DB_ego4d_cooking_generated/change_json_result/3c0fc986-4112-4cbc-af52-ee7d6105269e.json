@@ -1,0 +1,162 @@
+{
+    "overall_goal": "Wash and store kitchen utensils and clean the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Prepare cleaning materials and apply soap.",
+            "start_timestamp": "0",
+            "stop_timestamp": "342",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Locate and turn on faucet",
+                    "start_timestamp": "72",
+                    "stop_timestamp": "103"
+                },
+                {
+                    "secondary_subgoal": "Pick and rinse dish cloth",
+                    "start_timestamp": "134",
+                    "stop_timestamp": "235"
+                },
+                {
+                    "secondary_subgoal": "Pick and apply washing liquid",
+                    "start_timestamp": "235",
+                    "stop_timestamp": "314"
+                },
+                {
+                    "secondary_subgoal": "Return washing liquid and turn off faucet",
+                    "start_timestamp": "314",
+                    "stop_timestamp": "342"
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash various kitchen utensils",
+            "start_timestamp": "342",
+            "stop_timestamp": "2481",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash dish cloth and bowl",
+                    "start_timestamp": "342",
+                    "stop_timestamp": "922"
+                },
+                {
+                    "secondary_subgoal": "Wash bowl multiple times",
+                    "start_timestamp": "944",
+                    "stop_timestamp": "1111"
+                },
+                {
+                    "secondary_subgoal": "Pick and wash bowl again",
+                    "start_timestamp": "1111",
+                    "stop_timestamp": "1126"
+                },
+                {
+                    "secondary_subgoal": "Pick and wash chop sticks",
+                    "start_timestamp": "1126",
+                    "stop_timestamp": "1265"
+                },
+                {
+                    "secondary_subgoal": "Wash and drop chop sticks, pick and wash pan",
+                    "start_timestamp": "1265",
+                    "stop_timestamp": "1696"
+                },
+                {
+                    "secondary_subgoal": "Put pan in the sink, wash and drop chop sticks",
+                    "start_timestamp": "1696",
+                    "stop_timestamp": "1811"
+                },
+                {
+                    "secondary_subgoal": "Pick and wash chop sticks again",
+                    "start_timestamp": "1811",
+                    "stop_timestamp": "1948"
+                },
+                {
+                    "secondary_subgoal": "Pick and wash plate",
+                    "start_timestamp": "1948",
+                    "stop_timestamp": "2481"
+                }
+            ]
+        },
+        {
+            "subgoal": "Rinse, squeeze, and return dish cloth",
+            "start_timestamp": "2509",
+            "stop_timestamp": "2952",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse dish cloth and faucet",
+                    "start_timestamp": "2509",
+                    "stop_timestamp": "2890"
+                },
+                {
+                    "secondary_subgoal": "Squeeze water and return dish cloth",
+                    "start_timestamp": "2890",
+                    "stop_timestamp": "2952"
+                }
+            ]
+        },
+        {
+            "subgoal": "Rinse and put away utensils",
+            "start_timestamp": "2994",
+            "stop_timestamp": "4447",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse and rack multiple bowls and plates",
+                    "start_timestamp": "2994",
+                    "stop_timestamp": "4274"
+                },
+                {
+                    "secondary_subgoal": "Rinse and rack plates, and turn off faucet",
+                    "start_timestamp": "4274",
+                    "stop_timestamp": "4447"
+                }
+            ]
+        },
+        {
+            "subgoal": "Dry and store items including egg shells",
+            "start_timestamp": "4616",
+            "stop_timestamp": "6743",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse and dry egg shells, and store them",
+                    "start_timestamp": "4616",
+                    "stop_timestamp": "5050"
+                },
+                {
+                    "secondary_subgoal": "Pick and dry chop sticks, bowl, cup, plate, and kitchen towel",
+                    "start_timestamp": "5050",
+                    "stop_timestamp": "6743"
+                }
+            ]
+        },
+        {
+            "subgoal": "Dry pan and tidy up kitchen",
+            "start_timestamp": "6768",
+            "stop_timestamp": "8332",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Dry pan and store it",
+                    "start_timestamp": "6768",
+                    "stop_timestamp": "7012"
+                },
+                {
+                    "secondary_subgoal": "Put kitchen towel on hook and pick tray",
+                    "start_timestamp": "7012",
+                    "stop_timestamp": "7202"
+                },
+                {
+                    "secondary_subgoal": "Drain and dry tray, return it, and dry sink",
+                    "start_timestamp": "7202",
+                    "stop_timestamp": "7809"
+                },
+                {
+                    "secondary_subgoal": "Spread kitchen towel on sink and open cupboard",
+                    "start_timestamp": "7809",
+                    "stop_timestamp": "8037"
+                },
+                {
+                    "secondary_subgoal": "Pick, return, and arrange utensils in cupboard, close cupboard and look around sink area",
+                    "start_timestamp": "8037",
+                    "stop_timestamp": "8332"
+                }
+            ]
+        }
+    ]
+}

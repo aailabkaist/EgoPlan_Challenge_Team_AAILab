@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efXNWoAwuxQ4DB5J7eonr1NlftUI",
+    "object": "chat.completion",
+    "created": 1719479817,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Clean cooking utensils and work area after preparing food.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Add salt to a dish.\",\n      \"start_timestamp\": 20,\n      \"stop_timestamp\": 383,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick up and open salt package.\",\n          \"start_timestamp\": 20,\n          \"stop_timestamp\": 136\n        },\n        {\n          \"secondary_subgoal\": \"Pour salt into the dish and store the package.\",\n          \"start_timestamp\": 136,\n          \"stop_timestamp\": 266\n        },\n        {\n          \"secondary_subgoal\": \"Position and handle the dish.\",\n          \"start_timestamp\": 266,\n          \"stop_timestamp\": 383\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean hands and workspace.\",\n      \"start_timestamp\": 403,\n      \"stop_timestamp\": 554,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Rinse hands and washing cloth.\",\n          \"start_timestamp\": 403,\n          \"stop_timestamp\": 531\n        },\n        {\n          \"secondary_subgoal\": \"Put down washing cloth.\",\n          \"start_timestamp\": 531,\n          \"stop_timestamp\": 554\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Wash various kitchen utensils and chop board.\",\n      \"start_timestamp\": 554,\n      \"stop_timestamp\": 1975,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handle soap and plate.\",\n          \"start_timestamp\": 554,\n          \"stop_timestamp\": 634\n        },\n        {\n          \"secondary_subgoal\": \"Handle soap and cooking spoon.\",\n          \"start_timestamp\": 634,\n          \"stop_timestamp\": 781\n        },\n        {\n          \"secondary_subgoal\": \"Handle soap and pan.\",\n          \"start_timestamp\": 781,\n          \"stop_timestamp\": 934\n        },\n        {\n          \"secondary_subgoal\": \"Wash the pan.\",\n          \"start_timestamp\": 963,\n          \"stop_timestamp\": 1117\n        },\n        {\n          \"secondary_subgoal\": \"Wash the cooking spoon.\",\n          \"start_timestamp\": 1137,\n          \"stop_timestamp\": 1251\n        },\n        {\n          \"secondary_subgoal\": \"Wash the chop board.\",\n          \"start_timestamp\": 1344,\n          \"stop_timestamp\": 1565\n        },\n        {\n          \"secondary_subgoal\": \"Rinse and store utensils.\",\n          \"start_timestamp\": 1572,\n          \"stop_timestamp\": 1975\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Rinse and store the cooking pan.\",\n      \"start_timestamp\": 1975,\n      \"stop_timestamp\": 2256,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Rinse, wash, and store the pan.\",\n          \"start_timestamp\": 1975,\n          \"stop_timestamp\": 2256\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handle final steps and move hands around.\",\n      \"start_timestamp\": 2256,\n      \"stop_timestamp\": 2385,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Close tap and shake hands.\",\n          \"start_timestamp\": 2256,\n          \"stop_timestamp\": 2285\n        },\n        {\n          \"secondary_subgoal\": \"Move hands around.\",\n          \"start_timestamp\": 2285,\n          \"stop_timestamp\": 2385\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 862,
+        "completion_tokens": 753,
+        "total_tokens": 1615
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

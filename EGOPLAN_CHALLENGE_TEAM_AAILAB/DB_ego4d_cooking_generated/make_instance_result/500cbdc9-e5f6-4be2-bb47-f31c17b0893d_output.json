@@ -1,0 +1,577 @@
+[
+    {
+        "task_goal": "Cutting bananas and initial kitchen preparations",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around the room",
+                "start_frame": -1,
+                "stop_frame": 61
+            },
+            {
+                "narration_text": "#C C lowers the hand",
+                "start_frame": 61,
+                "stop_frame": 83
+            },
+            {
+                "narration_text": "#C C walks around the room",
+                "start_frame": 83,
+                "stop_frame": 285
+            },
+            {
+                "narration_text": "#C C interacts with the person P",
+                "start_frame": 285,
+                "stop_frame": 353
+            },
+            {
+                "narration_text": "#C C walks around the room",
+                "start_frame": 353,
+                "stop_frame": 613
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking around the room",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around the room",
+                "start_frame": -1,
+                "stop_frame": 61
+            },
+            {
+                "narration_text": "#C C lowers the hand",
+                "start_frame": 61,
+                "stop_frame": 83
+            },
+            {
+                "narration_text": "#C C walks around the room",
+                "start_frame": 83,
+                "stop_frame": 285
+            }
+        ]
+    },
+    {
+        "task_goal": "Lowering the hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C lowers the hand",
+                "start_frame": 61,
+                "stop_frame": 83
+            },
+            {
+                "narration_text": "#C C walks around the room",
+                "start_frame": 83,
+                "stop_frame": 285
+            },
+            {
+                "narration_text": "#C C interacts with the person P",
+                "start_frame": 285,
+                "stop_frame": 353
+            }
+        ]
+    },
+    {
+        "task_goal": "Cutting and washing bananas",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around the room",
+                "start_frame": 353,
+                "stop_frame": 613
+            },
+            {
+                "narration_text": "#C C cuts the bananas",
+                "start_frame": 613,
+                "stop_frame": 988
+            },
+            {
+                "narration_text": "#C C holds the clothe",
+                "start_frame": 988,
+                "stop_frame": 1118
+            },
+            {
+                "narration_text": "#C C picks the knife",
+                "start_frame": 1118,
+                "stop_frame": 1138
+            },
+            {
+                "narration_text": "#C C picks the bananas from the bowl",
+                "start_frame": 1138,
+                "stop_frame": 1173
+            },
+            {
+                "narration_text": "#C C cuts the bananas",
+                "start_frame": 1173,
+                "stop_frame": 1256
+            },
+            {
+                "narration_text": "#C C picks the banana",
+                "start_frame": 1256,
+                "stop_frame": 1325
+            },
+            {
+                "narration_text": "#C C cuts the banana",
+                "start_frame": 1325,
+                "stop_frame": 2013
+            },
+            {
+                "narration_text": "#C C puts the knife on the table",
+                "start_frame": 2013,
+                "stop_frame": 2034
+            },
+            {
+                "narration_text": "#C C picks the bowl with bananas",
+                "start_frame": 2034,
+                "stop_frame": 2075
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 2075,
+                "stop_frame": 2088
+            },
+            {
+                "narration_text": "#C C puts water into the bowl",
+                "start_frame": 2088,
+                "stop_frame": 2110
+            },
+            {
+                "narration_text": "#C C washes the bananas",
+                "start_frame": 2110,
+                "stop_frame": 2194
+            },
+            {
+                "narration_text": "#C C rinses the hand",
+                "start_frame": 2194,
+                "stop_frame": 2250
+            },
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 2250,
+                "stop_frame": 2286
+            },
+            {
+                "narration_text": "#C C returns the bowl with bananas",
+                "start_frame": 2286,
+                "stop_frame": 2329
+            },
+            {
+                "narration_text": "#C C raises the hand",
+                "start_frame": 2329,
+                "stop_frame": 2435
+            }
+        ]
+    },
+    {
+        "task_goal": "Cutting bananas",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around the room",
+                "start_frame": 353,
+                "stop_frame": 613
+            },
+            {
+                "narration_text": "#C C cuts the bananas",
+                "start_frame": 613,
+                "stop_frame": 988
+            },
+            {
+                "narration_text": "#C C holds the clothe",
+                "start_frame": 988,
+                "stop_frame": 1118
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing bananas",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the bowl with bananas",
+                "start_frame": 2034,
+                "stop_frame": 2075
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 2075,
+                "stop_frame": 2088
+            },
+            {
+                "narration_text": "#C C puts water into the bowl",
+                "start_frame": 2088,
+                "stop_frame": 2110
+            },
+            {
+                "narration_text": "#C C washes the bananas",
+                "start_frame": 2110,
+                "stop_frame": 2194
+            },
+            {
+                "narration_text": "#C C rinses the hand",
+                "start_frame": 2194,
+                "stop_frame": 2250
+            },
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 2250,
+                "stop_frame": 2286
+            },
+            {
+                "narration_text": "#C C returns the bowl with bananas",
+                "start_frame": 2286,
+                "stop_frame": 2329
+            },
+            {
+                "narration_text": "#C C raises the hand",
+                "start_frame": 2329,
+                "stop_frame": 2435
+            }
+        ]
+    },
+    {
+        "task_goal": "Preparing to grind coconut",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the coconut from the table",
+                "start_frame": 3471,
+                "stop_frame": 3499
+            },
+            {
+                "narration_text": "#C C carries the coconut",
+                "start_frame": 3499,
+                "stop_frame": 3591
+            },
+            {
+                "narration_text": "#C C grinds the coconut",
+                "start_frame": 3591,
+                "stop_frame": 3769
+            },
+            {
+                "narration_text": "#C C raises the hand",
+                "start_frame": 3769,
+                "stop_frame": 3859
+            },
+            {
+                "narration_text": "#C C grinds the coconut",
+                "start_frame": 3859,
+                "stop_frame": 4302
+            },
+            {
+                "narration_text": "#C C returns the coconut",
+                "start_frame": 4302,
+                "stop_frame": 4328
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 4328,
+                "stop_frame": 4547
+            },
+            {
+                "narration_text": "#C C picks the coconut",
+                "start_frame": 4547,
+                "stop_frame": 4587
+            },
+            {
+                "narration_text": "#C C holds the coconut",
+                "start_frame": 4587,
+                "stop_frame": 4656
+            },
+            {
+                "narration_text": "#C C grinds the coconut",
+                "start_frame": 4656,
+                "stop_frame": 4756
+            },
+            {
+                "narration_text": "#C C holds the coconut",
+                "start_frame": 4756,
+                "stop_frame": 4782
+            },
+            {
+                "narration_text": "#C C returns the coconut",
+                "start_frame": 4782,
+                "stop_frame": 4790
+            },
+            {
+                "narration_text": "#C C clamps the hands",
+                "start_frame": 4790,
+                "stop_frame": 4853
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 4853,
+                "stop_frame": 5335
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the coconut from the table",
+                "start_frame": 3471,
+                "stop_frame": 3499
+            },
+            {
+                "narration_text": "#C C carries the coconut",
+                "start_frame": 3499,
+                "stop_frame": 3591
+            },
+            {
+                "narration_text": "#C C grinds the coconut",
+                "start_frame": 3591,
+                "stop_frame": 3769
+            },
+            {
+                "narration_text": "#C C raises the hand",
+                "start_frame": 3769,
+                "stop_frame": 3859
+            }
+        ]
+    },
+    {
+        "task_goal": "Holding coconut",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the coconut",
+                "start_frame": 4547,
+                "stop_frame": 4587
+            },
+            {
+                "narration_text": "#C C holds the coconut",
+                "start_frame": 4587,
+                "stop_frame": 4656
+            },
+            {
+                "narration_text": "#C C grinds the coconut",
+                "start_frame": 4656,
+                "stop_frame": 4756
+            },
+            {
+                "narration_text": "#C C holds the coconut",
+                "start_frame": 4756,
+                "stop_frame": 4782
+            }
+        ]
+    },
+    {
+        "task_goal": "Grinding coconut",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the coconut",
+                "start_frame": 5335,
+                "stop_frame": 5363
+            },
+            {
+                "narration_text": "#C C grinds the coconut",
+                "start_frame": 5363,
+                "stop_frame": 6378
+            }
+        ]
+    },
+    {
+        "task_goal": "Touching coconut",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C touches the coconut",
+                "start_frame": 6378,
+                "stop_frame": 6402
+            },
+            {
+                "narration_text": "#C C rotates the bowl",
+                "start_frame": 6402,
+                "stop_frame": 6435
+            },
+            {
+                "narration_text": "#C C grinds the coconut",
+                "start_frame": 6435,
+                "stop_frame": 6507
+            }
+        ]
+    },
+    {
+        "task_goal": "Rotating bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C rotates the bowl",
+                "start_frame": 6610,
+                "stop_frame": 6663
+            },
+            {
+                "narration_text": "#C C grinds the coconut",
+                "start_frame": 6663,
+                "stop_frame": 7075
+            },
+            {
+                "narration_text": "#C C raises the hand",
+                "start_frame": 7075,
+                "stop_frame": 7136
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking and interacting with utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Picks up a lid from a cooking pot",
+                "start_frame": 11613,
+                "stop_frame": 11687
+            },
+            {
+                "narration_text": "#C C Puts down a lid on the counter",
+                "start_frame": 11687,
+                "stop_frame": 11725
+            },
+            {
+                "narration_text": "#C C Picks up a lid from a cooking pot",
+                "start_frame": 11725,
+                "stop_frame": 11819
+            },
+            {
+                "narration_text": "#C C Walks around a room",
+                "start_frame": 11819,
+                "stop_frame": 11892
+            },
+            {
+                "narration_text": "#C C Puts down a lid on a table",
+                "start_frame": 11892,
+                "stop_frame": 11918
+            },
+            {
+                "narration_text": "#C C Walks around a room",
+                "start_frame": 11918,
+                "stop_frame": 12069
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking and washing dish",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Picks a dish",
+                "start_frame": 17315,
+                "stop_frame": 17391
+            },
+            {
+                "narration_text": "#C C Turns on the tap",
+                "start_frame": 17391,
+                "stop_frame": 17431
+            },
+            {
+                "narration_text": "#C C Washes the dish",
+                "start_frame": 17431,
+                "stop_frame": 17716
+            },
+            {
+                "narration_text": "#C C Puts the dish on the utensils rack",
+                "start_frame": 17716,
+                "stop_frame": 17759
+            },
+            {
+                "narration_text": "#C C Walks around the house",
+                "start_frame": 17759,
+                "stop_frame": 17913
+            }
+        ]
+    },
+    {
+        "task_goal": "Peeling yam",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Picks a yam from the table",
+                "start_frame": 18069,
+                "stop_frame": 18104
+            },
+            {
+                "narration_text": "#C C Peels the yam with a knife",
+                "start_frame": 18104,
+                "stop_frame": 21331
+            },
+            {
+                "narration_text": "#C C Takes the yam",
+                "start_frame": 21331,
+                "stop_frame": 21502
+            },
+            {
+                "narration_text": "#C C Picks a dish",
+                "start_frame": 21502,
+                "stop_frame": 21563
+            }
+        ]
+    },
+    {
+        "task_goal": "Adding water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Turns on the tap",
+                "start_frame": 24666,
+                "stop_frame": 24678
+            },
+            {
+                "narration_text": "#C C Puts water in the cooking pot",
+                "start_frame": 24678,
+                "stop_frame": 24727
+            },
+            {
+                "narration_text": "#C C Pours water to the sink",
+                "start_frame": 24727,
+                "stop_frame": 24754
+            },
+            {
+                "narration_text": "#C C transfers the potatoes from the saucepan to the frying pan",
+                "start_frame": 24754,
+                "stop_frame": 25113
+            }
+        ]
+    },
+    {
+        "task_goal": "Preparing stove and adding cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks to the kitchen",
+                "start_frame": 26939,
+                "stop_frame": 27036
+            },
+            {
+                "narration_text": "#C C covers the frying pan with the lid",
+                "start_frame": 27036,
+                "stop_frame": 27077
+            },
+            {
+                "narration_text": "#C C picks the gas lighter from the counter top",
+                "start_frame": 27077,
+                "stop_frame": 27095
+            },
+            {
+                "narration_text": "#C C lights the stove with the gas lighter",
+                "start_frame": 27095,
+                "stop_frame": 27183
+            },
+            {
+                "narration_text": "#C C puts the gas lighter on the counter top",
+                "start_frame": 27183,
+                "stop_frame": 27203
+            }
+        ]
+    },
+    {
+        "task_goal": "Getting mango from fridge and washing",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 33094,
+                "stop_frame": 33150
+            },
+            {
+                "narration_text": "#C C picks a sachet of dry mango",
+                "start_frame": 33150,
+                "stop_frame": 33255
+            },
+            {
+                "narration_text": "#C C puts a sachet of dry mango in the fridge",
+                "start_frame": 33255,
+                "stop_frame": 33333
+            },
+            {
+                "narration_text": "#C C picks a sachet of dry mango",
+                "start_frame": 33333,
+                "stop_frame": 33412
+            }
+        ]
+    }
+]

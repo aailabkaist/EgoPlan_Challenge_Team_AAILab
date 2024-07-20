@@ -1,0 +1,125 @@
+{
+    "overall_goal": "Prepare various dishes by handling different food items and utensils.",
+    "clips": [
+        {
+            "subgoal": "Retrieve and prepare ingredients for cooking",
+            "start_timestamp": 70,
+            "stop_timestamp": 840,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve ingredients from the fridge and drawers",
+                    "start_timestamp": 70,
+                    "stop_timestamp": 509
+                },
+                {
+                    "secondary_subgoal": "Switch bottles and close fridge",
+                    "start_timestamp": 652,
+                    "stop_timestamp": 840
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare meat for cooking",
+            "start_timestamp": 840,
+            "stop_timestamp": 7369,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and wash meat and plate",
+                    "start_timestamp": 840,
+                    "stop_timestamp": 1996
+                },
+                {
+                    "secondary_subgoal": "Prepare and store meat",
+                    "start_timestamp": 1996,
+                    "stop_timestamp": 3570
+                },
+                {
+                    "secondary_subgoal": "Add ingredients to meat",
+                    "start_timestamp": 3570,
+                    "stop_timestamp": 4606
+                },
+                {
+                    "secondary_subgoal": "Separate meat and clean hands",
+                    "start_timestamp": 4606,
+                    "stop_timestamp": 5992
+                },
+                {
+                    "secondary_subgoal": "Add more ingredients and mix meat",
+                    "start_timestamp": 5992,
+                    "stop_timestamp": 7374
+                },
+                {
+                    "secondary_subgoal": "Clean up and store vinegar",
+                    "start_timestamp": 7443,
+                    "stop_timestamp": 7594
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare vegetables for salad",
+            "start_timestamp": 7594,
+            "stop_timestamp": 7374,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Chop and wash cucumber",
+                    "start_timestamp": 7594,
+                    "stop_timestamp": 8391
+                },
+                {
+                    "secondary_subgoal": "Prepare spoon and chop cucumber further",
+                    "start_timestamp": 9667,
+                    "stop_timestamp": 11318
+                },
+                {
+                    "secondary_subgoal": "Mix cucumber with salt",
+                    "start_timestamp": 12627,
+                    "stop_timestamp": 13250
+                },
+                {
+                    "secondary_subgoal": "Clean up after cucumber preparation",
+                    "start_timestamp": 13380,
+                    "stop_timestamp": 13584
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare zucchini",
+            "start_timestamp": 13969,
+            "stop_timestamp": 19993,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean and store zucchini",
+                    "start_timestamp": 14713,
+                    "stop_timestamp": 14991
+                },
+                {
+                    "secondary_subgoal": "Cut zucchini and prepare grill",
+                    "start_timestamp": 17119,
+                    "stop_timestamp": 17952
+                },
+                {
+                    "secondary_subgoal": "Clean up and prepare filter for cheese",
+                    "start_timestamp": 18142,
+                    "stop_timestamp": 18907
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cheese",
+            "start_timestamp": 19583,
+            "stop_timestamp": 21332,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and cut cheese",
+                    "start_timestamp": 19313,
+                    "stop_timestamp": 20417
+                },
+                {
+                    "secondary_subgoal": "Put cheese in filter and cut further",
+                    "start_timestamp": 21123,
+                    "stop_timestamp": 21332
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfOP6d2V7V3hvGfzTjOR5CG3oQ3C",
+    "object": "chat.completion",
+    "created": 1719240933,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook food, including washing, cutting, cooking ingredients, and cleaning up the kitchen afterward.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Clean the cooking pot and prepare it for cooking\",\n      \"start_timestamp\": 72,\n      \"stop_timestamp\": 859,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Move the pot to the sink and start cleaning\",\n          \"start_timestamp\": 72,\n          \"stop_timestamp\": 233\n        },\n        {\n          \"secondary_subgoal\": \"Continue cleaning the pot, adjust the camera, and pour out the water\",\n          \"start_timestamp\": 233,\n          \"stop_timestamp\": 439\n        },\n        {\n          \"secondary_subgoal\": \"Finish cleaning the pot and place it on the cooker\",\n          \"start_timestamp\": 439,\n          \"stop_timestamp\": 788\n        },\n        {\n          \"secondary_subgoal\": \"Turn on the cooker and cover the pot\",\n          \"start_timestamp\": 788,\n          \"stop_timestamp\": 859\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Gather and prepare ingredients\",\n      \"start_timestamp\": 944,\n      \"stop_timestamp\": 8679,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gather ingredients from the fridge and place them on the counter\",\n          \"start_timestamp\": 944,\n          \"stop_timestamp\": 1268\n        },\n        {\n          \"secondary_subgoal\": \"Open fridge and retrieve additional items\",\n          \"start_timestamp\": 1268,\n          \"stop_timestamp\": 2022\n        },\n        {\n          \"secondary_subgoal\": \"Continue retrieving and placing ingredients, and search around the kitchen\",\n          \"start_timestamp\": 2022,\n          \"stop_timestamp\": 3482\n        },\n        {\n          \"secondary_subgoal\": \"Move ingredients and place them appropriately to start preparing them\",\n          \"start_timestamp\": 3482,\n          \"stop_timestamp\": 4377\n        },\n        {\n          \"secondary_subgoal\": \"Begin cutting vegetables (tomatoes, cucumber) on the chopping board\",\n          \"start_timestamp\": 4377,\n          \"stop_timestamp\": 8679\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook the prepared ingredients\",\n      \"start_timestamp\": 8679,\n      \"stop_timestamp\": 8847,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turn on the cooker and place the pot on it\",\n          \"start_timestamp\": 8679,\n          \"stop_timestamp\": 8847\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up the kitchen\",\n      \"start_timestamp\": 8847,\n      \"stop_timestamp\": 21248,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash the pan and place it back on the cooker\",\n          \"start_timestamp\": 8847,\n          \"stop_timestamp\": 10325\n        },\n        {\n          \"secondary_subgoal\": \"Cut and prepare additional ingredients (meat, pasta), mix ingredients in bowl\",\n          \"start_timestamp\": 10325,\n          \"stop_timestamp\": 18095\n        },\n        {\n          \"secondary_subgoal\": \"Finish washing the pasta and turn off the stove\",\n          \"start_timestamp\": 18095,\n          \"stop_timestamp\": 18800\n        },\n        {\n          \"secondary_subgoal\": \"Strain the pasta and place it on a plate\",\n          \"start_timestamp\": 18800,\n          \"stop_timestamp\": 19354\n        },\n        {\n          \"secondary_subgoal\": \"Drain and rinse the food, then clean the kitchen tools\",\n          \"start_timestamp\": 19354,\n          \"stop_timestamp\": 21248\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6024,
+        "completion_tokens": 807,
+        "total_tokens": 6831
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

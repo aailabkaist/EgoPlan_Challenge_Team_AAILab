@@ -1,0 +1,562 @@
+[
+    {
+        "task_goal": "Pick and apply soap to the washing sponge.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C switches on the lights.",
+                "start_frame": 108,
+                "stop_frame": 152
+            },
+            {
+                "narration_text": "#C C picks a washing sponge from a sponge holder.",
+                "start_frame": 152,
+                "stop_frame": 181
+            },
+            {
+                "narration_text": "#C C picks a soap bottle on a kitchen soap tray.",
+                "start_frame": 181,
+                "stop_frame": 206
+            },
+            {
+                "narration_text": "#C C applies soap to the washing sponge.",
+                "start_frame": 206,
+                "stop_frame": 234
+            },
+            {
+                "narration_text": "#C C puts the soap bottle on the kitchen soap tray.",
+                "start_frame": 234,
+                "stop_frame": 273
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the spoon.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the soap bottle on the kitchen soap tray.",
+                "start_frame": 234,
+                "stop_frame": 273
+            },
+            {
+                "narration_text": "#C C picks a spoon in a bowl.",
+                "start_frame": 273,
+                "stop_frame": 290
+            },
+            {
+                "narration_text": "#C C washes the spoon with the washing sponge.",
+                "start_frame": 290,
+                "stop_frame": 340
+            },
+            {
+                "narration_text": "#C C puts the spoon in the sink.",
+                "start_frame": 340,
+                "stop_frame": 356
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash bowls and place them in the sink or on top of each other.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the spoon in the sink.",
+                "start_frame": 340,
+                "stop_frame": 356
+            },
+            {
+                "narration_text": "#C C picks a bowl.",
+                "start_frame": 356,
+                "stop_frame": 364
+            },
+            {
+                "narration_text": "#C C pours water in the sink from the bowl.",
+                "start_frame": 364,
+                "stop_frame": 376
+            },
+            {
+                "narration_text": "#C C washes the bowl with the washing sponge.",
+                "start_frame": 376,
+                "stop_frame": 455
+            },
+            {
+                "narration_text": "#C C puts the bowl in the sink.",
+                "start_frame": 455,
+                "stop_frame": 475
+            },
+            {
+                "narration_text": "#C C picks a bowl.",
+                "start_frame": 475,
+                "stop_frame": 486
+            },
+            {
+                "narration_text": "#C C washes the bowl with the washing sponge.",
+                "start_frame": 486,
+                "stop_frame": 555
+            },
+            {
+                "narration_text": "#C C puts the bowl on top of the other bowl.",
+                "start_frame": 555,
+                "stop_frame": 571
+            },
+            {
+                "narration_text": "#C C picks a bowl.",
+                "start_frame": 571,
+                "stop_frame": 583
+            },
+            {
+                "narration_text": "#C C washes the bowl with the washing sponge.",
+                "start_frame": 583,
+                "stop_frame": 658
+            },
+            {
+                "narration_text": "#C C puts the bowl on top of the other bowls.",
+                "start_frame": 658,
+                "stop_frame": 665
+            },
+            {
+                "narration_text": "#C C picks a bowl.",
+                "start_frame": 665,
+                "stop_frame": 673
+            },
+            {
+                "narration_text": "#C C pours water in the sink from the bowl.",
+                "start_frame": 673,
+                "stop_frame": 688
+            },
+            {
+                "narration_text": "#C C washes the bowl with the washing sponge.",
+                "start_frame": 688,
+                "stop_frame": 743
+            },
+            {
+                "narration_text": "#C C puts the bowl in the sink.",
+                "start_frame": 743,
+                "stop_frame": 763
+            },
+            {
+                "narration_text": "#C C picks a cup in the sink.",
+                "start_frame": 763,
+                "stop_frame": 780
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash a cup.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the bowl in the sink.",
+                "start_frame": 743,
+                "stop_frame": 763
+            },
+            {
+                "narration_text": "#C C picks a cup in the sink.",
+                "start_frame": 763,
+                "stop_frame": 780
+            },
+            {
+                "narration_text": "#C C washes the cup with the washing sponge.",
+                "start_frame": 780,
+                "stop_frame": 901
+            },
+            {
+                "narration_text": "#C C picks a chopping stick.",
+                "start_frame": 901,
+                "stop_frame": 923
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash chopping sticks.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a chopping stick.",
+                "start_frame": 901,
+                "stop_frame": 923
+            },
+            {
+                "narration_text": "#C C picks another chopping stick.",
+                "start_frame": 923,
+                "stop_frame": 943
+            },
+            {
+                "narration_text": "#C C holds the chopping sticks with the left hand.",
+                "start_frame": 943,
+                "stop_frame": 955
+            },
+            {
+                "narration_text": "#C C washes the chopping sticks with the washing sponge.",
+                "start_frame": 955,
+                "stop_frame": 1004
+            },
+            {
+                "narration_text": "#C C puts the washing sponge in the sponge holder.",
+                "start_frame": 1004,
+                "stop_frame": 1027
+            },
+            {
+                "narration_text": "#C C turns on a sink tap.",
+                "start_frame": 1027,
+                "stop_frame": 1041
+            },
+            {
+                "narration_text": "#C C rinses the chopping sticks.",
+                "start_frame": 1041,
+                "stop_frame": 1094
+            },
+            {
+                "narration_text": "#C C picks a bowl.",
+                "start_frame": 1094,
+                "stop_frame": 1130
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean hands and put away the wash cloth.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C shakes both hands.",
+                "start_frame": 2146,
+                "stop_frame": 2213
+            },
+            {
+                "narration_text": "#C C picks a wash cloth on the counter.",
+                "start_frame": 2213,
+                "stop_frame": 2256
+            },
+            {
+                "narration_text": "#C C wipes hands using the wash cloth.",
+                "start_frame": 2256,
+                "stop_frame": 2360
+            },
+            {
+                "narration_text": "#C C puts the wash cloth on the counter.",
+                "start_frame": 2360,
+                "stop_frame": 2393
+            },
+            {
+                "narration_text": "#C C walks towards a fridge.",
+                "start_frame": 2393,
+                "stop_frame": 2456
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve rice balls from the fridge.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks towards a fridge.",
+                "start_frame": 2393,
+                "stop_frame": 2456
+            },
+            {
+                "narration_text": "#C C opens a fridge drawer.",
+                "start_frame": 2456,
+                "stop_frame": 2494
+            },
+            {
+                "narration_text": "#C C searches in the fridge drawer.",
+                "start_frame": 2494,
+                "stop_frame": 2540
+            },
+            {
+                "narration_text": "#C C picks a covered rice ball in the fridge drawer.",
+                "start_frame": 2540,
+                "stop_frame": 2571
+            },
+            {
+                "narration_text": "#C C holds the rice ball with the left hand.",
+                "start_frame": 2571,
+                "stop_frame": 2585
+            },
+            {
+                "narration_text": "#C C searches in the fridge drawer.",
+                "start_frame": 2585,
+                "stop_frame": 2689
+            },
+            {
+                "narration_text": "#C C picks another covered rice ball in the fridge drawer using the right hand.",
+                "start_frame": 2689,
+                "stop_frame": 2696
+            },
+            {
+                "narration_text": "#C C compares the rice balls.",
+                "start_frame": 2696,
+                "stop_frame": 2725
+            },
+            {
+                "narration_text": "#C C directs the left hand rice ball towards the drawer.",
+                "start_frame": 2725,
+                "stop_frame": 2773
+            },
+            {
+                "narration_text": "#C C puts the right hand rice ball in the drawer.",
+                "start_frame": 2773,
+                "stop_frame": 2773
+            },
+            {
+                "narration_text": "#C C lifts the left hand rice ball.",
+                "start_frame": 2773,
+                "stop_frame": 2800
+            },
+            {
+                "narration_text": "#C C closes the fridge drawer.",
+                "start_frame": 2800,
+                "stop_frame": 2844
+            },
+            {
+                "narration_text": "#C C walks towards a microwave.",
+                "start_frame": 2844,
+                "stop_frame": 2917
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare microwave for heating a rice ball.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks towards a microwave.",
+                "start_frame": 2844,
+                "stop_frame": 2917
+            },
+            {
+                "narration_text": "#C C opens the microwave.",
+                "start_frame": 2917,
+                "stop_frame": 2969
+            },
+            {
+                "narration_text": "#C C removes a plastic bowl in the microwave.",
+                "start_frame": 2969,
+                "stop_frame": 2996
+            },
+            {
+                "narration_text": "#C C puts aside the plastic bowl.",
+                "start_frame": 2996,
+                "stop_frame": 3024
+            },
+            {
+                "narration_text": "#C C picks a #unsure on the microwave.",
+                "start_frame": 3024,
+                "stop_frame": 3053
+            },
+            {
+                "narration_text": "#C C puts the #unsure in the microwave.",
+                "start_frame": 3053,
+                "stop_frame": 3071
+            },
+            {
+                "narration_text": "#C C places the rice ball on the #unsure",
+                "start_frame": 3071,
+                "stop_frame": 3108
+            }
+        ]
+    },
+    {
+        "task_goal": "Heat rice ball in the microwave.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places the rice ball on the #unsure",
+                "start_frame": 3071,
+                "stop_frame": 3108
+            },
+            {
+                "narration_text": "#C C closes the microwave.",
+                "start_frame": 3108,
+                "stop_frame": 3144
+            },
+            {
+                "narration_text": "#C C presses a microwave button.",
+                "start_frame": 3144,
+                "stop_frame": 3184
+            },
+            {
+                "narration_text": "#C C sets time on the microwave.",
+                "start_frame": 3184,
+                "stop_frame": 3299
+            },
+            {
+                "narration_text": "#C C starts the microwave.",
+                "start_frame": 3299,
+                "stop_frame": 3329
+            },
+            {
+                "narration_text": "#C C picks the plastic bowl.",
+                "start_frame": 3329,
+                "stop_frame": 3367
+            },
+            {
+                "narration_text": "#C C puts the plastic bowl on top of the microwave.",
+                "start_frame": 3367,
+                "stop_frame": 3406
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut and prepare meat.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C uncovers the packed meat.",
+                "start_frame": 7101,
+                "stop_frame": 7185
+            },
+            {
+                "narration_text": "#C C picks a piece of meat from the container.",
+                "start_frame": 7185,
+                "stop_frame": 7271
+            },
+            {
+                "narration_text": "#C C drops the piece of meat on the chopping board.",
+                "start_frame": 7271,
+                "stop_frame": 7287
+            },
+            {
+                "narration_text": "#C C adjusts apiece of meat in the container.",
+                "start_frame": 7287,
+                "stop_frame": 7303
+            },
+            {
+                "narration_text": "#C C covers pieces of meat in the container.",
+                "start_frame": 7303,
+                "stop_frame": 7426
+            },
+            {
+                "narration_text": "#C C puts the packed meat on the counter.",
+                "start_frame": 7426,
+                "stop_frame": 7442
+            },
+            {
+                "narration_text": "#C C picks the knife.",
+                "start_frame": 7442,
+                "stop_frame": 7458
+            },
+            {
+                "narration_text": "#C C adjusts the piece of meat on the chopping board.",
+                "start_frame": 7458,
+                "stop_frame": 7491
+            },
+            {
+                "narration_text": "#C C cuts the piece of meat with the knife.",
+                "start_frame": 7491,
+                "stop_frame": 7517
+            },
+            {
+                "narration_text": "#C C adjusts pieces of meat on the chopping board.",
+                "start_frame": 7517,
+                "stop_frame": 7538
+            },
+            {
+                "narration_text": "#C C cuts the pieces of meat with the knife.",
+                "start_frame": 7538,
+                "stop_frame": 7666
+            },
+            {
+                "narration_text": "#C C adjusts the pieces of meat on the chopping board.",
+                "start_frame": 7666,
+                "stop_frame": 7687
+            },
+            {
+                "narration_text": "#C C cuts the pieces of meat with the knife.",
+                "start_frame": 7687,
+                "stop_frame": 7859
+            },
+            {
+                "narration_text": "#C C removes meat pieces from the knife.",
+                "start_frame": 7859,
+                "stop_frame": 7945
+            },
+            {
+                "narration_text": "#C C puts the knife aside.",
+                "start_frame": 7945,
+                "stop_frame": 7977
+            },
+            {
+                "narration_text": "#C C turns on the tap.",
+                "start_frame": 7977,
+                "stop_frame": 7996
+            },
+            {
+                "narration_text": "#C C rinses the hands.",
+                "start_frame": 7996,
+                "stop_frame": 8021
+            }
+        ]
+    },
+    {
+        "task_goal": "Add additional ingredients and finish cooking in the pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C operates the electric cooker",
+                "start_frame": 17146,
+                "stop_frame": 17166
+            },
+            {
+                "narration_text": "#C C picks a bowl",
+                "start_frame": 17166,
+                "stop_frame": 17191
+            },
+            {
+                "narration_text": "#C C holds the cooking stick",
+                "start_frame": 17191,
+                "stop_frame": 17216
+            },
+            {
+                "narration_text": "#C C pours #unsure in to the pan",
+                "start_frame": 17216,
+                "stop_frame": 17292
+            },
+            {
+                "narration_text": "#C C puts the bowl in the kitchen area",
+                "start_frame": 17292,
+                "stop_frame": 17315
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 17315,
+                "stop_frame": 17721
+            },
+            {
+                "narration_text": "#C C picks #unsure",
+                "start_frame": 17721,
+                "stop_frame": 17811
+            },
+            {
+                "narration_text": "#C C opens #unsure",
+                "start_frame": 17811,
+                "stop_frame": 17856
+            },
+            {
+                "narration_text": "#C C pours #unsure in the pan",
+                "start_frame": 17856,
+                "stop_frame": 17897
+            },
+            {
+                "narration_text": "#C C puts #unsure on the kitchen area",
+                "start_frame": 17897,
+                "stop_frame": 17920
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe hands and wash up.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C washes her hands",
+                "start_frame": 21056,
+                "stop_frame": 21149
+            },
+            {
+                "narration_text": "#C C picks a bowl",
+                "start_frame": 21149,
+                "stop_frame": 21163
+            },
+            {
+                "narration_text": "#C C puts the bowl on top of the chopping board",
+                "start_frame": 21163,
+                "stop_frame": 21190
+            },
+            {
+                "narration_text": "#C C washes her hands",
+                "start_frame": 21190,
+                "stop_frame": 21290
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeInDTFhUu2nfTyqMjkKNP1fXlE7",
+    "object": "chat.completion",
+    "created": 1719475069,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare mango and potato pieces for a dish.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Peel the mangoes.\",\n      \"start_timestamp\": 14,\n      \"stop_timestamp\": 8648,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Peel mango using the knife, including necessary wipes and adjustments.\",\n          \"start_timestamp\": 14,\n          \"stop_timestamp\": 5532\n        },\n        {\n          \"secondary_subgoal\": \"Peel mango using the kitchen peeler.\",\n          \"start_timestamp\": 8648,\n          \"stop_timestamp\": 10033\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Place peeled mangoes into the grater bowl.\",\n      \"start_timestamp\": 10033,\n      \"stop_timestamp\": 8367,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and place the mangoes from the bowl to the grater bowl.\",\n          \"start_timestamp\": 10033,\n          \"stop_timestamp\": 10817\n        },\n        {\n          \"secondary_subgoal\": \"Cut and place mango pieces into the bowl.\",\n          \"start_timestamp\": 10817,\n          \"stop_timestamp\": 17006\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cut and prepare the potatoes.\",\n      \"start_timestamp\": 17006,\n      \"stop_timestamp\": 33031,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut and place potato pieces into the dish in stages.\",\n          \"start_timestamp\": 17006,\n          \"stop_timestamp\": 29752\n        },\n        {\n          \"secondary_subgoal\": \"Transfer potato pieces from the dish to the basin.\",\n          \"start_timestamp\": 29752,\n          \"stop_timestamp\": 32701\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cut remaining mango and place in the bowl.\",\n      \"start_timestamp\": 33031,\n      \"stop_timestamp\": 35616,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut mango pieces and place them in the bowl.\",\n          \"start_timestamp\": 33031,\n          \"stop_timestamp\": 34485\n        },\n        {\n          \"secondary_subgoal\": \"Cut mango, hold seed, and place seed into the pot.\",\n          \"start_timestamp\": 34485,\n          \"stop_timestamp\": 35616\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7078,
+        "completion_tokens": 527,
+        "total_tokens": 7605
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

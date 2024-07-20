@@ -1,0 +1,131 @@
+{
+    "overall_goal": "Cook a meal using broccoli, fish fillet, and rice.",
+    "clips": [
+        {
+            "subgoal": "Prepare fish fillet with foil",
+            "start_timestamp": 87,
+            "stop_timestamp": 8472,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve ingredients from drawer",
+                    "start_timestamp": 87,
+                    "stop_timestamp": 469
+                },
+                {
+                    "secondary_subgoal": "Place ingredients near chopping board",
+                    "start_timestamp": 511,
+                    "stop_timestamp": 605
+                },
+                {
+                    "secondary_subgoal": "Remove sticker from fish fillet package",
+                    "start_timestamp": 605,
+                    "stop_timestamp": 1030
+                },
+                {
+                    "secondary_subgoal": "Dispose of the sticker",
+                    "start_timestamp": 1030,
+                    "stop_timestamp": 1123
+                },
+                {
+                    "secondary_subgoal": "Retrieve foil paper",
+                    "start_timestamp": 1123,
+                    "stop_timestamp": 1403
+                },
+                {
+                    "secondary_subgoal": "Prepare chopping board and tray",
+                    "start_timestamp": 1473,
+                    "stop_timestamp": 1715
+                },
+                {
+                    "secondary_subgoal": "Prepare fish fillet",
+                    "start_timestamp": 1734,
+                    "stop_timestamp": 2588
+                },
+                {
+                    "secondary_subgoal": "Fold the foil around fish fillet",
+                    "start_timestamp": 2588,
+                    "stop_timestamp": 8472
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare broccoli",
+            "start_timestamp": 8472,
+            "stop_timestamp": 11098,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move and open thermos",
+                    "start_timestamp": 8472,
+                    "stop_timestamp": 8648
+                },
+                {
+                    "secondary_subgoal": "Fill and close thermos flask",
+                    "start_timestamp": 8648,
+                    "stop_timestamp": 9032
+                },
+                {
+                    "secondary_subgoal": "Place broccoli in cooking pot",
+                    "start_timestamp": 9125,
+                    "stop_timestamp": 9298
+                },
+                {
+                    "secondary_subgoal": "Chop broccoli on chopping board",
+                    "start_timestamp": 9343,
+                    "stop_timestamp": 10189
+                },
+                {
+                    "secondary_subgoal": "Wash broccoli",
+                    "start_timestamp": 10189,
+                    "stop_timestamp": 11303
+                },
+                {
+                    "secondary_subgoal": "Handle cooking pot and wipe hands",
+                    "start_timestamp": 11303,
+                    "stop_timestamp": 11900
+                },
+                {
+                    "secondary_subgoal": "Pour water in cooking pot and prepare thermos flask",
+                    "start_timestamp": 11900,
+                    "stop_timestamp": 12967
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare rice",
+            "start_timestamp": 12967,
+            "stop_timestamp": 20609,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open drawers and retrieve cooking items",
+                    "start_timestamp": 12967,
+                    "stop_timestamp": 13229
+                },
+                {
+                    "secondary_subgoal": "Handle phone and tin of rice",
+                    "start_timestamp": 13278,
+                    "stop_timestamp": 15183
+                },
+                {
+                    "secondary_subgoal": "Wash and measure rice",
+                    "start_timestamp": 15183,
+                    "stop_timestamp": 19147
+                },
+                {
+                    "secondary_subgoal": "Cook rice",
+                    "start_timestamp": 18847,
+                    "stop_timestamp": 18835
+                },
+                {
+                    "secondary_subgoal": "Final preparations for rice cooking",
+                    "start_timestamp": 19147,
+                    "stop_timestamp": 19376
+                },
+                {
+                    "secondary_subgoal": "Clean up and organize cooking area",
+                    "start_timestamp": 19376,
+                    "stop_timestamp": 20609
+                }
+            ]
+        }
+    ]
+}

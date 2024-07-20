@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeRE0amFwQiemJIta0I9fUEClC2R",
+    "object": "chat.completion",
+    "created": 1719475592,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Create and decorate art using beads, paste, molten flour, and sticks\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Apply paste on beads and incorporate decoration sticks\",\n      \"start_timestamp\": \"95226\",\n      \"stop_timestamp\": \"105820\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Apply paste on beads\",\n          \"start_timestamp\": \"95226\",\n          \"stop_timestamp\": \"98192\"\n        },\n        {\n          \"secondary_subgoal\": \"Prepare paste in a polythene bag\",\n          \"start_timestamp\": \"98238\",\n          \"stop_timestamp\": \"104923\"\n        },\n        {\n          \"secondary_subgoal\": \"Make art with paint using beads and decoration sticks\",\n          \"start_timestamp\": \"104923\",\n          \"stop_timestamp\": \"105820\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Use molten flour with grains and sticks\",\n      \"start_timestamp\": \"105820\",\n      \"stop_timestamp\": \"119752\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Squeeze molten flour on grains and use sticks\",\n          \"start_timestamp\": \"112035\",\n          \"stop_timestamp\": \"115831\"\n        },\n        {\n          \"secondary_subgoal\": \"Apply molten flour on the pan and adjust nylon paper\",\n          \"start_timestamp\": \"116053\",\n          \"stop_timestamp\": \"119804\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Draw and adjust decorations\",\n      \"start_timestamp\": \"121817\",\n      \"stop_timestamp\": \"127859\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Draw and adjust nylon paper\",\n          \"start_timestamp\": \"121817\",\n          \"stop_timestamp\": \"123665\"\n        },\n        {\n          \"secondary_subgoal\": \"Tie papers and interact with person X\",\n          \"start_timestamp\": \"123886\",\n          \"stop_timestamp\": \"124205\"\n        },\n        {\n          \"secondary_subgoal\": \"Continue drawing and adjusting nylon paper\",\n          \"start_timestamp\": \"124445\",\n          \"stop_timestamp\": \"127859\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Make patterns and decorations with mix from paper and sticks\",\n      \"start_timestamp\": \"128528\",\n      \"stop_timestamp\": \"149209\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Make patterns, cover and squeeze mix\",\n          \"start_timestamp\": \"128528\",\n          \"stop_timestamp\": \"136589\"\n        },\n        {\n          \"secondary_subgoal\": \"Roll nylon paper, open and close, and adjust cloth\",\n          \"start_timestamp\": \"136815\",\n          \"stop_timestamp\": \"140110\"\n        },\n        {\n          \"secondary_subgoal\": \"Make decorations, dip stick in water, and touch paper with stick\",\n          \"start_timestamp\": \"140833\",\n          \"stop_timestamp\": \"143180\"\n        },\n        {\n          \"secondary_subgoal\": \"Dips stick in water, moves the bowl, and touches the paper\",\n          \"start_timestamp\": \"143180\",\n          \"stop_timestamp\": \"143275\"\n        },\n        {\n          \"secondary_subgoal\": \"Make decorations while rolling and adjusting sticks\",\n          \"start_timestamp\": \"144077\",\n          \"stop_timestamp\": \"149209\"\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2946,
+        "completion_tokens": 715,
+        "total_tokens": 3661
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

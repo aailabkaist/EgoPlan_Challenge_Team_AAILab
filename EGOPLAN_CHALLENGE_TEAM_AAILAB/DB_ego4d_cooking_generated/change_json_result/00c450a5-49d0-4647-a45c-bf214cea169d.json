@@ -1,0 +1,221 @@
+{
+    "overall_goal": "Prepare a meal involving various ingredients and cooking processes including mixing ingredients, cooking, and arranging snacks.",
+    "clips": [
+        {
+            "subgoal": "Mixing and Preparing Ingredients",
+            "start_timestamp": 0,
+            "stop_timestamp": 28424,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Scrubbing and scooping mixture",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 781
+                },
+                {
+                    "secondary_subgoal": "Handling and shaking the pan",
+                    "start_timestamp": 605,
+                    "stop_timestamp": 811
+                },
+                {
+                    "secondary_subgoal": "Switching on the cooker",
+                    "start_timestamp": 811,
+                    "stop_timestamp": 876
+                },
+                {
+                    "secondary_subgoal": "Scooping and placing mixture",
+                    "start_timestamp": 876,
+                    "stop_timestamp": 4028
+                },
+                {
+                    "secondary_subgoal": "Miscellaneous actions around kitchen",
+                    "start_timestamp": 4028,
+                    "stop_timestamp": 5557
+                },
+                {
+                    "secondary_subgoal": "Scrubbing, scooping and moving mixture",
+                    "start_timestamp": 5567,
+                    "stop_timestamp": 6525
+                },
+                {
+                    "secondary_subgoal": "Opening cabinet and mixing mixture",
+                    "start_timestamp": 6525,
+                    "stop_timestamp": 6791
+                },
+                {
+                    "secondary_subgoal": "Opening cabinet and handling items",
+                    "start_timestamp": 6791,
+                    "stop_timestamp": 8178
+                },
+                {
+                    "secondary_subgoal": "Putting items on the kitchen counter",
+                    "start_timestamp": 8178,
+                    "stop_timestamp": 8437
+                },
+                {
+                    "secondary_subgoal": "Holding and turning items",
+                    "start_timestamp": 8437,
+                    "stop_timestamp": 8570
+                },
+                {
+                    "secondary_subgoal": "Scooping food and placing on tray",
+                    "start_timestamp": 8570,
+                    "stop_timestamp": 9077
+                },
+                {
+                    "secondary_subgoal": "Arranging and handling donuts and jug",
+                    "start_timestamp": 10224,
+                    "stop_timestamp": 11013
+                },
+                {
+                    "secondary_subgoal": "Sprinkling on donuts",
+                    "start_timestamp": 11013,
+                    "stop_timestamp": 11705
+                },
+                {
+                    "secondary_subgoal": "Opening and closing the oven",
+                    "start_timestamp": 11705,
+                    "stop_timestamp": 12166
+                },
+                {
+                    "secondary_subgoal": "Handling jug and monitoring cooking process",
+                    "start_timestamp": 12166,
+                    "stop_timestamp": 13073
+                },
+                {
+                    "secondary_subgoal": "Washing and handling items in sink",
+                    "start_timestamp": 13073,
+                    "stop_timestamp": 15089
+                },
+                {
+                    "secondary_subgoal": "Slicing and handling garlic",
+                    "start_timestamp": 15089,
+                    "stop_timestamp": 17789
+                },
+                {
+                    "secondary_subgoal": "Handling and cutting garlic, moving towards cooker",
+                    "start_timestamp": 17789,
+                    "stop_timestamp": 19355
+                },
+                {
+                    "secondary_subgoal": "Stirring food and monitoring cooking",
+                    "start_timestamp": 19355,
+                    "stop_timestamp": 20131
+                },
+                {
+                    "secondary_subgoal": "Walking towards fridge and opening it",
+                    "start_timestamp": 21230,
+                    "stop_timestamp": 21480
+                },
+                {
+                    "secondary_subgoal": "Stirring food and operate cooker",
+                    "start_timestamp": 21480,
+                    "stop_timestamp": 22128
+                },
+                {
+                    "secondary_subgoal": "Handling cup and mixing ingredients",
+                    "start_timestamp": 22128,
+                    "stop_timestamp": 23395
+                },
+                {
+                    "secondary_subgoal": "Returning dishes and arranging leaves",
+                    "start_timestamp": 23395,
+                    "stop_timestamp": 23713
+                },
+                {
+                    "secondary_subgoal": "Cracking and stirring egg",
+                    "start_timestamp": 23713,
+                    "stop_timestamp": 24172
+                },
+                {
+                    "secondary_subgoal": "Throwing egg shells and monitoring cookies",
+                    "start_timestamp": 24172,
+                    "stop_timestamp": 24496
+                },
+                {
+                    "secondary_subgoal": "Lacing carton and adjusting camera",
+                    "start_timestamp": 24496,
+                    "stop_timestamp": 25174
+                },
+                {
+                    "secondary_subgoal": "Walking around the room while handling meat",
+                    "start_timestamp": 25174,
+                    "stop_timestamp": 28424
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking and Dressing the Food",
+            "start_timestamp": 28424,
+            "stop_timestamp": 36145,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pouring meat and managing kitchen surroundings",
+                    "start_timestamp": 28424,
+                    "stop_timestamp": 29085
+                },
+                {
+                    "secondary_subgoal": "Handling glass and cleaning hands",
+                    "start_timestamp": 29085,
+                    "stop_timestamp": 30759
+                },
+                {
+                    "secondary_subgoal": "Opening and managing packages",
+                    "start_timestamp": 30759,
+                    "stop_timestamp": 32777
+                },
+                {
+                    "secondary_subgoal": "Stirring and mixing ingredients in pan",
+                    "start_timestamp": 32777,
+                    "stop_timestamp": 35607
+                },
+                {
+                    "secondary_subgoal": "Using oven and removing oven tray",
+                    "start_timestamp": 35607,
+                    "stop_timestamp": 36145
+                }
+            ]
+        },
+        {
+            "subgoal": "Serving and General Concluding Actions",
+            "start_timestamp": 36145,
+            "stop_timestamp": 54099,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Arranging food and interacting with ingredients",
+                    "start_timestamp": 36145,
+                    "stop_timestamp": 38403
+                },
+                {
+                    "secondary_subgoal": "Interaction with woman and removal of leaves",
+                    "start_timestamp": 38403,
+                    "stop_timestamp": 41217
+                },
+                {
+                    "secondary_subgoal": "Cutting and pouring vegetables",
+                    "start_timestamp": 42618,
+                    "stop_timestamp": 43210
+                },
+                {
+                    "secondary_subgoal": "Handling cup, bottle and other utensils",
+                    "start_timestamp": 43308,
+                    "stop_timestamp": 47179
+                },
+                {
+                    "secondary_subgoal": "Mixing eggs and placing items on table",
+                    "start_timestamp": 49002,
+                    "stop_timestamp": 49143
+                },
+                {
+                    "secondary_subgoal": "Handling and pouring egg mixture",
+                    "start_timestamp": 49143,
+                    "stop_timestamp": 49351
+                },
+                {
+                    "secondary_subgoal": "General actions in the kitchen area",
+                    "start_timestamp": 49351,
+                    "stop_timestamp": 54099
+                }
+            ]
+        }
+    ]
+}

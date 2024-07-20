@@ -1,0 +1,199 @@
+{
+    "overall_goal": "Prepare a dish including ingredients like leek, carrot, and cashew nuts, with steps including cleaning, chopping, and cooking.",
+    "clips": [
+        {
+            "subgoal": "Fetch water and prepare the cooking pot.",
+            "start_timestamp": 27,
+            "stop_timestamp": 818,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare the cooking pot and fetch water.",
+                    "start_timestamp": 27,
+                    "stop_timestamp": 818
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash hands and prepare cutting tools and ingredients.",
+            "start_timestamp": 818,
+            "stop_timestamp": 1533,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash hands and dry with tissue paper.",
+                    "start_timestamp": 818,
+                    "stop_timestamp": 1290
+                },
+                {
+                    "secondary_subgoal": "Prepare cutting board and bowl.",
+                    "start_timestamp": 1290,
+                    "stop_timestamp": 1416
+                },
+                {
+                    "secondary_subgoal": "Prepare the leek for cutting.",
+                    "start_timestamp": 1416,
+                    "stop_timestamp": 1533
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut and cook the leek.",
+            "start_timestamp": 1533,
+            "stop_timestamp": 2231,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut the leek.",
+                    "start_timestamp": 1533,
+                    "stop_timestamp": 2047
+                },
+                {
+                    "secondary_subgoal": "Put the leek into the cooking pot.",
+                    "start_timestamp": 2047,
+                    "stop_timestamp": 2231
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cut the carrot.",
+            "start_timestamp": 2231,
+            "stop_timestamp": 4569,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and peel the carrot.",
+                    "start_timestamp": 2231,
+                    "stop_timestamp": 2685
+                },
+                {
+                    "secondary_subgoal": "Cut the carrot and put it in the cooking pot.",
+                    "start_timestamp": 2685,
+                    "stop_timestamp": 4569
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up the cutting area and tools.",
+            "start_timestamp": 4569,
+            "stop_timestamp": 7847,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean the sink and throw remains in the plastic bag.",
+                    "start_timestamp": 4569,
+                    "stop_timestamp": 5070
+                },
+                {
+                    "secondary_subgoal": "Regulate the heat on the cooker.",
+                    "start_timestamp": 5070,
+                    "stop_timestamp": 5221
+                },
+                {
+                    "secondary_subgoal": "Ensure the cooking pot and area is clean.",
+                    "start_timestamp": 5221,
+                    "stop_timestamp": 5791
+                },
+                {
+                    "secondary_subgoal": "Put the carrot in the drawer.",
+                    "start_timestamp": 5791,
+                    "stop_timestamp": 5870
+                },
+                {
+                    "secondary_subgoal": "Clean up tools and area including washing knife, cutting board, and bowl.",
+                    "start_timestamp": 5870,
+                    "stop_timestamp": 7847
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare seasoning and finalize cooking.",
+            "start_timestamp": 7847,
+            "stop_timestamp": 10415,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare seasoning and cooking pot.",
+                    "start_timestamp": 7847,
+                    "stop_timestamp": 10415
+                }
+            ]
+        },
+        {
+            "subgoal": "Add liquid and additional ingredients.",
+            "start_timestamp": 10415,
+            "stop_timestamp": 14966,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add liquid to the cooking pot.",
+                    "start_timestamp": 10415,
+                    "stop_timestamp": 10640
+                },
+                {
+                    "secondary_subgoal": "Handle mousse mixture and storage preparations.",
+                    "start_timestamp": 10640,
+                    "stop_timestamp": 13124
+                },
+                {
+                    "secondary_subgoal": "Add salt and other condiments.",
+                    "start_timestamp": 13124,
+                    "stop_timestamp": 14966
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle additional ingredients and seal containers.",
+            "start_timestamp": 14966,
+            "stop_timestamp": 15023,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Seal storage container.",
+                    "start_timestamp": 14966,
+                    "stop_timestamp": 15023
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish seasoning and store ingredients.",
+            "start_timestamp": 15023,
+            "stop_timestamp": 17321,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Finish adding spices and prepare storage.",
+                    "start_timestamp": 15023,
+                    "stop_timestamp": 17321
+                }
+            ]
+        },
+        {
+            "subgoal": "Add cooking oil.",
+            "start_timestamp": 17321,
+            "stop_timestamp": 18400,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open the pot and add oil.",
+                    "start_timestamp": 17321,
+                    "stop_timestamp": 18400
+                }
+            ]
+        },
+        {
+            "subgoal": "Chop cashew nuts.",
+            "start_timestamp": 18400,
+            "stop_timestamp": 19850,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Chop cashew nuts and prepare for mixing.",
+                    "start_timestamp": 18400,
+                    "stop_timestamp": 19850
+                }
+            ]
+        },
+        {
+            "subgoal": "Crush and mix ingredients.",
+            "start_timestamp": 19850,
+            "stop_timestamp": 20400,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Crush and mix the chopped cashew nuts.",
+                    "start_timestamp": 19850,
+                    "stop_timestamp": 20400
+                }
+            ]
+        }
+    ]
+}

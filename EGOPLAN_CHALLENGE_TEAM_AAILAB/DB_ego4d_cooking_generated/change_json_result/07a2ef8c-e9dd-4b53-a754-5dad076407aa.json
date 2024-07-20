@@ -1,0 +1,186 @@
+{
+    "overall_goal": "Prepare a salad and cook ingredients for the meal.",
+    "clips": [
+        {
+            "subgoal": "Wash and prepare lettuce",
+            "start_timestamp": 0,
+            "stop_timestamp": 1219,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Start by holding the piece of lettuce and knife",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 6
+                },
+                {
+                    "secondary_subgoal": "Put the lettuce in the plastic colander",
+                    "start_timestamp": 6,
+                    "stop_timestamp": 7
+                },
+                {
+                    "secondary_subgoal": "Place the knife on the kitchen top surface",
+                    "start_timestamp": 7,
+                    "stop_timestamp": 36
+                },
+                {
+                    "secondary_subgoal": "Collect and bag the lettuce",
+                    "start_timestamp": 36,
+                    "stop_timestamp": 75
+                },
+                {
+                    "secondary_subgoal": "Open the tap",
+                    "start_timestamp": 75,
+                    "stop_timestamp": 88
+                },
+                {
+                    "secondary_subgoal": "Wash the lettuce",
+                    "start_timestamp": 88,
+                    "stop_timestamp": 259
+                },
+                {
+                    "secondary_subgoal": "Close the tap",
+                    "start_timestamp": 259,
+                    "stop_timestamp": 259
+                },
+                {
+                    "secondary_subgoal": "Shake and lift the colander",
+                    "start_timestamp": 259,
+                    "stop_timestamp": 338
+                },
+                {
+                    "secondary_subgoal": "Touch the plastic clear bag",
+                    "start_timestamp": 338,
+                    "stop_timestamp": 385
+                },
+                {
+                    "secondary_subgoal": "Pick the tomato from the kitchen top surface",
+                    "start_timestamp": 385,
+                    "stop_timestamp": 464
+                },
+                {
+                    "secondary_subgoal": "Move the chopping board",
+                    "start_timestamp": 464,
+                    "stop_timestamp": 509
+                },
+                {
+                    "secondary_subgoal": "Place the plastic colander on the kitchen surface",
+                    "start_timestamp": 509,
+                    "stop_timestamp": 518
+                },
+                {
+                    "secondary_subgoal": "Wash the tomato",
+                    "start_timestamp": 518,
+                    "stop_timestamp": 604
+                },
+                {
+                    "secondary_subgoal": "Pour water and clean the bowl",
+                    "start_timestamp": 604,
+                    "stop_timestamp": 652
+                },
+                {
+                    "secondary_subgoal": "Place the colander in and out of the bowl",
+                    "start_timestamp": 652,
+                    "stop_timestamp": 788
+                },
+                {
+                    "secondary_subgoal": "Shake colander to dry lettuce",
+                    "start_timestamp": 788,
+                    "stop_timestamp": 850
+                },
+                {
+                    "secondary_subgoal": "Pick and handle tomato",
+                    "start_timestamp": 850,
+                    "stop_timestamp": 874
+                },
+                {
+                    "secondary_subgoal": "Touch and handle clear plastic bag",
+                    "start_timestamp": 874,
+                    "stop_timestamp": 934
+                },
+                {
+                    "secondary_subgoal": "Pick and rinse chopping board",
+                    "start_timestamp": 934,
+                    "stop_timestamp": 1066
+                },
+                {
+                    "secondary_subgoal": "Clean the area and bag dirt",
+                    "start_timestamp": 1066,
+                    "stop_timestamp": 1219
+                }
+            ]
+        },
+        {
+            "subgoal": "Continue preparing vegetables and set up the cooking area",
+            "start_timestamp": 1219,
+            "stop_timestamp": 7067,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle and fold plastic clear bag",
+                    "start_timestamp": 1219,
+                    "stop_timestamp": 1361
+                },
+                {
+                    "secondary_subgoal": "Handle white radish",
+                    "start_timestamp": 1361,
+                    "stop_timestamp": 2121
+                },
+                {
+                    "secondary_subgoal": "Cut white radish",
+                    "start_timestamp": 2121,
+                    "stop_timestamp": 2694
+                },
+                {
+                    "secondary_subgoal": "Bag white radish and clean colander",
+                    "start_timestamp": 2694,
+                    "stop_timestamp": 3183
+                },
+                {
+                    "secondary_subgoal": "Arrange and clean cooking area",
+                    "start_timestamp": 3183,
+                    "stop_timestamp": 7073
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and serve additional dishes",
+            "start_timestamp": 7073,
+            "stop_timestamp": 16263,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Arrange utensils and grab ingredients",
+                    "start_timestamp": 7073,
+                    "stop_timestamp": 7933
+                },
+                {
+                    "secondary_subgoal": "Cook and stir food",
+                    "start_timestamp": 7933,
+                    "stop_timestamp": 8935
+                },
+                {
+                    "secondary_subgoal": "Grate white radish and clean grater",
+                    "start_timestamp": 8935,
+                    "stop_timestamp": 9614
+                },
+                {
+                    "secondary_subgoal": "Store and clean-up",
+                    "start_timestamp": 9614,
+                    "stop_timestamp": 10358
+                },
+                {
+                    "secondary_subgoal": "Handle food preparation items",
+                    "start_timestamp": 10358,
+                    "stop_timestamp": 11497
+                },
+                {
+                    "secondary_subgoal": "Season and serve food",
+                    "start_timestamp": 11497,
+                    "stop_timestamp": 12857
+                },
+                {
+                    "secondary_subgoal": "Complete preparation and organize",
+                    "start_timestamp": 12857,
+                    "stop_timestamp": 16263
+                }
+            ]
+        }
+    ]
+}

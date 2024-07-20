@@ -1,0 +1,114 @@
+{
+    "overall_goal": "Preparing and serving a meal, including handling ingredients, using utensils, and serving drinks.",
+    "clips": [
+        {
+            "subgoal": "Handling cabbage",
+            "start_timestamp": "0",
+            "stop_timestamp": "271",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Holding chopsticks and picking cabbage",
+                    "start_timestamp": "0",
+                    "stop_timestamp": "13"
+                },
+                {
+                    "secondary_subgoal": "Putting cabbage into plate",
+                    "start_timestamp": "13",
+                    "stop_timestamp": "16"
+                },
+                {
+                    "secondary_subgoal": "Supporting cabbage with hand and moving it to plate",
+                    "start_timestamp": "49",
+                    "stop_timestamp": "142"
+                },
+                {
+                    "secondary_subgoal": "Continuing to handle and transfer cabbage to plate",
+                    "start_timestamp": "142",
+                    "stop_timestamp": "271"
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing equipment",
+            "start_timestamp": "43",
+            "stop_timestamp": "216",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing chopping board and turning off tap",
+                    "start_timestamp": "43",
+                    "stop_timestamp": "216"
+                }
+            ]
+        },
+        {
+            "subgoal": "Serving water and coordinating with person X",
+            "start_timestamp": "276",
+            "stop_timestamp": "346",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling a bowl of water and handing it to person X",
+                    "start_timestamp": "276",
+                    "stop_timestamp": "346"
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling cutlery",
+            "start_timestamp": "366",
+            "stop_timestamp": "465",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking a peg and organizing on cutlery rack",
+                    "start_timestamp": "366",
+                    "stop_timestamp": "441"
+                },
+                {
+                    "secondary_subgoal": "Talking to person X",
+                    "start_timestamp": "441",
+                    "stop_timestamp": "465"
+                }
+            ]
+        },
+        {
+            "subgoal": "Serving a drink",
+            "start_timestamp": "499",
+            "stop_timestamp": "722",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking and opening a bottle for pouring",
+                    "start_timestamp": "499",
+                    "stop_timestamp": "722"
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding salt",
+            "start_timestamp": "735",
+            "stop_timestamp": "976",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pouring and managing salt",
+                    "start_timestamp": "735",
+                    "stop_timestamp": "976"
+                }
+            ]
+        },
+        {
+            "subgoal": "Finishing up",
+            "start_timestamp": "1003",
+            "stop_timestamp": "1428",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walking around and tidying up",
+                    "start_timestamp": "1003",
+                    "stop_timestamp": "1328"
+                },
+                {
+                    "secondary_subgoal": "Raising hand (potential signaling end of task)",
+                    "start_timestamp": "1328",
+                    "stop_timestamp": "1428"
+                }
+            ]
+        }
+    ]
+}

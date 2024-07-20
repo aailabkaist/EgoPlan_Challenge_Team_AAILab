@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ef00XgHqHcYTQmR5RhcsmH3J3vs0",
+    "object": "chat.completion",
+    "created": 1719477748,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and store a fruit mixture with oil, and then clean the kitchen tools and countertop.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Blend the fruit mixture with oil.\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 3356,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Blend the fruit with a blender.\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 340\n        },\n        {\n          \"secondary_subgoal\": \"Add oil to the blender.\",\n          \"start_timestamp\": 417,\n          \"stop_timestamp\": 754\n        },\n        {\n          \"secondary_subgoal\": \"Blend the mixture again.\",\n          \"start_timestamp\": 818,\n          \"stop_timestamp\": 1274\n        },\n        {\n          \"secondary_subgoal\": \"Add more oil to the blender.\",\n          \"start_timestamp\": 1274,\n          \"stop_timestamp\": 1689\n        },\n        {\n          \"secondary_subgoal\": \"Blend the mixture again.\",\n          \"start_timestamp\": 1689,\n          \"stop_timestamp\": 2345\n        },\n        {\n          \"secondary_subgoal\": \"Add more oil to the blender.\",\n          \"start_timestamp\": 2345,\n          \"stop_timestamp\": 2766\n        },\n        {\n          \"secondary_subgoal\": \"Blend the mixture again.\",\n          \"start_timestamp\": 2766,\n          \"stop_timestamp\": 3356\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Store the fruit mixture in bottles.\",\n      \"start_timestamp\": 3356,\n      \"stop_timestamp\": 10757,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Blend the mixture again and prepare storage bottles.\",\n          \"start_timestamp\": 3356,\n          \"stop_timestamp\": 6216\n        },\n        {\n          \"secondary_subgoal\": \"Transfer the mixture into storage bottles using a funnel.\",\n          \"start_timestamp\": 6216,\n          \"stop_timestamp\": 10940\n        },\n        {\n          \"secondary_subgoal\": \"Label and store the bottles in the fridge.\",\n          \"start_timestamp\": 10940,\n          \"stop_timestamp\": 11053\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean the kitchen and tools.\",\n      \"start_timestamp\": 11053,\n      \"stop_timestamp\": 21339,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean up and organize the kitchen.\",\n          \"start_timestamp\": 11053,\n          \"stop_timestamp\": 18992\n        },\n        {\n          \"secondary_subgoal\": \"Wrap food items and store them.\",\n          \"start_timestamp\": 18992,\n          \"stop_timestamp\": 20684\n        },\n        {\n          \"secondary_subgoal\": \"Wash additional kitchen tools.\",\n          \"start_timestamp\": 20684,\n          \"stop_timestamp\": 21121\n        },\n        {\n          \"secondary_subgoal\": \"Wipe hands and touch up the kitchen.\",\n          \"start_timestamp\": 21121,\n          \"stop_timestamp\": 21339\n        }\n      ]\n    }\n  ]\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3669,
+        "completion_tokens": 667,
+        "total_tokens": 4336
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

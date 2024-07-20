@@ -1,0 +1,145 @@
+{
+    "overall_goal": "Cooking food and cleaning up the kitchen area",
+    "clips": [
+        {
+            "subgoal": "Preparing and cooking food",
+            "start_timestamp": 16,
+            "stop_timestamp": 1495,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Spreading food in the pan",
+                    "start_timestamp": 16,
+                    "stop_timestamp": 280
+                },
+                {
+                    "secondary_subgoal": "Carrying plate",
+                    "start_timestamp": 280,
+                    "stop_timestamp": 356
+                },
+                {
+                    "secondary_subgoal": "Pouring egg in the pan",
+                    "start_timestamp": 356,
+                    "stop_timestamp": 569
+                },
+                {
+                    "secondary_subgoal": "Placing plate in the sink",
+                    "start_timestamp": 569,
+                    "stop_timestamp": 658
+                },
+                {
+                    "secondary_subgoal": "Putting chopsticks on the table",
+                    "start_timestamp": 658,
+                    "stop_timestamp": 688
+                },
+                {
+                    "secondary_subgoal": "Opening tap and rinsing hands",
+                    "start_timestamp": 688,
+                    "stop_timestamp": 774
+                },
+                {
+                    "secondary_subgoal": "Drying hands",
+                    "start_timestamp": 774,
+                    "stop_timestamp": 870
+                },
+                {
+                    "secondary_subgoal": "Picking and covering pan with lid",
+                    "start_timestamp": 870,
+                    "stop_timestamp": 941
+                },
+                {
+                    "secondary_subgoal": "Using the stove controls",
+                    "start_timestamp": 941,
+                    "stop_timestamp": 1495
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning utensils",
+            "start_timestamp": 1495,
+            "stop_timestamp": 4990,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening tap and picking washing sponge",
+                    "start_timestamp": 1495,
+                    "stop_timestamp": 1567
+                },
+                {
+                    "secondary_subgoal": "Closing tap and squeezing soup on sponge",
+                    "start_timestamp": 1567,
+                    "stop_timestamp": 1657
+                },
+                {
+                    "secondary_subgoal": "Washing utensils",
+                    "start_timestamp": 1657,
+                    "stop_timestamp": 3197
+                },
+                {
+                    "secondary_subgoal": "Opening tap and rinsing sponge",
+                    "start_timestamp": 3197,
+                    "stop_timestamp": 3364
+                },
+                {
+                    "secondary_subgoal": "Rinsing utensils",
+                    "start_timestamp": 3364,
+                    "stop_timestamp": 4307
+                },
+                {
+                    "secondary_subgoal": "Putting plate on the table",
+                    "start_timestamp": 4307,
+                    "stop_timestamp": 4380
+                },
+                {
+                    "secondary_subgoal": "Opening tap and rinsing utensils again",
+                    "start_timestamp": 4380,
+                    "stop_timestamp": 4990
+                }
+            ]
+        },
+        {
+            "subgoal": "Drying and putting away utensils",
+            "start_timestamp": 4990,
+            "stop_timestamp": 5728,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Drying hands with towel",
+                    "start_timestamp": 4990,
+                    "stop_timestamp": 5180
+                },
+                {
+                    "secondary_subgoal": "Picking and drying plate with towel",
+                    "start_timestamp": 5180,
+                    "stop_timestamp": 5409
+                },
+                {
+                    "secondary_subgoal": "Putting plate on the table and hanging towel",
+                    "start_timestamp": 5409,
+                    "stop_timestamp": 5728
+                }
+            ]
+        },
+        {
+            "subgoal": "Managing pan lid",
+            "start_timestamp": 5728,
+            "stop_timestamp": 6140,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Uncovering and covering pan",
+                    "start_timestamp": 5728,
+                    "stop_timestamp": 6140
+                }
+            ]
+        },
+        {
+            "subgoal": "Ending activity",
+            "start_timestamp": 6140,
+            "stop_timestamp": 6140,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Raising hand",
+                    "start_timestamp": 6140,
+                    "stop_timestamp": 6140
+                }
+            ]
+        }
+    ]
+}

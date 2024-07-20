@@ -1,0 +1,83 @@
+{
+    "overall_goal": "Squeeze dough onto a mat using a piping bag",
+    "clips": [
+        {
+            "subgoal": "Pick up and prepare the piping bag for use",
+            "start_timestamp": 82,
+            "stop_timestamp": 507,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up the piping bag",
+                    "start_timestamp": 82,
+                    "stop_timestamp": 233
+                },
+                {
+                    "secondary_subgoal": "Have dough placed in the piping bag by K",
+                    "start_timestamp": 233,
+                    "stop_timestamp": 290
+                },
+                {
+                    "secondary_subgoal": "Fold and tighten the piping bag",
+                    "start_timestamp": 290,
+                    "stop_timestamp": 507
+                }
+            ]
+        },
+        {
+            "subgoal": "Squeeze dough onto the mat",
+            "start_timestamp": 507,
+            "stop_timestamp": 2130,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Tighten and squeeze the piping bag",
+                    "start_timestamp": 507,
+                    "stop_timestamp": 1505
+                },
+                {
+                    "secondary_subgoal": "Tighten and squeeze the piping bag",
+                    "start_timestamp": 1505,
+                    "stop_timestamp": 2130
+                }
+            ]
+        },
+        {
+            "subgoal": "Refill the piping bag and continue squeezing dough",
+            "start_timestamp": 2130,
+            "stop_timestamp": 3122,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open, refill, and prepare the piping bag",
+                    "start_timestamp": 2130,
+                    "stop_timestamp": 2421
+                },
+                {
+                    "secondary_subgoal": "Turn around and squeeze the piping bag",
+                    "start_timestamp": 2421,
+                    "stop_timestamp": 3122
+                }
+            ]
+        },
+        {
+            "subgoal": "Squeeze dough onto the mat continuously",
+            "start_timestamp": 3122,
+            "stop_timestamp": 6694,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Tighten and squeeze the piping bag",
+                    "start_timestamp": 3122,
+                    "stop_timestamp": 4777
+                },
+                {
+                    "secondary_subgoal": "Open, refill, and prepare the piping bag",
+                    "start_timestamp": 4777,
+                    "stop_timestamp": 5056
+                },
+                {
+                    "secondary_subgoal": "Tighten and squeeze the piping bag",
+                    "start_timestamp": 5056,
+                    "stop_timestamp": 6694
+                }
+            ]
+        }
+    ]
+}

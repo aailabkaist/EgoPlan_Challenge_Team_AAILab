@@ -1,0 +1,129 @@
+{
+    "overall_goal": "Organize and clean the kitchen by arranging items in their appropriate places and performing cleaning tasks.",
+    "clips": [
+        {
+            "subgoal": "Arrange chopsticks in the drawer",
+            "start_timestamp": "52",
+            "stop_timestamp": "1063",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and open the drawer",
+                    "start_timestamp": "52",
+                    "stop_timestamp": "155"
+                },
+                {
+                    "secondary_subgoal": "Put chopsticks in the drawer",
+                    "start_timestamp": "155",
+                    "stop_timestamp": "216"
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize bowls and glass in the cabinet",
+            "start_timestamp": "216",
+            "stop_timestamp": "670",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and open the cabinet",
+                    "start_timestamp": "216",
+                    "stop_timestamp": "353"
+                },
+                {
+                    "secondary_subgoal": "Put the glass in the cabinet",
+                    "start_timestamp": "353",
+                    "stop_timestamp": "415"
+                },
+                {
+                    "secondary_subgoal": "Pick and put the bowl on the washing machine",
+                    "start_timestamp": "491",
+                    "stop_timestamp": "596"
+                }
+            ]
+        },
+        {
+            "subgoal": "Store cutleries in the drawer",
+            "start_timestamp": "639",
+            "stop_timestamp": "1063",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and open the drawer",
+                    "start_timestamp": "639",
+                    "stop_timestamp": "709"
+                },
+                {
+                    "secondary_subgoal": "Put cutleries in the drawer",
+                    "start_timestamp": "709",
+                    "stop_timestamp": "968"
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize dishes and mugs in the cabinet",
+            "start_timestamp": "1142",
+            "stop_timestamp": "1444",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and open the cabinet",
+                    "start_timestamp": "1142",
+                    "stop_timestamp": "1239"
+                },
+                {
+                    "secondary_subgoal": "Put dishes and lids in the cabinet",
+                    "start_timestamp": "1239",
+                    "stop_timestamp": "1444"
+                }
+            ]
+        },
+        {
+            "subgoal": "Graze and rinse kitchen tools",
+            "start_timestamp": "2010",
+            "stop_timestamp": "2766",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse the presser",
+                    "start_timestamp": "2071",
+                    "stop_timestamp": "2111"
+                },
+                {
+                    "secondary_subgoal": "Put tools in the machine",
+                    "start_timestamp": "2165",
+                    "stop_timestamp": "2324"
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean and organize the kitchen surfaces",
+            "start_timestamp": "3666",
+            "stop_timestamp": "5978",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and rinse kitchen tools",
+                    "start_timestamp": "3666",
+                    "stop_timestamp": "3765"
+                },
+                {
+                    "secondary_subgoal": "Organize chopping board and jars",
+                    "start_timestamp": "3815",
+                    "stop_timestamp": "4261"
+                }
+            ]
+        },
+        {
+            "subgoal": "Complete post-washing tasks",
+            "start_timestamp": "4471",
+            "stop_timestamp": "6549",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash chopping board and plate",
+                    "start_timestamp": "4471",
+                    "stop_timestamp": "5065"
+                },
+                {
+                    "secondary_subgoal": "Clean the sink",
+                    "start_timestamp": "5232",
+                    "stop_timestamp": "5677"
+                }
+            ]
+        }
+    ]
+}

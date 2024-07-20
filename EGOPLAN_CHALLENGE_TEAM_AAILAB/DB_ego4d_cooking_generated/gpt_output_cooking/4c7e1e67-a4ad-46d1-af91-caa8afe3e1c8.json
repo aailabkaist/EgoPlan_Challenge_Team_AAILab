@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efQaxefR1TrecWwkZ0DPPCDHFwRN",
+    "object": "chat.completion",
+    "created": 1719479396,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing dough by kneading, cooking, and handling it between different containers and cooking stages.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Kneading the dough\",\n      \"start_timestamp\": 85106,\n      \"stop_timestamp\": 85764,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Kneading dough on the rolling board and adjusting\",\n          \"start_timestamp\": 85106,\n          \"stop_timestamp\": 85483\n        },\n        {\n          \"secondary_subgoal\": \"Adjusting clothes\",\n          \"start_timestamp\": 85483,\n          \"stop_timestamp\": 85764\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handling the dough\",\n      \"start_timestamp\": 85764,\n      \"stop_timestamp\": 101056,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Picking, squeezing, and putting dough in the cooking pot\",\n          \"start_timestamp\": 85764,\n          \"stop_timestamp\": 85810\n        },\n        {\n          \"secondary_subgoal\": \"Squeezing the dough\",\n          \"start_timestamp\": 85810,\n          \"stop_timestamp\": 86065\n        },\n        {\n          \"secondary_subgoal\": \"Interchanging actions with Man X on dough handling\",\n          \"start_timestamp\": 86132,\n          \"stop_timestamp\": 101056\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking the dough\",\n      \"start_timestamp\": 101191,\n      \"stop_timestamp\": 113341,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Placing and cutting dough in cooking oil\",\n          \"start_timestamp\": 101191,\n          \"stop_timestamp\": 101345\n        },\n        {\n          \"secondary_subgoal\": \"Man X assists in dough handling and turning over the dough\",\n          \"start_timestamp\": 101381,\n          \"stop_timestamp\": 101967\n        },\n        {\n          \"secondary_subgoal\": \"Squeezing and cooking the dough\",\n          \"start_timestamp\": 102074,\n          \"stop_timestamp\": 101600\n        },\n        {\n          \"secondary_subgoal\": \"Picking the dough\",\n          \"start_timestamp\": 112355,\n          \"stop_timestamp\": 112642\n        },\n        {\n          \"secondary_subgoal\": \"Shaping and pressing the dough\",\n          \"start_timestamp\": 113241,\n          \"stop_timestamp\": 113341\n        }\n      ]\n    }\n  ]\n}\n```\n\nThe described output follows the required JSON format, capturing the overall goal of dough preparation and breaking down the sequence of actions into finer sub-clips and subgoals based on timestamped narrations. Each functional step taken toward preparing the dough is detailed with exact times and responsible actions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2758,
+        "completion_tokens": 592,
+        "total_tokens": 3350
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

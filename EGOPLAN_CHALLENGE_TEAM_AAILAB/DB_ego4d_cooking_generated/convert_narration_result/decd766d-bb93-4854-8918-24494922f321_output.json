@@ -1,0 +1,872 @@
+[
+    {
+        "task_goal": "Pick and wash the cabbage.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a knife.",
+                "start_frame": 53,
+                "stop_frame": 101
+            },
+            {
+                "narration_text": "Picks a piece of cabbage from the floor.",
+                "start_frame": 101,
+                "stop_frame": 176
+            },
+            {
+                "narration_text": "Opens pieces of cabbage with hands.",
+                "start_frame": 176,
+                "stop_frame": 247
+            },
+            {
+                "narration_text": "Puts cabbage in a sink.",
+                "start_frame": 247,
+                "stop_frame": 957
+            },
+            {
+                "narration_text": "Opens tap water.",
+                "start_frame": 957,
+                "stop_frame": 999
+            },
+            {
+                "narration_text": "Washes hands with tap water.",
+                "start_frame": 999,
+                "stop_frame": 1129
+            },
+            {
+                "narration_text": "Washes pieces of cabbage.",
+                "start_frame": 1129,
+                "stop_frame": 1678
+            },
+            {
+                "narration_text": "Puts cabbage on chopping board.",
+                "start_frame": 1678,
+                "stop_frame": 2175
+            }
+        ]
+    },
+    {
+        "task_goal": "Place cabbage on chopping board and chop it.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes pieces of cabbage.",
+                "start_frame": 1129,
+                "stop_frame": 1678
+            },
+            {
+                "narration_text": "Puts cabbage on chopping board.",
+                "start_frame": 1678,
+                "stop_frame": 2175
+            },
+            {
+                "narration_text": "Closes tap water.",
+                "start_frame": 2175,
+                "stop_frame": 2298
+            },
+            {
+                "narration_text": "Picks up knife.",
+                "start_frame": 2298,
+                "stop_frame": 2328
+            },
+            {
+                "narration_text": "Chops cabbage with knife.",
+                "start_frame": 2328,
+                "stop_frame": 2438
+            },
+            {
+                "narration_text": "Puts piece of cabbage in a plate.",
+                "start_frame": 2438,
+                "stop_frame": 2486
+            },
+            {
+                "narration_text": "Chops cabbage with knife.",
+                "start_frame": 2486,
+                "stop_frame": 2694
+            },
+            {
+                "narration_text": "Puts piece of cabbage in a plate.",
+                "start_frame": 2694,
+                "stop_frame": 2780
+            },
+            {
+                "narration_text": "Chops cabbage with knife.",
+                "start_frame": 2780,
+                "stop_frame": 2945
+            },
+            {
+                "narration_text": "Puts piece of cabbage in a plate.",
+                "start_frame": 2945,
+                "stop_frame": 3029
+            },
+            {
+                "narration_text": "Chops cabbage with knife.",
+                "start_frame": 3029,
+                "stop_frame": 3277
+            },
+            {
+                "narration_text": "Puts pieces of cabbage in plate.",
+                "start_frame": 3277,
+                "stop_frame": 3359
+            },
+            {
+                "narration_text": "Chops cabbage with knife.",
+                "start_frame": 3359,
+                "stop_frame": 3528
+            }
+        ]
+    },
+    {
+        "task_goal": "Put chopped cabbage into a plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts pieces of cabbage in plate.",
+                "start_frame": 3277,
+                "stop_frame": 3359
+            },
+            {
+                "narration_text": "Chops cabbage with knife.",
+                "start_frame": 3359,
+                "stop_frame": 3528
+            },
+            {
+                "narration_text": "Puts piece of cabbage in plate.",
+                "start_frame": 3528,
+                "stop_frame": 3619
+            },
+            {
+                "narration_text": "Chops cabbage with knife.",
+                "start_frame": 3619,
+                "stop_frame": 4157
+            },
+            {
+                "narration_text": "Puts piece of cabbage in plate.",
+                "start_frame": 4157,
+                "stop_frame": 4228
+            },
+            {
+                "narration_text": "Chops cabbage with knife.",
+                "start_frame": 4228,
+                "stop_frame": 4631
+            }
+        ]
+    },
+    {
+        "task_goal": "Process the second batch of cabbage.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks polythene paper with cabbage in it.",
+                "start_frame": 4789,
+                "stop_frame": 4829
+            },
+            {
+                "narration_text": "Cuts polythene paper with scissors.",
+                "start_frame": 4829,
+                "stop_frame": 4951
+            },
+            {
+                "narration_text": "Throws polythene paper in a bin.",
+                "start_frame": 4951,
+                "stop_frame": 5138
+            },
+            {
+                "narration_text": "Opens polythene paper with cabbage.",
+                "start_frame": 5138,
+                "stop_frame": 5403
+            },
+            {
+                "narration_text": "Cuts polythene paper with scissors.",
+                "start_frame": 5403,
+                "stop_frame": 5534
+            },
+            {
+                "narration_text": "Throws polythene paper in a bin.",
+                "start_frame": 5534,
+                "stop_frame": 5656
+            },
+            {
+                "narration_text": "Tears polythene paper with cabbage in it.",
+                "start_frame": 5656,
+                "stop_frame": 5823
+            },
+            {
+                "narration_text": "Removes cabbage from polythene paper.",
+                "start_frame": 5823,
+                "stop_frame": 5929
+            },
+            {
+                "narration_text": "Removes outer layer of cabbage.",
+                "start_frame": 5929,
+                "stop_frame": 6247
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and remove cabbage from polythene paper.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks polythene paper with cabbage in it.",
+                "start_frame": 4789,
+                "stop_frame": 4829
+            },
+            {
+                "narration_text": "Cuts polythene paper with scissors.",
+                "start_frame": 4829,
+                "stop_frame": 4951
+            },
+            {
+                "narration_text": "Throws polythene paper in a bin.",
+                "start_frame": 4951,
+                "stop_frame": 5138
+            },
+            {
+                "narration_text": "Opens polythene paper with cabbage.",
+                "start_frame": 5138,
+                "stop_frame": 5403
+            },
+            {
+                "narration_text": "Cuts polythene paper with scissors.",
+                "start_frame": 5403,
+                "stop_frame": 5534
+            },
+            {
+                "narration_text": "Throws polythene paper in a bin.",
+                "start_frame": 5534,
+                "stop_frame": 5656
+            },
+            {
+                "narration_text": "Tears polythene paper with cabbage in it.",
+                "start_frame": 5656,
+                "stop_frame": 5823
+            },
+            {
+                "narration_text": "Removes cabbage from polythene paper.",
+                "start_frame": 5823,
+                "stop_frame": 5929
+            },
+            {
+                "narration_text": "Removes outer layer of cabbage.",
+                "start_frame": 5929,
+                "stop_frame": 6247
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove outer layer, put cabbage in polythene paper, and tie it with a rubber band.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Removes cabbage from polythene paper.",
+                "start_frame": 5823,
+                "stop_frame": 5929
+            },
+            {
+                "narration_text": "Removes outer layer of cabbage.",
+                "start_frame": 5929,
+                "stop_frame": 6247
+            },
+            {
+                "narration_text": "Puts cabbage in polythene paper.",
+                "start_frame": 6247,
+                "stop_frame": 6582
+            },
+            {
+                "narration_text": "Folds polythene paper.",
+                "start_frame": 6582,
+                "stop_frame": 6860
+            },
+            {
+                "narration_text": "Ties polythene with rubber band.",
+                "start_frame": 6860,
+                "stop_frame": 7072
+            },
+            {
+                "narration_text": "Opens a drawer.",
+                "start_frame": 7072,
+                "stop_frame": 7181
+            }
+        ]
+    },
+    {
+        "task_goal": "Store cabbage in a drawer.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Ties polythene with rubber band.",
+                "start_frame": 6860,
+                "stop_frame": 7072
+            },
+            {
+                "narration_text": "Opens a drawer.",
+                "start_frame": 7072,
+                "stop_frame": 7181
+            },
+            {
+                "narration_text": "Puts cabbage in drawer.",
+                "start_frame": 7181,
+                "stop_frame": 7229
+            },
+            {
+                "narration_text": "Closes drawer.",
+                "start_frame": 7229,
+                "stop_frame": 7343
+            },
+            {
+                "narration_text": "Opens tap water.",
+                "start_frame": 7343,
+                "stop_frame": 7430
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare and chop cabbage for cooking.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens tap water.",
+                "start_frame": 7343,
+                "stop_frame": 7430
+            },
+            {
+                "narration_text": "Washes cabbage with water.",
+                "start_frame": 7430,
+                "stop_frame": 7495
+            },
+            {
+                "narration_text": "Chops cabbage with knife.",
+                "start_frame": 7495,
+                "stop_frame": 7731
+            },
+            {
+                "narration_text": "Puts chopped cabbage pieces in a plate.",
+                "start_frame": 7731,
+                "stop_frame": 7941
+            },
+            {
+                "narration_text": "Chops cabbage with knife.",
+                "start_frame": 7941,
+                "stop_frame": 8145
+            },
+            {
+                "narration_text": "Puts chopped cabbage in a plate.",
+                "start_frame": 8145,
+                "stop_frame": 8279
+            },
+            {
+                "narration_text": "Chops cabbage with knife.",
+                "start_frame": 8279,
+                "stop_frame": 8436
+            },
+            {
+                "narration_text": "Puts chopped cabbage in a plate.",
+                "start_frame": 8436,
+                "stop_frame": 8603
+            },
+            {
+                "narration_text": "Puts the cabbage pieces on the plastic sieve bowl",
+                "start_frame": 8603,
+                "stop_frame": 8661
+            },
+            {
+                "narration_text": "Chops the cabbage leaf",
+                "start_frame": 8661,
+                "stop_frame": 8730
+            },
+            {
+                "narration_text": "Puts the cabbage pieces on the plastic sieve bowl",
+                "start_frame": 8730,
+                "stop_frame": 8877
+            },
+            {
+                "narration_text": "Places down a knife",
+                "start_frame": 8877,
+                "stop_frame": 9027
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash cabbage.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens tap water.",
+                "start_frame": 7343,
+                "stop_frame": 7430
+            },
+            {
+                "narration_text": "Washes cabbage with water.",
+                "start_frame": 7430,
+                "stop_frame": 7495
+            },
+            {
+                "narration_text": "Chops cabbage with knife.",
+                "start_frame": 7495,
+                "stop_frame": 7731
+            }
+        ]
+    },
+    {
+        "task_goal": "Chop and put cabbage in a plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes cabbage with water.",
+                "start_frame": 7430,
+                "stop_frame": 7495
+            },
+            {
+                "narration_text": "Chops cabbage with knife.",
+                "start_frame": 7495,
+                "stop_frame": 7731
+            },
+            {
+                "narration_text": "Puts chopped cabbage pieces in a plate.",
+                "start_frame": 7731,
+                "stop_frame": 7941
+            },
+            {
+                "narration_text": "Chops cabbage with knife.",
+                "start_frame": 7941,
+                "stop_frame": 8145
+            },
+            {
+                "narration_text": "Puts chopped cabbage in a plate.",
+                "start_frame": 8145,
+                "stop_frame": 8279
+            },
+            {
+                "narration_text": "Chops cabbage with knife.",
+                "start_frame": 8279,
+                "stop_frame": 8436
+            },
+            {
+                "narration_text": "Puts chopped cabbage in a plate.",
+                "start_frame": 8436,
+                "stop_frame": 8603
+            },
+            {
+                "narration_text": "Puts the cabbage pieces on the plastic sieve bowl",
+                "start_frame": 8603,
+                "stop_frame": 8661
+            },
+            {
+                "narration_text": "Chops the cabbage leaf",
+                "start_frame": 8661,
+                "stop_frame": 8730
+            },
+            {
+                "narration_text": "Puts the cabbage pieces on the plastic sieve bowl",
+                "start_frame": 8730,
+                "stop_frame": 8877
+            },
+            {
+                "narration_text": "Places down a knife",
+                "start_frame": 8877,
+                "stop_frame": 9027
+            }
+        ]
+    },
+    {
+        "task_goal": "Gather kitchen tools and prepare for cooking.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places down a knife",
+                "start_frame": 8877,
+                "stop_frame": 9027
+            },
+            {
+                "narration_text": "Opens the kitchen cabinet",
+                "start_frame": 9027,
+                "stop_frame": 9106
+            },
+            {
+                "narration_text": "Removes a mesh sieve",
+                "start_frame": 9106,
+                "stop_frame": 9187
+            },
+            {
+                "narration_text": "Moves a glass",
+                "start_frame": 9187,
+                "stop_frame": 9210
+            },
+            {
+                "narration_text": "Moves a plate",
+                "start_frame": 9210,
+                "stop_frame": 9251
+            },
+            {
+                "narration_text": "Moves the plates",
+                "start_frame": 9251,
+                "stop_frame": 9281
+            },
+            {
+                "narration_text": "Moves a bowl",
+                "start_frame": 9281,
+                "stop_frame": 9314
+            },
+            {
+                "narration_text": "Picks an electric kettle",
+                "start_frame": 9314,
+                "stop_frame": 9365
+            },
+            {
+                "narration_text": "Turns on a tap",
+                "start_frame": 9365,
+                "stop_frame": 9411
+            },
+            {
+                "narration_text": "Puts water in the kettle",
+                "start_frame": 9411,
+                "stop_frame": 9836
+            },
+            {
+                "narration_text": "Turns off the tap",
+                "start_frame": 9836,
+                "stop_frame": 9897
+            },
+            {
+                "narration_text": "Places the electric kettle on the kettle stand",
+                "start_frame": 9897,
+                "stop_frame": 9988
+            },
+            {
+                "narration_text": "Plugs in the power cable in the socket",
+                "start_frame": 9988,
+                "stop_frame": 10054
+            },
+            {
+                "narration_text": "Turns on the electric kettle",
+                "start_frame": 10054,
+                "stop_frame": 10075
+            },
+            {
+                "narration_text": "Turns around the kitchen",
+                "start_frame": 10075,
+                "stop_frame": 10443
+            }
+        ]
+    },
+    {
+        "task_goal": "Gather tools including mesh sieve and kettle, and fill kettle with water.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places down a knife",
+                "start_frame": 8877,
+                "stop_frame": 9027
+            },
+            {
+                "narration_text": "Opens the kitchen cabinet",
+                "start_frame": 9027,
+                "stop_frame": 9106
+            },
+            {
+                "narration_text": "Removes a mesh sieve",
+                "start_frame": 9106,
+                "stop_frame": 9187
+            },
+            {
+                "narration_text": "Moves a glass",
+                "start_frame": 9187,
+                "stop_frame": 9210
+            },
+            {
+                "narration_text": "Moves a plate",
+                "start_frame": 9210,
+                "stop_frame": 9251
+            },
+            {
+                "narration_text": "Moves the plates",
+                "start_frame": 9251,
+                "stop_frame": 9281
+            },
+            {
+                "narration_text": "Moves a bowl",
+                "start_frame": 9281,
+                "stop_frame": 9314
+            },
+            {
+                "narration_text": "Picks an electric kettle",
+                "start_frame": 9314,
+                "stop_frame": 9365
+            },
+            {
+                "narration_text": "Turns on a tap",
+                "start_frame": 9365,
+                "stop_frame": 9411
+            },
+            {
+                "narration_text": "Puts water in the kettle",
+                "start_frame": 9411,
+                "stop_frame": 9836
+            },
+            {
+                "narration_text": "Turns off the tap",
+                "start_frame": 9836,
+                "stop_frame": 9897
+            },
+            {
+                "narration_text": "Places the electric kettle on the kettle stand",
+                "start_frame": 9897,
+                "stop_frame": 9988
+            },
+            {
+                "narration_text": "Plugs in the power cable in the socket",
+                "start_frame": 9988,
+                "stop_frame": 10054
+            }
+        ]
+    },
+    {
+        "task_goal": "Plug in and turn on the electric kettle.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the electric kettle on the kettle stand",
+                "start_frame": 9897,
+                "stop_frame": 9988
+            },
+            {
+                "narration_text": "Plugs in the power cable in the socket",
+                "start_frame": 9988,
+                "stop_frame": 10054
+            },
+            {
+                "narration_text": "Turns on the electric kettle",
+                "start_frame": 10054,
+                "stop_frame": 10075
+            },
+            {
+                "narration_text": "Turns around the kitchen",
+                "start_frame": 10075,
+                "stop_frame": 10443
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare the frying pan and oil for cooking.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 11797,
+                "stop_frame": 12007
+            },
+            {
+                "narration_text": "Removes a bottle of a cooking oil",
+                "start_frame": 12007,
+                "stop_frame": 12067
+            },
+            {
+                "narration_text": "Puts the oil in the frying pan",
+                "start_frame": 12067,
+                "stop_frame": 12308
+            },
+            {
+                "narration_text": "Places back a bottle of the cooking oil in the drawer",
+                "start_frame": 12308,
+                "stop_frame": 12406
+            },
+            {
+                "narration_text": "Touches the fridge",
+                "start_frame": 12406,
+                "stop_frame": 12544
+            },
+            {
+                "narration_text": "Checks a bottle of the unsure",
+                "start_frame": 12544,
+                "stop_frame": 12620
+            },
+            {
+                "narration_text": "Looks around the kitchen",
+                "start_frame": 12620,
+                "stop_frame": 12726
+            },
+            {
+                "narration_text": "Turns on the cooker",
+                "start_frame": 12726,
+                "stop_frame": 12762
+            },
+            {
+                "narration_text": "Holds a frying pan",
+                "start_frame": 12762,
+                "stop_frame": 12874
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour cooking oil into frying pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 11797,
+                "stop_frame": 12007
+            },
+            {
+                "narration_text": "Removes a bottle of a cooking oil",
+                "start_frame": 12007,
+                "stop_frame": 12067
+            },
+            {
+                "narration_text": "Puts the oil in the frying pan",
+                "start_frame": 12067,
+                "stop_frame": 12308
+            },
+            {
+                "narration_text": "Places back a bottle of the cooking oil in the drawer",
+                "start_frame": 12308,
+                "stop_frame": 12406
+            },
+            {
+                "narration_text": "Touches the fridge",
+                "start_frame": 12406,
+                "stop_frame": 12544
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn on the cooker.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Looks around the kitchen",
+                "start_frame": 12620,
+                "stop_frame": 12726
+            },
+            {
+                "narration_text": "Turns on the cooker",
+                "start_frame": 12726,
+                "stop_frame": 12762
+            },
+            {
+                "narration_text": "Holds a frying pan",
+                "start_frame": 12762,
+                "stop_frame": 12874
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare and chop carrot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a fruit peeler",
+                "start_frame": 16354,
+                "stop_frame": 16383
+            },
+            {
+                "narration_text": "Peels a carrot with fruit peeler",
+                "start_frame": 16383,
+                "stop_frame": 17193
+            },
+            {
+                "narration_text": "Places down the fruit peeler",
+                "start_frame": 17193,
+                "stop_frame": 17252
+            },
+            {
+                "narration_text": "Picks a knife on the chopping board",
+                "start_frame": 17252,
+                "stop_frame": 17263
+            },
+            {
+                "narration_text": "Places the carrot on the chopping board",
+                "start_frame": 17263,
+                "stop_frame": 17329
+            },
+            {
+                "narration_text": "Cuts the carrot into two halves",
+                "start_frame": 17329,
+                "stop_frame": 17361
+            },
+            {
+                "narration_text": "Chops the carrot into small pieces",
+                "start_frame": 17361,
+                "stop_frame": 17497
+            },
+            {
+                "narration_text": "Picks another half",
+                "start_frame": 17497,
+                "stop_frame": 17546
+            },
+            {
+                "narration_text": "Chops the carrot into small pieces",
+                "start_frame": 17546,
+                "stop_frame": 17701
+            }
+        ]
+    },
+    {
+        "task_goal": "Peel the carrot with fruit peeler.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a fruit peeler",
+                "start_frame": 16354,
+                "stop_frame": 16383
+            },
+            {
+                "narration_text": "Peels a carrot with fruit peeler",
+                "start_frame": 16383,
+                "stop_frame": 17193
+            },
+            {
+                "narration_text": "Places down the fruit peeler",
+                "start_frame": 17193,
+                "stop_frame": 17252
+            },
+            {
+                "narration_text": "Picks a knife on the chopping board",
+                "start_frame": 17252,
+                "stop_frame": 17263
+            }
+        ]
+    },
+    {
+        "task_goal": "Chop the carrot into small pieces.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a knife on the chopping board",
+                "start_frame": 17252,
+                "stop_frame": 17263
+            },
+            {
+                "narration_text": "Places the carrot on the chopping board",
+                "start_frame": 17263,
+                "stop_frame": 17329
+            },
+            {
+                "narration_text": "Cuts the carrot into two halves",
+                "start_frame": 17329,
+                "stop_frame": 17361
+            },
+            {
+                "narration_text": "Chops the carrot into small pieces",
+                "start_frame": 17361,
+                "stop_frame": 17497
+            },
+            {
+                "narration_text": "Picks another half",
+                "start_frame": 17497,
+                "stop_frame": 17546
+            },
+            {
+                "narration_text": "Chops the carrot into small pieces",
+                "start_frame": 17546,
+                "stop_frame": 17701
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour hot water into the prepared dish.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks an electronic kettle",
+                "start_frame": 17849,
+                "stop_frame": 17900
+            },
+            {
+                "narration_text": "Pours the hot water to the unsure",
+                "start_frame": 17900,
+                "stop_frame": 18539
+            },
+            {
+                "narration_text": "Opens the lid of the electronic kettle",
+                "start_frame": 18539,
+                "stop_frame": 18585
+            },
+            {
+                "narration_text": "Places back the kettle to the kettle stand",
+                "start_frame": 18585,
+                "stop_frame": 18727
+            }
+        ]
+    }
+]

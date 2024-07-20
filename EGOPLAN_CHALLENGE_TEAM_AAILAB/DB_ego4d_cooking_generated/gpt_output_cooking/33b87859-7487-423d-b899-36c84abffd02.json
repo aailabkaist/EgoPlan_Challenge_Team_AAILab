@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eebr8XkiebKPWWeamS6xkJ8tYil1",
+    "object": "chat.completion",
+    "created": 1719476251,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook onion, cabbage, and cucumber dish using a variety of kitchen utensils and appliances.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare cooking environment and gather ingredients\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 529,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Hold the camera and pick the fry pan\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 163\n        },\n        {\n          \"secondary_subgoal\": \"Fetch water into the fry pan using the tap\",\n          \"start_timestamp\": 163,\n          \"stop_timestamp\": 311\n        },\n        {\n          \"secondary_subgoal\": \"Put the fry pan on the gas cooker\",\n          \"start_timestamp\": 352,\n          \"stop_timestamp\": 529\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cut and prepare onions\",\n      \"start_timestamp\": 529,\n      \"stop_timestamp\": 1300,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Align and cut first onion on the chopping board\",\n          \"start_timestamp\": 529,\n          \"stop_timestamp\": 764\n        },\n        {\n          \"secondary_subgoal\": \"Fetch and wash another onion\",\n          \"start_timestamp\": 877,\n          \"stop_timestamp\": 1040\n        },\n        {\n          \"secondary_subgoal\": \"Chop the second onion\",\n          \"start_timestamp\": 1040,\n          \"stop_timestamp\": 1300\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Add ingredients to the fry pan\",\n      \"start_timestamp\": 1300,\n      \"stop_timestamp\": 1523,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put chopped onion in the fry pan\",\n          \"start_timestamp\": 1300,\n          \"stop_timestamp\": 1398\n        },\n        {\n          \"secondary_subgoal\": \"Pick and wrap paper\",\n          \"start_timestamp\": 1398,\n          \"stop_timestamp\": 1581\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cut and prepare other ingredients\",\n      \"start_timestamp\": 1617,\n      \"stop_timestamp\": 4131,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut vegetables (unsure) and wash ingredients\",\n          \"start_timestamp\": 1631,\n          \"stop_timestamp\": 2872\n        },\n        {\n          \"secondary_subgoal\": \"Cut and prepare cabbage\",\n          \"start_timestamp\": 5194,\n          \"stop_timestamp\": 6741\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook prepared dishes\",\n      \"start_timestamp\": 5155,\n      \"stop_timestamp\": 9954,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turn on gas cooker and place cooking pot\",\n          \"start_timestamp\": 5072,\n          \"stop_timestamp\": 7299\n        },\n        {\n          \"secondary_subgoal\": \"Add last minute ingredients and mix\",\n          \"start_timestamp\": 9946,\n          \"stop_timestamp\": 10426\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up and store residuals\",\n      \"start_timestamp\": 9201,\n      \"stop_timestamp\": 21323,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Rinse hands and pick a towel\",\n          \"start_timestamp\": 9201,\n          \"stop_timestamp\": 9292\n        },\n        {\n          \"secondary_subgoal\": \"Store onion and wrapped items in the fridge\",\n          \"start_timestamp\": 11095,\n          \"stop_timestamp\": 11904\n        },\n        {\n          \"secondary_subgoal\": \"Scrubbing dishes and utensils\",\n          \"start_timestamp\": 13364,\n          \"stop_timestamp\": 16725\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2891,
+        "completion_tokens": 836,
+        "total_tokens": 3727
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

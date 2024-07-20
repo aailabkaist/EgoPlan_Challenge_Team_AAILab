@@ -1,0 +1,907 @@
+[
+    {
+        "task_goal": "Pick rolls and open wrapper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks some rolls",
+                "start_frame": 33,
+                "stop_frame": 136
+            },
+            {
+                "narration_text": "#C C opens the wrapper",
+                "start_frame": 136,
+                "stop_frame": 232
+            },
+            {
+                "narration_text": "#C C removes the rolls from the paper",
+                "start_frame": 232,
+                "stop_frame": 357
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove rolls from the wrapper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the wrapper",
+                "start_frame": 136,
+                "stop_frame": 232
+            },
+            {
+                "narration_text": "#C C removes the rolls from the paper",
+                "start_frame": 232,
+                "stop_frame": 357
+            },
+            {
+                "narration_text": "#C C puts the wrapper aside",
+                "start_frame": 357,
+                "stop_frame": 393
+            }
+        ]
+    },
+    {
+        "task_goal": "Put wrapper aside and pick a knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C removes the rolls from the paper",
+                "start_frame": 232,
+                "stop_frame": 357
+            },
+            {
+                "narration_text": "#C C puts the wrapper aside",
+                "start_frame": 357,
+                "stop_frame": 393
+            },
+            {
+                "narration_text": "#C C picks a knife",
+                "start_frame": 393,
+                "stop_frame": 466
+            },
+            {
+                "narration_text": "#C C Cuts the rolls",
+                "start_frame": 466,
+                "stop_frame": 848
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut the rolls with knife and hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a knife",
+                "start_frame": 393,
+                "stop_frame": 466
+            },
+            {
+                "narration_text": "#C C Cuts the rolls",
+                "start_frame": 466,
+                "stop_frame": 848
+            },
+            {
+                "narration_text": "#C C puts the knife down",
+                "start_frame": 848,
+                "stop_frame": 880
+            },
+            {
+                "narration_text": "#C C lifts the roll",
+                "start_frame": 880,
+                "stop_frame": 893
+            },
+            {
+                "narration_text": "#C C cuts the rolls with hand",
+                "start_frame": 893,
+                "stop_frame": 1071
+            },
+            {
+                "narration_text": "#C C picks cheese",
+                "start_frame": 1071,
+                "stop_frame": 1275
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare cheese slices and insert them in rolls",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cuts the rolls with hand",
+                "start_frame": 893,
+                "stop_frame": 1071
+            },
+            {
+                "narration_text": "#C C picks cheese",
+                "start_frame": 1071,
+                "stop_frame": 1275
+            },
+            {
+                "narration_text": "#C C removes the paper",
+                "start_frame": 1275,
+                "stop_frame": 1306
+            },
+            {
+                "narration_text": "#C C picks a slice of cheese",
+                "start_frame": 1306,
+                "stop_frame": 1375
+            },
+            {
+                "narration_text": "#C C folds the slice",
+                "start_frame": 1375,
+                "stop_frame": 1461
+            },
+            {
+                "narration_text": "#C C puts the cheese in the roll",
+                "start_frame": 1461,
+                "stop_frame": 1521
+            },
+            {
+                "narration_text": "#C C picks a slice of cheese",
+                "start_frame": 1521,
+                "stop_frame": 1594
+            },
+            {
+                "narration_text": "#C C folds the slice",
+                "start_frame": 1594,
+                "stop_frame": 1748
+            },
+            {
+                "narration_text": "#C C puts the cheese in the roll",
+                "start_frame": 1748,
+                "stop_frame": 1783
+            },
+            {
+                "narration_text": "#C C picks a slice of cheese",
+                "start_frame": 1783,
+                "stop_frame": 1838
+            },
+            {
+                "narration_text": "#C C folds the slice",
+                "start_frame": 1838,
+                "stop_frame": 1939
+            },
+            {
+                "narration_text": "#C C puts the cheese in the roll",
+                "start_frame": 1939,
+                "stop_frame": 2060
+            },
+            {
+                "narration_text": "#C C picks a slice of cheese",
+                "start_frame": 2060,
+                "stop_frame": 2126
+            },
+            {
+                "narration_text": "#C C folds the slice",
+                "start_frame": 2126,
+                "stop_frame": 2167
+            },
+            {
+                "narration_text": "#C C puts the cheese in the roll",
+                "start_frame": 2167,
+                "stop_frame": 2226
+            },
+            {
+                "narration_text": "#C C walks to a cabinet",
+                "start_frame": 2226,
+                "stop_frame": 2321
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare the rolls for baking",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks to a cabinet",
+                "start_frame": 2226,
+                "stop_frame": 2321
+            },
+            {
+                "narration_text": "#C C opens a cabinet",
+                "start_frame": 2321,
+                "stop_frame": 2493
+            },
+            {
+                "narration_text": "#C C removes a tray",
+                "start_frame": 2493,
+                "stop_frame": 2553
+            },
+            {
+                "narration_text": "#C C turns to the counter",
+                "start_frame": 2553,
+                "stop_frame": 2603
+            },
+            {
+                "narration_text": "#C C puts the tray on the counter",
+                "start_frame": 2603,
+                "stop_frame": 2654
+            },
+            {
+                "narration_text": "#C C puts the rolls in the tray",
+                "start_frame": 2654,
+                "stop_frame": 2922
+            },
+            {
+                "narration_text": "#C C picks the tray",
+                "start_frame": 2922,
+                "stop_frame": 2973
+            },
+            {
+                "narration_text": "#C C opens the oven",
+                "start_frame": 2973,
+                "stop_frame": 3018
+            },
+            {
+                "narration_text": "#C C puts the tray in the oven",
+                "start_frame": 3018,
+                "stop_frame": 3079
+            },
+            {
+                "narration_text": "#C C presses on the oven",
+                "start_frame": 3079,
+                "stop_frame": 3118
+            },
+            {
+                "narration_text": "#C C walks to the fridge",
+                "start_frame": 3118,
+                "stop_frame": 3221
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk to cabinet and retrieve a tray",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks to a cabinet",
+                "start_frame": 2226,
+                "stop_frame": 2321
+            },
+            {
+                "narration_text": "#C C opens a cabinet",
+                "start_frame": 2321,
+                "stop_frame": 2493
+            },
+            {
+                "narration_text": "#C C removes a tray",
+                "start_frame": 2493,
+                "stop_frame": 2553
+            },
+            {
+                "narration_text": "#C C turns to the counter",
+                "start_frame": 2553,
+                "stop_frame": 2603
+            },
+            {
+                "narration_text": "#C C puts the tray on the counter",
+                "start_frame": 2603,
+                "stop_frame": 2654
+            }
+        ]
+    },
+    {
+        "task_goal": "Put rolls in tray and place in the oven",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the tray on the counter",
+                "start_frame": 2603,
+                "stop_frame": 2654
+            },
+            {
+                "narration_text": "#C C puts the rolls in the tray",
+                "start_frame": 2654,
+                "stop_frame": 2922
+            },
+            {
+                "narration_text": "#C C picks the tray",
+                "start_frame": 2922,
+                "stop_frame": 2973
+            },
+            {
+                "narration_text": "#C C opens the oven",
+                "start_frame": 2973,
+                "stop_frame": 3018
+            },
+            {
+                "narration_text": "#C C puts the tray in the oven",
+                "start_frame": 3018,
+                "stop_frame": 3079
+            },
+            {
+                "narration_text": "#C C presses on the oven",
+                "start_frame": 3079,
+                "stop_frame": 3118
+            }
+        ]
+    },
+    {
+        "task_goal": "Press buttons on oven",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the tray in the oven",
+                "start_frame": 3018,
+                "stop_frame": 3079
+            },
+            {
+                "narration_text": "#C C presses on the oven",
+                "start_frame": 3079,
+                "stop_frame": 3118
+            },
+            {
+                "narration_text": "#C C walks to the fridge",
+                "start_frame": 3118,
+                "stop_frame": 3221
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare additional ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks to the fridge",
+                "start_frame": 3118,
+                "stop_frame": 3221
+            },
+            {
+                "narration_text": "#C C opens fridge",
+                "start_frame": 3221,
+                "stop_frame": 3271
+            },
+            {
+                "narration_text": "#C C picks #unsure",
+                "start_frame": 3271,
+                "stop_frame": 3359
+            },
+            {
+                "narration_text": "#C C puts #unsure down",
+                "start_frame": 3359,
+                "stop_frame": 3446
+            },
+            {
+                "narration_text": "#C C moves the cheese",
+                "start_frame": 3446,
+                "stop_frame": 3508
+            },
+            {
+                "narration_text": "#C C picks chopping board",
+                "start_frame": 3508,
+                "stop_frame": 3576
+            },
+            {
+                "narration_text": "#C C puts the board down",
+                "start_frame": 3576,
+                "stop_frame": 3636
+            },
+            {
+                "narration_text": "#C C opens the can #unsure",
+                "start_frame": 3636,
+                "stop_frame": 3747
+            },
+            {
+                "narration_text": "#C C removes #unsure from the can",
+                "start_frame": 3747,
+                "stop_frame": 3916
+            },
+            {
+                "narration_text": "#C C puts #unsure on the chopping board",
+                "start_frame": 3916,
+                "stop_frame": 4023
+            },
+            {
+                "narration_text": "#C C covers the can",
+                "start_frame": 4023,
+                "stop_frame": 4041
+            },
+            {
+                "narration_text": "#C C puts the can aside",
+                "start_frame": 4041,
+                "stop_frame": 4090
+            },
+            {
+                "narration_text": "#C C picks a knife",
+                "start_frame": 4090,
+                "stop_frame": 4140
+            },
+            {
+                "narration_text": "#C C cuts #unsure",
+                "start_frame": 4140,
+                "stop_frame": 6643
+            },
+            {
+                "narration_text": "#C C collects #unsure together",
+                "start_frame": 6643,
+                "stop_frame": 6824
+            },
+            {
+                "narration_text": "#C C walks to the oven",
+                "start_frame": 6824,
+                "stop_frame": 6900
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve and prepare items from fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks to the fridge",
+                "start_frame": 3118,
+                "stop_frame": 3221
+            },
+            {
+                "narration_text": "#C C opens fridge",
+                "start_frame": 3221,
+                "stop_frame": 3271
+            },
+            {
+                "narration_text": "#C C picks #unsure",
+                "start_frame": 3271,
+                "stop_frame": 3359
+            },
+            {
+                "narration_text": "#C C puts #unsure down",
+                "start_frame": 3359,
+                "stop_frame": 3446
+            },
+            {
+                "narration_text": "#C C moves the cheese",
+                "start_frame": 3446,
+                "stop_frame": 3508
+            },
+            {
+                "narration_text": "#C C picks chopping board",
+                "start_frame": 3508,
+                "stop_frame": 3576
+            },
+            {
+                "narration_text": "#C C puts the board down",
+                "start_frame": 3576,
+                "stop_frame": 3636
+            },
+            {
+                "narration_text": "#C C opens the can #unsure",
+                "start_frame": 3636,
+                "stop_frame": 3747
+            },
+            {
+                "narration_text": "#C C removes #unsure from the can",
+                "start_frame": 3747,
+                "stop_frame": 3916
+            },
+            {
+                "narration_text": "#C C puts #unsure on the chopping board",
+                "start_frame": 3916,
+                "stop_frame": 4023
+            },
+            {
+                "narration_text": "#C C covers the can",
+                "start_frame": 4023,
+                "stop_frame": 4041
+            },
+            {
+                "narration_text": "#C C puts the can aside",
+                "start_frame": 4041,
+                "stop_frame": 4090
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut unspecified items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a knife",
+                "start_frame": 4090,
+                "stop_frame": 4140
+            },
+            {
+                "narration_text": "#C C cuts #unsure",
+                "start_frame": 4140,
+                "stop_frame": 6643
+            },
+            {
+                "narration_text": "#C C collects #unsure together",
+                "start_frame": 6643,
+                "stop_frame": 6824
+            }
+        ]
+    },
+    {
+        "task_goal": "Collect items together",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cuts #unsure",
+                "start_frame": 4140,
+                "stop_frame": 6643
+            },
+            {
+                "narration_text": "#C C collects #unsure together",
+                "start_frame": 6643,
+                "stop_frame": 6824
+            },
+            {
+                "narration_text": "#C C walks to the oven",
+                "start_frame": 6824,
+                "stop_frame": 6900
+            }
+        ]
+    },
+    {
+        "task_goal": "Take tray out of oven",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks to the oven",
+                "start_frame": 6824,
+                "stop_frame": 6900
+            },
+            {
+                "narration_text": "#C C wipes hand",
+                "start_frame": 6900,
+                "stop_frame": 6977
+            },
+            {
+                "narration_text": "#C C moves a paper of vegetable",
+                "start_frame": 6977,
+                "stop_frame": 7129
+            },
+            {
+                "narration_text": "#C C lifts the board",
+                "start_frame": 7129,
+                "stop_frame": 7152
+            },
+            {
+                "narration_text": "#C C puts the board down",
+                "start_frame": 7152,
+                "stop_frame": 7172
+            },
+            {
+                "narration_text": "#C C walks to the oven",
+                "start_frame": 7172,
+                "stop_frame": 7244
+            },
+            {
+                "narration_text": "#C C picks the oven",
+                "start_frame": 7244,
+                "stop_frame": 7282
+            },
+            {
+                "narration_text": "#C C opens the oven",
+                "start_frame": 7282,
+                "stop_frame": 7328
+            },
+            {
+                "narration_text": "#C C picks the tray",
+                "start_frame": 7328,
+                "stop_frame": 7444
+            },
+            {
+                "narration_text": "#C C Closes the oven",
+                "start_frame": 7444,
+                "stop_frame": 7569
+            },
+            {
+                "narration_text": "#C C puts the tray on the counter",
+                "start_frame": 7569,
+                "stop_frame": 7617
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare and put ham on rolls",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Drops the towel",
+                "start_frame": 7617,
+                "stop_frame": 7652
+            },
+            {
+                "narration_text": "#C C opens a pack of ham",
+                "start_frame": 7652,
+                "stop_frame": 8067
+            },
+            {
+                "narration_text": "#C C lifts the ham",
+                "start_frame": 8067,
+                "stop_frame": 8274
+            },
+            {
+                "narration_text": "#C C picks ham",
+                "start_frame": 8274,
+                "stop_frame": 8329
+            },
+            {
+                "narration_text": "#C C puts the ham on the roll",
+                "start_frame": 8329,
+                "stop_frame": 8360
+            },
+            {
+                "narration_text": "#C C picks ham",
+                "start_frame": 8360,
+                "stop_frame": 8456
+            },
+            {
+                "narration_text": "#C C puts the ham on the roll",
+                "start_frame": 8456,
+                "stop_frame": 8492
+            },
+            {
+                "narration_text": "#C C removes ham",
+                "start_frame": 8492,
+                "stop_frame": 8668
+            },
+            {
+                "narration_text": "#C C puts the ham on the roll",
+                "start_frame": 8668,
+                "stop_frame": 8694
+            },
+            {
+                "narration_text": "#C C removes ham",
+                "start_frame": 8694,
+                "stop_frame": 8832
+            },
+            {
+                "narration_text": "#C C puts the ham on the roll",
+                "start_frame": 8832,
+                "stop_frame": 8876
+            },
+            {
+                "narration_text": "#C C moves the paper",
+                "start_frame": 8876,
+                "stop_frame": 8917
+            },
+            {
+                "narration_text": "#C C removes ham",
+                "start_frame": 8917,
+                "stop_frame": 8991
+            },
+            {
+                "narration_text": "#C C puts the ham on the roll",
+                "start_frame": 8991,
+                "stop_frame": 9086
+            },
+            {
+                "narration_text": "#C C removes ham",
+                "start_frame": 9086,
+                "stop_frame": 9201
+            },
+            {
+                "narration_text": "#C C puts the ham on the roll",
+                "start_frame": 9201,
+                "stop_frame": 9233
+            },
+            {
+                "narration_text": "#C C removes ham",
+                "start_frame": 9233,
+                "stop_frame": 9405
+            },
+            {
+                "narration_text": "#C C puts the ham on the roll",
+                "start_frame": 9405,
+                "stop_frame": 9447
+            },
+            {
+                "narration_text": "#C C puts the ham on the roll",
+                "start_frame": 9447,
+                "stop_frame": 9527
+            },
+            {
+                "narration_text": "#C C picks #unsure",
+                "start_frame": 9527,
+                "stop_frame": 9585
+            }
+        ]
+    },
+    {
+        "task_goal": "Unsure substance with spoon onto rolls",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens a can #unsure",
+                "start_frame": 9686,
+                "stop_frame": 9742
+            },
+            {
+                "narration_text": "#C C scoops #unsure with spoon",
+                "start_frame": 9742,
+                "stop_frame": 9795
+            },
+            {
+                "narration_text": "#C C puts #unsure on the roll",
+                "start_frame": 9795,
+                "stop_frame": 9844
+            },
+            {
+                "narration_text": "#C C scoops #unsure with spoon",
+                "start_frame": 9844,
+                "stop_frame": 9874
+            },
+            {
+                "narration_text": "#C C puts #unsure on the roll",
+                "start_frame": 9874,
+                "stop_frame": 9917
+            },
+            {
+                "narration_text": "#C C scoops #unsure with spoon",
+                "start_frame": 9917,
+                "stop_frame": 9949
+            },
+            {
+                "narration_text": "#C C puts #unsure on the roll",
+                "start_frame": 9949,
+                "stop_frame": 9991
+            },
+            {
+                "narration_text": "#C C scoops #unsure with spoon",
+                "start_frame": 9991,
+                "stop_frame": 10034
+            },
+            {
+                "narration_text": "#C C puts #unsure on the roll",
+                "start_frame": 10034,
+                "stop_frame": 10095
+            },
+            {
+                "narration_text": "#C C spreads #unsure",
+                "start_frame": 10095,
+                "stop_frame": 10733
+            }
+        ]
+    },
+    {
+        "task_goal": "Spread substance on rolls",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C spreads #unsure",
+                "start_frame": 10095,
+                "stop_frame": 10733
+            },
+            {
+                "narration_text": "#C C covers #unsure",
+                "start_frame": 10733,
+                "stop_frame": 10795
+            },
+            {
+                "narration_text": "#C C picks a bottle",
+                "start_frame": 10795,
+                "stop_frame": 10828
+            },
+            {
+                "narration_text": "#C C opens the bottle",
+                "start_frame": 10828,
+                "stop_frame": 10838
+            },
+            {
+                "narration_text": "#C C picks a spoon",
+                "start_frame": 10838,
+                "stop_frame": 10871
+            },
+            {
+                "narration_text": "#C C scoops #unsure with spoon",
+                "start_frame": 10871,
+                "stop_frame": 10938
+            },
+            {
+                "narration_text": "#C C puts #unsure on the rolls",
+                "start_frame": 10938,
+                "stop_frame": 11236
+            },
+            {
+                "narration_text": "#C C spreads #unsure on the rolls",
+                "start_frame": 11236,
+                "stop_frame": 11744
+            },
+            {
+                "narration_text": "#C C puts the spoon down",
+                "start_frame": 11744,
+                "stop_frame": 11806
+            }
+        ]
+    },
+    {
+        "task_goal": "Add vegetables from a bag onto rolls",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C gets vegetables from a bag",
+                "start_frame": 11806,
+                "stop_frame": 11838
+            },
+            {
+                "narration_text": "#C C puts the vegetables on the roll",
+                "start_frame": 11838,
+                "stop_frame": 11950
+            },
+            {
+                "narration_text": "#C C gets vegetables from a bag",
+                "start_frame": 11950,
+                "stop_frame": 12012
+            },
+            {
+                "narration_text": "#C C puts the vegetables on the roll",
+                "start_frame": 12012,
+                "stop_frame": 12073
+            },
+            {
+                "narration_text": "#C C gets vegetables from a bag",
+                "start_frame": 12073,
+                "stop_frame": 12123
+            },
+            {
+                "narration_text": "#C C puts the vegetables on the roll",
+                "start_frame": 12123,
+                "stop_frame": 12160
+            },
+            {
+                "narration_text": "#C C gets vegetables from a bag",
+                "start_frame": 12160,
+                "stop_frame": 12225
+            },
+            {
+                "narration_text": "#C C puts the vegetables on the roll",
+                "start_frame": 12225,
+                "stop_frame": 12282
+            },
+            {
+                "narration_text": "#C C gets vegetables from a bag",
+                "start_frame": 12282,
+                "stop_frame": 12329
+            },
+            {
+                "narration_text": "#C C puts the vegetables on the roll",
+                "start_frame": 12329,
+                "stop_frame": 12397
+            },
+            {
+                "narration_text": "#C C gets vegetables",
+                "start_frame": 12397,
+                "stop_frame": 12454
+            },
+            {
+                "narration_text": "#C C puts the vegetables on the roll",
+                "start_frame": 12454,
+                "stop_frame": 12487
+            },
+            {
+                "narration_text": "#C C gets vegetables",
+                "start_frame": 12487,
+                "stop_frame": 12524
+            },
+            {
+                "narration_text": "#C C puts the vegetables on the roll",
+                "start_frame": 12524,
+                "stop_frame": 12591
+            },
+            {
+                "narration_text": "#C C gets vegetables",
+                "start_frame": 12591,
+                "stop_frame": 12629
+            },
+            {
+                "narration_text": "#C C puts the vegetables on the roll",
+                "start_frame": 12629,
+                "stop_frame": 12707
+            },
+            {
+                "narration_text": "#C C gets vegetables",
+                "start_frame": 12707,
+                "stop_frame": 12755
+            },
+            {
+                "narration_text": "#C C puts the vegetables on the roll",
+                "start_frame": 12755,
+                "stop_frame": 12866
+            },
+            {
+                "narration_text": "#C C picks a towel",
+                "start_frame": 12866,
+                "stop_frame": 12916
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick a towel and put the towel down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a towel",
+                "start_frame": 12866,
+                "stop_frame": 12916
+            },
+            {
+                "narration_text": "#C C puts the towel down",
+                "start_frame": 12916,
+                "stop_frame": 13016
+            }
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+{
+    "overall_goal": "Prepare fish fillet for cooking",
+    "clips": [
+        {
+            "subgoal": "Prepare the foil for the fish fillet",
+            "start_timestamp": 23,
+            "stop_timestamp": 735,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Unroll and cut foil paper",
+                    "start_timestamp": 23,
+                    "stop_timestamp": 487
+                },
+                {
+                    "secondary_subgoal": "Place and adjust foil paper on the table",
+                    "start_timestamp": 487,
+                    "stop_timestamp": 735
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the fish fillet",
+            "start_timestamp": 735,
+            "stop_timestamp": 1482,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and open the fish fillet",
+                    "start_timestamp": 735,
+                    "stop_timestamp": 1073
+                },
+                {
+                    "secondary_subgoal": "Place fish fillet on the foil and clean hands",
+                    "start_timestamp": 1073,
+                    "stop_timestamp": 1307
+                },
+                {
+                    "secondary_subgoal": "Dispose of garbage",
+                    "start_timestamp": 1307,
+                    "stop_timestamp": 1482
+                }
+            ]
+        },
+        {
+            "subgoal": "Season the fish fillet with paste",
+            "start_timestamp": 1482,
+            "stop_timestamp": 2405,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve paste from fridge",
+                    "start_timestamp": 1482,
+                    "stop_timestamp": 1689
+                },
+                {
+                    "secondary_subgoal": "Pour paste onto fish fillet",
+                    "start_timestamp": 1689,
+                    "stop_timestamp": 2176
+                },
+                {
+                    "secondary_subgoal": "Return paste to fridge",
+                    "start_timestamp": 2176,
+                    "stop_timestamp": 2405
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the fish fillet",
+            "start_timestamp": 2405,
+            "stop_timestamp": 2728,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place fish fillet in the oven",
+                    "start_timestamp": 2405,
+                    "stop_timestamp": 2668
+                },
+                {
+                    "secondary_subgoal": "Close the oven",
+                    "start_timestamp": 2668,
+                    "stop_timestamp": 2728
+                }
+            ]
+        },
+        {
+            "subgoal": "Post-cooking activities",
+            "start_timestamp": 2728,
+            "stop_timestamp": 3385,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Miscellaneous activities",
+                    "start_timestamp": 2728,
+                    "stop_timestamp": 3385
+                }
+            ]
+        }
+    ]
+}

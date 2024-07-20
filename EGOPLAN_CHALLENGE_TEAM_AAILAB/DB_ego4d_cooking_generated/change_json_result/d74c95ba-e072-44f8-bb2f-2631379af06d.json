@@ -1,0 +1,105 @@
+{
+    "overall_goal": "Decorate a cake using different tools and materials.",
+    "clips": [
+        {
+            "subgoal": "Prepare and handle dough.",
+            "start_timestamp": 9,
+            "stop_timestamp": 8298,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Straighten up and prepare workspace.",
+                    "start_timestamp": 9,
+                    "stop_timestamp": 111
+                },
+                {
+                    "secondary_subgoal": "Handle dough with plastic bag and stick.",
+                    "start_timestamp": 1113,
+                    "stop_timestamp": 6816
+                },
+                {
+                    "secondary_subgoal": "Prepare dough in plastic bag.",
+                    "start_timestamp": 6491,
+                    "stop_timestamp": 6713
+                },
+                {
+                    "secondary_subgoal": "Put dough on steel bowl and prepare.",
+                    "start_timestamp": 6816,
+                    "stop_timestamp": 6914
+                },
+                {
+                    "secondary_subgoal": "Remove and reposition dough.",
+                    "start_timestamp": 6914,
+                    "stop_timestamp": 8298
+                }
+            ]
+        },
+        {
+            "subgoal": "Decorate with molten dough.",
+            "start_timestamp": 8298,
+            "stop_timestamp": 17787,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Make decorations.",
+                    "start_timestamp": 10035,
+                    "stop_timestamp": 17488
+                },
+                {
+                    "secondary_subgoal": "Fix and adjust decorations.",
+                    "start_timestamp": 11399,
+                    "stop_timestamp": 16977
+                }
+            ]
+        },
+        {
+            "subgoal": "Decorate the cake using a pastry bag.",
+            "start_timestamp": 17748,
+            "stop_timestamp": 23440,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare pastry bag.",
+                    "start_timestamp": 17787,
+                    "stop_timestamp": 18142
+                },
+                {
+                    "secondary_subgoal": "Add icing sugar to pastry bag.",
+                    "start_timestamp": 17972,
+                    "stop_timestamp": 18142
+                },
+                {
+                    "secondary_subgoal": "Decorate and adjust icing sugar.",
+                    "start_timestamp": 18272,
+                    "stop_timestamp": 23440
+                }
+            ]
+        },
+        {
+            "subgoal": "Model material for cake decoration.",
+            "start_timestamp": 25680,
+            "stop_timestamp": 36691,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Model and tighten the material.",
+                    "start_timestamp": 25680,
+                    "stop_timestamp": 31973
+                },
+                {
+                    "secondary_subgoal": "Model liquid-based material.",
+                    "start_timestamp": 31973,
+                    "stop_timestamp": 36691
+                }
+            ]
+        },
+        {
+            "subgoal": "Finalize the decorations.",
+            "start_timestamp": 36691,
+            "stop_timestamp": 36791,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Draw final decorations and adjust.",
+                    "start_timestamp": 36691,
+                    "stop_timestamp": 36791
+                }
+            ]
+        }
+    ]
+}

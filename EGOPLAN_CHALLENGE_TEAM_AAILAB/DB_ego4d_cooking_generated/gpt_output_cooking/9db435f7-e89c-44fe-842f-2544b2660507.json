@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efXy1y7lXZvdRXxYdreMreYedeG3",
+    "object": "chat.completion",
+    "created": 1719479854,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Make doughs\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Mix and prepare ingredients for dough\",\n      \"start_timestamp\": 4187,\n      \"stop_timestamp\": 5529,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C makes doughs\",\n          \"start_timestamp\": 4187,\n          \"stop_timestamp\": 4331\n        },\n        {\n          \"secondary_subgoal\": \"C converses with woman X\",\n          \"start_timestamp\": 4331,\n          \"stop_timestamp\": 4367\n        },\n        {\n          \"secondary_subgoal\": \"C makes doughs\",\n          \"start_timestamp\": 4367,\n          \"stop_timestamp\": 4846\n        },\n        {\n          \"secondary_subgoal\": \"C squeezes a nylon paper\",\n          \"start_timestamp\": 4846,\n          \"stop_timestamp\": 4901\n        },\n        {\n          \"secondary_subgoal\": \"C makes doughs\",\n          \"start_timestamp\": 4901,\n          \"stop_timestamp\": 5529\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Retrieve and handle ingredients\",\n      \"start_timestamp\": 5529,\n      \"stop_timestamp\": 5928,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C walks outside the house\",\n          \"start_timestamp\": 5529,\n          \"stop_timestamp\": 5730\n        },\n        {\n          \"secondary_subgoal\": \"C opens a nylon paper\",\n          \"start_timestamp\": 5730,\n          \"stop_timestamp\": 5793\n        },\n        {\n          \"secondary_subgoal\": \"O woman X puts flour inside the paper\",\n          \"start_timestamp\": 5793,\n          \"stop_timestamp\": 5856\n        },\n        {\n          \"secondary_subgoal\": \"C closes the nylon paper\",\n          \"start_timestamp\": 5856,\n          \"stop_timestamp\": 5928\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Walk back\",\n      \"start_timestamp\": 5928,\n      \"stop_timestamp\": 6106,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C walks outside the house\",\n          \"start_timestamp\": 5928,\n          \"stop_timestamp\": 6106\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Continue making doughs\",\n      \"start_timestamp\": 6106,\n      \"stop_timestamp\": 8011,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C makes doughs\",\n          \"start_timestamp\": 6106,\n          \"stop_timestamp\": 7030\n        },\n        {\n          \"secondary_subgoal\": \"O woman X converses with camera wearer\",\n          \"start_timestamp\": 7030,\n          \"stop_timestamp\": 7106\n        },\n        {\n          \"secondary_subgoal\": \"C converses with woman X\",\n          \"start_timestamp\": 7106,\n          \"stop_timestamp\": 7181\n        },\n        {\n          \"secondary_subgoal\": \"C makes doughs\",\n          \"start_timestamp\": 7181,\n          \"stop_timestamp\": 7325\n        },\n        {\n          \"secondary_subgoal\": \"C converses with woman X\",\n          \"start_timestamp\": 7325,\n          \"stop_timestamp\": 7511\n        },\n        {\n          \"secondary_subgoal\": \"C makes doughs\",\n          \"start_timestamp\": 7511,\n          \"stop_timestamp\": 7786\n        },\n        {\n          \"secondary_subgoal\": \"O woman X converses with camera wearer\",\n          \"start_timestamp\": 7786,\n          \"stop_timestamp\": 7839\n        },\n        {\n          \"secondary_subgoal\": \"C makes doughs\",\n          \"start_timestamp\": 7839,\n          \"stop_timestamp\": 8011\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Walk and place nylon paper\",\n      \"start_timestamp\": 8011,\n      \"stop_timestamp\": 8409,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"C walks outside the house\",\n          \"start_timestamp\": 8011,\n          \"stop_timestamp\": 8309\n        },\n        {\n          \"secondary_subgoal\": \"C puts down a nylon paper\",\n          \"start_timestamp\": 8309,\n          \"stop_timestamp\": 8409\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 553,
+        "completion_tokens": 941,
+        "total_tokens": 1494
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

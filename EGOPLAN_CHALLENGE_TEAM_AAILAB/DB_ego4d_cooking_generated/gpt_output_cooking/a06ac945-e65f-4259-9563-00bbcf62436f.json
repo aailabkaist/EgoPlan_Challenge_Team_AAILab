@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egy9uRLwAyvcu8o83ltgJLwmTRl7",
+    "object": "chat.completion",
+    "created": 1719485321,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal involving bread, vegetables, and meat while cleaning and organizing the kitchen area.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Fetch water and prepare the workspace\",\n      \"start_timestamp\": \"49\",\n      \"stop_timestamp\": \"2212\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Fetch water from the fridge dispenser\",\n          \"start_timestamp\": \"49\",\n          \"stop_timestamp\": \"564\"\n        },\n        {\n          \"secondary_subgoal\": \"Prepare the workspace by washing the chopping board\",\n          \"start_timestamp\": \"1004\",\n          \"stop_timestamp\": \"1758\"\n        },\n        {\n          \"secondary_subgoal\": \"Place the clean chopping board on the table\",\n          \"start_timestamp\": \"2212\",\n          \"stop_timestamp\": \"2237\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Gather ingredients from the fridge\",\n      \"start_timestamp\": \"2439\",\n      \"stop_timestamp\": \"6512\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Open the fridge and pick various items\",\n          \"start_timestamp\": \"2439\",\n          \"stop_timestamp\": \"5420\"\n        },\n        {\n          \"secondary_subgoal\": \"Place selected items on the table\",\n          \"start_timestamp\": \"5420\",\n          \"stop_timestamp\": \"6512\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and cook the meal\",\n      \"start_timestamp\": \"6677\",\n      \"stop_timestamp\": \"11511\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare bread and vegetables\",\n          \"start_timestamp\": \"6677\",\n          \"stop_timestamp\": \"8060\"\n        },\n        {\n          \"secondary_subgoal\": \"Chop vegetables and open tin contents\",\n          \"start_timestamp\": \"8060\",\n          \"stop_timestamp\": \"9434\"\n        },\n        {\n          \"secondary_subgoal\": \"Cook meal on stove\",\n          \"start_timestamp\": \"9434\",\n          \"stop_timestamp\": \"11511\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning up and conversing\",\n      \"start_timestamp\": \"11744\",\n      \"stop_timestamp\": \"16408\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean utensils and organize kitchen\",\n          \"start_timestamp\": \"11744\",\n          \"stop_timestamp\": \"14743\"\n        },\n        {\n          \"secondary_subgoal\": \"Converse with person P and manage kitchen tasks\",\n          \"start_timestamp\": \"14743\",\n          \"stop_timestamp\": \"16408\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final cleaning and organizing\",\n      \"start_timestamp\": \"17144\",\n      \"stop_timestamp\": \"26386\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Dispose of waste and clean counters\",\n          \"start_timestamp\": \"17144\",\n          \"stop_timestamp\": \"18255\"\n        },\n        {\n          \"secondary_subgoal\": \"Organize utensils and wipe surfaces\",\n          \"start_timestamp\": \"18255\",\n          \"stop_timestamp\": \"26386\"\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3205,
+        "completion_tokens": 685,
+        "total_tokens": 3890
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

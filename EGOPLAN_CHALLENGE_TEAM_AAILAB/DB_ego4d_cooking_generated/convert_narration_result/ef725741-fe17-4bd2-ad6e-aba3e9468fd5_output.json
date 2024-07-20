@@ -1,0 +1,682 @@
+[
+    {
+        "task_goal": "Prepare flour for the dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns on a weighing machine with a hand",
+                "start_frame": 45,
+                "stop_frame": 94
+            },
+            {
+                "narration_text": "Looks around a kitchen",
+                "start_frame": 94,
+                "stop_frame": 135
+            },
+            {
+                "narration_text": "Picks up a packet of flour from a table",
+                "start_frame": 135,
+                "stop_frame": 242
+            },
+            {
+                "narration_text": "Pours flour on a bowl with hands",
+                "start_frame": 242,
+                "stop_frame": 822
+            },
+            {
+                "narration_text": "Adjusts a packet of flour with hands",
+                "start_frame": 822,
+                "stop_frame": 932
+            },
+            {
+                "narration_text": "Wraps a packet of flour with hands",
+                "start_frame": 932,
+                "stop_frame": 1053
+            },
+            {
+                "narration_text": "Picks up a peg from a piece of paper",
+                "start_frame": 1053,
+                "stop_frame": 1114
+            },
+            {
+                "narration_text": "Closes a packet of flour with a peg",
+                "start_frame": 1114,
+                "stop_frame": 1138
+            },
+            {
+                "narration_text": "Puts down a packet of flour on a table",
+                "start_frame": 1138,
+                "stop_frame": 1203
+            },
+            {
+                "narration_text": "Wipes hands on a piece of cloth",
+                "start_frame": 1203,
+                "stop_frame": 1265
+            },
+            {
+                "narration_text": "Turns on a weighing machine",
+                "start_frame": 1265,
+                "stop_frame": 1349
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn on the weighing machine",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns on a weighing machine with a hand",
+                "start_frame": 45,
+                "stop_frame": 94
+            },
+            {
+                "narration_text": "Looks around a kitchen",
+                "start_frame": 94,
+                "stop_frame": 135
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up and pour flour into a bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Looks around a kitchen",
+                "start_frame": 94,
+                "stop_frame": 135
+            },
+            {
+                "narration_text": "Picks up a packet of flour from a table",
+                "start_frame": 135,
+                "stop_frame": 242
+            },
+            {
+                "narration_text": "Pours flour on a bowl with hands",
+                "start_frame": 242,
+                "stop_frame": 822
+            },
+            {
+                "narration_text": "Adjusts a packet of flour with hands",
+                "start_frame": 822,
+                "stop_frame": 932
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjust the flour packet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours flour on a bowl with hands",
+                "start_frame": 242,
+                "stop_frame": 822
+            },
+            {
+                "narration_text": "Adjusts a packet of flour with hands",
+                "start_frame": 822,
+                "stop_frame": 932
+            },
+            {
+                "narration_text": "Wraps a packet of flour with hands",
+                "start_frame": 932,
+                "stop_frame": 1053
+            },
+            {
+                "narration_text": "Picks up a peg from a piece of paper",
+                "start_frame": 1053,
+                "stop_frame": 1114
+            }
+        ]
+    },
+    {
+        "task_goal": "Close the flour packet with a peg",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Wraps a packet of flour with hands",
+                "start_frame": 932,
+                "stop_frame": 1053
+            },
+            {
+                "narration_text": "Picks up a peg from a piece of paper",
+                "start_frame": 1053,
+                "stop_frame": 1114
+            },
+            {
+                "narration_text": "Closes a packet of flour with a peg",
+                "start_frame": 1114,
+                "stop_frame": 1138
+            },
+            {
+                "narration_text": "Puts down a packet of flour on a table",
+                "start_frame": 1138,
+                "stop_frame": 1203
+            }
+        ]
+    },
+    {
+        "task_goal": "Put down the flour packet and wipe hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes a packet of flour with a peg",
+                "start_frame": 1114,
+                "stop_frame": 1138
+            },
+            {
+                "narration_text": "Puts down a packet of flour on a table",
+                "start_frame": 1138,
+                "stop_frame": 1203
+            },
+            {
+                "narration_text": "Wipes hands on a piece of cloth",
+                "start_frame": 1203,
+                "stop_frame": 1265
+            },
+            {
+                "narration_text": "Turns on a weighing machine",
+                "start_frame": 1265,
+                "stop_frame": 1349
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn on the weighing machine",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves around a kitchen",
+                "start_frame": 1871,
+                "stop_frame": 2006
+            },
+            {
+                "narration_text": "Turns on a weighing machine with a hand",
+                "start_frame": 2006,
+                "stop_frame": 2138
+            },
+            {
+                "narration_text": "Picks up a kettle from a table",
+                "start_frame": 2138,
+                "stop_frame": 2214
+            }
+        ]
+    },
+    {
+        "task_goal": "Measure water using a kettle and jar",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up a kettle from a table",
+                "start_frame": 2138,
+                "stop_frame": 2214
+            },
+            {
+                "narration_text": "Pours water from a kettle to a measuring jar",
+                "start_frame": 2214,
+                "stop_frame": 2348
+            },
+            {
+                "narration_text": "Puts down a kettle on a table",
+                "start_frame": 2348,
+                "stop_frame": 2505
+            },
+            {
+                "narration_text": "Picks up a measuring jar from a weighing machine",
+                "start_frame": 2505,
+                "stop_frame": 2555
+            },
+            {
+                "narration_text": "Pours water from a measuring jar in a sink",
+                "start_frame": 2555,
+                "stop_frame": 2608
+            },
+            {
+                "narration_text": "Puts down a measuring jar on a weighing machine",
+                "start_frame": 2608,
+                "stop_frame": 2652
+            },
+            {
+                "narration_text": "Moves around a kitchen",
+                "start_frame": 2652,
+                "stop_frame": 2753
+            },
+            {
+                "narration_text": "Picks up a measuring jar from a weighing machine",
+                "start_frame": 2753,
+                "stop_frame": 2791
+            }
+        ]
+    },
+    {
+        "task_goal": "Put down the jar and turn on the weighing machine",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up a measuring jar from a weighing machine",
+                "start_frame": 4473,
+                "stop_frame": 4525
+            },
+            {
+                "narration_text": "Puts down a measuring jar on a table",
+                "start_frame": 4525,
+                "stop_frame": 4563
+            },
+            {
+                "narration_text": "Turns on a weighing machine",
+                "start_frame": 4563,
+                "stop_frame": 4591
+            },
+            {
+                "narration_text": "Picks up a packet from a table",
+                "start_frame": 4591,
+                "stop_frame": 4616
+            }
+        ]
+    },
+    {
+        "task_goal": "Add spices to the flour",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up a packet from a table",
+                "start_frame": 4591,
+                "stop_frame": 4616
+            },
+            {
+                "narration_text": "Shakes a packet with a hand",
+                "start_frame": 4616,
+                "stop_frame": 4669
+            },
+            {
+                "narration_text": "Opens up a packet with a hand",
+                "start_frame": 4669,
+                "stop_frame": 4909
+            },
+            {
+                "narration_text": "Sprinkles a spice on a measuring jar",
+                "start_frame": 4909,
+                "stop_frame": 5179
+            },
+            {
+                "narration_text": "Puts a packet in a dustbin",
+                "start_frame": 5179,
+                "stop_frame": 5255
+            },
+            {
+                "narration_text": "Picks up a tin from a table",
+                "start_frame": 5255,
+                "stop_frame": 5268
+            },
+            {
+                "narration_text": "Picks up a measuring spoon from a table",
+                "start_frame": 5268,
+                "stop_frame": 5288
+            },
+            {
+                "narration_text": "Opens up a tin with a hand",
+                "start_frame": 5288,
+                "stop_frame": 5309
+            },
+            {
+                "narration_text": "Stirs spice in a tin with a measuring spoon",
+                "start_frame": 5309,
+                "stop_frame": 5459
+            },
+            {
+                "narration_text": "Closes a tin with a hand",
+                "start_frame": 5459,
+                "stop_frame": 5470
+            },
+            {
+                "narration_text": "Puts down a measuring spoon on a table",
+                "start_frame": 5470,
+                "stop_frame": 5496
+            },
+            {
+                "narration_text": "Moves a tin on a table",
+                "start_frame": 5496,
+                "stop_frame": 5530
+            },
+            {
+                "narration_text": "Wipes a weighing machine with a hand",
+                "start_frame": 5530,
+                "stop_frame": 5592
+            },
+            {
+                "narration_text": "Picks up a weighing machine from a table",
+                "start_frame": 5592,
+                "stop_frame": 5618
+            },
+            {
+                "narration_text": "Puts a weighing machine on a table",
+                "start_frame": 5618,
+                "stop_frame": 5654
+            },
+            {
+                "narration_text": "Puts down a bowl on a weighing machine",
+                "start_frame": 5654,
+                "stop_frame": 5695
+            },
+            {
+                "narration_text": "Moves a bowl on a table",
+                "start_frame": 5695,
+                "stop_frame": 5735
+            },
+            {
+                "narration_text": "Puts down a tin on a table",
+                "start_frame": 5735,
+                "stop_frame": 5794
+            },
+            {
+                "narration_text": "Moves around a kitchen",
+                "start_frame": 5794,
+                "stop_frame": 5822
+            },
+            {
+                "narration_text": "Picks up a bowl from a weighing machine",
+                "start_frame": 5822,
+                "stop_frame": 5842
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and shake the packet of spices",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up a packet from a table",
+                "start_frame": 4591,
+                "stop_frame": 4616
+            },
+            {
+                "narration_text": "Shakes a packet with a hand",
+                "start_frame": 4616,
+                "stop_frame": 4669
+            },
+            {
+                "narration_text": "Opens up a packet with a hand",
+                "start_frame": 4669,
+                "stop_frame": 4909
+            },
+            {
+                "narration_text": "Sprinkles a spice on a measuring jar",
+                "start_frame": 4909,
+                "stop_frame": 5179
+            }
+        ]
+    },
+    {
+        "task_goal": "Sprinkle spices into the jar",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens up a packet with a hand",
+                "start_frame": 4669,
+                "stop_frame": 4909
+            },
+            {
+                "narration_text": "Sprinkles a spice on a measuring jar",
+                "start_frame": 4909,
+                "stop_frame": 5179
+            },
+            {
+                "narration_text": "Puts a packet in a dustbin",
+                "start_frame": 5179,
+                "stop_frame": 5255
+            },
+            {
+                "narration_text": "Picks up a tin from a table",
+                "start_frame": 5255,
+                "stop_frame": 5268
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir spices and adjust the tin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up a measuring spoon from a table",
+                "start_frame": 5268,
+                "stop_frame": 5288
+            },
+            {
+                "narration_text": "Opens up a tin with a hand",
+                "start_frame": 5288,
+                "stop_frame": 5309
+            },
+            {
+                "narration_text": "Stirs spice in a tin with a measuring spoon",
+                "start_frame": 5309,
+                "stop_frame": 5459
+            },
+            {
+                "narration_text": "Closes a tin with a hand",
+                "start_frame": 5459,
+                "stop_frame": 5470
+            },
+            {
+                "narration_text": "Puts down a measuring spoon on a table",
+                "start_frame": 5470,
+                "stop_frame": 5496
+            },
+            {
+                "narration_text": "Moves a tin on a table",
+                "start_frame": 5496,
+                "stop_frame": 5530
+            },
+            {
+                "narration_text": "Wipes a weighing machine with a hand",
+                "start_frame": 5530,
+                "stop_frame": 5592
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe the weighing machine",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves a tin on a table",
+                "start_frame": 5496,
+                "stop_frame": 5530
+            },
+            {
+                "narration_text": "Wipes a weighing machine with a hand",
+                "start_frame": 5530,
+                "stop_frame": 5592
+            },
+            {
+                "narration_text": "Picks up a weighing machine from a table",
+                "start_frame": 5592,
+                "stop_frame": 5618
+            },
+            {
+                "narration_text": "Puts a weighing machine on a table",
+                "start_frame": 5618,
+                "stop_frame": 5654
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare and add spices to the bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts a weighing machine on a table",
+                "start_frame": 5618,
+                "stop_frame": 5654
+            },
+            {
+                "narration_text": "Puts down a bowl on a weighing machine",
+                "start_frame": 5654,
+                "stop_frame": 5695
+            },
+            {
+                "narration_text": "Moves a bowl on a table",
+                "start_frame": 5695,
+                "stop_frame": 5735
+            },
+            {
+                "narration_text": "Puts down a tin on a table",
+                "start_frame": 5735,
+                "stop_frame": 5794
+            },
+            {
+                "narration_text": "Moves around a kitchen",
+                "start_frame": 5794,
+                "stop_frame": 5822
+            },
+            {
+                "narration_text": "Picks up a bowl from a weighing machine",
+                "start_frame": 5822,
+                "stop_frame": 5842
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir flour and adjust bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up a bowl from a weighing machine",
+                "start_frame": 5822,
+                "stop_frame": 5842
+            },
+            {
+                "narration_text": "Pours spice in a bowl",
+                "start_frame": 5842,
+                "stop_frame": 5884
+            },
+            {
+                "narration_text": "Wipes off flour from a bowl with a hand",
+                "start_frame": 5884,
+                "stop_frame": 5981
+            },
+            {
+                "narration_text": "Puts down a bowl on a weighing machine",
+                "start_frame": 5981,
+                "stop_frame": 6013
+            },
+            {
+                "narration_text": "Moves around a kitchen",
+                "start_frame": 6013,
+                "stop_frame": 6040
+            },
+            {
+                "narration_text": "Opens a tap with a hand",
+                "start_frame": 6040,
+                "stop_frame": 6057
+            },
+            {
+                "narration_text": "Cleans hands with running water from a tap",
+                "start_frame": 6057,
+                "stop_frame": 6078
+            },
+            {
+                "narration_text": "Closes a tap with a hand",
+                "start_frame": 6078,
+                "stop_frame": 6133
+            },
+            {
+                "narration_text": "Picks up a tissue from a tissue holder",
+                "start_frame": 6133,
+                "stop_frame": 6218
+            },
+            {
+                "narration_text": "Wipes hands with a piece of tissue",
+                "start_frame": 6218,
+                "stop_frame": 6315
+            }
+        ]
+    },
+    {
+        "task_goal": "Knead the dough repeatedly",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Mixes the flour with a spoon",
+                "start_frame": 14784,
+                "stop_frame": 15716
+            },
+            {
+                "narration_text": "Fixes the spoon",
+                "start_frame": 15716,
+                "stop_frame": 15799
+            },
+            {
+                "narration_text": "Mixes the flour with a spoon",
+                "start_frame": 15799,
+                "stop_frame": 16188
+            },
+            {
+                "narration_text": "Fixes the spoon",
+                "start_frame": 16188,
+                "stop_frame": 16321
+            },
+            {
+                "narration_text": "Mixes the flour with a spoon",
+                "start_frame": 16321,
+                "stop_frame": 17315
+            },
+            {
+                "narration_text": "Touches the spatula",
+                "start_frame": 17315,
+                "stop_frame": 17363
+            },
+            {
+                "narration_text": "Kneads the dough with the spatula",
+                "start_frame": 17363,
+                "stop_frame": 17805
+            },
+            {
+                "narration_text": "Sighs",
+                "start_frame": 17805,
+                "stop_frame": 17849
+            },
+            {
+                "narration_text": "Presses the spatula",
+                "start_frame": 17849,
+                "stop_frame": 17902
+            },
+            {
+                "narration_text": "Kneads the dough with the spatula",
+                "start_frame": 17902,
+                "stop_frame": 19061
+            },
+            {
+                "narration_text": "Looks at the spatula",
+                "start_frame": 19061,
+                "stop_frame": 19111
+            },
+            {
+                "narration_text": "Kneads the dough with the spatula",
+                "start_frame": 19111,
+                "stop_frame": 19200
+            },
+            {
+                "narration_text": "Presses the spatula with her hand",
+                "start_frame": 19200,
+                "stop_frame": 19372
+            },
+            {
+                "narration_text": "Kneads the dough with the spatula",
+                "start_frame": 19372,
+                "stop_frame": 19468
+            },
+            {
+                "narration_text": "Puts down the spatula",
+                "start_frame": 19468,
+                "stop_frame": 19474
+            },
+            {
+                "narration_text": "Takes a piece of paper",
+                "start_frame": 19474,
+                "stop_frame": 19504
+            },
+            {
+                "narration_text": "Rubs her fingers over the piece of paper",
+                "start_frame": 19504,
+                "stop_frame": 19528
+            },
+            {
+                "narration_text": "Puts down the piece of paper",
+                "start_frame": 19528,
+                "stop_frame": 19539
+            },
+            {
+                "narration_text": "Takes the spatula",
+                "start_frame": 19539,
+                "stop_frame": 19583
+            },
+            {
+                "narration_text": "Kneads the dough with the spatula",
+                "start_frame": 19583,
+                "stop_frame": 19683
+            }
+        ]
+    }
+]

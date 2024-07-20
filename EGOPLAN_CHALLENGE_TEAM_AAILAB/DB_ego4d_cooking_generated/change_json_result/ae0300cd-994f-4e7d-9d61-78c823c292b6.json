@@ -1,0 +1,101 @@
+{
+    "overall_goal": "Prepare and cook macaroni with cheese, milk, and other ingredients.",
+    "clips": [
+        {
+            "subgoal": "Prepare ingredients and tools for cooking macaroni.",
+            "start_timestamp": 514,
+            "stop_timestamp": 1471,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put meat into macaroni and prepare the pan.",
+                    "start_timestamp": 514,
+                    "stop_timestamp": 558
+                },
+                {
+                    "secondary_subgoal": "Remove meat remains from the pan and prepare tools.",
+                    "start_timestamp": 558,
+                    "stop_timestamp": 896
+                },
+                {
+                    "secondary_subgoal": "Prepare marinade and eggs.",
+                    "start_timestamp": 1194,
+                    "stop_timestamp": 1427
+                },
+                {
+                    "secondary_subgoal": "Put marinade into macaroni.",
+                    "start_timestamp": 1471,
+                    "stop_timestamp": 1487
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the macaroni and add ingredients.",
+            "start_timestamp": 1487,
+            "stop_timestamp": 4545,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Heat the cooking pot.",
+                    "start_timestamp": 1487,
+                    "stop_timestamp": 1591
+                },
+                {
+                    "secondary_subgoal": "Add eggs and wash hands.",
+                    "start_timestamp": 1591,
+                    "stop_timestamp": 2003
+                },
+                {
+                    "secondary_subgoal": "Add milk and mix ingredients.",
+                    "start_timestamp": 2003,
+                    "stop_timestamp": 2463
+                },
+                {
+                    "secondary_subgoal": "Turn pan and add more milk.",
+                    "start_timestamp": 2463,
+                    "stop_timestamp": 2660
+                },
+                {
+                    "secondary_subgoal": "Add black pepper.",
+                    "start_timestamp": 2660,
+                    "stop_timestamp": 3343
+                },
+                {
+                    "secondary_subgoal": "Grate cheese into macaroni.",
+                    "start_timestamp": 3343,
+                    "stop_timestamp": 4545
+                }
+            ]
+        },
+        {
+            "subgoal": "Final mixture and kitchen cleanup.",
+            "start_timestamp": 4545,
+            "stop_timestamp": 7172,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mix cheese into macaroni and clean spoon.",
+                    "start_timestamp": 4545,
+                    "stop_timestamp": 5330
+                },
+                {
+                    "secondary_subgoal": "Cover cooking pot and clean up knife.",
+                    "start_timestamp": 5330,
+                    "stop_timestamp": 6131
+                },
+                {
+                    "secondary_subgoal": "Dispose eggshells and store cheese in fridge.",
+                    "start_timestamp": 6131,
+                    "stop_timestamp": 6698
+                },
+                {
+                    "secondary_subgoal": "Dispose of milk packet and clean up kitchen area.",
+                    "start_timestamp": 6698,
+                    "stop_timestamp": 7072
+                },
+                {
+                    "secondary_subgoal": "Raise hands after completion.",
+                    "start_timestamp": 7072,
+                    "stop_timestamp": 7172
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehINvwX1yRyQ6NYehL7xCSXVCOFR",
+    "object": "chat.completion",
+    "created": 1719486575,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Clean and manage the household tasks\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Sweeping the compound\",\n      \"start_timestamp\": \"19879\",\n      \"stop_timestamp\": \"22867\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Sweeping and collecting trash\",\n          \"start_timestamp\": \"19879\",\n          \"stop_timestamp\": \"22210\"\n        },\n        {\n          \"secondary_subgoal\": \"Looking around and organizing broom\",\n          \"start_timestamp\": \"22210\",\n          \"stop_timestamp\": \"22738\"\n        },\n        {\n          \"secondary_subgoal\": \"Managing utensils\",\n          \"start_timestamp\": \"22738\",\n          \"stop_timestamp\": \"22867\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Tidying up and moving items\",\n      \"start_timestamp\": \"22867\",\n      \"stop_timestamp\": \"25967\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Moving utensils and pieces of cloth\",\n          \"start_timestamp\": \"22867\",\n          \"stop_timestamp\": \"23449\"\n        },\n        {\n          \"secondary_subgoal\": \"Handling cow dung\",\n          \"start_timestamp\": \"24739\",\n          \"stop_timestamp\": \"25907\"\n        },\n        {\n          \"secondary_subgoal\": \"Walking with the bucket\",\n          \"start_timestamp\": \"25907\",\n          \"stop_timestamp\": \"25967\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Emptying the trash bucket\",\n      \"start_timestamp\": \"25967\",\n      \"stop_timestamp\": \"26822\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Walking to the pit\",\n          \"start_timestamp\": \"26036\",\n          \"stop_timestamp\": \"26747\"\n        },\n        {\n          \"secondary_subgoal\": \"Pouring trash into the pit\",\n          \"start_timestamp\": \"26747\",\n          \"stop_timestamp\": \"26822\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Fetching and using water\",\n      \"start_timestamp\": \"27098\",\n      \"stop_timestamp\": \"39420\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Fetching water and cleaning\",\n          \"start_timestamp\": \"28250\",\n          \"stop_timestamp\": \"36190\"\n        },\n        {\n          \"secondary_subgoal\": \"Sprinkling and splashing water on the ground\",\n          \"start_timestamp\": \"36190\",\n          \"stop_timestamp\": \"37400\"\n        },\n        {\n          \"secondary_subgoal\": \"Rinsing container and washing hands\",\n          \"start_timestamp\": \"37937\",\n          \"stop_timestamp\": \"38736\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Managing the firewood and fire place\",\n      \"start_timestamp\": \"39126\",\n      \"stop_timestamp\": \"39757\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handling firewood\",\n          \"start_timestamp\": \"39126\",\n          \"stop_timestamp\": \"39534\"\n        },\n        {\n          \"secondary_subgoal\": \"Checking the boiling pot\",\n          \"start_timestamp\": \"39534\",\n          \"stop_timestamp\": \"39583\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handling container\",\n      \"start_timestamp\": \"39705\",\n      \"stop_timestamp\": \"39857\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Holding and opening the container\",\n          \"start_timestamp\": \"39705\",\n          \"stop_timestamp\": \"39857\"\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2968,
+        "completion_tokens": 770,
+        "total_tokens": 3738
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

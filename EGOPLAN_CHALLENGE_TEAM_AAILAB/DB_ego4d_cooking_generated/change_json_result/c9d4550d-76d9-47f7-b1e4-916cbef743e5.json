@@ -1,0 +1,135 @@
+{
+    "overall_goal": "Preparations for cooking a meal and cleaning the kitchen",
+    "clips": [
+        {
+            "subgoal": "Preparing vegetables and meat for cooking",
+            "start_timestamp": 27,
+            "stop_timestamp": 3211,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gathering and preparing vegetables",
+                    "start_timestamp": 27,
+                    "stop_timestamp": 522
+                },
+                {
+                    "secondary_subgoal": "Cleaning and chopping vegetables",
+                    "start_timestamp": 522,
+                    "stop_timestamp": 1927
+                },
+                {
+                    "secondary_subgoal": "Preparing meat for cooking",
+                    "start_timestamp": 1927,
+                    "stop_timestamp": 3050
+                },
+                {
+                    "secondary_subgoal": "Getting other essential cooking materials",
+                    "start_timestamp": 3050,
+                    "stop_timestamp": 3197
+                },
+                {
+                    "secondary_subgoal": "Starting to cook minced meat",
+                    "start_timestamp": 3197,
+                    "stop_timestamp": 4136
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking the meal",
+            "start_timestamp": 4136,
+            "stop_timestamp": 12096,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring and adding ingredients to the minced meat",
+                    "start_timestamp": 4136,
+                    "stop_timestamp": 5050
+                },
+                {
+                    "secondary_subgoal": "Handling other kitchen tasks in between cooking",
+                    "start_timestamp": 5050,
+                    "stop_timestamp": 6634
+                },
+                {
+                    "secondary_subgoal": "Handling cut vegetables to add to the cooking pan",
+                    "start_timestamp": 6634,
+                    "stop_timestamp": 8608
+                },
+                {
+                    "secondary_subgoal": "Adding onions",
+                    "start_timestamp": 8671,
+                    "stop_timestamp": 8780
+                },
+                {
+                    "secondary_subgoal": "Stirring the meal with a wooden spatula",
+                    "start_timestamp": 8857,
+                    "stop_timestamp": 9484
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing the rice and salad",
+            "start_timestamp": 9484,
+            "stop_timestamp": 13689,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preparing and adding rice to the meal",
+                    "start_timestamp": 9738,
+                    "stop_timestamp": 10149
+                },
+                {
+                    "secondary_subgoal": "Handling lettuce for salad",
+                    "start_timestamp": 10235,
+                    "stop_timestamp": 10695
+                },
+                {
+                    "secondary_subgoal": "Adding lettuce leaves and tomato to the meal",
+                    "start_timestamp": 11007,
+                    "stop_timestamp": 11457
+                },
+                {
+                    "secondary_subgoal": "Adding bell pepper to the meal",
+                    "start_timestamp": 11508,
+                    "stop_timestamp": 11578
+                },
+                {
+                    "secondary_subgoal": "Mixing all ingredients and ensuring they are prepared",
+                    "start_timestamp": 11685,
+                    "stop_timestamp": 12096
+                }
+            ]
+        },
+        {
+            "subgoal": "Final preparations and putting things in order",
+            "start_timestamp": 12096,
+            "stop_timestamp": 19889,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Spreading final ingredients on the meal",
+                    "start_timestamp": 12292,
+                    "stop_timestamp": 13689
+                },
+                {
+                    "secondary_subgoal": "Performing final setup and light cleaning",
+                    "start_timestamp": 14029,
+                    "stop_timestamp": 14810
+                },
+                {
+                    "secondary_subgoal": "Storage of vegetables and cleaning",
+                    "start_timestamp": 15014,
+                    "stop_timestamp": 15418
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning up utensils",
+            "start_timestamp": 19662,
+            "stop_timestamp": 21339,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing utensils and placing them on the utensil rack",
+                    "start_timestamp": 20889,
+                    "stop_timestamp": 21339
+                }
+            ]
+        }
+    ]
+}

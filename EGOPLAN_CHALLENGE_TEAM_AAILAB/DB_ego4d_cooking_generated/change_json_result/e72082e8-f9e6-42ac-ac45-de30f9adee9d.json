@@ -1,0 +1,118 @@
+{
+    "overall_goal": "Making a cheese pizza",
+    "clips": [
+        {
+            "subgoal": "Preparing the dough",
+            "start_timestamp": 39,
+            "stop_timestamp": 2859,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Spreading dough on a platter",
+                    "start_timestamp": 39,
+                    "stop_timestamp": 463
+                },
+                {
+                    "secondary_subgoal": "Cleaning hands and talking",
+                    "start_timestamp": 463,
+                    "stop_timestamp": 695
+                },
+                {
+                    "secondary_subgoal": "Spreading dough on a platter",
+                    "start_timestamp": 695,
+                    "stop_timestamp": 1041
+                },
+                {
+                    "secondary_subgoal": "Talking and wiping cooking stick",
+                    "start_timestamp": 1041,
+                    "stop_timestamp": 1238
+                },
+                {
+                    "secondary_subgoal": "Handling napkin",
+                    "start_timestamp": 1238,
+                    "stop_timestamp": 1869
+                },
+                {
+                    "secondary_subgoal": "Handling spoon",
+                    "start_timestamp": 1869,
+                    "stop_timestamp": 2153
+                },
+                {
+                    "secondary_subgoal": "Rotating platter and cleaning hands",
+                    "start_timestamp": 2153,
+                    "stop_timestamp": 2571
+                },
+                {
+                    "secondary_subgoal": "Dialoguing and wiping spoon",
+                    "start_timestamp": 2571,
+                    "stop_timestamp": 2766
+                },
+                {
+                    "secondary_subgoal": "Preparing to open sauce",
+                    "start_timestamp": 2766,
+                    "stop_timestamp": 3022
+                }
+            ]
+        },
+        {
+            "subgoal": "Applying sauce to the dough",
+            "start_timestamp": 3022,
+            "stop_timestamp": 5288,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Dialoguing and pouring sauce on dough",
+                    "start_timestamp": 3022,
+                    "stop_timestamp": 3851
+                },
+                {
+                    "secondary_subgoal": "Spreading sauce on dough",
+                    "start_timestamp": 3851,
+                    "stop_timestamp": 4672
+                },
+                {
+                    "secondary_subgoal": "Handling napkin and cooking utensils",
+                    "start_timestamp": 4672,
+                    "stop_timestamp": 5000
+                },
+                {
+                    "secondary_subgoal": "Final sauce spread",
+                    "start_timestamp": 5000,
+                    "stop_timestamp": 5242
+                }
+            ]
+        },
+        {
+            "subgoal": "Applying cheese to the dough",
+            "start_timestamp": 5288,
+            "stop_timestamp": 5858,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling packets and spreading cheese",
+                    "start_timestamp": 5288,
+                    "stop_timestamp": 5740
+                },
+                {
+                    "secondary_subgoal": "Dropping packet and wiping glass",
+                    "start_timestamp": 5740,
+                    "stop_timestamp": 5939
+                }
+            ]
+        },
+        {
+            "subgoal": "Finishing preparation",
+            "start_timestamp": 5939,
+            "stop_timestamp": 6839,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Talking and handling miscellaneous tasks",
+                    "start_timestamp": 5939,
+                    "stop_timestamp": 6393
+                },
+                {
+                    "secondary_subgoal": "Final dialogues and preparations",
+                    "start_timestamp": 6393,
+                    "stop_timestamp": 6839
+                }
+            ]
+        }
+    ]
+}

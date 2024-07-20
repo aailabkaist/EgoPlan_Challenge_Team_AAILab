@@ -1,0 +1,124 @@
+{
+    "overall_goal": "Preparing ingredients and fuel for cooking",
+    "clips": [
+        {
+            "subgoal": "Preparing carrots",
+            "start_timestamp": 31742,
+            "stop_timestamp": 39584,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling carrot leaves",
+                    "start_timestamp": 31742,
+                    "stop_timestamp": 32311
+                },
+                {
+                    "secondary_subgoal": "Chopping carrots",
+                    "start_timestamp": 32311,
+                    "stop_timestamp": 39584
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing daikon radish",
+            "start_timestamp": 39937,
+            "stop_timestamp": 43968,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Slicing daikon radish",
+                    "start_timestamp": 39937,
+                    "stop_timestamp": 42642
+                },
+                {
+                    "secondary_subgoal": "Washing daikon radish slices",
+                    "start_timestamp": 42642,
+                    "stop_timestamp": 43968
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing hot peppers",
+            "start_timestamp": 43968,
+            "stop_timestamp": 47973,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Slicing hot peppers",
+                    "start_timestamp": 43968,
+                    "stop_timestamp": 47440
+                },
+                {
+                    "secondary_subgoal": "Handling hot pepper slices",
+                    "start_timestamp": 47440,
+                    "stop_timestamp": 47973
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling cereals and grains",
+            "start_timestamp": 47973,
+            "stop_timestamp": 49769,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking and putting cereals",
+                    "start_timestamp": 47973,
+                    "stop_timestamp": 48895
+                },
+                {
+                    "secondary_subgoal": "Handling grain and sufuria",
+                    "start_timestamp": 48895,
+                    "stop_timestamp": 49769
+                }
+            ]
+        },
+        {
+            "subgoal": "Rinsing and wiping sufuria",
+            "start_timestamp": 49769,
+            "stop_timestamp": 50533,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinsing the sufuria",
+                    "start_timestamp": 49769,
+                    "stop_timestamp": 50228
+                },
+                {
+                    "secondary_subgoal": "Wiping the sufuria",
+                    "start_timestamp": 50228,
+                    "stop_timestamp": 50533
+                }
+            ]
+        },
+        {
+            "subgoal": "Sifting flour",
+            "start_timestamp": 50533,
+            "stop_timestamp": 58598,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Initial flour sifting",
+                    "start_timestamp": 50533,
+                    "stop_timestamp": 54403
+                },
+                {
+                    "secondary_subgoal": "Secondary flour sifting",
+                    "start_timestamp": 54403,
+                    "stop_timestamp": 58598
+                }
+            ]
+        },
+        {
+            "subgoal": "Fetching water and preparing the stove",
+            "start_timestamp": 58598,
+            "stop_timestamp": 63569,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fetching water",
+                    "start_timestamp": 58598,
+                    "stop_timestamp": 60757
+                },
+                {
+                    "secondary_subgoal": "Handling fuel for the stove",
+                    "start_timestamp": 60757,
+                    "stop_timestamp": 63569
+                }
+            ]
+        }
+    ]
+}

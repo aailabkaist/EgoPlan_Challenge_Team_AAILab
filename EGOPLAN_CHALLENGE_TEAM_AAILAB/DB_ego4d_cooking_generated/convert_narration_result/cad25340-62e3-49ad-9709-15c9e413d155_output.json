@@ -1,0 +1,957 @@
+[
+    {
+        "task_goal": "Prepare bread and dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": -1,
+                "stop_frame": 193
+            },
+            {
+                "narration_text": "Touches a paper on table",
+                "start_frame": 193,
+                "stop_frame": 293
+            },
+            {
+                "narration_text": "Walks around the table",
+                "start_frame": 293,
+                "stop_frame": 556
+            }
+        ]
+    },
+    {
+        "task_goal": "Investigate items on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": -1,
+                "stop_frame": 193
+            },
+            {
+                "narration_text": "Touches a paper on table",
+                "start_frame": 193,
+                "stop_frame": 293
+            },
+            {
+                "narration_text": "Walks around the table",
+                "start_frame": 293,
+                "stop_frame": 556
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle bread",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the table",
+                "start_frame": 293,
+                "stop_frame": 556
+            },
+            {
+                "narration_text": "Picks bread from the paper",
+                "start_frame": 556,
+                "stop_frame": 724
+            },
+            {
+                "narration_text": "Places the paper of bread on table",
+                "start_frame": 724,
+                "stop_frame": 791
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 791,
+                "stop_frame": 889
+            },
+            {
+                "narration_text": "Places bread in a toaster",
+                "start_frame": 889,
+                "stop_frame": 926
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and place bread on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the table",
+                "start_frame": 293,
+                "stop_frame": 556
+            },
+            {
+                "narration_text": "Picks bread from the paper",
+                "start_frame": 556,
+                "stop_frame": 724
+            },
+            {
+                "narration_text": "Places the paper of bread on table",
+                "start_frame": 724,
+                "stop_frame": 791
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 791,
+                "stop_frame": 889
+            }
+        ]
+    },
+    {
+        "task_goal": "Insert bread in toaster",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places bread in a toaster",
+                "start_frame": 889,
+                "stop_frame": 926
+            },
+            {
+                "narration_text": "Turns around the kitchen",
+                "start_frame": 926,
+                "stop_frame": 993
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Responds to x",
+                "start_frame": 1063,
+                "stop_frame": 1157
+            },
+            {
+                "narration_text": "Doughs from the table",
+                "start_frame": 1157,
+                "stop_frame": 1168
+            },
+            {
+                "narration_text": "Man x converses with",
+                "start_frame": 1168,
+                "stop_frame": 1219
+            },
+            {
+                "narration_text": "Man x walks around the room",
+                "start_frame": 1219,
+                "stop_frame": 1430
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 1430,
+                "stop_frame": 1498
+            },
+            {
+                "narration_text": "Places doughs in the pan",
+                "start_frame": 1498,
+                "stop_frame": 1554
+            },
+            {
+                "narration_text": "Adjusts doughs in the pan",
+                "start_frame": 1554,
+                "stop_frame": 1741
+            },
+            {
+                "narration_text": "Turns around the room",
+                "start_frame": 1741,
+                "stop_frame": 1818
+            },
+            {
+                "narration_text": "Picks doughs from the table",
+                "start_frame": 1818,
+                "stop_frame": 2093
+            },
+            {
+                "narration_text": "Places doughs in the pan",
+                "start_frame": 2093,
+                "stop_frame": 2158
+            },
+            {
+                "narration_text": "Separates the doughs",
+                "start_frame": 2158,
+                "stop_frame": 2215
+            },
+            {
+                "narration_text": "Places dough in the pan",
+                "start_frame": 2215,
+                "stop_frame": 2373
+            },
+            {
+                "narration_text": "Picks another dough",
+                "start_frame": 2373,
+                "stop_frame": 2393
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle dough on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Responds to x",
+                "start_frame": 1063,
+                "stop_frame": 1157
+            },
+            {
+                "narration_text": "Doughs from the table",
+                "start_frame": 1157,
+                "stop_frame": 1168
+            },
+            {
+                "narration_text": "Man x converses with",
+                "start_frame": 1168,
+                "stop_frame": 1219
+            }
+        ]
+    },
+    {
+        "task_goal": "Place and adjust doughs in the pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 1430,
+                "stop_frame": 1498
+            },
+            {
+                "narration_text": "Places doughs in the pan",
+                "start_frame": 1498,
+                "stop_frame": 1554
+            },
+            {
+                "narration_text": "Adjusts doughs in the pan",
+                "start_frame": 1554,
+                "stop_frame": 1741
+            },
+            {
+                "narration_text": "Turns around the room",
+                "start_frame": 1741,
+                "stop_frame": 1818
+            },
+            {
+                "narration_text": "Picks doughs from the table",
+                "start_frame": 1818,
+                "stop_frame": 2093
+            },
+            {
+                "narration_text": "Places doughs in the pan",
+                "start_frame": 2093,
+                "stop_frame": 2158
+            },
+            {
+                "narration_text": "Separates the doughs",
+                "start_frame": 2158,
+                "stop_frame": 2215
+            },
+            {
+                "narration_text": "Places dough in the pan",
+                "start_frame": 2215,
+                "stop_frame": 2373
+            },
+            {
+                "narration_text": "Picks another dough",
+                "start_frame": 2373,
+                "stop_frame": 2393
+            },
+            {
+                "narration_text": "Adjusts a dough in the pan",
+                "start_frame": 2393,
+                "stop_frame": 2425
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean up and fetch ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Man x pushes a can on table",
+                "start_frame": 2455,
+                "stop_frame": 2473
+            },
+            {
+                "narration_text": "Man x places a clothe on table",
+                "start_frame": 2473,
+                "stop_frame": 2525
+            },
+            {
+                "narration_text": "Touches dough on table",
+                "start_frame": 2525,
+                "stop_frame": 2558
+            },
+            {
+                "narration_text": "Turns around the room",
+                "start_frame": 2558,
+                "stop_frame": 2582
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 2582,
+                "stop_frame": 2642
+            },
+            {
+                "narration_text": "Places soap on his hand",
+                "start_frame": 2642,
+                "stop_frame": 2676
+            },
+            {
+                "narration_text": "Runs the tap",
+                "start_frame": 2676,
+                "stop_frame": 2694
+            },
+            {
+                "narration_text": "Washes hands with tap water",
+                "start_frame": 2694,
+                "stop_frame": 2713
+            },
+            {
+                "narration_text": "Looks around the room",
+                "start_frame": 2713,
+                "stop_frame": 2811
+            }
+        ]
+    },
+    {
+        "task_goal": "Add and adjust items on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Man x pushes a can on table",
+                "start_frame": 2455,
+                "stop_frame": 2473
+            },
+            {
+                "narration_text": "Man x places a clothe on table",
+                "start_frame": 2473,
+                "stop_frame": 2525
+            },
+            {
+                "narration_text": "Touches dough on table",
+                "start_frame": 2525,
+                "stop_frame": 2558
+            },
+            {
+                "narration_text": "Turns around the room",
+                "start_frame": 2558,
+                "stop_frame": 2582
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 2582,
+                "stop_frame": 2642
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places soap on his hand",
+                "start_frame": 2642,
+                "stop_frame": 2676
+            },
+            {
+                "narration_text": "Runs the tap",
+                "start_frame": 2676,
+                "stop_frame": 2694
+            },
+            {
+                "narration_text": "Washes hands with tap water",
+                "start_frame": 2694,
+                "stop_frame": 2713
+            },
+            {
+                "narration_text": "Looks around the room",
+                "start_frame": 2713,
+                "stop_frame": 2811
+            }
+        ]
+    },
+    {
+        "task_goal": "Place greens on doughs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places greens on the doughs in the pan",
+                "start_frame": 3606,
+                "stop_frame": 3908
+            },
+            {
+                "narration_text": "Turns around the kitchen",
+                "start_frame": 3908,
+                "stop_frame": 3963
+            },
+            {
+                "narration_text": "Picks greens from the plastic",
+                "start_frame": 3963,
+                "stop_frame": 4013
+            },
+            {
+                "narration_text": "Turns around the kitchen",
+                "start_frame": 4013,
+                "stop_frame": 4093
+            },
+            {
+                "narration_text": "Places greens on the doughs in the pan",
+                "start_frame": 4093,
+                "stop_frame": 4244
+            },
+            {
+                "narration_text": "Man x converses with",
+                "start_frame": 4244,
+                "stop_frame": 4256
+            },
+            {
+                "narration_text": "Turns on the cooker",
+                "start_frame": 4256,
+                "stop_frame": 4300
+            },
+            {
+                "narration_text": "Responds to x",
+                "start_frame": 4300,
+                "stop_frame": 4326
+            },
+            {
+                "narration_text": "Places greens on the doughs in the pan",
+                "start_frame": 4326,
+                "stop_frame": 4459
+            },
+            {
+                "narration_text": "Man x converses with",
+                "start_frame": 4459,
+                "stop_frame": 4552
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjust items in the pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places doughs in plate",
+                "start_frame": 4901,
+                "stop_frame": 4938
+            },
+            {
+                "narration_text": "Sorts dough in plate",
+                "start_frame": 4938,
+                "stop_frame": 5151
+            }
+        ]
+    },
+    {
+        "task_goal": "Store dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Man x opens a container",
+                "start_frame": 6711,
+                "stop_frame": 6784
+            },
+            {
+                "narration_text": "Man x picks meat from the container",
+                "start_frame": 6784,
+                "stop_frame": 6856
+            },
+            {
+                "narration_text": "Moves around the room",
+                "start_frame": 6856,
+                "stop_frame": 6972
+            },
+            {
+                "narration_text": "Places a plastic container in fridge",
+                "start_frame": 6972,
+                "stop_frame": 7013
+            },
+            {
+                "narration_text": "Places dough in the fridge",
+                "start_frame": 7013,
+                "stop_frame": 7093
+            },
+            {
+                "narration_text": "Moves around the rom",
+                "start_frame": 7093,
+                "stop_frame": 7141
+            },
+            {
+                "narration_text": "Picks a plastic from the table",
+                "start_frame": 7141,
+                "stop_frame": 7223
+            },
+            {
+                "narration_text": "Moves a sachet in the fridge",
+                "start_frame": 7223,
+                "stop_frame": 7278
+            },
+            {
+                "narration_text": "Places the container in fridge",
+                "start_frame": 7278,
+                "stop_frame": 7330
+            },
+            {
+                "narration_text": "Turns around with the container",
+                "start_frame": 7330,
+                "stop_frame": 7352
+            }
+        ]
+    },
+    {
+        "task_goal": "Open container and fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Man x opens a container",
+                "start_frame": 6711,
+                "stop_frame": 6784
+            },
+            {
+                "narration_text": "Man x picks meat from the container",
+                "start_frame": 6784,
+                "stop_frame": 6856
+            },
+            {
+                "narration_text": "Moves around the room",
+                "start_frame": 6856,
+                "stop_frame": 6972
+            },
+            {
+                "narration_text": "Places a plastic container in fridge",
+                "start_frame": 6972,
+                "stop_frame": 7013
+            },
+            {
+                "narration_text": "Places dough in the fridge",
+                "start_frame": 7013,
+                "stop_frame": 7093
+            },
+            {
+                "narration_text": "Moves around the rom",
+                "start_frame": 7093,
+                "stop_frame": 7141
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjust items in fridge and container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a plastic from the table",
+                "start_frame": 7141,
+                "stop_frame": 7223
+            },
+            {
+                "narration_text": "Moves a sachet in the fridge",
+                "start_frame": 7223,
+                "stop_frame": 7278
+            },
+            {
+                "narration_text": "Places the container in fridge",
+                "start_frame": 7278,
+                "stop_frame": 7330
+            },
+            {
+                "narration_text": "Turns around with the container",
+                "start_frame": 7330,
+                "stop_frame": 7352
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove and adjust items from fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 10981,
+                "stop_frame": 11084
+            },
+            {
+                "narration_text": "Removes the bottle out of the fridge",
+                "start_frame": 11084,
+                "stop_frame": 11436
+            },
+            {
+                "narration_text": "Toasts the bread",
+                "start_frame": 11436,
+                "stop_frame": 11572
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 11572,
+                "stop_frame": 11631
+            },
+            {
+                "narration_text": "Picks unsure from the drawer",
+                "start_frame": 11631,
+                "stop_frame": 11829
+            },
+            {
+                "narration_text": "Picks up a spatula",
+                "start_frame": 11829,
+                "stop_frame": 11966
+            },
+            {
+                "narration_text": "Removes the lid on top the pan",
+                "start_frame": 11966,
+                "stop_frame": 12048
+            },
+            {
+                "narration_text": "Switches of the gas cooker",
+                "start_frame": 12048,
+                "stop_frame": 12137
+            },
+            {
+                "narration_text": "Toasts two slice of bread",
+                "start_frame": 12137,
+                "stop_frame": 12160
+            }
+        ]
+    },
+    {
+        "task_goal": "Use gas cooker and toaster",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Switches of the gas cooker",
+                "start_frame": 12048,
+                "stop_frame": 12137
+            },
+            {
+                "narration_text": "Toasts two slice of bread",
+                "start_frame": 12137,
+                "stop_frame": 12160
+            },
+            {
+                "narration_text": "Removes two slice of bread from the toaster",
+                "start_frame": 12160,
+                "stop_frame": 12218
+            },
+            {
+                "narration_text": "Places two slices of bread on a plate",
+                "start_frame": 12218,
+                "stop_frame": 12266
+            },
+            {
+                "narration_text": "Touches a pan",
+                "start_frame": 12266,
+                "stop_frame": 12340
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare sandwich on plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places two slices of bread on a plate",
+                "start_frame": 12218,
+                "stop_frame": 12266
+            },
+            {
+                "narration_text": "Touches a pan",
+                "start_frame": 12266,
+                "stop_frame": 12340
+            },
+            {
+                "narration_text": "Holds the pan",
+                "start_frame": 12340,
+                "stop_frame": 12432
+            },
+            {
+                "narration_text": "Removes unsure from the pan with a spatula",
+                "start_frame": 12432,
+                "stop_frame": 12550
+            },
+            {
+                "narration_text": "Places unsure on the bread",
+                "start_frame": 12550,
+                "stop_frame": 12655
+            },
+            {
+                "narration_text": "Removes unsure from the pan with a spatula",
+                "start_frame": 12655,
+                "stop_frame": 12733
+            },
+            {
+                "narration_text": "Places unsure on the bread",
+                "start_frame": 12733,
+                "stop_frame": 13029
+            },
+            {
+                "narration_text": "Gives y a spatula",
+                "start_frame": 13029,
+                "stop_frame": 13123
+            },
+            {
+                "narration_text": "Adjusts the unsure",
+                "start_frame": 13123,
+                "stop_frame": 13159
+            },
+            {
+                "narration_text": "Picks the bread",
+                "start_frame": 13159,
+                "stop_frame": 13205
+            },
+            {
+                "narration_text": "Adjusts unsure on the hand",
+                "start_frame": 13205,
+                "stop_frame": 13246
+            },
+            {
+                "narration_text": "Drops the bread",
+                "start_frame": 13246,
+                "stop_frame": 13281
+            },
+            {
+                "narration_text": "Picks the bottle",
+                "start_frame": 13281,
+                "stop_frame": 13336
+            },
+            {
+                "narration_text": "Opens the lid of the bottle",
+                "start_frame": 13336,
+                "stop_frame": 13487
+            },
+            {
+                "narration_text": "Spreads unsure on a sandwich",
+                "start_frame": 13487,
+                "stop_frame": 13742
+            },
+            {
+                "narration_text": "Drops the bottle",
+                "start_frame": 13742,
+                "stop_frame": 13799
+            },
+            {
+                "narration_text": "Places the slices together",
+                "start_frame": 13799,
+                "stop_frame": 13890
+            },
+            {
+                "narration_text": "Holds the plate",
+                "start_frame": 13890,
+                "stop_frame": 13963
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 13963,
+                "stop_frame": 14073
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut and adjust sandwich",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the plate",
+                "start_frame": 13890,
+                "stop_frame": 13963
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 13963,
+                "stop_frame": 14073
+            },
+            {
+                "narration_text": "Picks a knife from the drawer",
+                "start_frame": 14073,
+                "stop_frame": 14173
+            },
+            {
+                "narration_text": "Adjusts a sandwich",
+                "start_frame": 14173,
+                "stop_frame": 14196
+            },
+            {
+                "narration_text": "Cuts the sandwich into two with a knife",
+                "start_frame": 14196,
+                "stop_frame": 14422
+            },
+            {
+                "narration_text": "Adjusts the sandwich",
+                "start_frame": 14422,
+                "stop_frame": 14858
+            },
+            {
+                "narration_text": "Picks a packet from the fridge",
+                "start_frame": 14858,
+                "stop_frame": 14951
+            },
+            {
+                "narration_text": "Opens the packet",
+                "start_frame": 14951,
+                "stop_frame": 15039
+            },
+            {
+                "narration_text": "Picks crisps from the packet",
+                "start_frame": 15039,
+                "stop_frame": 15156
+            },
+            {
+                "narration_text": "Puts crisps on the plate",
+                "start_frame": 15156,
+                "stop_frame": 15249
+            },
+            {
+                "narration_text": "Adjusts the sandwich",
+                "start_frame": 15249,
+                "stop_frame": 15272
+            },
+            {
+                "narration_text": "Adjusts the crisps",
+                "start_frame": 15272,
+                "stop_frame": 15356
+            },
+            {
+                "narration_text": " folds the packet of crisps",
+                "start_frame": 15356,
+                "stop_frame": 15520
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle additional items on table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Adjusts the crisps",
+                "start_frame": 15272,
+                "stop_frame": 15356
+            },
+            {
+                "narration_text": " folds the packet of crisps",
+                "start_frame": 15356,
+                "stop_frame": 15520
+            },
+            {
+                "narration_text": "Picks unsure from the table",
+                "start_frame": 15520,
+                "stop_frame": 15556
+            },
+            {
+                "narration_text": "Squeezes a packet with unsure",
+                "start_frame": 15556,
+                "stop_frame": 15729
+            },
+            {
+                "narration_text": "Closes the lid of the bottle",
+                "start_frame": 15729,
+                "stop_frame": 15734
+            },
+            {
+                "narration_text": "Picks the bottle",
+                "start_frame": 15734,
+                "stop_frame": 15784
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 15784,
+                "stop_frame": 15874
+            }
+        ]
+    },
+    {
+        "task_goal": "Store items in fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the bottle",
+                "start_frame": 15734,
+                "stop_frame": 15784
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 15784,
+                "stop_frame": 15874
+            },
+            {
+                "narration_text": " picks a packet from the table",
+                "start_frame": 15874,
+                "stop_frame": 15923
+            },
+            {
+                "narration_text": "Puts the packet in the fridge",
+                "start_frame": 15923,
+                "stop_frame": 16019
+            },
+            {
+                "narration_text": "Picks the plate from the table",
+                "start_frame": 16019,
+                "stop_frame": 16056
+            },
+            {
+                "narration_text": "Picks a piece of sandwich from the plate",
+                "start_frame": 16056,
+                "stop_frame": 16351
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve sandwich",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the plate from the table",
+                "start_frame": 16019,
+                "stop_frame": 16056
+            },
+            {
+                "narration_text": "Picks a piece of sandwich from the plate",
+                "start_frame": 16056,
+                "stop_frame": 16351
+            },
+            {
+                "narration_text": "Picks a piece of sandwich from the plate",
+                "start_frame": 16351,
+                "stop_frame": 16377
+            },
+            {
+                "narration_text": "Passes the sand to the other hand",
+                "start_frame": 16377,
+                "stop_frame": 16393
+            },
+            {
+                "narration_text": "Holds the sandwich with both hands",
+                "start_frame": 16393,
+                "stop_frame": 16639
+            },
+            {
+                "narration_text": "Prepared a sandwich",
+                "start_frame": 16639,
+                "stop_frame": 16739
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle sandwich",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the plate from the table",
+                "start_frame": 16019,
+                "stop_frame": 16056
+            },
+            {
+                "narration_text": "Picks a piece of sandwich from the plate",
+                "start_frame": 16056,
+                "stop_frame": 16351
+            },
+            {
+                "narration_text": "Picks a piece of sandwich from the plate",
+                "start_frame": 16351,
+                "stop_frame": 16377
+            },
+            {
+                "narration_text": "Passes the sand to the other hand",
+                "start_frame": 16377,
+                "stop_frame": 16393
+            },
+            {
+                "narration_text": "Holds the sandwich with both hands",
+                "start_frame": 16393,
+                "stop_frame": 16639
+            },
+            {
+                "narration_text": "Prepared a sandwich",
+                "start_frame": 16639,
+                "stop_frame": 16739
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve and pass sandwich",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the sandwich with both hands",
+                "start_frame": 16393,
+                "stop_frame": 16639
+            },
+            {
+                "narration_text": "Prepared a sandwich",
+                "start_frame": 16639,
+                "stop_frame": 16739
+            }
+        ]
+    }
+]

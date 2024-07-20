@@ -1,0 +1,73 @@
+{
+    "overall_goal": "Cooking and serving food",
+    "clips": [
+        {
+            "subgoal": "Stirring and cooking the food",
+            "start_timestamp": 0,
+            "stop_timestamp": 646,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Holding cooking utensils",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 62
+                },
+                {
+                    "secondary_subgoal": "Using chopsticks to stir food in the frying pan",
+                    "start_timestamp": 62,
+                    "stop_timestamp": 646
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling the bottle and plate",
+            "start_timestamp": 728,
+            "stop_timestamp": 1278,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Placing bottle in the fridge",
+                    "start_timestamp": 728,
+                    "stop_timestamp": 912
+                },
+                {
+                    "secondary_subgoal": "Retrieving and placing the plate",
+                    "start_timestamp": 990,
+                    "stop_timestamp": 1278
+                }
+            ]
+        },
+        {
+            "subgoal": "Continuing to cook and serve food",
+            "start_timestamp": 1278,
+            "stop_timestamp": 3027,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring and regulating the food",
+                    "start_timestamp": 1278,
+                    "stop_timestamp": 1751
+                },
+                {
+                    "secondary_subgoal": "Removing frying pan and serving food onto plate",
+                    "start_timestamp": 1821,
+                    "stop_timestamp": 3027
+                }
+            ]
+        },
+        {
+            "subgoal": "Clearing up",
+            "start_timestamp": 3027,
+            "stop_timestamp": 4526,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clearing frying pan",
+                    "start_timestamp": 3027,
+                    "stop_timestamp": 4344
+                },
+                {
+                    "secondary_subgoal": "Cleaning and turning off appliances",
+                    "start_timestamp": 4376,
+                    "stop_timestamp": 4526
+                }
+            ]
+        }
+    ]
+}

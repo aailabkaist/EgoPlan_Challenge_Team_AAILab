@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egaOffVkdfKTjWmM8LegLsVz1HYp",
+    "object": "chat.completion",
+    "created": 1719483848,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Make and prepare coffee\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Load coffee into the mug\",\n      \"start_timestamp\": 32,\n      \"stop_timestamp\": 465,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put mug down\",\n          \"start_timestamp\": 32,\n          \"stop_timestamp\": 93\n        },\n        {\n          \"secondary_subgoal\": \"Pick and open coffee\",\n          \"start_timestamp\": 93,\n          \"stop_timestamp\": 127\n        },\n        {\n          \"secondary_subgoal\": \"Put coffee down\",\n          \"start_timestamp\": 127,\n          \"stop_timestamp\": 200\n        },\n        {\n          \"secondary_subgoal\": \"Pick up and scoop coffee with spoon\",\n          \"start_timestamp\": 200, \n          \"stop_timestamp\": 310\n        },\n        {\n          \"secondary_subgoal\": \"Put coffee in mug\",\n          \"start_timestamp\": 310,\n          \"stop_timestamp\": 465\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Add milk to the coffee\",\n      \"start_timestamp\": 615,\n      \"stop_timestamp\": 1678,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Walk to and open the fridge\",\n          \"start_timestamp\": 615,\n          \"stop_timestamp\": 720\n        },\n        {\n          \"secondary_subgoal\": \"Pick milk from the fridge\",\n          \"start_timestamp\": 720,\n          \"stop_timestamp\": 838\n        },\n        {\n          \"secondary_subgoal\": \"Pour milk into mug\",\n          \"start_timestamp\": 934,\n          \"stop_timestamp\": 1043\n        },\n        {\n          \"secondary_subgoal\": \"Put #unsure in the coffee\",\n          \"start_timestamp\": 1043,\n          \"stop_timestamp\": 1366\n        },\n        {\n          \"secondary_subgoal\": \"Stir coffee\",\n          \"start_timestamp\": 1366,\n          \"stop_timestamp\": 1464\n        },\n        {\n          \"secondary_subgoal\": \"Return milk to the fridge\",\n          \"start_timestamp\": 1496,\n          \"stop_timestamp\": 1678\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare to make coffee\",\n      \"start_timestamp\": 1847,\n      \"stop_timestamp\": 2192,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and put down pan\",\n          \"start_timestamp\": 1847,\n          \"stop_timestamp\": 1951\n        },\n        {\n          \"secondary_subgoal\": \"Place mug on coffee maker\",\n          \"start_timestamp\": 2007,\n          \"stop_timestamp\": 2192\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Make coffee\",\n      \"start_timestamp\": 2266,\n      \"stop_timestamp\": 2973,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick pack of tea and put it in coffee maker\",\n          \"start_timestamp\": 2266,\n          \"stop_timestamp\": 2581\n        },\n        {\n          \"secondary_subgoal\": \"Fetch and fill water in the coffee maker\",\n          \"start_timestamp\": 2583,\n          \"stop_timestamp\": 2973\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean kitchen\",\n      \"start_timestamp\": 3348,\n      \"stop_timestamp\": 3914,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and clean with scrubber\",\n          \"start_timestamp\": 3348,\n          \"stop_timestamp\": 3759\n        },\n        {\n          \"secondary_subgoal\": \"Walk around and pour dirt in litter bin\",\n          \"start_timestamp\": 3759,\n          \"stop_timestamp\": 3914\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 868,
+        "completion_tokens": 818,
+        "total_tokens": 1686
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

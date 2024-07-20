@@ -1,0 +1,195 @@
+{
+    "overall_goal": "Prepare breakfast involving eggs, bread, and possibly a cake or other ingredients.",
+    "clips": [
+        {
+            "subgoal": "Prepare and crack the eggs",
+            "start_timestamp": 0,
+            "stop_timestamp": 1036,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C holds a phone",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 105
+                },
+                {
+                    "secondary_subgoal": "C puts the phone at the table",
+                    "start_timestamp": 105,
+                    "stop_timestamp": 144
+                },
+                {
+                    "secondary_subgoal": "C open an egg tray",
+                    "start_timestamp": 144,
+                    "stop_timestamp": 201
+                },
+                {
+                    "secondary_subgoal": "C picks an egg from the tray",
+                    "start_timestamp": 201,
+                    "stop_timestamp": 228
+                },
+                {
+                    "secondary_subgoal": "C cracks eggs on the plate",
+                    "start_timestamp": 228,
+                    "stop_timestamp": 844
+                },
+                {
+                    "secondary_subgoal": "C collects the shells together and throws them in the dustbin",
+                    "start_timestamp": 844,
+                    "stop_timestamp": 1036
+                }
+            ]
+        },
+        {
+            "subgoal": "Store leftover ingredients",
+            "start_timestamp": 1036,
+            "stop_timestamp": 1427,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C closes the eggs tray and puts it in the fridge",
+                    "start_timestamp": 1036,
+                    "stop_timestamp": 1176
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cooking fat for use",
+            "start_timestamp": 1427,
+            "stop_timestamp": 1885,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C picks a container of cooking fat and removes paper inside it",
+                    "start_timestamp": 1427,
+                    "stop_timestamp": 1802
+                },
+                {
+                    "secondary_subgoal": "C dumps the paper in the dustbin",
+                    "start_timestamp": 1802,
+                    "stop_timestamp": 1885
+                }
+            ]
+        },
+        {
+            "subgoal": "Gather utensils for cooking",
+            "start_timestamp": 1885,
+            "stop_timestamp": 2046,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C opens a drawer and holds a spoon",
+                    "start_timestamp": 1885,
+                    "stop_timestamp": 2046
+                }
+            ]
+        },
+        {
+            "subgoal": "Begin cooking preparations",
+            "start_timestamp": 2046,
+            "stop_timestamp": 414,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C picks cooking fat from the container and puts it in the pan, then turns on the stove",
+                    "start_timestamp": 2046,
+                    "stop_timestamp": 2825
+                },
+                {
+                    "secondary_subgoal": "C whisks the eggs in a bowl",
+                    "start_timestamp": 2825,
+                    "stop_timestamp": 3196
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare bread",
+            "start_timestamp": 3196,
+            "stop_timestamp": 3975,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C holds bread and cuts it with a knife",
+                    "start_timestamp": 3196,
+                    "stop_timestamp": 3587
+                },
+                {
+                    "secondary_subgoal": "C returns the bread inside the package and puts it in the tosta machine",
+                    "start_timestamp": 3587,
+                    "stop_timestamp": 3975
+                }
+            ]
+        },
+        {
+            "subgoal": "Store cooking fat",
+            "start_timestamp": 3975,
+            "stop_timestamp": 4232,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C puts the bread inside a tosta machine and turns on the gas stove",
+                    "start_timestamp": 3975,
+                    "stop_timestamp": 4104
+                },
+                {
+                    "secondary_subgoal": "C opens the fridge and puts the cooking fat inside",
+                    "start_timestamp": 4138,
+                    "stop_timestamp": 4232
+                }
+            ]
+        },
+        {
+            "subgoal": "Add ingredients to eggs",
+            "start_timestamp": 4232,
+            "stop_timestamp": 5504,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C adds ingredients to the egg mixture",
+                    "start_timestamp": 4414,
+                    "stop_timestamp": 4906
+                },
+                {
+                    "secondary_subgoal": "C whisks the eggs with ingredients",
+                    "start_timestamp": 4906,
+                    "stop_timestamp": 5504
+                }
+            ]
+        },
+        {
+            "subgoal": "Fry the eggs",
+            "start_timestamp": 5504,
+            "stop_timestamp": 11989,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C raises the pan from the stove and puts dishes inside the sink",
+                    "start_timestamp": 5504,
+                    "stop_timestamp": 5804
+                },
+                {
+                    "secondary_subgoal": "C presses the tosta machine and holds the bowl with eggs, then puts the eggs on the pan",
+                    "start_timestamp": 5804,
+                    "stop_timestamp": 6077
+                },
+                {
+                    "secondary_subgoal": "C fries eggs inside a pan and stirs them multiple times",
+                    "start_timestamp": 6077,
+                    "stop_timestamp": 11989
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the rest of the breakfast",
+            "start_timestamp": 11989,
+            "stop_timestamp": 13015,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C picks the bread from the toaster and puts it on a plate",
+                    "start_timestamp": 11096,
+                    "stop_timestamp": 11200
+                },
+                {
+                    "secondary_subgoal": "C handles cakes from the oven and puts them on the plate",
+                    "start_timestamp": 11388,
+                    "stop_timestamp": 11539
+                },
+                {
+                    "secondary_subgoal": "C serves breakfast",
+                    "start_timestamp": 12007,
+                    "stop_timestamp": 13015
+                }
+            ]
+        }
+    ]
+}

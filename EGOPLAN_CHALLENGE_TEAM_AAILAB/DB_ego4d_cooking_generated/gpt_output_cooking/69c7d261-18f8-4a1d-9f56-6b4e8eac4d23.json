@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eerIa6Oh4gAobAjKErdmLxQFliNY",
+    "object": "chat.completion",
+    "created": 1719477208,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook greens\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Remove unwanted parts from the greens and cut the greens\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 5104,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Remove unwanted parts from the greens\", \"start_timestamp\": 0, \"stop_timestamp\": 675},\n        {\"secondary_subgoal\": \"Cut the greens\", \"start_timestamp\": 675, \"stop_timestamp\": 5104}\n      ]\n    },\n    {\n      \"subgoal\": \"Collect, press, and cut greens\",\n      \"start_timestamp\": 5104,\n      \"stop_timestamp\": 4084,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Collect and press the greens\", \"start_timestamp\": 4946, \"stop_timestamp\": 5732},\n        {\"secondary_subgoal\": \"Cut the greens\", \"start_timestamp\": 5732, \"stop_timestamp\": 4084}\n      ]\n    },\n    {\n      \"subgoal\": \"Align the greens and cut using boti knife\",\n      \"start_timestamp\": 8943,\n      \"stop_timestamp\": 13034,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Align and cut vegetables using boti knife\", \"start_timestamp\": 9490, \"stop_timestamp\": 10533},\n        {\"secondary_subgoal\": \"Collect and move vegetables\", \"start_timestamp\": 10533, \"stop_timestamp\": 13034}\n      ]\n    },\n    {\n      \"subgoal\": \"Move the cooking pot and converses\",\n      \"start_timestamp\": 13685,\n      \"stop_timestamp\": 17223,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Place hand on window, touch gas and converse\", \"start_timestamp\": 14002, \"stop_timestamp\": 14551},\n        {\"secondary_subgoal\": \"Converse\", \"start_timestamp\": 14551, \"stop_timestamp\": 17223}\n      ]\n    },\n    {\n      \"subgoal\": \"Fill the cooking pot with water and continue conversing\",\n      \"start_timestamp\": 17223,\n      \"stop_timestamp\": 20192,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Pump water into pot\", \"start_timestamp\": 17340, \"stop_timestamp\": 17555},\n        {\"secondary_subgoal\": \"Operate phone\", \"start_timestamp\": 20021, \"stop_timestamp\": 20192}\n      ]\n    },\n    {\n      \"subgoal\": \"Clean the greens\",\n      \"start_timestamp\": 21006,\n      \"stop_timestamp\": 24065,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Clean and drain water from the greens\", \"start_timestamp\": 21006, \"stop_timestamp\": 22258},\n        {\"secondary_subgoal\": \"Clean and move the greens\", \"start_timestamp\": 22922, \"stop_timestamp\": 24065}\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and set up cooking\",\n      \"start_timestamp\": 24920,\n      \"stop_timestamp\": 26701,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Take the tray\", \"start_timestamp\": 24920, \"stop_timestamp\": 25024},\n        {\"secondary_subgoal\": \"Light gas stove and put pot on cooking plate\", \"start_timestamp\": 25970, \"stop_timestamp\": 26399}\n      ]\n    },\n    {\n      \"subgoal\": \"Walk around the house\",\n      \"start_timestamp\": 27524,\n      \"stop_timestamp\": 31362,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Walk up and down the stairs\", \"start_timestamp\": 27524, \"stop_timestamp\": 28540},\n        {\"secondary_subgoal\": \"Walk out of the kitchen and to the rooftop\", \"start_timestamp\": 30615, \"stop_timestamp\": 31362}\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6677,
+        "completion_tokens": 848,
+        "total_tokens": 7525
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

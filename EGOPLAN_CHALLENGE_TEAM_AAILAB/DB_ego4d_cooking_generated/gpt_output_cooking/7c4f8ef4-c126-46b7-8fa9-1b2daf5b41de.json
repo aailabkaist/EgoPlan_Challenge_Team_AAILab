@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeicCMwv2TTKGYvZ59si9lTEo9hG",
+    "object": "chat.completion",
+    "created": 1719476670,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal involving onions, pepper, stew, and flatbread (roti).\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare and process onions for cooking\",\n      \"start_timestamp\": \"13\",\n      \"stop_timestamp\": \"7033\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Set up and start cutting onions\",\n          \"start_timestamp\": \"13\",\n          \"stop_timestamp\": \"281\"\n        },\n        {\n          \"secondary_subgoal\": \"Cut and peel multiple onions\",\n          \"start_timestamp\": \"281\",\n          \"stop_timestamp\": \"7063\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Gather and prepare various ingredients for cooking\",\n      \"start_timestamp\": \"7063\",\n      \"stop_timestamp\": \"25201\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gather additional onions from vegetable rack\",\n          \"start_timestamp\": \"7063\",\n          \"stop_timestamp\": \"4904\"\n        },\n        {\n          \"secondary_subgoal\": \"Cut and peel onions\",\n          \"start_timestamp\": \"4904\",\n          \"stop_timestamp\": \"4225\"\n        },\n        {\n          \"secondary_subgoal\": \"Prepare chilli and pepper\",\n          \"start_timestamp\": \"4225\",\n          \"stop_timestamp\": \"8912\"\n        },\n        {\n          \"secondary_subgoal\": \"Blend ingredients\",\n          \"start_timestamp\": \"8912\",\n          \"stop_timestamp\": \"13267\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare cooking tools and areas\",\n      \"start_timestamp\": \"26267\",\n      \"stop_timestamp\": \"57067\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare grinder, pot and container\",\n          \"start_timestamp\": \"26267\",\n          \"stop_timestamp\": \"32291\"\n        },\n        {\n          \"secondary_subgoal\": \"Prepare cooking water\",\n          \"start_timestamp\": \"32291\",\n          \"stop_timestamp\": \"49914\"\n        },\n        {\n          \"secondary_subgoal\": \"Prepare and clean various cooking tools\",\n          \"start_timestamp\": \"49914\",\n          \"stop_timestamp\": \"57067\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook the stew\",\n      \"start_timestamp\": \"57067\",\n      \"stop_timestamp\": \"75306\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir and taste the stew\",\n          \"start_timestamp\": \"57067\",\n          \"stop_timestamp\": \"7515\"\n        },\n        {\n          \"secondary_subgoal\": \"Add ingredients to the stew\",\n          \"start_timestamp\": \"7515\",\n          \"stop_timestamp\": \"20707\"\n        },\n        {\n          \"secondary_subgoal\": \"Final preparations and taste testing\",\n          \"start_timestamp\": \"20707\",\n          \"stop_timestamp\": \"75306\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook flatbread (roti)\",\n      \"start_timestamp\": \"75306\",\n      \"stop_timestamp\": \"25201\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare dough for flatbread\",\n          \"start_timestamp\": \"75306\",\n          \"stop_timestamp\": \"17217\"\n        },\n        {\n          \"secondary_subgoal\": \"Roll the dough flat\",\n          \"start_timestamp\": \"17217\",\n          \"stop_timestamp\": \"27579\"\n        },\n        {\n          \"secondary_subgoal\": \"Cook flatbread\",\n          \"start_timestamp\": \"27579\",\n          \"stop_timestamp\": \"25201\"\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 29811,
+        "completion_tokens": 770,
+        "total_tokens": 30581
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

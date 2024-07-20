@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efKydu5KmY0bGBL5znxCfkfUAFJi",
+    "object": "chat.completion",
+    "created": 1719479048,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and cooking food with sauce, spices, and salt in a cooking pot, then covering the food.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Stirring and inspecting the cooking food\",\n      \"start_timestamp\": 56,\n      \"stop_timestamp\": 2922,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Holding a spoon and stirring the food\",\n          \"start_timestamp\": 56,\n          \"stop_timestamp\": 192\n        },\n        {\n          \"secondary_subgoal\": \"Picking and serving food from the pot\",\n          \"start_timestamp\": 878,\n          \"stop_timestamp\": 997\n        },\n        {\n          \"secondary_subgoal\": \"Holding a spoon and stirring the food\",\n          \"start_timestamp\": 1009,\n          \"stop_timestamp\": 1398\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Adding sauce and stirring the food\",\n      \"start_timestamp\": 1398,\n      \"stop_timestamp\": 2965,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Picking and opening a bottle, adding sauce, and placing the bottle back\",\n          \"start_timestamp\": 1398,\n          \"stop_timestamp\": 1825\n        },\n        {\n          \"secondary_subgoal\": \"Holding a spoon and stirring the food\",\n          \"start_timestamp\": 1840,\n          \"stop_timestamp\": 2319\n        },\n        {\n          \"secondary_subgoal\": \"Picking and opening another bottle, adding sauce, and placing the bottle back\",\n          \"start_timestamp\": 2361,\n          \"stop_timestamp\": 2768\n        },\n        {\n          \"secondary_subgoal\": \"Removing a particle from the food and placing it on a plate\",\n          \"start_timestamp\": 2922,\n          \"stop_timestamp\": 2965\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Licking fingers and handling bottles\",\n      \"start_timestamp\": 2965,\n      \"stop_timestamp\": 3573,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Licking fingers and holding a bottle\",\n          \"start_timestamp\": 2965,\n          \"stop_timestamp\": 3166\n        },\n        {\n          \"secondary_subgoal\": \"Holding a spoon and stirring the food\",\n          \"start_timestamp\": 3166,\n          \"stop_timestamp\": 3506\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Adding spices and more stirring\",\n      \"start_timestamp\": 3573,\n      \"stop_timestamp\": 4375,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Picking and opening a bottle, adding spice, and placing the bottle back\",\n          \"start_timestamp\": 3573,\n          \"stop_timestamp\": 3786\n        },\n        {\n          \"secondary_subgoal\": \"Holding a spoon and stirring the food\",\n          \"start_timestamp\": 3786,\n          \"stop_timestamp\": 3998\n        },\n        {\n          \"secondary_subgoal\": \"Handling a container to add salt\",\n          \"start_timestamp\": 4058,\n          \"stop_timestamp\": 4375\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final inspection and covering the food\",\n      \"start_timestamp\": 4375,\n      \"stop_timestamp\": 6427,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stirring, inspecting, and removing a particle\",\n          \"start_timestamp\": 4375,\n          \"stop_timestamp\": 5096\n        },\n        {\n          \"secondary_subgoal\": \"Holding a spoon and stirring the food\",\n          \"start_timestamp\": 5096,\n          \"stop_timestamp\": 5924\n        },\n        {\n          \"secondary_subgoal\": \"Staring and placing the spoon on the pot\",\n          \"start_timestamp\": 5983,\n          \"stop_timestamp\": 6128\n        },\n        {\n          \"secondary_subgoal\": \"Covering the food with the pot lid\",\n          \"start_timestamp\": 6250,\n          \"stop_timestamp\": 6327\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1137,
+        "completion_tokens": 879,
+        "total_tokens": 2016
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

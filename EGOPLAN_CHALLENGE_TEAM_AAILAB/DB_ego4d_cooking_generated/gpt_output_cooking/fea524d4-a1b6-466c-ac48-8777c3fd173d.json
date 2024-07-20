@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehfst5RwBRzchKZVhQxMATEDhQbV",
+    "object": "chat.completion",
+    "created": 1719488032,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Decorate a bread product using cream, sticks, and dough.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare the bread crumbs and cream for decoration.\",\n      \"start_timestamp\": 30,\n      \"stop_timestamp\": 16493,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare the bread crumbs.\",\n          \"start_timestamp\": 30,\n          \"stop_timestamp\": 3195\n        },\n        {\n          \"secondary_subgoal\": \"Shake icing sugar onto the bread crumbs.\",\n          \"start_timestamp\": 3195,\n          \"stop_timestamp\": 5295\n        },\n        {\n          \"secondary_subgoal\": \"Put aside the bread crumbs and start preparing cream.\",\n          \"start_timestamp\": 5317,\n          \"stop_timestamp\": 9630\n        },\n        {\n          \"secondary_subgoal\": \"Make cream patterns using a piping bag.\",\n          \"start_timestamp\": 9697,\n          \"stop_timestamp\": 16493\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Shape and adjust the dough.\",\n      \"start_timestamp\": 16493,\n      \"stop_timestamp\": 22395,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Open the piping bag and put dough on paper.\",\n          \"start_timestamp\": 16493,\n          \"stop_timestamp\": 16735\n        },\n        {\n          \"secondary_subgoal\": \"Fold and shape dough using paper and stick.\",\n          \"start_timestamp\": 16735,\n          \"stop_timestamp\": 21653\n        },\n        {\n          \"secondary_subgoal\": \"Adjust dough with a stick and finalize shaping.\",\n          \"start_timestamp\": 21771,\n          \"stop_timestamp\": 22395\n        }\n      ]\n    }\n  ]\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1128,
+        "completion_tokens": 382,
+        "total_tokens": 1510
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

@@ -1,0 +1,90 @@
+{
+    "overall_goal": "Preparing and plating food",
+    "clips": [
+        {
+            "subgoal": "Stirring and seasoning food",
+            "start_timestamp": 0,
+            "stop_timestamp": 3447,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring food",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 911
+                },
+                {
+                    "secondary_subgoal": "Adding first spice",
+                    "start_timestamp": 911,
+                    "stop_timestamp": 889
+                },
+                {
+                    "secondary_subgoal": "Stirring food again",
+                    "start_timestamp": 889,
+                    "stop_timestamp": 3447
+                }
+            ]
+        },
+        {
+            "subgoal": "Turning off the stove and final stirring",
+            "start_timestamp": 3447,
+            "stop_timestamp": 3519,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Switching off the stove",
+                    "start_timestamp": 3447,
+                    "stop_timestamp": 3469
+                },
+                {
+                    "secondary_subgoal": "Stirring food briefly",
+                    "start_timestamp": 3469,
+                    "stop_timestamp": 3519
+                }
+            ]
+        },
+        {
+            "subgoal": "Plating the food",
+            "start_timestamp": 3519,
+            "stop_timestamp": 4368,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Lifting pan and scratching food on plate",
+                    "start_timestamp": 3519,
+                    "stop_timestamp": 3997
+                },
+                {
+                    "secondary_subgoal": "Final touches on plate",
+                    "start_timestamp": 3997,
+                    "stop_timestamp": 4368
+                }
+            ]
+        },
+        {
+            "subgoal": "Getting and preparing additional ingredients",
+            "start_timestamp": 4368,
+            "stop_timestamp": 5455,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fetching ingredients from fridge",
+                    "start_timestamp": 4368,
+                    "stop_timestamp": 4621
+                },
+                {
+                    "secondary_subgoal": "Preparing dish on table and adding ingredients",
+                    "start_timestamp": 4621,
+                    "stop_timestamp": 5455
+                }
+            ]
+        },
+        {
+            "subgoal": "Finishing touches",
+            "start_timestamp": 5455,
+            "stop_timestamp": 5587,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Final arrangement of dish and cleanup",
+                    "start_timestamp": 5455,
+                    "stop_timestamp": 5587
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "overall_goal": "To prepare and cook cassava and yam in the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Prepare cassava for cooking.",
+            "start_timestamp": 821,
+            "stop_timestamp": 9611,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel and cut cassava using a knife.",
+                    "start_timestamp": 821,
+                    "stop_timestamp": 2577
+                },
+                {
+                    "secondary_subgoal": "Discard cassava peel and wash cassava.",
+                    "start_timestamp": 9611,
+                    "stop_timestamp": 9646
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare yams for cooking.",
+            "start_timestamp": 9646,
+            "stop_timestamp": 22602,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel yams using a knife.",
+                    "start_timestamp": 9646,
+                    "stop_timestamp": 9653
+                },
+                {
+                    "secondary_subgoal": "Cut yams into pieces.",
+                    "start_timestamp": 9653,
+                    "stop_timestamp": 22602
+                }
+            ]
+        },
+        {
+            "subgoal": "Move and clean utensils.",
+            "start_timestamp": 22602,
+            "stop_timestamp": 22981,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move utensils around the kitchen.",
+                    "start_timestamp": 22602,
+                    "stop_timestamp": 22680
+                },
+                {
+                    "secondary_subgoal": "Wash utensils in the sink.",
+                    "start_timestamp": 22680,
+                    "stop_timestamp": 22981
+                }
+            ]
+        },
+        {
+            "subgoal": "Put ingredients into pot and add water.",
+            "start_timestamp": 22981,
+            "stop_timestamp": 28895,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fill pot with water",
+                    "start_timestamp": 22981,
+                    "stop_timestamp": 28046
+                },
+                {
+                    "secondary_subgoal": "Add salt and spices.",
+                    "start_timestamp": 28046,
+                    "stop_timestamp": 28895
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook cassava and yam on the stove.",
+            "start_timestamp": 28895,
+            "stop_timestamp": 34161,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on the stove burners and place pot on them.",
+                    "start_timestamp": 28895,
+                    "stop_timestamp": 3281
+                },
+                {
+                    "secondary_subgoal": "Adjust stove burner settings and add more water if required.",
+                    "start_timestamp": 3281,
+                    "stop_timestamp": 34161
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up and organize the kitchen.",
+            "start_timestamp": 34161,
+            "stop_timestamp": 33147,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put away extra containers and close lids.",
+                    "start_timestamp": 34161,
+                    "stop_timestamp": 33147
+                },
+                {
+                    "secondary_subgoal": "Disinfecting and tidying up surfaces, including washing up any leftover equipment and disposing of trash.",
+                    "start_timestamp": 33147,
+                    "stop_timestamp": 38356
+                }
+            ]
+        }
+    ]
+}

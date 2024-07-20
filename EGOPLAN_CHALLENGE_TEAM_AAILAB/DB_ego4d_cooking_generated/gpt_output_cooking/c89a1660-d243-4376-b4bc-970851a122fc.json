@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfX2EYspvUm5uBtwiGIvzX8FpMlU",
+    "object": "chat.completion",
+    "created": 1719241468,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Clean various kitchen items and the sink area.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Wash and rinse bowls\",\n      \"start_timestamp\": 14,\n      \"stop_timestamp\": 1785,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Wash bowl\", \"start_timestamp\": 14, \"stop_timestamp\": 41},\n        {\"secondary_subgoal\": \"Place washed bowl in sink\", \"start_timestamp\": 41, \"stop_timestamp\": 80},\n        {\"secondary_subgoal\": \"Take another bowl and wash it\", \"start_timestamp\": 80, \"stop_timestamp\": 427},\n        {\"secondary_subgoal\": \"Take and rinse bowl\", \"start_timestamp\": 944, \"stop_timestamp\": 1785}\n      ]\n    },\n    {\n      \"subgoal\": \"Wash pan, hands, and sponge\",\n      \"start_timestamp\": 427,\n      \"stop_timestamp\": 944,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Take pan from cooker and place in sink\", \"start_timestamp\": 427, \"stop_timestamp\": 514},\n        {\"secondary_subgoal\": \"Wash hands\", \"start_timestamp\": 739, \"stop_timestamp\": 876},\n        {\"secondary_subgoal\": \"Place sponge on rack\", \"start_timestamp\": 887, \"stop_timestamp\": 944}\n      ]\n    },\n    {\n      \"subgoal\": \"Rinse and place kitchen items on rack\",\n      \"start_timestamp\": 1785,\n      \"stop_timestamp\": 3092,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Rinse knife and place on kitchen rack\", \"start_timestamp\": 1785, \"stop_timestamp\": 2026},\n        {\"secondary_subgoal\": \"Flip and rinse chopping board\", \"start_timestamp\": 2084, \"stop_timestamp\": 2429},\n        {\"secondary_subgoal\": \"Rinse lids and place on kitchen rack\", \"start_timestamp\": 2463, \"stop_timestamp\": 3092}\n      ]\n    },\n    {\n      \"subgoal\": \"Rinse additional kitchen items and clean pan\",\n      \"start_timestamp\": 3121,\n      \"stop_timestamp\": 7981,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Rinse tin and put on kitchen rack\", \"start_timestamp\": 3121, \"stop_timestamp\": 3487},\n        {\"secondary_subgoal\": \"Rinse glass and put on kitchen rack\", \"start_timestamp\": 3630, \"stop_timestamp\": 3812},\n        {\"secondary_subgoal\": \"Rinse and scrub wooden spoon\", \"start_timestamp\": 3845, \"stop_timestamp\": 5625},\n        {\"secondary_subgoal\": \"Clean pan (scrub, rinse, and pour water)\", \"start_timestamp\": 5676, \"stop_timestamp\": 7981}\n      ]\n    },\n    {\n      \"subgoal\": \"Clean sink area and counter\",\n      \"start_timestamp\": 7981,\n      \"stop_timestamp\": 8721,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Wipe sink counter\", \"start_timestamp\": 8014, \"stop_timestamp\": 8549},\n        {\"secondary_subgoal\": \"Wash kitchen napkin\", \"start_timestamp\": 8498, \"stop_timestamp\": 8678},\n        {\"secondary_subgoal\": \"Wipe sink area\", \"start_timestamp\": 8685, \"stop_timestamp\": 8721}\n      ]\n    },\n    {\n      \"subgoal\": \"Walk to another room and touch switch\",\n      \"start_timestamp\": 8843,\n      \"stop_timestamp\": 8943,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Walk to another room\", \"start_timestamp\": 8843, \"stop_timestamp\": 8943},\n        {\"secondary_subgoal\": \"Touch switch\", \"start_timestamp\": 8943, \"stop_timestamp\": 8943}\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1671,
+        "completion_tokens": 838,
+        "total_tokens": 2509
+    },
+    "system_fingerprint": "fp_888385ccad"
+}

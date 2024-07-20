@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeyOh10cbqEHml7sXPiCuW150Dkg",
+    "object": "chat.completion",
+    "created": 1719477648,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and serve a meal using various kitchen utensils and appliances.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare ingredients and utensils\",\n      \"start_timestamp\": 47,\n      \"stop_timestamp\": 804,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Place items in a bowl\",\n          \"start_timestamp\": 47,\n          \"stop_timestamp\": 302\n        },\n        {\n          \"secondary_subgoal\": \"Retrieve and place a plate\",\n          \"start_timestamp\": 302,\n          \"stop_timestamp\": 606\n        },\n        {\n          \"secondary_subgoal\": \"Add ingredients to the plate\",\n          \"start_timestamp\": 606,\n          \"stop_timestamp\": 804\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up initial preparation area\",\n      \"start_timestamp\": 804,\n      \"stop_timestamp\": 865,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Move used plate to sink and retrieve hand towel\",\n          \"start_timestamp\": 804,\n          \"stop_timestamp\": 865\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finish cooking and serve final dish\",\n      \"start_timestamp\": 865,\n      \"stop_timestamp\": 1400,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put down chopsticks\",\n          \"start_timestamp\": 865,\n          \"stop_timestamp\": 958\n        },\n        {\n          \"secondary_subgoal\": \"Retrieve dish from oven\",\n          \"start_timestamp\": 958,\n          \"stop_timestamp\": 1230\n        },\n        {\n          \"secondary_subgoal\": \"Place and finish with oven\",\n          \"start_timestamp\": 1230,\n          \"stop_timestamp\": 1400\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 483,
+        "completion_tokens": 391,
+        "total_tokens": 874
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

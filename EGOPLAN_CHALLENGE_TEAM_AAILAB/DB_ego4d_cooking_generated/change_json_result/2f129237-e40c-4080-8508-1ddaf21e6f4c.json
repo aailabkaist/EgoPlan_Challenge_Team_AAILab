@@ -1,0 +1,134 @@
+{
+    "overall_goal": "Preparing food involving the chopping and arranging of vegetables, including butter nut pumpkin, potatoes, and cassava, and concluding with washing hands and adjusting surroundings.",
+    "clips": [
+        {
+            "subgoal": "Initial interactions and preparing to start food preparation",
+            "start_timestamp": 13,
+            "stop_timestamp": 370,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walking in the room and interacting with person S",
+                    "start_timestamp": 13,
+                    "stop_timestamp": 198
+                },
+                {
+                    "secondary_subgoal": "Walking in the room and interacting with person B",
+                    "start_timestamp": 198,
+                    "stop_timestamp": 370
+                }
+            ]
+        },
+        {
+            "subgoal": "Picking and chopping butter nut pumpkin",
+            "start_timestamp": 370,
+            "stop_timestamp": 5803,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Going to the kitchen and picking items",
+                    "start_timestamp": 370,
+                    "stop_timestamp": 641
+                },
+                {
+                    "secondary_subgoal": "Chopping the butter nut pumpkin",
+                    "start_timestamp": 641,
+                    "stop_timestamp": 1138
+                },
+                {
+                    "secondary_subgoal": "Getting a bottle and placing it on a table",
+                    "start_timestamp": 1138,
+                    "stop_timestamp": 1332
+                },
+                {
+                    "secondary_subgoal": "Getting another knife and a bottle from the fridge",
+                    "start_timestamp": 1332,
+                    "stop_timestamp": 1691
+                },
+                {
+                    "secondary_subgoal": "Continuing to chop the butter nut pumpkin",
+                    "start_timestamp": 1691,
+                    "stop_timestamp": 5803
+                }
+            ]
+        },
+        {
+            "subgoal": "Interacting with person L and arranging the kitchen",
+            "start_timestamp": 5803,
+            "stop_timestamp": 6537,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Conversing with person L",
+                    "start_timestamp": 5803,
+                    "stop_timestamp": 6031
+                },
+                {
+                    "secondary_subgoal": "Picking a container and arranging the shelf",
+                    "start_timestamp": 6068,
+                    "stop_timestamp": 6470
+                },
+                {
+                    "secondary_subgoal": "Returning to the kitchen area",
+                    "start_timestamp": 6470,
+                    "stop_timestamp": 6537
+                }
+            ]
+        },
+        {
+            "subgoal": "Further chopping of butter nut pumpkin",
+            "start_timestamp": 6537,
+            "stop_timestamp": 8890,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Chopping butter nut pumpkin",
+                    "start_timestamp": 6537,
+                    "stop_timestamp": 8890
+                }
+            ]
+        },
+        {
+            "subgoal": "Chopping potatoes",
+            "start_timestamp": 8890,
+            "stop_timestamp": 14500,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking, dividing, and chopping potatoes",
+                    "start_timestamp": 8890,
+                    "stop_timestamp": 14500
+                }
+            ]
+        },
+        {
+            "subgoal": "Chopping cassava and minor interactions",
+            "start_timestamp": 14500,
+            "stop_timestamp": 24993,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Chopping cassava",
+                    "start_timestamp": 14500,
+                    "stop_timestamp": 23279
+                },
+                {
+                    "secondary_subgoal": "Minor interactions and arranging food items",
+                    "start_timestamp": 23279,
+                    "stop_timestamp": 24993
+                }
+            ]
+        },
+        {
+            "subgoal": "Final preparations and cleaning up",
+            "start_timestamp": 24993,
+            "stop_timestamp": 26352,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Final handling of food items",
+                    "start_timestamp": 24993,
+                    "stop_timestamp": 25367
+                },
+                {
+                    "secondary_subgoal": "Walking around, washing, and adjusting items",
+                    "start_timestamp": 25367,
+                    "stop_timestamp": 26352
+                }
+            ]
+        }
+    ]
+}

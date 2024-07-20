@@ -1,0 +1,97 @@
+{
+    "overall_goal": "Prepare and cook a meal using the stove and various ingredients",
+    "clips": [
+        {
+            "subgoal": "Prepare cooking area and gather ingredients",
+            "start_timestamp": 33,
+            "stop_timestamp": 1249,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on the stove",
+                    "start_timestamp": 33,
+                    "stop_timestamp": 94
+                },
+                {
+                    "secondary_subgoal": "Gather ingredients and kitchen tools",
+                    "start_timestamp": 123,
+                    "stop_timestamp": 1249
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cut the ingredients",
+            "start_timestamp": 1249,
+            "stop_timestamp": 1915,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move items and prepare cutting area",
+                    "start_timestamp": 1249,
+                    "stop_timestamp": 1387
+                },
+                {
+                    "secondary_subgoal": "Cut and prepare the onion",
+                    "start_timestamp": 1448,
+                    "stop_timestamp": 1723
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the prepared ingredients",
+            "start_timestamp": 2567,
+            "stop_timestamp": 3497,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add water to the pan and heat it",
+                    "start_timestamp": 2567,
+                    "stop_timestamp": 2732
+                },
+                {
+                    "secondary_subgoal": "Operate the stove and cook",
+                    "start_timestamp": 2748,
+                    "stop_timestamp": 3174
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cut additional ingredients",
+            "start_timestamp": 3650,
+            "stop_timestamp": 7375,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and gather additional ingredients",
+                    "start_timestamp": 3650,
+                    "stop_timestamp": 5075
+                }
+            ]
+        },
+        {
+            "subgoal": "Complete the cooking process",
+            "start_timestamp": 7881,
+            "stop_timestamp": 16573,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir and season the mixture",
+                    "start_timestamp": 9000,
+                    "stop_timestamp": 12345
+                },
+                {
+                    "secondary_subgoal": "Use chopsticks to mix pasta and other contents",
+                    "start_timestamp": 17000,
+                    "stop_timestamp": 17470
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish and serve",
+            "start_timestamp": 17526,
+            "stop_timestamp": 19957,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Serve the cooked meal",
+                    "start_timestamp": 19000,
+                    "stop_timestamp": 19756
+                }
+            ]
+        }
+    ]
+}

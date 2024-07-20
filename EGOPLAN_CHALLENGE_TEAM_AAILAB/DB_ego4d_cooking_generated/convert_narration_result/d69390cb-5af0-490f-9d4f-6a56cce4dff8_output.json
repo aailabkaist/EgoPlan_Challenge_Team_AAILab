@@ -1,0 +1,702 @@
+[
+    {
+        "task_goal": "Drying and storing items used for previous tasks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places cups on utensil wrack",
+                "start_frame": 19,
+                "stop_frame": 64
+            },
+            {
+                "narration_text": "Holds knife",
+                "start_frame": 64,
+                "stop_frame": 115
+            },
+            {
+                "narration_text": "Opens kitchen cabinets",
+                "start_frame": 115,
+                "stop_frame": 121
+            },
+            {
+                "narration_text": "Places knife in cabinet",
+                "start_frame": 121,
+                "stop_frame": 170
+            },
+            {
+                "narration_text": "Holds table towel",
+                "start_frame": 170,
+                "stop_frame": 173
+            },
+            {
+                "narration_text": "Wipes sink",
+                "start_frame": 173,
+                "stop_frame": 251
+            },
+            {
+                "narration_text": "Wipes sink",
+                "start_frame": 251,
+                "stop_frame": 317
+            },
+            {
+                "narration_text": "Places towel down",
+                "start_frame": 317,
+                "stop_frame": 355
+            }
+        ]
+    },
+    {
+        "task_goal": "Placing cups on utensil rack",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places cups on utensil wrack",
+                "start_frame": 19,
+                "stop_frame": 64
+            },
+            {
+                "narration_text": "Holds knife",
+                "start_frame": 64,
+                "stop_frame": 115
+            }
+        ]
+    },
+    {
+        "task_goal": "Holding and storing knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places cups on utensil wrack",
+                "start_frame": 19,
+                "stop_frame": 64
+            },
+            {
+                "narration_text": "Holds knife",
+                "start_frame": 64,
+                "stop_frame": 115
+            },
+            {
+                "narration_text": "Opens kitchen cabinets",
+                "start_frame": 115,
+                "stop_frame": 121
+            },
+            {
+                "narration_text": "Places knife in cabinet",
+                "start_frame": 121,
+                "stop_frame": 170
+            },
+            {
+                "narration_text": "Holds table towel",
+                "start_frame": 170,
+                "stop_frame": 173
+            }
+        ]
+    },
+    {
+        "task_goal": "Wiping sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places knife in cabinet",
+                "start_frame": 121,
+                "stop_frame": 170
+            },
+            {
+                "narration_text": "Holds table towel",
+                "start_frame": 170,
+                "stop_frame": 173
+            },
+            {
+                "narration_text": "Wipes sink",
+                "start_frame": 173,
+                "stop_frame": 251
+            },
+            {
+                "narration_text": "Wipes sink",
+                "start_frame": 251,
+                "stop_frame": 317
+            },
+            {
+                "narration_text": "Places towel down",
+                "start_frame": 317,
+                "stop_frame": 355
+            },
+            {
+                "narration_text": "Picks bottle",
+                "start_frame": 355,
+                "stop_frame": 386
+            }
+        ]
+    },
+    {
+        "task_goal": "Storing kitchen items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places towel down",
+                "start_frame": 317,
+                "stop_frame": 355
+            },
+            {
+                "narration_text": "Picks bottle",
+                "start_frame": 355,
+                "stop_frame": 386
+            },
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 386,
+                "stop_frame": 424
+            },
+            {
+                "narration_text": "Keeps bottle in fridge",
+                "start_frame": 424,
+                "stop_frame": 545
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 545,
+                "stop_frame": 614
+            },
+            {
+                "narration_text": "Picks container",
+                "start_frame": 614,
+                "stop_frame": 672
+            },
+            {
+                "narration_text": "Opens fridge drawer",
+                "start_frame": 672,
+                "stop_frame": 704
+            },
+            {
+                "narration_text": "Places container in drawer",
+                "start_frame": 704,
+                "stop_frame": 720
+            },
+            {
+                "narration_text": "Closes drawer",
+                "start_frame": 720,
+                "stop_frame": 830
+            },
+            {
+                "narration_text": "Changes direction",
+                "start_frame": 830,
+                "stop_frame": 850
+            },
+            {
+                "narration_text": "Stares",
+                "start_frame": 850,
+                "stop_frame": 929
+            }
+        ]
+    },
+    {
+        "task_goal": "Placing bottle in fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places towel down",
+                "start_frame": 317,
+                "stop_frame": 355
+            },
+            {
+                "narration_text": "Picks bottle",
+                "start_frame": 355,
+                "stop_frame": 386
+            },
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 386,
+                "stop_frame": 424
+            },
+            {
+                "narration_text": "Keeps bottle in fridge",
+                "start_frame": 424,
+                "stop_frame": 545
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 545,
+                "stop_frame": 614
+            },
+            {
+                "narration_text": "Picks container",
+                "start_frame": 614,
+                "stop_frame": 672
+            }
+        ]
+    },
+    {
+        "task_goal": "Placing container in fridge drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 545,
+                "stop_frame": 614
+            },
+            {
+                "narration_text": "Picks container",
+                "start_frame": 614,
+                "stop_frame": 672
+            },
+            {
+                "narration_text": "Opens fridge drawer",
+                "start_frame": 672,
+                "stop_frame": 704
+            },
+            {
+                "narration_text": "Places container in drawer",
+                "start_frame": 704,
+                "stop_frame": 720
+            },
+            {
+                "narration_text": "Closes drawer",
+                "start_frame": 720,
+                "stop_frame": 830
+            },
+            {
+                "narration_text": "Changes direction",
+                "start_frame": 830,
+                "stop_frame": 850
+            }
+        ]
+    },
+    {
+        "task_goal": "Eating a snack",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Changes direction",
+                "start_frame": 830,
+                "stop_frame": 850
+            },
+            {
+                "narration_text": "Stares",
+                "start_frame": 850,
+                "stop_frame": 929
+            },
+            {
+                "narration_text": "Picks container",
+                "start_frame": 929,
+                "stop_frame": 981
+            },
+            {
+                "narration_text": "Places container down",
+                "start_frame": 981,
+                "stop_frame": 1034
+            },
+            {
+                "narration_text": "Opens container",
+                "start_frame": 1034,
+                "stop_frame": 1115
+            },
+            {
+                "narration_text": "Eats crisps",
+                "start_frame": 1115,
+                "stop_frame": 1151
+            },
+            {
+                "narration_text": "Closes container",
+                "start_frame": 1151,
+                "stop_frame": 1227
+            },
+            {
+                "narration_text": "Closes container",
+                "start_frame": 1227,
+                "stop_frame": 1335
+            },
+            {
+                "narration_text": "Puts container down",
+                "start_frame": 1335,
+                "stop_frame": 1426
+            },
+            {
+                "narration_text": "Picks paper",
+                "start_frame": 1426,
+                "stop_frame": 1482
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking and placing container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Changes direction",
+                "start_frame": 830,
+                "stop_frame": 850
+            },
+            {
+                "narration_text": "Stares",
+                "start_frame": 850,
+                "stop_frame": 929
+            },
+            {
+                "narration_text": "Picks container",
+                "start_frame": 929,
+                "stop_frame": 981
+            },
+            {
+                "narration_text": "Places container down",
+                "start_frame": 981,
+                "stop_frame": 1034
+            },
+            {
+                "narration_text": "Opens container",
+                "start_frame": 1034,
+                "stop_frame": 1115
+            }
+        ]
+    },
+    {
+        "task_goal": "Eating crisps",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places container down",
+                "start_frame": 981,
+                "stop_frame": 1034
+            },
+            {
+                "narration_text": "Opens container",
+                "start_frame": 1034,
+                "stop_frame": 1115
+            },
+            {
+                "narration_text": "Eats crisps",
+                "start_frame": 1115,
+                "stop_frame": 1151
+            },
+            {
+                "narration_text": "Closes container",
+                "start_frame": 1151,
+                "stop_frame": 1227
+            },
+            {
+                "narration_text": "Closes container",
+                "start_frame": 1227,
+                "stop_frame": 1335
+            }
+        ]
+    },
+    {
+        "task_goal": "Storing container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes container",
+                "start_frame": 1151,
+                "stop_frame": 1227
+            },
+            {
+                "narration_text": "Closes container",
+                "start_frame": 1227,
+                "stop_frame": 1335
+            },
+            {
+                "narration_text": "Puts container down",
+                "start_frame": 1335,
+                "stop_frame": 1426
+            },
+            {
+                "narration_text": "Picks paper",
+                "start_frame": 1426,
+                "stop_frame": 1482
+            }
+        ]
+    },
+    {
+        "task_goal": "Organizing and tidying up",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts container down",
+                "start_frame": 1335,
+                "stop_frame": 1426
+            },
+            {
+                "narration_text": "Picks paper",
+                "start_frame": 1426,
+                "stop_frame": 1482
+            },
+            {
+                "narration_text": "Picks paper",
+                "start_frame": 1482,
+                "stop_frame": 1516
+            },
+            {
+                "narration_text": "Holds paper snack",
+                "start_frame": 1516,
+                "stop_frame": 1602
+            },
+            {
+                "narration_text": "Picks rubber band",
+                "start_frame": 1602,
+                "stop_frame": 1645
+            },
+            {
+                "narration_text": "Puts rubber band on snack paper",
+                "start_frame": 1645,
+                "stop_frame": 1706
+            },
+            {
+                "narration_text": "Picks paper",
+                "start_frame": 1706,
+                "stop_frame": 1741
+            },
+            {
+                "narration_text": "Puts paper down",
+                "start_frame": 1741,
+                "stop_frame": 1837
+            },
+            {
+                "narration_text": "Puts papers down",
+                "start_frame": 1837,
+                "stop_frame": 1950
+            },
+            {
+                "narration_text": "Lifts hand",
+                "start_frame": 1950,
+                "stop_frame": 2007
+            },
+            {
+                "narration_text": "Drops hand",
+                "start_frame": 2007,
+                "stop_frame": 2087
+            },
+            {
+                "narration_text": "Changes direction",
+                "start_frame": 2087,
+                "stop_frame": 2096
+            },
+            {
+                "narration_text": "Stares",
+                "start_frame": 2096,
+                "stop_frame": 2164
+            },
+            {
+                "narration_text": "Stares",
+                "start_frame": 2164,
+                "stop_frame": 2237
+            },
+            {
+                "narration_text": "Picks phone",
+                "start_frame": 2237,
+                "stop_frame": 2292
+            },
+            {
+                "narration_text": "Places phone down",
+                "start_frame": 2292,
+                "stop_frame": 2349
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling snack papers and rubber band",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts container down",
+                "start_frame": 1335,
+                "stop_frame": 1426
+            },
+            {
+                "narration_text": "Picks paper",
+                "start_frame": 1426,
+                "stop_frame": 1482
+            },
+            {
+                "narration_text": "Picks paper",
+                "start_frame": 1482,
+                "stop_frame": 1516
+            },
+            {
+                "narration_text": "Holds paper snack",
+                "start_frame": 1516,
+                "stop_frame": 1602
+            },
+            {
+                "narration_text": "Picks rubber band",
+                "start_frame": 1602,
+                "stop_frame": 1645
+            },
+            {
+                "narration_text": "Puts rubber band on snack paper",
+                "start_frame": 1645,
+                "stop_frame": 1706
+            },
+            {
+                "narration_text": "Picks paper",
+                "start_frame": 1706,
+                "stop_frame": 1741
+            },
+            {
+                "narration_text": "Puts paper down",
+                "start_frame": 1741,
+                "stop_frame": 1837
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks phone",
+                "start_frame": 2237,
+                "stop_frame": 2292
+            },
+            {
+                "narration_text": "Places phone down",
+                "start_frame": 2292,
+                "stop_frame": 2349
+            },
+            {
+                "narration_text": "Changes direction",
+                "start_frame": 2349,
+                "stop_frame": 2380
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking and placing items in the cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 3718,
+                "stop_frame": 3785
+            },
+            {
+                "narration_text": "Puts unsure in cabinet",
+                "start_frame": 3785,
+                "stop_frame": 3882
+            },
+            {
+                "narration_text": "Picks papers",
+                "start_frame": 3882,
+                "stop_frame": 3968
+            },
+            {
+                "narration_text": "Puts paper up",
+                "start_frame": 3968,
+                "stop_frame": 4089
+            },
+            {
+                "narration_text": "Stretches paper",
+                "start_frame": 4089,
+                "stop_frame": 4169
+            },
+            {
+                "narration_text": "Picks paper",
+                "start_frame": 4169,
+                "stop_frame": 4240
+            },
+            {
+                "narration_text": "Opens kitchen cabinet",
+                "start_frame": 4240,
+                "stop_frame": 4267
+            },
+            {
+                "narration_text": "Falls paper",
+                "start_frame": 4267,
+                "stop_frame": 4299
+            },
+            {
+                "narration_text": "Picks paper",
+                "start_frame": 4299,
+                "stop_frame": 4332
+            },
+            {
+                "narration_text": "Puts paper in cabinet",
+                "start_frame": 4332,
+                "stop_frame": 4388
+            },
+            {
+                "narration_text": "Closes door",
+                "start_frame": 4388,
+                "stop_frame": 4458
+            },
+            {
+                "narration_text": "Moves electric jug",
+                "start_frame": 4458,
+                "stop_frame": 4580
+            }
+        ]
+    },
+    {
+        "task_goal": "Heating food in microwave",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens microwave",
+                "start_frame": 6823,
+                "stop_frame": 6906
+            },
+            {
+                "narration_text": "Picks plate",
+                "start_frame": 6906,
+                "stop_frame": 6984
+            },
+            {
+                "narration_text": "Removes bread from microwave",
+                "start_frame": 6984,
+                "stop_frame": 6991
+            },
+            {
+                "narration_text": "Puts bread on plate",
+                "start_frame": 6991,
+                "stop_frame": 7072
+            },
+            {
+                "narration_text": "Closes microwave",
+                "start_frame": 7072,
+                "stop_frame": 7098
+            },
+            {
+                "narration_text": "Stares",
+                "start_frame": 7098,
+                "stop_frame": 7175
+            }
+        ]
+    },
+    {
+        "task_goal": "Cooking bread",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes microwave",
+                "start_frame": 7072,
+                "stop_frame": 7098
+            },
+            {
+                "narration_text": "Stares",
+                "start_frame": 7098,
+                "stop_frame": 7175
+            },
+            {
+                "narration_text": "Puts plate down",
+                "start_frame": 7175,
+                "stop_frame": 7223
+            },
+            {
+                "narration_text": "Opens drawer",
+                "start_frame": 7223,
+                "stop_frame": 7279
+            },
+            {
+                "narration_text": "Picks small tin",
+                "start_frame": 7279,
+                "stop_frame": 7314
+            },
+            {
+                "narration_text": "Pours content on bread",
+                "start_frame": 7314,
+                "stop_frame": 7433
+            },
+            {
+                "narration_text": "Closes tin",
+                "start_frame": 7433,
+                "stop_frame": 7468
+            },
+            {
+                "narration_text": "Puts tin in drawer",
+                "start_frame": 7468,
+                "stop_frame": 7504
+            },
+            {
+                "narration_text": "Closes drawer",
+                "start_frame": 7504,
+                "stop_frame": 7553
+            },
+            {
+                "narration_text": "Moves plate",
+                "start_frame": 7553,
+                "stop_frame": 7653
+            }
+        ]
+    }
+]

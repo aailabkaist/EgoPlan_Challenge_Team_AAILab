@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eh5EX3NixCjjVV67lLgUQoZ4oj8v",
+    "object": "chat.completion",
+    "created": 1719485760,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cooking food in a skillet and cleaning up the kitchen afterwards\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing the skillet with cooking oil\",\n      \"start_timestamp\": 44,\n      \"stop_timestamp\": 819,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Picking up and placing the skillet on the stove\", \"start_timestamp\": 44, \"stop_timestamp\": 236},\n        {\"secondary_subgoal\": \"Opening the cabinet to pick up the skillet\", \"start_timestamp\": 213, \"stop_timestamp\": 307},\n        {\"secondary_subgoal\": \"Placing the skillet and lid on the stove\", \"start_timestamp\": 236, \"stop_timestamp\": 448},\n        {\"secondary_subgoal\": \"Opening and closing the cabinet to pick up a bottle\", \"start_timestamp\": 448, \"stop_timestamp\": 547},\n        {\"secondary_subgoal\": \"Sprinkling cooking oil in the skillet\", \"start_timestamp\": 547, \"stop_timestamp\": 767},\n        {\"secondary_subgoal\": \"Closing the bottle and returning it to the cabinet\", \"start_timestamp\": 767, \"stop_timestamp\": 819}\n      ]\n    },\n    {\n      \"subgoal\": \"Spreading oil and adding food to the skillet\",\n      \"start_timestamp\": 887,\n      \"stop_timestamp\": 1889,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Removing polythene covering from plate and spreading oil in skillet\", \"start_timestamp\": 887, \"stop_timestamp\": 1124},\n        {\"secondary_subgoal\": \"Adding food from the plate to the skillet\", \"start_timestamp\": 1125, \"stop_timestamp\": 1889}\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning the plate and kitchen utensils\",\n      \"start_timestamp\": 1889,\n      \"stop_timestamp\": 2841,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Taking plate to the sink and washing it\", \"start_timestamp\": 1889, \"stop_timestamp\": 2411},\n        {\"secondary_subgoal\": \"Rinsing the plate and putting it in the dish rack\", \"start_timestamp\": 2411, \"stop_timestamp\": 2783},\n        {\"secondary_subgoal\": \"Turning off the faucet\", \"start_timestamp\": 2783, \"stop_timestamp\": 2841}\n      ]\n    },\n    {\n      \"subgoal\": \"Checking and flipping food in the skillet using chopsticks\",\n      \"start_timestamp\": 2841,\n      \"stop_timestamp\": 4999,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Checking the food using chopsticks\", \"start_timestamp\": 2841, \"stop_timestamp\": 3388},\n        {\"secondary_subgoal\": \"Picking up a cloth and wiping the stove\", \"start_timestamp\": 3412, \"stop_timestamp\": 3609},\n        {\"secondary_subgoal\": \"Checking food again using chopsticks\", \"start_timestamp\": 3609, \"stop_timestamp\": 4066},\n        {\"secondary_subgoal\": \"Washing and wiping the cloth\", \"start_timestamp\": 4066, \"stop_timestamp\": 4305},\n        {\"secondary_subgoal\": \"Turning the food on the skillet using chopsticks\", \"start_timestamp\": 4305, \"stop_timestamp\": 4956}\n      ]\n    },\n    {\n      \"subgoal\": \"Closing the skillet with lid and cleaning up the kitchen\",\n      \"start_timestamp\": 4999,\n      \"stop_timestamp\": 5466,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Covering the food with the lid\", \"start_timestamp\": 4999, \"stop_timestamp\": 5035},\n        {\"secondary_subgoal\": \"Removing polythene bag to dispose into dustbin\", \"start_timestamp\": 5070, \"stop_timestamp\": 5366},\n        {\"secondary_subgoal\": \"Adjusting camera for final check\", \"start_timestamp\": 5366, \"stop_timestamp\": 5466}\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1393,
+        "completion_tokens": 857,
+        "total_tokens": 2250
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

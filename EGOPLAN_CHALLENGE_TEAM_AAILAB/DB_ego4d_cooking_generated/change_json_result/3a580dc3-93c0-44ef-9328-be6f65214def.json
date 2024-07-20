@@ -1,0 +1,101 @@
+{
+    "overall_goal": "Prepare and serve food and drink, followed by cleaning up.",
+    "clips": [
+        {
+            "subgoal": "Preparing ingredients",
+            "start_timestamp": 0,
+            "stop_timestamp": 2042,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Closing and setting aside the thermos",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 303
+                },
+                {
+                    "secondary_subgoal": "Interacting with hair and waist",
+                    "start_timestamp": 303,
+                    "stop_timestamp": 638
+                },
+                {
+                    "secondary_subgoal": "Stirring with spatula",
+                    "start_timestamp": 638,
+                    "stop_timestamp": 877
+                },
+                {
+                    "secondary_subgoal": "Getting and opening a bottle from the cabinet",
+                    "start_timestamp": 877,
+                    "stop_timestamp": 1137
+                },
+                {
+                    "secondary_subgoal": "Getting a plastic can from fridge and adding content to the bottle",
+                    "start_timestamp": 1137,
+                    "stop_timestamp": 1798
+                },
+                {
+                    "secondary_subgoal": "Returning the can to fridge and repositioning the bottle",
+                    "start_timestamp": 1798,
+                    "stop_timestamp": 2042
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing kitchenware and serving food",
+            "start_timestamp": 2042,
+            "stop_timestamp": 5847,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring with spatula and touching kettle",
+                    "start_timestamp": 2042,
+                    "stop_timestamp": 2331
+                },
+                {
+                    "secondary_subgoal": "Repositioning items and getting a cup",
+                    "start_timestamp": 2331,
+                    "stop_timestamp": 2879
+                },
+                {
+                    "secondary_subgoal": "Filling the cup with water from the kettle",
+                    "start_timestamp": 2879,
+                    "stop_timestamp": 3360
+                },
+                {
+                    "secondary_subgoal": "Stirring with spatula",
+                    "start_timestamp": 3360,
+                    "stop_timestamp": 3832
+                },
+                {
+                    "secondary_subgoal": "Repositioning a glass and placing a plate on the table",
+                    "start_timestamp": 3832,
+                    "stop_timestamp": 4436
+                },
+                {
+                    "secondary_subgoal": "Serving food onto a plate",
+                    "start_timestamp": 4436,
+                    "stop_timestamp": 5071
+                },
+                {
+                    "secondary_subgoal": "Putting the plate down and touching a cup",
+                    "start_timestamp": 5071,
+                    "stop_timestamp": 6017
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning up",
+            "start_timestamp": 6017,
+            "stop_timestamp": 6549,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing and hanging spatula",
+                    "start_timestamp": 6017,
+                    "stop_timestamp": 6396
+                },
+                {
+                    "secondary_subgoal": "Drying hands and throwing down hand towel",
+                    "start_timestamp": 6396,
+                    "stop_timestamp": 6549
+                }
+            ]
+        }
+    ]
+}

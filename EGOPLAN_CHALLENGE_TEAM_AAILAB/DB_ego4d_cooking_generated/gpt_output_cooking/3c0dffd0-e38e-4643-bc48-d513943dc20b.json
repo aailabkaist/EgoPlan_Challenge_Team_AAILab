@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eef6vMVERMPpVTYKQwKaH3DP56To",
+    "object": "chat.completion",
+    "created": 1719476452,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and serve food\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare sausages\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 1988,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Remove oven plate with sausages\",\n          \"start_timestamp\": 529,\n          \"stop_timestamp\": 789\n        },\n        {\n          \"secondary_subgoal\": \"Turn sausages\",\n          \"start_timestamp\": 916,\n          \"stop_timestamp\": 1544\n        },\n        {\n          \"secondary_subgoal\": \"Put oven plate back in oven\",\n          \"start_timestamp\": 1607,\n          \"stop_timestamp\": 1819\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook food on the stove\",\n      \"start_timestamp\": 1988,\n      \"stop_timestamp\": 9445,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir and add water in cooking pan\",\n          \"start_timestamp\": 1988,\n          \"stop_timestamp\": 2294\n        },\n        {\n          \"secondary_subgoal\": \"Continue stirring food\",\n          \"start_timestamp\": 2895,\n          \"stop_timestamp\": 5115\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up cooking tools and space\",\n      \"start_timestamp\": 9550,\n      \"stop_timestamp\": 10461,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash and put away measuring jag\",\n          \"start_timestamp\": 9550,\n          \"stop_timestamp\": 10063\n        },\n        {\n          \"secondary_subgoal\": \"Clean cooking pan and put it away\",\n          \"start_timestamp\": 10229,\n          \"stop_timestamp\": 10659\n        },\n        {\n          \"secondary_subgoal\": \"Clean up and put away utensils\",\n          \"start_timestamp\": 10881,\n          \"stop_timestamp\": 11574\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finish cooking sausage dish\",\n      \"start_timestamp\": 11574,\n      \"stop_timestamp\": 15603,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Finish preparing sausage dish\",\n          \"start_timestamp\": 13431,\n          \"stop_timestamp\": 15081\n        },\n        {\n          \"secondary_subgoal\": \"Serve sausages\",\n          \"start_timestamp\": 15513,\n          \"stop_timestamp\": 15840\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Serve food in the plate\",\n      \"start_timestamp\": 15840,\n      \"stop_timestamp\": 19420,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Serve food and perform final touch-ups\",\n          \"start_timestamp\": 15840,\n          \"stop_timestamp\": 17468\n        },\n        {\n          \"secondary_subgoal\": \"Clean up and organize kitchen\",\n          \"start_timestamp\": 18311,\n          \"stop_timestamp\": 18812\n        },\n        {\n          \"secondary_subgoal\": \"Look around and use phone\",\n          \"start_timestamp\": 19265,\n          \"stop_timestamp\": 19420\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3139,
+        "completion_tokens": 692,
+        "total_tokens": 3831
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

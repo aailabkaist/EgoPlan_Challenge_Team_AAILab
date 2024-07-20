@@ -1,0 +1,147 @@
+{
+    "overall_goal": "Prepare a meal involving cooking and serving rice and other dishes.",
+    "clips": [
+        {
+            "subgoal": "Prepare the rice cooker and wash the rice.",
+            "start_timestamp": 31,
+            "stop_timestamp": 6042,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Interact with person X and pick objects.",
+                    "start_timestamp": 31,
+                    "stop_timestamp": 1006
+                },
+                {
+                    "secondary_subgoal": "Set up the rice cooker and wash bowls",
+                    "start_timestamp": 1006,
+                    "stop_timestamp": 2677
+                },
+                {
+                    "secondary_subgoal": "Obtain rice and measure quantities.",
+                    "start_timestamp": 2677,
+                    "stop_timestamp": 4230
+                },
+                {
+                    "secondary_subgoal": "Add water to the rice.",
+                    "start_timestamp": 4230,
+                    "stop_timestamp": 4608
+                },
+                {
+                    "secondary_subgoal": "Wash and rinse the rice multiple times.",
+                    "start_timestamp": 4608,
+                    "stop_timestamp": 6042
+                }
+            ]
+        },
+        {
+            "subgoal": "Add rice and ingredients to the rice cooker.",
+            "start_timestamp": 6042,
+            "stop_timestamp": 8638,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Insert additional ingredients and cook rice.",
+                    "start_timestamp": 6042,
+                    "stop_timestamp": 8352
+                },
+                {
+                    "secondary_subgoal": "Clean and close the rice cooker.",
+                    "start_timestamp": 8352,
+                    "stop_timestamp": 8638
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix and add ingredients to a cooking pan.",
+            "start_timestamp": 8638,
+            "stop_timestamp": 21971,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle various kitchen items and ingredients.",
+                    "start_timestamp": 8638,
+                    "stop_timestamp": 15301
+                },
+                {
+                    "secondary_subgoal": "Store excess ingredients and pick gloves.",
+                    "start_timestamp": 15301,
+                    "stop_timestamp": 16544
+                },
+                {
+                    "secondary_subgoal": "Prepare cooking stick and ingredients.",
+                    "start_timestamp": 16544,
+                    "stop_timestamp": 18049
+                },
+                {
+                    "secondary_subgoal": "Wash and arrange various items.",
+                    "start_timestamp": 18049,
+                    "stop_timestamp": 19013
+                },
+                {
+                    "secondary_subgoal": "Serve rice and the food.",
+                    "start_timestamp": 19013,
+                    "stop_timestamp": 21971
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook garlic and mix ingredients.",
+            "start_timestamp": 21971,
+            "stop_timestamp": 32837,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare garlic.",
+                    "start_timestamp": 21971,
+                    "stop_timestamp": 27535
+                },
+                {
+                    "secondary_subgoal": "Use garlic cutter and mix garlic in the pan.",
+                    "start_timestamp": 27535,
+                    "stop_timestamp": 28940
+                },
+                {
+                    "secondary_subgoal": "Cook using the gas.",
+                    "start_timestamp": 28940,
+                    "stop_timestamp": 32837
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir and cook the sauce with a whisk.",
+            "start_timestamp": 32837,
+            "stop_timestamp": 37193,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir ingredients in the saucepan.",
+                    "start_timestamp": 32837,
+                    "stop_timestamp": 34380
+                },
+                {
+                    "secondary_subgoal": "Hold and stir using the whisk.",
+                    "start_timestamp": 34380,
+                    "stop_timestamp": 37193
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish cooking and clean up.",
+            "start_timestamp": 37193,
+            "stop_timestamp": 42004,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean and rinse utensils used.",
+                    "start_timestamp": 37193,
+                    "stop_timestamp": 39666
+                },
+                {
+                    "secondary_subgoal": "Clean up cooking area.",
+                    "start_timestamp": 39666,
+                    "stop_timestamp": 41095
+                },
+                {
+                    "secondary_subgoal": "Complete final steps and clean remaining items.",
+                    "start_timestamp": 41095,
+                    "stop_timestamp": 42004
+                }
+            ]
+        }
+    ]
+}

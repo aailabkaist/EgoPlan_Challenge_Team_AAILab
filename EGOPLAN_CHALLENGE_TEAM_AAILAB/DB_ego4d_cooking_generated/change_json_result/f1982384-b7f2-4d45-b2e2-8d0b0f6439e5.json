@@ -1,0 +1,115 @@
+{
+    "overall_goal": "Cooks and serves eggs and cleans up the kitchen",
+    "clips": [
+        {
+            "subgoal": "Cooking the eggs",
+            "start_timestamp": 0,
+            "stop_timestamp": 3127,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cooking the eggs",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 3127
+                }
+            ]
+        },
+        {
+            "subgoal": "Serving the eggs",
+            "start_timestamp": 3127,
+            "stop_timestamp": 5521,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Placing plates on kitchen counter",
+                    "start_timestamp": 3127,
+                    "stop_timestamp": 3240
+                },
+                {
+                    "secondary_subgoal": "Serving eggs on plates",
+                    "start_timestamp": 3240,
+                    "stop_timestamp": 5029
+                },
+                {
+                    "secondary_subgoal": "Placing pan and chopsticks",
+                    "start_timestamp": 5029,
+                    "stop_timestamp": 5183
+                }
+            ]
+        },
+        {
+            "subgoal": "Covering and storing food",
+            "start_timestamp": 5532,
+            "stop_timestamp": 6931,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Using chopsticks on eggs and covering pan",
+                    "start_timestamp": 5532,
+                    "stop_timestamp": 5708
+                },
+                {
+                    "secondary_subgoal": "Walking to sink and putting chopsticks",
+                    "start_timestamp": 5708,
+                    "stop_timestamp": 5777
+                },
+                {
+                    "secondary_subgoal": "Cleaning and wiping dishes",
+                    "start_timestamp": 5777,
+                    "stop_timestamp": 6290
+                },
+                {
+                    "secondary_subgoal": "Using and storing bottle",
+                    "start_timestamp": 6307,
+                    "stop_timestamp": 6931
+                }
+            ]
+        },
+        {
+            "subgoal": "Taking and placing bowl and lid",
+            "start_timestamp": 6974,
+            "stop_timestamp": 8084,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Getting bowl and lid from drawer",
+                    "start_timestamp": 7003,
+                    "stop_timestamp": 7356
+                },
+                {
+                    "secondary_subgoal": "Placing bowl and lid on kitchen counter",
+                    "start_timestamp": 7385,
+                    "stop_timestamp": 7908
+                }
+            ]
+        },
+        {
+            "subgoal": "Final serving and cleanup",
+            "start_timestamp": 7908,
+            "stop_timestamp": 13834,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Serving cooked eggs and covering bowl",
+                    "start_timestamp": 7908,
+                    "stop_timestamp": 8524
+                },
+                {
+                    "secondary_subgoal": "Cleaning sink and washing utensils",
+                    "start_timestamp": 8586,
+                    "stop_timestamp": 11601
+                },
+                {
+                    "secondary_subgoal": "Taking trays from cabinet and placing food",
+                    "start_timestamp": 11865,
+                    "stop_timestamp": 12180
+                },
+                {
+                    "secondary_subgoal": "Placing bowls, plates, and chopsticks on trays",
+                    "start_timestamp": 12180,
+                    "stop_timestamp": 13534
+                },
+                {
+                    "secondary_subgoal": "Adjusting tray and looking around",
+                    "start_timestamp": 13587,
+                    "stop_timestamp": 13834
+                }
+            ]
+        }
+    ]
+}

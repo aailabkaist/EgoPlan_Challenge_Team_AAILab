@@ -1,0 +1,214 @@
+{
+    "overall_goal": "Prepare a meal using various ingredients and cooking appliances.",
+    "clips": [
+        {
+            "subgoal": "Prepare vegetables for cooking",
+            "start_timestamp": 392,
+            "stop_timestamp": 1982,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take out vegetables from the fridge and remove them from the bag",
+                    "start_timestamp": 392,
+                    "stop_timestamp": 1379
+                },
+                {
+                    "secondary_subgoal": "Take additional vegetables from the fridge",
+                    "start_timestamp": 1379,
+                    "stop_timestamp": 1982
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare beef for cooking",
+            "start_timestamp": 2826,
+            "stop_timestamp": 5396,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on the gas cooker",
+                    "start_timestamp": 1982,
+                    "stop_timestamp": 2826
+                },
+                {
+                    "secondary_subgoal": "Read manual",
+                    "start_timestamp": 2826,
+                    "stop_timestamp": 3079
+                },
+                {
+                    "secondary_subgoal": "Take the tray from person S",
+                    "start_timestamp": 3079,
+                    "stop_timestamp": 3597
+                },
+                {
+                    "secondary_subgoal": "Put the beef in the fridge and cut it in the tray",
+                    "start_timestamp": 3597,
+                    "stop_timestamp": 5091
+                },
+                {
+                    "secondary_subgoal": "Put the tray in the oven",
+                    "start_timestamp": 5091,
+                    "stop_timestamp": 5396
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash hands and prepare cooking utensils",
+            "start_timestamp": 5396,
+            "stop_timestamp": 8407,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take liquid soap and wash hands",
+                    "start_timestamp": 5396,
+                    "stop_timestamp": 6518
+                },
+                {
+                    "secondary_subgoal": "Pour soap in plastic basin and wipe hands with kitchen towel",
+                    "start_timestamp": 6518,
+                    "stop_timestamp": 7422
+                },
+                {
+                    "secondary_subgoal": "Read manual",
+                    "start_timestamp": 7422,
+                    "stop_timestamp": 7572
+                },
+                {
+                    "secondary_subgoal": "Turn on the gas cooker",
+                    "start_timestamp": 7572,
+                    "stop_timestamp": 7676
+                },
+                {
+                    "secondary_subgoal": "Open the cupboard and take the pot",
+                    "start_timestamp": 7676,
+                    "stop_timestamp": 7804
+                },
+                {
+                    "secondary_subgoal": "Draw water from the sink and put the pot on the gas cooker",
+                    "start_timestamp": 7804,
+                    "stop_timestamp": 8064
+                },
+                {
+                    "secondary_subgoal": "Read manual and open cupboard",
+                    "start_timestamp": 8064,
+                    "stop_timestamp": 8407
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare onions for cooking",
+            "start_timestamp": 8968,
+            "stop_timestamp": 16915,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take onion, cut, and peel",
+                    "start_timestamp": 9956,
+                    "stop_timestamp": 12696
+                },
+                {
+                    "secondary_subgoal": "Cut onion and stare around",
+                    "start_timestamp": 12696,
+                    "stop_timestamp": 12910
+                },
+                {
+                    "secondary_subgoal": "Prepare pot with oil and spices",
+                    "start_timestamp": 13242,
+                    "stop_timestamp": 16401
+                },
+                {
+                    "secondary_subgoal": "Harmonize the onions and put in the pot",
+                    "start_timestamp": 16401,
+                    "stop_timestamp": 16915
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir onions and prepare other ingredients",
+            "start_timestamp": 16915,
+            "stop_timestamp": 21044,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open drawer and take plastic spoon",
+                    "start_timestamp": 16950,
+                    "stop_timestamp": 17064
+                },
+                {
+                    "secondary_subgoal": "Stir onions and wash hands",
+                    "start_timestamp": 17184,
+                    "stop_timestamp": 17779
+                },
+                {
+                    "secondary_subgoal": "S stir onions in the pan",
+                    "start_timestamp": 18059,
+                    "stop_timestamp": 19694
+                },
+                {
+                    "secondary_subgoal": "Read the manual",
+                    "start_timestamp": 19694,
+                    "stop_timestamp": 20800
+                },
+                {
+                    "secondary_subgoal": "Stir onions in the pan",
+                    "start_timestamp": 20800,
+                    "stop_timestamp": 21044
+                }
+            ]
+        },
+        {
+            "subgoal": "Add vinegar and other ingredients",
+            "start_timestamp": 21044,
+            "stop_timestamp": 27620,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and cut vinegar pack",
+                    "start_timestamp": 24312,
+                    "stop_timestamp": 25889
+                },
+                {
+                    "secondary_subgoal": "Pour vinegar and cut pack with scissor",
+                    "start_timestamp": 25889,
+                    "stop_timestamp": 26493
+                },
+                {
+                    "secondary_subgoal": "Stir onions in the pot and close with a lid",
+                    "start_timestamp": 26493,
+                    "stop_timestamp": 27305
+                },
+                {
+                    "secondary_subgoal": "Pour water into the pot",
+                    "start_timestamp": 27305,
+                    "stop_timestamp": 27620
+                }
+            ]
+        },
+        {
+            "subgoal": "Finalize meal preparation",
+            "start_timestamp": 27620,
+            "stop_timestamp": 39551,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take spoon and stir onions in the pot",
+                    "start_timestamp": 28641,
+                    "stop_timestamp": 30162
+                },
+                {
+                    "secondary_subgoal": "S pours soy sauce in the pot and stirs",
+                    "start_timestamp": 30592,
+                    "stop_timestamp": 32479
+                },
+                {
+                    "secondary_subgoal": "Open oven, take and turn sausage",
+                    "start_timestamp": 32785,
+                    "stop_timestamp": 34423
+                },
+                {
+                    "secondary_subgoal": "Wash and wipe scissor with kitchen towel",
+                    "start_timestamp": 35068,
+                    "stop_timestamp": 35827
+                },
+                {
+                    "secondary_subgoal": "Stir onions and other ingredients",
+                    "start_timestamp": 36860,
+                    "stop_timestamp": 39551
+                }
+            ]
+        }
+    ]
+}

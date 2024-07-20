@@ -1,0 +1,100 @@
+{
+    "overall_goal": "Prepare and cook a meal including vegetables, lemon juice, and seasoned meat.",
+    "clips": [
+        {
+            "subgoal": "Prepare and chop vegetables.",
+            "start_timestamp": 72446,
+            "stop_timestamp": 75090,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel and cut the onion.",
+                    "start_timestamp": 72446,
+                    "stop_timestamp": 73211
+                },
+                {
+                    "secondary_subgoal": "Cut the carrot and prepare cooking utensils.",
+                    "start_timestamp": 73932,
+                    "stop_timestamp": 74467
+                },
+                {
+                    "secondary_subgoal": "Chop the rest of the carrot and onion.",
+                    "start_timestamp": 74914,
+                    "stop_timestamp": 75090
+                }
+            ]
+        },
+        {
+            "subgoal": "Make lemon juice and add ingredients.",
+            "start_timestamp": 75295,
+            "stop_timestamp": 77275,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut the lemon and prepare the lemon squeezer.",
+                    "start_timestamp": 75515,
+                    "stop_timestamp": 75685
+                },
+                {
+                    "secondary_subgoal": "Squeeze lemon juice and add ingredients to it.",
+                    "start_timestamp": 75756,
+                    "stop_timestamp": 77275
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the kitchen for cooking.",
+            "start_timestamp": 77314,
+            "stop_timestamp": 77686,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open the fridge and get water.",
+                    "start_timestamp": 77314,
+                    "stop_timestamp": 77388
+                },
+                {
+                    "secondary_subgoal": "Pour water in the cup and place the bottle on the counter.",
+                    "start_timestamp": 77417,
+                    "stop_timestamp": 77686
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and season the fish fillet.",
+            "start_timestamp": 167314,
+            "stop_timestamp": 170924,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and squeeze the fish fillet.",
+                    "start_timestamp": 167341,
+                    "stop_timestamp": 168011
+                },
+                {
+                    "secondary_subgoal": "Mix lemon juice and chili powder and apply to fish fillet.",
+                    "start_timestamp": 168824,
+                    "stop_timestamp": 170924
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and season the meat.",
+            "start_timestamp": 171669,
+            "stop_timestamp": 179277,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and drain the meat.",
+                    "start_timestamp": 171669,
+                    "stop_timestamp": 172320
+                },
+                {
+                    "secondary_subgoal": "Mix the meat with spices.",
+                    "start_timestamp": 172816,
+                    "stop_timestamp": 174219
+                },
+                {
+                    "secondary_subgoal": "Cover meat and place in the fridge.",
+                    "start_timestamp": 175976,
+                    "stop_timestamp": 179277
+                }
+            ]
+        }
+    ]
+}

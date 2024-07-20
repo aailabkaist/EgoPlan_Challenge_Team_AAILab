@@ -1,0 +1,107 @@
+{
+    "overall_goal": "Cook and prepare a dish using various ingredients and utensils in the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Prepare and season vegetables",
+            "start_timestamp": 2,
+            "stop_timestamp": 1571,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put vegetables on a pan and start cooking",
+                    "start_timestamp": 2,
+                    "stop_timestamp": 331
+                },
+                {
+                    "secondary_subgoal": "Add and stir seasonings",
+                    "start_timestamp": 351,
+                    "stop_timestamp": 1571
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare sauce and mix with vegetables",
+            "start_timestamp": 1583,
+            "stop_timestamp": 3029,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare sauce",
+                    "start_timestamp": 1583,
+                    "stop_timestamp": 2332
+                },
+                {
+                    "secondary_subgoal": "Mix sauce with vegetables",
+                    "start_timestamp": 2436,
+                    "stop_timestamp": 3029
+                }
+            ]
+        },
+        {
+            "subgoal": "Add meat and cook broth",
+            "start_timestamp": 3081,
+            "stop_timestamp": 4967,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add meat to the cooking pot",
+                    "start_timestamp": 3081,
+                    "stop_timestamp": 3580
+                },
+                {
+                    "secondary_subgoal": "Cook broth",
+                    "start_timestamp": 3684,
+                    "stop_timestamp": 4967
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook spaghetti",
+            "start_timestamp": 5060,
+            "stop_timestamp": 902,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Boil water and prepare spaghetti",
+                    "start_timestamp": 5060,
+                    "stop_timestamp": 7250
+                },
+                {
+                    "secondary_subgoal": "Cook spaghetti",
+                    "start_timestamp": 7250,
+                    "stop_timestamp": 902
+                }
+            ]
+        },
+        {
+            "subgoal": "Add butter and finalize cooking",
+            "start_timestamp": 9015,
+            "stop_timestamp": 10383,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add butter to the cooking pot",
+                    "start_timestamp": 9015,
+                    "stop_timestamp": 9627
+                },
+                {
+                    "secondary_subgoal": "Adjust heat and finalize cooking",
+                    "start_timestamp": 9627,
+                    "stop_timestamp": 10383
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve food",
+            "start_timestamp": 11043,
+            "stop_timestamp": 20016,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Segment food preparation",
+                    "start_timestamp": 11043,
+                    "stop_timestamp": 12233
+                },
+                {
+                    "secondary_subgoal": "Serve food with different utensils",
+                    "start_timestamp": 12233,
+                    "stop_timestamp": 20016
+                }
+            ]
+        }
+    ]
+}

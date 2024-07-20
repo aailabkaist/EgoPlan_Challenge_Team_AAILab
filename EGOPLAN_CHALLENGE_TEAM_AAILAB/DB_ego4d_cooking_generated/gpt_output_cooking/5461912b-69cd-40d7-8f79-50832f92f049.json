@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egeVasmNwmltYUOKheQLRIMMM8mE",
+    "object": "chat.completion",
+    "created": 1719484103,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare vegetables (carrots, chilies, onions, and garlic) by grating, peeling, and chopping them.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Grating carrots\",\n      \"start_timestamp\": 4,\n      \"stop_timestamp\": 10307,\n      \"sub_clips\": [\n        { \n          \"secondary_subgoal\": \"Holding and placing carrots\",\n          \"start_timestamp\": 4,\n          \"stop_timestamp\": 70\n        },\n        { \n          \"secondary_subgoal\": \"Grating carrots with a grater tray\",\n          \"start_timestamp\": 70,\n          \"stop_timestamp\": 4309\n        },\n        { \n          \"secondary_subgoal\": \"Picking and grating another carrot\",\n          \"start_timestamp\": 4309,\n          \"stop_timestamp\": 8776\n        },\n        { \n          \"secondary_subgoal\": \"Disposing carrot waste\",\n          \"start_timestamp\": 8776,\n          \"stop_timestamp\": 9057\n        },\n        { \n          \"secondary_subgoal\": \"Opening the grater bowl lid\",\n          \"start_timestamp\": 9057,\n          \"stop_timestamp\": 9093\n        },\n        { \n          \"secondary_subgoal\": \"Removing grated carrots into the bowl\",\n          \"start_timestamp\": 9093,\n          \"stop_timestamp\": 10023\n        },\n        { \n          \"secondary_subgoal\": \"Placing grater on vegetable basin\",\n          \"start_timestamp\": 10023,\n          \"stop_timestamp\": 10169\n        },\n        { \n          \"secondary_subgoal\": \"Scraping carrots aside in grater bowl\",\n          \"start_timestamp\": 10169,\n          \"stop_timestamp\": 10307\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cutting chilies\",\n      \"start_timestamp\": 10307,\n      \"stop_timestamp\": 15075,\n      \"sub_clips\": [\n        { \n          \"secondary_subgoal\": \"Placing grater bowl on metal stand\",\n          \"start_timestamp\": 10307,\n          \"stop_timestamp\": 10440\n        },\n        { \n          \"secondary_subgoal\": \"Picking and removing chili stalk\",\n          \"start_timestamp\": 10440,\n          \"stop_timestamp\": 10671\n        },\n        { \n          \"secondary_subgoal\": \"Cutting and placing chilies on grater bowl\",\n          \"start_timestamp\": 10671,\n          \"stop_timestamp\": 15075\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cutting onions\",\n      \"start_timestamp\": 15075,\n      \"stop_timestamp\": 16012,\n      \"sub_clips\": [\n        { \n          \"secondary_subgoal\": \"Cutting onions\",\n          \"start_timestamp\": 15075,\n          \"stop_timestamp\": 15438\n        },\n        { \n          \"secondary_subgoal\": \"Peeling and cutting onions\",\n          \"start_timestamp\": 15438,\n          \"stop_timestamp\": 16012\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Chopping and processing garlic\",\n      \"start_timestamp\": 16012,\n      \"stop_timestamp\": 31838,\n      \"sub_clips\": [\n        { \n          \"secondary_subgoal\": \"Peeling, chopping, and placing garlic\",\n          \"start_timestamp\": 16012,\n          \"stop_timestamp\": 23785\n        },\n        { \n          \"secondary_subgoal\": \"Peeling lots of garlic\",\n          \"start_timestamp\": 23785,\n          \"stop_timestamp\": 31838\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3237,
+        "completion_tokens": 764,
+        "total_tokens": 4001
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

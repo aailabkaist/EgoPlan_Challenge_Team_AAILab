@@ -1,0 +1,152 @@
+{
+    "overall_goal": "Prepare a cooked meal using various ingredients and kitchen tools",
+    "clips": [
+        {
+            "subgoal": "Prepare workspace and initial ingredients",
+            "start_timestamp": "0",
+            "stop_timestamp": "177",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Manage polythene bag",
+                    "start_timestamp": "0",
+                    "stop_timestamp": "169"
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean hands for meal preparation",
+            "start_timestamp": "209",
+            "stop_timestamp": "362",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on water and wet hands",
+                    "start_timestamp": "209",
+                    "stop_timestamp": "246"
+                },
+                {
+                    "secondary_subgoal": "Use soap to clean hands",
+                    "start_timestamp": "246",
+                    "stop_timestamp": "297"
+                },
+                {
+                    "secondary_subgoal": "Thoroughly wash hands",
+                    "start_timestamp": "297",
+                    "stop_timestamp": "362"
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare for cooking",
+            "start_timestamp": "498",
+            "stop_timestamp": "1040",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look around for required ingredients",
+                    "start_timestamp": "498",
+                    "stop_timestamp": "822"
+                },
+                {
+                    "secondary_subgoal": "Examine and prepare items from fridge",
+                    "start_timestamp": "877",
+                    "stop_timestamp": "1040"
+                },
+                {
+                    "secondary_subgoal": "Take phone and start operating",
+                    "start_timestamp": "1258",
+                    "stop_timestamp": "1750"
+                }
+            ]
+        },
+        {
+            "subgoal": "Start cooking process",
+            "start_timestamp": "1882",
+            "stop_timestamp": "3770",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare the meat",
+                    "start_timestamp": "1882",
+                    "stop_timestamp": "2128"
+                },
+                {
+                    "secondary_subgoal": "Clean hands again",
+                    "start_timestamp": "2128",
+                    "stop_timestamp": "2230"
+                },
+                {
+                    "secondary_subgoal": "Prepare the cutting board",
+                    "start_timestamp": "2257",
+                    "stop_timestamp": "2549"
+                },
+                {
+                    "secondary_subgoal": "Clean the cutting board",
+                    "start_timestamp": "2549",
+                    "stop_timestamp": "3033"
+                }
+            ]
+        },
+        {
+            "subgoal": "Continue cooking process and address waiting time",
+            "start_timestamp": "3061",
+            "stop_timestamp": "13094",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Heat and aerate the cooking area",
+                    "start_timestamp": "3245",
+                    "stop_timestamp": "3525"
+                },
+                {
+                    "secondary_subgoal": "Handle and stir the meat",
+                    "start_timestamp": "3525",
+                    "stop_timestamp": "4964"
+                },
+                {
+                    "secondary_subgoal": "Prepare and use the beans can",
+                    "start_timestamp": "5144",
+                    "stop_timestamp": "5584"
+                },
+                {
+                    "secondary_subgoal": "Continue stirring the meat",
+                    "start_timestamp": "5663",
+                    "stop_timestamp": "6679"
+                },
+                {
+                    "secondary_subgoal": "Mix tomato puree",
+                    "start_timestamp": "6878",
+                    "stop_timestamp": "8701"
+                },
+                {
+                    "secondary_subgoal": "Continue stirring",
+                    "start_timestamp": "9111",
+                    "stop_timestamp": "9112"
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish cooking and clean workspace",
+            "start_timestamp": "10027",
+            "stop_timestamp": "14706",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and mix flour",
+                    "start_timestamp": "10027",
+                    "stop_timestamp": "11222"
+                },
+                {
+                    "secondary_subgoal": "Stir food",
+                    "start_timestamp": "11339",
+                    "stop_timestamp": "12369"
+                },
+                {
+                    "secondary_subgoal": "Handle lid and stir rod",
+                    "start_timestamp": "12504",
+                    "stop_timestamp": "12732"
+                },
+                {
+                    "secondary_subgoal": "Pouring and preparing water",
+                    "start_timestamp": "12732",
+                    "stop_timestamp": "13423"
+                }
+            ]
+        }
+    ]
+}

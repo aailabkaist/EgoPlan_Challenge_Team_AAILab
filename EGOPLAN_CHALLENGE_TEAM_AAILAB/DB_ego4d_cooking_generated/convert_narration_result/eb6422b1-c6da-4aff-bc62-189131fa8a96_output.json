@@ -1,0 +1,607 @@
+[
+    {
+        "task_goal": "Gather equipment and open items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Fixes the camera.",
+                "start_frame": 1,
+                "stop_frame": 165
+            },
+            {
+                "narration_text": "Opens unsure",
+                "start_frame": 165,
+                "stop_frame": 246
+            },
+            {
+                "narration_text": "Picks up a plate.",
+                "start_frame": 246,
+                "stop_frame": 337
+            },
+            {
+                "narration_text": "Opens a drawer.",
+                "start_frame": 337,
+                "stop_frame": 395
+            },
+            {
+                "narration_text": "Pulls unsure",
+                "start_frame": 395,
+                "stop_frame": 417
+            },
+            {
+                "narration_text": "Pours unsure .",
+                "start_frame": 417,
+                "stop_frame": 568
+            },
+            {
+                "narration_text": "Closes unsure",
+                "start_frame": 568,
+                "stop_frame": 585
+            },
+            {
+                "narration_text": "Pushes unsure in the drawer.",
+                "start_frame": 585,
+                "stop_frame": 639
+            },
+            {
+                "narration_text": "Closes the drawer.",
+                "start_frame": 639,
+                "stop_frame": 665
+            },
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 665,
+                "stop_frame": 712
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the rice",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the drawer.",
+                "start_frame": 639,
+                "stop_frame": 665
+            },
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 665,
+                "stop_frame": 712
+            },
+            {
+                "narration_text": "Washes the rice with water.",
+                "start_frame": 712,
+                "stop_frame": 881
+            },
+            {
+                "narration_text": "Closes the tap.",
+                "start_frame": 881,
+                "stop_frame": 922
+            },
+            {
+                "narration_text": "Pours the water from the plate.",
+                "start_frame": 922,
+                "stop_frame": 1030
+            },
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 1030,
+                "stop_frame": 1074
+            },
+            {
+                "narration_text": "Washes the rice with water.",
+                "start_frame": 1074,
+                "stop_frame": 1135
+            },
+            {
+                "narration_text": "Closes the tap.",
+                "start_frame": 1135,
+                "stop_frame": 1316
+            },
+            {
+                "narration_text": "Pours the water from the plate.",
+                "start_frame": 1316,
+                "stop_frame": 1365
+            },
+            {
+                "narration_text": "Looks at the rice.",
+                "start_frame": 1365,
+                "stop_frame": 1510
+            },
+            {
+                "narration_text": "Pours the water from the plate.",
+                "start_frame": 1510,
+                "stop_frame": 1561
+            },
+            {
+                "narration_text": "Looks at the rice.",
+                "start_frame": 1561,
+                "stop_frame": 1713
+            },
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 1713,
+                "stop_frame": 1779
+            },
+            {
+                "narration_text": "Puts the plate in unsure",
+                "start_frame": 1779,
+                "stop_frame": 1835
+            }
+        ]
+    },
+    {
+        "task_goal": "Gather and position onions and cutting tools",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 1713,
+                "stop_frame": 1779
+            },
+            {
+                "narration_text": "Puts the plate in unsure",
+                "start_frame": 1779,
+                "stop_frame": 1835
+            },
+            {
+                "narration_text": "Sets unsure",
+                "start_frame": 1835,
+                "stop_frame": 1961
+            },
+            {
+                "narration_text": "Picks up a plate.",
+                "start_frame": 1961,
+                "stop_frame": 2005
+            },
+            {
+                "narration_text": "Puts the plate on the sink.",
+                "start_frame": 2005,
+                "stop_frame": 2031
+            },
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 2031,
+                "stop_frame": 2157
+            },
+            {
+                "narration_text": "Opens the door.",
+                "start_frame": 2157,
+                "stop_frame": 2233
+            },
+            {
+                "narration_text": "Picks up onion",
+                "start_frame": 2233,
+                "stop_frame": 2449
+            },
+            {
+                "narration_text": "Closes the door.",
+                "start_frame": 2449,
+                "stop_frame": 2585
+            },
+            {
+                "narration_text": "Pushes the plate.",
+                "start_frame": 2585,
+                "stop_frame": 2675
+            },
+            {
+                "narration_text": "Picks up the board",
+                "start_frame": 2675,
+                "stop_frame": 2744
+            },
+            {
+                "narration_text": "Puts the board on the sink.",
+                "start_frame": 2744,
+                "stop_frame": 2795
+            },
+            {
+                "narration_text": "Opens the drawer.",
+                "start_frame": 2795,
+                "stop_frame": 2892
+            },
+            {
+                "narration_text": "Picks up a knife.",
+                "start_frame": 2892,
+                "stop_frame": 2911
+            },
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 2911,
+                "stop_frame": 2948
+            },
+            {
+                "narration_text": "Picks up the onion.",
+                "start_frame": 2948,
+                "stop_frame": 3002
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut onions",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 2911,
+                "stop_frame": 2948
+            },
+            {
+                "narration_text": "Picks up the onion.",
+                "start_frame": 2948,
+                "stop_frame": 3002
+            },
+            {
+                "narration_text": "Cuts the onion with the knife.",
+                "start_frame": 3002,
+                "stop_frame": 3256
+            },
+            {
+                "narration_text": "Puts the knife on the table.",
+                "start_frame": 3256,
+                "stop_frame": 3324
+            },
+            {
+                "narration_text": "Puts the piece of onion down.",
+                "start_frame": 3324,
+                "stop_frame": 3358
+            },
+            {
+                "narration_text": "Picks up a knife.",
+                "start_frame": 3358,
+                "stop_frame": 3395
+            },
+            {
+                "narration_text": "Puts the knife on the table.",
+                "start_frame": 3395,
+                "stop_frame": 3427
+            },
+            {
+                "narration_text": "Removes unsure from the onion.",
+                "start_frame": 3427,
+                "stop_frame": 3701
+            },
+            {
+                "narration_text": "Puts the dirt in the dustbin.",
+                "start_frame": 3701,
+                "stop_frame": 3867
+            },
+            {
+                "narration_text": "Picks up the knife.",
+                "start_frame": 3867,
+                "stop_frame": 3894
+            },
+            {
+                "narration_text": "Cuts the onion in the knife.",
+                "start_frame": 3894,
+                "stop_frame": 4072
+            },
+            {
+                "narration_text": "Open the tap.",
+                "start_frame": 4072,
+                "stop_frame": 4094
+            },
+            {
+                "narration_text": "Washes the knife.",
+                "start_frame": 4094,
+                "stop_frame": 4194
+            },
+            {
+                "narration_text": "Puts the knife down.",
+                "start_frame": 4194,
+                "stop_frame": 4225
+            },
+            {
+                "narration_text": "Picks the knife.",
+                "start_frame": 4225,
+                "stop_frame": 4274
+            },
+            {
+                "narration_text": "Cuts the onion.",
+                "start_frame": 4274,
+                "stop_frame": 6988
+            },
+            {
+                "narration_text": "Puts the knife down.",
+                "start_frame": 6988,
+                "stop_frame": 7037
+            }
+        ]
+    },
+    {
+        "task_goal": "Finalize onion prep",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cuts the onion.",
+                "start_frame": 4274,
+                "stop_frame": 6988
+            },
+            {
+                "narration_text": "Puts the knife down.",
+                "start_frame": 6988,
+                "stop_frame": 7037
+            }
+        ]
+    },
+    {
+        "task_goal": "Place onions in the pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up the pan",
+                "start_frame": 8503,
+                "stop_frame": 8593
+            },
+            {
+                "narration_text": "Looks at the pan",
+                "start_frame": 8593,
+                "stop_frame": 8628
+            },
+            {
+                "narration_text": "Puts pan on the cooker",
+                "start_frame": 8628,
+                "stop_frame": 8662
+            },
+            {
+                "narration_text": "Pushes aside wooden spoon",
+                "start_frame": 8662,
+                "stop_frame": 8674
+            },
+            {
+                "narration_text": "Takes the knife",
+                "start_frame": 8674,
+                "stop_frame": 8704
+            },
+            {
+                "narration_text": "Takes the tray",
+                "start_frame": 8704,
+                "stop_frame": 8778
+            },
+            {
+                "narration_text": "Pours onions in the pan with a knife",
+                "start_frame": 8778,
+                "stop_frame": 8995
+            },
+            {
+                "narration_text": "Cleans the knife with the pan",
+                "start_frame": 8995,
+                "stop_frame": 9072
+            },
+            {
+                "narration_text": "Puts knife on the tray",
+                "start_frame": 9072,
+                "stop_frame": 9085
+            },
+            {
+                "narration_text": "Puts tray on the sink",
+                "start_frame": 9085,
+                "stop_frame": 9110
+            },
+            {
+                "narration_text": "Lifts the bottle",
+                "start_frame": 9110,
+                "stop_frame": 9142
+            },
+            {
+                "narration_text": "Takes the wooden spoon",
+                "start_frame": 9142,
+                "stop_frame": 9151
+            },
+            {
+                "narration_text": "Holds the pan",
+                "start_frame": 9151,
+                "stop_frame": 9163
+            }
+        ]
+    },
+    {
+        "task_goal": "Finish meal preparation",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes his hands.",
+                "start_frame": 17950,
+                "stop_frame": 17999
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 17999,
+                "stop_frame": 18105
+            },
+            {
+                "narration_text": "Opens the drawer.",
+                "start_frame": 18105,
+                "stop_frame": 18148
+            },
+            {
+                "narration_text": "Picks up a tin.",
+                "start_frame": 18148,
+                "stop_frame": 18212
+            },
+            {
+                "narration_text": "Opens the tin.",
+                "start_frame": 18212,
+                "stop_frame": 18237
+            },
+            {
+                "narration_text": "Pours unsure on the plate.",
+                "start_frame": 18237,
+                "stop_frame": 18336
+            },
+            {
+                "narration_text": "Opens the drawer.",
+                "start_frame": 18336,
+                "stop_frame": 18366
+            },
+            {
+                "narration_text": "Puts the tin in the drawer.",
+                "start_frame": 18366,
+                "stop_frame": 18437
+            },
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 18437,
+                "stop_frame": 18463
+            },
+            {
+                "narration_text": "Picks up the spoon.",
+                "start_frame": 18463,
+                "stop_frame": 18492
+            },
+            {
+                "narration_text": "Mixes unsure",
+                "start_frame": 18492,
+                "stop_frame": 19227
+            },
+            {
+                "narration_text": "Leaves the spoon in the plate.",
+                "start_frame": 19227,
+                "stop_frame": 19257
+            },
+            {
+                "narration_text": "Picks unsure in the plate.",
+                "start_frame": 19257,
+                "stop_frame": 19331
+            },
+            {
+                "narration_text": "Puts unsure in the plate",
+                "start_frame": 19331,
+                "stop_frame": 19392
+            },
+            {
+                "narration_text": "Mixes unsure",
+                "start_frame": 19392,
+                "stop_frame": 19948
+            },
+            {
+                "narration_text": "Puts the spoon on the table.",
+                "start_frame": 19948,
+                "stop_frame": 19978
+            },
+            {
+                "narration_text": "Mixes unsure with his hands.",
+                "start_frame": 19978,
+                "stop_frame": 20791
+            },
+            {
+                "narration_text": "Picks unsure from the nylon paper.",
+                "start_frame": 20791,
+                "stop_frame": 20856
+            },
+            {
+                "narration_text": "Puts unsure in the plate.",
+                "start_frame": 20856,
+                "stop_frame": 20937
+            },
+            {
+                "narration_text": "Mixes unsure with his hands.",
+                "start_frame": 20937,
+                "stop_frame": 21037
+            }
+        ]
+    },
+    {
+        "task_goal": "Combine ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the drawer.",
+                "start_frame": 18105,
+                "stop_frame": 18148
+            },
+            {
+                "narration_text": "Picks up a tin.",
+                "start_frame": 18148,
+                "stop_frame": 18212
+            },
+            {
+                "narration_text": "Opens the tin.",
+                "start_frame": 18212,
+                "stop_frame": 18237
+            },
+            {
+                "narration_text": "Pours unsure on the plate.",
+                "start_frame": 18237,
+                "stop_frame": 18336
+            },
+            {
+                "narration_text": "Opens the drawer.",
+                "start_frame": 18336,
+                "stop_frame": 18366
+            },
+            {
+                "narration_text": "Puts the tin in the drawer.",
+                "start_frame": 18366,
+                "stop_frame": 18437
+            },
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 18437,
+                "stop_frame": 18463
+            },
+            {
+                "narration_text": "Picks up the spoon.",
+                "start_frame": 18463,
+                "stop_frame": 18492
+            },
+            {
+                "narration_text": "Mixes unsure",
+                "start_frame": 18492,
+                "stop_frame": 19227
+            },
+            {
+                "narration_text": "Leaves the spoon in the plate.",
+                "start_frame": 19227,
+                "stop_frame": 19257
+            },
+            {
+                "narration_text": "Picks unsure in the plate.",
+                "start_frame": 19257,
+                "stop_frame": 19331
+            },
+            {
+                "narration_text": "Puts unsure in the plate",
+                "start_frame": 19331,
+                "stop_frame": 19392
+            },
+            {
+                "narration_text": "Mixes unsure",
+                "start_frame": 19392,
+                "stop_frame": 19948
+            },
+            {
+                "narration_text": "Puts the spoon on the table.",
+                "start_frame": 19948,
+                "stop_frame": 19978
+            },
+            {
+                "narration_text": "Mixes unsure with his hands.",
+                "start_frame": 19978,
+                "stop_frame": 20791
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix ingredients by hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the spoon on the table.",
+                "start_frame": 19948,
+                "stop_frame": 19978
+            },
+            {
+                "narration_text": "Mixes unsure with his hands.",
+                "start_frame": 19978,
+                "stop_frame": 20791
+            },
+            {
+                "narration_text": "Picks unsure from the nylon paper.",
+                "start_frame": 20791,
+                "stop_frame": 20856
+            },
+            {
+                "narration_text": "Puts unsure in the plate.",
+                "start_frame": 20856,
+                "stop_frame": 20937
+            },
+            {
+                "narration_text": "Mixes unsure with his hands.",
+                "start_frame": 20937,
+                "stop_frame": 21037
+            }
+        ]
+    }
+]

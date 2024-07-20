@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfDbyaMO9FDIuj4YRoc4A91f99u2",
+    "object": "chat.completion",
+    "created": 1719240263,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Prepare a meal involving rice and vegetables\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Prepare rice\",\n            \"start_timestamp\": 178,\n            \"stop_timestamp\": 3156,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Get the pot from the rice cooker\",\n                    \"start_timestamp\": 215,\n                    \"stop_timestamp\": 334\n                },\n                {\n                    \"secondary_subgoal\": \"Prep the rice\",\n                    \"start_timestamp\": 334,\n                    \"stop_timestamp\": 1221\n                },\n                {\n                    \"secondary_subgoal\": \"Wash the rice\",\n                    \"start_timestamp\": 1221,\n                    \"stop_timestamp\": 2503\n                },\n                {\n                    \"secondary_subgoal\": \"Put the pot back into the rice cooker and start cooking\",\n                    \"start_timestamp\": 2503,\n                    \"stop_timestamp\": 3003\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Prepare cabbage\",\n            \"start_timestamp\": 3156,\n            \"stop_timestamp\": 21198,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Get cabbage from fridge\",\n                    \"start_timestamp\": 3156,\n                    \"stop_timestamp\": 3659\n                },\n                {\n                    \"secondary_subgoal\": \"Wash and chop the cabbage\",\n                    \"start_timestamp\": 3659,\n                    \"stop_timestamp\": 10627\n                },\n                {\n                    \"secondary_subgoal\": \"Store the chopped cabbage\",\n                    \"start_timestamp\": 10627,\n                    \"stop_timestamp\": 11122\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Prepare daikon radish and onion\",\n            \"start_timestamp\": 11122,\n            \"stop_timestamp\": 16471,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Get daikon radish and onion from drawer\",\n                    \"start_timestamp\": 11122,\n                    \"stop_timestamp\": 11621\n                },\n                {\n                    \"secondary_subgoal\": \"Cut and prepare daikon radish\",\n                    \"start_timestamp\": 11621,\n                    \"stop_timestamp\": 14735\n                },\n                {\n                    \"secondary_subgoal\": \"Cut and prepare onion\",\n                    \"start_timestamp\": 14735,\n                    \"stop_timestamp\": 16016\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Finish vegetable preparation\",\n            \"start_timestamp\": 16016,\n            \"stop_timestamp\": 21298,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Prepare remaining vegetables\",\n                    \"start_timestamp\": 16016,\n                    \"stop_timestamp\": 19518\n                },\n                {\n                    \"secondary_subgoal\": \"Chop remaining vegetables and clean up\",\n                    \"start_timestamp\": 19518,\n                    \"stop_timestamp\": 21298\n                }\n            ]\n        }\n    ]\n}\n```\n\nThis output segments the overall goal of preparing a meal into subgoals and secondary subgoals based on the actions described by the timestamps."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4226,
+        "completion_tokens": 645,
+        "total_tokens": 4871
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

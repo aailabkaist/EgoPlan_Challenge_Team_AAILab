@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgugkuDJT61lDxJWBXeGX6ArHaOj",
+    "object": "chat.completion",
+    "created": 1719246778,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal using various ingredients and cooking tools in the kitchen.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare ingredients for cooking\",\n      \"start_timestamp\": 218,\n      \"stop_timestamp\": 12084,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gather required ingredients and tools\",\n          \"start_timestamp\": 218,\n          \"stop_timestamp\": 657\n        },\n        {\n          \"secondary_subgoal\": \"Handle onions\",\n          \"start_timestamp\": 657,\n          \"stop_timestamp\": 12084\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking preparation\",\n      \"start_timestamp\": 12084,\n      \"stop_timestamp\": 19831,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut onions and other vegetables\",\n          \"start_timestamp\": 12084,\n          \"stop_timestamp\": 19831\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook food in the pan\",\n      \"start_timestamp\": 19831,\n      \"stop_timestamp\": 30304,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir and manage food in the pan\",\n          \"start_timestamp\": 19831,\n          \"stop_timestamp\": 30304\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Wash vegetables\",\n      \"start_timestamp\": 21816,\n      \"stop_timestamp\": 23284,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash capsicum\",\n          \"start_timestamp\": 21816,\n          \"stop_timestamp\": 22778\n        },\n        {\n          \"secondary_subgoal\": \"Wash capsicum again\",\n          \"start_timestamp\": 22892,\n          \"stop_timestamp\": 23284\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Chop vegetables\",\n      \"start_timestamp\": 23284,\n      \"stop_timestamp\": 41191,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Chop capsicum\",\n          \"start_timestamp\": 23284,\n          \"stop_timestamp\": 30304\n        },\n        {\n          \"secondary_subgoal\": \"Stir and lid pan\",\n          \"start_timestamp\": 30304,\n          \"stop_timestamp\": 41191\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare lemon\",\n      \"start_timestamp\": 43181,\n      \"stop_timestamp\": 45524,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut and squeeze lemon\",\n          \"start_timestamp\": 43181,\n          \"stop_timestamp\": 45524\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final cooking actions\",\n      \"start_timestamp\": 45598,\n      \"stop_timestamp\": 77084,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Sort and stir food\",\n          \"start_timestamp\": 45598,\n          \"stop_timestamp\": 49141\n        },\n        {\n          \"secondary_subgoal\": \"Add ingredients and manage food on pan\",\n          \"start_timestamp\": 49141,\n          \"stop_timestamp\": 77266\n        },\n        {\n          \"secondary_subgoal\": \"Operate kitchen appliances and inspect food\",\n          \"start_timestamp\": 77084,\n          \"stop_timestamp\": 77366\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 10541,
+        "completion_tokens": 732,
+        "total_tokens": 11273
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

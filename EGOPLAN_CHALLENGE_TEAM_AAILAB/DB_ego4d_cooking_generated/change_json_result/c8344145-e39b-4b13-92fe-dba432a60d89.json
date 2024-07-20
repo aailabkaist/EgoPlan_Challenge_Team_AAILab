@@ -1,0 +1,89 @@
+{
+    "overall_goal": "To clean and organize various kitchen items including bottles, bowls, chopsticks, knife, glass, and a sieve strainer",
+    "clips": [
+        {
+            "subgoal": "Manage and organize bottles",
+            "start_timestamp": 24,
+            "stop_timestamp": 342,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and manage bottles",
+                    "start_timestamp": 24,
+                    "stop_timestamp": 92
+                },
+                {
+                    "secondary_subgoal": "Organize bottles in fridge",
+                    "start_timestamp": 92,
+                    "stop_timestamp": 283
+                },
+                {
+                    "secondary_subgoal": "Further manage bottles on kitchen counter",
+                    "start_timestamp": 283,
+                    "stop_timestamp": 342
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean various kitchen items",
+            "start_timestamp": 342,
+            "stop_timestamp": 4630,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Manage and move kitchen items",
+                    "start_timestamp": 342,
+                    "stop_timestamp": 381
+                },
+                {
+                    "secondary_subgoal": "Clean bottles and other items",
+                    "start_timestamp": 381,
+                    "stop_timestamp": 1223
+                },
+                {
+                    "secondary_subgoal": "Clean chopsticks",
+                    "start_timestamp": 1223,
+                    "stop_timestamp": 1410
+                },
+                {
+                    "secondary_subgoal": "Clean a knife",
+                    "start_timestamp": 1410,
+                    "stop_timestamp": 1546
+                },
+                {
+                    "secondary_subgoal": "Clean a glass",
+                    "start_timestamp": 1546,
+                    "stop_timestamp": 2376
+                },
+                {
+                    "secondary_subgoal": "Rinse and organize items",
+                    "start_timestamp": 2376,
+                    "stop_timestamp": 2634
+                },
+                {
+                    "secondary_subgoal": "Organize and rinse more items",
+                    "start_timestamp": 2634,
+                    "stop_timestamp": 3129
+                },
+                {
+                    "secondary_subgoal": "Switching and rinsing chopsticks",
+                    "start_timestamp": 3129,
+                    "stop_timestamp": 3455
+                },
+                {
+                    "secondary_subgoal": "Fill glass and rinse",
+                    "start_timestamp": 3455,
+                    "stop_timestamp": 3697
+                },
+                {
+                    "secondary_subgoal": "Clean and rinse bowls",
+                    "start_timestamp": 3697,
+                    "stop_timestamp": 4074
+                },
+                {
+                    "secondary_subgoal": "Clean sieve strainer",
+                    "start_timestamp": 4074,
+                    "stop_timestamp": 4630
+                }
+            ]
+        }
+    ]
+}

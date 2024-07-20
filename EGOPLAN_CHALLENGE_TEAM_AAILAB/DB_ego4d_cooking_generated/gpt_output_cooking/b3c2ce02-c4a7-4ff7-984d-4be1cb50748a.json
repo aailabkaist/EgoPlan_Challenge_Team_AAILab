@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeiJPaDLlr5DW7NyA5POcssAF7gf",
+    "object": "chat.completion",
+    "created": 1719476651,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare food and beverages in the kitchen and organize the kitchen space\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Check and organize items in the fridge\",\n      \"start_timestamp\": 353,\n      \"stop_timestamp\": 2574,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Open the fridge, examine and move items\",\n          \"start_timestamp\": 353,\n          \"stop_timestamp\": 1433\n        },\n        {\n          \"secondary_subgoal\": \"Place edibles in the fridge\",\n          \"start_timestamp\": 1886,\n          \"stop_timestamp\": 2335\n        },\n        {\n          \"secondary_subgoal\": \"Remove and place juice container\",\n          \"start_timestamp\": 2384,\n          \"stop_timestamp\": 2574\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare fruits and ingredients for breakfast\",\n      \"start_timestamp\": 2574,\n      \"stop_timestamp\": 8294,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Remove vegetables and set table\",\n          \"start_timestamp\": 3894,\n          \"stop_timestamp\": 4765\n        },\n        {\n          \"secondary_subgoal\": \"Peel and cut bananas\",\n          \"start_timestamp\": 5299,\n          \"stop_timestamp\": 5807\n        },\n        {\n          \"secondary_subgoal\": \"Prepare and place items for blending\",\n          \"start_timestamp\": 5882,\n          \"stop_timestamp\": 8502\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Remove and organize items in the fridge\",\n      \"start_timestamp\": 8611,\n      \"stop_timestamp\": 11073,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Open and organize items in the fridge\",\n          \"start_timestamp\": 8611,\n          \"stop_timestamp\": 9633\n        },\n        {\n          \"secondary_subgoal\": \"Remove, organize, and place items in the microwave\",\n          \"start_timestamp\": 10216,\n          \"stop_timestamp\": 11073\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook meal using gas stove and manage kitchen space\",\n      \"start_timestamp\": 11694,\n      \"stop_timestamp\": 25499,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cook using the gas cooker\",\n          \"start_timestamp\": 11694,\n          \"stop_timestamp\": 18483\n        },\n        {\n          \"secondary_subgoal\": \"Manage kitchen utensils and items\",\n          \"start_timestamp\": 18857,\n          \"stop_timestamp\": 22157\n        },\n        {\n          \"secondary_subgoal\": \"Wash utensils and clean the sink\",\n          \"start_timestamp\": 22212,\n          \"stop_timestamp\": 22591\n        },\n        {\n          \"secondary_subgoal\": \"Mix and organize items on the table\",\n          \"start_timestamp\": 22767,\n          \"stop_timestamp\": 23964\n        },\n        {\n          \"secondary_subgoal\": \"Store and check items in the fridge\",\n          \"start_timestamp\": 24719,\n          \"stop_timestamp\": 25039\n        },\n        {\n          \"secondary_subgoal\": \"Drink from mug and finish tasks\",\n          \"start_timestamp\": 25139,\n          \"stop_timestamp\": 25499\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2385,
+        "completion_tokens": 719,
+        "total_tokens": 3104
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dehbjbcH7FL3jEiLhGTy1uNirDvj",
+    "object": "chat.completion",
+    "created": 1719238279,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and cooking a meal including broccoli, bell pepper, and fish fillet, and serving it on a plate.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing and seasoning the broccoli and bell pepper\",\n      \"start_timestamp\": 4,\n      \"stop_timestamp\": 1549,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Setting up the workspace and getting the chopping board\",\n          \"start_timestamp\": 4,\n          \"stop_timestamp\": 181\n        },\n        {\n          \"secondary_subgoal\": \"Preparing the broccoli\",\n          \"start_timestamp\": 181,\n          \"stop_timestamp\": 1883\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning and chopping the bell pepper\",\n          \"start_timestamp\": 1883,\n          \"stop_timestamp\": 553\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Chopping and washing broccoli and bell pepper\",\n      \"start_timestamp\": 1804,\n      \"stop_timestamp\": 9174,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Chopping broccoli and bell peppers\",\n          \"start_timestamp\": 1804,\n          \"stop_timestamp\": 5619\n        },\n        {\n          \"secondary_subgoal\": \"Washing and drying chopped broccoli and bell peppers\",\n          \"start_timestamp\": 5619,\n          \"stop_timestamp\": 764\n        },\n        {\n          \"secondary_subgoal\": \"Seasoning broccoli and bell peppers\",\n          \"start_timestamp\": 764,\n          \"stop_timestamp\": 9138\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing the fish fillet\",\n      \"start_timestamp\": 11394,\n      \"stop_timestamp\": 17934,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Seasoning the fish fillet\",\n          \"start_timestamp\": 11394,\n          \"stop_timestamp\": 13451\n        },\n        {\n          \"secondary_subgoal\": \"Prewarming the cooking pan with oil\",\n          \"start_timestamp\": 13454,\n          \"stop_timestamp\": 14735\n        },\n        {\n          \"secondary_subgoal\": \"Placing and cooking fish fillet in the frying pan\",\n          \"start_timestamp\": 14735,\n          \"stop_timestamp\": 17934\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking fish fillet and broccoli\",\n      \"start_timestamp\": 17934,\n      \"stop_timestamp\": 20651,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cooking fish fillet and broccoli in the frying pan\",\n          \"start_timestamp\": 17934,\n          \"stop_timestamp\": 21303\n        },\n        {\n          \"secondary_subgoal\": \"Stirring and seasoning fish fillet and broccoli\",\n          \"start_timestamp\": 21303,\n          \"stop_timestamp\": 20651\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Serving the meal\",\n      \"start_timestamp\": 20651,\n      \"stop_timestamp\": 31930,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Harvesting cooked fish fillet and broccoli and serving\",\n          \"start_timestamp\": 20651,\n          \"stop_timestamp\": 31633\n        },\n        {\n          \"secondary_subgoal\": \"Finishing touches and cleaning workspace\",\n          \"start_timestamp\": 31633,\n          \"stop_timestamp\": 31930\n        }\n      ]\n    }\n  ]\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 8381,
+        "completion_tokens": 745,
+        "total_tokens": 9126
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

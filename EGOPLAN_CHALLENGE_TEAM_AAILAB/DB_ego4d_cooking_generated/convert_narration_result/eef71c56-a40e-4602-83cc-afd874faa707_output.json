@@ -1,0 +1,357 @@
+[
+    {
+        "task_goal": "Clean and organize the bench area",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a bottle",
+                "start_frame": 1,
+                "stop_frame": 1
+            },
+            {
+                "narration_text": "Cleans the bench",
+                "start_frame": 1,
+                "stop_frame": 25
+            },
+            {
+                "narration_text": "Places the bottle on the bench",
+                "start_frame": 25,
+                "stop_frame": 128
+            },
+            {
+                "narration_text": "Lifts a bottle",
+                "start_frame": 128,
+                "stop_frame": 157
+            },
+            {
+                "narration_text": "Places the bottle on the bench",
+                "start_frame": 157,
+                "stop_frame": 191
+            },
+            {
+                "narration_text": "Folds the serviette",
+                "start_frame": 191,
+                "stop_frame": 220
+            },
+            {
+                "narration_text": "Cleans the bench",
+                "start_frame": 220,
+                "stop_frame": 223
+            },
+            {
+                "narration_text": "Picks pot gripper",
+                "start_frame": 223,
+                "stop_frame": 249
+            },
+            {
+                "narration_text": "Cleans the bench",
+                "start_frame": 249,
+                "stop_frame": 358
+            },
+            {
+                "narration_text": "Cleans the pot gripper",
+                "start_frame": 358,
+                "stop_frame": 378
+            },
+            {
+                "narration_text": "Places the pot gripper on the bench",
+                "start_frame": 378,
+                "stop_frame": 401
+            },
+            {
+                "narration_text": "Picks a bottle",
+                "start_frame": 401,
+                "stop_frame": 437
+            },
+            {
+                "narration_text": "Places the bottle on the fridge",
+                "start_frame": 437,
+                "stop_frame": 458
+            },
+            {
+                "narration_text": "Cleans the bench",
+                "start_frame": 458,
+                "stop_frame": 497
+            },
+            {
+                "narration_text": "Folds the serviettes",
+                "start_frame": 497,
+                "stop_frame": 568
+            },
+            {
+                "narration_text": "Cleans the wall with the serviette",
+                "start_frame": 568,
+                "stop_frame": 906
+            },
+            {
+                "narration_text": "Holds the serviette",
+                "start_frame": 906,
+                "stop_frame": 928
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean the bench",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a bottle",
+                "start_frame": 1,
+                "stop_frame": 1
+            },
+            {
+                "narration_text": "Cleans the bench",
+                "start_frame": 1,
+                "stop_frame": 25
+            },
+            {
+                "narration_text": "Places the bottle on the bench",
+                "start_frame": 25,
+                "stop_frame": 128
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the bottle on the bench",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans the bench",
+                "start_frame": 1,
+                "stop_frame": 25
+            },
+            {
+                "narration_text": "Places the bottle on the bench",
+                "start_frame": 25,
+                "stop_frame": 128
+            },
+            {
+                "narration_text": "Lifts a bottle",
+                "start_frame": 128,
+                "stop_frame": 157
+            }
+        ]
+    },
+    {
+        "task_goal": "Place another bottle on the bench",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the bottle on the bench",
+                "start_frame": 25,
+                "stop_frame": 128
+            },
+            {
+                "narration_text": "Lifts a bottle",
+                "start_frame": 128,
+                "stop_frame": 157
+            },
+            {
+                "narration_text": "Places the bottle on the bench",
+                "start_frame": 157,
+                "stop_frame": 191
+            },
+            {
+                "narration_text": "Folds the serviette",
+                "start_frame": 191,
+                "stop_frame": 220
+            }
+        ]
+    },
+    {
+        "task_goal": "Fold a serviette and clean the bench",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the bottle on the bench",
+                "start_frame": 157,
+                "stop_frame": 191
+            },
+            {
+                "narration_text": "Folds the serviette",
+                "start_frame": 191,
+                "stop_frame": 220
+            },
+            {
+                "narration_text": "Cleans the bench",
+                "start_frame": 220,
+                "stop_frame": 223
+            },
+            {
+                "narration_text": "Picks pot gripper",
+                "start_frame": 223,
+                "stop_frame": 249
+            },
+            {
+                "narration_text": "Cleans the bench",
+                "start_frame": 249,
+                "stop_frame": 358
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick the pot gripper and clean the bench",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks pot gripper",
+                "start_frame": 223,
+                "stop_frame": 249
+            },
+            {
+                "narration_text": "Cleans the bench",
+                "start_frame": 249,
+                "stop_frame": 358
+            },
+            {
+                "narration_text": "Cleans the pot gripper",
+                "start_frame": 358,
+                "stop_frame": 378
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean the pot gripper and place it on the bench",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans the bench",
+                "start_frame": 249,
+                "stop_frame": 358
+            },
+            {
+                "narration_text": "Cleans the pot gripper",
+                "start_frame": 358,
+                "stop_frame": 378
+            },
+            {
+                "narration_text": "Places the pot gripper on the bench",
+                "start_frame": 378,
+                "stop_frame": 401
+            },
+            {
+                "narration_text": "Picks a bottle",
+                "start_frame": 401,
+                "stop_frame": 437
+            }
+        ]
+    },
+    {
+        "task_goal": "Place a bottle on the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the pot gripper on the bench",
+                "start_frame": 378,
+                "stop_frame": 401
+            },
+            {
+                "narration_text": "Picks a bottle",
+                "start_frame": 401,
+                "stop_frame": 437
+            },
+            {
+                "narration_text": "Places the bottle on the fridge",
+                "start_frame": 437,
+                "stop_frame": 458
+            },
+            {
+                "narration_text": "Cleans the bench",
+                "start_frame": 458,
+                "stop_frame": 497
+            },
+            {
+                "narration_text": "Folds the serviettes",
+                "start_frame": 497,
+                "stop_frame": 568
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean the bench again and fold the serviettes",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans the bench",
+                "start_frame": 458,
+                "stop_frame": 497
+            },
+            {
+                "narration_text": "Folds the serviettes",
+                "start_frame": 497,
+                "stop_frame": 568
+            },
+            {
+                "narration_text": "Cleans the wall with the serviette",
+                "start_frame": 568,
+                "stop_frame": 906
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean the wall with the serviette",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Folds the serviettes",
+                "start_frame": 497,
+                "stop_frame": 568
+            },
+            {
+                "narration_text": "Cleans the wall with the serviette",
+                "start_frame": 568,
+                "stop_frame": 906
+            },
+            {
+                "narration_text": "Holds the serviette",
+                "start_frame": 906,
+                "stop_frame": 928
+            }
+        ]
+    },
+    {
+        "task_goal": "Complete the task with a final touch",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans the wall with the serviette",
+                "start_frame": 568,
+                "stop_frame": 906
+            },
+            {
+                "narration_text": "Holds the serviette",
+                "start_frame": 906,
+                "stop_frame": 928
+            },
+            {
+                "narration_text": "Fixes the camera",
+                "start_frame": 928,
+                "stop_frame": 1028
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold the serviette",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans the wall with the serviette",
+                "start_frame": 568,
+                "stop_frame": 906
+            },
+            {
+                "narration_text": "Holds the serviette",
+                "start_frame": 906,
+                "stop_frame": 928
+            },
+            {
+                "narration_text": "Fixes the camera",
+                "start_frame": 928,
+                "stop_frame": 1028
+            }
+        ]
+    },
+    {
+        "task_goal": "Fix the camera",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the serviette",
+                "start_frame": 906,
+                "stop_frame": 928
+            },
+            {
+                "narration_text": "Fixes the camera",
+                "start_frame": 928,
+                "stop_frame": 1028
+            }
+        ]
+    }
+]

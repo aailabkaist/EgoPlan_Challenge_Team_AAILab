@@ -1,0 +1,127 @@
+{
+    "overall_goal": "prepare and cook paste on a cooking pan using a firewood stove",
+    "clips": [
+        {
+            "subgoal": "add flour to the paste in the pan",
+            "start_timestamp": 0,
+            "stop_timestamp": 116,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "pour flour onto the paste",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 70
+                },
+                {
+                    "secondary_subgoal": "take flour from container",
+                    "start_timestamp": 70,
+                    "stop_timestamp": 116
+                }
+            ]
+        },
+        {
+            "subgoal": "cover and set aside flour container",
+            "start_timestamp": 116,
+            "stop_timestamp": 506,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "pick container lid",
+                    "start_timestamp": 156,
+                    "stop_timestamp": 178
+                },
+                {
+                    "secondary_subgoal": "close container with lid",
+                    "start_timestamp": 178,
+                    "stop_timestamp": 409
+                },
+                {
+                    "secondary_subgoal": "lift and put aside container",
+                    "start_timestamp": 409,
+                    "stop_timestamp": 506
+                }
+            ]
+        },
+        {
+            "subgoal": "stir and cook paste",
+            "start_timestamp": 506,
+            "stop_timestamp": 16661,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "stir paste with spatula",
+                    "start_timestamp": 506,
+                    "stop_timestamp": 874
+                },
+                {
+                    "secondary_subgoal": "adjust and add firewood",
+                    "start_timestamp": 2178,
+                    "stop_timestamp": 2292
+                },
+                {
+                    "secondary_subgoal": "stir and handle paste with spatula",
+                    "start_timestamp": 2292,
+                    "stop_timestamp": 8708
+                },
+                {
+                    "secondary_subgoal": "turn and flatten paste with spatula",
+                    "start_timestamp": 8708,
+                    "stop_timestamp": 16661
+                }
+            ]
+        },
+        {
+            "subgoal": "prepare plate and clean cooking area",
+            "start_timestamp": 16661,
+            "stop_timestamp": 21328,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "prepare plate and put on floor",
+                    "start_timestamp": 17561,
+                    "stop_timestamp": 17627
+                },
+                {
+                    "secondary_subgoal": "wipe hands and move cooking utensils",
+                    "start_timestamp": 17717,
+                    "stop_timestamp": 17872
+                }
+            ]
+        },
+        {
+            "subgoal": "serve food from pot to the plate",
+            "start_timestamp": 17872,
+            "stop_timestamp": 20242,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "pour food from pot to plate",
+                    "start_timestamp": 18911,
+                    "stop_timestamp": 19656
+                },
+                {
+                    "secondary_subgoal": "spread food in the plate",
+                    "start_timestamp": 19656,
+                    "stop_timestamp": 19919
+                },
+                {
+                    "secondary_subgoal": "fetch water from bucket with jug",
+                    "start_timestamp": 19967,
+                    "stop_timestamp": 20120
+                }
+            ]
+        },
+        {
+            "subgoal": "adjust and add firewood",
+            "start_timestamp": 20368,
+            "stop_timestamp": 21328,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "turn firewood and add charcoal",
+                    "start_timestamp": 20368,
+                    "stop_timestamp": 20402
+                },
+                {
+                    "secondary_subgoal": "wipe hands and move clothing",
+                    "start_timestamp": 21203,
+                    "stop_timestamp": 21328
+                }
+            ]
+        }
+    ]
+}

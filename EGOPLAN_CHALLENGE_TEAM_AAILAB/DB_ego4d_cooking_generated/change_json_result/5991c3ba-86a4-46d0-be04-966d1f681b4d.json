@@ -1,0 +1,83 @@
+{
+    "overall_goal": "Organize and clean kitchenware in the kitchen",
+    "clips": [
+        {
+            "subgoal": "Handle the bowl and its contents",
+            "start_timestamp": 12,
+            "stop_timestamp": 432,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and place content in the bowl",
+                    "start_timestamp": 12,
+                    "stop_timestamp": 183
+                },
+                {
+                    "secondary_subgoal": "Transfer bowl to and from the microwave",
+                    "start_timestamp": 183,
+                    "stop_timestamp": 432
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare items for storage",
+            "start_timestamp": 432,
+            "stop_timestamp": 999,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put bowl on table and handle misc items",
+                    "start_timestamp": 432,
+                    "stop_timestamp": 723
+                },
+                {
+                    "secondary_subgoal": "Store food items in the fridge",
+                    "start_timestamp": 723,
+                    "stop_timestamp": 999
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean and wash kitchenware",
+            "start_timestamp": 999,
+            "stop_timestamp": 2144,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash chopping board",
+                    "start_timestamp": 1036,
+                    "stop_timestamp": 1518
+                },
+                {
+                    "secondary_subgoal": "Wash and store knife",
+                    "start_timestamp": 1599,
+                    "stop_timestamp": 2001
+                },
+                {
+                    "secondary_subgoal": "Dispose of excess items",
+                    "start_timestamp": 2075,
+                    "stop_timestamp": 2144
+                }
+            ]
+        },
+        {
+            "subgoal": "Finalize organization",
+            "start_timestamp": 2144,
+            "stop_timestamp": 2767,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put bowl in sink and handle bottle",
+                    "start_timestamp": 2144,
+                    "stop_timestamp": 2354
+                },
+                {
+                    "secondary_subgoal": "Place another bowl in the sink",
+                    "start_timestamp": 2425,
+                    "stop_timestamp": 2560
+                },
+                {
+                    "secondary_subgoal": "Look around and finalize actions",
+                    "start_timestamp": 2560,
+                    "stop_timestamp": 2767
+                }
+            ]
+        }
+    ]
+}

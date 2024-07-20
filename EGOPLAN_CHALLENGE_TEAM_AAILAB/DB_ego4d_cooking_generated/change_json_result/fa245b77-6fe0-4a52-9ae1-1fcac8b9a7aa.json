@@ -1,0 +1,56 @@
+{
+    "overall_goal": "Prepare and cook a dish using onions and other ingredients.",
+    "clips": [
+        {
+            "subgoal": "Prepare the onions for cooking",
+            "start_timestamp": 17,
+            "stop_timestamp": 2734,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and prepare ingredients",
+                    "start_timestamp": 17,
+                    "stop_timestamp": 355
+                },
+                {
+                    "secondary_subgoal": "Set up chopping area and start onion preparation",
+                    "start_timestamp": 355,
+                    "stop_timestamp": 10334
+                }
+            ]
+        },
+        {
+            "subgoal": "Continue to prepare the onions and wash tools",
+            "start_timestamp": 10334,
+            "stop_timestamp": 16098,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare sachet and add spices",
+                    "start_timestamp": 10334,
+                    "stop_timestamp": 14021
+                },
+                {
+                    "secondary_subgoal": "Continue with onion preparation and washing tools",
+                    "start_timestamp": 14021,
+                    "stop_timestamp": 16098
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the dish using onions and additional spices",
+            "start_timestamp": 16098,
+            "stop_timestamp": 19502,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Start cooking process and add spices",
+                    "start_timestamp": 16098,
+                    "stop_timestamp": 18198
+                },
+                {
+                    "secondary_subgoal": "Continue cooking and stirring the dish",
+                    "start_timestamp": 18198,
+                    "stop_timestamp": 19502
+                }
+            ]
+        }
+    ]
+}

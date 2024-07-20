@@ -1,0 +1,161 @@
+{
+    "overall_goal": "Prepare a meal using various ingredients and utensils in the kitchen",
+    "clips": [
+        {
+            "subgoal": "Stir and cook food in the pan",
+            "start_timestamp": 0,
+            "stop_timestamp": 1724,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir food with chopping sticks",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 293
+                },
+                {
+                    "secondary_subgoal": "Turn around",
+                    "start_timestamp": 293,
+                    "stop_timestamp": 361
+                },
+                {
+                    "secondary_subgoal": "Use phone",
+                    "start_timestamp": 361,
+                    "stop_timestamp": 434
+                },
+                {
+                    "secondary_subgoal": "Return to cooker and stir food",
+                    "start_timestamp": 434,
+                    "stop_timestamp": 1724
+                }
+            ]
+        },
+        {
+            "subgoal": "Adjust cooking level and handle pantry items",
+            "start_timestamp": 1724,
+            "stop_timestamp": 2462,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjust cooker knob and handle chopping sticks",
+                    "start_timestamp": 1724,
+                    "stop_timestamp": 1835
+                },
+                {
+                    "secondary_subgoal": "Interact with phone",
+                    "start_timestamp": 1835,
+                    "stop_timestamp": 2031
+                },
+                {
+                    "secondary_subgoal": "Interact with container and utensils",
+                    "start_timestamp": 2031,
+                    "stop_timestamp": 2462
+                }
+            ]
+        },
+        {
+            "subgoal": "Measure and add ingredients",
+            "start_timestamp": 2462,
+            "stop_timestamp": 3159,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Measure and add ingredients to the pan",
+                    "start_timestamp": 2462,
+                    "stop_timestamp": 2973
+                },
+                {
+                    "secondary_subgoal": "Handle bottle and sink items",
+                    "start_timestamp": 2973,
+                    "stop_timestamp": 3159
+                }
+            ]
+        },
+        {
+            "subgoal": "Rinse and prepare ingredients",
+            "start_timestamp": 3159,
+            "stop_timestamp": 3869,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and rinse ingredients using the sink",
+                    "start_timestamp": 3159,
+                    "stop_timestamp": 3591
+                },
+                {
+                    "secondary_subgoal": "Add ingredients to the pan",
+                    "start_timestamp": 3591,
+                    "stop_timestamp": 3869
+                }
+            ]
+        },
+        {
+            "subgoal": "Interact with fridge and add more ingredients",
+            "start_timestamp": 3869,
+            "stop_timestamp": 4648,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle fridge items",
+                    "start_timestamp": 3869,
+                    "stop_timestamp": 4118
+                },
+                {
+                    "secondary_subgoal": "Add ingredients from container to the pan",
+                    "start_timestamp": 4118,
+                    "stop_timestamp": 4648
+                }
+            ]
+        },
+        {
+            "subgoal": "Final cooking and ingredient adjustments",
+            "start_timestamp": 4648,
+            "stop_timestamp": 5559,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Interact with cooker and chopping sticks",
+                    "start_timestamp": 4648,
+                    "stop_timestamp": 4936
+                },
+                {
+                    "secondary_subgoal": "Use phone and stir food",
+                    "start_timestamp": 4936,
+                    "stop_timestamp": 5250
+                },
+                {
+                    "secondary_subgoal": "Add ingredients to the pan",
+                    "start_timestamp": 5250,
+                    "stop_timestamp": 5559
+                }
+            ]
+        },
+        {
+            "subgoal": "Final food stirring and plating",
+            "start_timestamp": 5559,
+            "stop_timestamp": 9444,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir food periodically and handle cooking tools",
+                    "start_timestamp": 5559,
+                    "stop_timestamp": 8505
+                },
+                {
+                    "secondary_subgoal": "Plate the food and handle plates",
+                    "start_timestamp": 8505,
+                    "stop_timestamp": 9444
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare side dish",
+            "start_timestamp": 9444,
+            "stop_timestamp": 10645,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and plate lettuce",
+                    "start_timestamp": 9444,
+                    "stop_timestamp": 10444
+                },
+                {
+                    "secondary_subgoal": "Pick plate of food and camera adjustment",
+                    "start_timestamp": 10444,
+                    "stop_timestamp": 10645
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "overall_goal": "Prepare a meal involving cutting vegetables, washing ingredients, mixing them, and cooking them",
+    "clips": [
+        {
+            "subgoal": "Prepare cutting board and wash a tomato",
+            "start_timestamp": 65,
+            "stop_timestamp": 594,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and wash the chopping board",
+                    "start_timestamp": 65,
+                    "stop_timestamp": 179
+                },
+                {
+                    "secondary_subgoal": "Place washing board and pick a tomato",
+                    "start_timestamp": 179,
+                    "stop_timestamp": 318
+                },
+                {
+                    "secondary_subgoal": "Wash the tomato",
+                    "start_timestamp": 430,
+                    "stop_timestamp": 573
+                }
+            ]
+        },
+        {
+            "subgoal": "Chop tomato and wrap pieces",
+            "start_timestamp": 594,
+            "stop_timestamp": 1461,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Chop the tomato",
+                    "start_timestamp": 656,
+                    "stop_timestamp": 981
+                },
+                {
+                    "secondary_subgoal": "Wrap tomato pieces",
+                    "start_timestamp": 1068,
+                    "stop_timestamp": 1405
+                },
+                {
+                    "secondary_subgoal": "Place wrapped tomato in the fridge",
+                    "start_timestamp": 1405,
+                    "stop_timestamp": 1461
+                }
+            ]
+        },
+        {
+            "subgoal": "Fetch water and start cooking preparation",
+            "start_timestamp": 1491,
+            "stop_timestamp": 1756,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fetch water in a cooking pot",
+                    "start_timestamp": 1555,
+                    "stop_timestamp": 1717
+                },
+                {
+                    "secondary_subgoal": "Place pot on cooker",
+                    "start_timestamp": 1717,
+                    "stop_timestamp": 1756
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle ingredients and wash chopping board",
+            "start_timestamp": 1849,
+            "stop_timestamp": 2655,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick, unwrap and chop the onion",
+                    "start_timestamp": 3024,
+                    "stop_timestamp": 3486
+                },
+                {
+                    "secondary_subgoal": "Wrap and store remaining onion",
+                    "start_timestamp": 3610,
+                    "stop_timestamp": 3713
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare container and stir ingredients",
+            "start_timestamp": 10608,
+            "stop_timestamp": 13352,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and use plastic container",
+                    "start_timestamp": 10608,
+                    "stop_timestamp": 11121
+                },
+                {
+                    "secondary_subgoal": "Stir cooking ingredients",
+                    "start_timestamp": 11752,
+                    "stop_timestamp": 11767
+                },
+                {
+                    "secondary_subgoal": "Move ingredients into a bowl",
+                    "start_timestamp": 13592,
+                    "stop_timestamp": 13779
+                }
+            ]
+        },
+        {
+            "subgoal": "Complete cooking and clean utensils",
+            "start_timestamp": 16939,
+            "stop_timestamp": 19491,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mix and cook meat slices with ingredients",
+                    "start_timestamp": 17330,
+                    "stop_timestamp": 17826
+                },
+                {
+                    "secondary_subgoal": "Clean chopping board and knife",
+                    "start_timestamp": 19543,
+                    "stop_timestamp": 21052
+                }
+            ]
+        }
+    ]
+}

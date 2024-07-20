@@ -1,0 +1,79 @@
+{
+    "overall_goal": "Prepare a vegetable dish",
+    "clips": [
+        {
+            "subgoal": "Gather and prepare vegetables",
+            "start_timestamp": 32,
+            "stop_timestamp": 2307,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Get a bottle from the shelf and place it on the counter",
+                    "start_timestamp": 72,
+                    "stop_timestamp": 195
+                },
+                {
+                    "secondary_subgoal": "Open the bottle and move items on the counter",
+                    "start_timestamp": 195,
+                    "stop_timestamp": 310
+                },
+                {
+                    "secondary_subgoal": "Empty the pan and place it on the cooker",
+                    "start_timestamp": 350,
+                    "stop_timestamp": 490
+                },
+                {
+                    "secondary_subgoal": "Handle bell peppers and potatoes on the counter and chopping board",
+                    "start_timestamp": 516,
+                    "stop_timestamp": 1093
+                },
+                {
+                    "secondary_subgoal": "Clean the vegetables at the sink",
+                    "start_timestamp": 1188,
+                    "stop_timestamp": 2487
+                },
+                {
+                    "secondary_subgoal": "Peel and cut the potatoes on the chopping board",
+                    "start_timestamp": 2574,
+                    "stop_timestamp": 5759
+                },
+                {
+                    "secondary_subgoal": "Cut the bell peppers on the chopping board",
+                    "start_timestamp": 7127,
+                    "stop_timestamp": 7938
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook the vegetables",
+            "start_timestamp": 8119,
+            "stop_timestamp": 24401,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pour oil into a pan and cut bell peppers",
+                    "start_timestamp": 8119,
+                    "stop_timestamp": 11229
+                },
+                {
+                    "secondary_subgoal": "Place vegetables in the bowl strainer",
+                    "start_timestamp": 11229,
+                    "stop_timestamp": 12214
+                },
+                {
+                    "secondary_subgoal": "Handle the turnip, clean, peel, and cut it into small pieces",
+                    "start_timestamp": 12214,
+                    "stop_timestamp": 14720
+                },
+                {
+                    "secondary_subgoal": "Cook the turnip and potato mixture in the pan",
+                    "start_timestamp": 15335,
+                    "stop_timestamp": 18822
+                },
+                {
+                    "secondary_subgoal": "Organize utensils and clean up utensils",
+                    "start_timestamp": 19266,
+                    "stop_timestamp": 20975
+                }
+            ]
+        }
+    ]
+}

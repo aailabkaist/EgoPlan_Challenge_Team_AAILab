@@ -1,0 +1,127 @@
+{
+    "overall_goal": "Clean various kitchen items including bowls, plates, chopsticks, and dish lids.",
+    "clips": [
+        {
+            "subgoal": "Prepare to clean the kitchen items.",
+            "start_timestamp": 22,
+            "stop_timestamp": 264,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse hands.",
+                    "start_timestamp": 22,
+                    "stop_timestamp": 81
+                },
+                {
+                    "secondary_subgoal": "Prepare the sponge with soap.",
+                    "start_timestamp": 81,
+                    "stop_timestamp": 231
+                },
+                {
+                    "secondary_subgoal": "Put the soap bottle back on the shelf.",
+                    "start_timestamp": 231,
+                    "stop_timestamp": 264
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash and rinse the plates.",
+            "start_timestamp": 264,
+            "stop_timestamp": 807,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle and wash the plates.",
+                    "start_timestamp": 264,
+                    "stop_timestamp": 808
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash and rinse the bowls.",
+            "start_timestamp": 831,
+            "stop_timestamp": 4272,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle and wash the first bowl.",
+                    "start_timestamp": 831,
+                    "stop_timestamp": 1387
+                },
+                {
+                    "secondary_subgoal": "Handle and wash the second bowl.",
+                    "start_timestamp": 1423,
+                    "stop_timestamp": 2014
+                },
+                {
+                    "secondary_subgoal": "Handle and wash the third bowl.",
+                    "start_timestamp": 2098,
+                    "stop_timestamp": 2448
+                },
+                {
+                    "secondary_subgoal": "Handle and wash the fourth bowl.",
+                    "start_timestamp": 2474,
+                    "stop_timestamp": 2994
+                },
+                {
+                    "secondary_subgoal": "Handle and wash the fifth bowl.",
+                    "start_timestamp": 3020,
+                    "stop_timestamp": 3547
+                },
+                {
+                    "secondary_subgoal": "Handle and wash the remaining bowls.",
+                    "start_timestamp": 3591,
+                    "stop_timestamp": 4272
+                }
+            ]
+        },
+        {
+            "subgoal": "Rinse and clean the chopsticks.",
+            "start_timestamp": 4272,
+            "stop_timestamp": 10699,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pre-wash activities.",
+                    "start_timestamp": 4272,
+                    "stop_timestamp": 4950
+                },
+                {
+                    "secondary_subgoal": "Wash the chopsticks.",
+                    "start_timestamp": 4950,
+                    "stop_timestamp": 10699
+                }
+            ]
+        },
+        {
+            "subgoal": "Rinse and clean dish lids and additional bowls.",
+            "start_timestamp": 10699,
+            "stop_timestamp": 13121,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash the dish lid.",
+                    "start_timestamp": 10699,
+                    "stop_timestamp": 6041
+                },
+                {
+                    "secondary_subgoal": "Wash and handle additional bowls.",
+                    "start_timestamp": 7041,
+                    "stop_timestamp": 13121
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish cleaning tasks.",
+            "start_timestamp": 13121,
+            "stop_timestamp": 13392,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and dry hands.",
+                    "start_timestamp": 13121,
+                    "stop_timestamp": 13292
+                },
+                {
+                    "secondary_subgoal": "Finish with a hand towel.",
+                    "start_timestamp": 13292,
+                    "stop_timestamp": 13392
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egXy98gliUxPgOKuy5qRxn6j19yF",
+    "object": "chat.completion",
+    "created": 1719483698,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"C engages in various activities around the house, focusing on preparing food and cleaning the kitchen.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Explore the house and interact with a dog\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 3443,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Look around the house\", \"start_timestamp\": 0, \"stop_timestamp\": 457},\n        {\"secondary_subgoal\": \"Walk around\", \"start_timestamp\": 457, \"stop_timestamp\": 511},\n        {\"secondary_subgoal\": \"Play with the dog\", \"start_timestamp\": 545, \"stop_timestamp\": 799},\n        {\"secondary_subgoal\": \"Walk around\", \"start_timestamp\": 799, \"stop_timestamp\": 1074},\n        {\"secondary_subgoal\": \"Play with the dog\", \"start_timestamp\": 1074, \"stop_timestamp\": 1264},\n        {\"secondary_subgoal\": \"Throw dog toy\", \"start_timestamp\": 1264, \"stop_timestamp\": 1343},\n        {\"secondary_subgoal\": \"Walk around\", \"start_timestamp\": 1343, \"stop_timestamp\": 1416}\n      ]\n    },\n    {\n      \"subgoal\": \"Access the fridge and interact with food items\",\n      \"start_timestamp\": 1416,\n      \"stop_timestamp\": 1858,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Open fridge\", \"start_timestamp\": 1416, \"stop_timestamp\": 1472},\n        {\"secondary_subgoal\": \"Interact with fridge drawer\", \"start_timestamp\": 1472, \"stop_timestamp\": 1670},\n        {\"secondary_subgoal\": \"Look inside fridge\", \"start_timestamp\": 1670, \"stop_timestamp\": 1702},\n        {\"secondary_subgoal\": \"Pick and drop items in fridge\", \"start_timestamp\": 1702, \"stop_timestamp\": 1858}\n      ]\n    },\n    {\n      \"subgoal\": \"Play and interact with dog\",\n      \"start_timestamp\": 1858,\n      \"stop_timestamp\": 3717,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Play and throw toy for dog\", \"start_timestamp\": 1858, \"stop_timestamp\": 2167},\n        {\"secondary_subgoal\": \"Walk around\", \"start_timestamp\": 2167, \"stop_timestamp\": 2408}\n      ]\n    },\n    {\n      \"subgoal\": \"Perform cooking actions and interact with bread\",\n      \"start_timestamp\": 4719,\n      \"stop_timestamp\": 7890,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Open cabinet and get cooking pot\", \"start_timestamp\": 4719, \"stop_timestamp\": 4843},\n        {\"secondary_subgoal\": \"Move bread on counter\", \"start_timestamp\": 4843, \"stop_timestamp\": 4898},\n        {\"secondary_subgoal\": \"Unwrap bread and place items on toast\", \"start_timestamp\": 4898, \"stop_timestamp\": 7399},\n        {\"secondary_subgoal\": \"Seal package and move container\", \"start_timestamp\": 7399, \"stop_timestamp\": 7459},\n        {\"secondary_subgoal\": \"Drop and pick container\", \"start_timestamp\": 7459, \"stop_timestamp\": 7547},\n        {\"secondary_subgoal\": \"Cut and place items on bread\", \"start_timestamp\": 7547, \"stop_timestamp\": 7890}\n      ]\n    }\n  ]\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4531,
+        "completion_tokens": 743,
+        "total_tokens": 5274
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

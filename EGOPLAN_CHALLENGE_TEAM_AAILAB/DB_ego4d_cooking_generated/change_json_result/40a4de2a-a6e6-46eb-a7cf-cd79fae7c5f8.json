@@ -1,0 +1,181 @@
+{
+    "overall_goal": "Prepare a meal involving various ingredients including loaf, vegetables, and unspecified substances.",
+    "clips": [
+        {
+            "subgoal": "Gather ingredients from different places in the kitchen.",
+            "start_timestamp": 0,
+            "stop_timestamp": 1112,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather groceries from different parts of the kitchen.",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 297
+                },
+                {
+                    "secondary_subgoal": "Place groceries on the cabinet.",
+                    "start_timestamp": 297,
+                    "stop_timestamp": 444
+                },
+                {
+                    "secondary_subgoal": "Move items and close the fridge.",
+                    "start_timestamp": 444,
+                    "stop_timestamp": 534
+                },
+                {
+                    "secondary_subgoal": "Open cabinets and gather more items.",
+                    "start_timestamp": 534,
+                    "stop_timestamp": 1068
+                },
+                {
+                    "secondary_subgoal": "Walk around the kitchen.",
+                    "start_timestamp": 1068,
+                    "stop_timestamp": 1112
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the oven and baking items.",
+            "start_timestamp": 1112,
+            "stop_timestamp": 1914,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and adjust the oven.",
+                    "start_timestamp": 1112,
+                    "stop_timestamp": 1407
+                },
+                {
+                    "secondary_subgoal": "Place the loaf in the oven and bake.",
+                    "start_timestamp": 1407,
+                    "stop_timestamp": 1914
+                }
+            ]
+        },
+        {
+            "subgoal": "Slice the loaf of bread.",
+            "start_timestamp": 1914,
+            "stop_timestamp": 47248,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and handle the loaf packet.",
+                    "start_timestamp": 1914,
+                    "stop_timestamp": 2440
+                },
+                {
+                    "secondary_subgoal": "Begin slicing the loaf.",
+                    "start_timestamp": 2440,
+                    "stop_timestamp": 2755
+                },
+                {
+                    "secondary_subgoal": "Continue slicing the loaf in detailed steps.",
+                    "start_timestamp": 2755,
+                    "stop_timestamp": 4117
+                },
+                {
+                    "secondary_subgoal": "Arrange slices on chopping board.",
+                    "start_timestamp": 4117,
+                    "stop_timestamp": 4423
+                },
+                {
+                    "secondary_subgoal": "Package slices into a polythene packet.",
+                    "start_timestamp": 4423,
+                    "stop_timestamp": 4961
+                },
+                {
+                    "secondary_subgoal": "Walk and store the loaf in the cabinet.",
+                    "start_timestamp": 4961,
+                    "stop_timestamp": 5018
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare garlic and other ingredients.",
+            "start_timestamp": 5018,
+            "stop_timestamp": 5751,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather garlic and start peeling.",
+                    "start_timestamp": 5018,
+                    "stop_timestamp": 5361
+                },
+                {
+                    "secondary_subgoal": "Place and peel garlic cloves.",
+                    "start_timestamp": 5361,
+                    "stop_timestamp": 5751
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and bake multiple loaves in the oven.",
+            "start_timestamp": 5751,
+            "stop_timestamp": 22072,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open oven, use sheet pan for loafs.",
+                    "start_timestamp": 5751,
+                    "stop_timestamp": 6081
+                },
+                {
+                    "secondary_subgoal": "Mix multiple ingredients for baking.",
+                    "start_timestamp": 6081,
+                    "stop_timestamp": 22072
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cut tomatoes.",
+            "start_timestamp": 22072,
+            "stop_timestamp": 26686,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open ingredients, cut and hold tomatoes.",
+                    "start_timestamp": 22072,
+                    "stop_timestamp": 25520
+                },
+                {
+                    "secondary_subgoal": "Cut and shape tomatoes directly.",
+                    "start_timestamp": 25520,
+                    "stop_timestamp": 26686
+                }
+            ]
+        },
+        {
+            "subgoal": "Slice the tomatoes into smaller pieces.",
+            "start_timestamp": 26740,
+            "stop_timestamp": 51012,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare for slicing, move knife and board around.",
+                    "start_timestamp": 26740,
+                    "stop_timestamp": 30273
+                },
+                {
+                    "secondary_subgoal": "Finely slice tomatoes continuously.",
+                    "start_timestamp": 30273,
+                    "stop_timestamp": 42880
+                },
+                {
+                    "secondary_subgoal": "Pack chopped onions into appropriate containers.",
+                    "start_timestamp": 42880,
+                    "stop_timestamp": 51012
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare bell peppers and other ingredients.",
+            "start_timestamp": 51012,
+            "stop_timestamp": 53650,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut bell peppers and mix into vegetables.",
+                    "start_timestamp": 51012,
+                    "stop_timestamp": 53020
+                },
+                {
+                    "secondary_subgoal": "Mix already sliced ingredients for final preparation.",
+                    "start_timestamp": 53020,
+                    "stop_timestamp": 53650
+                }
+            ]
+        }
+    ]
+}

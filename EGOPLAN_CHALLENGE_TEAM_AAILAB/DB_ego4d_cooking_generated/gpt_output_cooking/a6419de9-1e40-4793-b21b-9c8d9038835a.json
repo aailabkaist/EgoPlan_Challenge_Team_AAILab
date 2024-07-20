@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfkMK02UYI1jdmYm2x4pJHor12oA",
+    "object": "chat.completion",
+    "created": 1719242294,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and store various food items using tools and appliances in the kitchen.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Initial setup and organization.\",\n      \"start_timestamp\": \"113\",\n      \"stop_timestamp\": \"1295\",\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Open and organize papers\", \"start_timestamp\": \"179\", \"stop_timestamp\": \"333\"},\n        {\"secondary_subgoal\": \"Removing covering\", \"start_timestamp\": \"333\", \"stop_timestamp\": \"586\"},\n        {\"secondary_subgoal\": \"Picking and discarding paper\", \"start_timestamp\": \"586\", \"stop_timestamp\": \"737\"}\n      ]\n    },\n    {\n      \"subgoal\": \"Gathering and organizing vegetables.\",\n      \"start_timestamp\": \"737\",\n      \"stop_timestamp\": \"2046\",\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Retrieve vegetables\", \"start_timestamp\": \"737\", \"stop_timestamp\": \"925\"},\n        {\"secondary_subgoal\": \"Preparing veggies\", \"start_timestamp\": \"1039\", \"stop_timestamp\": \"1195\"},\n        {\"secondary_subgoal\": \"Handling veggies and trash\", \"start_timestamp\": \"1195\", \"stop_timestamp\": \"1253\"}\n      ]\n    },\n    {\n      \"subgoal\": \"Handling kitchen tasks\",\n      \"start_timestamp\": \"2046\",\n      \"stop_timestamp\": \"3134\",\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Break items and clean up\", \"start_timestamp\": \"2089\", \"stop_timestamp\": \"2647\"},\n        {\"secondary_subgoal\": \"Trash management\", \"start_timestamp\": \"2647\", \"stop_timestamp\": \"2779\"},\n        {\"secondary_subgoal\": \"Retrieve and organize trays\", \"start_timestamp\": \"2779\", \"stop_timestamp\": \"3150\"}\n      ]\n    },\n    {\n      \"subgoal\": \"Setting up for cooking\",\n      \"start_timestamp\": \"3520\",\n      \"stop_timestamp\": \"4138\",\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Switching on appliances\", \"start_timestamp\": \"3520\", \"stop_timestamp\": \"3833\"},\n        {\"secondary_subgoal\": \"Handling tomatoes\", \"start_timestamp\": \"3932\", \"stop_timestamp\": \"4282\"}\n      ]\n    },\n    {\n      \"subgoal\": \"Lemma management\",\n      \"start_timestamp\": \"4801\",\n      \"stop_timestamp\": \"7554\",\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Retrieve lemon\", \"start_timestamp\": \"4801\", \"stop_timestamp\": \"4880\"},\n        {\"secondary_subgoal\": \"Cutting lemon\", \"start_timestamp\": \"7554\", \"stop_timestamp\": \"8025\"}\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning and wrapping\",\n      \"start_timestamp\": \"8062\",\n      \"stop_timestamp\": \"8521\",\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Wrap lemon\", \"start_timestamp\": \"8233\", \"stop_timestamp\": \"8405\"},\n        {\"secondary_subgoal\": \"Store wrapped item\", \"start_timestamp\": \"8521\", \"stop_timestamp\": \"8607\"}\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing cooking equipment\",\n      \"start_timestamp\": \"9058\",\n      \"stop_timestamp\": \"10372\",\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Retrieve cooking equipment\", \"start_timestamp\": \"9058\", \"stop_timestamp\": \"9312\"},\n        {\"secondary_subgoal\": \"Prepare cooking surface\", \"start_timestamp\": \"9312\", \"stop_timestamp\": \"9700\"}\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking\",\n      \"start_timestamp\": \"12403\",\n      \"stop_timestamp\": \"17460\",\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Chopping vegetables\", \"start_timestamp\": \"12403\", \"stop_timestamp\": \"12430\"},\n        {\"secondary_subgoal\": \"Prepare lemon\", \"start_timestamp\": \"16712\", \"stop_timestamp\": \"17241\"}\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning up\",\n      \"start_timestamp\": \"17472\",\n      \"stop_timestamp\": \"21718\",\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Cleaning hands\", \"start_timestamp\": \"17606\", \"stop_timestamp\": \"17679\"},\n        {\"secondary_subgoal\": \"Adding water to sink\", \"start_timestamp\": \"18160\", \"stop_timestamp\": \"18294\"}\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2906,
+        "completion_tokens": 959,
+        "total_tokens": 3865
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

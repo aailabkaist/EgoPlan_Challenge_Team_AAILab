@@ -1,0 +1,123 @@
+{
+    "overall_goal": "Prepare a meal involving chopping and cooking various vegetables and ingredients",
+    "clips": [
+        {
+            "subgoal": "Chop and prepare sweet onions",
+            "start_timestamp": 31,
+            "stop_timestamp": 1928,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Chop sweet onions",
+                    "start_timestamp": 31,
+                    "stop_timestamp": 1363
+                },
+                {
+                    "secondary_subgoal": "Put the onions in the bowl and clean up",
+                    "start_timestamp": 1363,
+                    "stop_timestamp": 1928
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare potatoes",
+            "start_timestamp": 1928,
+            "stop_timestamp": 5116,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel potatoes",
+                    "start_timestamp": 2391,
+                    "stop_timestamp": 4059
+                },
+                {
+                    "secondary_subgoal": "Chop potatoes and put in pan",
+                    "start_timestamp": 4439,
+                    "stop_timestamp": 5101
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and peel carrot",
+            "start_timestamp": 5402,
+            "stop_timestamp": 8022,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take out and clean carrot",
+                    "start_timestamp": 5533,
+                    "stop_timestamp": 8070
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare meats and bacon",
+            "start_timestamp": 8051,
+            "stop_timestamp": 7467,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take out, squeeze, and chop - Unsure actions here",
+                    "start_timestamp": 8051,
+                    "stop_timestamp": 7323
+                }
+            ]
+        },
+        {
+            "subgoal": "Further prepare ingredients",
+            "start_timestamp": 8105,
+            "stop_timestamp": 17826,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Do further chopping",
+                    "start_timestamp": 8105,
+                    "stop_timestamp": 17826
+                }
+            ]
+        },
+        {
+            "subgoal": "Do some unsure actions and cleanup",
+            "start_timestamp": 12521,
+            "stop_timestamp": 21302,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Do some unsure actions",
+                    "start_timestamp": 12521,
+                    "stop_timestamp": 14504
+                }
+            ]
+        },
+        {
+            "subgoal": "Put items in the stew",
+            "start_timestamp": 15010,
+            "stop_timestamp": 15291,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put items in the stew",
+                    "start_timestamp": 15010,
+                    "stop_timestamp": 15291
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash, chop and use cucumber",
+            "start_timestamp": 15348,
+            "stop_timestamp": 18922,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash the cucumber",
+                    "start_timestamp": 15348,
+                    "stop_timestamp": 15775
+                }
+            ]
+        },
+        {
+            "subgoal": "Do more unsure actions",
+            "start_timestamp": 16067,
+            "stop_timestamp": 20753,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Do some more unsure actions and clean up",
+                    "start_timestamp": 16067,
+                    "stop_timestamp": 20756
+                }
+            ]
+        }
+    ]
+}

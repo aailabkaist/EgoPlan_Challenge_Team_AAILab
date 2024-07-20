@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egWo26074ehtQCyB2YzcirqYkfUA",
+    "object": "chat.completion",
+    "created": 1719483626,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare seasoned chicken for cooking in a cooking pot on the stove.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Fetch and prepare the cooking pot with water.\",\n      \"start_timestamp\": \"25\",\n      \"stop_timestamp\": \"676\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Move cooking pot to the sink and fill it with water.\",\n          \"start_timestamp\": \"25\",\n          \"stop_timestamp\": \"217\"\n        },\n        {\n          \"secondary_subgoal\": \"Place the cooking pot filled with water on the stove.\",\n          \"start_timestamp\": \"585\",\n          \"stop_timestamp\": \"649\"\n        },\n        {\n          \"secondary_subgoal\": \"Prepare ingredients (onions and chicken) for cooking.\",\n          \"start_timestamp\": \"676\",\n          \"stop_timestamp\": \"804\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare the chicken by cleaning and cutting.\",\n      \"start_timestamp\": \"804\",\n      \"stop_timestamp\": \"3623\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Place chicken for cleaning.\",\n          \"start_timestamp\": \"804\",\n          \"stop_timestamp\": \"927\"\n        },\n        {\n          \"secondary_subgoal\": \"Dispose of packaging and prepare sink area.\",\n          \"start_timestamp\": \"927\",\n          \"stop_timestamp\": \"1042\"\n        },\n        {\n          \"secondary_subgoal\": \"Walk to the drawer to fetch a fork for handling chicken.\",\n          \"start_timestamp\": \"1111\",\n          \"stop_timestamp\": \"1246\"\n        },\n        {\n          \"secondary_subgoal\": \"Stab pieces of chicken for water cleaning in the sink.\",\n          \"start_timestamp\": \"1246\",\n          \"stop_timestamp\": \"3623\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up and continue with seasoning preparation.\",\n      \"start_timestamp\": \"3623\",\n      \"stop_timestamp\": \"4266\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Dispose of knives and excess utensils in the dishwasher.\",\n          \"start_timestamp\": \"3623\",\n          \"stop_timestamp\": \"3775\"\n        },\n        {\n          \"secondary_subgoal\": \"Transfer cleaned chicken pieces to a bowl.\",\n          \"start_timestamp\": \"3775\",\n          \"stop_timestamp\": \"4169\"\n        },\n        {\n          \"secondary_subgoal\": \"Wash and dry hands after handling chicken.\",\n          \"start_timestamp\": \"4169\",\n          \"stop_timestamp\": \"4365\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Season the chicken.\",\n      \"start_timestamp\": \"4365\",\n      \"stop_timestamp\": \"6034\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Add and mix salt, pepper, oil and other spices.\",\n          \"start_timestamp\": \"4365\",\n          \"stop_timestamp\": \"5615\"\n        },\n        {\n          \"secondary_subgoal\": \"Mix the seasoning thoroughly with hands.\",\n          \"start_timestamp\": \"5615\",\n          \"stop_timestamp\": \"6034\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final touch-ups and start cooking.\",\n      \"start_timestamp\": \"6035\",\n      \"stop_timestamp\": \"7655\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Fetch garlic powder and add it to the pot of water.\",\n          \"start_timestamp\": \"6035\",\n          \"stop_timestamp\": \"6847\"\n        },\n        {\n          \"secondary_subgoal\": \"Fetch paste and add it to the bowl for mixing.\",\n          \"start_timestamp\": \"6958\",\n          \"stop_timestamp\": \"7265\"\n        },\n        {\n          \"secondary_subgoal\": \"Mix the ingredients in the bowl one last time before cooking.\",\n          \"start_timestamp\": \"7265\",\n          \"stop_timestamp\": \"7655\"\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4267,
+        "completion_tokens": 827,
+        "total_tokens": 5094
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

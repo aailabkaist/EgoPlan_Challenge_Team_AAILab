@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egM7FkWHVEWxpf0nGq35GSGvjSfL",
+    "object": "chat.completion",
+    "created": 1719482963,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cutting vegetables and peeling coconuts.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Cutting cucumbers\",\n      \"start_timestamp\": 22,\n      \"stop_timestamp\": 7527,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cutting cucumbers\",\n          \"start_timestamp\": 22,\n          \"stop_timestamp\": 2377\n        },\n        {\n          \"secondary_subgoal\": \"Cutting cucumbers\",\n          \"start_timestamp\": 2377,\n          \"stop_timestamp\": 7527\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cutting green peas\",\n      \"start_timestamp\": 7527,\n      \"stop_timestamp\": 16351,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cutting green peas\",\n          \"start_timestamp\": 7527,\n          \"stop_timestamp\": 7527\n        },\n        {\n          \"secondary_subgoal\": \"Cutting green peas\",\n          \"start_timestamp\": 7527,\n          \"stop_timestamp\": 16351\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cutting ivy gourd\",\n      \"start_timestamp\": 16351,\n      \"stop_timestamp\": 32927,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cutting ivy gourd\",\n          \"start_timestamp\": 16351,\n          \"stop_timestamp\": 16351\n        },\n        {\n          \"secondary_subgoal\": \"Cutting ivy gourd\",\n          \"start_timestamp\": 16351,\n          \"stop_timestamp\": 32927\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cutting the sweet melon\",\n      \"start_timestamp\": 32927,\n      \"stop_timestamp\": 32964,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cutting the sweet melon\",\n          \"start_timestamp\": 32927,\n          \"stop_timestamp\": 32964\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Dealing with coconuts\",\n      \"start_timestamp\": 32927,\n      \"stop_timestamp\": 63544,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Breaking and cleaning coconuts\",\n          \"start_timestamp\": 32927,\n          \"stop_timestamp\": 56535\n        },\n        {\n          \"secondary_subgoal\": \"Cutting coconuts with knife\",\n          \"start_timestamp\": 56535,\n          \"stop_timestamp\": 61184\n        },\n        {\n          \"secondary_subgoal\": \"Peeling coconuts with hands and cutter\",\n          \"start_timestamp\": 61184,\n          \"stop_timestamp\": 63544\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 10298,
+        "completion_tokens": 593,
+        "total_tokens": 10891
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

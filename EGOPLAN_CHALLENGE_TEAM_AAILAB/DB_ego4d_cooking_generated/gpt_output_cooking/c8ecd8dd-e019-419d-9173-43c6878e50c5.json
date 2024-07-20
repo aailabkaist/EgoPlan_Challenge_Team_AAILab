@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehV7CUUykGmEXuV9ohU2CMFWvMau",
+    "object": "chat.completion",
+    "created": 1719487365,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a dish with bell peppers and sprouts, and clean the kitchen workspace afterwards.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Add bell peppers to the dish\",\n      \"start_timestamp\": 15,\n      \"stop_timestamp\": 420,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and place bell peppers from chopping board to food\",\n          \"start_timestamp\": 15,\n          \"stop_timestamp\": 274\n        },\n        {\n          \"secondary_subgoal\": \"Arrange bell peppers on the food\",\n          \"start_timestamp\": 274,\n          \"stop_timestamp\": 420\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and add sprouts to the dish\",\n      \"start_timestamp\": 420,\n      \"stop_timestamp\": 5730,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare the workspace for sprouts\",\n          \"start_timestamp\": 420,\n          \"stop_timestamp\": 621\n        },\n        {\n          \"secondary_subgoal\": \"Wash the sprouts\",\n          \"start_timestamp\": 621,\n          \"stop_timestamp\": 2822\n        },\n        {\n          \"secondary_subgoal\": \"Cut the sprouts and dispose of waste\",\n          \"start_timestamp\": 2822,\n          \"stop_timestamp\": 4184\n        },\n        {\n          \"secondary_subgoal\": \"Add sprouts to the food\",\n          \"start_timestamp\": 4184,\n          \"stop_timestamp\": 5079\n        },\n        {\n          \"secondary_subgoal\": \"Store remaining sprouts in a tin\",\n          \"start_timestamp\": 5079,\n          \"stop_timestamp\": 5730\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up and organize workspace\",\n      \"start_timestamp\": 5730,\n      \"stop_timestamp\": 10033,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean cutting tools and surfaces\",\n          \"start_timestamp\": 5730,\n          \"stop_timestamp\": 7054\n        },\n        {\n          \"secondary_subgoal\": \"Add seasoning and sauce to the dish\",\n          \"start_timestamp\": 7054,\n          \"stop_timestamp\": 8667\n        },\n        {\n          \"secondary_subgoal\": \"Clean sink and dispose of waste\",\n          \"start_timestamp\": 8667,\n          \"stop_timestamp\": 9375\n        },\n        {\n          \"secondary_subgoal\": \"Store completed items\",\n          \"start_timestamp\": 9375,\n          \"stop_timestamp\": 10002\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final checks and phone use\",\n      \"start_timestamp\": 10003,\n      \"stop_timestamp\": 10441,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Check phone and kitchen\",\n          \"start_timestamp\": 10003,\n          \"stop_timestamp\": 10441\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2451,
+        "completion_tokens": 627,
+        "total_tokens": 3078
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

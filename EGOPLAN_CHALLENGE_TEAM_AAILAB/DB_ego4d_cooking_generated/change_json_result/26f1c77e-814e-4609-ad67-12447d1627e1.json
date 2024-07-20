@@ -1,0 +1,173 @@
+{
+    "overall_goal": "Prepare a meal involving sausages, meat pieces, beans, and eggs.",
+    "clips": [
+        {
+            "subgoal": "Prepare the cooking area and gather ingredients",
+            "start_timestamp": 80,
+            "stop_timestamp": 3598,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick cooking stick and adjust the cooker",
+                    "start_timestamp": 80,
+                    "stop_timestamp": 218
+                },
+                {
+                    "secondary_subgoal": "Rotate cooking pan and scoop fat",
+                    "start_timestamp": 218,
+                    "stop_timestamp": 580
+                },
+                {
+                    "secondary_subgoal": "Wipe and move fat in the pan",
+                    "start_timestamp": 580,
+                    "stop_timestamp": 1373
+                },
+                {
+                    "secondary_subgoal": "Prepare for sausage cooking",
+                    "start_timestamp": 1373,
+                    "stop_timestamp": 1867
+                },
+                {
+                    "secondary_subgoal": "Cook sausages in the pan",
+                    "start_timestamp": 1867,
+                    "stop_timestamp": 2506
+                },
+                {
+                    "secondary_subgoal": "Wash hands and gather additional ingredients from fridge",
+                    "start_timestamp": 2506,
+                    "stop_timestamp": 3530
+                },
+                {
+                    "secondary_subgoal": "Adjust the cooker",
+                    "start_timestamp": 3530,
+                    "stop_timestamp": 3598
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare sausages and beans",
+            "start_timestamp": 3598,
+            "stop_timestamp": 17380,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and slice ingredients",
+                    "start_timestamp": 3598,
+                    "stop_timestamp": 4432
+                },
+                {
+                    "secondary_subgoal": "Place items in the oven",
+                    "start_timestamp": 4432,
+                    "stop_timestamp": 4878
+                },
+                {
+                    "secondary_subgoal": "Prepare to wash and clean pans",
+                    "start_timestamp": 4878,
+                    "stop_timestamp": 6258
+                },
+                {
+                    "secondary_subgoal": "Prepare and move the cooking pans",
+                    "start_timestamp": 6258,
+                    "stop_timestamp": 6820
+                },
+                {
+                    "secondary_subgoal": "Continue cooking sausages and adjust the cooker",
+                    "start_timestamp": 6820,
+                    "stop_timestamp": 8182
+                },
+                {
+                    "secondary_subgoal": "Prepare kettle with water and look around",
+                    "start_timestamp": 8245,
+                    "stop_timestamp": 9678
+                },
+                {
+                    "secondary_subgoal": "Retrieve additional items and cook sausages",
+                    "start_timestamp": 9678,
+                    "stop_timestamp": 12116
+                },
+                {
+                    "secondary_subgoal": "Retrieve and prepare more ingredients",
+                    "start_timestamp": 12116,
+                    "stop_timestamp": 13828
+                },
+                {
+                    "secondary_subgoal": "Turn off the electric cooker",
+                    "start_timestamp": 13828,
+                    "stop_timestamp": 15083
+                },
+                {
+                    "secondary_subgoal": "Cook beans in the frying pan",
+                    "start_timestamp": 15083,
+                    "stop_timestamp": 17238
+                },
+                {
+                    "secondary_subgoal": "Pour water from the kettle into a mug",
+                    "start_timestamp": 17238,
+                    "stop_timestamp": 17734
+                },
+                {
+                    "secondary_subgoal": "Prepare to scoop fat from the paper",
+                    "start_timestamp": 17734,
+                    "stop_timestamp": 18380
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook meat pieces",
+            "start_timestamp": 18380,
+            "stop_timestamp": 28749,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Scoop and move fat in the pan",
+                    "start_timestamp": 18433,
+                    "stop_timestamp": 19594
+                },
+                {
+                    "secondary_subgoal": "Brush the tin and adjust the cooker",
+                    "start_timestamp": 19594,
+                    "stop_timestamp": 21469
+                },
+                {
+                    "secondary_subgoal": "Cook sausages and cover beans",
+                    "start_timestamp": 21469,
+                    "stop_timestamp": 23149
+                },
+                {
+                    "secondary_subgoal": "Turn sausages and meat pieces in the pan",
+                    "start_timestamp": 23149,
+                    "stop_timestamp": 27400
+                },
+                {
+                    "secondary_subgoal": "Adjust oven and handle fridge items",
+                    "start_timestamp": 27400,
+                    "stop_timestamp": 28749
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook eggs and Spanish chorizo sausage",
+            "start_timestamp": 28749,
+            "stop_timestamp": 35630,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn meat in the pan and handle beans",
+                    "start_timestamp": 28780,
+                    "stop_timestamp": 30352
+                },
+                {
+                    "secondary_subgoal": "Handle eggs and proceed with cooking",
+                    "start_timestamp": 30424,
+                    "stop_timestamp": 32918
+                },
+                {
+                    "secondary_subgoal": "Prepare Spanish chorizo sausage",
+                    "start_timestamp": 32918,
+                    "stop_timestamp": 34616
+                },
+                {
+                    "secondary_subgoal": "Stir sausages in frying pan",
+                    "start_timestamp": 34616,
+                    "stop_timestamp": 35630
+                }
+            ]
+        }
+    ]
+}

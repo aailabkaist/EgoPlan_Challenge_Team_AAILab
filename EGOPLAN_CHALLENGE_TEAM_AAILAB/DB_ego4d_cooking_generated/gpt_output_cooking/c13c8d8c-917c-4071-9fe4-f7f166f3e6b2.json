@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egvcuy8056Z73XOo9fvbUGOIVTVk",
+    "object": "chat.completion",
+    "created": 1719485164,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cook a meal using various cooking utensils and techniques in the kitchen.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare ingredients using the cooking spoon and finger.\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 914,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir ingredients.\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 245\n        },\n        {\n          \"secondary_subgoal\": \"Manipulate the cooking spoon.\",\n          \"start_timestamp\": 245,\n          \"stop_timestamp\": 364\n        },\n        {\n          \"secondary_subgoal\": \"Stir the pot with finger.\",\n          \"start_timestamp\": 364,\n          \"stop_timestamp\": 914\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Change water in the cooking pot.\",\n      \"start_timestamp\": 914,\n      \"stop_timestamp\": 1578,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Manipulate hands and water.\",\n          \"start_timestamp\": 914,\n          \"stop_timestamp\": 1191\n        },\n        {\n          \"secondary_subgoal\": \"Scoop and pour water into another pot.\",\n          \"start_timestamp\": 1191,\n          \"stop_timestamp\": 1438\n        },\n        {\n          \"secondary_subgoal\": \"Look around.\",\n          \"start_timestamp\": 1438,\n          \"stop_timestamp\": 1578\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Sort and fold cloth and other items.\",\n      \"start_timestamp\": 1578,\n      \"stop_timestamp\": 1951,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Look around and hold cloth.\",\n          \"start_timestamp\": 1578,\n          \"stop_timestamp\": 1663\n        },\n        {\n          \"secondary_subgoal\": \"Manipulate cloth and other items.\",\n          \"start_timestamp\": 1663,\n          \"stop_timestamp\": 1951\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Carry and place cooking utensils.\",\n      \"start_timestamp\": 1951,\n      \"stop_timestamp\": 2363,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Carry and place cooking pan.\",\n          \"start_timestamp\": 1951,\n          \"stop_timestamp\": 2162\n        },\n        {\n          \"secondary_subgoal\": \"Look around and manipulate clothing items.\",\n          \"start_timestamp\": 2162,\n          \"stop_timestamp\": 2226\n        },\n        {\n          \"secondary_subgoal\": \"Push cooking utensils.\",\n          \"start_timestamp\": 2226,\n          \"stop_timestamp\": 2291\n        },\n        {\n          \"secondary_subgoal\": \"Look around and move hands.\",\n          \"start_timestamp\": 2291,\n          \"stop_timestamp\": 2363\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Stir ingredients and manipulate cooking spoon.\",\n      \"start_timestamp\": 2363,\n      \"stop_timestamp\": 3601,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and stir with the cooking spoon.\",\n          \"start_timestamp\": 2363,\n          \"stop_timestamp\": 3592\n        },\n        {\n          \"secondary_subgoal\": \"Let go of the spoon and move hands.\",\n          \"start_timestamp\": 3592,\n          \"stop_timestamp\": 3601\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Manipulate bowl and cooking utensils.\",\n      \"start_timestamp\": 3601,\n      \"stop_timestamp\": 4032,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick, lift, and pour from a bowl.\",\n          \"start_timestamp\": 3601,\n          \"stop_timestamp\": 3874\n        },\n        {\n          \"secondary_subgoal\": \"Hold, hit, and remove content from the bowl.\",\n          \"start_timestamp\": 3874,\n          \"stop_timestamp\": 4032\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 957,
+        "completion_tokens": 862,
+        "total_tokens": 1819
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

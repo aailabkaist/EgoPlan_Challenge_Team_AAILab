@@ -1,0 +1,88 @@
+{
+    "overall_goal": "Prepare a blended fruit dish and clean up afterwards",
+    "clips": [
+        {
+            "subgoal": "Gather items for blending fruits",
+            "start_timestamp": 35,
+            "stop_timestamp": 2356,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve necessary items around the kitchen",
+                    "start_timestamp": 35,
+                    "stop_timestamp": 2347
+                },
+                {
+                    "secondary_subgoal": "Retrieve glass from the cabinet",
+                    "start_timestamp": 1771,
+                    "stop_timestamp": 2347
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare blending process",
+            "start_timestamp": 2356,
+            "stop_timestamp": 7589,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fill a glass with water",
+                    "start_timestamp": 2347,
+                    "stop_timestamp": 2559
+                },
+                {
+                    "secondary_subgoal": "Pour fruits into a bowl",
+                    "start_timestamp": 5738,
+                    "stop_timestamp": 6512
+                },
+                {
+                    "secondary_subgoal": "Retrieve and add frozen fruits",
+                    "start_timestamp": 6629,
+                    "stop_timestamp": 7306
+                },
+                {
+                    "secondary_subgoal": "Put the frozen fruits back in the fridge",
+                    "start_timestamp": 7506,
+                    "stop_timestamp": 7564
+                }
+            ]
+        },
+        {
+            "subgoal": "Blend the fruits and clean up",
+            "start_timestamp": 7589,
+            "stop_timestamp": 14881,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare blender operations",
+                    "start_timestamp": 8581,
+                    "stop_timestamp": 9067
+                },
+                {
+                    "secondary_subgoal": "Store and clean utensils",
+                    "start_timestamp": 9156,
+                    "stop_timestamp": 12339
+                }
+            ]
+        },
+        {
+            "subgoal": "Tidy and finalize the kitchen and living room",
+            "start_timestamp": 12743,
+            "stop_timestamp": 16265,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean kitchen equipment",
+                    "start_timestamp": 12743,
+                    "stop_timestamp": 13983
+                },
+                {
+                    "secondary_subgoal": "Wash up and adjust ambiance",
+                    "start_timestamp": 14185,
+                    "stop_timestamp": 14413
+                },
+                {
+                    "secondary_subgoal": "Interact and clean living room",
+                    "start_timestamp": 14662,
+                    "stop_timestamp": 16265
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,562 @@
+[
+    {
+        "task_goal": "Cleaning the pot and its lid.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes pot lid in the sink",
+                "start_frame": 1,
+                "stop_frame": 55
+            },
+            {
+                "narration_text": "Puts utensils scrubber in kitchen sponge holder",
+                "start_frame": 55,
+                "stop_frame": 66
+            },
+            {
+                "narration_text": "Places the lid down in sink",
+                "start_frame": 66,
+                "stop_frame": 73
+            },
+            {
+                "narration_text": "Washes hand in sink",
+                "start_frame": 73,
+                "stop_frame": 92
+            },
+            {
+                "narration_text": "Picks cooking pot in the sink",
+                "start_frame": 92,
+                "stop_frame": 112
+            },
+            {
+                "narration_text": "Pours water in pot in the sink",
+                "start_frame": 112,
+                "stop_frame": 198
+            },
+            {
+                "narration_text": "Rinses the pot in sink",
+                "start_frame": 198,
+                "stop_frame": 317
+            },
+            {
+                "narration_text": "Carries the pot to cooker",
+                "start_frame": 317,
+                "stop_frame": 367
+            },
+            {
+                "narration_text": "Places pot on cooker",
+                "start_frame": 367,
+                "stop_frame": 406
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing the pot lid.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes pot lid in the sink",
+                "start_frame": 1,
+                "stop_frame": 55
+            },
+            {
+                "narration_text": "Puts utensils scrubber in kitchen sponge holder",
+                "start_frame": 55,
+                "stop_frame": 66
+            }
+        ]
+    },
+    {
+        "task_goal": "Placing utensils scrubber in holder.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes pot lid in the sink",
+                "start_frame": 1,
+                "stop_frame": 55
+            },
+            {
+                "narration_text": "Puts utensils scrubber in kitchen sponge holder",
+                "start_frame": 55,
+                "stop_frame": 66
+            },
+            {
+                "narration_text": "Places the lid down in sink",
+                "start_frame": 66,
+                "stop_frame": 73
+            }
+        ]
+    },
+    {
+        "task_goal": "Placing lid down in sink.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts utensils scrubber in kitchen sponge holder",
+                "start_frame": 55,
+                "stop_frame": 66
+            },
+            {
+                "narration_text": "Places the lid down in sink",
+                "start_frame": 66,
+                "stop_frame": 73
+            },
+            {
+                "narration_text": "Washes hand in sink",
+                "start_frame": 73,
+                "stop_frame": 92
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing hands.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the lid down in sink",
+                "start_frame": 66,
+                "stop_frame": 73
+            },
+            {
+                "narration_text": "Washes hand in sink",
+                "start_frame": 73,
+                "stop_frame": 92
+            },
+            {
+                "narration_text": "Picks cooking pot in the sink",
+                "start_frame": 92,
+                "stop_frame": 112
+            }
+        ]
+    },
+    {
+        "task_goal": "Cleaning the cooking pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes hand in sink",
+                "start_frame": 73,
+                "stop_frame": 92
+            },
+            {
+                "narration_text": "Picks cooking pot in the sink",
+                "start_frame": 92,
+                "stop_frame": 112
+            },
+            {
+                "narration_text": "Pours water in pot in the sink",
+                "start_frame": 112,
+                "stop_frame": 198
+            },
+            {
+                "narration_text": "Rinses the pot in sink",
+                "start_frame": 198,
+                "stop_frame": 317
+            },
+            {
+                "narration_text": "Carries the pot to cooker",
+                "start_frame": 317,
+                "stop_frame": 367
+            }
+        ]
+    },
+    {
+        "task_goal": "Carrying pot to cooker.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rinses the pot in sink",
+                "start_frame": 198,
+                "stop_frame": 317
+            },
+            {
+                "narration_text": "Carries the pot to cooker",
+                "start_frame": 317,
+                "stop_frame": 367
+            },
+            {
+                "narration_text": "Places pot on cooker",
+                "start_frame": 367,
+                "stop_frame": 406
+            }
+        ]
+    },
+    {
+        "task_goal": "Preparing the cookware for use.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Carries the pot to cooker",
+                "start_frame": 317,
+                "stop_frame": 367
+            },
+            {
+                "narration_text": "Places pot on cooker",
+                "start_frame": 367,
+                "stop_frame": 406
+            },
+            {
+                "narration_text": "Walks back to sink",
+                "start_frame": 406,
+                "stop_frame": 488
+            },
+            {
+                "narration_text": "Picks pot lid in the sink",
+                "start_frame": 488,
+                "stop_frame": 500
+            },
+            {
+                "narration_text": "Rinses the lid with sink water",
+                "start_frame": 500,
+                "stop_frame": 615
+            },
+            {
+                "narration_text": "Turns off sink knob",
+                "start_frame": 615,
+                "stop_frame": 637
+            },
+            {
+                "narration_text": "Stands in front of the sink",
+                "start_frame": 637,
+                "stop_frame": 747
+            },
+            {
+                "narration_text": "Picks small skillet lid on countertop",
+                "start_frame": 747,
+                "stop_frame": 779
+            },
+            {
+                "narration_text": "Closes skillet on cooker with the lid",
+                "start_frame": 779,
+                "stop_frame": 831
+            },
+            {
+                "narration_text": "Picks pot lid in the sink",
+                "start_frame": 831,
+                "stop_frame": 862
+            },
+            {
+                "narration_text": "Turns on sink knob",
+                "start_frame": 862,
+                "stop_frame": 873
+            },
+            {
+                "narration_text": "Rinses the lid",
+                "start_frame": 873,
+                "stop_frame": 913
+            },
+            {
+                "narration_text": "Turns off sink knob",
+                "start_frame": 913,
+                "stop_frame": 931
+            },
+            {
+                "narration_text": "Shakes the lid on sink",
+                "start_frame": 931,
+                "stop_frame": 959
+            },
+            {
+                "narration_text": "Carries the lid to the cooker",
+                "start_frame": 959,
+                "stop_frame": 1016
+            },
+            {
+                "narration_text": "Closes the pot in cooker with the lid",
+                "start_frame": 1016,
+                "stop_frame": 1042
+            },
+            {
+                "narration_text": "Wipes hand on kitchen towel on countertop",
+                "start_frame": 1042,
+                "stop_frame": 1074
+            },
+            {
+                "narration_text": "Stands",
+                "start_frame": 1074,
+                "stop_frame": 1142
+            },
+            {
+                "narration_text": "Lifts up both hands",
+                "start_frame": 1142,
+                "stop_frame": 1150
+            },
+            {
+                "narration_text": "Steps closer to sink",
+                "start_frame": 1150,
+                "stop_frame": 1164
+            }
+        ]
+    },
+    {
+        "task_goal": "Placing pot on cooker.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Carries the pot to cooker",
+                "start_frame": 317,
+                "stop_frame": 367
+            },
+            {
+                "narration_text": "Places pot on cooker",
+                "start_frame": 367,
+                "stop_frame": 406
+            },
+            {
+                "narration_text": "Walks back to sink",
+                "start_frame": 406,
+                "stop_frame": 488
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieving and rinsing the pot lid.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places pot on cooker",
+                "start_frame": 367,
+                "stop_frame": 406
+            },
+            {
+                "narration_text": "Walks back to sink",
+                "start_frame": 406,
+                "stop_frame": 488
+            },
+            {
+                "narration_text": "Picks pot lid in the sink",
+                "start_frame": 488,
+                "stop_frame": 500
+            },
+            {
+                "narration_text": "Rinses the lid with sink water",
+                "start_frame": 500,
+                "stop_frame": 615
+            },
+            {
+                "narration_text": "Turns off sink knob",
+                "start_frame": 615,
+                "stop_frame": 637
+            },
+            {
+                "narration_text": "Stands in front of the sink",
+                "start_frame": 637,
+                "stop_frame": 747
+            }
+        ]
+    },
+    {
+        "task_goal": "Standing in front of the sink.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns off sink knob",
+                "start_frame": 615,
+                "stop_frame": 637
+            },
+            {
+                "narration_text": "Stands in front of the sink",
+                "start_frame": 637,
+                "stop_frame": 747
+            },
+            {
+                "narration_text": "Picks small skillet lid on countertop",
+                "start_frame": 747,
+                "stop_frame": 779
+            }
+        ]
+    },
+    {
+        "task_goal": "Returning small skillet lid to cooker.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stands in front of the sink",
+                "start_frame": 637,
+                "stop_frame": 747
+            },
+            {
+                "narration_text": "Picks small skillet lid on countertop",
+                "start_frame": 747,
+                "stop_frame": 779
+            },
+            {
+                "narration_text": "Closes skillet on cooker with the lid",
+                "start_frame": 779,
+                "stop_frame": 831
+            },
+            {
+                "narration_text": "Picks pot lid in the sink",
+                "start_frame": 831,
+                "stop_frame": 862
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieving and rinsing the pot lid again.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes skillet on cooker with the lid",
+                "start_frame": 779,
+                "stop_frame": 831
+            },
+            {
+                "narration_text": "Picks pot lid in the sink",
+                "start_frame": 831,
+                "stop_frame": 862
+            },
+            {
+                "narration_text": "Turns on sink knob",
+                "start_frame": 862,
+                "stop_frame": 873
+            },
+            {
+                "narration_text": "Rinses the lid",
+                "start_frame": 873,
+                "stop_frame": 913
+            },
+            {
+                "narration_text": "Turns off sink knob",
+                "start_frame": 913,
+                "stop_frame": 931
+            },
+            {
+                "narration_text": "Shakes the lid on sink",
+                "start_frame": 931,
+                "stop_frame": 959
+            }
+        ]
+    },
+    {
+        "task_goal": "Shaking water off the lid.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns off sink knob",
+                "start_frame": 913,
+                "stop_frame": 931
+            },
+            {
+                "narration_text": "Shakes the lid on sink",
+                "start_frame": 931,
+                "stop_frame": 959
+            },
+            {
+                "narration_text": "Carries the lid to the cooker",
+                "start_frame": 959,
+                "stop_frame": 1016
+            }
+        ]
+    },
+    {
+        "task_goal": "Closing pot on cooker with lid.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Shakes the lid on sink",
+                "start_frame": 931,
+                "stop_frame": 959
+            },
+            {
+                "narration_text": "Carries the lid to the cooker",
+                "start_frame": 959,
+                "stop_frame": 1016
+            },
+            {
+                "narration_text": "Closes the pot in cooker with the lid",
+                "start_frame": 1016,
+                "stop_frame": 1042
+            },
+            {
+                "narration_text": "Wipes hand on kitchen towel on countertop",
+                "start_frame": 1042,
+                "stop_frame": 1074
+            }
+        ]
+    },
+    {
+        "task_goal": "Drying hands with kitchen towel.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the pot in cooker with the lid",
+                "start_frame": 1016,
+                "stop_frame": 1042
+            },
+            {
+                "narration_text": "Wipes hand on kitchen towel on countertop",
+                "start_frame": 1042,
+                "stop_frame": 1074
+            },
+            {
+                "narration_text": "Stands",
+                "start_frame": 1074,
+                "stop_frame": 1142
+            }
+        ]
+    },
+    {
+        "task_goal": "Standing and lifting hands.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Wipes hand on kitchen towel on countertop",
+                "start_frame": 1042,
+                "stop_frame": 1074
+            },
+            {
+                "narration_text": "Stands",
+                "start_frame": 1074,
+                "stop_frame": 1142
+            },
+            {
+                "narration_text": "Lifts up both hands",
+                "start_frame": 1142,
+                "stop_frame": 1150
+            },
+            {
+                "narration_text": "Steps closer to sink",
+                "start_frame": 1150,
+                "stop_frame": 1164
+            }
+        ]
+    },
+    {
+        "task_goal": "Finalizing actions and adjusting camera.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lifts up both hands",
+                "start_frame": 1142,
+                "stop_frame": 1150
+            },
+            {
+                "narration_text": "Steps closer to sink",
+                "start_frame": 1150,
+                "stop_frame": 1164
+            },
+            {
+                "narration_text": "Operates camera on head",
+                "start_frame": 1164,
+                "stop_frame": 1264
+            }
+        ]
+    },
+    {
+        "task_goal": "Stepping closer to the sink.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lifts up both hands",
+                "start_frame": 1142,
+                "stop_frame": 1150
+            },
+            {
+                "narration_text": "Steps closer to sink",
+                "start_frame": 1150,
+                "stop_frame": 1164
+            },
+            {
+                "narration_text": "Operates camera on head",
+                "start_frame": 1164,
+                "stop_frame": 1264
+            }
+        ]
+    },
+    {
+        "task_goal": "Operating camera on head.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Steps closer to sink",
+                "start_frame": 1150,
+                "stop_frame": 1164
+            },
+            {
+                "narration_text": "Operates camera on head",
+                "start_frame": 1164,
+                "stop_frame": 1264
+            }
+        ]
+    }
+]

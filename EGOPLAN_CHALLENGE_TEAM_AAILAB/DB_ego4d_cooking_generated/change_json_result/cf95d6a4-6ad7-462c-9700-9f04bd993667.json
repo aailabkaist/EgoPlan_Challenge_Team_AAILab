@@ -1,0 +1,112 @@
+{
+    "overall_goal": "Prepare a meal with vegetables, seasoning, salmon, avocado, and eggs.",
+    "clips": [
+        {
+            "subgoal": "Setup the cooking environment and prepare the cooking pan",
+            "start_timestamp": 177,
+            "stop_timestamp": 559,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take and position the necessary items",
+                    "start_timestamp": 177,
+                    "stop_timestamp": 274
+                },
+                {
+                    "secondary_subgoal": "Prepare the cooking pan on the cooking plate",
+                    "start_timestamp": 374,
+                    "stop_timestamp": 559
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and clean the cabbage",
+            "start_timestamp": 623,
+            "stop_timestamp": 1989,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Unwrap and clean the cabbage",
+                    "start_timestamp": 623,
+                    "stop_timestamp": 1522
+                },
+                {
+                    "secondary_subgoal": "Cut the cabbage and place in the bowl",
+                    "start_timestamp": 1522,
+                    "stop_timestamp": 1989
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the cooking pan and contents for cooking",
+            "start_timestamp": 2067,
+            "stop_timestamp": 2450,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "#C puts contents into the cooking pan and covers it",
+                    "start_timestamp": 2159,
+                    "stop_timestamp": 2293
+                },
+                {
+                    "secondary_subgoal": "Cleanup using the polythene bags and trash can",
+                    "start_timestamp": 2386,
+                    "stop_timestamp": 2450
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix cabbage with seasoning and salmon",
+            "start_timestamp": 2769,
+            "stop_timestamp": 6993,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Transfer and mix cabbage in the bowl",
+                    "start_timestamp": 2829,
+                    "stop_timestamp": 4941
+                },
+                {
+                    "secondary_subgoal": "Add the seasoning powder",
+                    "start_timestamp": 3538,
+                    "stop_timestamp": 4828
+                },
+                {
+                    "secondary_subgoal": "Mix and add salmon to the bowl",
+                    "start_timestamp": 5359,
+                    "stop_timestamp": 6993
+                }
+            ]
+        },
+        {
+            "subgoal": "Uncover and cover the cooking pot, and prepare vegetables",
+            "start_timestamp": 7211,
+            "stop_timestamp": 9141,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Uncover then cover the cooking pot and prepare the vegetables",
+                    "start_timestamp": 7211,
+                    "stop_timestamp": 8989
+                },
+                {
+                    "secondary_subgoal": "Prepare and add the avocado",
+                    "start_timestamp": 9024,
+                    "stop_timestamp": 9141
+                }
+            ]
+        },
+        {
+            "subgoal": "Add seasoning and cook the egg",
+            "start_timestamp": 9969,
+            "stop_timestamp": 13599,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add and mix spice, and prepare the frypan",
+                    "start_timestamp": 9969,
+                    "stop_timestamp": 11053
+                },
+                {
+                    "secondary_subgoal": "Cook the eggs and remove pieces of string from them",
+                    "start_timestamp": 11266,
+                    "stop_timestamp": 12993
+                }
+            ]
+        }
+    ]
+}

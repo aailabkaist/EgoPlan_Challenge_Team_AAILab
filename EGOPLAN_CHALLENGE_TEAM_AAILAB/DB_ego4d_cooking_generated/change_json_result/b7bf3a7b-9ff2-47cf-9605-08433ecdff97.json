@@ -1,0 +1,79 @@
+{
+    "overall_goal": "Organize items and clean hands.",
+    "clips": [
+        {
+            "subgoal": "Store the containers in the cabinet.",
+            "start_timestamp": 0,
+            "stop_timestamp": 427,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold and place the container on the counter.",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 36
+                },
+                {
+                    "secondary_subgoal": "Pick another container and hold it.",
+                    "start_timestamp": 36,
+                    "stop_timestamp": 79
+                },
+                {
+                    "secondary_subgoal": "Open the cabinet door.",
+                    "start_timestamp": 79,
+                    "stop_timestamp": 98
+                },
+                {
+                    "secondary_subgoal": "Put the container in the cabinet.",
+                    "start_timestamp": 98,
+                    "stop_timestamp": 132
+                },
+                {
+                    "secondary_subgoal": "Close the cabinet door.",
+                    "start_timestamp": 132,
+                    "stop_timestamp": 183
+                },
+                {
+                    "secondary_subgoal": "Pick another container.",
+                    "start_timestamp": 183,
+                    "stop_timestamp": 213
+                },
+                {
+                    "secondary_subgoal": "Open the cabinet door again.",
+                    "start_timestamp": 213,
+                    "stop_timestamp": 246
+                },
+                {
+                    "secondary_subgoal": "Place another container in the cabinet.",
+                    "start_timestamp": 246,
+                    "stop_timestamp": 394
+                },
+                {
+                    "secondary_subgoal": "Close the cabinet door.",
+                    "start_timestamp": 394,
+                    "stop_timestamp": 427
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean hands.",
+            "start_timestamp": 427,
+            "stop_timestamp": 621,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk to the sink.",
+                    "start_timestamp": 427,
+                    "stop_timestamp": 485
+                },
+                {
+                    "secondary_subgoal": "Dry hands with the towel.",
+                    "start_timestamp": 485,
+                    "stop_timestamp": 521
+                },
+                {
+                    "secondary_subgoal": "Adjust the camera.",
+                    "start_timestamp": 521,
+                    "stop_timestamp": 621
+                }
+            ]
+        }
+    ]
+}

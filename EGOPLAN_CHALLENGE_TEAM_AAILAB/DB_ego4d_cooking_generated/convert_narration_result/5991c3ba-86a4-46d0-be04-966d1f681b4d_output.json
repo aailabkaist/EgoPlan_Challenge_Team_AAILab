@@ -1,0 +1,662 @@
+[
+    {
+        "task_goal": "Handle the bowl and its contents",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a bowl on the table",
+                "start_frame": 12,
+                "stop_frame": 41
+            },
+            {
+                "narration_text": "Puts unsure in the bowl",
+                "start_frame": 41,
+                "stop_frame": 183
+            },
+            {
+                "narration_text": "Puts the bowl on the table",
+                "start_frame": 183,
+                "stop_frame": 254
+            },
+            {
+                "narration_text": "Opens the microwave",
+                "start_frame": 254,
+                "stop_frame": 295
+            },
+            {
+                "narration_text": "Picks bowl from the microwave",
+                "start_frame": 295,
+                "stop_frame": 333
+            },
+            {
+                "narration_text": "Touches unsure in the bowl",
+                "start_frame": 333,
+                "stop_frame": 396
+            },
+            {
+                "narration_text": "Closes the microwave",
+                "start_frame": 396,
+                "stop_frame": 432
+            },
+            {
+                "narration_text": "Walks towards the sink",
+                "start_frame": 432,
+                "stop_frame": 509
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and place content in the bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a bowl on the table",
+                "start_frame": 12,
+                "stop_frame": 41
+            },
+            {
+                "narration_text": "Puts unsure in the bowl",
+                "start_frame": 41,
+                "stop_frame": 183
+            },
+            {
+                "narration_text": "Puts the bowl on the table",
+                "start_frame": 183,
+                "stop_frame": 254
+            }
+        ]
+    },
+    {
+        "task_goal": "Transfer bowl to and from the microwave",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts unsure in the bowl",
+                "start_frame": 41,
+                "stop_frame": 183
+            },
+            {
+                "narration_text": "Puts the bowl on the table",
+                "start_frame": 183,
+                "stop_frame": 254
+            },
+            {
+                "narration_text": "Opens the microwave",
+                "start_frame": 254,
+                "stop_frame": 295
+            },
+            {
+                "narration_text": "Picks bowl from the microwave",
+                "start_frame": 295,
+                "stop_frame": 333
+            },
+            {
+                "narration_text": "Touches unsure in the bowl",
+                "start_frame": 333,
+                "stop_frame": 396
+            },
+            {
+                "narration_text": "Closes the microwave",
+                "start_frame": 396,
+                "stop_frame": 432
+            },
+            {
+                "narration_text": "Walks towards the sink",
+                "start_frame": 432,
+                "stop_frame": 509
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare items for storage",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the microwave",
+                "start_frame": 396,
+                "stop_frame": 432
+            },
+            {
+                "narration_text": "Walks towards the sink",
+                "start_frame": 432,
+                "stop_frame": 509
+            },
+            {
+                "narration_text": "Puts the bowl on the table",
+                "start_frame": 509,
+                "stop_frame": 538
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 538,
+                "stop_frame": 595
+            },
+            {
+                "narration_text": "Touches the plate",
+                "start_frame": 595,
+                "stop_frame": 623
+            },
+            {
+                "narration_text": "Picks the dish on the table",
+                "start_frame": 623,
+                "stop_frame": 659
+            },
+            {
+                "narration_text": "Touches the bottle on the table",
+                "start_frame": 659,
+                "stop_frame": 699
+            },
+            {
+                "narration_text": "Picks the bottle from the table",
+                "start_frame": 699,
+                "stop_frame": 723
+            },
+            {
+                "narration_text": "Walks towards the fridge",
+                "start_frame": 723,
+                "stop_frame": 774
+            },
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 774,
+                "stop_frame": 838
+            },
+            {
+                "narration_text": "Puts the dish in the fridge",
+                "start_frame": 838,
+                "stop_frame": 909
+            },
+            {
+                "narration_text": "Puts the bottle in the fridge",
+                "start_frame": 909,
+                "stop_frame": 955
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 955,
+                "stop_frame": 999
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 999,
+                "stop_frame": 1036
+            }
+        ]
+    },
+    {
+        "task_goal": "Put bowl on table and handle misc items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the microwave",
+                "start_frame": 396,
+                "stop_frame": 432
+            },
+            {
+                "narration_text": "Walks towards the sink",
+                "start_frame": 432,
+                "stop_frame": 509
+            },
+            {
+                "narration_text": "Puts the bowl on the table",
+                "start_frame": 509,
+                "stop_frame": 538
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 538,
+                "stop_frame": 595
+            },
+            {
+                "narration_text": "Touches the plate",
+                "start_frame": 595,
+                "stop_frame": 623
+            },
+            {
+                "narration_text": "Picks the dish on the table",
+                "start_frame": 623,
+                "stop_frame": 659
+            },
+            {
+                "narration_text": "Touches the bottle on the table",
+                "start_frame": 659,
+                "stop_frame": 699
+            },
+            {
+                "narration_text": "Picks the bottle from the table",
+                "start_frame": 699,
+                "stop_frame": 723
+            },
+            {
+                "narration_text": "Walks towards the fridge",
+                "start_frame": 723,
+                "stop_frame": 774
+            }
+        ]
+    },
+    {
+        "task_goal": "Store food items in the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the bottle from the table",
+                "start_frame": 699,
+                "stop_frame": 723
+            },
+            {
+                "narration_text": "Walks towards the fridge",
+                "start_frame": 723,
+                "stop_frame": 774
+            },
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 774,
+                "stop_frame": 838
+            },
+            {
+                "narration_text": "Puts the dish in the fridge",
+                "start_frame": 838,
+                "stop_frame": 909
+            },
+            {
+                "narration_text": "Puts the bottle in the fridge",
+                "start_frame": 909,
+                "stop_frame": 955
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 955,
+                "stop_frame": 999
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 999,
+                "stop_frame": 1036
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean and wash kitchenware",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 955,
+                "stop_frame": 999
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 999,
+                "stop_frame": 1036
+            },
+            {
+                "narration_text": "Picks the chop board from the table",
+                "start_frame": 1036,
+                "stop_frame": 1104
+            },
+            {
+                "narration_text": "Turns the tap on",
+                "start_frame": 1104,
+                "stop_frame": 1172
+            },
+            {
+                "narration_text": "Washes the chop board",
+                "start_frame": 1172,
+                "stop_frame": 1302
+            },
+            {
+                "narration_text": "Puts the washing sponge on the sink",
+                "start_frame": 1302,
+                "stop_frame": 1324
+            },
+            {
+                "narration_text": "Turns off the tap",
+                "start_frame": 1324,
+                "stop_frame": 1423
+            },
+            {
+                "narration_text": "Puts the chop board on the table",
+                "start_frame": 1423,
+                "stop_frame": 1518
+            },
+            {
+                "narration_text": "Wipes hand with the kitchen towel",
+                "start_frame": 1518,
+                "stop_frame": 1599
+            },
+            {
+                "narration_text": "Picks the knife on the plate",
+                "start_frame": 1599,
+                "stop_frame": 1653
+            },
+            {
+                "narration_text": "Turns the tap on",
+                "start_frame": 1653,
+                "stop_frame": 1681
+            },
+            {
+                "narration_text": "Washes the knife",
+                "start_frame": 1681,
+                "stop_frame": 1701
+            },
+            {
+                "narration_text": "Picks the washing sponge on the sink",
+                "start_frame": 1701,
+                "stop_frame": 1721
+            },
+            {
+                "narration_text": "Washes the knife with the sponge knife",
+                "start_frame": 1721,
+                "stop_frame": 1804
+            },
+            {
+                "narration_text": "Puts the washing sponge on the sink",
+                "start_frame": 1804,
+                "stop_frame": 1818
+            },
+            {
+                "narration_text": "Turns off the tap",
+                "start_frame": 1818,
+                "stop_frame": 1876
+            },
+            {
+                "narration_text": "Puts the knife on the stands",
+                "start_frame": 1876,
+                "stop_frame": 2001
+            },
+            {
+                "narration_text": "Wipes hand with the kitchen towel",
+                "start_frame": 2001,
+                "stop_frame": 2075
+            },
+            {
+                "narration_text": "Picks the bowl from the table",
+                "start_frame": 2075,
+                "stop_frame": 2144
+            },
+            {
+                "narration_text": "Puts the bowl in the sink",
+                "start_frame": 2144,
+                "stop_frame": 2173
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around",
+                "start_frame": 999,
+                "stop_frame": 1036
+            },
+            {
+                "narration_text": "Picks the chop board from the table",
+                "start_frame": 1036,
+                "stop_frame": 1104
+            },
+            {
+                "narration_text": "Turns the tap on",
+                "start_frame": 1104,
+                "stop_frame": 1172
+            },
+            {
+                "narration_text": "Washes the chop board",
+                "start_frame": 1172,
+                "stop_frame": 1302
+            },
+            {
+                "narration_text": "Puts the washing sponge on the sink",
+                "start_frame": 1302,
+                "stop_frame": 1324
+            },
+            {
+                "narration_text": "Turns off the tap",
+                "start_frame": 1324,
+                "stop_frame": 1423
+            },
+            {
+                "narration_text": "Puts the chop board on the table",
+                "start_frame": 1423,
+                "stop_frame": 1518
+            },
+            {
+                "narration_text": "Wipes hand with the kitchen towel",
+                "start_frame": 1518,
+                "stop_frame": 1599
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash and store knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Wipes hand with the kitchen towel",
+                "start_frame": 1518,
+                "stop_frame": 1599
+            },
+            {
+                "narration_text": "Picks the knife on the plate",
+                "start_frame": 1599,
+                "stop_frame": 1653
+            },
+            {
+                "narration_text": "Turns the tap on",
+                "start_frame": 1653,
+                "stop_frame": 1681
+            },
+            {
+                "narration_text": "Washes the knife",
+                "start_frame": 1681,
+                "stop_frame": 1701
+            },
+            {
+                "narration_text": "Picks the washing sponge on the sink",
+                "start_frame": 1701,
+                "stop_frame": 1721
+            },
+            {
+                "narration_text": "Washes the knife with the sponge knife",
+                "start_frame": 1721,
+                "stop_frame": 1804
+            },
+            {
+                "narration_text": "Puts the washing sponge on the sink",
+                "start_frame": 1804,
+                "stop_frame": 1818
+            },
+            {
+                "narration_text": "Turns off the tap",
+                "start_frame": 1818,
+                "stop_frame": 1876
+            },
+            {
+                "narration_text": "Puts the knife on the stands",
+                "start_frame": 1876,
+                "stop_frame": 2001
+            },
+            {
+                "narration_text": "Wipes hand with the kitchen towel",
+                "start_frame": 2001,
+                "stop_frame": 2075
+            }
+        ]
+    },
+    {
+        "task_goal": "Dispose of excess items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Wipes hand with the kitchen towel",
+                "start_frame": 2001,
+                "stop_frame": 2075
+            },
+            {
+                "narration_text": "Picks the bowl from the table",
+                "start_frame": 2075,
+                "stop_frame": 2144
+            },
+            {
+                "narration_text": "Puts the bowl in the sink",
+                "start_frame": 2144,
+                "stop_frame": 2173
+            }
+        ]
+    },
+    {
+        "task_goal": "Finalize organization",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the bowl from the table",
+                "start_frame": 2075,
+                "stop_frame": 2144
+            },
+            {
+                "narration_text": "Puts the bowl in the sink",
+                "start_frame": 2144,
+                "stop_frame": 2173
+            },
+            {
+                "narration_text": "Stares around",
+                "start_frame": 2173,
+                "stop_frame": 2228
+            },
+            {
+                "narration_text": "Touches himself",
+                "start_frame": 2228,
+                "stop_frame": 2239
+            },
+            {
+                "narration_text": "Picks the bottle from the table",
+                "start_frame": 2239,
+                "stop_frame": 2270
+            },
+            {
+                "narration_text": "Closes bottle",
+                "start_frame": 2270,
+                "stop_frame": 2324
+            },
+            {
+                "narration_text": "Puts the bottle on the table",
+                "start_frame": 2324,
+                "stop_frame": 2354
+            },
+            {
+                "narration_text": "Stares around",
+                "start_frame": 2354,
+                "stop_frame": 2425
+            },
+            {
+                "narration_text": "Picks the bowl from the table",
+                "start_frame": 2425,
+                "stop_frame": 2477
+            },
+            {
+                "narration_text": "Walks towards the sink",
+                "start_frame": 2477,
+                "stop_frame": 2513
+            },
+            {
+                "narration_text": "Puts the bowls on sink",
+                "start_frame": 2513,
+                "stop_frame": 2560
+            },
+            {
+                "narration_text": "Stares around",
+                "start_frame": 2560,
+                "stop_frame": 2667
+            },
+            {
+                "narration_text": "Touches unsure",
+                "start_frame": 2667,
+                "stop_frame": 2767
+            }
+        ]
+    },
+    {
+        "task_goal": "Put bowl in sink and handle bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the bowl from the table",
+                "start_frame": 2075,
+                "stop_frame": 2144
+            },
+            {
+                "narration_text": "Puts the bowl in the sink",
+                "start_frame": 2144,
+                "stop_frame": 2173
+            },
+            {
+                "narration_text": "Stares around",
+                "start_frame": 2173,
+                "stop_frame": 2228
+            },
+            {
+                "narration_text": "Touches himself",
+                "start_frame": 2228,
+                "stop_frame": 2239
+            },
+            {
+                "narration_text": "Picks the bottle from the table",
+                "start_frame": 2239,
+                "stop_frame": 2270
+            },
+            {
+                "narration_text": "Closes bottle",
+                "start_frame": 2270,
+                "stop_frame": 2324
+            },
+            {
+                "narration_text": "Puts the bottle on the table",
+                "start_frame": 2324,
+                "stop_frame": 2354
+            },
+            {
+                "narration_text": "Stares around",
+                "start_frame": 2354,
+                "stop_frame": 2425
+            }
+        ]
+    },
+    {
+        "task_goal": "Place another bowl in the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stares around",
+                "start_frame": 2354,
+                "stop_frame": 2425
+            },
+            {
+                "narration_text": "Picks the bowl from the table",
+                "start_frame": 2425,
+                "stop_frame": 2477
+            },
+            {
+                "narration_text": "Walks towards the sink",
+                "start_frame": 2477,
+                "stop_frame": 2513
+            },
+            {
+                "narration_text": "Puts the bowls on sink",
+                "start_frame": 2513,
+                "stop_frame": 2560
+            },
+            {
+                "narration_text": "Stares around",
+                "start_frame": 2560,
+                "stop_frame": 2667
+            }
+        ]
+    },
+    {
+        "task_goal": "Look around and finalize actions",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the bowls on sink",
+                "start_frame": 2513,
+                "stop_frame": 2560
+            },
+            {
+                "narration_text": "Stares around",
+                "start_frame": 2560,
+                "stop_frame": 2667
+            },
+            {
+                "narration_text": "Touches unsure",
+                "start_frame": 2667,
+                "stop_frame": 2767
+            }
+        ]
+    }
+]

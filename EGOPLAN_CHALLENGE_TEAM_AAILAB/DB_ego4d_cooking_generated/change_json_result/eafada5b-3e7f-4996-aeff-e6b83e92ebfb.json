@@ -1,0 +1,261 @@
+{
+    "overall_goal": "Cook a fish dish in a sufuria using various ingredients and cooking methods.",
+    "clips": [
+        {
+            "subgoal": "Prepare the sufuria and sticks",
+            "start_timestamp": 13,
+            "stop_timestamp": 376,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn the sufuria and sticks",
+                    "start_timestamp": 13,
+                    "stop_timestamp": 98
+                },
+                {
+                    "secondary_subgoal": "Move hands and lift sufuria",
+                    "start_timestamp": 98,
+                    "stop_timestamp": 244
+                },
+                {
+                    "secondary_subgoal": "Put the sticks down",
+                    "start_timestamp": 244,
+                    "stop_timestamp": 376
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and add oil",
+            "start_timestamp": 376,
+            "stop_timestamp": 699,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick tin of oil and open it",
+                    "start_timestamp": 376,
+                    "stop_timestamp": 482
+                },
+                {
+                    "secondary_subgoal": "Pour oil and put tin down",
+                    "start_timestamp": 482,
+                    "stop_timestamp": 699
+                }
+            ]
+        },
+        {
+            "subgoal": "Add fish to the sufuria",
+            "start_timestamp": 762,
+            "stop_timestamp": 1686,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick sticks and lift sufuria",
+                    "start_timestamp": 762,
+                    "stop_timestamp": 924
+                },
+                {
+                    "secondary_subgoal": "Pick small fish with stick and put in sufuria",
+                    "start_timestamp": 924,
+                    "stop_timestamp": 1653
+                },
+                {
+                    "secondary_subgoal": "Spread fish with the stick",
+                    "start_timestamp": 1653,
+                    "stop_timestamp": 1686
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and add ginger",
+            "start_timestamp": 2004,
+            "stop_timestamp": 3241,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open the fridge and drawer to get ginger",
+                    "start_timestamp": 2004,
+                    "stop_timestamp": 2169
+                },
+                {
+                    "secondary_subgoal": "Open packet and cut ginger in pieces",
+                    "start_timestamp": 2169,
+                    "stop_timestamp": 3022
+                },
+                {
+                    "secondary_subgoal": "Pour ginger pieces in the sufuria",
+                    "start_timestamp": 3065,
+                    "stop_timestamp": 3210
+                },
+                {
+                    "secondary_subgoal": "Push packet aside and shake hand",
+                    "start_timestamp": 3210,
+                    "stop_timestamp": 3241
+                }
+            ]
+        },
+        {
+            "subgoal": "Add unsure powder",
+            "start_timestamp": 3574,
+            "stop_timestamp": 4214,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and pour unsure powder in the sufuria",
+                    "start_timestamp": 3574,
+                    "stop_timestamp": 4014
+                },
+                {
+                    "secondary_subgoal": "Hit spoon on sufuria and put it in tin",
+                    "start_timestamp": 4014,
+                    "stop_timestamp": 4093
+                },
+                {
+                    "secondary_subgoal": "Put tins and packet aside",
+                    "start_timestamp": 4093,
+                    "stop_timestamp": 4214
+                }
+            ]
+        },
+        {
+            "subgoal": "Turn the fish in sufuria",
+            "start_timestamp": 4420,
+            "stop_timestamp": 4696,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn the fish",
+                    "start_timestamp": 4420,
+                    "stop_timestamp": 4696
+                }
+            ]
+        },
+        {
+            "subgoal": "Pour additional oil and chili",
+            "start_timestamp": 6037,
+            "stop_timestamp": 7728,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open the fridge to get oil and pour it",
+                    "start_timestamp": 6037,
+                    "stop_timestamp": 6676
+                },
+                {
+                    "secondary_subgoal": "Open drawer to get chili and pour it",
+                    "start_timestamp": 7169,
+                    "stop_timestamp": 7728
+                }
+            ]
+        },
+        {
+            "subgoal": "Taste soup and adjust gas",
+            "start_timestamp": 7861,
+            "stop_timestamp": 8292,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taste soup",
+                    "start_timestamp": 7861,
+                    "stop_timestamp": 8049
+                },
+                {
+                    "secondary_subgoal": "Rinse knife and adjust gas",
+                    "start_timestamp": 8181,
+                    "stop_timestamp": 8292
+                }
+            ]
+        },
+        {
+            "subgoal": "Add and stir unsure ingredients",
+            "start_timestamp": 8408,
+            "stop_timestamp": 10868,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add unsure ingredients with chopsticks",
+                    "start_timestamp": 8408,
+                    "stop_timestamp": 8795
+                },
+                {
+                    "secondary_subgoal": "Continue adding and stirring unsure ingredients",
+                    "start_timestamp": 8795,
+                    "stop_timestamp": 10769
+                },
+                {
+                    "secondary_subgoal": "Shake chopsticks and move cooking pot",
+                    "start_timestamp": 10769,
+                    "stop_timestamp": 10834
+                },
+                {
+                    "secondary_subgoal": "Adjust cooking gas flame",
+                    "start_timestamp": 10939,
+                    "stop_timestamp": 10959
+                }
+            ]
+        },
+        {
+            "subgoal": "Cover and check cooking pot",
+            "start_timestamp": 11039,
+            "stop_timestamp": 11316,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick cooking pot lid and cover it",
+                    "start_timestamp": 11039,
+                    "stop_timestamp": 11283
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean the kitchen",
+            "start_timestamp": 11537,
+            "stop_timestamp": 14674,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wipe cooktop and countertop",
+                    "start_timestamp": 11537,
+                    "stop_timestamp": 11806
+                },
+                {
+                    "secondary_subgoal": "Wash hands and dishes",
+                    "start_timestamp": 12094,
+                    "stop_timestamp": 13838
+                },
+                {
+                    "secondary_subgoal": "Wipe hands and countertop with kitchen towel",
+                    "start_timestamp": 14426,
+                    "stop_timestamp": 14658
+                }
+            ]
+        },
+        {
+            "subgoal": "Check and stir the unsure in cooking pot",
+            "start_timestamp": 14692,
+            "stop_timestamp": 15918,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir unsure in cooking pot",
+                    "start_timestamp": 14988,
+                    "stop_timestamp": 15208
+                },
+                {
+                    "secondary_subgoal": "Taste soup",
+                    "start_timestamp": 15764,
+                    "stop_timestamp": 15864
+                }
+            ]
+        },
+        {
+            "subgoal": "Final adjustments and wrap up",
+            "start_timestamp": 16031,
+            "stop_timestamp": 19455,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put jar in drawer and close",
+                    "start_timestamp": 16031,
+                    "stop_timestamp": 16150
+                },
+                {
+                    "secondary_subgoal": "Add unsure ingredient to cooking pot",
+                    "start_timestamp": 16409,
+                    "stop_timestamp": 16542
+                },
+                {
+                    "secondary_subgoal": "Cover cooking pot and wipe countertop",
+                    "start_timestamp": 17220,
+                    "stop_timestamp": 17433
+                }
+            ]
+        }
+    ]
+}

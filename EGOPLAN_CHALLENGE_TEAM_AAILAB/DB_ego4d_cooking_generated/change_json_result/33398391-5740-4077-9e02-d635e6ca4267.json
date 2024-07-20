@@ -1,0 +1,178 @@
+{
+    "overall_goal": "Prepare and serve food, then clean up",
+    "clips": [
+        {
+            "subgoal": "Cook and serve soup",
+            "start_timestamp": 0,
+            "stop_timestamp": 1536,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fry soup",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 11
+                },
+                {
+                    "secondary_subgoal": "Operate the cooker",
+                    "start_timestamp": 11,
+                    "stop_timestamp": 911
+                },
+                {
+                    "secondary_subgoal": "Operate the cooker again",
+                    "start_timestamp": 911,
+                    "stop_timestamp": 1008
+                },
+                {
+                    "secondary_subgoal": "Lift frying pan from cooker",
+                    "start_timestamp": 1008,
+                    "stop_timestamp": 1075
+                },
+                {
+                    "secondary_subgoal": "Serve soup in the plates",
+                    "start_timestamp": 1075,
+                    "stop_timestamp": 1375
+                },
+                {
+                    "secondary_subgoal": "Clear soup residue from frying pan",
+                    "start_timestamp": 1375,
+                    "stop_timestamp": 1471
+                },
+                {
+                    "secondary_subgoal": "Put serving spoon in sink",
+                    "start_timestamp": 1471,
+                    "stop_timestamp": 1536
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean frying pan and utensils",
+            "start_timestamp": 1536,
+            "stop_timestamp": 1868,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse frying pan",
+                    "start_timestamp": 1536,
+                    "stop_timestamp": 1677
+                },
+                {
+                    "secondary_subgoal": "Wash hands",
+                    "start_timestamp": 1767,
+                    "stop_timestamp": 1868
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve plates of food",
+            "start_timestamp": 1909,
+            "stop_timestamp": 2113,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick plates from countertop",
+                    "start_timestamp": 1909,
+                    "stop_timestamp": 1963
+                },
+                {
+                    "secondary_subgoal": "Put plates of food on countertop",
+                    "start_timestamp": 1963,
+                    "stop_timestamp": 2037
+                },
+                {
+                    "secondary_subgoal": "Extend plates",
+                    "start_timestamp": 2037,
+                    "stop_timestamp": 2113
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean bowl",
+            "start_timestamp": 2145,
+            "stop_timestamp": 2252,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse bowl",
+                    "start_timestamp": 2145,
+                    "stop_timestamp": 2252
+                }
+            ]
+        },
+        {
+            "subgoal": "Dry hands",
+            "start_timestamp": 2337,
+            "stop_timestamp": 2374,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Drying hands with towel",
+                    "start_timestamp": 2337,
+                    "stop_timestamp": 2374
+                }
+            ]
+        },
+        {
+            "subgoal": "Retrieve items from fridge",
+            "start_timestamp": 2374,
+            "stop_timestamp": 2473,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walks and opens fridge",
+                    "start_timestamp": 2374,
+                    "stop_timestamp": 2435
+                },
+                {
+                    "secondary_subgoal": "Picks item from fridge",
+                    "start_timestamp": 2435,
+                    "stop_timestamp": 2444
+                },
+                {
+                    "secondary_subgoal": "Closes fridge and returns",
+                    "start_timestamp": 2444,
+                    "stop_timestamp": 2473
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare additional mixture",
+            "start_timestamp": 2473,
+            "stop_timestamp": 3606,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and pour from bottles",
+                    "start_timestamp": 2473,
+                    "stop_timestamp": 3191
+                },
+                {
+                    "secondary_subgoal": "Mix contents",
+                    "start_timestamp": 3203,
+                    "stop_timestamp": 3434
+                },
+                {
+                    "secondary_subgoal": "Pour mixture into food plates",
+                    "start_timestamp": 3434,
+                    "stop_timestamp": 3606
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean mixer and bowl",
+            "start_timestamp": 3646,
+            "stop_timestamp": 3728,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put bowl in sink and mixer in bowl",
+                    "start_timestamp": 3646,
+                    "stop_timestamp": 3698
+                }
+            ]
+        },
+        {
+            "subgoal": "Have a conversation",
+            "start_timestamp": 3728,
+            "stop_timestamp": 3828,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Converses",
+                    "start_timestamp": 3728,
+                    "stop_timestamp": 3828
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "overall_goal": "Prepare ingredients for cooking a meal",
+    "clips": [
+        {
+            "subgoal": "Collect necessary ingredients",
+            "start_timestamp": "58",
+            "stop_timestamp": "1497",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Get spinach from drawer",
+                    "start_timestamp": "103",
+                    "stop_timestamp": "344"
+                },
+                {
+                    "secondary_subgoal": "Get meat from fridge",
+                    "start_timestamp": "429",
+                    "stop_timestamp": "791"
+                },
+                {
+                    "secondary_subgoal": "Handle the shopping bag",
+                    "start_timestamp": "843",
+                    "stop_timestamp": "1497"
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cooking utensils",
+            "start_timestamp": "1565",
+            "stop_timestamp": "3214",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean frying pan",
+                    "start_timestamp": "1585",
+                    "stop_timestamp": "3009"
+                },
+                {
+                    "secondary_subgoal": "Set up cooking area",
+                    "start_timestamp": "3109",
+                    "stop_timestamp": "3214"
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare vegetables",
+            "start_timestamp": "3681",
+            "stop_timestamp": "15348",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and peel turnip",
+                    "start_timestamp": "3996",
+                    "stop_timestamp": "4949"
+                },
+                {
+                    "secondary_subgoal": "Cut turnip",
+                    "start_timestamp": "5060",
+                    "stop_timestamp": "6287"
+                },
+                {
+                    "secondary_subgoal": "Handle mushrooms",
+                    "start_timestamp": "6345",
+                    "stop_timestamp": "8677"
+                },
+                {
+                    "secondary_subgoal": "Peel and cut potatoes",
+                    "start_timestamp": "8928",
+                    "stop_timestamp": "15121"
+                },
+                {
+                    "secondary_subgoal": "Cut and prepare spinach",
+                    "start_timestamp": "15540",
+                    "stop_timestamp": "18494"
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare meat",
+            "start_timestamp": "19181",
+            "stop_timestamp": "21335",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle stake meat",
+                    "start_timestamp": "19181",
+                    "stop_timestamp": "21335"
+                }
+            ]
+        }
+    ]
+}

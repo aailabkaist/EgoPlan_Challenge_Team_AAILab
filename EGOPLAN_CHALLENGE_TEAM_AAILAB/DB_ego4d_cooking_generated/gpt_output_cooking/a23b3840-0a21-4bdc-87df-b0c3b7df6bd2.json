@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgJbBZbPlTDpgTWJBS4MtinEh1AL",
+    "object": "chat.completion",
+    "created": 1719244479,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal involving multiple ingredients and dishes\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Gather ingredients and prepare workstation\",\n      \"start_timestamp\": 482,\n      \"stop_timestamp\": 19527,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Open fridge, take out packet of ribs, and gather utensils\", \"start_timestamp\": 482, \"stop_timestamp\": 2088},\n        {\"secondary_subgoal\": \"Inspect and cut the packet of ribs\", \"start_timestamp\": 2088, \"stop_timestamp\": 1408},\n        {\"secondary_subgoal\": \"Move ribs to tray\", \"start_timestamp\": 1408, \"stop_timestamp\": 1629},\n        {\"secondary_subgoal\": \"Prepare cooking tools\", \"start_timestamp\": 1629, \"stop_timestamp\": 2242}\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and cook ribs\",\n      \"start_timestamp\": 2242,\n      \"stop_timestamp\": 18340,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Prepare ribs on tray and arrange oven\", \"start_timestamp\": 2242, \"stop_timestamp\": 4855},\n        {\"secondary_subgoal\": \"Position tray in the oven\", \"start_timestamp\": 4855, \"stop_timestamp\": 6186},\n        {\"secondary_subgoal\": \"Clean utensils and prepare next steps\", \"start_timestamp\": 6186, \"stop_timestamp\": 8596}\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and clean up salad ingredients\",\n      \"start_timestamp\": 8596,\n      \"stop_timestamp\": 19239,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Cut and prepare onions\", \"start_timestamp\": 8596, \"stop_timestamp\": 11590},\n        {\"secondary_subgoal\": \"Mix and adjust salad\", \"start_timestamp\": 11590, \"stop_timestamp\": 16582},\n        {\"secondary_subgoal\": \"Prepare and slice various vegetables\", \"start_timestamp\": 16582, \"stop_timestamp\": 18897}\n      ]\n    },\n    {\n      \"subgoal\": \"Finalize ingredient setup\",\n      \"start_timestamp\": 19239,\n      \"stop_timestamp\": 30590,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Finalize preparation of vegetables for the meal\", \"start_timestamp\": 19239, \"stop_timestamp\": 27212},\n        {\"secondary_subgoal\": \"Bake spring rolls and clean dishes\", \"start_timestamp\": 27212, \"stop_timestamp\": 29590},\n        {\"secondary_subgoal\": \"Slice and prepare cheese\", \"start_timestamp\": 29590, \"stop_timestamp\": 30311}\n      ]\n    },\n    {\n      \"subgoal\": \"Table setup and food arrangement\",\n      \"start_timestamp\": 30590,\n      \"stop_timestamp\": 37355,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Set the table and place dishes\", \"start_timestamp\": 30590, \"stop_timestamp\": 32740},\n        {\"secondary_subgoal\": \"Finish cleaning and present meal items\", \"start_timestamp\": 32740, \"stop_timestamp\": 37355},\n        {\"secondary_subgoal\": \"Complete final touches and meal preparation\", \"start_timestamp\": 32740, \"stop_timestamp\": 37355}\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 5651,
+        "completion_tokens": 715,
+        "total_tokens": 6366
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

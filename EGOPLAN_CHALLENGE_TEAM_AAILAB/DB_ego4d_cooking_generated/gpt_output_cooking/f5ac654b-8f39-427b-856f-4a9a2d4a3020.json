@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eh4aWk5MFoc90udbyaNeu6NALBK3",
+    "object": "chat.completion",
+    "created": 1719485720,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing a meal in the kitchen and cleaning up afterwards\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Entering the kitchen and starting to cook\",\n      \"start_timestamp\": 80,\n      \"stop_timestamp\": 1443,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Entering the kitchen and approaching the stove\",\n          \"start_timestamp\": 80,\n          \"stop_timestamp\": 451\n        },\n        {\n          \"secondary_subgoal\": \"Cooking on the stove\",\n          \"start_timestamp\": 713,\n          \"stop_timestamp\": 1443\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Man Y washing hands and continuing to cook\",\n      \"start_timestamp\": 1443,\n      \"stop_timestamp\": 2235,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Man Y washing hands\",\n          \"start_timestamp\": 1443,\n          \"stop_timestamp\": 1569\n        },\n        {\n          \"secondary_subgoal\": \"Cooking on the stove\",\n          \"start_timestamp\": 1569,\n          \"stop_timestamp\": 2235\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Opening cabinet and adding spice to food\",\n      \"start_timestamp\": 2235,\n      \"stop_timestamp\": 3004,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Opening the cabinet and regulating knob\",\n          \"start_timestamp\": 2235,\n          \"stop_timestamp\": 2510\n        },\n        {\n          \"secondary_subgoal\": \"Adding spice to food\",\n          \"start_timestamp\": 2510,\n          \"stop_timestamp\": 3004\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Moving around the kitchen and interacting with Man Y\",\n      \"start_timestamp\": 3004,\n      \"stop_timestamp\": 4655,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Interacting with Man Y\",\n          \"start_timestamp\": 3353,\n          \"stop_timestamp\": 3740\n        },\n        {\n          \"secondary_subgoal\": \"Washing in the sink\",\n          \"start_timestamp\": 3740,\n          \"stop_timestamp\": 4164\n        },\n        {\n          \"secondary_subgoal\": \"Holding and interacting with chopping board\",\n          \"start_timestamp\": 4518,\n          \"stop_timestamp\": 4655\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning the kitchen and serving the food\",\n      \"start_timestamp\": 4958,\n      \"stop_timestamp\": 7432,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wiping chopping board and unfolding food\",\n          \"start_timestamp\": 4958,\n          \"stop_timestamp\": 5196\n        },\n        {\n          \"secondary_subgoal\": \"Taking serving spoon\",\n          \"start_timestamp\": 5368,\n          \"stop_timestamp\": 5486\n        },\n        {\n          \"secondary_subgoal\": \"Serving food\",\n          \"start_timestamp\": 7307,\n          \"stop_timestamp\": 7432\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Completing cooking task and cleaning kitchen\",\n      \"start_timestamp\": 7432,\n      \"stop_timestamp\": 11321,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Taking lid and moving around\",\n          \"start_timestamp\": 7432,\n          \"stop_timestamp\": 8032\n        },\n        {\n          \"secondary_subgoal\": \"Washing in the sink\",\n          \"start_timestamp\": 8032,\n          \"stop_timestamp\": 8103\n        },\n        {\n          \"secondary_subgoal\": \"Wiping the stove and interacting with man D\",\n          \"start_timestamp\": 8410,\n          \"stop_timestamp\": 9127\n        },\n        {\n          \"secondary_subgoal\": \"Picking and pouring beverage\",\n          \"start_timestamp\": 9248,\n          \"stop_timestamp\": 10571\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning utensils and putting them away\",\n          \"start_timestamp\": 10804,\n          \"stop_timestamp\": 11321\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 895,
+        "completion_tokens": 895,
+        "total_tokens": 1790
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

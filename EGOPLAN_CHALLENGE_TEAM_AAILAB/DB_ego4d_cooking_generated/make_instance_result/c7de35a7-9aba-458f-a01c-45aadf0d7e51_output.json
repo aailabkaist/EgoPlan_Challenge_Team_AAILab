@@ -1,0 +1,702 @@
+[
+    {
+        "task_goal": "C serves the meal onto a plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the spoon with the right hand",
+                "start_frame": 1,
+                "stop_frame": 12
+            },
+            {
+                "narration_text": "#C C puts the meal on the plate",
+                "start_frame": 12,
+                "stop_frame": 118
+            },
+            {
+                "narration_text": "#C C soaks the spoon in the meal",
+                "start_frame": 118,
+                "stop_frame": 179
+            },
+            {
+                "narration_text": "#C C holds the plate with the left hand",
+                "start_frame": 179,
+                "stop_frame": 336
+            },
+            {
+                "narration_text": "#C C holds the pot with both hands",
+                "start_frame": 336,
+                "stop_frame": 403
+            },
+            {
+                "narration_text": "#C C holds the cover",
+                "start_frame": 403,
+                "stop_frame": 472
+            },
+            {
+                "narration_text": "#C C holds the spoon",
+                "start_frame": 472,
+                "stop_frame": 637
+            },
+            {
+                "narration_text": "#C C holds the chopping stick with the right hand",
+                "start_frame": 637,
+                "stop_frame": 651
+            },
+            {
+                "narration_text": "#C C holds the oven pot with the left hand",
+                "start_frame": 651,
+                "stop_frame": 826
+            },
+            {
+                "narration_text": "#C C puts the meal on the plate",
+                "start_frame": 826,
+                "stop_frame": 1660
+            }
+        ]
+    },
+    {
+        "task_goal": "C holds the spoon with the right hand.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the spoon with the right hand",
+                "start_frame": 1,
+                "stop_frame": 12
+            },
+            {
+                "narration_text": "#C C puts the meal on the plate",
+                "start_frame": 12,
+                "stop_frame": 118
+            }
+        ]
+    },
+    {
+        "task_goal": "C puts the meal on the plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the spoon with the right hand",
+                "start_frame": 1,
+                "stop_frame": 12
+            },
+            {
+                "narration_text": "#C C puts the meal on the plate",
+                "start_frame": 12,
+                "stop_frame": 118
+            },
+            {
+                "narration_text": "#C C soaks the spoon in the meal",
+                "start_frame": 118,
+                "stop_frame": 179
+            }
+        ]
+    },
+    {
+        "task_goal": "C soaks the spoon in the meal.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the meal on the plate",
+                "start_frame": 12,
+                "stop_frame": 118
+            },
+            {
+                "narration_text": "#C C soaks the spoon in the meal",
+                "start_frame": 118,
+                "stop_frame": 179
+            },
+            {
+                "narration_text": "#C C holds the plate with the left hand",
+                "start_frame": 179,
+                "stop_frame": 336
+            }
+        ]
+    },
+    {
+        "task_goal": "C holds the plate with the left hand.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C soaks the spoon in the meal",
+                "start_frame": 118,
+                "stop_frame": 179
+            },
+            {
+                "narration_text": "#C C holds the plate with the left hand",
+                "start_frame": 179,
+                "stop_frame": 336
+            },
+            {
+                "narration_text": "#C C holds the pot with both hands",
+                "start_frame": 336,
+                "stop_frame": 403
+            }
+        ]
+    },
+    {
+        "task_goal": "C holds the pot with both hands.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the plate with the left hand",
+                "start_frame": 179,
+                "stop_frame": 336
+            },
+            {
+                "narration_text": "#C C holds the pot with both hands",
+                "start_frame": 336,
+                "stop_frame": 403
+            },
+            {
+                "narration_text": "#C C holds the cover",
+                "start_frame": 403,
+                "stop_frame": 472
+            }
+        ]
+    },
+    {
+        "task_goal": "C holds the cover.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the pot with both hands",
+                "start_frame": 336,
+                "stop_frame": 403
+            },
+            {
+                "narration_text": "#C C holds the cover",
+                "start_frame": 403,
+                "stop_frame": 472
+            },
+            {
+                "narration_text": "#C C holds the spoon",
+                "start_frame": 472,
+                "stop_frame": 637
+            }
+        ]
+    },
+    {
+        "task_goal": "C holds the spoon.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the cover",
+                "start_frame": 403,
+                "stop_frame": 472
+            },
+            {
+                "narration_text": "#C C holds the spoon",
+                "start_frame": 472,
+                "stop_frame": 637
+            },
+            {
+                "narration_text": "#C C holds the chopping stick with the right hand",
+                "start_frame": 637,
+                "stop_frame": 651
+            }
+        ]
+    },
+    {
+        "task_goal": "C holds the chopping stick with the right hand.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the spoon",
+                "start_frame": 472,
+                "stop_frame": 637
+            },
+            {
+                "narration_text": "#C C holds the chopping stick with the right hand",
+                "start_frame": 637,
+                "stop_frame": 651
+            },
+            {
+                "narration_text": "#C C holds the oven pot with the left hand",
+                "start_frame": 651,
+                "stop_frame": 826
+            }
+        ]
+    },
+    {
+        "task_goal": "C holds the oven pot with the left hand.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the chopping stick with the right hand",
+                "start_frame": 637,
+                "stop_frame": 651
+            },
+            {
+                "narration_text": "#C C holds the oven pot with the left hand",
+                "start_frame": 651,
+                "stop_frame": 826
+            },
+            {
+                "narration_text": "#C C puts the meal on the plate",
+                "start_frame": 826,
+                "stop_frame": 1660
+            }
+        ]
+    },
+    {
+        "task_goal": "C cleans up after serving the meal.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the oven pot with the left hand",
+                "start_frame": 651,
+                "stop_frame": 826
+            },
+            {
+                "narration_text": "#C C puts the meal on the plate",
+                "start_frame": 826,
+                "stop_frame": 1660
+            },
+            {
+                "narration_text": "#C C puts the pot in the sink",
+                "start_frame": 1660,
+                "stop_frame": 1668
+            },
+            {
+                "narration_text": "#C C opens the water on the water tap",
+                "start_frame": 1668,
+                "stop_frame": 1759
+            },
+            {
+                "narration_text": "#C C opens the kitchen cabinet",
+                "start_frame": 1759,
+                "stop_frame": 1901
+            },
+            {
+                "narration_text": "#C C picks the plate",
+                "start_frame": 1901,
+                "stop_frame": 1915
+            },
+            {
+                "narration_text": "#C C changes the plate from the left hand to the right hand",
+                "start_frame": 1915,
+                "stop_frame": 1934
+            },
+            {
+                "narration_text": "#C C holds the plate",
+                "start_frame": 1934,
+                "stop_frame": 1962
+            },
+            {
+                "narration_text": "#C C holds the plate with both hands",
+                "start_frame": 1962,
+                "stop_frame": 2010
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 2010,
+                "stop_frame": 2150
+            },
+            {
+                "narration_text": "#C C holds the chopping stick",
+                "start_frame": 2150,
+                "stop_frame": 2244
+            },
+            {
+                "narration_text": "#C C holds the plate with both hands",
+                "start_frame": 2244,
+                "stop_frame": 2310
+            },
+            {
+                "narration_text": "#C C holds the pot",
+                "start_frame": 2310,
+                "stop_frame": 2371
+            },
+            {
+                "narration_text": "#C C holds the cover",
+                "start_frame": 2371,
+                "stop_frame": 2479
+            },
+            {
+                "narration_text": "#C C picks the #unsure with the chopping stick",
+                "start_frame": 2479,
+                "stop_frame": 3235
+            }
+        ]
+    },
+    {
+        "task_goal": "C puts the meal on the plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the oven pot with the left hand",
+                "start_frame": 651,
+                "stop_frame": 826
+            },
+            {
+                "narration_text": "#C C puts the meal on the plate",
+                "start_frame": 826,
+                "stop_frame": 1660
+            },
+            {
+                "narration_text": "#C C puts the pot in the sink",
+                "start_frame": 1660,
+                "stop_frame": 1668
+            }
+        ]
+    },
+    {
+        "task_goal": "C puts the pot in the sink.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the meal on the plate",
+                "start_frame": 826,
+                "stop_frame": 1660
+            },
+            {
+                "narration_text": "#C C puts the pot in the sink",
+                "start_frame": 1660,
+                "stop_frame": 1668
+            },
+            {
+                "narration_text": "#C C opens the water on the water tap",
+                "start_frame": 1668,
+                "stop_frame": 1759
+            }
+        ]
+    },
+    {
+        "task_goal": "C opens the water on the water tap.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the pot in the sink",
+                "start_frame": 1660,
+                "stop_frame": 1668
+            },
+            {
+                "narration_text": "#C C opens the water on the water tap",
+                "start_frame": 1668,
+                "stop_frame": 1759
+            },
+            {
+                "narration_text": "#C C opens the kitchen cabinet",
+                "start_frame": 1759,
+                "stop_frame": 1901
+            }
+        ]
+    },
+    {
+        "task_goal": "C opens the kitchen cabinet.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the water on the water tap",
+                "start_frame": 1668,
+                "stop_frame": 1759
+            },
+            {
+                "narration_text": "#C C opens the kitchen cabinet",
+                "start_frame": 1759,
+                "stop_frame": 1901
+            },
+            {
+                "narration_text": "#C C picks the plate",
+                "start_frame": 1901,
+                "stop_frame": 1915
+            }
+        ]
+    },
+    {
+        "task_goal": "C picks the plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the kitchen cabinet",
+                "start_frame": 1759,
+                "stop_frame": 1901
+            },
+            {
+                "narration_text": "#C C picks the plate",
+                "start_frame": 1901,
+                "stop_frame": 1915
+            },
+            {
+                "narration_text": "#C C changes the plate from the left hand to the right hand",
+                "start_frame": 1915,
+                "stop_frame": 1934
+            }
+        ]
+    },
+    {
+        "task_goal": "C changes the plate from the left hand to the right hand.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the plate",
+                "start_frame": 1901,
+                "stop_frame": 1915
+            },
+            {
+                "narration_text": "#C C changes the plate from the left hand to the right hand",
+                "start_frame": 1915,
+                "stop_frame": 1934
+            },
+            {
+                "narration_text": "#C C holds the plate",
+                "start_frame": 1934,
+                "stop_frame": 1962
+            }
+        ]
+    },
+    {
+        "task_goal": "C holds the plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C changes the plate from the left hand to the right hand",
+                "start_frame": 1915,
+                "stop_frame": 1934
+            },
+            {
+                "narration_text": "#C C holds the plate",
+                "start_frame": 1934,
+                "stop_frame": 1962
+            },
+            {
+                "narration_text": "#C C holds the plate with both hands",
+                "start_frame": 1962,
+                "stop_frame": 2010
+            }
+        ]
+    },
+    {
+        "task_goal": "C holds the plate with both hands.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the plate",
+                "start_frame": 1934,
+                "stop_frame": 1962
+            },
+            {
+                "narration_text": "#C C holds the plate with both hands",
+                "start_frame": 1962,
+                "stop_frame": 2010
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 2010,
+                "stop_frame": 2150
+            }
+        ]
+    },
+    {
+        "task_goal": "C opens the drawer.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the plate with both hands",
+                "start_frame": 1962,
+                "stop_frame": 2010
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 2010,
+                "stop_frame": 2150
+            },
+            {
+                "narration_text": "#C C holds the chopping stick",
+                "start_frame": 2150,
+                "stop_frame": 2244
+            }
+        ]
+    },
+    {
+        "task_goal": "C holds the chopping stick.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 2010,
+                "stop_frame": 2150
+            },
+            {
+                "narration_text": "#C C holds the chopping stick",
+                "start_frame": 2150,
+                "stop_frame": 2244
+            },
+            {
+                "narration_text": "#C C holds the plate with both hands",
+                "start_frame": 2244,
+                "stop_frame": 2310
+            }
+        ]
+    },
+    {
+        "task_goal": "C holds the plate with both hands.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the chopping stick",
+                "start_frame": 2150,
+                "stop_frame": 2244
+            },
+            {
+                "narration_text": "#C C holds the plate with both hands",
+                "start_frame": 2244,
+                "stop_frame": 2310
+            },
+            {
+                "narration_text": "#C C holds the pot",
+                "start_frame": 2310,
+                "stop_frame": 2371
+            }
+        ]
+    },
+    {
+        "task_goal": "C holds the pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the plate with both hands",
+                "start_frame": 2244,
+                "stop_frame": 2310
+            },
+            {
+                "narration_text": "#C C holds the pot",
+                "start_frame": 2310,
+                "stop_frame": 2371
+            },
+            {
+                "narration_text": "#C C holds the cover",
+                "start_frame": 2371,
+                "stop_frame": 2479
+            }
+        ]
+    },
+    {
+        "task_goal": "C holds the cover.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the pot",
+                "start_frame": 2310,
+                "stop_frame": 2371
+            },
+            {
+                "narration_text": "#C C holds the cover",
+                "start_frame": 2371,
+                "stop_frame": 2479
+            },
+            {
+                "narration_text": "#C C picks the #unsure with the chopping stick",
+                "start_frame": 2479,
+                "stop_frame": 3235
+            }
+        ]
+    },
+    {
+        "task_goal": "C finishes the task in the kitchen.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the cover",
+                "start_frame": 2371,
+                "stop_frame": 2479
+            },
+            {
+                "narration_text": "#C C picks the #unsure with the chopping stick",
+                "start_frame": 2479,
+                "stop_frame": 3235
+            },
+            {
+                "narration_text": "#C C puts the chopping stick on the plate",
+                "start_frame": 3235,
+                "stop_frame": 3356
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 3356,
+                "stop_frame": 3775
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 3775,
+                "stop_frame": 3826
+            },
+            {
+                "narration_text": "#C C lift the hands",
+                "start_frame": 3826,
+                "stop_frame": 3926
+            }
+        ]
+    },
+    {
+        "task_goal": "C picks the #unsure with the chopping stick.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the cover",
+                "start_frame": 2371,
+                "stop_frame": 2479
+            },
+            {
+                "narration_text": "#C C picks the #unsure with the chopping stick",
+                "start_frame": 2479,
+                "stop_frame": 3235
+            },
+            {
+                "narration_text": "#C C puts the chopping stick on the plate",
+                "start_frame": 3235,
+                "stop_frame": 3356
+            }
+        ]
+    },
+    {
+        "task_goal": "C puts the chopping stick on the plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the #unsure with the chopping stick",
+                "start_frame": 2479,
+                "stop_frame": 3235
+            },
+            {
+                "narration_text": "#C C puts the chopping stick on the plate",
+                "start_frame": 3235,
+                "stop_frame": 3356
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 3356,
+                "stop_frame": 3775
+            }
+        ]
+    },
+    {
+        "task_goal": "C opens the fridge.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the chopping stick on the plate",
+                "start_frame": 3235,
+                "stop_frame": 3356
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 3356,
+                "stop_frame": 3775
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 3775,
+                "stop_frame": 3826
+            }
+        ]
+    },
+    {
+        "task_goal": "C closes the fridge.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 3356,
+                "stop_frame": 3775
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 3775,
+                "stop_frame": 3826
+            },
+            {
+                "narration_text": "#C C lift the hands",
+                "start_frame": 3826,
+                "stop_frame": 3926
+            }
+        ]
+    },
+    {
+        "task_goal": "C lifts the hands.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 3775,
+                "stop_frame": 3826
+            },
+            {
+                "narration_text": "#C C lift the hands",
+                "start_frame": 3826,
+                "stop_frame": 3926
+            }
+        ]
+    }
+]

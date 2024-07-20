@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eh0zqBuWKqwySvNb8Fdt5cZBYf7g",
+    "object": "chat.completion",
+    "created": 1719485497,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare various dishes by handling different food items and utensils.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Retrieve and prepare ingredients for cooking\",\n      \"start_timestamp\": 70,\n      \"stop_timestamp\": 840,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Retrieve ingredients from the fridge and drawers\",\n          \"start_timestamp\": 70,\n          \"stop_timestamp\": 509\n        },\n        {\n          \"secondary_subgoal\": \"Switch bottles and close fridge\",\n          \"start_timestamp\": 652,\n          \"stop_timestamp\": 840\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare meat for cooking\",\n      \"start_timestamp\": 840,\n      \"stop_timestamp\": 7369,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and wash meat and plate\",\n          \"start_timestamp\": 840,\n          \"stop_timestamp\": 1996\n        },\n        {\n          \"secondary_subgoal\": \"Prepare and store meat\",\n          \"start_timestamp\": 1996,\n          \"stop_timestamp\": 3570\n        },\n        {\n          \"secondary_subgoal\": \"Add ingredients to meat\",\n          \"start_timestamp\": 3570,\n          \"stop_timestamp\": 4606\n        },\n        {\n          \"secondary_subgoal\": \"Separate meat and clean hands\",\n          \"start_timestamp\": 4606,\n          \"stop_timestamp\": 5992\n        },\n        {\n          \"secondary_subgoal\": \"Add more ingredients and mix meat\",\n          \"start_timestamp\": 5992,\n          \"stop_timestamp\": 7374\n        },\n        {\n          \"secondary_subgoal\": \"Clean up and store vinegar\",\n          \"start_timestamp\": 7443,\n          \"stop_timestamp\": 7594\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare vegetables for salad\",\n      \"start_timestamp\": 7594,\n      \"stop_timestamp\": 7374,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Chop and wash cucumber\",\n          \"start_timestamp\": 7594,\n          \"stop_timestamp\": 8391\n        },\n        {\n          \"secondary_subgoal\": \"Prepare spoon and chop cucumber further\",\n          \"start_timestamp\": 9667,\n          \"stop_timestamp\": 11318\n        },\n        {\n          \"secondary_subgoal\": \"Mix cucumber with salt\",\n          \"start_timestamp\": 12627,\n          \"stop_timestamp\": 13250\n        },\n        {\n          \"secondary_subgoal\": \"Clean up after cucumber preparation\",\n          \"start_timestamp\": 13380,\n          \"stop_timestamp\": 13584\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare zucchini\",\n      \"start_timestamp\": 13969,\n      \"stop_timestamp\": 19993,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean and store zucchini\",\n          \"start_timestamp\": 14713,\n          \"stop_timestamp\": 14991\n        },\n        {\n          \"secondary_subgoal\": \"Cut zucchini and prepare grill\",\n          \"start_timestamp\": 17119,\n          \"stop_timestamp\": 17952\n        },\n        {\n          \"secondary_subgoal\": \"Clean up and prepare filter for cheese\",\n          \"start_timestamp\": 18142,\n          \"stop_timestamp\": 18907\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare cheese\",\n      \"start_timestamp\": 19583,\n      \"stop_timestamp\": 21332,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Open and cut cheese\",\n          \"start_timestamp\": 19313,\n          \"stop_timestamp\": 20417\n        },\n        {\n          \"secondary_subgoal\": \"Put cheese in filter and cut further\",\n          \"start_timestamp\": 21123,\n          \"stop_timestamp\": 21332\n        }\n      ]\n    }\n  ]\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2112,
+        "completion_tokens": 830,
+        "total_tokens": 2942
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

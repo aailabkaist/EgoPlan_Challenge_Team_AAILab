@@ -1,0 +1,74 @@
+{
+    "overall_goal": "Prepare ingredients and store them appropriately",
+    "clips": [
+        {
+            "subgoal": "Prepare and store ingredients",
+            "start_timestamp": 50,
+            "stop_timestamp": 2024,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir eggs",
+                    "start_timestamp": 50,
+                    "stop_timestamp": 161
+                },
+                {
+                    "secondary_subgoal": "Open fridge and store item",
+                    "start_timestamp": 161,
+                    "stop_timestamp": 303
+                },
+                {
+                    "secondary_subgoal": "Pick items and place on chopping board",
+                    "start_timestamp": 303,
+                    "stop_timestamp": 528
+                },
+                {
+                    "secondary_subgoal": "Handle pasta",
+                    "start_timestamp": 528,
+                    "stop_timestamp": 794
+                },
+                {
+                    "secondary_subgoal": "Fill bowl with water",
+                    "start_timestamp": 794,
+                    "stop_timestamp": 971
+                },
+                {
+                    "secondary_subgoal": "Place bowl on kitchen worktop",
+                    "start_timestamp": 971,
+                    "stop_timestamp": 1019
+                },
+                {
+                    "secondary_subgoal": "Drink water",
+                    "start_timestamp": 1019,
+                    "stop_timestamp": 1306
+                },
+                {
+                    "secondary_subgoal": "Handle cucumbers and tomatoes",
+                    "start_timestamp": 1306,
+                    "stop_timestamp": 1452
+                },
+                {
+                    "secondary_subgoal": "Wrap cucumber and store in fridge",
+                    "start_timestamp": 1452,
+                    "stop_timestamp": 1741
+                },
+                {
+                    "secondary_subgoal": "Open fridge and handle crisper drawer",
+                    "start_timestamp": 1741,
+                    "stop_timestamp": 2310
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish task",
+            "start_timestamp": 2310,
+            "stop_timestamp": 2410,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle camera",
+                    "start_timestamp": 2310,
+                    "stop_timestamp": 2410
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehSpTj9dm95iPFupn2nDrvBZ9WZd",
+    "object": "chat.completion",
+    "created": 1719487223,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Wash and store various cooking and dining utensils in the kitchen\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare and apply soap to a dish sponge\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 757,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turn on faucet and get dish sponge wet\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 320\n        },\n        {\n          \"secondary_subgoal\": \"Apply soap to dish sponge\",\n          \"start_timestamp\": 656,\n          \"stop_timestamp\": 731\n        },\n        {\n          \"secondary_subgoal\": \"Rinse dish sponge\",\n          \"start_timestamp\": 731,\n          \"stop_timestamp\": 757\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Wash and store bowls\",\n      \"start_timestamp\": 757,\n      \"stop_timestamp\": 3766,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Rinse and wash bowl\",\n          \"start_timestamp\": 757,\n          \"stop_timestamp\": 1695\n        },\n        {\n          \"secondary_subgoal\": \"Handle and rinse tongs\",\n          \"start_timestamp\": 2506,\n          \"stop_timestamp\": 2633\n        },\n        {\n          \"secondary_subgoal\": \"Wash and store first batch of bowls\",\n          \"start_timestamp\": 2633,\n          \"stop_timestamp\": 3766\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Wash and store a variety of dishes and utensils\",\n      \"start_timestamp\": 3766,\n      \"stop_timestamp\": 15979,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash and store various dishes (bowls, plates, mugs, etc.)\",\n          \"start_timestamp\": 3766,\n          \"stop_timestamp\": 11157\n        },\n        {\n          \"secondary_subgoal\": \"Clean and store utensils (spoons, chopsticks, etc.)\",\n          \"start_timestamp\": 11157,\n          \"stop_timestamp\": 15789\n        },\n        {\n          \"secondary_subgoal\": \"Clean up area and wipe hands\",\n          \"start_timestamp\": 15863,\n          \"stop_timestamp\": 15979\n        }\n      ]\n    }\n  ]\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3147,
+        "completion_tokens": 495,
+        "total_tokens": 3642
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,91 @@
+{
+    "overall_goal": "Prepare a mixture in the container using a piece of paper and various ingredients.",
+    "clips": [
+        {
+            "subgoal": "Prepare the materials and set up the workspace",
+            "start_timestamp": 46,
+            "stop_timestamp": 606,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and open the bag",
+                    "start_timestamp": 46,
+                    "stop_timestamp": 462
+                },
+                {
+                    "secondary_subgoal": "Remove a paper from the bag",
+                    "start_timestamp": 462,
+                    "stop_timestamp": 525
+                },
+                {
+                    "secondary_subgoal": "Walk to the dining table and place the bag on the table",
+                    "start_timestamp": 525,
+                    "stop_timestamp": 573
+                },
+                {
+                    "secondary_subgoal": "Walk to the counter and place the paper on the counter",
+                    "start_timestamp": 573,
+                    "stop_timestamp": 606
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the container for mixing",
+            "start_timestamp": 606,
+            "stop_timestamp": 965,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open the paper",
+                    "start_timestamp": 606,
+                    "stop_timestamp": 671
+                },
+                {
+                    "secondary_subgoal": "Pick up a piece of cloth",
+                    "start_timestamp": 671,
+                    "stop_timestamp": 767
+                },
+                {
+                    "secondary_subgoal": "Open the container cover with the piece of cloth",
+                    "start_timestamp": 767,
+                    "stop_timestamp": 876
+                },
+                {
+                    "secondary_subgoal": "Put the container cover on the counter",
+                    "start_timestamp": 876,
+                    "stop_timestamp": 965
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix the contents in the container",
+            "start_timestamp": 965,
+            "stop_timestamp": 2904,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up a spoon and mix #unsure in the container",
+                    "start_timestamp": 965,
+                    "stop_timestamp": 1886
+                },
+                {
+                    "secondary_subgoal": "Pick up a packet of #unsure and sprinkle in the container",
+                    "start_timestamp": 1886,
+                    "stop_timestamp": 2177
+                },
+                {
+                    "secondary_subgoal": "Put the packet of #unsure on the counter",
+                    "start_timestamp": 2177,
+                    "stop_timestamp": 2294
+                },
+                {
+                    "secondary_subgoal": "Mix #unsure in the container again",
+                    "start_timestamp": 2294,
+                    "stop_timestamp": 2804
+                },
+                {
+                    "secondary_subgoal": "Put the spoon on the counter",
+                    "start_timestamp": 2804,
+                    "stop_timestamp": 2904
+                }
+            ]
+        }
+    ]
+}

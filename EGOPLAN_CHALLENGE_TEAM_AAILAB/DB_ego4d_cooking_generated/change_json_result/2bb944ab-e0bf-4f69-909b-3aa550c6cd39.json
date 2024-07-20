@@ -1,0 +1,86 @@
+{
+    "overall_goal": "Preparing and serving a bowl of noodles with vegetables, and cleaning up the kitchen",
+    "clips": [
+        {
+            "subgoal": "Preparing noodles in the bowl",
+            "start_timestamp": 0,
+            "stop_timestamp": 383,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Throwing away trash and handling the cooking pot",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 18
+                },
+                {
+                    "secondary_subgoal": "Stirring and cooking noodles",
+                    "start_timestamp": 18,
+                    "stop_timestamp": 217
+                },
+                {
+                    "secondary_subgoal": "Transferring noodles to the bowl",
+                    "start_timestamp": 217,
+                    "stop_timestamp": 252
+                },
+                {
+                    "secondary_subgoal": "Pouring noodles into the bowl",
+                    "start_timestamp": 252,
+                    "stop_timestamp": 333
+                },
+                {
+                    "secondary_subgoal": "Moving the cooking pot to the sink",
+                    "start_timestamp": 333,
+                    "stop_timestamp": 373
+                },
+                {
+                    "secondary_subgoal": "Stirring noodles in the bowl",
+                    "start_timestamp": 373,
+                    "stop_timestamp": 383
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding vegetables to the bowl of noodles",
+            "start_timestamp": 383,
+            "stop_timestamp": 1272,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preparing and handling vegetables",
+                    "start_timestamp": 419,
+                    "stop_timestamp": 451
+                },
+                {
+                    "secondary_subgoal": "Pouring vegetables onto the noodles",
+                    "start_timestamp": 451,
+                    "stop_timestamp": 1201
+                },
+                {
+                    "secondary_subgoal": "Stirring noodles and vegetables in the bowl",
+                    "start_timestamp": 1201,
+                    "stop_timestamp": 1272
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning up the kitchen",
+            "start_timestamp": 1272,
+            "stop_timestamp": 1645,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling and cleaning cooking utensils",
+                    "start_timestamp": 1272,
+                    "stop_timestamp": 1332
+                },
+                {
+                    "secondary_subgoal": "Cleaning the kitchen surface",
+                    "start_timestamp": 1348,
+                    "stop_timestamp": 1514
+                },
+                {
+                    "secondary_subgoal": "Final touches and wrapping up",
+                    "start_timestamp": 1514,
+                    "stop_timestamp": 1645
+                }
+            ]
+        }
+    ]
+}

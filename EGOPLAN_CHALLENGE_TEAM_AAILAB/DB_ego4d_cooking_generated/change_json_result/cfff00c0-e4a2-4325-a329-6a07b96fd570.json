@@ -1,0 +1,100 @@
+{
+    "overall_goal": "Prepare and cook a meal using chicken meat and baby leeks, and then clean the used utensils.",
+    "clips": [
+        {
+            "subgoal": "Transfer chopped baby leeks into the cooking pan and stir with chicken meat",
+            "start_timestamp": 0,
+            "stop_timestamp": 505,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold utensils and operate phone",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 175
+                },
+                {
+                    "secondary_subgoal": "Transfer baby leeks and stir",
+                    "start_timestamp": 175,
+                    "stop_timestamp": 505
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir the mixture in the cooking pan and adjust settings",
+            "start_timestamp": 505,
+            "stop_timestamp": 4854,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir the mixture intermittently",
+                    "start_timestamp": 507,
+                    "stop_timestamp": 4854
+                },
+                {
+                    "secondary_subgoal": "Adjust the chimney hood",
+                    "start_timestamp": 2338,
+                    "stop_timestamp": 2437
+                }
+            ]
+        },
+        {
+            "subgoal": "Manage spices and arrange the kitchen",
+            "start_timestamp": 4854,
+            "stop_timestamp": 6632,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place chopsticks and arrange chicken meat pieces",
+                    "start_timestamp": 4854,
+                    "stop_timestamp": 4945
+                },
+                {
+                    "secondary_subgoal": "Manage spices",
+                    "start_timestamp": 4945,
+                    "stop_timestamp": 5946
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle chicken meat trays and wrap with clear foil",
+            "start_timestamp": 6632,
+            "stop_timestamp": 7686,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open kitchen drawers and pick the clear foil",
+                    "start_timestamp": 6768,
+                    "stop_timestamp": 6863
+                },
+                {
+                    "secondary_subgoal": "Wrap chicken meat tray with clear foil",
+                    "start_timestamp": 6863,
+                    "stop_timestamp": 7481
+                },
+                {
+                    "secondary_subgoal": "Store chicken meat tray in fridge",
+                    "start_timestamp": 7566,
+                    "stop_timestamp": 7630
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean utensils and manage kitchen items",
+            "start_timestamp": 7686,
+            "stop_timestamp": 12295,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move utensils and chopsticks to respective positions",
+                    "start_timestamp": 7744,
+                    "stop_timestamp": 7938
+                },
+                {
+                    "secondary_subgoal": "Rinse, wash and dry utensils",
+                    "start_timestamp": 7938,
+                    "stop_timestamp": 11949
+                },
+                {
+                    "secondary_subgoal": "Dry hands and adjust the camera",
+                    "start_timestamp": 12176,
+                    "stop_timestamp": 12295
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfOmpFjoVsP4ENSG0MLGe8V5NgKz",
+    "object": "chat.completion",
+    "created": 1719240956,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal that includes eggs, ham, mushrooms, and rice, seasoned with sauce.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare ingredients\",\n      \"start_timestamp\": 56,\n      \"stop_timestamp\": 13731,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash hands\",\n          \"start_timestamp\": 56,\n          \"stop_timestamp\": 247\n        },\n        {\n          \"secondary_subgoal\": \"Prepare the work area\",\n          \"start_timestamp\": 352,\n          \"stop_timestamp\": 905\n        },\n        {\n          \"secondary_subgoal\": \"Retrieve and set up cooking equipment\",\n          \"start_timestamp\": 937,\n          \"stop_timestamp\": 1244\n        },\n        {\n          \"secondary_subgoal\": \"Break and stir the eggs\",\n          \"start_timestamp\": 1385,\n          \"stop_timestamp\": 3034\n        },\n        {\n          \"secondary_subgoal\": \"Retrieve milk and mix with eggs\",\n          \"start_timestamp\": 3383,\n          \"stop_timestamp\": 3833\n        },\n        {\n          \"secondary_subgoal\": \"Retrieve and place ham and mushroom on the kitchen surface\",\n          \"start_timestamp\": 3983,\n          \"stop_timestamp\": 4355\n        },\n        {\n          \"secondary_subgoal\": \"Clean and cut the mushroom\",\n          \"start_timestamp\": 5124,\n          \"stop_timestamp\": 7120\n        },\n        {\n          \"secondary_subgoal\": \"Cut the ham\",\n          \"start_timestamp\": 8655,\n          \"stop_timestamp\": 9577\n        },\n        {\n          \"secondary_subgoal\": \"Place ham in the pan\",\n          \"start_timestamp\": 9632,\n          \"stop_timestamp\": 9796\n        },\n        {\n          \"secondary_subgoal\": \"Prepare rice and place it in the microwave\",\n          \"start_timestamp\": 10202,\n          \"stop_timestamp\": 10887\n        },\n        {\n          \"secondary_subgoal\": \"Clean utensils and place them in the kitchen rack\",\n          \"start_timestamp\": 14632,\n          \"stop_timestamp\": 15444\n        },\n        {\n          \"secondary_subgoal\": \"Wash the chopping board\",\n          \"start_timestamp\": 16053,\n          \"stop_timestamp\": 17052\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook the food\",\n      \"start_timestamp\": 18613,\n      \"stop_timestamp\": 21093,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turn on the cooker and begin stirring the food\",\n          \"start_timestamp\": 18613,\n          \"stop_timestamp\": 19376\n        },\n        {\n          \"secondary_subgoal\": \"Add ketchup to the food\",\n          \"start_timestamp\": 19432,\n          \"stop_timestamp\": 19583\n        },\n        {\n          \"secondary_subgoal\": \"Add more ketchup to the food\",\n          \"start_timestamp\": 20772,\n          \"stop_timestamp\": 20940\n        },\n        {\n          \"secondary_subgoal\": \"Turn off the cooker and stir the food\",\n          \"start_timestamp\": 20993,\n          \"stop_timestamp\": 21093\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3593,
+        "completion_tokens": 687,
+        "total_tokens": 4280
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

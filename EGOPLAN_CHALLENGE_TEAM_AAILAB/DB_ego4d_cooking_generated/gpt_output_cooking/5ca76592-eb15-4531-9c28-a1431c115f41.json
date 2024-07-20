@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgJmsuwYBotV252udU6c0A3Zbnn4",
+    "object": "chat.completion",
+    "created": 1719244490,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Prepare and cook spaghetti\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Gather necessary kitchen tools and utensils\",\n            \"start_timestamp\": 96,\n            \"stop_timestamp\": 350,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Open drawer and cabinet\",\n                    \"start_timestamp\": 96,\n                    \"stop_timestamp\": 175\n                },\n                {\n                    \"secondary_subgoal\": \"Get cooking utensils\",\n                    \"start_timestamp\": 175,\n                    \"stop_timestamp\": 350\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Prepare cooking pot and start cleaning\",\n            \"start_timestamp\": 350,\n            \"stop_timestamp\": 1295,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Open and get cooking pot\",\n                    \"start_timestamp\": 350,\n                    \"stop_timestamp\": 544\n                },\n                {\n                    \"secondary_subgoal\": \"Fill pot with water and start cleaning\",\n                    \"start_timestamp\": 544,\n                    \"stop_timestamp\": 1295\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Clean the pot and utensils\",\n            \"start_timestamp\": 1295,\n            \"stop_timestamp\": 1944,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Continue cleaning pot\",\n                    \"start_timestamp\": 1295,\n                    \"stop_timestamp\": 1926\n                },\n                {\n                    \"secondary_subgoal\": \"Wash hands and final rinsing\",\n                    \"start_timestamp\": 1926,\n                    \"stop_timestamp\": 1944\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Start cooking pasta\",\n            \"start_timestamp\": 2338,\n            \"stop_timestamp\": 7541,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Fill pot with water and cook pasta\",\n                    \"start_timestamp\": 2338,\n                    \"stop_timestamp\": 7008\n                },\n                {\n                    \"secondary_subgoal\": \"Prepare utensils and ingredients\",\n                    \"start_timestamp\": 7008,\n                    \"stop_timestamp\": 7541\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Prepare sauce\",\n            \"start_timestamp\": 7541,\n            \"stop_timestamp\": 17446,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Gather ingredients for sauce\",\n                    \"start_timestamp\": 7541,\n                    \"stop_timestamp\": 16516\n                },\n                {\n                    \"secondary_subgoal\": \"Mix sauce ingredients\",\n                    \"start_timestamp\": 16516,\n                    \"stop_timestamp\": 17446\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Serve pasta\",\n            \"start_timestamp\": 17499,\n            \"stop_timestamp\": 17652,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Adjust camera and operate tablet\",\n                    \"start_timestamp\": 17499,\n                    \"stop_timestamp\": 17652\n                }\n            ]\n        }\n    ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 5419,
+        "completion_tokens": 647,
+        "total_tokens": 6066
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

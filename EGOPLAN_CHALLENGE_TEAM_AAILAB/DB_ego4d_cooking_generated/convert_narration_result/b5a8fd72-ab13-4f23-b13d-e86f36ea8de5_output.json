@@ -1,0 +1,432 @@
+[
+    {
+        "task_goal": "Stir eggs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs eggs in a pot",
+                "start_frame": 50,
+                "stop_frame": 161
+            },
+            {
+                "narration_text": "Opens a fridge",
+                "start_frame": 161,
+                "stop_frame": 186
+            }
+        ]
+    },
+    {
+        "task_goal": "Open fridge and store item",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs eggs in a pot",
+                "start_frame": 50,
+                "stop_frame": 161
+            },
+            {
+                "narration_text": "Opens a fridge",
+                "start_frame": 161,
+                "stop_frame": 186
+            },
+            {
+                "narration_text": "Throws unsure in a fridge",
+                "start_frame": 186,
+                "stop_frame": 206
+            },
+            {
+                "narration_text": "Closes a fridge",
+                "start_frame": 206,
+                "stop_frame": 303
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 303,
+                "stop_frame": 330
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick items and place on chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes a fridge",
+                "start_frame": 206,
+                "stop_frame": 303
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 303,
+                "stop_frame": 330
+            },
+            {
+                "narration_text": "Picks unsure from a bowl",
+                "start_frame": 330,
+                "stop_frame": 359
+            },
+            {
+                "narration_text": "Picks unsure from a bowl",
+                "start_frame": 359,
+                "stop_frame": 393
+            },
+            {
+                "narration_text": "Places unsure on a chopping board",
+                "start_frame": 393,
+                "stop_frame": 453
+            },
+            {
+                "narration_text": "Picks a tomato from a bowl",
+                "start_frame": 453,
+                "stop_frame": 469
+            },
+            {
+                "narration_text": "Picks a tomato from a bowl",
+                "start_frame": 469,
+                "stop_frame": 495
+            },
+            {
+                "narration_text": "Touches unsure",
+                "start_frame": 495,
+                "stop_frame": 516
+            },
+            {
+                "narration_text": "Picks pasta",
+                "start_frame": 516,
+                "stop_frame": 528
+            },
+            {
+                "narration_text": "Puts pasta in a bowl",
+                "start_frame": 528,
+                "stop_frame": 567
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle pasta",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks pasta",
+                "start_frame": 516,
+                "stop_frame": 528
+            },
+            {
+                "narration_text": "Puts pasta in a bowl",
+                "start_frame": 528,
+                "stop_frame": 567
+            },
+            {
+                "narration_text": "Picks pasta",
+                "start_frame": 567,
+                "stop_frame": 617
+            },
+            {
+                "narration_text": "Puts a bowl on the kitchen worktop",
+                "start_frame": 617,
+                "stop_frame": 642
+            },
+            {
+                "narration_text": "Holds unsure",
+                "start_frame": 642,
+                "stop_frame": 655
+            },
+            {
+                "narration_text": "Places unsure on the chopping board",
+                "start_frame": 655,
+                "stop_frame": 661
+            },
+            {
+                "narration_text": "Puts pasta in a bowl",
+                "start_frame": 661,
+                "stop_frame": 690
+            },
+            {
+                "narration_text": "Picks pasta",
+                "start_frame": 690,
+                "stop_frame": 707
+            },
+            {
+                "narration_text": "Puts pasta in a bowl",
+                "start_frame": 707,
+                "stop_frame": 734
+            },
+            {
+                "narration_text": "Picks pasta",
+                "start_frame": 734,
+                "stop_frame": 746
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 746,
+                "stop_frame": 756
+            },
+            {
+                "narration_text": "Puts pasta in a bowl",
+                "start_frame": 756,
+                "stop_frame": 794
+            },
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 794,
+                "stop_frame": 839
+            }
+        ]
+    },
+    {
+        "task_goal": "Fill bowl with water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts pasta in a bowl",
+                "start_frame": 756,
+                "stop_frame": 794
+            },
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 794,
+                "stop_frame": 839
+            },
+            {
+                "narration_text": "Rinses left hand",
+                "start_frame": 839,
+                "stop_frame": 866
+            },
+            {
+                "narration_text": "Fills bowl with water",
+                "start_frame": 866,
+                "stop_frame": 897
+            },
+            {
+                "narration_text": "Shakes a bowl with water",
+                "start_frame": 897,
+                "stop_frame": 939
+            },
+            {
+                "narration_text": "Closes a tap",
+                "start_frame": 939,
+                "stop_frame": 971
+            },
+            {
+                "narration_text": "Places a bowl on the kitchen worktop",
+                "start_frame": 971,
+                "stop_frame": 1019
+            }
+        ]
+    },
+    {
+        "task_goal": "Place bowl on kitchen worktop",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes a tap",
+                "start_frame": 939,
+                "stop_frame": 971
+            },
+            {
+                "narration_text": "Places a bowl on the kitchen worktop",
+                "start_frame": 971,
+                "stop_frame": 1019
+            },
+            {
+                "narration_text": "Picks a bottle",
+                "start_frame": 1019,
+                "stop_frame": 1046
+            }
+        ]
+    },
+    {
+        "task_goal": "Drink water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places a bowl on the kitchen worktop",
+                "start_frame": 971,
+                "stop_frame": 1019
+            },
+            {
+                "narration_text": "Picks a bottle",
+                "start_frame": 1019,
+                "stop_frame": 1046
+            },
+            {
+                "narration_text": "Opens a bottle",
+                "start_frame": 1046,
+                "stop_frame": 1126
+            },
+            {
+                "narration_text": "Drinks water from a bottle",
+                "start_frame": 1126,
+                "stop_frame": 1230
+            },
+            {
+                "narration_text": "Closes a bottle",
+                "start_frame": 1230,
+                "stop_frame": 1279
+            },
+            {
+                "narration_text": "Puts a bottle on the kitchen worktop",
+                "start_frame": 1279,
+                "stop_frame": 1306
+            },
+            {
+                "narration_text": "Touches a box",
+                "start_frame": 1306,
+                "stop_frame": 1332
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle cucumbers and tomatoes",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts a bottle on the kitchen worktop",
+                "start_frame": 1279,
+                "stop_frame": 1306
+            },
+            {
+                "narration_text": "Touches a box",
+                "start_frame": 1306,
+                "stop_frame": 1332
+            },
+            {
+                "narration_text": "Picks a cucumber",
+                "start_frame": 1332,
+                "stop_frame": 1358
+            },
+            {
+                "narration_text": "Picks a tomato",
+                "start_frame": 1358,
+                "stop_frame": 1369
+            },
+            {
+                "narration_text": "Places a tomato on the chopping board",
+                "start_frame": 1369,
+                "stop_frame": 1375
+            },
+            {
+                "narration_text": "Places a cucumber on the chopping board",
+                "start_frame": 1375,
+                "stop_frame": 1395
+            },
+            {
+                "narration_text": "Touches a box",
+                "start_frame": 1395,
+                "stop_frame": 1411
+            },
+            {
+                "narration_text": "Picks a cucumber",
+                "start_frame": 1411,
+                "stop_frame": 1422
+            },
+            {
+                "narration_text": "Places a cucumber on the chopping board",
+                "start_frame": 1422,
+                "stop_frame": 1452
+            },
+            {
+                "narration_text": "Pulls a polythene wrapper",
+                "start_frame": 1452,
+                "stop_frame": 1463
+            }
+        ]
+    },
+    {
+        "task_goal": "Wrap cucumber and store in fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places a cucumber on the chopping board",
+                "start_frame": 1422,
+                "stop_frame": 1452
+            },
+            {
+                "narration_text": "Pulls a polythene wrapper",
+                "start_frame": 1452,
+                "stop_frame": 1463
+            },
+            {
+                "narration_text": "Cuts a polythene wrapper",
+                "start_frame": 1463,
+                "stop_frame": 1475
+            },
+            {
+                "narration_text": "Puts a polythene wrapper on the kitchen worktop",
+                "start_frame": 1475,
+                "stop_frame": 1493
+            },
+            {
+                "narration_text": "Picks a cucumber",
+                "start_frame": 1493,
+                "stop_frame": 1512
+            },
+            {
+                "narration_text": "Wraps the cucumber with a polythene wrapper",
+                "start_frame": 1512,
+                "stop_frame": 1619
+            },
+            {
+                "narration_text": "Opens a fridge",
+                "start_frame": 1619,
+                "stop_frame": 1656
+            },
+            {
+                "narration_text": "Puts a cucumber in a fridge",
+                "start_frame": 1656,
+                "stop_frame": 1702
+            },
+            {
+                "narration_text": "Closes a fridge",
+                "start_frame": 1702,
+                "stop_frame": 1741
+            },
+            {
+                "narration_text": "Opens a fridge",
+                "start_frame": 1741,
+                "stop_frame": 2024
+            }
+        ]
+    },
+    {
+        "task_goal": "Open fridge and handle crisper drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes a fridge",
+                "start_frame": 1702,
+                "stop_frame": 1741
+            },
+            {
+                "narration_text": "Opens a fridge",
+                "start_frame": 1741,
+                "stop_frame": 2024
+            },
+            {
+                "narration_text": "Pulls a crisper drawer",
+                "start_frame": 2024,
+                "stop_frame": 2092
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 2092,
+                "stop_frame": 2280
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 2280,
+                "stop_frame": 2310
+            },
+            {
+                "narration_text": "Handles a camera",
+                "start_frame": 2310,
+                "stop_frame": 2410
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle camera",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 2280,
+                "stop_frame": 2310
+            },
+            {
+                "narration_text": "Handles a camera",
+                "start_frame": 2310,
+                "stop_frame": 2410
+            }
+        ]
+    }
+]

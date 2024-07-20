@@ -1,0 +1,166 @@
+{
+    "overall_goal": "Cleaning up kitchen utensils and workspace after cooking",
+    "clips": [
+        {
+            "subgoal": "Cleaning spatula",
+            "start_timestamp": "0",
+            "stop_timestamp": "1236",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing spatula with scrubbing sponge",
+                    "start_timestamp": "0",
+                    "stop_timestamp": "506"
+                },
+                {
+                    "secondary_subgoal": "Placing scrubbing sponge on the bench",
+                    "start_timestamp": "506",
+                    "stop_timestamp": "516"
+                },
+                {
+                    "secondary_subgoal": "Placing spatula on the sink",
+                    "start_timestamp": "516",
+                    "stop_timestamp": "521"
+                },
+                {
+                    "secondary_subgoal": "Opening the tap",
+                    "start_timestamp": "521",
+                    "stop_timestamp": "534"
+                },
+                {
+                    "secondary_subgoal": "Picking and rinsing spoon and hand",
+                    "start_timestamp": "534",
+                    "stop_timestamp": "793"
+                },
+                {
+                    "secondary_subgoal": "Closing sink and placing spoon in cutlery holder",
+                    "start_timestamp": "793",
+                    "stop_timestamp": "836"
+                },
+                {
+                    "secondary_subgoal": "Picking and rinsing spatula",
+                    "start_timestamp": "836",
+                    "stop_timestamp": "1140"
+                },
+                {
+                    "secondary_subgoal": "Holding the tap",
+                    "start_timestamp": "1140",
+                    "stop_timestamp": "1156"
+                },
+                {
+                    "secondary_subgoal": "Placing spatula in the dish rack",
+                    "start_timestamp": "1156",
+                    "stop_timestamp": "1236"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning cooking pan",
+            "start_timestamp": "1236",
+            "stop_timestamp": "3385",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing cooking pan with scrubbing sponge",
+                    "start_timestamp": "1236",
+                    "stop_timestamp": "2034"
+                },
+                {
+                    "secondary_subgoal": "Handling the cooking pan",
+                    "start_timestamp": "2034",
+                    "stop_timestamp": "2039"
+                },
+                {
+                    "secondary_subgoal": "Exchanging hand holding scrubbing sponge",
+                    "start_timestamp": "2039",
+                    "stop_timestamp": "2056"
+                },
+                {
+                    "secondary_subgoal": "Turning and opening tap",
+                    "start_timestamp": "2056",
+                    "stop_timestamp": "2076"
+                },
+                {
+                    "secondary_subgoal": "Rinsing scrubbing sponge",
+                    "start_timestamp": "2076",
+                    "stop_timestamp": "2416"
+                },
+                {
+                    "secondary_subgoal": "Placing scrubbing sponge in holder",
+                    "start_timestamp": "2416",
+                    "stop_timestamp": "2438"
+                },
+                {
+                    "secondary_subgoal": "Rinsing hands and picking the cooking pan",
+                    "start_timestamp": "2438",
+                    "stop_timestamp": "2496"
+                },
+                {
+                    "secondary_subgoal": "Pouring water in the sink and rinsing cooking pan",
+                    "start_timestamp": "2496",
+                    "stop_timestamp": "2965"
+                },
+                {
+                    "secondary_subgoal": "Holding and wiping cooking pan with dish cloth",
+                    "start_timestamp": "2965",
+                    "stop_timestamp": "3290"
+                },
+                {
+                    "secondary_subgoal": "Wiping bench with dish cloth",
+                    "start_timestamp": "3290",
+                    "stop_timestamp": "3368"
+                },
+                {
+                    "secondary_subgoal": "Placing cooking pan on cooker",
+                    "start_timestamp": "3368",
+                    "stop_timestamp": "3385"
+                }
+            ]
+        },
+        {
+            "subgoal": "Completing final touches in the kitchen",
+            "start_timestamp": "3385",
+            "stop_timestamp": "4426",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Operating unknown equipment",
+                    "start_timestamp": "3385",
+                    "stop_timestamp": "3467"
+                },
+                {
+                    "secondary_subgoal": "Picking dish cloth and wiping bench",
+                    "start_timestamp": "3467",
+                    "stop_timestamp": "3497"
+                },
+                {
+                    "secondary_subgoal": "Handling sponge holder and bottle",
+                    "start_timestamp": "3497",
+                    "stop_timestamp": "3574"
+                },
+                {
+                    "secondary_subgoal": "Wiping various surfaces with dish cloth",
+                    "start_timestamp": "3574",
+                    "stop_timestamp": "3809"
+                },
+                {
+                    "secondary_subgoal": "Squeezing and unfolding dish cloth",
+                    "start_timestamp": "3809",
+                    "stop_timestamp": "3930"
+                },
+                {
+                    "secondary_subgoal": "Cleaning bench and handling lid",
+                    "start_timestamp": "3930",
+                    "stop_timestamp": "4041"
+                },
+                {
+                    "secondary_subgoal": "Covering and inspecting pancake",
+                    "start_timestamp": "4041",
+                    "stop_timestamp": "4291"
+                },
+                {
+                    "secondary_subgoal": "Adjusting short and fixing camera",
+                    "start_timestamp": "4291",
+                    "stop_timestamp": "4426"
+                }
+            ]
+        }
+    ]
+}

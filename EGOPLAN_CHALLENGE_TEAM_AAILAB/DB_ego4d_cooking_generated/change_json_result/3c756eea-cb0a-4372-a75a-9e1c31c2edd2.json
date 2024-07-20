@@ -1,0 +1,152 @@
+{
+    "overall_goal": "Clean and organize kitchen items and store prepared food in storage cans and freezer",
+    "clips": [
+        {
+            "subgoal": "Preparation of the cleaning workspace",
+            "start_timestamp": 22,
+            "stop_timestamp": 237,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move around the kitchen to prepare",
+                    "start_timestamp": 22,
+                    "stop_timestamp": 60
+                },
+                {
+                    "secondary_subgoal": "Open up the tap",
+                    "start_timestamp": 60,
+                    "stop_timestamp": 131
+                },
+                {
+                    "secondary_subgoal": "Move a lid in the sink",
+                    "start_timestamp": 131,
+                    "stop_timestamp": 174
+                },
+                {
+                    "secondary_subgoal": "Walk around the kitchen",
+                    "start_timestamp": 174,
+                    "stop_timestamp": 237
+                }
+            ]
+        },
+        {
+            "subgoal": "Collecting and organizing storage cans",
+            "start_timestamp": 237,
+            "stop_timestamp": 1324,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and close shelves",
+                    "start_timestamp": 237,
+                    "stop_timestamp": 426
+                },
+                {
+                    "secondary_subgoal": "Handling storage cans",
+                    "start_timestamp": 426,
+                    "stop_timestamp": 668
+                },
+                {
+                    "secondary_subgoal": "Walking and picking up items",
+                    "start_timestamp": 668,
+                    "stop_timestamp": 1465
+                },
+                {
+                    "secondary_subgoal": "Unwrapping paper and adjusting storage cans",
+                    "start_timestamp": 828,
+                    "stop_timestamp": 1180
+                },
+                {
+                    "secondary_subgoal": "Scooping food and filling storage cans",
+                    "start_timestamp": 1232,
+                    "stop_timestamp": 1324
+                }
+            ]
+        },
+        {
+            "subgoal": "Storing food in freezer",
+            "start_timestamp": 1324,
+            "stop_timestamp": 4406,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up and unwrap papers",
+                    "start_timestamp": 1418,
+                    "stop_timestamp": 1548
+                },
+                {
+                    "secondary_subgoal": "Adjust piece of paper on storage cans",
+                    "start_timestamp": 1581,
+                    "stop_timestamp": 2005
+                },
+                {
+                    "secondary_subgoal": "Scooping food from a pot and filling storage cans",
+                    "start_timestamp": 2005,
+                    "stop_timestamp": 3373
+                },
+                {
+                    "secondary_subgoal": "Putting a lid on storage cans and organizing them",
+                    "start_timestamp": 3419,
+                    "stop_timestamp": 4310
+                },
+                {
+                    "secondary_subgoal": "Storing storage cans in a freezer",
+                    "start_timestamp": 4310,
+                    "stop_timestamp": 4406
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing utensils and organizing kitchen items",
+            "start_timestamp": 4406,
+            "stop_timestamp": 7247,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash hands and start cleaning utensils",
+                    "start_timestamp": 4406,
+                    "stop_timestamp": 4900
+                },
+                {
+                    "secondary_subgoal": "Cleaning and drying various utensils",
+                    "start_timestamp": 4911,
+                    "stop_timestamp": 7087
+                },
+                {
+                    "secondary_subgoal": "Organize and store clean utensils",
+                    "start_timestamp": 7087,
+                    "stop_timestamp": 7247
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing and drying kitchen towels",
+            "start_timestamp": 7247,
+            "stop_timestamp": 10725,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash, squeeze and rinse towels",
+                    "start_timestamp": 7247,
+                    "stop_timestamp": 10725
+                }
+            ]
+        },
+        {
+            "subgoal": "Final cleaning of kitchen surfaces, sinks, and remaining utensils",
+            "start_timestamp": 10725,
+            "stop_timestamp": 16541,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash remaining utensils",
+                    "start_timestamp": 10725,
+                    "stop_timestamp": 12894
+                },
+                {
+                    "secondary_subgoal": "Clean and wipe surfaces and sink",
+                    "start_timestamp": 12894,
+                    "stop_timestamp": 14904
+                },
+                {
+                    "secondary_subgoal": "Final cleaning and storage organization",
+                    "start_timestamp": 14904,
+                    "stop_timestamp": 16541
+                }
+            ]
+        }
+    ]
+}

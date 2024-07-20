@@ -1,0 +1,376 @@
+[
+    {
+        "task_goal": "Stir and regulate food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 21,
+                "stop_frame": 247
+            },
+            {
+                "narration_text": "#C C regulates fire",
+                "start_frame": 247,
+                "stop_frame": 362
+            },
+            {
+                "narration_text": "#C C picks the sachet",
+                "start_frame": 362,
+                "stop_frame": 425
+            },
+            {
+                "narration_text": "#C C opens the sachet",
+                "start_frame": 425,
+                "stop_frame": 537
+            }
+        ]
+    },
+    {
+        "task_goal": "Open sachet and pour spices",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the sachet",
+                "start_frame": 362,
+                "stop_frame": 425
+            },
+            {
+                "narration_text": "#C C opens the sachet",
+                "start_frame": 425,
+                "stop_frame": 537
+            },
+            {
+                "narration_text": "#C C drops the litter",
+                "start_frame": 537,
+                "stop_frame": 757
+            },
+            {
+                "narration_text": "#C C pours the spice",
+                "start_frame": 757,
+                "stop_frame": 936
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 936,
+                "stop_frame": 1131
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food and pour more spices",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pours the spice",
+                "start_frame": 757,
+                "stop_frame": 936
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 936,
+                "stop_frame": 1131
+            },
+            {
+                "narration_text": "#C C pours the spice",
+                "start_frame": 1131,
+                "stop_frame": 1309
+            },
+            {
+                "narration_text": "#C C picks the salad",
+                "start_frame": 1309,
+                "stop_frame": 1348
+            },
+            {
+                "narration_text": "#C C puts salad in an empty sachet",
+                "start_frame": 1348,
+                "stop_frame": 1676
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare and add salad",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the salad",
+                "start_frame": 1309,
+                "stop_frame": 1348
+            },
+            {
+                "narration_text": "#C C puts salad in an empty sachet",
+                "start_frame": 1348,
+                "stop_frame": 1676
+            },
+            {
+                "narration_text": "#C C pours the salad",
+                "start_frame": 1676,
+                "stop_frame": 2160
+            },
+            {
+                "narration_text": "#C C drops the sachet",
+                "start_frame": 2160,
+                "stop_frame": 2178
+            },
+            {
+                "narration_text": "#C C picks the salad",
+                "start_frame": 2178,
+                "stop_frame": 2191
+            },
+            {
+                "narration_text": "#C C regulates fire",
+                "start_frame": 2191,
+                "stop_frame": 2294
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 2294,
+                "stop_frame": 2301
+            },
+            {
+                "narration_text": "#C C pours the salad",
+                "start_frame": 2301,
+                "stop_frame": 2521
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 2521,
+                "stop_frame": 2568
+            }
+        ]
+    },
+    {
+        "task_goal": "Regulate fire, stir and add more salad",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pours the salad",
+                "start_frame": 2301,
+                "stop_frame": 2521
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 2521,
+                "stop_frame": 2568
+            },
+            {
+                "narration_text": "#C C regulates the fire",
+                "start_frame": 2568,
+                "stop_frame": 2624
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 2624,
+                "stop_frame": 2643
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 2643,
+                "stop_frame": 2680
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash hands and wipe the kitchen",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 2624,
+                "stop_frame": 2643
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 2643,
+                "stop_frame": 2680
+            },
+            {
+                "narration_text": "#C C washes the hands",
+                "start_frame": 2680,
+                "stop_frame": 2803
+            },
+            {
+                "narration_text": "#C C wipes the kitchen",
+                "start_frame": 2803,
+                "stop_frame": 2849
+            },
+            {
+                "narration_text": "#C C washes the hands",
+                "start_frame": 2849,
+                "stop_frame": 3045
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 3045,
+                "stop_frame": 3970
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food, regulate fire, and handle chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C washes the hands",
+                "start_frame": 2849,
+                "stop_frame": 3045
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 3045,
+                "stop_frame": 3970
+            },
+            {
+                "narration_text": "#C C regulates the fire",
+                "start_frame": 3970,
+                "stop_frame": 4055
+            },
+            {
+                "narration_text": "#C C lifts the chopping board",
+                "start_frame": 4055,
+                "stop_frame": 4119
+            },
+            {
+                "narration_text": "#C C drops the chopping board",
+                "start_frame": 4119,
+                "stop_frame": 4216
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 4216,
+                "stop_frame": 4650
+            }
+        ]
+    },
+    {
+        "task_goal": "Taste and stir food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C drops the chopping board",
+                "start_frame": 4119,
+                "stop_frame": 4216
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 4216,
+                "stop_frame": 4650
+            },
+            {
+                "narration_text": "#C C tastes the food",
+                "start_frame": 4650,
+                "stop_frame": 4826
+            },
+            {
+                "narration_text": "#C C picks the food particle",
+                "start_frame": 4826,
+                "stop_frame": 4845
+            },
+            {
+                "narration_text": "#C C tastes the food particle",
+                "start_frame": 4845,
+                "stop_frame": 4901
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 4901,
+                "stop_frame": 5532
+            },
+            {
+                "narration_text": "#C C lifts the food",
+                "start_frame": 5532,
+                "stop_frame": 5545
+            },
+            {
+                "narration_text": "#C C drops the food",
+                "start_frame": 5545,
+                "stop_frame": 5641
+            },
+            {
+                "narration_text": "#C C tastes the food",
+                "start_frame": 5641,
+                "stop_frame": 5769
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 5769,
+                "stop_frame": 6111
+            },
+            {
+                "narration_text": "#C C regulates the fire",
+                "start_frame": 6111,
+                "stop_frame": 6249
+            }
+        ]
+    },
+    {
+        "task_goal": "Regulate fire and drop chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 5769,
+                "stop_frame": 6111
+            },
+            {
+                "narration_text": "#C C regulates the fire",
+                "start_frame": 6111,
+                "stop_frame": 6249
+            },
+            {
+                "narration_text": "#C C drops the chopsticks",
+                "start_frame": 6249,
+                "stop_frame": 6278
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 6278,
+                "stop_frame": 6288
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash and drop chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 6278,
+                "stop_frame": 6288
+            },
+            {
+                "narration_text": "#C C washes the chopping board",
+                "start_frame": 6288,
+                "stop_frame": 6437
+            },
+            {
+                "narration_text": "#C C washes the plate",
+                "start_frame": 6437,
+                "stop_frame": 6564
+            },
+            {
+                "narration_text": "#C C shakes the food",
+                "start_frame": 6564,
+                "stop_frame": 6564
+            },
+            {
+                "narration_text": "#C C picks the chopsticks",
+                "start_frame": 6564,
+                "stop_frame": 6733
+            },
+            {
+                "narration_text": "#C C drops the pan",
+                "start_frame": 6733,
+                "stop_frame": 6740
+            },
+            {
+                "narration_text": "#C C drops the chopsticks",
+                "start_frame": 6740,
+                "stop_frame": 6770
+            },
+            {
+                "narration_text": "#C C picks the dishcloth",
+                "start_frame": 6770,
+                "stop_frame": 6770
+            },
+            {
+                "narration_text": "#C C washes the dishes",
+                "start_frame": 6770,
+                "stop_frame": 6888
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse hands and touch phone",
+        "task_progress_metadata": []
+    }
+]

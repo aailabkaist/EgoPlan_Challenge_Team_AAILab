@@ -1,0 +1,1817 @@
+[
+    {
+        "task_goal": "Adjusting camera",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Adjusts the camera",
+                "start_frame": 1,
+                "stop_frame": 64
+            },
+            {
+                "narration_text": "Turns the tap",
+                "start_frame": 64,
+                "stop_frame": 84
+            }
+        ]
+    },
+    {
+        "task_goal": "Turning on the tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Adjusts the camera",
+                "start_frame": 1,
+                "stop_frame": 64
+            },
+            {
+                "narration_text": "Turns the tap",
+                "start_frame": 64,
+                "stop_frame": 84
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 84,
+                "stop_frame": 103
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening the tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns the tap",
+                "start_frame": 64,
+                "stop_frame": 84
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 84,
+                "stop_frame": 103
+            },
+            {
+                "narration_text": "Takes the scrub sponge",
+                "start_frame": 103,
+                "stop_frame": 133
+            }
+        ]
+    },
+    {
+        "task_goal": "Taking and washing the scrub sponge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 84,
+                "stop_frame": 103
+            },
+            {
+                "narration_text": "Takes the scrub sponge",
+                "start_frame": 103,
+                "stop_frame": 133
+            },
+            {
+                "narration_text": "Washes the scrub sponge",
+                "start_frame": 133,
+                "stop_frame": 219
+            },
+            {
+                "narration_text": "Takes the soap bottle",
+                "start_frame": 219,
+                "stop_frame": 263
+            }
+        ]
+    },
+    {
+        "task_goal": "Taking the soap bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the scrub sponge",
+                "start_frame": 133,
+                "stop_frame": 219
+            },
+            {
+                "narration_text": "Takes the soap bottle",
+                "start_frame": 219,
+                "stop_frame": 263
+            },
+            {
+                "narration_text": "Puts the soap on the scrub sponge",
+                "start_frame": 263,
+                "stop_frame": 303
+            }
+        ]
+    },
+    {
+        "task_goal": "Adding soap to the scrub sponge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the soap bottle",
+                "start_frame": 219,
+                "stop_frame": 263
+            },
+            {
+                "narration_text": "Puts the soap on the scrub sponge",
+                "start_frame": 263,
+                "stop_frame": 303
+            },
+            {
+                "narration_text": "Puts down the soap bottle",
+                "start_frame": 303,
+                "stop_frame": 330
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting down the soap bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the soap on the scrub sponge",
+                "start_frame": 263,
+                "stop_frame": 303
+            },
+            {
+                "narration_text": "Puts down the soap bottle",
+                "start_frame": 303,
+                "stop_frame": 330
+            },
+            {
+                "narration_text": "Rotates the tap",
+                "start_frame": 330,
+                "stop_frame": 373
+            }
+        ]
+    },
+    {
+        "task_goal": "Rotating the tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down the soap bottle",
+                "start_frame": 303,
+                "stop_frame": 330
+            },
+            {
+                "narration_text": "Rotates the tap",
+                "start_frame": 330,
+                "stop_frame": 373
+            },
+            {
+                "narration_text": "Washes the tap",
+                "start_frame": 373,
+                "stop_frame": 418
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing the tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rotates the tap",
+                "start_frame": 330,
+                "stop_frame": 373
+            },
+            {
+                "narration_text": "Washes the tap",
+                "start_frame": 373,
+                "stop_frame": 418
+            },
+            {
+                "narration_text": "Takes the chop sticks",
+                "start_frame": 418,
+                "stop_frame": 505
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing chop sticks and spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the tap",
+                "start_frame": 373,
+                "stop_frame": 418
+            },
+            {
+                "narration_text": "Takes the chop sticks",
+                "start_frame": 418,
+                "stop_frame": 505
+            },
+            {
+                "narration_text": "Washes the chop sticks",
+                "start_frame": 505,
+                "stop_frame": 519
+            },
+            {
+                "narration_text": "Puts down the chop sticks",
+                "start_frame": 519,
+                "stop_frame": 533
+            },
+            {
+                "narration_text": "Takes the spoon",
+                "start_frame": 533,
+                "stop_frame": 566
+            },
+            {
+                "narration_text": "Washes the spoon",
+                "start_frame": 566,
+                "stop_frame": 627
+            },
+            {
+                "narration_text": "Puts down the spoon",
+                "start_frame": 627,
+                "stop_frame": 638
+            }
+        ]
+    },
+    {
+        "task_goal": "Taking the chop sticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the tap",
+                "start_frame": 373,
+                "stop_frame": 418
+            },
+            {
+                "narration_text": "Takes the chop sticks",
+                "start_frame": 418,
+                "stop_frame": 505
+            },
+            {
+                "narration_text": "Washes the chop sticks",
+                "start_frame": 505,
+                "stop_frame": 519
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing the chop sticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the chop sticks",
+                "start_frame": 418,
+                "stop_frame": 505
+            },
+            {
+                "narration_text": "Washes the chop sticks",
+                "start_frame": 505,
+                "stop_frame": 519
+            },
+            {
+                "narration_text": "Puts down the chop sticks",
+                "start_frame": 519,
+                "stop_frame": 533
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting down the chop sticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the chop sticks",
+                "start_frame": 505,
+                "stop_frame": 519
+            },
+            {
+                "narration_text": "Puts down the chop sticks",
+                "start_frame": 519,
+                "stop_frame": 533
+            },
+            {
+                "narration_text": "Takes the spoon",
+                "start_frame": 533,
+                "stop_frame": 566
+            }
+        ]
+    },
+    {
+        "task_goal": "Taking the spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down the chop sticks",
+                "start_frame": 519,
+                "stop_frame": 533
+            },
+            {
+                "narration_text": "Takes the spoon",
+                "start_frame": 533,
+                "stop_frame": 566
+            },
+            {
+                "narration_text": "Washes the spoon",
+                "start_frame": 566,
+                "stop_frame": 627
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing the spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the spoon",
+                "start_frame": 533,
+                "stop_frame": 566
+            },
+            {
+                "narration_text": "Washes the spoon",
+                "start_frame": 566,
+                "stop_frame": 627
+            },
+            {
+                "narration_text": "Puts down the spoon",
+                "start_frame": 627,
+                "stop_frame": 638
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing various bowls and putting them down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the spoon",
+                "start_frame": 566,
+                "stop_frame": 627
+            },
+            {
+                "narration_text": "Puts down the spoon",
+                "start_frame": 627,
+                "stop_frame": 638
+            },
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 638,
+                "stop_frame": 694
+            },
+            {
+                "narration_text": "Washes the bowl",
+                "start_frame": 694,
+                "stop_frame": 782
+            },
+            {
+                "narration_text": "Puts down the bowl",
+                "start_frame": 782,
+                "stop_frame": 819
+            },
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 819,
+                "stop_frame": 845
+            },
+            {
+                "narration_text": "Washes the bowl",
+                "start_frame": 845,
+                "stop_frame": 893
+            },
+            {
+                "narration_text": "Drops the bowl in the sink",
+                "start_frame": 893,
+                "stop_frame": 916
+            },
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 916,
+                "stop_frame": 941
+            },
+            {
+                "narration_text": "Washes the bowl",
+                "start_frame": 941,
+                "stop_frame": 999
+            },
+            {
+                "narration_text": "Puts down the bowl",
+                "start_frame": 999,
+                "stop_frame": 1031
+            },
+            {
+                "narration_text": "Pours the water in the sink",
+                "start_frame": 1031,
+                "stop_frame": 1059
+            }
+        ]
+    },
+    {
+        "task_goal": "Taking and washing a bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the spoon",
+                "start_frame": 566,
+                "stop_frame": 627
+            },
+            {
+                "narration_text": "Puts down the spoon",
+                "start_frame": 627,
+                "stop_frame": 638
+            },
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 638,
+                "stop_frame": 694
+            },
+            {
+                "narration_text": "Washes the bowl",
+                "start_frame": 694,
+                "stop_frame": 782
+            },
+            {
+                "narration_text": "Puts down the bowl",
+                "start_frame": 782,
+                "stop_frame": 819
+            }
+        ]
+    },
+    {
+        "task_goal": "Taking, washing, and dropping another bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down the bowl",
+                "start_frame": 782,
+                "stop_frame": 819
+            },
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 819,
+                "stop_frame": 845
+            },
+            {
+                "narration_text": "Washes the bowl",
+                "start_frame": 845,
+                "stop_frame": 893
+            },
+            {
+                "narration_text": "Drops the bowl in the sink",
+                "start_frame": 893,
+                "stop_frame": 916
+            },
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 916,
+                "stop_frame": 941
+            }
+        ]
+    },
+    {
+        "task_goal": "Taking and washing yet another bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 916,
+                "stop_frame": 941
+            },
+            {
+                "narration_text": "Washes the bowl",
+                "start_frame": 941,
+                "stop_frame": 999
+            },
+            {
+                "narration_text": "Puts down the bowl",
+                "start_frame": 999,
+                "stop_frame": 1031
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting down the bowls",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the bowl",
+                "start_frame": 941,
+                "stop_frame": 999
+            },
+            {
+                "narration_text": "Puts down the bowl",
+                "start_frame": 999,
+                "stop_frame": 1031
+            },
+            {
+                "narration_text": "Pours the water in the sink",
+                "start_frame": 1031,
+                "stop_frame": 1059
+            }
+        ]
+    },
+    {
+        "task_goal": "Cleaning the cutting board and knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down the bowl",
+                "start_frame": 999,
+                "stop_frame": 1031
+            },
+            {
+                "narration_text": "Pours the water in the sink",
+                "start_frame": 1031,
+                "stop_frame": 1059
+            },
+            {
+                "narration_text": "Cleans the bowl",
+                "start_frame": 1059,
+                "stop_frame": 1156
+            },
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 1156,
+                "stop_frame": 1173
+            },
+            {
+                "narration_text": "Puts down the bowl",
+                "start_frame": 1173,
+                "stop_frame": 1192
+            },
+            {
+                "narration_text": "Takes the knife",
+                "start_frame": 1192,
+                "stop_frame": 1227
+            },
+            {
+                "narration_text": "Washes the knife",
+                "start_frame": 1227,
+                "stop_frame": 1289
+            },
+            {
+                "narration_text": "Puts down the knife",
+                "start_frame": 1289,
+                "stop_frame": 1309
+            },
+            {
+                "narration_text": "Takes the cutting board",
+                "start_frame": 1309,
+                "stop_frame": 1329
+            },
+            {
+                "narration_text": "Cleans the cutting board",
+                "start_frame": 1329,
+                "stop_frame": 1414
+            },
+            {
+                "narration_text": "Puts down the cutting board",
+                "start_frame": 1414,
+                "stop_frame": 1476
+            }
+        ]
+    },
+    {
+        "task_goal": "Cleaning the cutting board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the cutting board",
+                "start_frame": 1309,
+                "stop_frame": 1329
+            },
+            {
+                "narration_text": "Cleans the cutting board",
+                "start_frame": 1329,
+                "stop_frame": 1414
+            },
+            {
+                "narration_text": "Puts down the cutting board",
+                "start_frame": 1414,
+                "stop_frame": 1476
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting down the cutting board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans the cutting board",
+                "start_frame": 1329,
+                "stop_frame": 1414
+            },
+            {
+                "narration_text": "Puts down the cutting board",
+                "start_frame": 1414,
+                "stop_frame": 1476
+            },
+            {
+                "narration_text": "Takes the plate",
+                "start_frame": 1476,
+                "stop_frame": 1525
+            }
+        ]
+    },
+    {
+        "task_goal": "Taking, washing, and putting down the knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the knife",
+                "start_frame": 1192,
+                "stop_frame": 1227
+            },
+            {
+                "narration_text": "Washes the knife",
+                "start_frame": 1227,
+                "stop_frame": 1289
+            },
+            {
+                "narration_text": "Puts down the knife",
+                "start_frame": 1289,
+                "stop_frame": 1309
+            },
+            {
+                "narration_text": "Takes the cutting board",
+                "start_frame": 1309,
+                "stop_frame": 1329
+            },
+            {
+                "narration_text": "Cleans the cutting board",
+                "start_frame": 1329,
+                "stop_frame": 1414
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing and scrubbing a plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the plate",
+                "start_frame": 1476,
+                "stop_frame": 1525
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 1525,
+                "stop_frame": 1560
+            },
+            {
+                "narration_text": "Washes the plate",
+                "start_frame": 1560,
+                "stop_frame": 1583
+            },
+            {
+                "narration_text": "Touches the tap",
+                "start_frame": 1583,
+                "stop_frame": 1611
+            },
+            {
+                "narration_text": "Takes the scrub sponge",
+                "start_frame": 1611,
+                "stop_frame": 1638
+            },
+            {
+                "narration_text": "Scrubs the plate",
+                "start_frame": 1638,
+                "stop_frame": 1747
+            },
+            {
+                "narration_text": "Puts down the plate",
+                "start_frame": 1747,
+                "stop_frame": 1777
+            },
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 1777,
+                "stop_frame": 1814
+            }
+        ]
+    },
+    {
+        "task_goal": "Taking the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the plate",
+                "start_frame": 1476,
+                "stop_frame": 1525
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 1525,
+                "stop_frame": 1560
+            },
+            {
+                "narration_text": "Washes the plate",
+                "start_frame": 1560,
+                "stop_frame": 1583
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening the tap and washing the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 1525,
+                "stop_frame": 1560
+            },
+            {
+                "narration_text": "Washes the plate",
+                "start_frame": 1560,
+                "stop_frame": 1583
+            },
+            {
+                "narration_text": "Touches the tap",
+                "start_frame": 1583,
+                "stop_frame": 1611
+            }
+        ]
+    },
+    {
+        "task_goal": "Touching the tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the plate",
+                "start_frame": 1560,
+                "stop_frame": 1583
+            },
+            {
+                "narration_text": "Touches the tap",
+                "start_frame": 1583,
+                "stop_frame": 1611
+            },
+            {
+                "narration_text": "Takes the scrub sponge",
+                "start_frame": 1611,
+                "stop_frame": 1638
+            }
+        ]
+    },
+    {
+        "task_goal": "Taking and scrubbing the plate with the scrub sponge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the scrub sponge",
+                "start_frame": 1611,
+                "stop_frame": 1638
+            },
+            {
+                "narration_text": "Scrubs the plate",
+                "start_frame": 1638,
+                "stop_frame": 1747
+            },
+            {
+                "narration_text": "Puts down the plate",
+                "start_frame": 1747,
+                "stop_frame": 1777
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting down the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Scrubs the plate",
+                "start_frame": 1638,
+                "stop_frame": 1747
+            },
+            {
+                "narration_text": "Puts down the plate",
+                "start_frame": 1747,
+                "stop_frame": 1777
+            },
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 1777,
+                "stop_frame": 1814
+            }
+        ]
+    },
+    {
+        "task_goal": "Cleaning the trash",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the trash bag",
+                "start_frame": 6772,
+                "stop_frame": 6989
+            },
+            {
+                "narration_text": "Closes the trash bag",
+                "start_frame": 6989,
+                "stop_frame": 7291
+            },
+            {
+                "narration_text": "Puts the trash in the trash bin",
+                "start_frame": 7291,
+                "stop_frame": 7383
+            },
+            {
+                "narration_text": "Takes the hand towel",
+                "start_frame": 7383,
+                "stop_frame": 7395
+            },
+            {
+                "narration_text": "Wipes her hand",
+                "start_frame": 7395,
+                "stop_frame": 7431
+            },
+            {
+                "narration_text": "Takes the hand towel",
+                "start_frame": 7431,
+                "stop_frame": 7454
+            }
+        ]
+    },
+    {
+        "task_goal": "Taking the trash bag",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the trash bag",
+                "start_frame": 6772,
+                "stop_frame": 6989
+            },
+            {
+                "narration_text": "Closes the trash bag",
+                "start_frame": 6989,
+                "stop_frame": 7291
+            },
+            {
+                "narration_text": "Puts the trash in the trash bin",
+                "start_frame": 7291,
+                "stop_frame": 7383
+            }
+        ]
+    },
+    {
+        "task_goal": "Closing the trash bag and putting it in the trash bin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the trash bag",
+                "start_frame": 6989,
+                "stop_frame": 7291
+            },
+            {
+                "narration_text": "Puts the trash in the trash bin",
+                "start_frame": 7291,
+                "stop_frame": 7383
+            },
+            {
+                "narration_text": "Takes the hand towel",
+                "start_frame": 7383,
+                "stop_frame": 7395
+            },
+            {
+                "narration_text": "Wipes her hand",
+                "start_frame": 7395,
+                "stop_frame": 7431
+            }
+        ]
+    },
+    {
+        "task_goal": "Wiping hands with a hand towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the hand towel",
+                "start_frame": 7383,
+                "stop_frame": 7395
+            },
+            {
+                "narration_text": "Wipes her hand",
+                "start_frame": 7395,
+                "stop_frame": 7431
+            },
+            {
+                "narration_text": "Takes the hand towel",
+                "start_frame": 7431,
+                "stop_frame": 7454
+            }
+        ]
+    },
+    {
+        "task_goal": "Drying and storing the bowls",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 7454,
+                "stop_frame": 7498
+            },
+            {
+                "narration_text": "Dries the bowl with the towel",
+                "start_frame": 7498,
+                "stop_frame": 7599
+            },
+            {
+                "narration_text": "Puts down the bowl",
+                "start_frame": 7599,
+                "stop_frame": 7630
+            },
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 7630,
+                "stop_frame": 7659
+            },
+            {
+                "narration_text": "Dries the bowl with the towel",
+                "start_frame": 7659,
+                "stop_frame": 7763
+            },
+            {
+                "narration_text": "Puts down the bowl",
+                "start_frame": 7763,
+                "stop_frame": 7800
+            },
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 7800,
+                "stop_frame": 7832
+            },
+            {
+                "narration_text": "Dries the bowl with the towel",
+                "start_frame": 7832,
+                "stop_frame": 7921
+            },
+            {
+                "narration_text": "Puts down the bowl",
+                "start_frame": 7921,
+                "stop_frame": 7942
+            },
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 7942,
+                "stop_frame": 7986
+            },
+            {
+                "narration_text": "Dries the bowl with the towel",
+                "start_frame": 7986,
+                "stop_frame": 8111
+            },
+            {
+                "narration_text": "Puts down the bowl",
+                "start_frame": 8111,
+                "stop_frame": 8232
+            },
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 8232,
+                "stop_frame": 8283
+            },
+            {
+                "narration_text": "Dries the bowl with the towel",
+                "start_frame": 8283,
+                "stop_frame": 8409
+            },
+            {
+                "narration_text": "Opens the cupboard",
+                "start_frame": 8409,
+                "stop_frame": 8470
+            },
+            {
+                "narration_text": "Puts the plates together",
+                "start_frame": 8470,
+                "stop_frame": 8502
+            },
+            {
+                "narration_text": "Puts the plates in the cupboard",
+                "start_frame": 8502,
+                "stop_frame": 8530
+            },
+            {
+                "narration_text": "Closes cupboard",
+                "start_frame": 8530,
+                "stop_frame": 8567
+            },
+            {
+                "narration_text": "Pulls on the cabinet with her hand",
+                "start_frame": 8567,
+                "stop_frame": 8580
+            }
+        ]
+    },
+    {
+        "task_goal": "Drying the bowls with a towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 7454,
+                "stop_frame": 7498
+            },
+            {
+                "narration_text": "Dries the bowl with the towel",
+                "start_frame": 7498,
+                "stop_frame": 7599
+            },
+            {
+                "narration_text": "Puts down the bowl",
+                "start_frame": 7599,
+                "stop_frame": 7630
+            },
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 7630,
+                "stop_frame": 7659
+            },
+            {
+                "narration_text": "Dries the bowl with the towel",
+                "start_frame": 7659,
+                "stop_frame": 7763
+            },
+            {
+                "narration_text": "Puts down the bowl",
+                "start_frame": 7763,
+                "stop_frame": 7800
+            },
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 7800,
+                "stop_frame": 7832
+            },
+            {
+                "narration_text": "Dries the bowl with the towel",
+                "start_frame": 7832,
+                "stop_frame": 7921
+            },
+            {
+                "narration_text": "Puts down the bowl",
+                "start_frame": 7921,
+                "stop_frame": 7942
+            },
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 7942,
+                "stop_frame": 7986
+            },
+            {
+                "narration_text": "Dries the bowl with the towel",
+                "start_frame": 7986,
+                "stop_frame": 8111
+            },
+            {
+                "narration_text": "Puts down the bowl",
+                "start_frame": 8111,
+                "stop_frame": 8232
+            },
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 8232,
+                "stop_frame": 8283
+            },
+            {
+                "narration_text": "Dries the bowl with the towel",
+                "start_frame": 8283,
+                "stop_frame": 8409
+            },
+            {
+                "narration_text": "Opens the cupboard",
+                "start_frame": 8409,
+                "stop_frame": 8470
+            },
+            {
+                "narration_text": "Puts the plates together",
+                "start_frame": 8470,
+                "stop_frame": 8502
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening the cupboard",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the cupboard",
+                "start_frame": 8409,
+                "stop_frame": 8470
+            },
+            {
+                "narration_text": "Puts the plates together",
+                "start_frame": 8470,
+                "stop_frame": 8502
+            },
+            {
+                "narration_text": "Puts the plates in the cupboard",
+                "start_frame": 8502,
+                "stop_frame": 8530
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting the plates in the cupboard",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the plates together",
+                "start_frame": 8470,
+                "stop_frame": 8502
+            },
+            {
+                "narration_text": "Puts the plates in the cupboard",
+                "start_frame": 8502,
+                "stop_frame": 8530
+            },
+            {
+                "narration_text": "Closes cupboard",
+                "start_frame": 8530,
+                "stop_frame": 8567
+            },
+            {
+                "narration_text": "Pulls on the cabinet with her hand",
+                "start_frame": 8567,
+                "stop_frame": 8580
+            }
+        ]
+    },
+    {
+        "task_goal": "Wiping the knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves her hand towards the sink",
+                "start_frame": 8580,
+                "stop_frame": 8588
+            },
+            {
+                "narration_text": "Holds the knife with her hand",
+                "start_frame": 8588,
+                "stop_frame": 8597
+            },
+            {
+                "narration_text": "Pulls on the knife with her hand",
+                "start_frame": 8597,
+                "stop_frame": 8613
+            },
+            {
+                "narration_text": "Moves the knife towards the kitchen towel",
+                "start_frame": 8613,
+                "stop_frame": 8628
+            },
+            {
+                "narration_text": "Wipes the knife with the kitchen towel",
+                "start_frame": 8628,
+                "stop_frame": 8743
+            },
+            {
+                "narration_text": "Moves her hand towards the cabinet",
+                "start_frame": 8743,
+                "stop_frame": 8746
+            }
+        ]
+    },
+    {
+        "task_goal": "Placing the knife in the cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Wipes the knife with the kitchen towel",
+                "start_frame": 8628,
+                "stop_frame": 8743
+            },
+            {
+                "narration_text": "Moves her hand towards the cabinet",
+                "start_frame": 8743,
+                "stop_frame": 8746
+            },
+            {
+                "narration_text": "Places the knife in the cabinet",
+                "start_frame": 8746,
+                "stop_frame": 8807
+            },
+            {
+                "narration_text": "Holds the cabinet door with her hand",
+                "start_frame": 8807,
+                "stop_frame": 8812
+            },
+            {
+                "narration_text": "Closes the cabinet door with her hand",
+                "start_frame": 8812,
+                "stop_frame": 8820
+            },
+            {
+                "narration_text": "Moves her hand towards the sink",
+                "start_frame": 8820,
+                "stop_frame": 8825
+            },
+            {
+                "narration_text": "Holds the chopsticks with her hand",
+                "start_frame": 8825,
+                "stop_frame": 8834
+            }
+        ]
+    },
+    {
+        "task_goal": "Cleaning and storing the chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves her hand towards the sink",
+                "start_frame": 8820,
+                "stop_frame": 8825
+            },
+            {
+                "narration_text": "Holds the chopsticks with her hand",
+                "start_frame": 8825,
+                "stop_frame": 8834
+            },
+            {
+                "narration_text": "Pulls on the chopsticks with her hand",
+                "start_frame": 8834,
+                "stop_frame": 8842
+            },
+            {
+                "narration_text": "Moves her hand towards the towel",
+                "start_frame": 8842,
+                "stop_frame": 8852
+            },
+            {
+                "narration_text": "Holds the chopsticks with the towel",
+                "start_frame": 8852,
+                "stop_frame": 8857
+            },
+            {
+                "narration_text": "Lowers her hand towards the cabinet",
+                "start_frame": 8857,
+                "stop_frame": 8868
+            },
+            {
+                "narration_text": "Pulls on the drawer with her hand",
+                "start_frame": 8868,
+                "stop_frame": 8902
+            },
+            {
+                "narration_text": "Moves her hand towards the towel",
+                "start_frame": 8902,
+                "stop_frame": 8909
+            },
+            {
+                "narration_text": "Holds the chopsticks with her hand",
+                "start_frame": 8909,
+                "stop_frame": 8922
+            },
+            {
+                "narration_text": "Wipes the chopsticks with the towel",
+                "start_frame": 8922,
+                "stop_frame": 8934
+            },
+            {
+                "narration_text": "Moves her hand towards the drawer",
+                "start_frame": 8934,
+                "stop_frame": 8948
+            },
+            {
+                "narration_text": "Places the chopsticks in the drawer",
+                "start_frame": 8948,
+                "stop_frame": 8967
+            },
+            {
+                "narration_text": "Moves her hand towards the sink",
+                "start_frame": 8967,
+                "stop_frame": 8974
+            },
+            {
+                "narration_text": "Holds the chopsticks with her hand",
+                "start_frame": 8974,
+                "stop_frame": 8980
+            },
+            {
+                "narration_text": "Pulls on the drawer with her hand",
+                "start_frame": 8980,
+                "stop_frame": 8989
+            },
+            {
+                "narration_text": "Moves her hand towards the towel",
+                "start_frame": 8989,
+                "stop_frame": 9002
+            }
+        ]
+    },
+    {
+        "task_goal": "Wiping chopsticks with a towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pulls on the drawer with her hand",
+                "start_frame": 8980,
+                "stop_frame": 8989
+            },
+            {
+                "narration_text": "Moves her hand towards the towel",
+                "start_frame": 8989,
+                "stop_frame": 9002
+            },
+            {
+                "narration_text": "Wipes the chopsticks with the towel",
+                "start_frame": 9002,
+                "stop_frame": 9053
+            },
+            {
+                "narration_text": "Moves her hand forwards",
+                "start_frame": 9053,
+                "stop_frame": 9064
+            },
+            {
+                "narration_text": "Places the chopsticks in the organizing rack",
+                "start_frame": 9064,
+                "stop_frame": 9101
+            },
+            {
+                "narration_text": "Moves her hand towards her",
+                "start_frame": 9101,
+                "stop_frame": 9122
+            }
+        ]
+    },
+    {
+        "task_goal": "Placing chopsticks in the drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the chopsticks in the organizing rack",
+                "start_frame": 9064,
+                "stop_frame": 9101
+            },
+            {
+                "narration_text": "Moves her hand towards her",
+                "start_frame": 9101,
+                "stop_frame": 9122
+            },
+            {
+                "narration_text": "Holds the plate with her hand",
+                "start_frame": 9122,
+                "stop_frame": 9127
+            },
+            {
+                "narration_text": "Picks up the plate with her hand",
+                "start_frame": 9127,
+                "stop_frame": 9136
+            },
+            {
+                "narration_text": "Moves the plate towards the towel",
+                "start_frame": 9136,
+                "stop_frame": 9143
+            },
+            {
+                "narration_text": "Holds the plate with the towel",
+                "start_frame": 9143,
+                "stop_frame": 9151
+            },
+            {
+                "narration_text": "Lowers her other hand towards the drawer",
+                "start_frame": 9151,
+                "stop_frame": 9160
+            },
+            {
+                "narration_text": "Holds the drawer with her hand",
+                "start_frame": 9160,
+                "stop_frame": 9169
+            },
+            {
+                "narration_text": "Closes the drawer with her hand",
+                "start_frame": 9169,
+                "stop_frame": 9193
+            },
+            {
+                "narration_text": "Moves her hand towards the plate",
+                "start_frame": 9193,
+                "stop_frame": 9199
+            },
+            {
+                "narration_text": "Holds the kitchen towel with both her hands",
+                "start_frame": 9199,
+                "stop_frame": 9212
+            },
+            {
+                "narration_text": "Moves her hand forwards",
+                "start_frame": 9212,
+                "stop_frame": 9218
+            },
+            {
+                "narration_text": "Holds the plate with her other hand",
+                "start_frame": 9218,
+                "stop_frame": 9237
+            }
+        ]
+    },
+    {
+        "task_goal": "Wiping the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the plate with her other hand",
+                "start_frame": 9218,
+                "stop_frame": 9237
+            },
+            {
+                "narration_text": "Wipes the plate with the towel",
+                "start_frame": 9237,
+                "stop_frame": 9355
+            },
+            {
+                "narration_text": "Moves her hand towards the cabinet",
+                "start_frame": 9355,
+                "stop_frame": 9361
+            },
+            {
+                "narration_text": "Holds the cabinet handle with her hand",
+                "start_frame": 9361,
+                "stop_frame": 9362
+            },
+            {
+                "narration_text": "Opens the cabinet door with her hand",
+                "start_frame": 9362,
+                "stop_frame": 9406
+            },
+            {
+                "narration_text": "Moves her hand towards the inside of the cabinet",
+                "start_frame": 9406,
+                "stop_frame": 9416
+            },
+            {
+                "narration_text": "Holds the packet of serviettes with her hand",
+                "start_frame": 9416,
+                "stop_frame": 9421
+            },
+            {
+                "narration_text": "Pulls on the packet with her hand",
+                "start_frame": 9421,
+                "stop_frame": 9441
+            },
+            {
+                "narration_text": "Places the packet on the carpet",
+                "start_frame": 9441,
+                "stop_frame": 9449
+            },
+            {
+                "narration_text": "Moves her hand towards the inside of the cabinet",
+                "start_frame": 9449,
+                "stop_frame": 9450
+            },
+            {
+                "narration_text": "Holds the box with her hand",
+                "start_frame": 9450,
+                "stop_frame": 9460
+            },
+            {
+                "narration_text": "Pulls on the box with her hand",
+                "start_frame": 9460,
+                "stop_frame": 9487
+            }
+        ]
+    },
+    {
+        "task_goal": "Wiping the spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the cabinet door",
+                "start_frame": 9685,
+                "stop_frame": 9701
+            },
+            {
+                "narration_text": "Moves her hand towards the kitchen sink",
+                "start_frame": 9701,
+                "stop_frame": 9701
+            },
+            {
+                "narration_text": "Holds the wooden spoon with her hand",
+                "start_frame": 9701,
+                "stop_frame": 9718
+            },
+            {
+                "narration_text": "Picks up the spoon with her hand",
+                "start_frame": 9718,
+                "stop_frame": 9722
+            },
+            {
+                "narration_text": "Moves the spoon towards the towel",
+                "start_frame": 9722,
+                "stop_frame": 9737
+            },
+            {
+                "narration_text": "Wipes the spoon with the towel",
+                "start_frame": 9737,
+                "stop_frame": 9774
+            },
+            {
+                "narration_text": "Moves her hand forwards",
+                "start_frame": 9774,
+                "stop_frame": 9781
+            },
+            {
+                "narration_text": "Places the spoon in the container",
+                "start_frame": 9781,
+                "stop_frame": 9798
+            }
+        ]
+    },
+    {
+        "task_goal": "Placing the spoon in the tray",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves her hand forwards",
+                "start_frame": 9774,
+                "stop_frame": 9781
+            },
+            {
+                "narration_text": "Places the spoon in the container",
+                "start_frame": 9781,
+                "stop_frame": 9798
+            },
+            {
+                "narration_text": "Moves her hand towards her",
+                "start_frame": 9798,
+                "stop_frame": 9807
+            },
+            {
+                "narration_text": "Holds the towel with both her hands",
+                "start_frame": 9807,
+                "stop_frame": 9816
+            },
+            {
+                "narration_text": "Unfolds the towel with her hands",
+                "start_frame": 9816,
+                "stop_frame": 9848
+            }
+        ]
+    },
+    {
+        "task_goal": "Unfolding, hanging, and folding the towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the towel with both her hands",
+                "start_frame": 9807,
+                "stop_frame": 9816
+            },
+            {
+                "narration_text": "Unfolds the towel with her hands",
+                "start_frame": 9816,
+                "stop_frame": 9848
+            },
+            {
+                "narration_text": "Moves her hands towards the fridge",
+                "start_frame": 9848,
+                "stop_frame": 9849
+            },
+            {
+                "narration_text": "Hands the towel on the hook",
+                "start_frame": 9849,
+                "stop_frame": 9889
+            },
+            {
+                "narration_text": "Lets go of the kitchen towel",
+                "start_frame": 9889,
+                "stop_frame": 9890
+            },
+            {
+                "narration_text": "Lowers her hand towards the sink",
+                "start_frame": 9890,
+                "stop_frame": 9900
+            },
+            {
+                "narration_text": "Holds another kitchen towel with her hand",
+                "start_frame": 9900,
+                "stop_frame": 9902
+            },
+            {
+                "narration_text": "Moves her other hand towards the sink",
+                "start_frame": 9902,
+                "stop_frame": 9912
+            },
+            {
+                "narration_text": "Picks up the kitchen towel",
+                "start_frame": 9912,
+                "stop_frame": 9919
+            },
+            {
+                "narration_text": "Moves the towel towards her other hand",
+                "start_frame": 9919,
+                "stop_frame": 9927
+            },
+            {
+                "narration_text": "Holds the towel with both her hands",
+                "start_frame": 9927,
+                "stop_frame": 9957
+            },
+            {
+                "narration_text": "Folds the towel with her hands",
+                "start_frame": 9957,
+                "stop_frame": 9975
+            },
+            {
+                "narration_text": "Places the towel on her other hand",
+                "start_frame": 9975,
+                "stop_frame": 9981
+            },
+            {
+                "narration_text": "Lowers her hand towards the sink",
+                "start_frame": 9981,
+                "stop_frame": 9982
+            },
+            {
+                "narration_text": "Holds the tray with her hands",
+                "start_frame": 9982,
+                "stop_frame": 9993
+            },
+            {
+                "narration_text": "Picks up the tray with her hands",
+                "start_frame": 9993,
+                "stop_frame": 10010
+            }
+        ]
+    },
+    {
+        "task_goal": "Wiping the tray and placing it on the floor",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the tray with her hands",
+                "start_frame": 9982,
+                "stop_frame": 9993
+            },
+            {
+                "narration_text": "Picks up the tray with her hands",
+                "start_frame": 9993,
+                "stop_frame": 10010
+            },
+            {
+                "narration_text": "Pours the water in the tray on the sink",
+                "start_frame": 10010,
+                "stop_frame": 10064
+            },
+            {
+                "narration_text": "Lets go of the tray",
+                "start_frame": 10064,
+                "stop_frame": 10069
+            },
+            {
+                "narration_text": "Wipes the tray with the towel",
+                "start_frame": 10069,
+                "stop_frame": 10129
+            },
+            {
+                "narration_text": "Places the towel on the sink",
+                "start_frame": 10129,
+                "stop_frame": 10129
+            },
+            {
+                "narration_text": "Moves her hand away from the sink",
+                "start_frame": 10129,
+                "stop_frame": 10138
+            },
+            {
+                "narration_text": "Moves her hand towards the tray",
+                "start_frame": 10138,
+                "stop_frame": 10148
+            },
+            {
+                "narration_text": "Places the tray on her other hand",
+                "start_frame": 10148,
+                "stop_frame": 10164
+            },
+            {
+                "narration_text": "Lowers her hand towards the floor",
+                "start_frame": 10164,
+                "stop_frame": 10183
+            },
+            {
+                "narration_text": "Places the tray on the floor",
+                "start_frame": 10183,
+                "stop_frame": 10199
+            },
+            {
+                "narration_text": "Moves her hand towards the sink",
+                "start_frame": 10199,
+                "stop_frame": 10210
+            },
+            {
+                "narration_text": "Holds the kitchen towel with her hand",
+                "start_frame": 10210,
+                "stop_frame": 10218
+            }
+        ]
+    },
+    {
+        "task_goal": "Wiping the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves her hand towards the sink",
+                "start_frame": 10199,
+                "stop_frame": 10210
+            },
+            {
+                "narration_text": "Holds the kitchen towel with her hand",
+                "start_frame": 10210,
+                "stop_frame": 10218
+            },
+            {
+                "narration_text": "Picks up the towel",
+                "start_frame": 10218,
+                "stop_frame": 10228
+            },
+            {
+                "narration_text": "Wipes the sink with the towel",
+                "start_frame": 10228,
+                "stop_frame": 10353
+            },
+            {
+                "narration_text": "Moves her hand forwards",
+                "start_frame": 10353,
+                "stop_frame": 10371
+            },
+            {
+                "narration_text": "Holds the container with her hand",
+                "start_frame": 10371,
+                "stop_frame": 10386
+            },
+            {
+                "narration_text": "Lifts up the container",
+                "start_frame": 10386,
+                "stop_frame": 10403
+            },
+            {
+                "narration_text": "Wipes the sink with the towel",
+                "start_frame": 10403,
+                "stop_frame": 10419
+            },
+            {
+                "narration_text": "Places the container on the sink",
+                "start_frame": 10419,
+                "stop_frame": 10424
+            },
+            {
+                "narration_text": "Moves her hand towards her",
+                "start_frame": 10424,
+                "stop_frame": 10434
+            },
+            {
+                "narration_text": "Wipes the sink with the towel",
+                "start_frame": 10434,
+                "stop_frame": 10496
+            },
+            {
+                "narration_text": "Holds the kitchen towel with both her hands",
+                "start_frame": 10496,
+                "stop_frame": 10505
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening the tap and rinsing the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves her hand towards the tap",
+                "start_frame": 11015,
+                "stop_frame": 11023
+            },
+            {
+                "narration_text": "Opens the tap with her hand",
+                "start_frame": 11023,
+                "stop_frame": 11044
+            },
+            {
+                "narration_text": "Moves her hand forwards",
+                "start_frame": 11044,
+                "stop_frame": 11050
+            },
+            {
+                "narration_text": "Holds the nozzle",
+                "start_frame": 11050,
+                "stop_frame": 11052
+            },
+            {
+                "narration_text": "Shakes the nozzle",
+                "start_frame": 11052,
+                "stop_frame": 11085
+            },
+            {
+                "narration_text": "Moves the nozzle backwards",
+                "start_frame": 11085,
+                "stop_frame": 11194
+            },
+            {
+                "narration_text": "Moves her hand towards the sink",
+                "start_frame": 11194,
+                "stop_frame": 11199
+            },
+            {
+                "narration_text": "Places her hand on the sink",
+                "start_frame": 11199,
+                "stop_frame": 11206
+            },
+            {
+                "narration_text": "Washes the sink with water and her hand",
+                "start_frame": 11206,
+                "stop_frame": 11340
+            },
+            {
+                "narration_text": "Moves her hand towards the tap",
+                "start_frame": 11340,
+                "stop_frame": 11346
+            }
+        ]
+    },
+    {
+        "task_goal": "Closing the tap and handling the nozzle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the sink with water and her hand",
+                "start_frame": 11206,
+                "stop_frame": 11340
+            },
+            {
+                "narration_text": "Moves her hand towards the tap",
+                "start_frame": 11340,
+                "stop_frame": 11346
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 11346,
+                "stop_frame": 11385
+            },
+            {
+                "narration_text": "Holds the nozzle with her hand",
+                "start_frame": 11385,
+                "stop_frame": 11385
+            },
+            {
+                "narration_text": "Moves her hand backwards",
+                "start_frame": 11385,
+                "stop_frame": 11393
+            },
+            {
+                "narration_text": "Moves the nozzle forwards",
+                "start_frame": 11393,
+                "stop_frame": 11404
+            },
+            {
+                "narration_text": "Moves her hand towards the sink",
+                "start_frame": 11404,
+                "stop_frame": 11408
+            },
+            {
+                "narration_text": "Shakes her fingers",
+                "start_frame": 11408,
+                "stop_frame": 11423
+            }
+        ]
+    }
+]

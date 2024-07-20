@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehKbgAJVONCXTURgZuCvBQQ1WYAW",
+    "object": "chat.completion",
+    "created": 1719486713,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook bread in a kitchen\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare bread for frying\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 908,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turn bread in a mixture\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 127\n        },\n        {\n          \"secondary_subgoal\": \"Fry the bread\",\n          \"start_timestamp\": 127,\n          \"stop_timestamp\": 908\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Turn and cook bread in pan\",\n      \"start_timestamp\": 908,\n      \"stop_timestamp\": 8752,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turn bread in pan\",\n          \"start_timestamp\": 908,\n          \"stop_timestamp\": 8873\n        },\n        {\n          \"secondary_subgoal\": \"Hold fat skimmer spoon\",\n          \"start_timestamp\": 873,\n          \"stop_timestamp\": 8873\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Dry and place bread in bowl\",\n      \"start_timestamp\": 5556,\n      \"stop_timestamp\": 6484,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick bread from pan and dry it\",\n          \"start_timestamp\": 5556,\n          \"stop_timestamp\": 6398\n        },\n        {\n          \"secondary_subgoal\": \"Put bread in bowl\",\n          \"start_timestamp\": 6398,\n          \"stop_timestamp\": 6484\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare next batch of bread for frying\",\n      \"start_timestamp\": 6562,\n      \"stop_timestamp\": 7581,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick bread from plate\",\n          \"start_timestamp\": 6562,\n          \"stop_timestamp\": 6578\n        },\n        {\n          \"secondary_subgoal\": \"Turn bread in mixture\",\n          \"start_timestamp\": 6578,\n          \"stop_timestamp\": 6800\n        },\n        {\n          \"secondary_subgoal\": \"Put bread in pan\",\n          \"start_timestamp\": 6873,\n          \"stop_timestamp\": 6895\n        },\n        {\n          \"secondary_subgoal\": \"Scoop and put mixture in pan\",\n          \"start_timestamp\": 6895,\n          \"stop_timestamp\": 7581\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook and monitor bread in pan\",\n      \"start_timestamp\": 7581,\n      \"stop_timestamp\": 8820,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turn bread in pan\",\n          \"start_timestamp\": 7581,\n          \"stop_timestamp\": 8189\n        },\n        {\n          \"secondary_subgoal\": \"Hold fat skimmer spoon\",\n          \"start_timestamp\": 8189,\n          \"stop_timestamp\": 8622\n        },\n        {\n          \"secondary_subgoal\": \"Look at donuts\",\n          \"start_timestamp\": 8622,\n          \"stop_timestamp\": 8820\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1243,
+        "completion_tokens": 687,
+        "total_tokens": 1930
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

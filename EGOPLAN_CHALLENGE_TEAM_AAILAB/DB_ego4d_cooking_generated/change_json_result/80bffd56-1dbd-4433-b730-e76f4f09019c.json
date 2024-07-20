@@ -1,0 +1,106 @@
+{
+    "overall_goal": "C is in the kitchen cooking some food",
+    "clips": [
+        {
+            "subgoal": "Preparing ingredients and setting up for cooking",
+            "start_timestamp": 0,
+            "stop_timestamp": 966,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Closing the trash can and small drawer",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 208
+                },
+                {
+                    "secondary_subgoal": "Mixing the egg form with chopsticks",
+                    "start_timestamp": 208,
+                    "stop_timestamp": 611
+                },
+                {
+                    "secondary_subgoal": "Measuring the temperature of the cooking pan",
+                    "start_timestamp": 611,
+                    "stop_timestamp": 760
+                },
+                {
+                    "secondary_subgoal": "Pouring the mixture into the pan",
+                    "start_timestamp": 760,
+                    "stop_timestamp": 966
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking the mixture",
+            "start_timestamp": 966,
+            "stop_timestamp": 11195,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Putting the plate in the sink and mixing the mixture on the pan",
+                    "start_timestamp": 966,
+                    "stop_timestamp": 2214
+                },
+                {
+                    "secondary_subgoal": "Placing the chopsticks on the kitchen top and pouring more mixture onto the pan",
+                    "start_timestamp": 2214,
+                    "stop_timestamp": 3296
+                },
+                {
+                    "secondary_subgoal": "Using chopsticks to clear spoon remnants and placing the spoon in the sink",
+                    "start_timestamp": 3296,
+                    "stop_timestamp": 3788
+                },
+                {
+                    "secondary_subgoal": "Adding the chopsticks to the white glass plate",
+                    "start_timestamp": 3788,
+                    "stop_timestamp": 3992
+                },
+                {
+                    "secondary_subgoal": "Opening drawer and sliding cabinet for utensils and plates",
+                    "start_timestamp": 3992,
+                    "stop_timestamp": 4381
+                },
+                {
+                    "secondary_subgoal": "Switching the cooker off and rotating the food",
+                    "start_timestamp": 4381,
+                    "stop_timestamp": 4966
+                }
+            ]
+        },
+        {
+            "subgoal": "Finishing cooking and serving the prepared food",
+            "start_timestamp": 4966,
+            "stop_timestamp": 7542,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rotating the food and putting the spoon down",
+                    "start_timestamp": 4966,
+                    "stop_timestamp": 5843
+                },
+                {
+                    "secondary_subgoal": "Shaking and rotating the food with the flat spoon",
+                    "start_timestamp": 5843,
+                    "stop_timestamp": 6068
+                },
+                {
+                    "secondary_subgoal": "Returning the food to the cooker and pouring the food onto a plate",
+                    "start_timestamp": 6068,
+                    "stop_timestamp": 6582
+                },
+                {
+                    "secondary_subgoal": "Returning the pan to the stove and placing the flat spoon in the sink",
+                    "start_timestamp": 6582,
+                    "stop_timestamp": 6671
+                },
+                {
+                    "secondary_subgoal": "Opening the fridge to take and pour sauce onto the food",
+                    "start_timestamp": 6671,
+                    "stop_timestamp": 7305
+                },
+                {
+                    "secondary_subgoal": "Returning the sauce to the fridge and adjusting the camera",
+                    "start_timestamp": 7305,
+                    "stop_timestamp": 7542
+                }
+            ]
+        }
+    ]
+}

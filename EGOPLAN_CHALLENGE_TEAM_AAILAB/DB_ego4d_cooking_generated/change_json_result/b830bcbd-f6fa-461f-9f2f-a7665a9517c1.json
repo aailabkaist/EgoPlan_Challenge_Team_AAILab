@@ -1,0 +1,141 @@
+{
+    "overall_goal": "Cooking a meal using various utensils.",
+    "clips": [
+        {
+            "subgoal": "Preparing ingredients and mixing food.",
+            "start_timestamp": 0,
+            "stop_timestamp": 3659,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mixing food with cooking sticks.",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 3605
+                },
+                {
+                    "secondary_subgoal": "Placing utensils on the pan.",
+                    "start_timestamp": 3605,
+                    "stop_timestamp": 3659
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling and tearing paper.",
+            "start_timestamp": 3659,
+            "stop_timestamp": 3745,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turning and picking up nylon paper.",
+                    "start_timestamp": 3659,
+                    "stop_timestamp": 3745
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepping more ingredients.",
+            "start_timestamp": 3745,
+            "stop_timestamp": 3813,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking up an object and putting nylon paper down.",
+                    "start_timestamp": 3745,
+                    "stop_timestamp": 3813
+                }
+            ]
+        },
+        {
+            "subgoal": "Tearing paper and adding ingredients.",
+            "start_timestamp": 3813,
+            "stop_timestamp": 4657,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turning and tearing paper.",
+                    "start_timestamp": 3813,
+                    "stop_timestamp": 3964
+                },
+                {
+                    "secondary_subgoal": "Pouring the ingredient and mixing the food.",
+                    "start_timestamp": 3964,
+                    "stop_timestamp": 4657
+                }
+            ]
+        },
+        {
+            "subgoal": "Continuing to add ingredients and mix.",
+            "start_timestamp": 4731,
+            "stop_timestamp": 5616,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pouring and mixing.",
+                    "start_timestamp": 4731,
+                    "stop_timestamp": 5616
+                },
+                {
+                    "secondary_subgoal": "Touching unsure object.",
+                    "start_timestamp": 5616,
+                    "stop_timestamp": 5621
+                }
+            ]
+        },
+        {
+            "subgoal": "Finishing mixing and tearing paper again.",
+            "start_timestamp": 5621,
+            "stop_timestamp": 6936,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking and mixing with cooking sticks.",
+                    "start_timestamp": 5621,
+                    "stop_timestamp": 6519
+                },
+                {
+                    "secondary_subgoal": "Leaving utensils on pan and tearing paper.",
+                    "start_timestamp": 6519,
+                    "stop_timestamp": 6766
+                },
+                {
+                    "secondary_subgoal": "Pouring unsure in food.",
+                    "start_timestamp": 6766,
+                    "stop_timestamp": 6936
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing hands.",
+            "start_timestamp": 7768,
+            "stop_timestamp": 8209,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turning on tap and washing hands.",
+                    "start_timestamp": 7768,
+                    "stop_timestamp": 8036
+                },
+                {
+                    "secondary_subgoal": "Turning off tap and drying hands.",
+                    "start_timestamp": 8036,
+                    "stop_timestamp": 8169
+                }
+            ]
+        },
+        {
+            "subgoal": "Final mixing and covering the pan.",
+            "start_timestamp": 8258,
+            "stop_timestamp": 10603,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking various utensils.",
+                    "start_timestamp": 8258,
+                    "stop_timestamp": 8277
+                },
+                {
+                    "secondary_subgoal": "Mixing and stirring food multiple times.",
+                    "start_timestamp": 8277,
+                    "stop_timestamp": 10469
+                },
+                {
+                    "secondary_subgoal": "Covering the pan.",
+                    "start_timestamp": 10513,
+                    "stop_timestamp": 10603
+                }
+            ]
+        }
+    ]
+}

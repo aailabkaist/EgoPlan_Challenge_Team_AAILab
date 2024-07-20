@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efLAL5CMLwgmw8ywlTK5PWgpDHxZ",
+    "object": "chat.completion",
+    "created": 1719479060,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and serving a meal, and cleaning up the kitchen afterward.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Serving rice and preparing potatoes\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 4109,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Serving rice\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 505\n        },\n        {\n          \"secondary_subgoal\": \"Preparing potatoes\",\n          \"start_timestamp\": 850,\n          \"stop_timestamp\": 1644\n        },\n        {\n          \"secondary_subgoal\": \"Cooking and arranging potatoes\",\n          \"start_timestamp\": 1644,\n          \"stop_timestamp\": 4109\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing soup and arranging meal components\",\n      \"start_timestamp\": 4109,\n      \"stop_timestamp\": 5707,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Preparing soup\",\n          \"start_timestamp\": 4109,\n          \"stop_timestamp\": 4187\n        },\n        {\n          \"secondary_subgoal\": \"Arranging soup in bowl\",\n          \"start_timestamp\": 4187,\n          \"stop_timestamp\": 4109\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning up and organizing kitchen tools\",\n      \"start_timestamp\": 5707,\n      \"stop_timestamp\": 10858,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Washing dishes and utensils\",\n          \"start_timestamp\": 5707,\n          \"stop_timestamp\": 8105\n        },\n        {\n          \"secondary_subgoal\": \"Drying and storing cleaned items\",\n          \"start_timestamp\": 8105,\n          \"stop_timestamp\": 10858\n        }\n      ]\n    }\n  ]\n}\n```\n\nThis JSON structure lays out the overall goal, the subgoals (i.e., the major steps taken to achieve the overall goal), and the secondary subgoals, providing a detailed and structured overview of activities."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3236,
+        "completion_tokens": 439,
+        "total_tokens": 3675
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

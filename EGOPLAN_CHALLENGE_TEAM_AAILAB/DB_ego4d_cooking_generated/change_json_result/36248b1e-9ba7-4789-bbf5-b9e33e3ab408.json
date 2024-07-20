@@ -1,0 +1,124 @@
+{
+    "overall_goal": "Prepare chopped tomato and green beans for cooking.",
+    "clips": [
+        {
+            "subgoal": "Prepare and chop tomatoes.",
+            "start_timestamp": 473,
+            "stop_timestamp": 2688,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare knife and wash tomato",
+                    "start_timestamp": 473,
+                    "stop_timestamp": 785
+                },
+                {
+                    "secondary_subgoal": "Chop tomato",
+                    "start_timestamp": 938,
+                    "stop_timestamp": 2390
+                },
+                {
+                    "secondary_subgoal": "Put chopped tomato in the dish",
+                    "start_timestamp": 2390,
+                    "stop_timestamp": 2688
+                }
+            ]
+        },
+        {
+            "subgoal": "Bring and wash more tomatoes from the fridge",
+            "start_timestamp": 2688,
+            "stop_timestamp": 3197,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick, wash, and place tomato on chopping board",
+                    "start_timestamp": 2688,
+                    "stop_timestamp": 3201
+                }
+            ]
+        },
+        {
+            "subgoal": "Chop more tomatoes",
+            "start_timestamp": 3201,
+            "stop_timestamp": 4965,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare knife and wash tomato",
+                    "start_timestamp": 3201,
+                    "stop_timestamp": 3432
+                },
+                {
+                    "secondary_subgoal": "Chop tomato",
+                    "start_timestamp": 3513,
+                    "stop_timestamp": 4965
+                }
+            ]
+        },
+        {
+            "subgoal": "Put chopped tomato into the dish",
+            "start_timestamp": 4965,
+            "stop_timestamp": 5436,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put chopped tomato into dish",
+                    "start_timestamp": 4965,
+                    "stop_timestamp": 5012
+                },
+                {
+                    "secondary_subgoal": "Clean and prepare chopping board",
+                    "start_timestamp": 5452,
+                    "stop_timestamp": 5930
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and chop onions",
+            "start_timestamp": 5930,
+            "stop_timestamp": 10908,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare onion",
+                    "start_timestamp": 5930,
+                    "stop_timestamp": 8395
+                },
+                {
+                    "secondary_subgoal": "Chop onion",
+                    "start_timestamp": 8395,
+                    "stop_timestamp": 10908
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cooking surface",
+            "start_timestamp": 10908,
+            "stop_timestamp": 11614,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Collect beans and clean work area",
+                    "start_timestamp": 10908,
+                    "stop_timestamp": 11415
+                },
+                {
+                    "secondary_subgoal": "Prepare cooking pot",
+                    "start_timestamp": 11415,
+                    "stop_timestamp": 11614
+                }
+            ]
+        },
+        {
+            "subgoal": "Use recipe for preparation",
+            "start_timestamp": 11614,
+            "stop_timestamp": 12414,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Select and manage recipe sachet",
+                    "start_timestamp": 11614,
+                    "stop_timestamp": 12314
+                },
+                {
+                    "secondary_subgoal": "Handle step-related actions",
+                    "start_timestamp": 12314,
+                    "stop_timestamp": 12414
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egnnzHz7egeL4UD4KIcxsi61KmS8",
+    "object": "chat.completion",
+    "created": 1719484679,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Decorate the donuts on the table using cream.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Apply cream to the donuts on the table\",\n      \"start_timestamp\": 953,\n      \"stop_timestamp\": 15076,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Applying cream to donuts\",\n          \"start_timestamp\": 953,\n          \"stop_timestamp\": 2893\n        },\n        {\n          \"secondary_subgoal\": \"Unfolding the paper and stirring cream in the pot\",\n          \"start_timestamp\": 2893,\n          \"stop_timestamp\": 4105\n        },\n        {\n          \"secondary_subgoal\": \"Scooping and putting cream on paper\",\n          \"start_timestamp\": 4105,\n          \"stop_timestamp\": 4404\n        },\n        {\n          \"secondary_subgoal\": \"Applying cream to donuts\",\n          \"start_timestamp\": 4404,\n          \"stop_timestamp\": 2893\n        },\n        {\n          \"secondary_subgoal\": \"Unfolding paper and handling cream\",\n          \"start_timestamp\": 6201,\n          \"stop_timestamp\": 6725\n        },\n        {\n          \"secondary_subgoal\": \"Applying cream to donuts\",\n          \"start_timestamp\": 7224,\n          \"stop_timestamp\": 15176\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare additional cream\",\n      \"start_timestamp\": 15620,\n      \"stop_timestamp\": 52835,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handling cream and paper\",\n          \"start_timestamp\": 15620,\n          \"stop_timestamp\": 18039\n        },\n        {\n          \"secondary_subgoal\": \"Handling cream from pot\",\n          \"start_timestamp\": 18039,\n          \"stop_timestamp\": 18666\n        },\n        {\n          \"secondary_subgoal\": \"Continuing application of cream and cleaning\",\n          \"start_timestamp\": 18666,\n          \"stop_timestamp\": 27506\n        },\n        {\n          \"secondary_subgoal\": \"Stirring cream and setting up workspace\",\n          \"start_timestamp\": 29699,\n          \"stop_timestamp\": 30720\n        },\n        {\n          \"secondary_subgoal\": \"Adding and stirring cream in tray\",\n          \"start_timestamp\": 31136,\n          \"stop_timestamp\": 33506\n        },\n        {\n          \"secondary_subgoal\": \"Adjusting setup and stirring cream\",\n          \"start_timestamp\": 34321,\n          \"stop_timestamp\": 36608\n        },\n        {\n          \"secondary_subgoal\": \"Continuing preparation and checking arrangement\",\n          \"start_timestamp\": 38635,\n          \"stop_timestamp\": 38570\n        },\n        {\n          \"secondary_subgoal\": \"Preparing additional cream\",\n          \"start_timestamp\": 43841,\n          \"stop_timestamp\": 45471\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning and organizing setup\",\n          \"start_timestamp\": 45730,\n          \"stop_timestamp\": 48057\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Applying cream to donuts on mat\",\n      \"start_timestamp\": 62893,\n      \"stop_timestamp\": 51643,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Decorating donuts on mat\",\n          \"start_timestamp\": 96746,\n          \"stop_timestamp\": 9884\n        },\n        {\n          \"secondary_subgoal\": \"Handling various items surrounding setup\",\n          \"start_timestamp\": 38954,\n          \"stop_timestamp\": 112396\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Using additional tools and organizing\",\n      \"start_timestamp\": 109588,\n      \"stop_timestamp\": 115313,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Using additional tools for dough and hanging cloth\",\n          \"start_timestamp\": 111⅝286,\n          \"stop_timestamp\": 111358\n        },\n        {\n          \"secondary_subgoal\": \"Handling dough and basin\",\n          \"start_timestamp\": 112589,\n          \"stop_timestamp\": 115313\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7869,
+        "completion_tokens": 881,
+        "total_tokens": 8750
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

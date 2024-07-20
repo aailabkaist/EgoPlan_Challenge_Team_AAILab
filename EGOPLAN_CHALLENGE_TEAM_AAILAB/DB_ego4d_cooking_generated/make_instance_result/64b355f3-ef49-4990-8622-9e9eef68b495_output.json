@@ -1,0 +1,862 @@
+[
+    {
+        "task_goal": "Touching camera and handling peeler",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C touches the the camera",
+                "start_frame": 1,
+                "stop_frame": 25
+            },
+            {
+                "narration_text": "#C C drops the the peeler",
+                "start_frame": 25,
+                "stop_frame": 87
+            },
+            {
+                "narration_text": "#C C picks the knife",
+                "start_frame": 87,
+                "stop_frame": 98
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking and opening knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C drops the the peeler",
+                "start_frame": 25,
+                "stop_frame": 87
+            },
+            {
+                "narration_text": "#C C picks the knife",
+                "start_frame": 87,
+                "stop_frame": 98
+            },
+            {
+                "narration_text": "#C C opens the knife",
+                "start_frame": 98,
+                "stop_frame": 111
+            },
+            {
+                "narration_text": "#C C drops the knife lid",
+                "start_frame": 111,
+                "stop_frame": 146
+            },
+            {
+                "narration_text": "#C C picks a carrot",
+                "start_frame": 146,
+                "stop_frame": 196
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling carrot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C drops the knife lid",
+                "start_frame": 111,
+                "stop_frame": 146
+            },
+            {
+                "narration_text": "#C C picks a carrot",
+                "start_frame": 146,
+                "stop_frame": 196
+            },
+            {
+                "narration_text": "#C C cuts the carrot",
+                "start_frame": 196,
+                "stop_frame": 247
+            },
+            {
+                "narration_text": "#C C turns the carrot",
+                "start_frame": 247,
+                "stop_frame": 256
+            },
+            {
+                "narration_text": "#C C cuts the carrot",
+                "start_frame": 256,
+                "stop_frame": 302
+            },
+            {
+                "narration_text": "#C C drops the carrot on the bowl",
+                "start_frame": 302,
+                "stop_frame": 310
+            }
+        ]
+    },
+    {
+        "task_goal": "Cutting carrot and dropping pieces in a bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cuts the carrot",
+                "start_frame": 256,
+                "stop_frame": 302
+            },
+            {
+                "narration_text": "#C C drops the carrot on the bowl",
+                "start_frame": 302,
+                "stop_frame": 310
+            },
+            {
+                "narration_text": "#C C picks the carrot",
+                "start_frame": 310,
+                "stop_frame": 334
+            },
+            {
+                "narration_text": "#C C cuts the carrot",
+                "start_frame": 334,
+                "stop_frame": 447
+            },
+            {
+                "narration_text": "#C C drops the carrot on the bowl",
+                "start_frame": 447,
+                "stop_frame": 465
+            },
+            {
+                "narration_text": "#C C cuts the carrot",
+                "start_frame": 465,
+                "stop_frame": 516
+            },
+            {
+                "narration_text": "#C C drops the carrot on the bowl",
+                "start_frame": 516,
+                "stop_frame": 528
+            },
+            {
+                "narration_text": "#C C picks the carrot",
+                "start_frame": 528,
+                "stop_frame": 558
+            },
+            {
+                "narration_text": "#C C cuts the carrot",
+                "start_frame": 558,
+                "stop_frame": 632
+            },
+            {
+                "narration_text": "#C C turns the carrot",
+                "start_frame": 632,
+                "stop_frame": 658
+            },
+            {
+                "narration_text": "#C C cuts the carrot",
+                "start_frame": 658,
+                "stop_frame": 696
+            },
+            {
+                "narration_text": "#C C place the knife on the bowl",
+                "start_frame": 696,
+                "stop_frame": 716
+            },
+            {
+                "narration_text": "#C C picks the peeler",
+                "start_frame": 716,
+                "stop_frame": 744
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking peeler and unsure actions",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C place the knife on the bowl",
+                "start_frame": 696,
+                "stop_frame": 716
+            },
+            {
+                "narration_text": "#C C picks the peeler",
+                "start_frame": 716,
+                "stop_frame": 744
+            },
+            {
+                "narration_text": "#C C pushes #Unsure on the bowl",
+                "start_frame": 744,
+                "stop_frame": 793
+            },
+            {
+                "narration_text": "#C C peels the carrot",
+                "start_frame": 793,
+                "stop_frame": 1021
+            }
+        ]
+    },
+    {
+        "task_goal": "Peeling the carrots",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C peels the carrot",
+                "start_frame": 793,
+                "stop_frame": 1021
+            },
+            {
+                "narration_text": "#C C looks at the carrot",
+                "start_frame": 1021,
+                "stop_frame": 1044
+            },
+            {
+                "narration_text": "#C C peels the carrot",
+                "start_frame": 1044,
+                "stop_frame": 1085
+            },
+            {
+                "narration_text": "#C C turns the carrot",
+                "start_frame": 1085,
+                "stop_frame": 1092
+            },
+            {
+                "narration_text": "#C C peels the carrot",
+                "start_frame": 1092,
+                "stop_frame": 1384
+            },
+            {
+                "narration_text": "#C C looks at the carrot",
+                "start_frame": 1384,
+                "stop_frame": 1403
+            },
+            {
+                "narration_text": "#C C drops the carrot on the bowl",
+                "start_frame": 1403,
+                "stop_frame": 1412
+            },
+            {
+                "narration_text": "#C C picks a carrot",
+                "start_frame": 1412,
+                "stop_frame": 1439
+            },
+            {
+                "narration_text": "#C C peels the carrot",
+                "start_frame": 1439,
+                "stop_frame": 1643
+            },
+            {
+                "narration_text": "#C C removes the carrot peels from the peeler",
+                "start_frame": 1643,
+                "stop_frame": 1776
+            },
+            {
+                "narration_text": "#C C peels the carrot",
+                "start_frame": 1776,
+                "stop_frame": 2120
+            },
+            {
+                "narration_text": "#C C drops the carrot on the bowl",
+                "start_frame": 2120,
+                "stop_frame": 2136
+            },
+            {
+                "narration_text": "#C C picks a carrot",
+                "start_frame": 2136,
+                "stop_frame": 2158
+            },
+            {
+                "narration_text": "#C C peels the carrot",
+                "start_frame": 2158,
+                "stop_frame": 2625
+            },
+            {
+                "narration_text": "#C C drops the peeler on the bowl",
+                "start_frame": 2625,
+                "stop_frame": 2632
+            },
+            {
+                "narration_text": "#C C picks the carrot",
+                "start_frame": 2632,
+                "stop_frame": 2639
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 2639,
+                "stop_frame": 2701
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 2701,
+                "stop_frame": 2721
+            }
+        ]
+    },
+    {
+        "task_goal": "Peeling and inspecting carrot, dropping pieces into bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C peels the carrot",
+                "start_frame": 793,
+                "stop_frame": 1021
+            },
+            {
+                "narration_text": "#C C looks at the carrot",
+                "start_frame": 1021,
+                "stop_frame": 1044
+            },
+            {
+                "narration_text": "#C C peels the carrot",
+                "start_frame": 1044,
+                "stop_frame": 1085
+            },
+            {
+                "narration_text": "#C C turns the carrot",
+                "start_frame": 1085,
+                "stop_frame": 1092
+            },
+            {
+                "narration_text": "#C C peels the carrot",
+                "start_frame": 1092,
+                "stop_frame": 1384
+            },
+            {
+                "narration_text": "#C C looks at the carrot",
+                "start_frame": 1384,
+                "stop_frame": 1403
+            },
+            {
+                "narration_text": "#C C drops the carrot on the bowl",
+                "start_frame": 1403,
+                "stop_frame": 1412
+            },
+            {
+                "narration_text": "#C C picks a carrot",
+                "start_frame": 1412,
+                "stop_frame": 1439
+            },
+            {
+                "narration_text": "#C C peels the carrot",
+                "start_frame": 1439,
+                "stop_frame": 1643
+            },
+            {
+                "narration_text": "#C C removes the carrot peels from the peeler",
+                "start_frame": 1643,
+                "stop_frame": 1776
+            },
+            {
+                "narration_text": "#C C peels the carrot",
+                "start_frame": 1776,
+                "stop_frame": 2120
+            },
+            {
+                "narration_text": "#C C drops the carrot on the bowl",
+                "start_frame": 2120,
+                "stop_frame": 2136
+            },
+            {
+                "narration_text": "#C C picks a carrot",
+                "start_frame": 2136,
+                "stop_frame": 2158
+            }
+        ]
+    },
+    {
+        "task_goal": "Peeling a new carrot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C drops the carrot on the bowl",
+                "start_frame": 2120,
+                "stop_frame": 2136
+            },
+            {
+                "narration_text": "#C C picks a carrot",
+                "start_frame": 2136,
+                "stop_frame": 2158
+            },
+            {
+                "narration_text": "#C C peels the carrot",
+                "start_frame": 2158,
+                "stop_frame": 2625
+            },
+            {
+                "narration_text": "#C C drops the peeler on the bowl",
+                "start_frame": 2625,
+                "stop_frame": 2632
+            },
+            {
+                "narration_text": "#C C picks the carrot",
+                "start_frame": 2632,
+                "stop_frame": 2639
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 2639,
+                "stop_frame": 2701
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 2701,
+                "stop_frame": 2721
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing the carrots",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 2639,
+                "stop_frame": 2701
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 2701,
+                "stop_frame": 2721
+            },
+            {
+                "narration_text": "#C C washes the carrot",
+                "start_frame": 2721,
+                "stop_frame": 2942
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 2942,
+                "stop_frame": 2960
+            },
+            {
+                "narration_text": "#C C shakes both hands",
+                "start_frame": 2960,
+                "stop_frame": 3018
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 3018,
+                "stop_frame": 3058
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening tap and washing carrot, shaking hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 2639,
+                "stop_frame": 2701
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 2701,
+                "stop_frame": 2721
+            },
+            {
+                "narration_text": "#C C washes the carrot",
+                "start_frame": 2721,
+                "stop_frame": 2942
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 2942,
+                "stop_frame": 2960
+            },
+            {
+                "narration_text": "#C C shakes both hands",
+                "start_frame": 2960,
+                "stop_frame": 3018
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 3018,
+                "stop_frame": 3058
+            }
+        ]
+    },
+    {
+        "task_goal": "Placing carrot on chopping board and washing knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C shakes both hands",
+                "start_frame": 2960,
+                "stop_frame": 3018
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 3018,
+                "stop_frame": 3058
+            },
+            {
+                "narration_text": "#C C places the carrot on the chopping board",
+                "start_frame": 3058,
+                "stop_frame": 3076
+            },
+            {
+                "narration_text": "#C C picks a knife",
+                "start_frame": 3076,
+                "stop_frame": 3103
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 3103,
+                "stop_frame": 3134
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 3134,
+                "stop_frame": 3142
+            },
+            {
+                "narration_text": "#C C washes the knife",
+                "start_frame": 3142,
+                "stop_frame": 3198
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 3198,
+                "stop_frame": 3273
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting eggs into a pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 11383,
+                "stop_frame": 11420
+            },
+            {
+                "narration_text": "#C C puts the egg on a pan",
+                "start_frame": 11420,
+                "stop_frame": 11465
+            },
+            {
+                "narration_text": "#C C transfers the egg to the right hand",
+                "start_frame": 11465,
+                "stop_frame": 11481
+            },
+            {
+                "narration_text": "#C C puts the egg on a pan",
+                "start_frame": 11481,
+                "stop_frame": 11519
+            },
+            {
+                "narration_text": "#C C transfers the egg to the right hand",
+                "start_frame": 11519,
+                "stop_frame": 11547
+            },
+            {
+                "narration_text": "#C C puts the egg on a pan",
+                "start_frame": 11547,
+                "stop_frame": 11590
+            },
+            {
+                "narration_text": "#C C shakes the right hand",
+                "start_frame": 11590,
+                "stop_frame": 11625
+            },
+            {
+                "narration_text": "#C C pulls back the left hand",
+                "start_frame": 11625,
+                "stop_frame": 11639
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 11639,
+                "stop_frame": 11717
+            },
+            {
+                "narration_text": "#C C makes step",
+                "start_frame": 11717,
+                "stop_frame": 11730
+            },
+            {
+                "narration_text": "#C C moves the right hand",
+                "start_frame": 11730,
+                "stop_frame": 11739
+            },
+            {
+                "narration_text": "#C C touches the eggs",
+                "start_frame": 11739,
+                "stop_frame": 11746
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 11746,
+                "stop_frame": 11772
+            },
+            {
+                "narration_text": "#C C makes a step",
+                "start_frame": 11772,
+                "stop_frame": 11788
+            },
+            {
+                "narration_text": "#C C puts the egg on a pan",
+                "start_frame": 11788,
+                "stop_frame": 11841
+            },
+            {
+                "narration_text": "#C C shakes the right hand",
+                "start_frame": 11841,
+                "stop_frame": 11879
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 11879,
+                "stop_frame": 11896
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 11896,
+                "stop_frame": 11919
+            }
+        ]
+    },
+    {
+        "task_goal": "Adding salt to the mixture",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 11879,
+                "stop_frame": 11896
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 11896,
+                "stop_frame": 11919
+            },
+            {
+                "narration_text": "#C C lifts the right hand",
+                "start_frame": 11919,
+                "stop_frame": 11927
+            },
+            {
+                "narration_text": "#C C picks a tin of salt",
+                "start_frame": 11927,
+                "stop_frame": 11939
+            },
+            {
+                "narration_text": "#C C holds the tin with both hands",
+                "start_frame": 11939,
+                "stop_frame": 11946
+            },
+            {
+                "narration_text": "#C C opens the tin",
+                "start_frame": 11946,
+                "stop_frame": 11979
+            },
+            {
+                "narration_text": "#C C places the lid on the sink table",
+                "start_frame": 11979,
+                "stop_frame": 11986
+            },
+            {
+                "narration_text": "#C C makes a step",
+                "start_frame": 11986,
+                "stop_frame": 11996
+            },
+            {
+                "narration_text": "#C C picks a spoon",
+                "start_frame": 11996,
+                "stop_frame": 12022
+            },
+            {
+                "narration_text": "#C C scoops salt",
+                "start_frame": 12022,
+                "stop_frame": 12103
+            },
+            {
+                "narration_text": "#C C pours the salt on the pan",
+                "start_frame": 12103,
+                "stop_frame": 12131
+            },
+            {
+                "narration_text": "#C C shakes the spoon",
+                "start_frame": 12131,
+                "stop_frame": 12165
+            },
+            {
+                "narration_text": "#C C places the spoon inside the tin",
+                "start_frame": 12165,
+                "stop_frame": 12202
+            },
+            {
+                "narration_text": "#C C picks the lid",
+                "start_frame": 12202,
+                "stop_frame": 12241
+            },
+            {
+                "narration_text": "#C C closes the tin",
+                "start_frame": 12241,
+                "stop_frame": 12270
+            },
+            {
+                "narration_text": "#C C places the tin on the sink table",
+                "start_frame": 12270,
+                "stop_frame": 12293
+            },
+            {
+                "narration_text": "#C C wipes the hand on the apron",
+                "start_frame": 12293,
+                "stop_frame": 12318
+            },
+            {
+                "narration_text": "#C C picks the phone",
+                "start_frame": 12318,
+                "stop_frame": 12336
+            }
+        ]
+    },
+    {
+        "task_goal": "Adding salt to the mixture in the pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 11879,
+                "stop_frame": 11896
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 11896,
+                "stop_frame": 11919
+            },
+            {
+                "narration_text": "#C C lifts the right hand",
+                "start_frame": 11919,
+                "stop_frame": 11927
+            },
+            {
+                "narration_text": "#C C picks a tin of salt",
+                "start_frame": 11927,
+                "stop_frame": 11939
+            },
+            {
+                "narration_text": "#C C holds the tin with both hands",
+                "start_frame": 11939,
+                "stop_frame": 11946
+            },
+            {
+                "narration_text": "#C C opens the tin",
+                "start_frame": 11946,
+                "stop_frame": 11979
+            },
+            {
+                "narration_text": "#C C places the lid on the sink table",
+                "start_frame": 11979,
+                "stop_frame": 11986
+            },
+            {
+                "narration_text": "#C C makes a step",
+                "start_frame": 11986,
+                "stop_frame": 11996
+            },
+            {
+                "narration_text": "#C C picks a spoon",
+                "start_frame": 11996,
+                "stop_frame": 12022
+            },
+            {
+                "narration_text": "#C C scoops salt",
+                "start_frame": 12022,
+                "stop_frame": 12103
+            },
+            {
+                "narration_text": "#C C pours the salt on the pan",
+                "start_frame": 12103,
+                "stop_frame": 12131
+            },
+            {
+                "narration_text": "#C C shakes the spoon",
+                "start_frame": 12131,
+                "stop_frame": 12165
+            },
+            {
+                "narration_text": "#C C places the spoon inside the tin",
+                "start_frame": 12165,
+                "stop_frame": 12202
+            },
+            {
+                "narration_text": "#C C picks the lid",
+                "start_frame": 12202,
+                "stop_frame": 12241
+            },
+            {
+                "narration_text": "#C C closes the tin",
+                "start_frame": 12241,
+                "stop_frame": 12270
+            },
+            {
+                "narration_text": "#C C places the tin on the sink table",
+                "start_frame": 12270,
+                "stop_frame": 12293
+            },
+            {
+                "narration_text": "#C C wipes the hand on the apron",
+                "start_frame": 12293,
+                "stop_frame": 12318
+            },
+            {
+                "narration_text": "#C C picks the phone",
+                "start_frame": 12318,
+                "stop_frame": 12336
+            }
+        ]
+    },
+    {
+        "task_goal": "Operating phone while doing kitchen tasks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C wipes the hand on the apron",
+                "start_frame": 12293,
+                "stop_frame": 12318
+            },
+            {
+                "narration_text": "#C C picks the phone",
+                "start_frame": 12318,
+                "stop_frame": 12336
+            },
+            {
+                "narration_text": "#C C opens the phone",
+                "start_frame": 12336,
+                "stop_frame": 12377
+            },
+            {
+                "narration_text": "#C C wipes the hand on the apron",
+                "start_frame": 12377,
+                "stop_frame": 12444
+            },
+            {
+                "narration_text": "#C C operates a phone",
+                "start_frame": 12444,
+                "stop_frame": 12500
+            },
+            {
+                "narration_text": "#C C wipes the hand on the apron",
+                "start_frame": 12500,
+                "stop_frame": 12534
+            },
+            {
+                "narration_text": "#C C operates a phone",
+                "start_frame": 12534,
+                "stop_frame": 14295
+            },
+            {
+                "narration_text": "#C C places the phone down",
+                "start_frame": 14295,
+                "stop_frame": 14303
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 14303,
+                "stop_frame": 14332
+            },
+            {
+                "narration_text": "#C C wipes the hand on the apron",
+                "start_frame": 14332,
+                "stop_frame": 14349
+            },
+            {
+                "narration_text": "#C C picks a knife",
+                "start_frame": 14349,
+                "stop_frame": 14387
+            },
+            {
+                "narration_text": "#C C picks #Unsure",
+                "start_frame": 14387,
+                "stop_frame": 14429
+            },
+            {
+                "narration_text": "#C C peels #Unsure",
+                "start_frame": 14429,
+                "stop_frame": 14742
+            },
+            {
+                "narration_text": "#C C drops the peel on the bowl",
+                "start_frame": 14742,
+                "stop_frame": 14749
+            }
+        ]
+    }
+]

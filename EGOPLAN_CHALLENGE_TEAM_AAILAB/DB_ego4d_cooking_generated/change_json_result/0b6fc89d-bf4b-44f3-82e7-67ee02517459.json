@@ -1,0 +1,102 @@
+{
+    "overall_goal": "C prepares and cleans up after serving food",
+    "clips": [
+        {
+            "subgoal": "Serving food onto plates",
+            "start_timestamp": 0,
+            "stop_timestamp": 1344,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Serving food onto individual plates",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 1115
+                },
+                {
+                    "secondary_subgoal": "Serving food onto the final plate",
+                    "start_timestamp": 1115,
+                    "stop_timestamp": 1344
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning up cooking utensils",
+            "start_timestamp": 1344,
+            "stop_timestamp": 1498,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Putting cooking pan and spatula in the sink",
+                    "start_timestamp": 1344,
+                    "stop_timestamp": 1416
+                }
+            ]
+        },
+        {
+            "subgoal": "Retrieving and arranging additional bowls",
+            "start_timestamp": 1460,
+            "stop_timestamp": 1897,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening cabinet to get bowls",
+                    "start_timestamp": 1460,
+                    "stop_timestamp": 1585
+                },
+                {
+                    "secondary_subgoal": "Picking and setting bowls on trays",
+                    "start_timestamp": 1585,
+                    "stop_timestamp": 1897
+                }
+            ]
+        },
+        {
+            "subgoal": "Using fridge and preparing items",
+            "start_timestamp": 1897,
+            "stop_timestamp": 2499,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening fridge and handling items",
+                    "start_timestamp": 1897,
+                    "stop_timestamp": 2335
+                },
+                {
+                    "secondary_subgoal": "Opening can and arranging items",
+                    "start_timestamp": 2335,
+                    "stop_timestamp": 2499
+                }
+            ]
+        },
+        {
+            "subgoal": "Placing utensils and food items",
+            "start_timestamp": 2499,
+            "stop_timestamp": 3311,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Placing items in bowls and cleaning up",
+                    "start_timestamp": 2499,
+                    "stop_timestamp": 3054
+                },
+                {
+                    "secondary_subgoal": "Using kitchen hood and sink",
+                    "start_timestamp": 3054,
+                    "stop_timestamp": 3311
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing and drying utensils",
+            "start_timestamp": 3311,
+            "stop_timestamp": 4371,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing and placing utensils in the dish rack",
+                    "start_timestamp": 3311,
+                    "stop_timestamp": 3968
+                },
+                {
+                    "secondary_subgoal": "Rinsing and drying cooking pan, wiping hand, and adjusting camera",
+                    "start_timestamp": 3968,
+                    "stop_timestamp": 4471
+                }
+            ]
+        }
+    ]
+}

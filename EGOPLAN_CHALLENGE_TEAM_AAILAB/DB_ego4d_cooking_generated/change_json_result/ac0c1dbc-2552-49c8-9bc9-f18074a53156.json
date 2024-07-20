@@ -1,0 +1,108 @@
+{
+    "overall_goal": "Shell and collect nuts in a tray",
+    "clips": [
+        {
+            "subgoal": "Prepare work area and collect nuts",
+            "start_timestamp": 34,
+            "stop_timestamp": 1065,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place tray in basket and collect nuts in it",
+                    "start_timestamp": 94,
+                    "stop_timestamp": 562
+                },
+                {
+                    "secondary_subgoal": "Move through room and adjust position",
+                    "start_timestamp": 562,
+                    "stop_timestamp": 620
+                },
+                {
+                    "secondary_subgoal": "Collect more nuts in the tray",
+                    "start_timestamp": 642,
+                    "stop_timestamp": 702
+                },
+                {
+                    "secondary_subgoal": "Prepare tray and position on table",
+                    "start_timestamp": 970,
+                    "stop_timestamp": 1065
+                }
+            ]
+        },
+        {
+            "subgoal": "Arrange seating and start shelling nuts",
+            "start_timestamp": 1065,
+            "stop_timestamp": 2131,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare for work",
+                    "start_timestamp": 1065,
+                    "stop_timestamp": 1156
+                },
+                {
+                    "secondary_subgoal": "Adjust chair and start clicking mouse",
+                    "start_timestamp": 1156,
+                    "stop_timestamp": 1532
+                },
+                {
+                    "secondary_subgoal": "Start putting nuts in tray",
+                    "start_timestamp": 1532,
+                    "stop_timestamp": 2131
+                }
+            ]
+        },
+        {
+            "subgoal": "Shell nuts using nut crasher tool",
+            "start_timestamp": 2131,
+            "stop_timestamp": 487,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Process nuts with nut crasher",
+                    "start_timestamp": 2131,
+                    "stop_timestamp": 4574
+                },
+                {
+                    "secondary_subgoal": "Continue shelling more nuts using nut crasher",
+                    "start_timestamp": 4574,
+                    "stop_timestamp": 7177
+                },
+                {
+                    "secondary_subgoal": "Complete shelling last batch of nuts",
+                    "start_timestamp": 7177,
+                    "stop_timestamp": 8866
+                },
+                {
+                    "secondary_subgoal": "Pick a nut, use nut crasher",
+                    "start_timestamp": 8866,
+                    "stop_timestamp": 15258
+                }
+            ]
+        },
+        {
+            "subgoal": "Shelling and cracking nuts continued",
+            "start_timestamp": 15258,
+            "stop_timestamp": 16097,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Shell nuts using nut crasher",
+                    "start_timestamp": 15258,
+                    "stop_timestamp": 17209
+                },
+                {
+                    "secondary_subgoal": "Switch to nut cracker tool",
+                    "start_timestamp": 17209,
+                    "stop_timestamp": 17745
+                },
+                {
+                    "secondary_subgoal": "Continue using nut cracker",
+                    "start_timestamp": 17745,
+                    "stop_timestamp": 21892
+                },
+                {
+                    "secondary_subgoal": "Cleanup area, adjust position",
+                    "start_timestamp": 21892,
+                    "stop_timestamp": 23231
+                }
+            ]
+        }
+    ]
+}

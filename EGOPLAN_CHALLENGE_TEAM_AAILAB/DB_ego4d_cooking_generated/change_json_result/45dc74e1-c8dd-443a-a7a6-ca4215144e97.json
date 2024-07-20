@@ -1,0 +1,108 @@
+{
+    "overall_goal": "Cook dough rings and flies dough rolls in the pan",
+    "clips": [
+        {
+            "subgoal": "Prepare dough rings",
+            "start_timestamp": 1,
+            "stop_timestamp": 2761,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir and turn dough rings in the pan",
+                    "start_timestamp": 1,
+                    "stop_timestamp": 1293
+                },
+                {
+                    "secondary_subgoal": "Pick and drain oil from dough rings",
+                    "start_timestamp": 1293,
+                    "stop_timestamp": 2672
+                },
+                {
+                    "secondary_subgoal": "Prepare strainer",
+                    "start_timestamp": 2672,
+                    "stop_timestamp": 2761
+                }
+            ]
+        },
+        {
+            "subgoal": "Transfer dough rings to strainer and oil",
+            "start_timestamp": 2761,
+            "stop_timestamp": 3394,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put dough rings in strainer and prepare lids",
+                    "start_timestamp": 2761,
+                    "stop_timestamp": 3322
+                },
+                {
+                    "secondary_subgoal": "Put lids down and sit",
+                    "start_timestamp": 3322,
+                    "stop_timestamp": 3619
+                },
+                {
+                    "secondary_subgoal": "Adjust camera",
+                    "start_timestamp": 3619,
+                    "stop_timestamp": 3671
+                }
+            ]
+        },
+        {
+            "subgoal": "Turn and stir dough rings",
+            "start_timestamp": 3671,
+            "stop_timestamp": 11790,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold up and turn dough rings",
+                    "start_timestamp": 3671,
+                    "stop_timestamp": 4208
+                },
+                {
+                    "secondary_subgoal": "Pour dough rings in strainer",
+                    "start_timestamp": 4208,
+                    "stop_timestamp": 4264
+                },
+                {
+                    "secondary_subgoal": "Turn and stir dough rings with stick",
+                    "start_timestamp": 5029,
+                    "stop_timestamp": 6748
+                },
+                {
+                    "secondary_subgoal": "Turn and place metal stick on the pan",
+                    "start_timestamp": 6748,
+                    "stop_timestamp": 8376
+                },
+                {
+                    "secondary_subgoal": "Pick and turn dough rings",
+                    "start_timestamp": 8376,
+                    "stop_timestamp": 9100
+                },
+                {
+                    "secondary_subgoal": "Stir flies dough rolls with rod",
+                    "start_timestamp": 9100,
+                    "stop_timestamp": 10315
+                },
+                {
+                    "secondary_subgoal": "Turn and place flies dough rolls on rod",
+                    "start_timestamp": 10315,
+                    "stop_timestamp": 11790
+                }
+            ]
+        },
+        {
+            "subgoal": "Transfer flies dough rolls to pot",
+            "start_timestamp": 11790,
+            "stop_timestamp": 13641,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pour and move flies dough rolls to larger pot",
+                    "start_timestamp": 11790,
+                    "stop_timestamp": 12456
+                },
+                {
+                    "secondary_subgoal": "Hand flies dough rolls to lady X",
+                    "start_timestamp": 12456,
+                    "stop_timestamp": 13641
+                }
+            ]
+        }
+    ]
+}

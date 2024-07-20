@@ -1,0 +1,422 @@
+[
+    {
+        "task_goal": "Prepare plate and serve initial food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes a plate",
+                "start_frame": 1,
+                "stop_frame": 1
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 1,
+                "stop_frame": 66
+            },
+            {
+                "narration_text": "Serves food",
+                "start_frame": 66,
+                "stop_frame": 298
+            },
+            {
+                "narration_text": "Hits the dish with the ladle",
+                "start_frame": 298,
+                "stop_frame": 313
+            },
+            {
+                "narration_text": "Puts ladle aside",
+                "start_frame": 313,
+                "stop_frame": 350
+            },
+            {
+                "narration_text": "Closes the dish",
+                "start_frame": 350,
+                "stop_frame": 352
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 352,
+                "stop_frame": 426
+            }
+        ]
+    },
+    {
+        "task_goal": "Take a plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes a plate",
+                "start_frame": 1,
+                "stop_frame": 1
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 1,
+                "stop_frame": 66
+            }
+        ]
+    },
+    {
+        "task_goal": "Move around the room",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes a plate",
+                "start_frame": 1,
+                "stop_frame": 1
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 1,
+                "stop_frame": 66
+            },
+            {
+                "narration_text": "Serves food",
+                "start_frame": 66,
+                "stop_frame": 298
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve food onto plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 1,
+                "stop_frame": 66
+            },
+            {
+                "narration_text": "Serves food",
+                "start_frame": 66,
+                "stop_frame": 298
+            },
+            {
+                "narration_text": "Hits the dish with the ladle",
+                "start_frame": 298,
+                "stop_frame": 313
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle ladle after serving food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Serves food",
+                "start_frame": 66,
+                "stop_frame": 298
+            },
+            {
+                "narration_text": "Hits the dish with the ladle",
+                "start_frame": 298,
+                "stop_frame": 313
+            },
+            {
+                "narration_text": "Puts ladle aside",
+                "start_frame": 313,
+                "stop_frame": 350
+            }
+        ]
+    },
+    {
+        "task_goal": "Put ladle aside and close dish",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Hits the dish with the ladle",
+                "start_frame": 298,
+                "stop_frame": 313
+            },
+            {
+                "narration_text": "Puts ladle aside",
+                "start_frame": 313,
+                "stop_frame": 350
+            },
+            {
+                "narration_text": "Closes the dish",
+                "start_frame": 350,
+                "stop_frame": 352
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 352,
+                "stop_frame": 426
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve additional food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the dish",
+                "start_frame": 350,
+                "stop_frame": 352
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 352,
+                "stop_frame": 426
+            },
+            {
+                "narration_text": "Serves food",
+                "start_frame": 426,
+                "stop_frame": 719
+            },
+            {
+                "narration_text": "Moves a step",
+                "start_frame": 719,
+                "stop_frame": 758
+            },
+            {
+                "narration_text": "Takes pot lid",
+                "start_frame": 758,
+                "stop_frame": 856
+            },
+            {
+                "narration_text": "Serves unsure with tongs",
+                "start_frame": 856,
+                "stop_frame": 1266
+            },
+            {
+                "narration_text": "Puts tongs in the dish",
+                "start_frame": 1266,
+                "stop_frame": 1278
+            },
+            {
+                "narration_text": "Pushes the dish",
+                "start_frame": 1278,
+                "stop_frame": 1304
+            },
+            {
+                "narration_text": "Takes tongs",
+                "start_frame": 1304,
+                "stop_frame": 1330
+            },
+            {
+                "narration_text": "Takes doughnut with tongs",
+                "start_frame": 1330,
+                "stop_frame": 1447
+            },
+            {
+                "narration_text": "Holds doughnut with hand",
+                "start_frame": 1447,
+                "stop_frame": 1519
+            },
+            {
+                "narration_text": "Puts doughnut in the plate",
+                "start_frame": 1519,
+                "stop_frame": 1531
+            },
+            {
+                "narration_text": "Pushes the plate",
+                "start_frame": 1531,
+                "stop_frame": 1587
+            },
+            {
+                "narration_text": "Puts tongs in the dish",
+                "start_frame": 1587,
+                "stop_frame": 1597
+            },
+            {
+                "narration_text": "Lifts the hand",
+                "start_frame": 1597,
+                "stop_frame": 1697
+            }
+        ]
+    },
+    {
+        "task_goal": "Move around the room",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the dish",
+                "start_frame": 350,
+                "stop_frame": 352
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 352,
+                "stop_frame": 426
+            },
+            {
+                "narration_text": "Serves food",
+                "start_frame": 426,
+                "stop_frame": 719
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve food onto plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 352,
+                "stop_frame": 426
+            },
+            {
+                "narration_text": "Serves food",
+                "start_frame": 426,
+                "stop_frame": 719
+            },
+            {
+                "narration_text": "Moves a step",
+                "start_frame": 719,
+                "stop_frame": 758
+            }
+        ]
+    },
+    {
+        "task_goal": "Move and take pot lid",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Serves food",
+                "start_frame": 426,
+                "stop_frame": 719
+            },
+            {
+                "narration_text": "Moves a step",
+                "start_frame": 719,
+                "stop_frame": 758
+            },
+            {
+                "narration_text": "Takes pot lid",
+                "start_frame": 758,
+                "stop_frame": 856
+            },
+            {
+                "narration_text": "Serves unsure with tongs",
+                "start_frame": 856,
+                "stop_frame": 1266
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve with tongs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes pot lid",
+                "start_frame": 758,
+                "stop_frame": 856
+            },
+            {
+                "narration_text": "Serves unsure with tongs",
+                "start_frame": 856,
+                "stop_frame": 1266
+            },
+            {
+                "narration_text": "Puts tongs in the dish",
+                "start_frame": 1266,
+                "stop_frame": 1278
+            },
+            {
+                "narration_text": "Pushes the dish",
+                "start_frame": 1278,
+                "stop_frame": 1304
+            }
+        ]
+    },
+    {
+        "task_goal": "Push dish and take tongs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts tongs in the dish",
+                "start_frame": 1266,
+                "stop_frame": 1278
+            },
+            {
+                "narration_text": "Pushes the dish",
+                "start_frame": 1278,
+                "stop_frame": 1304
+            },
+            {
+                "narration_text": "Takes tongs",
+                "start_frame": 1304,
+                "stop_frame": 1330
+            },
+            {
+                "narration_text": "Takes doughnut with tongs",
+                "start_frame": 1330,
+                "stop_frame": 1447
+            }
+        ]
+    },
+    {
+        "task_goal": "Take doughnut with tongs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes tongs",
+                "start_frame": 1304,
+                "stop_frame": 1330
+            },
+            {
+                "narration_text": "Takes doughnut with tongs",
+                "start_frame": 1330,
+                "stop_frame": 1447
+            },
+            {
+                "narration_text": "Holds doughnut with hand",
+                "start_frame": 1447,
+                "stop_frame": 1519
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold doughnut and put in plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes doughnut with tongs",
+                "start_frame": 1330,
+                "stop_frame": 1447
+            },
+            {
+                "narration_text": "Holds doughnut with hand",
+                "start_frame": 1447,
+                "stop_frame": 1519
+            },
+            {
+                "narration_text": "Puts doughnut in the plate",
+                "start_frame": 1519,
+                "stop_frame": 1531
+            },
+            {
+                "narration_text": "Pushes the plate",
+                "start_frame": 1531,
+                "stop_frame": 1587
+            }
+        ]
+    },
+    {
+        "task_goal": "Push plate and put tongs in dish",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts doughnut in the plate",
+                "start_frame": 1519,
+                "stop_frame": 1531
+            },
+            {
+                "narration_text": "Pushes the plate",
+                "start_frame": 1531,
+                "stop_frame": 1587
+            },
+            {
+                "narration_text": "Puts tongs in the dish",
+                "start_frame": 1587,
+                "stop_frame": 1597
+            },
+            {
+                "narration_text": "Lifts the hand",
+                "start_frame": 1597,
+                "stop_frame": 1697
+            }
+        ]
+    },
+    {
+        "task_goal": "Lift hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts tongs in the dish",
+                "start_frame": 1587,
+                "stop_frame": 1597
+            },
+            {
+                "narration_text": "Lifts the hand",
+                "start_frame": 1597,
+                "stop_frame": 1697
+            }
+        ]
+    }
+]

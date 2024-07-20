@@ -1,0 +1,107 @@
+{
+    "overall_goal": "Prepare and serve food using a pan.",
+    "clips": [
+        {
+            "subgoal": "Wash and clean utensils and pan.",
+            "start_timestamp": 0,
+            "stop_timestamp": 66,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash the chopsticks.",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 45
+                },
+                {
+                    "secondary_subgoal": "Turn off the kitchen faucet.",
+                    "start_timestamp": 45,
+                    "stop_timestamp": 66
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the food in the pan.",
+            "start_timestamp": 66,
+            "stop_timestamp": 2230,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Position by the pan and check the food.",
+                    "start_timestamp": 66,
+                    "stop_timestamp": 739
+                },
+                {
+                    "secondary_subgoal": "Interact with the food in the pan using chopsticks.",
+                    "start_timestamp": 739,
+                    "stop_timestamp": 2230
+                }
+            ]
+        },
+        {
+            "subgoal": "Transfer the food to the plate.",
+            "start_timestamp": 2230,
+            "stop_timestamp": 2544,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up the pan and plate.",
+                    "start_timestamp": 2230,
+                    "stop_timestamp": 2298
+                },
+                {
+                    "secondary_subgoal": "Empty the food onto the plate and place the plate on countertop.",
+                    "start_timestamp": 2298,
+                    "stop_timestamp": 2489
+                },
+                {
+                    "secondary_subgoal": "Place the pan back on the stove.",
+                    "start_timestamp": 2489,
+                    "stop_timestamp": 2544
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean the pan after cooking.",
+            "start_timestamp": 2544,
+            "stop_timestamp": 2866,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on the kitchen faucet and rinse the pan.",
+                    "start_timestamp": 2544,
+                    "stop_timestamp": 2751
+                },
+                {
+                    "secondary_subgoal": "Turn off the kitchen faucet and put the pan in the sink.",
+                    "start_timestamp": 2751,
+                    "stop_timestamp": 2866
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize the utensils and clean up.",
+            "start_timestamp": 2866,
+            "stop_timestamp": 2942,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put the chopsticks on the plate.",
+                    "start_timestamp": 2866,
+                    "stop_timestamp": 2896
+                },
+                {
+                    "secondary_subgoal": "Walk around the kitchen.",
+                    "start_timestamp": 2896,
+                    "stop_timestamp": 2942
+                }
+            ]
+        },
+        {
+            "subgoal": "Check the phone.",
+            "start_timestamp": 2942,
+            "stop_timestamp": 3042,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Interact with the phone.",
+                    "start_timestamp": 2942,
+                    "stop_timestamp": 3042
+                }
+            ]
+        }
+    ]
+}

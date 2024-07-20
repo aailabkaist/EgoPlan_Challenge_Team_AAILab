@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgf1e6BGEPierRCctK8EAhuUHcgX",
+    "object": "chat.completion",
+    "created": 1719245807,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook a meal using various ingredients including tomatoes, spices, and unleavened bread.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Wash and prepare hands.\",\n      \"start_timestamp\": 39,\n      \"stop_timestamp\": 1071,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Look around and walk.\",\n          \"start_timestamp\": 39,\n          \"stop_timestamp\": 155\n        },\n        {\n          \"secondary_subgoal\": \"Wash and scrub hands.\",\n          \"start_timestamp\": 155,\n          \"stop_timestamp\": 252\n        },\n        {\n          \"secondary_subgoal\": \"Apply and scrub soap.\",\n          \"start_timestamp\": 252,\n          \"stop_timestamp\": 363\n        },\n        {\n          \"secondary_subgoal\": \"Rinse hands and wipe clean.\",\n          \"start_timestamp\": 363,\n          \"stop_timestamp\": 1071\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Gather and prepare ingredients.\",\n      \"start_timestamp\": 1071,\n      \"stop_timestamp\": 3078,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare the chopping board and gather knife.\",\n          \"start_timestamp\": 1071,\n          \"stop_timestamp\": 1326\n        },\n        {\n          \"secondary_subgoal\": \"Gather and prepare tomatoes.\",\n          \"start_timestamp\": 1418,\n          \"stop_timestamp\": 2317\n        },\n        {\n          \"secondary_subgoal\": \"Wash tomatoes.\",\n          \"start_timestamp\": 2333,\n          \"stop_timestamp\": 2554\n        },\n        {\n          \"secondary_subgoal\": \"Wipe hands and take a bowl.\",\n          \"start_timestamp\": 2689,\n          \"stop_timestamp\": 2851\n        },\n        {\n          \"secondary_subgoal\": \"Move around kitchen, gather knife and tomatoes.\",\n          \"start_timestamp\": 2851,\n          \"stop_timestamp\": 2880\n        },\n        {\n          \"secondary_subgoal\": \"Cut and prepare tomatoes.\",\n          \"start_timestamp\": 2994,\n          \"stop_timestamp\": 3760\n        },\n        {\n          \"secondary_subgoal\": \"Clean the chopping board and work area.\",\n          \"start_timestamp\": 3809,\n          \"stop_timestamp\": 4127\n        },\n        {\n          \"secondary_subgoal\": \"Chop and transfer tomatoes to bowl.\",\n          \"start_timestamp\": 4204,\n          \"stop_timestamp\": 4910\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare spices and mix with ingredients.\",\n      \"start_timestamp\": 5339,\n      \"stop_timestamp\": 9538,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gather and use spices from upper cabinet.\",\n          \"start_timestamp\": 5919,\n          \"stop_timestamp\": 6118\n        },\n        {\n          \"secondary_subgoal\": \"Open and mix spices.\",\n          \"start_timestamp\": 6118,\n          \"stop_timestamp\": 8950\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Process other ingredients by heating.\",\n      \"start_timestamp\": 9763,\n      \"stop_timestamp\": 20796,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Process ingredients in microwave.\",\n          \"start_timestamp\": 9937,\n          \"stop_timestamp\": 18281\n        },\n        {\n          \"secondary_subgoal\": \"Prepare and cut carrots.\",\n          \"start_timestamp\": 18569,\n          \"stop_timestamp\": 20932\n        },\n        {\n          \"secondary_subgoal\": \"Wash and chop carrots.\",\n          \"start_timestamp\": 20932,\n          \"stop_timestamp\": 21298\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7640,
+        "completion_tokens": 798,
+        "total_tokens": 8438
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

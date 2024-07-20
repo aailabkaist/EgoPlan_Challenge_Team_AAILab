@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfBXrThHqKa4PmYEZj0t1hGg76Cc",
+    "object": "chat.completion",
+    "created": 1719240135,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Cleaning kitchen utensils and the kitchen sink\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Preparing to clean the kitchen utensils\",\n            \"start_timestamp\": 0,\n            \"stop_timestamp\": 238,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Adjusting the camera\",\n                    \"start_timestamp\": 0,\n                    \"stop_timestamp\": 64\n                },\n                {\n                    \"secondary_subgoal\": \"Picking up the lid and covering the pan\",\n                    \"start_timestamp\": 64,\n                    \"stop_timestamp\": 227\n                },\n                {\n                    \"secondary_subgoal\": \"Turning on and walking towards the faucet\",\n                    \"start_timestamp\": 227,\n                    \"stop_timestamp\": 238\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Cleaning the kitchen utensils\",\n            \"start_timestamp\": 238,\n            \"stop_timestamp\": 1457,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Water getting ready\",\n                    \"start_timestamp\": 238,\n                    \"stop_timestamp\": 321\n                },\n                {\n                    \"secondary_subgoal\": \"Putting utensils into the sink\",\n                    \"start_timestamp\": 321,\n                    \"stop_timestamp\": 390\n                },\n                {\n                    \"secondary_subgoal\": \"Preparing sponge with kitchen detergent\",\n                    \"start_timestamp\": 390,\n                    \"stop_timestamp\": 577\n                },\n                {\n                    \"secondary_subgoal\": \"Pouring water from bowl and washing it\",\n                    \"start_timestamp\": 577,\n                    \"stop_timestamp\": 831\n                },\n                {\n                    \"secondary_subgoal\": \"Washing chopsticks and spoon\",\n                    \"start_timestamp\": 831,\n                    \"stop_timestamp\": 1083\n                },\n                {\n                    \"secondary_subgoal\": \"Rinsing and placing the spoon on the utensil rack\",\n                    \"start_timestamp\": 1083,\n                    \"stop_timestamp\": 1142\n                },\n                {\n                    \"secondary_subgoal\": \"Rinsing and placing the chopsticks on the utensil rack\",\n                    \"start_timestamp\": 1142,\n                    \"stop_timestamp\": 1238\n                },\n                {\n                    \"secondary_subgoal\": \"Rinsing and placing the bowl on the countertop\",\n                    \"start_timestamp\": 1238,\n                    \"stop_timestamp\": 1457\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Cleaning the sink and preparing for next round of cleaning\",\n            \"start_timestamp\": 1457,\n            \"stop_timestamp\": 3351,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Cleaning the sink using the sponge\",\n                    \"start_timestamp\": 1457,\n                    \"stop_timestamp\": 2070\n                },\n                {\n                    \"secondary_subgoal\": \"Drying the sink using the kitchen towel\",\n                    \"start_timestamp\": 2070,\n                    \"stop_timestamp\": 2600\n                },\n                {\n                    \"secondary_subgoal\": \"Spraying kitchen detergent and rinsing the sink\",\n                    \"start_timestamp\": 2600,\n                    \"stop_timestamp\": 3251\n                },\n                {\n                    \"secondary_subgoal\": \"Adjusting camera (final)\",\n                    \"start_timestamp\": 3251,\n                    \"stop_timestamp\": 3351\n                }\n            ]\n        }\n    ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 922,
+        "completion_tokens": 702,
+        "total_tokens": 1624
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

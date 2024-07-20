@@ -1,0 +1,250 @@
+{
+    "overall_goal": "Clean the pounding stone, prepare ingredients, cook meals on a firewood stove, and make flatbreads using a rolling pin and cooking pan.",
+    "clips": [
+        {
+            "subgoal": "Clean the pounding stone and area",
+            "start_timestamp": 123,
+            "stop_timestamp": 3296,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjust bracelet and wash the pounding stone",
+                    "start_timestamp": 123,
+                    "stop_timestamp": 328
+                },
+                {
+                    "secondary_subgoal": "Wash the pounding area",
+                    "start_timestamp": 328,
+                    "stop_timestamp": 1376
+                },
+                {
+                    "secondary_subgoal": "Place pounding stone and wipe off cement",
+                    "start_timestamp": 1376,
+                    "stop_timestamp": 1448
+                },
+                {
+                    "secondary_subgoal": "Rinse cooking pot and wipe the pounding stone and area",
+                    "start_timestamp": 1448,
+                    "stop_timestamp": 1907
+                },
+                {
+                    "secondary_subgoal": "Dispose of dirty water and fetch clean water",
+                    "start_timestamp": 1907,
+                    "stop_timestamp": 2286
+                },
+                {
+                    "secondary_subgoal": "Rinse the pounding stone and area with clean water",
+                    "start_timestamp": 2286,
+                    "stop_timestamp": 3035
+                },
+                {
+                    "secondary_subgoal": "Clear water from the pounding area and put the pounding stone in place",
+                    "start_timestamp": 3035,
+                    "stop_timestamp": 3296
+                }
+            ]
+        },
+        {
+            "subgoal": "Light the fire and set up the cooking area",
+            "start_timestamp": 3571,
+            "stop_timestamp": 4734,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse hands and fill cooking pot with water",
+                    "start_timestamp": 3451,
+                    "stop_timestamp": 3762
+                },
+                {
+                    "secondary_subgoal": "Walk to the pounding area and place the cooking pot with water",
+                    "start_timestamp": 3762,
+                    "stop_timestamp": 3915
+                },
+                {
+                    "secondary_subgoal": "Adjust bracelet and collect items from kitchen shelf",
+                    "start_timestamp": 4319,
+                    "stop_timestamp": 4479
+                },
+                {
+                    "secondary_subgoal": "Walk around and stand in kitchen",
+                    "start_timestamp": 4479,
+                    "stop_timestamp": 4856
+                },
+                {
+                    "secondary_subgoal": "Collect boti knife from woman and slice ingredients",
+                    "start_timestamp": 5149,
+                    "stop_timestamp": 6188
+                },
+                {
+                    "secondary_subgoal": "Remove boti knife and push the tray",
+                    "start_timestamp": 6188,
+                    "stop_timestamp": 6742
+                },
+                {
+                    "secondary_subgoal": "Frog march around the kitchen and place pot in different place",
+                    "start_timestamp": 6742,
+                    "stop_timestamp": 7042
+                },
+                {
+                    "secondary_subgoal": "Remove hand from nylon paper and break cow dung pallet",
+                    "start_timestamp": 7042,
+                    "stop_timestamp": 9265
+                },
+                {
+                    "secondary_subgoal": "Light fire using matchbox and cow dung pallets",
+                    "start_timestamp": 9492,
+                    "stop_timestamp": 97217
+                },
+                {
+                    "secondary_subgoal": "Pick cow dung pallet and add to fire",
+                    "start_timestamp": 12221,
+                    "stop_timestamp": 14190
+                },
+                {
+                    "secondary_subgoal": "Watch fire and adjust stones",
+                    "start_timestamp": 17260,
+                    "stop_timestamp": 20835
+                },
+                {
+                    "secondary_subgoal": "Pick package of bananas and place them down",
+                    "start_timestamp": 21104,
+                    "stop_timestamp": 21502
+                },
+                {
+                    "secondary_subgoal": "Pick package and arrange packages in room",
+                    "start_timestamp": 21910,
+                    "stop_timestamp": 22389
+                },
+                {
+                    "secondary_subgoal": "Walk towards kitchen and enter",
+                    "start_timestamp": 22707,
+                    "stop_timestamp": 22846
+                },
+                {
+                    "secondary_subgoal": "Walk into and out of kitchen and room",
+                    "start_timestamp": 22974,
+                    "stop_timestamp": 23296
+                },
+                {
+                    "secondary_subgoal": "Check packages and put items aside",
+                    "start_timestamp": 23402,
+                    "stop_timestamp": 23943
+                },
+                {
+                    "secondary_subgoal": "Give child #unsure and check package",
+                    "start_timestamp": 24800,
+                    "stop_timestamp": 25300
+                },
+                {
+                    "secondary_subgoal": "Enter the kitchen and pick chili pepper",
+                    "start_timestamp": 25715,
+                    "stop_timestamp": 26452
+                },
+                {
+                    "secondary_subgoal": "Slice green pepper and add to pan",
+                    "start_timestamp": 27614,
+                    "stop_timestamp": 29076
+                },
+                {
+                    "secondary_subgoal": "Adjust cow dung pallet and pick serving spoon",
+                    "start_timestamp": 31841,
+                    "stop_timestamp": 32299
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook ingredients on firewood stove",
+            "start_timestamp": 32409,
+            "stop_timestamp": 62789,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjust contents in a cooking pan",
+                    "start_timestamp": 37495,
+                    "stop_timestamp": 38025
+                },
+                {
+                    "secondary_subgoal": "Walk to cooking pot and adjust its placement",
+                    "start_timestamp": 38662,
+                    "stop_timestamp": 38834
+                },
+                {
+                    "secondary_subgoal": "Touch pot lid and walk back to fire",
+                    "start_timestamp": 43495,
+                    "stop_timestamp": 43551
+                },
+                {
+                    "secondary_subgoal": "Open the cooking tin and add ingredients",
+                    "start_timestamp": 46163,
+                    "stop_timestamp": 46834
+                },
+                {
+                    "secondary_subgoal": "Stir food and adjust firewood",
+                    "start_timestamp": 48097,
+                    "stop_timestamp": 49047
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare dough for flatbreads",
+            "start_timestamp": 49095,
+            "stop_timestamp": 145941,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Collect flour and adjust flour bag",
+                    "start_timestamp": 50136,
+                    "stop_timestamp": 50749
+                },
+                {
+                    "secondary_subgoal": "Place flour on tray and walk around",
+                    "start_timestamp": 51510,
+                    "stop_timestamp": 51942
+                },
+                {
+                    "secondary_subgoal": "Adjust cow dung pallet and pick a metal basin",
+                    "start_timestamp": 52274,
+                    "stop_timestamp": 52510
+                },
+                {
+                    "secondary_subgoal": "Push a tray from the floor and look around",
+                    "start_timestamp": 52959,
+                    "stop_timestamp": 53676
+                },
+                {
+                    "secondary_subgoal": "Sieve flour on a tray and adjust firewood",
+                    "start_timestamp": 55720,
+                    "stop_timestamp": 56785
+                },
+                {
+                    "secondary_subgoal": "Sieve flour and adjust more firewood",
+                    "start_timestamp": 56973,
+                    "stop_timestamp": 57802
+                },
+                {
+                    "secondary_subgoal": "Adjust wood and collect water",
+                    "start_timestamp": 62142,
+                    "stop_timestamp": 63018
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook flatbreads on cooking pan",
+            "start_timestamp": 63018,
+            "stop_timestamp": 148000,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mix water into flour and roll dough on a board",
+                    "start_timestamp": 95225,
+                    "stop_timestamp": 100747
+                },
+                {
+                    "secondary_subgoal": "Cook flatbread on flat cooking pan",
+                    "start_timestamp": 105818,
+                    "stop_timestamp": 130591
+                },
+                {
+                    "secondary_subgoal": "Adjust fire with metal rod and prepare next dough",
+                    "start_timestamp": 132127,
+                    "stop_timestamp": 138245
+                }
+            ]
+        }
+    ]
+}

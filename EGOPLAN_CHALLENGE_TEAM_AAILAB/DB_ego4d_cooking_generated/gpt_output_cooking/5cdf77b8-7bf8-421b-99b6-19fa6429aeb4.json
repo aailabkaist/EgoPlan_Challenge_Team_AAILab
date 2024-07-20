@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehYcaCYbje5gom2muqaHy4JVqrwN",
+    "object": "chat.completion",
+    "created": 1719487582,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal involving rice and grated coconut in the kitchen.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Initial activities outside the house\",\n      \"start_timestamp\": 106,\n      \"stop_timestamp\": 2430,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Talking on the phone and exploring the surroundings\",\n          \"start_timestamp\": 106,\n          \"stop_timestamp\": 1271\n        },\n        {\n          \"secondary_subgoal\": \"Walking around and observing the compound\",\n          \"start_timestamp\": 1271,\n          \"stop_timestamp\": 2430\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handling plants and returning inside\",\n      \"start_timestamp\": 2430,\n      \"stop_timestamp\": 4484,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handling a dry plant and cutting a stick\",\n          \"start_timestamp\": 3271,\n          \"stop_timestamp\": 3399\n        },\n        {\n          \"secondary_subgoal\": \"Talking on the phone\",\n          \"start_timestamp\": 3399,\n          \"stop_timestamp\": 4096\n        },\n        {\n          \"secondary_subgoal\": \"Walking inside the house\",\n          \"start_timestamp\": 4096,\n          \"stop_timestamp\": 4291\n        },\n        {\n          \"secondary_subgoal\": \"Talking to a person inside\",\n          \"start_timestamp\": 4291,\n          \"stop_timestamp\": 4484\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing the kitchen for cooking\",\n      \"start_timestamp\": 4484,\n      \"stop_timestamp\": 5631,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Walking around the kitchen and handling utensils\",\n          \"start_timestamp\": 4484,\n          \"stop_timestamp\": 4934\n        },\n        {\n          \"secondary_subgoal\": \"Putting items in the fridge\",\n          \"start_timestamp\": 5113,\n          \"stop_timestamp\": 5498\n        },\n        {\n          \"secondary_subgoal\": \"Looking around the kitchen\",\n          \"start_timestamp\": 5498,\n          \"stop_timestamp\": 5631\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking rice\",\n      \"start_timestamp\": 5631,\n      \"stop_timestamp\": 12273,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handling and washing rice\",\n          \"start_timestamp\": 6724,\n          \"stop_timestamp\": 12273\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing coconut\",\n      \"start_timestamp\": 12273,\n      \"stop_timestamp\": 22014,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cracking and cutting coconut\",\n          \"start_timestamp\": 13064,\n          \"stop_timestamp\": 19384\n        },\n        {\n          \"secondary_subgoal\": \"Peeling and washing coconut\",\n          \"start_timestamp\": 19384,\n          \"stop_timestamp\": 22014\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Grating the coconut\",\n      \"start_timestamp\": 22014,\n      \"stop_timestamp\": 31551,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Looking for and handling the grater\",\n          \"start_timestamp\": 23288,\n          \"stop_timestamp\": 24234\n        },\n        {\n          \"secondary_subgoal\": \"Grating coconut\",\n          \"start_timestamp\": 24234,\n          \"stop_timestamp\": 31551\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4725,
+        "completion_tokens": 775,
+        "total_tokens": 5500
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

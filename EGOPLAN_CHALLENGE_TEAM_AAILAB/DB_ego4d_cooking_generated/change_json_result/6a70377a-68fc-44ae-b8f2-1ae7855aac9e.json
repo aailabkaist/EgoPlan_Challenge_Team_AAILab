@@ -1,0 +1,124 @@
+{
+    "overall_goal": "Cooking a meal, including preparing and frying vegetables and meat, and then cleaning up the kitchen afterward.",
+    "clips": [
+        {
+            "subgoal": "Preparing the cabbage",
+            "start_timestamp": 246,
+            "stop_timestamp": 2635,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieving and cutting cabbage",
+                    "start_timestamp": 246,
+                    "stop_timestamp": 2481
+                },
+                {
+                    "secondary_subgoal": "Disposing of cabbage waste",
+                    "start_timestamp": 2481,
+                    "stop_timestamp": 2635
+                }
+            ]
+        },
+        {
+            "subgoal": "Frying the cabbage",
+            "start_timestamp": 2635,
+            "stop_timestamp": 7586,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Moving and shaking the pan with cabbage",
+                    "start_timestamp": 2635,
+                    "stop_timestamp": 3264
+                },
+                {
+                    "secondary_subgoal": "Seasoning the cabbage",
+                    "start_timestamp": 3264,
+                    "stop_timestamp": 7586
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning utensils and preparing for the next step",
+            "start_timestamp": 7586,
+            "stop_timestamp": 7845,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Placing chopsticks in the sink and washing",
+                    "start_timestamp": 7586,
+                    "stop_timestamp": 7646
+                },
+                {
+                    "secondary_subgoal": "Preparing the pan for next cooking step by adding oil",
+                    "start_timestamp": 7646,
+                    "stop_timestamp": 7845
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing to cook meat",
+            "start_timestamp": 7845,
+            "stop_timestamp": 8275,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieving and bringing the packet of meat from the fridge",
+                    "start_timestamp": 7845,
+                    "stop_timestamp": 8275
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking the meat",
+            "start_timestamp": 8275,
+            "stop_timestamp": 9059,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening the packet and handling the meat",
+                    "start_timestamp": 8275,
+                    "stop_timestamp": 8957
+                },
+                {
+                    "secondary_subgoal": "Placing meat in the pan with chopsticks",
+                    "start_timestamp": 8957,
+                    "stop_timestamp": 9059
+                }
+            ]
+        },
+        {
+            "subgoal": "Stirring and cooking the meat",
+            "start_timestamp": 9059,
+            "stop_timestamp": 15403,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring meat pieces in the pan",
+                    "start_timestamp": 9059,
+                    "stop_timestamp": 15218
+                },
+                {
+                    "secondary_subgoal": "Final stirring and turning off the stove",
+                    "start_timestamp": 15218,
+                    "stop_timestamp": 15403
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning the kitchen",
+            "start_timestamp": 15403,
+            "stop_timestamp": 18934,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Serving meat pieces on plate and starting cleanup",
+                    "start_timestamp": 15403,
+                    "stop_timestamp": 15900
+                },
+                {
+                    "secondary_subgoal": "Cleaning the cookware, utensils, and counter",
+                    "start_timestamp": 15900,
+                    "stop_timestamp": 18834
+                },
+                {
+                    "secondary_subgoal": "Final adjustments and looking at the watch",
+                    "start_timestamp": 18834,
+                    "stop_timestamp": 18934
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "overall_goal": "Prepare a meal with beef, cabbage, carrot, and green chilies",
+    "clips": [
+        {
+            "subgoal": "Clean and prepare hands",
+            "start_timestamp": "0",
+            "stop_timestamp": "1127",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjust camera and walk around",
+                    "start_timestamp": "0",
+                    "stop_timestamp": "28"
+                },
+                {
+                    "secondary_subgoal": "Lower hand",
+                    "start_timestamp": "28",
+                    "stop_timestamp": "61"
+                },
+                {
+                    "secondary_subgoal": "Walk around the kitchen",
+                    "start_timestamp": "61",
+                    "stop_timestamp": "132"
+                },
+                {
+                    "secondary_subgoal": "Hands washing routine",
+                    "start_timestamp": "132",
+                    "stop_timestamp": "1127"
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cabbage",
+            "start_timestamp": "1166",
+            "stop_timestamp": "4794",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look around",
+                    "start_timestamp": "1166",
+                    "stop_timestamp": "1207"
+                },
+                {
+                    "secondary_subgoal": "Get cabbage from the fridge",
+                    "start_timestamp": "1207",
+                    "stop_timestamp": "1586"
+                },
+                {
+                    "secondary_subgoal": "Peel and clean cabbage leaves",
+                    "start_timestamp": "1586",
+                    "stop_timestamp": "4794"
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare carrots",
+            "start_timestamp": "4956",
+            "stop_timestamp": "8330",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Acquire and clean carrots",
+                    "start_timestamp": "4956",
+                    "stop_timestamp": "6033"
+                },
+                {
+                    "secondary_subgoal": "Chop the carrots",
+                    "start_timestamp": "6033",
+                    "stop_timestamp": "8330"
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare green chilies",
+            "start_timestamp": "8796",
+            "stop_timestamp": "10380",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Unpack and store extra green chilies",
+                    "start_timestamp": "8796",
+                    "stop_timestamp": "9353"
+                },
+                {
+                    "secondary_subgoal": "Clean and chop green chilies",
+                    "start_timestamp": "9353",
+                    "stop_timestamp": "10380"
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and use onions",
+            "start_timestamp": "10602",
+            "stop_timestamp": "13362",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling and cutting onion",
+                    "start_timestamp": "10602",
+                    "stop_timestamp": "13362"
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare other ingredients",
+            "start_timestamp": "14091",
+            "stop_timestamp": "16540",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle and pour ingredients",
+                    "start_timestamp": "14091",
+                    "stop_timestamp": "16540"
+                }
+            ]
+        },
+        {
+            "subgoal": "Begin cooking process",
+            "start_timestamp": "16540",
+            "stop_timestamp": "20265",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Begin stirring and frying all the prepared ingredients",
+                    "start_timestamp": "16540",
+                    "stop_timestamp": "20265"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the beef",
+            "start_timestamp": "20265",
+            "stop_timestamp": "21164",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mix beef with other ingredients and continue cooking",
+                    "start_timestamp": "20265",
+                    "stop_timestamp": "21164"
+                }
+            ]
+        }
+    ]
+}

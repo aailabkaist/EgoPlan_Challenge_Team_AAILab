@@ -1,0 +1,236 @@
+[
+    {
+        "task_goal": "Retrieve cucumber from fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the camera",
+                "start_frame": 1,
+                "stop_frame": 61
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 61,
+                "stop_frame": 100
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 100,
+                "stop_frame": 160
+            },
+            {
+                "narration_text": "#C C picks cucumber",
+                "start_frame": 160,
+                "stop_frame": 348
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 348,
+                "stop_frame": 461
+            },
+            {
+                "narration_text": "#C C drops them on the kitchen top",
+                "start_frame": 461,
+                "stop_frame": 537
+            }
+        ]
+    },
+    {
+        "task_goal": "Place cucumber on kitchen top",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 348,
+                "stop_frame": 461
+            },
+            {
+                "narration_text": "#C C drops them on the kitchen top",
+                "start_frame": 461,
+                "stop_frame": 537
+            },
+            {
+                "narration_text": "#C C takes a sip of water",
+                "start_frame": 537,
+                "stop_frame": 603
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare kitchen for cucumber slicing",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C drops them on the kitchen top",
+                "start_frame": 461,
+                "stop_frame": 537
+            },
+            {
+                "narration_text": "#C C takes a sip of water",
+                "start_frame": 537,
+                "stop_frame": 603
+            },
+            {
+                "narration_text": "#C C drops the glass of water on the kitchen top",
+                "start_frame": 603,
+                "stop_frame": 627
+            },
+            {
+                "narration_text": "#C C pushes a weight machine aside",
+                "start_frame": 627,
+                "stop_frame": 646
+            },
+            {
+                "narration_text": "#C C picks up a chopping board",
+                "start_frame": 646,
+                "stop_frame": 702
+            },
+            {
+                "narration_text": "#C C drops it on the kitchen top",
+                "start_frame": 702,
+                "stop_frame": 732
+            },
+            {
+                "narration_text": "#C C drops a weight machine on the kitchen top",
+                "start_frame": 732,
+                "stop_frame": 784
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 784,
+                "stop_frame": 905
+            }
+        ]
+    },
+    {
+        "task_goal": "Unwrap and wash cucumber",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C drops a weight machine on the kitchen top",
+                "start_frame": 732,
+                "stop_frame": 784
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 784,
+                "stop_frame": 905
+            },
+            {
+                "narration_text": "#C C takes the cucumber out of the paper",
+                "start_frame": 905,
+                "stop_frame": 1022
+            },
+            {
+                "narration_text": "#C C puts the paper in the dust pin",
+                "start_frame": 1022,
+                "stop_frame": 1102
+            },
+            {
+                "narration_text": "#C C washes the cucumber",
+                "start_frame": 1102,
+                "stop_frame": 1446
+            },
+            {
+                "narration_text": "#C C turns closes the water tap",
+                "start_frame": 1446,
+                "stop_frame": 1518
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut and place cucumber slices in plastic tin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C washes the cucumber",
+                "start_frame": 1102,
+                "stop_frame": 1446
+            },
+            {
+                "narration_text": "#C C turns closes the water tap",
+                "start_frame": 1446,
+                "stop_frame": 1518
+            },
+            {
+                "narration_text": "#C C picks the knife",
+                "start_frame": 1518,
+                "stop_frame": 1583
+            },
+            {
+                "narration_text": "#C C cuts the cucumbers",
+                "start_frame": 1583,
+                "stop_frame": 1711
+            },
+            {
+                "narration_text": "#C C picks a plastic tin",
+                "start_frame": 1711,
+                "stop_frame": 1788
+            },
+            {
+                "narration_text": "#C C drops pieces of cucumber in the tin",
+                "start_frame": 1788,
+                "stop_frame": 1835
+            },
+            {
+                "narration_text": "#C C turns the cucumbers around",
+                "start_frame": 1835,
+                "stop_frame": 1906
+            },
+            {
+                "narration_text": "#C C cuts the cucumbers",
+                "start_frame": 1906,
+                "stop_frame": 5072
+            }
+        ]
+    },
+    {
+        "task_goal": "Add salt and #unsure to the cucumber",
+        "task_progress_metadata": []
+    },
+    {
+        "task_goal": "Mix cucumber with salt and #unsure",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the plastic tin",
+                "start_frame": 7915,
+                "stop_frame": 8003
+            },
+            {
+                "narration_text": "#C C turns off the weight machine",
+                "start_frame": 8003,
+                "stop_frame": 8048
+            },
+            {
+                "narration_text": "#C C shakes the tin",
+                "start_frame": 8048,
+                "stop_frame": 8176
+            },
+            {
+                "narration_text": "#C C takes a sip of water",
+                "start_frame": 8176,
+                "stop_frame": 8268
+            }
+        ]
+    },
+    {
+        "task_goal": "Place cucumber salad in plastic tin and shake",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C shakes the tin",
+                "start_frame": 8048,
+                "stop_frame": 8176
+            },
+            {
+                "narration_text": "#C C takes a sip of water",
+                "start_frame": 8176,
+                "stop_frame": 8268
+            },
+            {
+                "narration_text": "#C C drops the tin on the kitchen top",
+                "start_frame": 8268,
+                "stop_frame": 8324
+            },
+            {
+                "narration_text": "#C C drops the glass on the kitchen top",
+                "start_frame": 8324,
+                "stop_frame": 8380
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efLWAa9qrZnSPf3vjhyVnnOMKWgp",
+    "object": "chat.completion",
+    "created": 1719479082,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cleaning and preparing kitchen utensils and ingredients for cooking\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Rearranging kitchen tools and cleaning utensils\",\n      \"start_timestamp\": 38,\n      \"stop_timestamp\": 5647,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Rearranging cooking tools\",\n          \"start_timestamp\": 38,\n          \"stop_timestamp\": 384\n        },\n        {\n          \"secondary_subgoal\": \"Turning on air conditioner and gathering cleaning supplies\",\n          \"start_timestamp\": 384,\n          \"stop_timestamp\": 608\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning utensils\",\n          \"start_timestamp\": 608,\n          \"stop_timestamp\": 4854\n        },\n        {\n          \"secondary_subgoal\": \"Organizing cleaned utensils\",\n          \"start_timestamp\": 4854,\n          \"stop_timestamp\": 5483\n        },\n        {\n          \"secondary_subgoal\": \"Finishing up cleaning and organizing\",\n          \"start_timestamp\": 5483,\n          \"stop_timestamp\": 5647\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing ingredients\",\n      \"start_timestamp\": 5647,\n      \"stop_timestamp\": 21312,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gathering and cutting meat\",\n          \"start_timestamp\": 5647,\n          \"stop_timestamp\": 14556\n        },\n        {\n          \"secondary_subgoal\": \"Preparing and cutting vegetables\",\n          \"start_timestamp\": 14556,\n          \"stop_timestamp\": 17974\n        },\n        {\n          \"secondary_subgoal\": \"Cutting cucumbers\",\n          \"start_timestamp\": 17974,\n          \"stop_timestamp\": 18786\n        },\n        {\n          \"secondary_subgoal\": \"Arranging and Washing ingredients\",\n          \"start_timestamp\": 18786,\n          \"stop_timestamp\": 19857\n        },\n        {\n          \"secondary_subgoal\": \"Preparing for subsequent activities\",\n          \"start_timestamp\": 19857,\n          \"stop_timestamp\": 21312\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4663,
+        "completion_tokens": 456,
+        "total_tokens": 5119
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

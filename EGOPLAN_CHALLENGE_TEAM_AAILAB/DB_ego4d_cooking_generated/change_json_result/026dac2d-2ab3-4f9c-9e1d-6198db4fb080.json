@@ -1,0 +1,68 @@
+{
+    "overall_goal": "Marinate meat by applying spices and ensuring the meat is evenly coated.",
+    "clips": [
+        {
+            "subgoal": "Apply spice to the meat",
+            "start_timestamp": 58,
+            "stop_timestamp": 2142,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rub spices on the meat",
+                    "start_timestamp": 58,
+                    "stop_timestamp": 335
+                },
+                {
+                    "secondary_subgoal": "Add more spices to the meat",
+                    "start_timestamp": 335,
+                    "stop_timestamp": 1171
+                },
+                {
+                    "secondary_subgoal": "Handle and flip meat pieces while spicing",
+                    "start_timestamp": 1171,
+                    "stop_timestamp": 1488
+                },
+                {
+                    "secondary_subgoal": "Final adjustments and checks on the meat with spices",
+                    "start_timestamp": 1488,
+                    "stop_timestamp": 2142
+                }
+            ]
+        },
+        {
+            "subgoal": "Adjust and organize the meat",
+            "start_timestamp": 2142,
+            "stop_timestamp": 2756,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Spread and adjust the pieces of meat",
+                    "start_timestamp": 2142,
+                    "stop_timestamp": 2756
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean hands after handling meat and spices",
+            "start_timestamp": 2756,
+            "stop_timestamp": 3171,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash hands with soap and water",
+                    "start_timestamp": 2756,
+                    "stop_timestamp": 3171
+                }
+            ]
+        },
+        {
+            "subgoal": "Pause and look around the kitchen",
+            "start_timestamp": 3171,
+            "stop_timestamp": 3271,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Observe surroundings",
+                    "start_timestamp": 3171,
+                    "stop_timestamp": 3271
+                }
+            ]
+        }
+    ]
+}

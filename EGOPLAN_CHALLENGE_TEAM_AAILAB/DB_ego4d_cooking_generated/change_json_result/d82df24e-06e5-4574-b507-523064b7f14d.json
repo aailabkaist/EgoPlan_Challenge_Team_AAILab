@@ -1,0 +1,166 @@
+{
+    "overall_goal": "Prepare and cook a meal, including cleaning utensils and organizing the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Prepare bowls and utensils, check fridge for ingredients",
+            "start_timestamp": 10,
+            "stop_timestamp": 1433,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Interact with phone and open base cabinet",
+                    "start_timestamp": 10,
+                    "stop_timestamp": 194
+                },
+                {
+                    "secondary_subgoal": "Pick and arrange bowls and colander",
+                    "start_timestamp": 194,
+                    "stop_timestamp": 519
+                },
+                {
+                    "secondary_subgoal": "Open fridge and examine contents",
+                    "start_timestamp": 519,
+                    "stop_timestamp": 798
+                },
+                {
+                    "secondary_subgoal": "Close fridge and open drawer to hold bottle",
+                    "start_timestamp": 798,
+                    "stop_timestamp": 940
+                },
+                {
+                    "secondary_subgoal": "Push drawers back and reopen fridge for items",
+                    "start_timestamp": 940,
+                    "stop_timestamp": 1341
+                },
+                {
+                    "secondary_subgoal": "Walk and move utensil spoons",
+                    "start_timestamp": 1341,
+                    "stop_timestamp": 1433
+                }
+            ]
+        },
+        {
+            "subgoal": "Gather ingredients, prepare seasoning, and mix them",
+            "start_timestamp": 1433,
+            "stop_timestamp": 3050,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick, pour, and mix ingredients",
+                    "start_timestamp": 1433,
+                    "stop_timestamp": 2304
+                },
+                {
+                    "secondary_subgoal": "Put away items and handle spices",
+                    "start_timestamp": 2304,
+                    "stop_timestamp": 3050
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean utensils after preparation",
+            "start_timestamp": 3050,
+            "stop_timestamp": 5223,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash double-ended head scoop and sponge",
+                    "start_timestamp": 3050,
+                    "stop_timestamp": 5146
+                },
+                {
+                    "secondary_subgoal": "Rinse and dry utensils",
+                    "start_timestamp": 5146,
+                    "stop_timestamp": 5223
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook leafy vegetables in pot",
+            "start_timestamp": 5223,
+            "stop_timestamp": 6930,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick leafy vegetables and put in pot",
+                    "start_timestamp": 5223,
+                    "stop_timestamp": 6841
+                },
+                {
+                    "secondary_subgoal": "Turn and set cooking time",
+                    "start_timestamp": 6841,
+                    "stop_timestamp": 6930
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir and cook leafy vegetables",
+            "start_timestamp": 6930,
+            "stop_timestamp": 9848,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir vegetables, regulate heat, and pour in bowl",
+                    "start_timestamp": 6930,
+                    "stop_timestamp": 9455
+                },
+                {
+                    "secondary_subgoal": "Remove gloves, shake bowl, and put ingredients in",
+                    "start_timestamp": 9455,
+                    "stop_timestamp": 13000
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean utensils and process ingredients",
+            "start_timestamp": 9848,
+            "stop_timestamp": 15000,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash hands and press ingredients",
+                    "start_timestamp": 9848,
+                    "stop_timestamp": 11432
+                },
+                {
+                    "secondary_subgoal": "Pick and press more ingredients, wash hands",
+                    "start_timestamp": 11432,
+                    "stop_timestamp": 15000
+                }
+            ]
+        },
+        {
+            "subgoal": "Taste and stir ingredients",
+            "start_timestamp": 15000,
+            "stop_timestamp": 17524,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir ingredients then taste them",
+                    "start_timestamp": 15000,
+                    "stop_timestamp": 16000
+                },
+                {
+                    "secondary_subgoal": "Scoop and stir with utensils",
+                    "start_timestamp": 16000,
+                    "stop_timestamp": 17524
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up",
+            "start_timestamp": 17524,
+            "stop_timestamp": 21225,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Organize kitchen, check cabinets and drawers",
+                    "start_timestamp": 17524,
+                    "stop_timestamp": 18377
+                },
+                {
+                    "secondary_subgoal": "Put salad in the bowl, wrap and store in fridge",
+                    "start_timestamp": 18377,
+                    "stop_timestamp": 20515
+                },
+                {
+                    "secondary_subgoal": "Clean dish sieve",
+                    "start_timestamp": 20515,
+                    "stop_timestamp": 21225
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "overall_goal": "Preparing a meal involving rice, meat, and vegetables, followed by cleaning up the kitchen",
+    "clips": [
+        {
+            "subgoal": "Preparing rice",
+            "start_timestamp": 34,
+            "stop_timestamp": 3766,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gathering and rinsing rice",
+                    "start_timestamp": 34,
+                    "stop_timestamp": 907
+                },
+                {
+                    "secondary_subgoal": "Removing remaining rice and placing it in a dish",
+                    "start_timestamp": 907,
+                    "stop_timestamp": 1309
+                },
+                {
+                    "secondary_subgoal": "Shaking the dish and opening the drawer",
+                    "start_timestamp": 1309,
+                    "stop_timestamp": 1345
+                },
+                {
+                    "secondary_subgoal": "Rinsing and fetching water using a small dish",
+                    "start_timestamp": 1464,
+                    "stop_timestamp": 1588
+                },
+                {
+                    "secondary_subgoal": "Filling the dish with water and pouring it into the dish of rice",
+                    "start_timestamp": 1657,
+                    "stop_timestamp": 1872
+                },
+                {
+                    "secondary_subgoal": "Mixing rice with various ingredients",
+                    "start_timestamp": 2008,
+                    "stop_timestamp": 3685
+                },
+                {
+                    "secondary_subgoal": "Putting the dish of rice aside",
+                    "start_timestamp": 3685,
+                    "stop_timestamp": 3766
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing meat",
+            "start_timestamp": 3766,
+            "stop_timestamp": 4689,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Unpacking and seasoning meat",
+                    "start_timestamp": 3766,
+                    "stop_timestamp": 4186
+                },
+                {
+                    "secondary_subgoal": "Spreading seasoning on the meat and putting it aside",
+                    "start_timestamp": 4186,
+                    "stop_timestamp": 4689
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing mushrooms",
+            "start_timestamp": 4722,
+            "stop_timestamp": 6538,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning mushrooms",
+                    "start_timestamp": 4722,
+                    "stop_timestamp": 5884
+                },
+                {
+                    "secondary_subgoal": "Handling meat and preparing mushrooms",
+                    "start_timestamp": 5884,
+                    "stop_timestamp": 6538
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing vegetables",
+            "start_timestamp": 6538,
+            "stop_timestamp": 15159,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning and cutting vegetables",
+                    "start_timestamp": 6538,
+                    "stop_timestamp": 12524
+                },
+                {
+                    "secondary_subgoal": "Handling avocado",
+                    "start_timestamp": 12524,
+                    "stop_timestamp": 15159
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning the kitchen utensils",
+            "start_timestamp": 15159,
+            "stop_timestamp": 21337,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning various kitchen utensils",
+                    "start_timestamp": 15159,
+                    "stop_timestamp": 21237
+                },
+                {
+                    "secondary_subgoal": "Putting utensils on the rack",
+                    "start_timestamp": 21237,
+                    "stop_timestamp": 21337
+                }
+            ]
+        }
+    ]
+}

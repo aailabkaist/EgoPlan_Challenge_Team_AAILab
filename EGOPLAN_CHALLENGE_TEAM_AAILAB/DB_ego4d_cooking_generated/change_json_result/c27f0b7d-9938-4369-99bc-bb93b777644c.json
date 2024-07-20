@@ -1,0 +1,215 @@
+{
+    "overall_goal": "Prepare a meal involving chopping vegetables and meat, rinsing and cleaning utensils, and cooking the food in a pot",
+    "clips": [
+        {
+            "subgoal": "Chop and prepare hot pepper",
+            "start_timestamp": 0,
+            "stop_timestamp": 8476,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up and hold camera",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 44
+                },
+                {
+                    "secondary_subgoal": "Pick and chop hot pepper",
+                    "start_timestamp": 44,
+                    "stop_timestamp": 421
+                },
+                {
+                    "secondary_subgoal": "Pull together chopped pieces of pepper",
+                    "start_timestamp": 421,
+                    "stop_timestamp": 476
+                },
+                {
+                    "secondary_subgoal": "Put chopped pieces of pepper in a dish",
+                    "start_timestamp": 476,
+                    "stop_timestamp": 660
+                },
+                {
+                    "secondary_subgoal": "Drop and rinse the knife and chopping board",
+                    "start_timestamp": 660,
+                    "stop_timestamp": 867
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut and manage paper",
+            "start_timestamp": 867,
+            "stop_timestamp": 1642,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and tear paper",
+                    "start_timestamp": 867,
+                    "stop_timestamp": 1569
+                },
+                {
+                    "secondary_subgoal": "Take off and drop paper",
+                    "start_timestamp": 1569,
+                    "stop_timestamp": 1642
+                }
+            ]
+        },
+        {
+            "subgoal": "Chop ambiguous items",
+            "start_timestamp": 1642,
+            "stop_timestamp": 8476,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and chop ambiguous items",
+                    "start_timestamp": 1642,
+                    "stop_timestamp": 6040
+                },
+                {
+                    "secondary_subgoal": "Rinse chopping board and wipe it with tissue paper",
+                    "start_timestamp": 6040,
+                    "stop_timestamp": 6350
+                },
+                {
+                    "secondary_subgoal": "Cut paper on a plastic plate",
+                    "start_timestamp": 6443,
+                    "stop_timestamp": 6574
+                },
+                {
+                    "secondary_subgoal": "Take off meat and put plastic plate aside",
+                    "start_timestamp": 6574,
+                    "stop_timestamp": 6877
+                },
+                {
+                    "secondary_subgoal": "Chop meat and put it in the dish",
+                    "start_timestamp": 6877,
+                    "stop_timestamp": 8424
+                },
+                {
+                    "secondary_subgoal": "Drop knife and rinse hands",
+                    "start_timestamp": 8424,
+                    "stop_timestamp": 8549
+                },
+                {
+                    "secondary_subgoal": "Wipe hands and pick chopping board",
+                    "start_timestamp": 8549,
+                    "stop_timestamp": 8655
+                },
+                {
+                    "secondary_subgoal": "Pick and move a tin, bowl, polythene paper and put them in a polythene bag",
+                    "start_timestamp": 8655,
+                    "stop_timestamp": 9471
+                },
+                {
+                    "secondary_subgoal": "Put the polythene bag on the kitchen worktop",
+                    "start_timestamp": 9471,
+                    "stop_timestamp": 9542
+                }
+            ]
+        },
+        {
+            "subgoal": "Open cans and wash hands",
+            "start_timestamp": 9542,
+            "stop_timestamp": 15291,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open tap and wash hands, close tap",
+                    "start_timestamp": 9542,
+                    "stop_timestamp": 9686
+                },
+                {
+                    "secondary_subgoal": "Open cabinet, pick and put a pot on a cooker",
+                    "start_timestamp": 9686,
+                    "stop_timestamp": 9850
+                },
+                {
+                    "secondary_subgoal": "Push a bowl, open and close a pot",
+                    "start_timestamp": 9850,
+                    "stop_timestamp": 9960
+                },
+                {
+                    "secondary_subgoal": "Touch and move a bowl, turn a phone",
+                    "start_timestamp": 9960,
+                    "stop_timestamp": 10093
+                },
+                {
+                    "secondary_subgoal": "Scroll a phone, open cabinet, pick and close a box",
+                    "start_timestamp": 10093,
+                    "stop_timestamp": 10425
+                },
+                {
+                    "secondary_subgoal": "Unfold box, open drawer, pick up scissors, cut box",
+                    "start_timestamp": 10425,
+                    "stop_timestamp": 10983
+                },
+                {
+                    "secondary_subgoal": "Open fridge, pick sachet, close fridge",
+                    "start_timestamp": 10983,
+                    "stop_timestamp": 11293
+                },
+                {
+                    "secondary_subgoal": "Place sachet, open fridge, pick bottle, close fridge",
+                    "start_timestamp": 11293,
+                    "stop_timestamp": 11658
+                },
+                {
+                    "secondary_subgoal": "Walk around, put bottles on worktop, pick and move cans",
+                    "start_timestamp": 11658,
+                    "stop_timestamp": 12036
+                },
+                {
+                    "secondary_subgoal": "Open cans, use scissors, put items in sink",
+                    "start_timestamp": 12036,
+                    "stop_timestamp": 13740
+                },
+                {
+                    "secondary_subgoal": "Rinse hand, dry hand with paper towel, wipe kitchen worktop",
+                    "start_timestamp": 13740,
+                    "stop_timestamp": 14485
+                },
+                {
+                    "secondary_subgoal": "Pour liquid from can, wash beans, manage tap",
+                    "start_timestamp": 14485,
+                    "stop_timestamp": 15291
+                }
+            ]
+        },
+        {
+            "subgoal": "Final preparation and cooking of food",
+            "start_timestamp": 15291,
+            "stop_timestamp": 21335,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open a bottle, pour oil in a pot and adjust cooker",
+                    "start_timestamp": 15291,
+                    "stop_timestamp": 16349
+                },
+                {
+                    "secondary_subgoal": "Pick and soak towel, wipe countertop",
+                    "start_timestamp": 16349,
+                    "stop_timestamp": 17288
+                },
+                {
+                    "secondary_subgoal": "Perform kitchen tasks such as stirring and cooking meat",
+                    "start_timestamp": 17288,
+                    "stop_timestamp": 19312
+                },
+                {
+                    "secondary_subgoal": "Empty contents into cooking pot and stir food",
+                    "start_timestamp": 19312,
+                    "stop_timestamp": 20305
+                },
+                {
+                    "secondary_subgoal": "Add beans to cooking pot and interact with phone",
+                    "start_timestamp": 20305,
+                    "stop_timestamp": 20585
+                },
+                {
+                    "secondary_subgoal": "Open packet and add its contents to the cooking pot",
+                    "start_timestamp": 20585,
+                    "stop_timestamp": 21183
+                },
+                {
+                    "secondary_subgoal": "Refill packet with water and add to cooking pot",
+                    "start_timestamp": 21183,
+                    "stop_timestamp": 21335
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egI16cfPIrlchkmFExDtGQR7N14V",
+    "object": "chat.completion",
+    "created": 1719482709,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Create various crafts and decorations with polythene paper and a specific mixture, using tools such as funnels and spoons.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare polythene paper and mixture for crafting\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 19350,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Make crafts with mixture and polythene paper\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 552\n        },\n        {\n          \"secondary_subgoal\": \"Tighten the polythene paper\",\n          \"start_timestamp\": 552,\n          \"stop_timestamp\": 599\n        },\n        {\n          \"secondary_subgoal\": \"Hold the funnel\",\n          \"start_timestamp\": 1092,\n          \"stop_timestamp\": 1111\n        },\n        {\n          \"secondary_subgoal\": \"Add unsure component to the craft\",\n          \"start_timestamp\": 1401,\n          \"stop_timestamp\": 1429\n        },\n        {\n          \"secondary_subgoal\": \"Work with mixture and polythene paper to make crafts\",\n          \"start_timestamp\": 1429,\n          \"stop_timestamp\": 2174\n        },\n        {\n          \"secondary_subgoal\": \"Move and adjust various tools and materials\",\n          \"start_timestamp\": 7729,\n          \"stop_timestamp\": 8201\n        },\n        {\n          \"secondary_subgoal\": \"Mix unsure component and folds the polythene paper\",\n          \"start_timestamp\": 8201,\n          \"stop_timestamp\": 8404\n        },\n        {\n          \"secondary_subgoal\": \"Work with mixture and polythene paper to make crafts\",\n          \"start_timestamp\": 8404,\n          \"stop_timestamp\": 9038\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Repeated crafting process\",\n      \"start_timestamp\": 120098,\n      \"stop_timestamp\": 181502,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Draw art using icing sugar\",\n          \"start_timestamp\": 42085,\n          \"stop_timestamp\": 42124\n        },\n        {\n          \"secondary_subgoal\": \"Twist paper\",\n          \"start_timestamp\": 42124,\n          \"stop_timestamp\": 42529\n        },\n        {\n          \"secondary_subgoal\": \"Draw art using icing sugar\",\n          \"start_timestamp\": 42529,\n          \"stop_timestamp\": 42580\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 14250,
+        "completion_tokens": 534,
+        "total_tokens": 14784
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

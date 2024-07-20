@@ -1,0 +1,616 @@
+[
+    {
+        "task_goal": "Move hands and objects",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#O A man D moves the hand.",
+                "start_frame": 1,
+                "stop_frame": 43
+            },
+            {
+                "narration_text": "#O A man D converses.",
+                "start_frame": 43,
+                "stop_frame": 51
+            },
+            {
+                "narration_text": "#C C moves the hand.",
+                "start_frame": 51,
+                "stop_frame": 66
+            },
+            {
+                "narration_text": "#C C lifts the container.",
+                "start_frame": 66,
+                "stop_frame": 85
+            },
+            {
+                "narration_text": "#O A man D moves the leg.",
+                "start_frame": 85,
+                "stop_frame": 100
+            }
+        ]
+    },
+    {
+        "task_goal": "Lift and pour wheat into blender",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C lifts the container.",
+                "start_frame": 66,
+                "stop_frame": 85
+            },
+            {
+                "narration_text": "#O A man D moves the leg.",
+                "start_frame": 85,
+                "stop_frame": 100
+            },
+            {
+                "narration_text": "#C C lifts the cup.",
+                "start_frame": 100,
+                "stop_frame": 136
+            },
+            {
+                "narration_text": "#C C pours the wheat on the piece of cloth.",
+                "start_frame": 136,
+                "stop_frame": 171
+            },
+            {
+                "narration_text": "#C C puts the wheat on the container.",
+                "start_frame": 171,
+                "stop_frame": 216
+            },
+            {
+                "narration_text": "#C C puts the wheat in the container.",
+                "start_frame": 216,
+                "stop_frame": 252
+            },
+            {
+                "narration_text": "#C C puts the wheat in the container.",
+                "start_frame": 252,
+                "stop_frame": 287
+            },
+            {
+                "narration_text": "#C C moves the jug.",
+                "start_frame": 287,
+                "stop_frame": 321
+            },
+            {
+                "narration_text": "#C C converses.",
+                "start_frame": 321,
+                "stop_frame": 342
+            },
+            {
+                "narration_text": "#C C lifts the container.",
+                "start_frame": 342,
+                "stop_frame": 359
+            },
+            {
+                "narration_text": "#C C touches the container.",
+                "start_frame": 359,
+                "stop_frame": 368
+            },
+            {
+                "narration_text": "#C C puts the wheat in the jug.",
+                "start_frame": 368,
+                "stop_frame": 410
+            },
+            {
+                "narration_text": "#C C puts the container on the wheat.",
+                "start_frame": 410,
+                "stop_frame": 448
+            },
+            {
+                "narration_text": "#C C moves the hands.",
+                "start_frame": 448,
+                "stop_frame": 479
+            },
+            {
+                "narration_text": "#C C picks the paper.",
+                "start_frame": 479,
+                "stop_frame": 495
+            },
+            {
+                "narration_text": "#C C picks the wheat.",
+                "start_frame": 495,
+                "stop_frame": 502
+            },
+            {
+                "narration_text": "#C C puts the wheat in the jug.",
+                "start_frame": 502,
+                "stop_frame": 518
+            },
+            {
+                "narration_text": "#C C lifts the jug.",
+                "start_frame": 518,
+                "stop_frame": 540
+            },
+            {
+                "narration_text": "#C C picks the lid.",
+                "start_frame": 540,
+                "stop_frame": 563
+            }
+        ]
+    },
+    {
+        "task_goal": "Operate the blender to blend wheat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C lifts the jug.",
+                "start_frame": 518,
+                "stop_frame": 540
+            },
+            {
+                "narration_text": "#C C picks the lid.",
+                "start_frame": 540,
+                "stop_frame": 563
+            },
+            {
+                "narration_text": "#C C puts the jug on the blender.",
+                "start_frame": 563,
+                "stop_frame": 582
+            },
+            {
+                "narration_text": "#C C connects the jug on the blender.",
+                "start_frame": 582,
+                "stop_frame": 669
+            },
+            {
+                "narration_text": "#C C puts the lid on the jug.",
+                "start_frame": 669,
+                "stop_frame": 712
+            },
+            {
+                "narration_text": "#C C switches the blender on.",
+                "start_frame": 712,
+                "stop_frame": 786
+            },
+            {
+                "narration_text": "#C C touches the blender.",
+                "start_frame": 786,
+                "stop_frame": 809
+            },
+            {
+                "narration_text": "#C C lifts the lid.",
+                "start_frame": 809,
+                "stop_frame": 852
+            },
+            {
+                "narration_text": "#C C puts the lid on the jug.",
+                "start_frame": 852,
+                "stop_frame": 863
+            },
+            {
+                "narration_text": "#C C touches the lid.",
+                "start_frame": 863,
+                "stop_frame": 913
+            },
+            {
+                "narration_text": "#C C moves the leg.",
+                "start_frame": 913,
+                "stop_frame": 1066
+            },
+            {
+                "narration_text": "#C C moves the hand.",
+                "start_frame": 1066,
+                "stop_frame": 1084
+            },
+            {
+                "narration_text": "#C C switches off the blender.",
+                "start_frame": 1084,
+                "stop_frame": 1118
+            },
+            {
+                "narration_text": "#C C lifts the lid.",
+                "start_frame": 1118,
+                "stop_frame": 1138
+            }
+        ]
+    },
+    {
+        "task_goal": "Resume blending wheat after intervals",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C switches off the blender.",
+                "start_frame": 1084,
+                "stop_frame": 1118
+            },
+            {
+                "narration_text": "#C C lifts the lid.",
+                "start_frame": 1118,
+                "stop_frame": 1138
+            },
+            {
+                "narration_text": "#C C touches the blended wheat seeds.",
+                "start_frame": 1138,
+                "stop_frame": 1233
+            },
+            {
+                "narration_text": "#C C puts the lid on the jug.",
+                "start_frame": 1233,
+                "stop_frame": 1240
+            },
+            {
+                "narration_text": "#C C presses the lid of the jug.",
+                "start_frame": 1240,
+                "stop_frame": 1266
+            },
+            {
+                "narration_text": "#C C switches on the blender.",
+                "start_frame": 1266,
+                "stop_frame": 1333
+            },
+            {
+                "narration_text": "#C C touches the lid.",
+                "start_frame": 1333,
+                "stop_frame": 1350
+            },
+            {
+                "narration_text": "#C C picks the tray.",
+                "start_frame": 1350,
+                "stop_frame": 1429
+            },
+            {
+                "narration_text": "#C C puts the tray on the floor.",
+                "start_frame": 1429,
+                "stop_frame": 1456
+            },
+            {
+                "narration_text": "#C C moves the cloth.",
+                "start_frame": 1456,
+                "stop_frame": 1540
+            },
+            {
+                "narration_text": "#C C moves the hand.",
+                "start_frame": 1540,
+                "stop_frame": 1561
+            },
+            {
+                "narration_text": "#C C moves the cloth.",
+                "start_frame": 1561,
+                "stop_frame": 1623
+            },
+            {
+                "narration_text": "#C C touches the lid.",
+                "start_frame": 1623,
+                "stop_frame": 1643
+            },
+            {
+                "narration_text": "#C C switches on the blender.",
+                "start_frame": 1643,
+                "stop_frame": 1681
+            },
+            {
+                "narration_text": "#C C touches the handle.",
+                "start_frame": 1681,
+                "stop_frame": 1683
+            },
+            {
+                "narration_text": "#C C lifts the lid.",
+                "start_frame": 1683,
+                "stop_frame": 1703
+            }
+        ]
+    },
+    {
+        "task_goal": "Pause and interact",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C touches the handle.",
+                "start_frame": 1681,
+                "stop_frame": 1683
+            },
+            {
+                "narration_text": "#C C lifts the lid.",
+                "start_frame": 1683,
+                "stop_frame": 1703
+            },
+            {
+                "narration_text": "#C C touches the blended wheat seeds.",
+                "start_frame": 1703,
+                "stop_frame": 1799
+            },
+            {
+                "narration_text": "#C C puts the lid on the floor.",
+                "start_frame": 1799,
+                "stop_frame": 1907
+            }
+        ]
+    },
+    {
+        "task_goal": "Look around and check the flour",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C touches the handle.",
+                "start_frame": 1681,
+                "stop_frame": 1683
+            },
+            {
+                "narration_text": "#C C lifts the lid.",
+                "start_frame": 1683,
+                "stop_frame": 1703
+            },
+            {
+                "narration_text": "#C C touches the blended wheat seeds.",
+                "start_frame": 1703,
+                "stop_frame": 1799
+            },
+            {
+                "narration_text": "#C C puts the lid on the floor.",
+                "start_frame": 1799,
+                "stop_frame": 1907
+            }
+        ]
+    },
+    {
+        "task_goal": "Blend new batch of wheat to flour",
+        "task_progress_metadata": []
+    },
+    {
+        "task_goal": "Collect wheat and pour it into  blender",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C presses the lid on the jug.",
+                "start_frame": 3357,
+                "stop_frame": 3511
+            },
+            {
+                "narration_text": "#C C looks around.",
+                "start_frame": 3511,
+                "stop_frame": 3596
+            }
+        ]
+    },
+    {
+        "task_goal": "Blender operation and check flour",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks around.",
+                "start_frame": 3511,
+                "stop_frame": 3596
+            },
+            {
+                "narration_text": "#C C switches the blender off.",
+                "start_frame": 3596,
+                "stop_frame": 3679
+            },
+            {
+                "narration_text": "#C C touches the jug.",
+                "start_frame": 3679,
+                "stop_frame": 3689
+            },
+            {
+                "narration_text": "#C C lifts the lid.",
+                "start_frame": 3689,
+                "stop_frame": 3722
+            },
+            {
+                "narration_text": "#C C pushes the wheat flour.",
+                "start_frame": 3722,
+                "stop_frame": 3793
+            },
+            {
+                "narration_text": "#C C removes the wheat flour from the lid.",
+                "start_frame": 3793,
+                "stop_frame": 3839
+            },
+            {
+                "narration_text": "#C C touches the wheat flour.",
+                "start_frame": 3839,
+                "stop_frame": 3903
+            },
+            {
+                "narration_text": "#C C puts the lid on the jug.",
+                "start_frame": 3903,
+                "stop_frame": 3934
+            },
+            {
+                "narration_text": "#C C switches on the blender.",
+                "start_frame": 3934,
+                "stop_frame": 3995
+            },
+            {
+                "narration_text": "#C C lifts the lid.",
+                "start_frame": 3995,
+                "stop_frame": 4021
+            },
+            {
+                "narration_text": "#C C pushes the wheat flour.",
+                "start_frame": 4021,
+                "stop_frame": 4077
+            },
+            {
+                "narration_text": "#C C puts the lid on the jug.",
+                "start_frame": 4077,
+                "stop_frame": 4095
+            },
+            {
+                "narration_text": "#C C presses the jug.",
+                "start_frame": 4095,
+                "stop_frame": 4157
+            },
+            {
+                "narration_text": "#C C looks around.",
+                "start_frame": 4157,
+                "stop_frame": 4371
+            },
+            {
+                "narration_text": "#C C puts the knife on the floor.",
+                "start_frame": 4371,
+                "stop_frame": 4397
+            },
+            {
+                "narration_text": "#C C switches off the jug.",
+                "start_frame": 4397,
+                "stop_frame": 4435
+            },
+            {
+                "narration_text": "#C C lofts the lid.",
+                "start_frame": 4435,
+                "stop_frame": 4449
+            },
+            {
+                "narration_text": "#C C pushes the wheat flour.",
+                "start_frame": 4449,
+                "stop_frame": 4523
+            }
+        ]
+    },
+    {
+        "task_goal": "Operate the blender",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pushes the wheat flour.",
+                "start_frame": 4449,
+                "stop_frame": 4523
+            },
+            {
+                "narration_text": "#C C removes the wheat flour from the lid.",
+                "start_frame": 4523,
+                "stop_frame": 4583
+            },
+            {
+                "narration_text": "#C C touches the wheat flour.",
+                "start_frame": 4583,
+                "stop_frame": 4621
+            },
+            {
+                "narration_text": "#C C passes the lid to the right hand.",
+                "start_frame": 4621,
+                "stop_frame": 4643
+            },
+            {
+                "narration_text": "#C C puts the lid on the floor.",
+                "start_frame": 4643,
+                "stop_frame": 4647
+            },
+            {
+                "narration_text": "#C C lifts the jug.",
+                "start_frame": 4647,
+                "stop_frame": 4672
+            },
+            {
+                "narration_text": "#C C picks the container.",
+                "start_frame": 4672,
+                "stop_frame": 4698
+            },
+            {
+                "narration_text": "#C C puts the container on the floor.",
+                "start_frame": 4698,
+                "stop_frame": 4732
+            },
+            {
+                "narration_text": "#C C passes the jug to the right hand.",
+                "start_frame": 4732,
+                "stop_frame": 4751
+            },
+            {
+                "narration_text": "#C C lifts the tray.",
+                "start_frame": 4751,
+                "stop_frame": 4777
+            },
+            {
+                "narration_text": "#C C hits the tray on the floor.",
+                "start_frame": 4777,
+                "stop_frame": 4795
+            },
+            {
+                "narration_text": "#C C puts the jug on the floor.",
+                "start_frame": 4795,
+                "stop_frame": 4813
+            },
+            {
+                "narration_text": "#C C removes wheat floor from the tray.",
+                "start_frame": 4813,
+                "stop_frame": 4864
+            }
+        ]
+    },
+    {
+        "task_goal": "Complete blending and collect flour",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C removes wheat floor from the tray.",
+                "start_frame": 4813,
+                "stop_frame": 4864
+            },
+            {
+                "narration_text": "#C C puts the tray on the tray on the floor.",
+                "start_frame": 4864,
+                "stop_frame": 4885
+            },
+            {
+                "narration_text": "#C C picks the jug.",
+                "start_frame": 4885,
+                "stop_frame": 4900
+            },
+            {
+                "narration_text": "#C C pours the wheat flour on the tray.",
+                "start_frame": 4900,
+                "stop_frame": 4905
+            },
+            {
+                "narration_text": "#C C touches the jug.",
+                "start_frame": 4905,
+                "stop_frame": 4924
+            },
+            {
+                "narration_text": "#C C passes the jug to the left hand.",
+                "start_frame": 4924,
+                "stop_frame": 4937
+            },
+            {
+                "narration_text": "#C C removes wheat flour from the jug.",
+                "start_frame": 4937,
+                "stop_frame": 4966
+            },
+            {
+                "narration_text": "#C C touches the wheat flour.",
+                "start_frame": 4966,
+                "stop_frame": 5065
+            }
+        ]
+    },
+    {
+        "task_goal": "Move the flour to the container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C removes wheat floor from the tray.",
+                "start_frame": 4813,
+                "stop_frame": 4864
+            },
+            {
+                "narration_text": "#C C puts the tray on the tray on the floor.",
+                "start_frame": 4864,
+                "stop_frame": 4885
+            },
+            {
+                "narration_text": "#C C picks the jug.",
+                "start_frame": 4885,
+                "stop_frame": 4900
+            },
+            {
+                "narration_text": "#C C pours the wheat flour on the tray.",
+                "start_frame": 4900,
+                "stop_frame": 4905
+            },
+            {
+                "narration_text": "#C C touches the jug.",
+                "start_frame": 4905,
+                "stop_frame": 4924
+            },
+            {
+                "narration_text": "#C C passes the jug to the left hand.",
+                "start_frame": 4924,
+                "stop_frame": 4937
+            },
+            {
+                "narration_text": "#C C removes wheat flour from the jug.",
+                "start_frame": 4937,
+                "stop_frame": 4966
+            },
+            {
+                "narration_text": "#C C touches the wheat flour.",
+                "start_frame": 4966,
+                "stop_frame": 5065
+            }
+        ]
+    }
+]

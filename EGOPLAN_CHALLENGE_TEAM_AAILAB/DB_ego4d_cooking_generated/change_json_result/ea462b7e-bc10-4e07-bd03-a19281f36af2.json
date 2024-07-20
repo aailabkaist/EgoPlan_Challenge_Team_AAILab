@@ -1,0 +1,234 @@
+{
+    "overall_goal": "C prepares and cleans up after cooking a meal of spaghetti with chopped vegetables and corned beef.",
+    "clips": [
+        {
+            "subgoal": "C cooks the spaghetti in the microwave.",
+            "start_timestamp": 4,
+            "stop_timestamp": 84,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C places the spaghetti in the microwave.",
+                    "start_timestamp": 4,
+                    "stop_timestamp": 13
+                },
+                {
+                    "secondary_subgoal": "C closes the microwave door.",
+                    "start_timestamp": 13,
+                    "stop_timestamp": 35
+                },
+                {
+                    "secondary_subgoal": "C starts the microwave.",
+                    "start_timestamp": 35,
+                    "stop_timestamp": 84
+                }
+            ]
+        },
+        {
+            "subgoal": "C drains and washes the cooked spaghetti.",
+            "start_timestamp": 122,
+            "stop_timestamp": 1029,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C holds the tap and rinses the spaghetti under running water.",
+                    "start_timestamp": 122,
+                    "stop_timestamp": 903
+                },
+                {
+                    "secondary_subgoal": "C closes the tap.",
+                    "start_timestamp": 903,
+                    "stop_timestamp": 915
+                },
+                {
+                    "secondary_subgoal": "C drains the excess water from the spaghetti.",
+                    "start_timestamp": 915,
+                    "stop_timestamp": 1029
+                }
+            ]
+        },
+        {
+            "subgoal": "C prepares the ingredients.",
+            "start_timestamp": 1065,
+            "stop_timestamp": 1576,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C folds an unknown object.",
+                    "start_timestamp": 1065,
+                    "stop_timestamp": 1107
+                },
+                {
+                    "secondary_subgoal": "C retrieves and prepares a spice sachet.",
+                    "start_timestamp": 1202,
+                    "stop_timestamp": 1377
+                },
+                {
+                    "secondary_subgoal": "C opens the fridge and retrieves items.",
+                    "start_timestamp": 1478,
+                    "stop_timestamp": 1552
+                }
+            ]
+        },
+        {
+            "subgoal": "C unwraps, cuts, and places corned beef.",
+            "start_timestamp": 1602,
+            "stop_timestamp": 1894,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C unwraps the corned beef.",
+                    "start_timestamp": 1602,
+                    "stop_timestamp": 1696
+                },
+                {
+                    "secondary_subgoal": "C places and cuts the corned beef.",
+                    "start_timestamp": 1805,
+                    "stop_timestamp": 1894
+                }
+            ]
+        },
+        {
+            "subgoal": "C prepares the plate for serving spaghetti.",
+            "start_timestamp": 2107,
+            "stop_timestamp": 2506,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C retrieves and cleans the plate.",
+                    "start_timestamp": 2125,
+                    "stop_timestamp": 2246
+                },
+                {
+                    "secondary_subgoal": "C prepares the spaghetti on the plate.",
+                    "start_timestamp": 2440,
+                    "stop_timestamp": 2506
+                }
+            ]
+        },
+        {
+            "subgoal": "C adds onions and green capsicum to the spaghetti.",
+            "start_timestamp": 2691,
+            "stop_timestamp": 3825,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C adds chopped onions.",
+                    "start_timestamp": 2691,
+                    "stop_timestamp": 3485
+                },
+                {
+                    "secondary_subgoal": "C adds chopped green capsicum.",
+                    "start_timestamp": 3523,
+                    "stop_timestamp": 3825
+                }
+            ]
+        },
+        {
+            "subgoal": "C prepares and adds tomatoes.",
+            "start_timestamp": 4219,
+            "stop_timestamp": 4696,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C chops tomatoes.",
+                    "start_timestamp": 4219,
+                    "stop_timestamp": 4478
+                },
+                {
+                    "secondary_subgoal": "C places tomato slices on the spaghetti.",
+                    "start_timestamp": 4558,
+                    "stop_timestamp": 4696
+                }
+            ]
+        },
+        {
+            "subgoal": "C cuts and adds corned beef to spaghetti.",
+            "start_timestamp": 4731,
+            "stop_timestamp": 5457,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C cuts and places corned beef on the spaghetti.",
+                    "start_timestamp": 4731,
+                    "stop_timestamp": 5457
+                }
+            ]
+        },
+        {
+            "subgoal": "C washes and dries hands.",
+            "start_timestamp": 5508,
+            "stop_timestamp": 5724,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C opens the water tap and washes hands.",
+                    "start_timestamp": 5508,
+                    "stop_timestamp": 5699
+                },
+                {
+                    "secondary_subgoal": "C dries hands with a hand towel.",
+                    "start_timestamp": 5699,
+                    "stop_timestamp": 5724
+                }
+            ]
+        },
+        {
+            "subgoal": "C adds spices to the spaghetti.",
+            "start_timestamp": 5999,
+            "stop_timestamp": 6878,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C cuts the spice sachet and adds spices to spaghetti.",
+                    "start_timestamp": 5999,
+                    "stop_timestamp": 6856
+                },
+                {
+                    "secondary_subgoal": "C disposes of the spice sachet in the trash.",
+                    "start_timestamp": 6878,
+                    "stop_timestamp": 6913
+                }
+            ]
+        },
+        {
+            "subgoal": "C serves food on the dining table.",
+            "start_timestamp": 6968,
+            "stop_timestamp": 7350,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C retrieves and touches the food plate.",
+                    "start_timestamp": 6968,
+                    "stop_timestamp": 7018
+                },
+                {
+                    "secondary_subgoal": "C places the food on the dining table.",
+                    "start_timestamp": 7119,
+                    "stop_timestamp": 7383
+                },
+                {
+                    "secondary_subgoal": "C places the food on the table.",
+                    "start_timestamp": 7350,
+                    "stop_timestamp": 7383
+                }
+            ]
+        },
+        {
+            "subgoal": "C cleans the kitchen.",
+            "start_timestamp": 7505,
+            "stop_timestamp": 11396,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C washes and dries dishes.",
+                    "start_timestamp": 7505,
+                    "stop_timestamp": 8356
+                },
+                {
+                    "secondary_subgoal": "C arranges and ensures the kitchen rack is organized.",
+                    "start_timestamp": 8356,
+                    "stop_timestamp": 8442
+                },
+                {
+                    "secondary_subgoal": "C wipes and cleans the countertops.",
+                    "start_timestamp": 9240,
+                    "stop_timestamp": 9270
+                },
+                {
+                    "secondary_subgoal": "C disposes of trash.",
+                    "start_timestamp": 9297,
+                    "stop_timestamp": 9350
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "overall_goal": "Prepare and cook a meal involving washing, cutting, and cooking potatoes and vegetables.",
+    "clips": [
+        {
+            "subgoal": "Preparing the kitchen workspace and initial ingredients.",
+            "start_timestamp": 0,
+            "stop_timestamp": 360,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move a pan and close the oven",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 54
+                },
+                {
+                    "secondary_subgoal": "Gather potatoes",
+                    "start_timestamp": 150,
+                    "stop_timestamp": 256
+                },
+                {
+                    "secondary_subgoal": "Open and close the faucet",
+                    "start_timestamp": 330,
+                    "stop_timestamp": 360
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing potatoes",
+            "start_timestamp": 360,
+            "stop_timestamp": 1076,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash potatoes",
+                    "start_timestamp": 360,
+                    "stop_timestamp": 516
+                },
+                {
+                    "secondary_subgoal": "Put potatoes on the chopping board and turn cooker knob",
+                    "start_timestamp": 575,
+                    "stop_timestamp": 623
+                },
+                {
+                    "secondary_subgoal": "Wash more potatoes",
+                    "start_timestamp": 718,
+                    "stop_timestamp": 1076
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing the cookware",
+            "start_timestamp": 1500,
+            "stop_timestamp": 2039,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fetch water and place the pot on the burner",
+                    "start_timestamp": 1572,
+                    "stop_timestamp": 1940
+                },
+                {
+                    "secondary_subgoal": "Turn on the cooker and pick a knife",
+                    "start_timestamp": 2003,
+                    "stop_timestamp": 2064
+                }
+            ]
+        },
+        {
+            "subgoal": "Cutting and washing vegetables",
+            "start_timestamp": 2116,
+            "stop_timestamp": 2423,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash hands and shake knife",
+                    "start_timestamp": 2176,
+                    "stop_timestamp": 2361
+                },
+                {
+                    "secondary_subgoal": "Place knife in the basin and move it around",
+                    "start_timestamp": 2423,
+                    "stop_timestamp": 2423
+                }
+            ]
+        },
+        {
+            "subgoal": "Chopping and processing vegetables",
+            "start_timestamp": 3059,
+            "stop_timestamp": 3035,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and move vegetables and utensils",
+                    "start_timestamp": 3059,
+                    "stop_timestamp": 3231
+                },
+                {
+                    "secondary_subgoal": "Rinse hands and wash utensils",
+                    "start_timestamp": 3524,
+                    "stop_timestamp": 4416
+                },
+                {
+                    "secondary_subgoal": "Rinse knife multiple times",
+                    "start_timestamp": 4455,
+                    "stop_timestamp": 4917
+                }
+            ]
+        },
+        {
+            "subgoal": "Peeling and cutting potatoes",
+            "start_timestamp": 5039,
+            "stop_timestamp": 8124,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and put potato pieces in cooking pot",
+                    "start_timestamp": 5039,
+                    "stop_timestamp": 8578
+                },
+                {
+                    "secondary_subgoal": "Cut more potato pieces and put in cooking pan",
+                    "start_timestamp": 8618,
+                    "stop_timestamp": 9623
+                },
+                {
+                    "secondary_subgoal": "Repeat cutting, chopping, and putting potatoes",
+                    "start_timestamp": 10224,
+                    "stop_timestamp": 10493
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing more vegetables",
+            "start_timestamp": 10493,
+            "stop_timestamp": 12267,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and unwrap vegetables",
+                    "start_timestamp": 10493,
+                    "stop_timestamp": 10862
+                },
+                {
+                    "secondary_subgoal": "Cut, rinse, and dry vegetables",
+                    "start_timestamp": 11120,
+                    "stop_timestamp": 12412
+                },
+                {
+                    "secondary_subgoal": "Cut more vegetables",
+                    "start_timestamp": 12412,
+                    "stop_timestamp": 12267
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning and drying spinach",
+            "start_timestamp": 12835,
+            "stop_timestamp": 16255,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse and dry spinach",
+                    "start_timestamp": 12835,
+                    "stop_timestamp": 13415
+                },
+                {
+                    "secondary_subgoal": "Dry hands, pick spinach again, and place on counter",
+                    "start_timestamp": 13676,
+                    "stop_timestamp": 14262
+                }
+            ]
+        }
+    ]
+}

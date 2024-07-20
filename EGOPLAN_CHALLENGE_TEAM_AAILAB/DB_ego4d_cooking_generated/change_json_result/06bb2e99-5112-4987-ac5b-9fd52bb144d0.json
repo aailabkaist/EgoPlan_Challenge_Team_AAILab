@@ -1,0 +1,61 @@
+{
+    "overall_goal": "Prepare coriander by cleaning, cutting, and placing it in a bowl.",
+    "clips": [
+        {
+            "subgoal": "Clean and prep coriander",
+            "start_timestamp": 0,
+            "stop_timestamp": 217,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel off leaves",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 178
+                },
+                {
+                    "secondary_subgoal": "Drop peeled sticks",
+                    "start_timestamp": 178,
+                    "stop_timestamp": 217
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut coriander",
+            "start_timestamp": 217,
+            "stop_timestamp": 2611,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Check coriander",
+                    "start_timestamp": 217,
+                    "stop_timestamp": 699
+                },
+                {
+                    "secondary_subgoal": "Cut off roots",
+                    "start_timestamp": 699,
+                    "stop_timestamp": 865
+                },
+                {
+                    "secondary_subgoal": "Cut coriander into pieces and place in bowl",
+                    "start_timestamp": 865,
+                    "stop_timestamp": 2509
+                },
+                {
+                    "secondary_subgoal": "Take and untie coriander",
+                    "start_timestamp": 2509,
+                    "stop_timestamp": 2639
+                }
+            ]
+        },
+        {
+            "subgoal": "Check surroundings",
+            "start_timestamp": 2639,
+            "stop_timestamp": 2739,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look around",
+                    "start_timestamp": 2639,
+                    "stop_timestamp": 2739
+                }
+            ]
+        }
+    ]
+}

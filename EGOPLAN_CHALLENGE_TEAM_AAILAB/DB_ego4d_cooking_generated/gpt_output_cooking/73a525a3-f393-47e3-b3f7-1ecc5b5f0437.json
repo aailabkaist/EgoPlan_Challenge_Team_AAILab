@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efnzH43iLaN1nCw0kMP9buvNrYsP",
+    "object": "chat.completion",
+    "created": 1719480847,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n   \"overall_goal\": \"Prepare fish fillet for cooking\",\n   \"clips\":[\n      {\n         \"subgoal\":\"Prepare the foil for the fish fillet\",\n         \"start_timestamp\":23,\n         \"stop_timestamp\":735,\n         \"sub_clips\":[\n            {\n               \"secondary_subgoal\":\"Unroll and cut foil paper\",\n               \"start_timestamp\":23,\n               \"stop_timestamp\":487\n            },\n            {\n               \"secondary_subgoal\":\"Place and adjust foil paper on the table\",\n               \"start_timestamp\":487,\n               \"stop_timestamp\":735\n            }\n         ]\n      },\n      {\n         \"subgoal\":\"Prepare the fish fillet\",\n         \"start_timestamp\":735,\n         \"stop_timestamp\":1482,\n         \"sub_clips\":[\n            {\n               \"secondary_subgoal\":\"Retrieve and open the fish fillet\",\n               \"start_timestamp\":735,\n               \"stop_timestamp\":1073\n            },\n            {\n               \"secondary_subgoal\":\"Place fish fillet on the foil and clean hands\",\n               \"start_timestamp\":1073,\n               \"stop_timestamp\":1307\n            },\n            {\n               \"secondary_subgoal\":\"Dispose of garbage\",\n               \"start_timestamp\":1307,\n               \"stop_timestamp\":1482\n            }\n         ]\n      },\n      {\n         \"subgoal\":\"Season the fish fillet with paste\",\n         \"start_timestamp\":1482,\n         \"stop_timestamp\":2405,\n         \"sub_clips\":[\n            {\n               \"secondary_subgoal\":\"Retrieve paste from fridge\",\n               \"start_timestamp\":1482,\n               \"stop_timestamp\":1689\n            },\n            {\n               \"secondary_subgoal\":\"Pour paste onto fish fillet\",\n               \"start_timestamp\":1689,\n               \"stop_timestamp\":2176\n            },\n            {\n               \"secondary_subgoal\":\"Return paste to fridge\",\n               \"start_timestamp\":2176,\n               \"stop_timestamp\":2405\n            }\n         ]\n      },\n      {\n         \"subgoal\":\"Cook the fish fillet\",\n         \"start_timestamp\":2405,\n         \"stop_timestamp\":2728,\n         \"sub_clips\":[\n            {\n               \"secondary_subgoal\":\"Place fish fillet in the oven\",\n               \"start_timestamp\":2405,\n               \"stop_timestamp\":2668\n            },\n            {\n               \"secondary_subgoal\":\"Close the oven\",\n               \"start_timestamp\":2668,\n               \"stop_timestamp\":2728\n            }\n         ]\n      },\n      {\n         \"subgoal\":\"Post-cooking activities\",\n         \"start_timestamp\":2728,\n         \"stop_timestamp\":3385,\n         \"sub_clips\":[\n            {\n               \"secondary_subgoal\":\"Miscellaneous activities\",\n               \"start_timestamp\":2728,\n               \"stop_timestamp\":3385\n            }\n         ]\n      }\n   ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 664,
+        "completion_tokens": 580,
+        "total_tokens": 1244
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

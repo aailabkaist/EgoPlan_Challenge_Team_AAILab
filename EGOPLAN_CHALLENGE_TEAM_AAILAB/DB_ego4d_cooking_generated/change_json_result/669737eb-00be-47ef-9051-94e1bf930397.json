@@ -1,0 +1,262 @@
+{
+    "overall_goal": "Prepare and cook food using minced meat and various other ingredients while maintaining cleanliness in the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Preparation of meat and initial cooking setup",
+            "start_timestamp": 69,
+            "stop_timestamp": 2600,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turning on the tap and looking around",
+                    "start_timestamp": 69,
+                    "stop_timestamp": 208
+                },
+                {
+                    "secondary_subgoal": "Picking and opening items, then cutting and wrapping",
+                    "start_timestamp": 208,
+                    "stop_timestamp": 725
+                },
+                {
+                    "secondary_subgoal": "Cutting something with a knife",
+                    "start_timestamp": 725,
+                    "stop_timestamp": 2004
+                },
+                {
+                    "secondary_subgoal": "Pouring ingredients and water into the pan, and placing it on the cooker",
+                    "start_timestamp": 2004,
+                    "stop_timestamp": 2600
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling ingredients and hand washing",
+            "start_timestamp": 2600,
+            "stop_timestamp": 3249,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cutting ingredients with hands and washing hands",
+                    "start_timestamp": 2600,
+                    "stop_timestamp": 3132
+                },
+                {
+                    "secondary_subgoal": "Walking and wiping hands",
+                    "start_timestamp": 3132,
+                    "stop_timestamp": 3249
+                }
+            ]
+        },
+        {
+            "subgoal": "Kitchen navigation and washing utensils",
+            "start_timestamp": 3249,
+            "stop_timestamp": 4110,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walking and opening fridge to put items in",
+                    "start_timestamp": 3249,
+                    "stop_timestamp": 3536
+                },
+                {
+                    "secondary_subgoal": "Picking up the dish and walking to the sink",
+                    "start_timestamp": 3536,
+                    "stop_timestamp": 4004
+                },
+                {
+                    "secondary_subgoal": "Washing hands",
+                    "start_timestamp": 4004,
+                    "stop_timestamp": 4110
+                }
+            ]
+        },
+        {
+            "subgoal": "Chopping board and food preparation",
+            "start_timestamp": 4110,
+            "stop_timestamp": 5735,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing the chopping board and placing tomato on it",
+                    "start_timestamp": 4110,
+                    "stop_timestamp": 4409
+                },
+                {
+                    "secondary_subgoal": "Wiping hands, opening drawer and picking cooking stick",
+                    "start_timestamp": 4409,
+                    "stop_timestamp": 4563
+                },
+                {
+                    "secondary_subgoal": "Stirring food and turning on the air conditioner",
+                    "start_timestamp": 4563,
+                    "stop_timestamp": 5735
+                }
+            ]
+        },
+        {
+            "subgoal": "Cutting, stirring and adding ingredients",
+            "start_timestamp": 5735,
+            "stop_timestamp": 8667,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cutting tomato and handling saucepan",
+                    "start_timestamp": 5735,
+                    "stop_timestamp": 6803
+                },
+                {
+                    "secondary_subgoal": "Washing tomato and placing it on the saucepan",
+                    "start_timestamp": 6803,
+                    "stop_timestamp": 6990
+                },
+                {
+                    "secondary_subgoal": "Stirring food and looking around",
+                    "start_timestamp": 6990,
+                    "stop_timestamp": 7958
+                },
+                {
+                    "secondary_subgoal": "Removing food from paper and placing it in the pan",
+                    "start_timestamp": 7958,
+                    "stop_timestamp": 8295
+                },
+                {
+                    "secondary_subgoal": "Stirring food",
+                    "start_timestamp": 8295,
+                    "stop_timestamp": 8667
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling minced meat",
+            "start_timestamp": 8667,
+            "stop_timestamp": 10186,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pounding minced meat and stirring in the pan",
+                    "start_timestamp": 8667,
+                    "stop_timestamp": 9430
+                },
+                {
+                    "secondary_subgoal": "Repeatedly stirring minced meat and adding water",
+                    "start_timestamp": 9430,
+                    "stop_timestamp": 10186
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning during cooking process",
+            "start_timestamp": 10186,
+            "stop_timestamp": 12008,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring minced meat, wiping surfaces and moving around",
+                    "start_timestamp": 10186,
+                    "stop_timestamp": 10677
+                },
+                {
+                    "secondary_subgoal": "Wiping the cooktop and picking items with kitchen towel",
+                    "start_timestamp": 10677,
+                    "stop_timestamp": 10880
+                },
+                {
+                    "secondary_subgoal": "Stirring and handling pack of items",
+                    "start_timestamp": 10880,
+                    "stop_timestamp": 11393
+                },
+                {
+                    "secondary_subgoal": "Moving around and cleaning up pack of items",
+                    "start_timestamp": 11393,
+                    "stop_timestamp": 11526
+                },
+                {
+                    "secondary_subgoal": "Fetching water from faucet and adding it to minced meat",
+                    "start_timestamp": 11526,
+                    "stop_timestamp": 12008
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing and rinsing utensils",
+            "start_timestamp": 12008,
+            "stop_timestamp": 14559,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing hands and stirring minced meat",
+                    "start_timestamp": 12008,
+                    "stop_timestamp": 12977
+                },
+                {
+                    "secondary_subgoal": "Washing chopping board and knife in the sink",
+                    "start_timestamp": 12977,
+                    "stop_timestamp": 14284
+                },
+                {
+                    "secondary_subgoal": "Cleaning sink and rinsing hands",
+                    "start_timestamp": 14284,
+                    "stop_timestamp": 14559
+                }
+            ]
+        },
+        {
+            "subgoal": "Final handling of minced meat and cleaning cooktop",
+            "start_timestamp": 14559,
+            "stop_timestamp": 16234,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring minced meat and washing bowls",
+                    "start_timestamp": 14559,
+                    "stop_timestamp": 15488
+                },
+                {
+                    "secondary_subgoal": "Handling and adding water to minced meat",
+                    "start_timestamp": 15488,
+                    "stop_timestamp": 16234
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding seasoning and covering the pan",
+            "start_timestamp": 16234,
+            "stop_timestamp": 20450,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adding seasoning to the pan",
+                    "start_timestamp": 16234,
+                    "stop_timestamp": 17029
+                },
+                {
+                    "secondary_subgoal": "Cleaning hands with kitchen towel and stirring contents",
+                    "start_timestamp": 17029,
+                    "stop_timestamp": 18272
+                },
+                {
+                    "secondary_subgoal": "Cleaning and handling utensils in the sink",
+                    "start_timestamp": 18272,
+                    "stop_timestamp": 18824
+                },
+                {
+                    "secondary_subgoal": "Wiping and arranging countertops",
+                    "start_timestamp": 18824,
+                    "stop_timestamp": 19703
+                },
+                {
+                    "secondary_subgoal": "Covering the pan and cleaning cooktop",
+                    "start_timestamp": 19703,
+                    "stop_timestamp": 20450
+                }
+            ]
+        },
+        {
+            "subgoal": "Covering and storing the food",
+            "start_timestamp": 20450,
+            "stop_timestamp": 21062,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling container and covering food",
+                    "start_timestamp": 20450,
+                    "stop_timestamp": 20919
+                },
+                {
+                    "secondary_subgoal": "Storing the bowl in the fridge",
+                    "start_timestamp": 20919,
+                    "stop_timestamp": 21062
+                }
+            ]
+        }
+    ]
+}

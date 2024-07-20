@@ -1,0 +1,130 @@
+{
+    "overall_goal": "Cook and eat a meal with broccoli and soup",
+    "clips": [
+        {
+            "subgoal": "Prepare and cook the broccoli",
+            "start_timestamp": 0,
+            "stop_timestamp": 6289,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick the broccoli and prepare it for cooking",
+                    "start_timestamp": 70,
+                    "stop_timestamp": 144
+                },
+                {
+                    "secondary_subgoal": "Add broccoli to the cooking pot",
+                    "start_timestamp": 144,
+                    "stop_timestamp": 360
+                },
+                {
+                    "secondary_subgoal": "Stir the soup and add more broccoli",
+                    "start_timestamp": 360,
+                    "stop_timestamp": 836
+                },
+                {
+                    "secondary_subgoal": "Stir the soup again and add the remaining broccoli",
+                    "start_timestamp": 839,
+                    "stop_timestamp": 1741
+                },
+                {
+                    "secondary_subgoal": "Stir the broccoli in the cooking pot",
+                    "start_timestamp": 4354,
+                    "stop_timestamp": 4831
+                },
+                {
+                    "secondary_subgoal": "Stir soup and handle spices",
+                    "start_timestamp": 5107,
+                    "stop_timestamp": 5535
+                },
+                {
+                    "secondary_subgoal": "Touch the gas cooker, stir and cut broccoli",
+                    "start_timestamp": 5651,
+                    "stop_timestamp": 6140
+                },
+                {
+                    "secondary_subgoal": "Finish cooking the broccoli",
+                    "start_timestamp": 6140,
+                    "stop_timestamp": 6289
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash cooking ware and clean the kitchen",
+            "start_timestamp": 1753,
+            "stop_timestamp": 3327,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash the bowl",
+                    "start_timestamp": 1753,
+                    "stop_timestamp": 1995
+                },
+                {
+                    "secondary_subgoal": "Rinse and dry the bowl",
+                    "start_timestamp": 2146,
+                    "stop_timestamp": 2613
+                },
+                {
+                    "secondary_subgoal": "Wash other items and the sink",
+                    "start_timestamp": 2613,
+                    "stop_timestamp": 3096
+                },
+                {
+                    "secondary_subgoal": "Wash hands and wipe them dry",
+                    "start_timestamp": 3238,
+                    "stop_timestamp": 3394
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and eat the soup",
+            "start_timestamp": 3452,
+            "stop_timestamp": 3938,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Scoop and pour the soup",
+                    "start_timestamp": 3521,
+                    "stop_timestamp": 3651
+                },
+                {
+                    "secondary_subgoal": "Eat the soup and place dish on sink",
+                    "start_timestamp": 3651,
+                    "stop_timestamp": 4000
+                }
+            ]
+        },
+        {
+            "subgoal": "Season and finalize the soup",
+            "start_timestamp": 4029,
+            "stop_timestamp": 4176,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add spice to the soup",
+                    "start_timestamp": 4029,
+                    "stop_timestamp": 4080
+                },
+                {
+                    "secondary_subgoal": "Stir the soup",
+                    "start_timestamp": 4080,
+                    "stop_timestamp": 4176
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up and finish cooking",
+            "start_timestamp": 4877,
+            "stop_timestamp": 6563,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle spices and finish stirring",
+                    "start_timestamp": 4877,
+                    "stop_timestamp": 5535
+                },
+                {
+                    "secondary_subgoal": "Finish cooking and serve the broccoli",
+                    "start_timestamp": 6289,
+                    "stop_timestamp": 6563
+                }
+            ]
+        }
+    ]
+}

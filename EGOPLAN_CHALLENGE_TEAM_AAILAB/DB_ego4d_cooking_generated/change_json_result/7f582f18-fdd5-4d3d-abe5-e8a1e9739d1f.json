@@ -1,0 +1,74 @@
+{
+    "overall_goal": "C prepares a dish using a pan and serves it.",
+    "clips": [
+        {
+            "subgoal": "C cooks in the pan.",
+            "start_timestamp": 15,
+            "stop_timestamp": 2135,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C cooks in the pan.",
+                    "start_timestamp": 15,
+                    "stop_timestamp": 27
+                },
+                {
+                    "secondary_subgoal": "C stirs the contents of the pan.",
+                    "start_timestamp": 27,
+                    "stop_timestamp": 1913
+                },
+                {
+                    "secondary_subgoal": "C takes a plate to serve the dish.",
+                    "start_timestamp": 1913,
+                    "stop_timestamp": 1945
+                },
+                {
+                    "secondary_subgoal": "C puts the plate on the sink.",
+                    "start_timestamp": 1945,
+                    "stop_timestamp": 2135
+                }
+            ]
+        },
+        {
+            "subgoal": "C serves the dish.",
+            "start_timestamp": 2135,
+            "stop_timestamp": 4840,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C serves the dish.",
+                    "start_timestamp": 2135,
+                    "stop_timestamp": 4535
+                },
+                {
+                    "secondary_subgoal": "C puts together the served dish.",
+                    "start_timestamp": 4535,
+                    "stop_timestamp": 4660
+                },
+                {
+                    "secondary_subgoal": "C takes the lid to cover the pan.",
+                    "start_timestamp": 4660,
+                    "stop_timestamp": 4703
+                },
+                {
+                    "secondary_subgoal": "C puts the spoon in the pan.",
+                    "start_timestamp": 4703,
+                    "stop_timestamp": 4715
+                },
+                {
+                    "secondary_subgoal": "C covers the pan.",
+                    "start_timestamp": 4715,
+                    "stop_timestamp": 4728
+                },
+                {
+                    "secondary_subgoal": "C moves the plate.",
+                    "start_timestamp": 4728,
+                    "stop_timestamp": 4740
+                },
+                {
+                    "secondary_subgoal": "C raises his hand.",
+                    "start_timestamp": 4740,
+                    "stop_timestamp": 4840
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "overall_goal": "Cleaning and preparing kitchen utensils and ingredients for cooking",
+    "clips": [
+        {
+            "subgoal": "Rearranging kitchen tools and cleaning utensils",
+            "start_timestamp": 38,
+            "stop_timestamp": 5647,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rearranging cooking tools",
+                    "start_timestamp": 38,
+                    "stop_timestamp": 384
+                },
+                {
+                    "secondary_subgoal": "Turning on air conditioner and gathering cleaning supplies",
+                    "start_timestamp": 384,
+                    "stop_timestamp": 608
+                },
+                {
+                    "secondary_subgoal": "Cleaning utensils",
+                    "start_timestamp": 608,
+                    "stop_timestamp": 4854
+                },
+                {
+                    "secondary_subgoal": "Organizing cleaned utensils",
+                    "start_timestamp": 4854,
+                    "stop_timestamp": 5483
+                },
+                {
+                    "secondary_subgoal": "Finishing up cleaning and organizing",
+                    "start_timestamp": 5483,
+                    "stop_timestamp": 5647
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing ingredients",
+            "start_timestamp": 5647,
+            "stop_timestamp": 21312,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gathering and cutting meat",
+                    "start_timestamp": 5647,
+                    "stop_timestamp": 14556
+                },
+                {
+                    "secondary_subgoal": "Preparing and cutting vegetables",
+                    "start_timestamp": 14556,
+                    "stop_timestamp": 17974
+                },
+                {
+                    "secondary_subgoal": "Cutting cucumbers",
+                    "start_timestamp": 17974,
+                    "stop_timestamp": 18786
+                },
+                {
+                    "secondary_subgoal": "Arranging and Washing ingredients",
+                    "start_timestamp": 18786,
+                    "stop_timestamp": 19857
+                },
+                {
+                    "secondary_subgoal": "Preparing for subsequent activities",
+                    "start_timestamp": 19857,
+                    "stop_timestamp": 21312
+                }
+            ]
+        }
+    ]
+}

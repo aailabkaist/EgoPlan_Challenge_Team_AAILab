@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgX1xNwedwXYnUvL1ejVLNc4dImt",
+    "object": "chat.completion",
+    "created": 1719245311,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook a meal involving celery, bread, and spaghetti.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare celery for cooking\",\n      \"start_timestamp\": 98,\n      \"stop_timestamp\": 2233,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean and wash celery\",\n          \"start_timestamp\": 98,\n          \"stop_timestamp\": 274\n        },\n        {\n          \"secondary_subgoal\": \"Chop celery\",\n          \"start_timestamp\": 274,\n          \"stop_timestamp\": 2233\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up and assemble ingredients\",\n      \"start_timestamp\": 2233,\n      \"stop_timestamp\": 2908,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash and dry hands\",\n          \"start_timestamp\": 2233,\n          \"stop_timestamp\": 2513\n        },\n        {\n          \"secondary_subgoal\": \"Handle plastic bag and oven\",\n          \"start_timestamp\": 2513,\n          \"stop_timestamp\": 2908\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and cook spaghetti\",\n      \"start_timestamp\": 3126,\n      \"stop_timestamp\": 14450,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cook spaghetti in a cooking pot\",\n          \"start_timestamp\": 4779,\n          \"stop_timestamp\": 14243\n        },\n        {\n          \"secondary_subgoal\": \"Handling spaghetti from sieve to plate\",\n          \"start_timestamp\": 14243,\n          \"stop_timestamp\": 14450\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finish spaghetti preparation\",\n      \"start_timestamp\": 14450,\n      \"stop_timestamp\": 15591,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean work area and utensils\",\n          \"start_timestamp\": 14450,\n          \"stop_timestamp\": 15591\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handle kitchen items and ingredients\",\n      \"start_timestamp\": 15591,\n      \"stop_timestamp\": 17389,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Manage kitchen wrap and dispose waste\",\n          \"start_timestamp\": 15591,\n          \"stop_timestamp\": 16741\n        },\n        {\n          \"secondary_subgoal\": \"Organize kitchen counter\",\n          \"start_timestamp\": 16741,\n          \"stop_timestamp\": 17389\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3077,
+        "completion_tokens": 552,
+        "total_tokens": 3629
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

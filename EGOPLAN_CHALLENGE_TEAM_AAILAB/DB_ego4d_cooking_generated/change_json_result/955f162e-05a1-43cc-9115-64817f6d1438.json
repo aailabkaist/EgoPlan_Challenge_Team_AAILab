@@ -1,0 +1,88 @@
+{
+    "overall_goal": "Clean the kitchen dishes and sink",
+    "clips": [
+        {
+            "subgoal": "Prepare to wash dishes",
+            "start_timestamp": 25,
+            "stop_timestamp": 899,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on the tap",
+                    "start_timestamp": 564,
+                    "stop_timestamp": 628
+                },
+                {
+                    "secondary_subgoal": "Gather cleaning supplies",
+                    "start_timestamp": 734,
+                    "stop_timestamp": 899
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash dishes",
+            "start_timestamp": 1026,
+            "stop_timestamp": 3537,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash the plate",
+                    "start_timestamp": 1026,
+                    "stop_timestamp": 1235
+                },
+                {
+                    "secondary_subgoal": "Wash and place chopsticks on rack",
+                    "start_timestamp": 1306,
+                    "stop_timestamp": 1502
+                },
+                {
+                    "secondary_subgoal": "Wash and place plate on sink",
+                    "start_timestamp": 1526,
+                    "stop_timestamp": 1702
+                },
+                {
+                    "secondary_subgoal": "Wash and place dish on rack",
+                    "start_timestamp": 1768,
+                    "stop_timestamp": 3537
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean and dry sink",
+            "start_timestamp": 3621,
+            "stop_timestamp": 4994,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Scrub the sink",
+                    "start_timestamp": 3621,
+                    "stop_timestamp": 4922
+                },
+                {
+                    "secondary_subgoal": "Put the wiping cloth on the rack",
+                    "start_timestamp": 4922,
+                    "stop_timestamp": 4994
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up",
+            "start_timestamp": 5061,
+            "stop_timestamp": 5500,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wipe hands with tissue",
+                    "start_timestamp": 5061,
+                    "stop_timestamp": 5101
+                },
+                {
+                    "secondary_subgoal": "Wipe the sink",
+                    "start_timestamp": 5101,
+                    "stop_timestamp": 5474
+                },
+                {
+                    "secondary_subgoal": "Dispose of tissue in paper bag",
+                    "start_timestamp": 5474,
+                    "stop_timestamp": 5500
+                }
+            ]
+        }
+    ]
+}

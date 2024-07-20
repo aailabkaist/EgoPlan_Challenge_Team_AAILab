@@ -1,0 +1,154 @@
+{
+    "overall_goal": "Prepare a meal involving various steps including washing, chopping vegetables, and cooking pasta",
+    "clips": [
+        {
+            "subgoal": "Fill pot with water and place it on the cooker",
+            "start_timestamp": 68,
+            "stop_timestamp": 721,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fill the pot with water",
+                    "start_timestamp": 68,
+                    "stop_timestamp": 598
+                },
+                {
+                    "secondary_subgoal": "Place the pot on the cooker",
+                    "start_timestamp": 598,
+                    "stop_timestamp": 721
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare stove for cooking",
+            "start_timestamp": 721,
+            "stop_timestamp": 907,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cover the pot with the lid and light the cooker",
+                    "start_timestamp": 721,
+                    "stop_timestamp": 907
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize the countertop and select ingredients",
+            "start_timestamp": 1015,
+            "stop_timestamp": 2376,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Press buttons and light the cooker",
+                    "start_timestamp": 1015,
+                    "stop_timestamp": 1089
+                },
+                {
+                    "secondary_subgoal": "Press buttons on upper cabinet and organize countertop",
+                    "start_timestamp": 1089,
+                    "stop_timestamp": 1540
+                },
+                {
+                    "secondary_subgoal": "Retrieve plates and ingredients from the fridge",
+                    "start_timestamp": 1540,
+                    "stop_timestamp": 2334
+                },
+                {
+                    "secondary_subgoal": "Organize the fridge items on the countertop",
+                    "start_timestamp": 2334,
+                    "stop_timestamp": 2376
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cucumber and capsicum",
+            "start_timestamp": 2334,
+            "stop_timestamp": 7632,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and wash vegetables",
+                    "start_timestamp": 2334,
+                    "stop_timestamp": 4355
+                },
+                {
+                    "secondary_subgoal": "Slice cucumber and capsicum",
+                    "start_timestamp": 4355,
+                    "stop_timestamp": 7632
+                }
+            ]
+        },
+        {
+            "subgoal": "Continue preparation of other vegetables",
+            "start_timestamp": 7632,
+            "stop_timestamp": 8034,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Slice and arrange red capsicum",
+                    "start_timestamp": 7632,
+                    "stop_timestamp": 8034
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize additional ingredients and cook",
+            "start_timestamp": 8034,
+            "stop_timestamp": 16947,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Organize and wrap excess vegetables",
+                    "start_timestamp": 8034,
+                    "stop_timestamp": 8918
+                },
+                {
+                    "secondary_subgoal": "Prepare and arrange cabbage in the dish",
+                    "start_timestamp": 8918,
+                    "stop_timestamp": 9795
+                },
+                {
+                    "secondary_subgoal": "Add and arrange meat and lemon slices",
+                    "start_timestamp": 9795,
+                    "stop_timestamp": 11422
+                },
+                {
+                    "secondary_subgoal": "Arrange hot peppers and finish preparations",
+                    "start_timestamp": 11422,
+                    "stop_timestamp": 11917
+                },
+                {
+                    "secondary_subgoal": "Wrap cabbage dish and place in fridge",
+                    "start_timestamp": 11917,
+                    "stop_timestamp": 12988
+                },
+                {
+                    "secondary_subgoal": "Organize countertop and packages",
+                    "start_timestamp": 12988,
+                    "stop_timestamp": 17018
+                },
+                {
+                    "secondary_subgoal": "Cook spaghetti and pasta",
+                    "start_timestamp": 17018,
+                    "stop_timestamp": 17483
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut and prepare onion for the dish",
+            "start_timestamp": 17483,
+            "stop_timestamp": 21113,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Unwrap, peel, and cut onion",
+                    "start_timestamp": 17483,
+                    "stop_timestamp": 18008
+                },
+                {
+                    "secondary_subgoal": "Arrange and cut green pepper",
+                    "start_timestamp": 18008,
+                    "stop_timestamp": 19953
+                },
+                {
+                    "secondary_subgoal": "Wash hands and continue cutting green pepper",
+                    "start_timestamp": 19953,
+                    "stop_timestamp": 21113
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efPQAOd5C9UE4TgwjibfB1g3ceGH",
+    "object": "chat.completion",
+    "created": 1719479324,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cooking a meal\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing to cook\",\n      \"start_timestamp\": 5,\n      \"stop_timestamp\": 3117,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Using phone and setting up kitchen\",\n          \"start_timestamp\": 5,\n          \"stop_timestamp\": 585\n        },\n        {\n          \"secondary_subgoal\": \"Gathering ingredients and tools\",\n          \"start_timestamp\": 585,\n          \"stop_timestamp\": 3117\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Starting the cooking process\",\n      \"start_timestamp\": 3117,\n      \"stop_timestamp\": 3216,\n      \"sub_clips\": []\n    },\n    {\n      \"subgoal\": \"Cutting potatoes\",\n      \"start_timestamp\": 3216,\n      \"stop_timestamp\": 8756,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Washing and cutting potatoes\",\n          \"start_timestamp\": 3282,\n          \"stop_timestamp\": 8756\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handling hot water and cooking\",\n      \"start_timestamp\": 8756,\n      \"stop_timestamp\": 21202,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Boiling potatoes\",\n          \"start_timestamp\": 8810,\n          \"stop_timestamp\": 10184\n        },\n        {\n          \"secondary_subgoal\": \"Further potato processing and cleaning\",\n          \"start_timestamp\": 10184,\n          \"stop_timestamp\": 14449\n        },\n        {\n          \"secondary_subgoal\": \"Stirring onions and handling potatoes\",\n          \"start_timestamp\": 14449,\n          \"stop_timestamp\": 21202\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Managing cooking process\",\n      \"start_timestamp\": 21202,\n      \"stop_timestamp\": 29537,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cleaning and stirring activities\",\n          \"start_timestamp\": 21202,\n          \"stop_timestamp\": 28822\n        },\n        {\n          \"secondary_subgoal\": \"Adding flavors and managing pot\",\n          \"start_timestamp\": 28822,\n          \"stop_timestamp\": 29537\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final preparative actions\",\n      \"start_timestamp\": 29537,\n      \"stop_timestamp\": 40157,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Preparing final flavor additions\",\n          \"start_timestamp\": 29537,\n          \"stop_timestamp\": 29997\n        },\n        {\n          \"secondary_subgoal\": \"Managing pot and final tasks\",\n          \"start_timestamp\": 29997,\n          \"stop_timestamp\": 30672\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Continuing cooking\",\n      \"start_timestamp\": 30672,\n      \"stop_timestamp\": 38052,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Washing and handling various things\",\n          \"start_timestamp\": 30672,\n          \"stop_timestamp\": 36422\n        },\n        {\n          \"secondary_subgoal\": \"Handling pot and washing things\",\n          \"start_timestamp\": 36422,\n          \"stop_timestamp\": 38052\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finishing up and cleaning\",\n      \"start_timestamp\": 38052,\n      \"stop_timestamp\": 39715,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Final cooking and cleaning actions\",\n          \"start_timestamp\": 38052,\n          \"stop_timestamp\": 39715\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 8286,
+        "completion_tokens": 806,
+        "total_tokens": 9092
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

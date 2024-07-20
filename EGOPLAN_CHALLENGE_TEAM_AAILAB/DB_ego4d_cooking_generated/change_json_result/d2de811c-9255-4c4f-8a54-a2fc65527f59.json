@@ -1,0 +1,109 @@
+{
+    "overall_goal": "Blend wheat flour using a blender and collect it in containers.",
+    "clips": [
+        {
+            "subgoal": "Prepare for blending",
+            "start_timestamp": 0,
+            "stop_timestamp": 540,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move hands and objects",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 85
+                },
+                {
+                    "secondary_subgoal": "Lift and pour wheat into blender",
+                    "start_timestamp": 85,
+                    "stop_timestamp": 540
+                }
+            ]
+        },
+        {
+            "subgoal": "Blend the wheat",
+            "start_timestamp": 540,
+            "stop_timestamp": 1683,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Operate the blender to blend wheat",
+                    "start_timestamp": 540,
+                    "stop_timestamp": 1118
+                },
+                {
+                    "secondary_subgoal": "Resume blending wheat after intervals",
+                    "start_timestamp": 1118,
+                    "stop_timestamp": 1683
+                }
+            ]
+        },
+        {
+            "subgoal": "Pause and interact",
+            "start_timestamp": 1683,
+            "stop_timestamp": 1799,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look around and check the flour",
+                    "start_timestamp": 1683,
+                    "stop_timestamp": 1799
+                }
+            ]
+        },
+        {
+            "subgoal": "Operate blender and pour flour",
+            "start_timestamp": 1799,
+            "stop_timestamp": 3357,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Collect and pour blended flour into jug",
+                    "start_timestamp": 1799,
+                    "stop_timestamp": 24207
+                },
+                {
+                    "secondary_subgoal": "Blend new batch of wheat to flour",
+                    "start_timestamp": 24207,
+                    "stop_timestamp": 3357
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare for another round of blending",
+            "start_timestamp": 3370,
+            "stop_timestamp": 3536,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Collect wheat and pour it into  blender",
+                    "start_timestamp": 3370,
+                    "stop_timestamp": 3536
+                }
+            ]
+        },
+        {
+            "subgoal": "Blend wheat into flour",
+            "start_timestamp": 3536,
+            "stop_timestamp": 4843,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Blender operation and check flour",
+                    "start_timestamp": 3536,
+                    "stop_timestamp": 4453
+                },
+                {
+                    "secondary_subgoal": "Operate the blender",
+                    "start_timestamp": 4453,
+                    "stop_timestamp": 4843
+                }
+            ]
+        },
+        {
+            "subgoal": "Complete blending and collect flour",
+            "start_timestamp": 4864,
+            "stop_timestamp": 5000,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move the flour to the container",
+                    "start_timestamp": 4864,
+                    "stop_timestamp": 5000
+                }
+            ]
+        }
+    ]
+}

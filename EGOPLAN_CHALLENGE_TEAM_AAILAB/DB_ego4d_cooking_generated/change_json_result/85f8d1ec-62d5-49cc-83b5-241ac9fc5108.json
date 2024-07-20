@@ -1,0 +1,143 @@
+{
+    "overall_goal": "Prepare and organize kitchen items for cooking",
+    "clips": [
+        {
+            "subgoal": "Clean hands",
+            "start_timestamp": 603,
+            "stop_timestamp": 1096,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on tap water",
+                    "start_timestamp": 603,
+                    "stop_timestamp": 633
+                },
+                {
+                    "secondary_subgoal": "Apply soap",
+                    "start_timestamp": 669,
+                    "stop_timestamp": 752
+                },
+                {
+                    "secondary_subgoal": "Wash hands",
+                    "start_timestamp": 762,
+                    "stop_timestamp": 882
+                },
+                {
+                    "secondary_subgoal": "Turn off tap",
+                    "start_timestamp": 882,
+                    "stop_timestamp": 917
+                },
+                {
+                    "secondary_subgoal": "Cut paper towel",
+                    "start_timestamp": 917,
+                    "stop_timestamp": 968
+                },
+                {
+                    "secondary_subgoal": "Wipe hands",
+                    "start_timestamp": 968,
+                    "stop_timestamp": 1096
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare plate and chopsticks",
+            "start_timestamp": 1096,
+            "stop_timestamp": 1637,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open kitchen cabinet",
+                    "start_timestamp": 1132,
+                    "stop_timestamp": 1244
+                },
+                {
+                    "secondary_subgoal": "Pick plate and chopsticks",
+                    "start_timestamp": 1244,
+                    "stop_timestamp": 1296
+                },
+                {
+                    "secondary_subgoal": "Pick #unsure and place on plate",
+                    "start_timestamp": 1344,
+                    "stop_timestamp": 1516
+                },
+                {
+                    "secondary_subgoal": "Place chopsticks",
+                    "start_timestamp": 1553,
+                    "stop_timestamp": 1599
+                },
+                {
+                    "secondary_subgoal": "Place knife and paper on bowl",
+                    "start_timestamp": 1637,
+                    "stop_timestamp": 1693
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cooking utensils",
+            "start_timestamp": 1693,
+            "stop_timestamp": 2619,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick paper towel and turn on tap",
+                    "start_timestamp": 2098,
+                    "stop_timestamp": 2134
+                },
+                {
+                    "secondary_subgoal": "Raise hand and pick utensils cleaner",
+                    "start_timestamp": 2224,
+                    "stop_timestamp": 2271
+                },
+                {
+                    "secondary_subgoal": "Clean utensils",
+                    "start_timestamp": 2271,
+                    "stop_timestamp": 2563
+                },
+                {
+                    "secondary_subgoal": "Turn off tap and put chopping board at wall",
+                    "start_timestamp": 2563,
+                    "stop_timestamp": 2619
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare for cooking",
+            "start_timestamp": 2837,
+            "stop_timestamp": 4738,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look around kitchen",
+                    "start_timestamp": 2837,
+                    "stop_timestamp": 2853
+                },
+                {
+                    "secondary_subgoal": "Hold cooking pot",
+                    "start_timestamp": 2853,
+                    "stop_timestamp": 3068
+                },
+                {
+                    "secondary_subgoal": "Look around kitchen again",
+                    "start_timestamp": 3068,
+                    "stop_timestamp": 3109
+                },
+                {
+                    "secondary_subgoal": "Scoop #unsure from bowl and put on plate",
+                    "start_timestamp": 3109,
+                    "stop_timestamp": 4132
+                },
+                {
+                    "secondary_subgoal": "Cover bowl with lid",
+                    "start_timestamp": 4150,
+                    "stop_timestamp": 4182
+                },
+                {
+                    "secondary_subgoal": "Look around kitchen again and press button",
+                    "start_timestamp": 4629,
+                    "stop_timestamp": 4638
+                },
+                {
+                    "secondary_subgoal": "Move around kitchen",
+                    "start_timestamp": 4638,
+                    "stop_timestamp": 4738
+                }
+            ]
+        }
+    ]
+}

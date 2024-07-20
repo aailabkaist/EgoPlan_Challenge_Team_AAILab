@@ -1,0 +1,130 @@
+{
+    "overall_goal": "Prepare and cook a meal",
+    "clips": [
+        {
+            "subgoal": "Store items in the fridge",
+            "start_timestamp": 0,
+            "stop_timestamp": 344,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take a bottle",
+                    "start_timestamp": 162,
+                    "stop_timestamp": 216
+                },
+                {
+                    "secondary_subgoal": "Open fridge",
+                    "start_timestamp": 235,
+                    "stop_timestamp": 275
+                },
+                {
+                    "secondary_subgoal": "Put bottle in the fridge",
+                    "start_timestamp": 275,
+                    "stop_timestamp": 344
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare tools and ingredients",
+            "start_timestamp": 344,
+            "stop_timestamp": 1883,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move items to sink",
+                    "start_timestamp": 344,
+                    "stop_timestamp": 454
+                },
+                {
+                    "secondary_subgoal": "Prepare ladle",
+                    "start_timestamp": 502,
+                    "stop_timestamp": 704
+                },
+                {
+                    "secondary_subgoal": "Put polythene bag in cup",
+                    "start_timestamp": 917,
+                    "stop_timestamp": 1618
+                },
+                {
+                    "secondary_subgoal": "Store cup in fridge",
+                    "start_timestamp": 1668,
+                    "stop_timestamp": 1808
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean hands and take plates",
+            "start_timestamp": 1883,
+            "stop_timestamp": 2275,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash hands",
+                    "start_timestamp": 1883,
+                    "stop_timestamp": 1952
+                },
+                {
+                    "secondary_subgoal": "Dry hands",
+                    "start_timestamp": 1999,
+                    "stop_timestamp": 2044
+                },
+                {
+                    "secondary_subgoal": "Take plates",
+                    "start_timestamp": 2198,
+                    "stop_timestamp": 2245
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cut vegetables",
+            "start_timestamp": 2427,
+            "stop_timestamp": 4037,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put lid on pot",
+                    "start_timestamp": 2456,
+                    "stop_timestamp": 2499
+                },
+                {
+                    "secondary_subgoal": "Prepare chopping sticks",
+                    "start_timestamp": 2777,
+                    "stop_timestamp": 3049
+                },
+                {
+                    "secondary_subgoal": "Prepare vegetables",
+                    "start_timestamp": 3151,
+                    "stop_timestamp": 3608
+                },
+                {
+                    "secondary_subgoal": "Cut vegetables",
+                    "start_timestamp": 3684,
+                    "stop_timestamp": 3751
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle meat",
+            "start_timestamp": 8042,
+            "stop_timestamp": 15830,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and check meat",
+                    "start_timestamp": 8042,
+                    "stop_timestamp": 8762
+                },
+                {
+                    "secondary_subgoal": "Cut meat",
+                    "start_timestamp": 10050,
+                    "stop_timestamp": 15804
+                },
+                {
+                    "secondary_subgoal": "Stir onions",
+                    "start_timestamp": 13993,
+                    "stop_timestamp": 14084
+                },
+                {
+                    "secondary_subgoal": "Handle silver cyprinid",
+                    "start_timestamp": 14585,
+                    "stop_timestamp": 15188
+                }
+            ]
+        }
+    ]
+}

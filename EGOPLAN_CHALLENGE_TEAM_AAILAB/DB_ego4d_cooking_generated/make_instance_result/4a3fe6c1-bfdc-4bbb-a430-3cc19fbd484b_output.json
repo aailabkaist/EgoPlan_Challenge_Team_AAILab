@@ -1,0 +1,962 @@
+[
+    {
+        "task_goal": "Prepare and operate the microwave",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves the hand.",
+                "start_frame": 1,
+                "stop_frame": 15
+            },
+            {
+                "narration_text": "#C C picks the container.",
+                "start_frame": 15,
+                "stop_frame": 66
+            },
+            {
+                "narration_text": "#C C steps forward.",
+                "start_frame": 66,
+                "stop_frame": 191
+            },
+            {
+                "narration_text": "#C C opens the microwave.",
+                "start_frame": 191,
+                "stop_frame": 223
+            },
+            {
+                "narration_text": "#C C puts the container in the microwave.",
+                "start_frame": 223,
+                "stop_frame": 262
+            },
+            {
+                "narration_text": "#C C closes the microwave.",
+                "start_frame": 262,
+                "stop_frame": 279
+            },
+            {
+                "narration_text": "#C C operates the microwave.",
+                "start_frame": 279,
+                "stop_frame": 331
+            },
+            {
+                "narration_text": "#C C steps forward.",
+                "start_frame": 331,
+                "stop_frame": 428
+            },
+            {
+                "narration_text": "#C C touches the table.",
+                "start_frame": 428,
+                "stop_frame": 455
+            }
+        ]
+    },
+    {
+        "task_goal": "Move the hand and pick the container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves the hand.",
+                "start_frame": 1,
+                "stop_frame": 15
+            },
+            {
+                "narration_text": "#C C picks the container.",
+                "start_frame": 15,
+                "stop_frame": 66
+            },
+            {
+                "narration_text": "#C C steps forward.",
+                "start_frame": 66,
+                "stop_frame": 191
+            }
+        ]
+    },
+    {
+        "task_goal": "Step forward and open the microwave",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the container.",
+                "start_frame": 15,
+                "stop_frame": 66
+            },
+            {
+                "narration_text": "#C C steps forward.",
+                "start_frame": 66,
+                "stop_frame": 191
+            },
+            {
+                "narration_text": "#C C opens the microwave.",
+                "start_frame": 191,
+                "stop_frame": 223
+            },
+            {
+                "narration_text": "#C C puts the container in the microwave.",
+                "start_frame": 223,
+                "stop_frame": 262
+            }
+        ]
+    },
+    {
+        "task_goal": "Put the container in and close the microwave",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the microwave.",
+                "start_frame": 191,
+                "stop_frame": 223
+            },
+            {
+                "narration_text": "#C C puts the container in the microwave.",
+                "start_frame": 223,
+                "stop_frame": 262
+            },
+            {
+                "narration_text": "#C C closes the microwave.",
+                "start_frame": 262,
+                "stop_frame": 279
+            },
+            {
+                "narration_text": "#C C operates the microwave.",
+                "start_frame": 279,
+                "stop_frame": 331
+            }
+        ]
+    },
+    {
+        "task_goal": "Operate the microwave",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the microwave.",
+                "start_frame": 262,
+                "stop_frame": 279
+            },
+            {
+                "narration_text": "#C C operates the microwave.",
+                "start_frame": 279,
+                "stop_frame": 331
+            },
+            {
+                "narration_text": "#C C steps forward.",
+                "start_frame": 331,
+                "stop_frame": 428
+            }
+        ]
+    },
+    {
+        "task_goal": "Move and pick garlic",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C steps forward.",
+                "start_frame": 331,
+                "stop_frame": 428
+            },
+            {
+                "narration_text": "#C C touches the table.",
+                "start_frame": 428,
+                "stop_frame": 455
+            },
+            {
+                "narration_text": "#C C steps forward.",
+                "start_frame": 455,
+                "stop_frame": 538
+            },
+            {
+                "narration_text": "#C C picks the garlic.",
+                "start_frame": 538,
+                "stop_frame": 637
+            },
+            {
+                "narration_text": "#C C looks at the garlic.",
+                "start_frame": 637,
+                "stop_frame": 661
+            },
+            {
+                "narration_text": "#C C passes the garlics to the right hand.",
+                "start_frame": 661,
+                "stop_frame": 681
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle the garlic",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks at the garlic.",
+                "start_frame": 637,
+                "stop_frame": 661
+            },
+            {
+                "narration_text": "#C C passes the garlics to the right hand.",
+                "start_frame": 661,
+                "stop_frame": 681
+            },
+            {
+                "narration_text": "#C C does #unsure",
+                "start_frame": 681,
+                "stop_frame": 945
+            },
+            {
+                "narration_text": "#C C puts the garlic down.",
+                "start_frame": 945,
+                "stop_frame": 955
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle the onion",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C does #unsure",
+                "start_frame": 681,
+                "stop_frame": 945
+            },
+            {
+                "narration_text": "#C C puts the garlic down.",
+                "start_frame": 945,
+                "stop_frame": 955
+            },
+            {
+                "narration_text": "#C C picks the onion.",
+                "start_frame": 955,
+                "stop_frame": 999
+            },
+            {
+                "narration_text": "#C C picks the onion.",
+                "start_frame": 999,
+                "stop_frame": 1068
+            },
+            {
+                "narration_text": "#C C puts the onion down.",
+                "start_frame": 1068,
+                "stop_frame": 1107
+            },
+            {
+                "narration_text": "#C C passes the onion to the right hand.",
+                "start_frame": 1107,
+                "stop_frame": 1124
+            }
+        ]
+    },
+    {
+        "task_goal": "Move to pick up glass and drink water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the onion down.",
+                "start_frame": 1068,
+                "stop_frame": 1107
+            },
+            {
+                "narration_text": "#C C passes the onion to the right hand.",
+                "start_frame": 1107,
+                "stop_frame": 1124
+            },
+            {
+                "narration_text": "#C C steps forward.",
+                "start_frame": 1124,
+                "stop_frame": 1205
+            },
+            {
+                "narration_text": "#C C puts the onion down.",
+                "start_frame": 1205,
+                "stop_frame": 1217
+            },
+            {
+                "narration_text": "#C C picks the glass.",
+                "start_frame": 1217,
+                "stop_frame": 1238
+            },
+            {
+                "narration_text": "#C C drinks water.",
+                "start_frame": 1238,
+                "stop_frame": 1307
+            },
+            {
+                "narration_text": "#C C puts the glass on the table.",
+                "start_frame": 1307,
+                "stop_frame": 1345
+            },
+            {
+                "narration_text": "#C C opens the fridge.",
+                "start_frame": 1345,
+                "stop_frame": 1371
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the fridge and look around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the glass on the table.",
+                "start_frame": 1307,
+                "stop_frame": 1345
+            },
+            {
+                "narration_text": "#C C opens the fridge.",
+                "start_frame": 1345,
+                "stop_frame": 1371
+            },
+            {
+                "narration_text": "#C C looks around.",
+                "start_frame": 1371,
+                "stop_frame": 1441
+            },
+            {
+                "narration_text": "#C C moves the bottle.",
+                "start_frame": 1441,
+                "stop_frame": 1504
+            },
+            {
+                "narration_text": "#C C looks around.",
+                "start_frame": 1504,
+                "stop_frame": 1568
+            },
+            {
+                "narration_text": "#C C moves the bottle.",
+                "start_frame": 1568,
+                "stop_frame": 1589
+            },
+            {
+                "narration_text": "#C C picks the tube.",
+                "start_frame": 1589,
+                "stop_frame": 1618
+            },
+            {
+                "narration_text": "#C C stands.",
+                "start_frame": 1618,
+                "stop_frame": 1651
+            },
+            {
+                "narration_text": "#C C puts the tube on the chopping board.",
+                "start_frame": 1651,
+                "stop_frame": 1673
+            },
+            {
+                "narration_text": "#C C looks around.",
+                "start_frame": 1673,
+                "stop_frame": 1730
+            },
+            {
+                "narration_text": "#C C closes the fridge.",
+                "start_frame": 1730,
+                "stop_frame": 1799
+            }
+        ]
+    },
+    {
+        "task_goal": "Close the fridge and touch cupboard",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the fridge.",
+                "start_frame": 1730,
+                "stop_frame": 1799
+            },
+            {
+                "narration_text": "#C C touches the cupboard.",
+                "start_frame": 1799,
+                "stop_frame": 1835
+            },
+            {
+                "narration_text": "#C C opens the cabinet.",
+                "start_frame": 1835,
+                "stop_frame": 1858
+            }
+        ]
+    },
+    {
+        "task_goal": "Move and pick containers",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the packet on the shelf.",
+                "start_frame": 2470,
+                "stop_frame": 2489
+            },
+            {
+                "narration_text": "#C C moves the container.",
+                "start_frame": 2489,
+                "stop_frame": 2510
+            },
+            {
+                "narration_text": "#C C passes the container to the right hand.",
+                "start_frame": 2510,
+                "stop_frame": 2517
+            },
+            {
+                "narration_text": "#C C looks at the container.",
+                "start_frame": 2517,
+                "stop_frame": 2554
+            },
+            {
+                "narration_text": "#C C passes the container to the left hand.",
+                "start_frame": 2554,
+                "stop_frame": 2587
+            },
+            {
+                "narration_text": "#C C looks at the container.",
+                "start_frame": 2587,
+                "stop_frame": 2595
+            },
+            {
+                "narration_text": "#C C puts the packet on the shelf.",
+                "start_frame": 2595,
+                "stop_frame": 2646
+            },
+            {
+                "narration_text": "#C C picks the container.",
+                "start_frame": 2646,
+                "stop_frame": 2675
+            },
+            {
+                "narration_text": "#C C looks at the container.",
+                "start_frame": 2675,
+                "stop_frame": 2720
+            },
+            {
+                "narration_text": "#C C moves the hands.",
+                "start_frame": 2720,
+                "stop_frame": 2742
+            },
+            {
+                "narration_text": "#C C picks the container.",
+                "start_frame": 2742,
+                "stop_frame": 2766
+            },
+            {
+                "narration_text": "#C C looks at the containers.",
+                "start_frame": 2766,
+                "stop_frame": 2895
+            },
+            {
+                "narration_text": "#C C passes the container to the left hand.",
+                "start_frame": 2895,
+                "stop_frame": 2915
+            },
+            {
+                "narration_text": "#C C moves the hand.",
+                "start_frame": 2915,
+                "stop_frame": 2962
+            },
+            {
+                "narration_text": "#C C picks the container.",
+                "start_frame": 2962,
+                "stop_frame": 2976
+            },
+            {
+                "narration_text": "#C C looks at the containers.",
+                "start_frame": 2976,
+                "stop_frame": 3052
+            },
+            {
+                "narration_text": "#C C puts the containers on the chopping board.",
+                "start_frame": 3052,
+                "stop_frame": 3073
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare the workspace including adjusting camera",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks at the containers.",
+                "start_frame": 2976,
+                "stop_frame": 3052
+            },
+            {
+                "narration_text": "#C C puts the containers on the chopping board.",
+                "start_frame": 3052,
+                "stop_frame": 3073
+            },
+            {
+                "narration_text": "#C C adjusts the camera.",
+                "start_frame": 3073,
+                "stop_frame": 3436
+            },
+            {
+                "narration_text": "#C C touches the containers.",
+                "start_frame": 3436,
+                "stop_frame": 3463
+            },
+            {
+                "narration_text": "#C C looks around.",
+                "start_frame": 3463,
+                "stop_frame": 3529
+            },
+            {
+                "narration_text": "#C C moves the hands.",
+                "start_frame": 3529,
+                "stop_frame": 3546
+            },
+            {
+                "narration_text": "#C C adjusts the camera.",
+                "start_frame": 3546,
+                "stop_frame": 3578
+            },
+            {
+                "narration_text": "#C C touches the containers.",
+                "start_frame": 3578,
+                "stop_frame": 3599
+            },
+            {
+                "narration_text": "#C C moves the hands.",
+                "start_frame": 3599,
+                "stop_frame": 3622
+            },
+            {
+                "narration_text": "#C C looks around.",
+                "start_frame": 3622,
+                "stop_frame": 3651
+            },
+            {
+                "narration_text": "#C C moves the paper.",
+                "start_frame": 3651,
+                "stop_frame": 3684
+            },
+            {
+                "narration_text": "#C C picks the container.",
+                "start_frame": 3684,
+                "stop_frame": 3709
+            },
+            {
+                "narration_text": "#C C picks the container.",
+                "start_frame": 3709,
+                "stop_frame": 3716
+            },
+            {
+                "narration_text": "#C C puts the container down.",
+                "start_frame": 3716,
+                "stop_frame": 3720
+            },
+            {
+                "narration_text": "#C C looks at the container.",
+                "start_frame": 3720,
+                "stop_frame": 3728
+            },
+            {
+                "narration_text": "#C C passes the container to the right hand.",
+                "start_frame": 3728,
+                "stop_frame": 3741
+            },
+            {
+                "narration_text": "#C C puts the container on the shelf.",
+                "start_frame": 3741,
+                "stop_frame": 3780
+            },
+            {
+                "narration_text": "#C C moves the hand.",
+                "start_frame": 3780,
+                "stop_frame": 3806
+            },
+            {
+                "narration_text": "#C C steps forward.",
+                "start_frame": 3806,
+                "stop_frame": 3958
+            }
+        ]
+    },
+    {
+        "task_goal": "Look at and place containers on chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks at the containers.",
+                "start_frame": 2976,
+                "stop_frame": 3052
+            },
+            {
+                "narration_text": "#C C puts the containers on the chopping board.",
+                "start_frame": 3052,
+                "stop_frame": 3073
+            },
+            {
+                "narration_text": "#C C adjusts the camera.",
+                "start_frame": 3073,
+                "stop_frame": 3436
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjust the camera",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the containers on the chopping board.",
+                "start_frame": 3052,
+                "stop_frame": 3073
+            },
+            {
+                "narration_text": "#C C adjusts the camera.",
+                "start_frame": 3073,
+                "stop_frame": 3436
+            },
+            {
+                "narration_text": "#C C touches the containers.",
+                "start_frame": 3436,
+                "stop_frame": 3463
+            }
+        ]
+    },
+    {
+        "task_goal": "Look around and move paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C adjusts the camera.",
+                "start_frame": 3073,
+                "stop_frame": 3436
+            },
+            {
+                "narration_text": "#C C touches the containers.",
+                "start_frame": 3436,
+                "stop_frame": 3463
+            },
+            {
+                "narration_text": "#C C looks around.",
+                "start_frame": 3463,
+                "stop_frame": 3529
+            },
+            {
+                "narration_text": "#C C moves the hands.",
+                "start_frame": 3529,
+                "stop_frame": 3546
+            },
+            {
+                "narration_text": "#C C adjusts the camera.",
+                "start_frame": 3546,
+                "stop_frame": 3578
+            },
+            {
+                "narration_text": "#C C touches the containers.",
+                "start_frame": 3578,
+                "stop_frame": 3599
+            },
+            {
+                "narration_text": "#C C moves the hands.",
+                "start_frame": 3599,
+                "stop_frame": 3622
+            },
+            {
+                "narration_text": "#C C looks around.",
+                "start_frame": 3622,
+                "stop_frame": 3651
+            },
+            {
+                "narration_text": "#C C moves the paper.",
+                "start_frame": 3651,
+                "stop_frame": 3684
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle a container and place it on the shelf",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves the paper.",
+                "start_frame": 3651,
+                "stop_frame": 3684
+            },
+            {
+                "narration_text": "#C C picks the container.",
+                "start_frame": 3684,
+                "stop_frame": 3709
+            },
+            {
+                "narration_text": "#C C picks the container.",
+                "start_frame": 3709,
+                "stop_frame": 3716
+            },
+            {
+                "narration_text": "#C C puts the container down.",
+                "start_frame": 3716,
+                "stop_frame": 3720
+            },
+            {
+                "narration_text": "#C C looks at the container.",
+                "start_frame": 3720,
+                "stop_frame": 3728
+            },
+            {
+                "narration_text": "#C C passes the container to the right hand.",
+                "start_frame": 3728,
+                "stop_frame": 3741
+            },
+            {
+                "narration_text": "#C C puts the container on the shelf.",
+                "start_frame": 3741,
+                "stop_frame": 3780
+            },
+            {
+                "narration_text": "#C C moves the hand.",
+                "start_frame": 3780,
+                "stop_frame": 3806
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the knife on the chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C steps forward.",
+                "start_frame": 4849,
+                "stop_frame": 4889
+            },
+            {
+                "narration_text": "#C C puts the knife on the chopping board.",
+                "start_frame": 4889,
+                "stop_frame": 4911
+            },
+            {
+                "narration_text": "#C C moves the hand.",
+                "start_frame": 4911,
+                "stop_frame": 4965
+            }
+        ]
+    },
+    {
+        "task_goal": "Organize and move items back into the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the container on the shelf.",
+                "start_frame": 5114,
+                "stop_frame": 5132
+            },
+            {
+                "narration_text": "#C C holds the container.",
+                "start_frame": 5132,
+                "stop_frame": 5155
+            },
+            {
+                "narration_text": "#C C looks at the container.",
+                "start_frame": 5155,
+                "stop_frame": 5167
+            },
+            {
+                "narration_text": "#C C moves the containers.",
+                "start_frame": 5167,
+                "stop_frame": 5241
+            },
+            {
+                "narration_text": "#C C puts the container on top of the container.",
+                "start_frame": 5241,
+                "stop_frame": 5267
+            },
+            {
+                "narration_text": "#C C moves the packet.",
+                "start_frame": 5267,
+                "stop_frame": 5324
+            },
+            {
+                "narration_text": "#C C moves the hand.",
+                "start_frame": 5324,
+                "stop_frame": 5356
+            },
+            {
+                "narration_text": "#C C closes the cabinet.",
+                "start_frame": 5356,
+                "stop_frame": 5382
+            },
+            {
+                "narration_text": "#C C passes the container to the right hand.",
+                "start_frame": 5382,
+                "stop_frame": 5418
+            }
+        ]
+    },
+    {
+        "task_goal": "Move and place containers and packets on the shelf",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the container on the shelf.",
+                "start_frame": 5114,
+                "stop_frame": 5132
+            },
+            {
+                "narration_text": "#C C holds the container.",
+                "start_frame": 5132,
+                "stop_frame": 5155
+            },
+            {
+                "narration_text": "#C C looks at the container.",
+                "start_frame": 5155,
+                "stop_frame": 5167
+            },
+            {
+                "narration_text": "#C C moves the containers.",
+                "start_frame": 5167,
+                "stop_frame": 5241
+            },
+            {
+                "narration_text": "#C C puts the container on top of the container.",
+                "start_frame": 5241,
+                "stop_frame": 5267
+            },
+            {
+                "narration_text": "#C C moves the packet.",
+                "start_frame": 5267,
+                "stop_frame": 5324
+            },
+            {
+                "narration_text": "#C C moves the hand.",
+                "start_frame": 5324,
+                "stop_frame": 5356
+            },
+            {
+                "narration_text": "#C C closes the cabinet.",
+                "start_frame": 5356,
+                "stop_frame": 5382
+            },
+            {
+                "narration_text": "#C C passes the container to the right hand.",
+                "start_frame": 5382,
+                "stop_frame": 5418
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up paper and place it in the crate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves the paper.",
+                "start_frame": 6316,
+                "stop_frame": 6362
+            },
+            {
+                "narration_text": "#C C picks the paper.",
+                "start_frame": 6362,
+                "stop_frame": 6389
+            },
+            {
+                "narration_text": "#C C looks at the paper.",
+                "start_frame": 6389,
+                "stop_frame": 6439
+            },
+            {
+                "narration_text": "#C C puts the paper in the crate.",
+                "start_frame": 6439,
+                "stop_frame": 6450
+            },
+            {
+                "narration_text": "#C C picks the phone.",
+                "start_frame": 6450,
+                "stop_frame": 6507
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C operates the phone.",
+                "start_frame": 6507,
+                "stop_frame": 6758
+            },
+            {
+                "narration_text": "#C C moves the hand.",
+                "start_frame": 6758,
+                "stop_frame": 6804
+            },
+            {
+                "narration_text": "#C C operates the phone.",
+                "start_frame": 6804,
+                "stop_frame": 6988
+            },
+            {
+                "narration_text": "#C C puts the phone down.",
+                "start_frame": 6988,
+                "stop_frame": 7038
+            }
+        ]
+    },
+    {
+        "task_goal": "Move and place other items on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks at the paper.",
+                "start_frame": 7105,
+                "stop_frame": 7183
+            },
+            {
+                "narration_text": "#C C passes the paper to the right hand.",
+                "start_frame": 7183,
+                "stop_frame": 7211
+            },
+            {
+                "narration_text": "#C C puts the paper in the tray.",
+                "start_frame": 7211,
+                "stop_frame": 7302
+            },
+            {
+                "narration_text": "#C C pushes the crate.",
+                "start_frame": 7302,
+                "stop_frame": 7360
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle and place more paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves the papers.",
+                "start_frame": 7491,
+                "stop_frame": 7534
+            },
+            {
+                "narration_text": "#C C picks the paper.",
+                "start_frame": 7534,
+                "stop_frame": 7582
+            },
+            {
+                "narration_text": "#C C looks at the paper.",
+                "start_frame": 7582,
+                "stop_frame": 7642
+            },
+            {
+                "narration_text": "#C C picks the pepper.",
+                "start_frame": 7642,
+                "stop_frame": 7730
+            },
+            {
+                "narration_text": "#C C puts the pepper in the polythene paper.",
+                "start_frame": 7730,
+                "stop_frame": 7747
+            },
+            {
+                "narration_text": "#C C passes the paper to the right hand.",
+                "start_frame": 7747,
+                "stop_frame": 7766
+            },
+            {
+                "narration_text": "#C C puts the paper in the crate.",
+                "start_frame": 7766,
+                "stop_frame": 7783
+            },
+            {
+                "narration_text": "#C C moves the papers.",
+                "start_frame": 7783,
+                "stop_frame": 7836
+            },
+            {
+                "narration_text": "#C C picks the paper.",
+                "start_frame": 7836,
+                "stop_frame": 7857
+            },
+            {
+                "narration_text": "#C C touches the papers.",
+                "start_frame": 7857,
+                "stop_frame": 7918
+            },
+            {
+                "narration_text": "#C C picks the paper.",
+                "start_frame": 7918,
+                "stop_frame": 7947
+            },
+            {
+                "narration_text": "#C C puts the paper in the crate.",
+                "start_frame": 7947,
+                "stop_frame": 7964
+            },
+            {
+                "narration_text": "#C C moves the papers.",
+                "start_frame": 7964,
+                "stop_frame": 8001
+            },
+            {
+                "narration_text": "#C C pushes the crate.",
+                "start_frame": 8001,
+                "stop_frame": 8063
+            }
+        ]
+    }
+]

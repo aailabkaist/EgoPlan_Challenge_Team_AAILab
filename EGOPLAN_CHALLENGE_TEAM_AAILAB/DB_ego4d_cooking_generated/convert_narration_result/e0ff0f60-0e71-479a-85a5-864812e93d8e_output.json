@@ -1,0 +1,657 @@
+[
+    {
+        "task_goal": "Clean hands and prepare utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts knife in the sink",
+                "start_frame": 124,
+                "stop_frame": 148
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 148,
+                "stop_frame": 161
+            },
+            {
+                "narration_text": "Rinses hands",
+                "start_frame": 161,
+                "stop_frame": 222
+            },
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 222,
+                "stop_frame": 244
+            },
+            {
+                "narration_text": "Drys hands with towel",
+                "start_frame": 244,
+                "stop_frame": 315
+            },
+            {
+                "narration_text": "Picks chopsticks",
+                "start_frame": 315,
+                "stop_frame": 355
+            }
+        ]
+    },
+    {
+        "task_goal": "Put knife in the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts knife in the sink",
+                "start_frame": 124,
+                "stop_frame": 148
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 148,
+                "stop_frame": 161
+            }
+        ]
+    },
+    {
+        "task_goal": "Open tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts knife in the sink",
+                "start_frame": 124,
+                "stop_frame": 148
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 148,
+                "stop_frame": 161
+            },
+            {
+                "narration_text": "Rinses hands",
+                "start_frame": 161,
+                "stop_frame": 222
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 148,
+                "stop_frame": 161
+            },
+            {
+                "narration_text": "Rinses hands",
+                "start_frame": 161,
+                "stop_frame": 222
+            },
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 222,
+                "stop_frame": 244
+            }
+        ]
+    },
+    {
+        "task_goal": "Close tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rinses hands",
+                "start_frame": 161,
+                "stop_frame": 222
+            },
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 222,
+                "stop_frame": 244
+            },
+            {
+                "narration_text": "Drys hands with towel",
+                "start_frame": 244,
+                "stop_frame": 315
+            }
+        ]
+    },
+    {
+        "task_goal": "Dry hands with towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 222,
+                "stop_frame": 244
+            },
+            {
+                "narration_text": "Drys hands with towel",
+                "start_frame": 244,
+                "stop_frame": 315
+            },
+            {
+                "narration_text": "Picks chopsticks",
+                "start_frame": 315,
+                "stop_frame": 355
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick chopsticks and stir food on the pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Drys hands with towel",
+                "start_frame": 244,
+                "stop_frame": 315
+            },
+            {
+                "narration_text": "Picks chopsticks",
+                "start_frame": 315,
+                "stop_frame": 355
+            },
+            {
+                "narration_text": "Stirs food on pan",
+                "start_frame": 355,
+                "stop_frame": 1626
+            },
+            {
+                "narration_text": "Puts chopsticks on the table",
+                "start_frame": 1626,
+                "stop_frame": 1712
+            }
+        ]
+    },
+    {
+        "task_goal": "Put chopsticks on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs food on pan",
+                "start_frame": 355,
+                "stop_frame": 1626
+            },
+            {
+                "narration_text": "Puts chopsticks on the table",
+                "start_frame": 1626,
+                "stop_frame": 1712
+            },
+            {
+                "narration_text": "Opens cabinet",
+                "start_frame": 1712,
+                "stop_frame": 1748
+            }
+        ]
+    },
+    {
+        "task_goal": "Open cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts chopsticks on the table",
+                "start_frame": 1626,
+                "stop_frame": 1712
+            },
+            {
+                "narration_text": "Opens cabinet",
+                "start_frame": 1712,
+                "stop_frame": 1748
+            },
+            {
+                "narration_text": "Takes plate",
+                "start_frame": 1748,
+                "stop_frame": 1784
+            }
+        ]
+    },
+    {
+        "task_goal": "Take plate and close cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens cabinet",
+                "start_frame": 1712,
+                "stop_frame": 1748
+            },
+            {
+                "narration_text": "Takes plate",
+                "start_frame": 1748,
+                "stop_frame": 1784
+            },
+            {
+                "narration_text": "Closes cabinet",
+                "start_frame": 1784,
+                "stop_frame": 1848
+            },
+            {
+                "narration_text": "Picks spoon",
+                "start_frame": 1848,
+                "stop_frame": 1916
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick spoon and rinse it",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks spoon",
+                "start_frame": 1848,
+                "stop_frame": 1916
+            },
+            {
+                "narration_text": "Rinses spoon",
+                "start_frame": 1916,
+                "stop_frame": 1966
+            },
+            {
+                "narration_text": "Scoops unsure",
+                "start_frame": 1966,
+                "stop_frame": 2031
+            }
+        ]
+    },
+    {
+        "task_goal": "Scoop and put it on the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rinses spoon",
+                "start_frame": 1916,
+                "stop_frame": 1966
+            },
+            {
+                "narration_text": "Scoops unsure",
+                "start_frame": 1966,
+                "stop_frame": 2031
+            },
+            {
+                "narration_text": "Puts unsure in the palte",
+                "start_frame": 2031,
+                "stop_frame": 2846
+            },
+            {
+                "narration_text": "Puts plate on table",
+                "start_frame": 2846,
+                "stop_frame": 2855
+            }
+        ]
+    },
+    {
+        "task_goal": "Put plate on table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts unsure in the palte",
+                "start_frame": 2031,
+                "stop_frame": 2846
+            },
+            {
+                "narration_text": "Puts plate on table",
+                "start_frame": 2846,
+                "stop_frame": 2855
+            },
+            {
+                "narration_text": "Picks chopsticks",
+                "start_frame": 2855,
+                "stop_frame": 2898
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse hands and close tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 7324,
+                "stop_frame": 7375
+            },
+            {
+                "narration_text": "Stirs food",
+                "start_frame": 7375,
+                "stop_frame": 8398
+            },
+            {
+                "narration_text": "Puts chopsticks on table",
+                "start_frame": 8398,
+                "stop_frame": 8449
+            }
+        ]
+    },
+    {
+        "task_goal": "Add spices on the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes a bowl",
+                "start_frame": 10578,
+                "stop_frame": 10625
+            },
+            {
+                "narration_text": "Adds spices on the food",
+                "start_frame": 10625,
+                "stop_frame": 10715
+            },
+            {
+                "narration_text": "Puts down the bowl",
+                "start_frame": 10715,
+                "stop_frame": 10770
+            },
+            {
+                "narration_text": "Takes a serving spoon",
+                "start_frame": 10770,
+                "stop_frame": 10811
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 10811,
+                "stop_frame": 11726
+            },
+            {
+                "narration_text": "Puts down the serving spoon",
+                "start_frame": 11726,
+                "stop_frame": 11763
+            },
+            {
+                "narration_text": "Picks duty from the floor",
+                "start_frame": 11763,
+                "stop_frame": 11824
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 11824,
+                "stop_frame": 11841
+            },
+            {
+                "narration_text": "Cleans the hand",
+                "start_frame": 11841,
+                "stop_frame": 11889
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 11889,
+                "stop_frame": 11923
+            },
+            {
+                "narration_text": "Takes a spices bottle",
+                "start_frame": 11923,
+                "stop_frame": 11967
+            },
+            {
+                "narration_text": "Adds spice on the food",
+                "start_frame": 11967,
+                "stop_frame": 12051
+            },
+            {
+                "narration_text": "Puts down the spice bottle",
+                "start_frame": 12051,
+                "stop_frame": 12107
+            },
+            {
+                "narration_text": "Takes a serving spoon",
+                "start_frame": 12107,
+                "stop_frame": 12130
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 12130,
+                "stop_frame": 12938
+            },
+            {
+                "narration_text": "Takes a spice bottle",
+                "start_frame": 12938,
+                "stop_frame": 13008
+            },
+            {
+                "narration_text": "Opens the spice bottle",
+                "start_frame": 13008,
+                "stop_frame": 13046
+            },
+            {
+                "narration_text": "Adds spice on the food",
+                "start_frame": 13046,
+                "stop_frame": 13132
+            },
+            {
+                "narration_text": "Puts down the spice bottle",
+                "start_frame": 13132,
+                "stop_frame": 13175
+            }
+        ]
+    },
+    {
+        "task_goal": "Put down the spice bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Adds spice on the food",
+                "start_frame": 13046,
+                "stop_frame": 13132
+            },
+            {
+                "narration_text": "Puts down the spice bottle",
+                "start_frame": 13132,
+                "stop_frame": 13175
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 13175,
+                "stop_frame": 13781
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean up kitchen and put utensils away",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Presses the cooker button",
+                "start_frame": 20185,
+                "stop_frame": 20254
+            },
+            {
+                "narration_text": "Takes the knife",
+                "start_frame": 20254,
+                "stop_frame": 20280
+            },
+            {
+                "narration_text": "Takes the sponge",
+                "start_frame": 20280,
+                "stop_frame": 20303
+            },
+            {
+                "narration_text": "Cleans the knife",
+                "start_frame": 20303,
+                "stop_frame": 20442
+            },
+            {
+                "narration_text": "Cleans the potate peeler",
+                "start_frame": 20442,
+                "stop_frame": 20532
+            },
+            {
+                "narration_text": "Takes the chopping board",
+                "start_frame": 20532,
+                "stop_frame": 20599
+            },
+            {
+                "narration_text": "Cleans the chopping board",
+                "start_frame": 20599,
+                "stop_frame": 20626
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 20626,
+                "stop_frame": 20659
+            },
+            {
+                "narration_text": "Cleans the chopping board",
+                "start_frame": 20659,
+                "stop_frame": 20782
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 20782,
+                "stop_frame": 20849
+            },
+            {
+                "narration_text": "Cleans the sponge",
+                "start_frame": 20849,
+                "stop_frame": 20859
+            },
+            {
+                "narration_text": "Puts away the sponge",
+                "start_frame": 20859,
+                "stop_frame": 20882
+            },
+            {
+                "narration_text": "Cleans the knife",
+                "start_frame": 20882,
+                "stop_frame": 20973
+            },
+            {
+                "narration_text": "Puts away the knife",
+                "start_frame": 20973,
+                "stop_frame": 21038
+            },
+            {
+                "narration_text": "Cleans the potate peeler",
+                "start_frame": 21038,
+                "stop_frame": 21133
+            },
+            {
+                "narration_text": "Puts away the potate peeler",
+                "start_frame": 21133,
+                "stop_frame": 21180
+            },
+            {
+                "narration_text": "Cleans the chopping board",
+                "start_frame": 21180,
+                "stop_frame": 21280
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean the knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans the knife",
+                "start_frame": 20303,
+                "stop_frame": 20442
+            },
+            {
+                "narration_text": "Cleans the potate peeler",
+                "start_frame": 20442,
+                "stop_frame": 20532
+            },
+            {
+                "narration_text": "Takes the chopping board",
+                "start_frame": 20532,
+                "stop_frame": 20599
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean and put away the potato peeler",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans the potate peeler",
+                "start_frame": 20442,
+                "stop_frame": 20532
+            },
+            {
+                "narration_text": "Takes the chopping board",
+                "start_frame": 20532,
+                "stop_frame": 20599
+            },
+            {
+                "narration_text": "Cleans the chopping board",
+                "start_frame": 20599,
+                "stop_frame": 20626
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 20626,
+                "stop_frame": 20659
+            },
+            {
+                "narration_text": "Cleans the chopping board",
+                "start_frame": 20659,
+                "stop_frame": 20782
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 20782,
+                "stop_frame": 20849
+            },
+            {
+                "narration_text": "Cleans the sponge",
+                "start_frame": 20849,
+                "stop_frame": 20859
+            },
+            {
+                "narration_text": "Puts away the sponge",
+                "start_frame": 20859,
+                "stop_frame": 20882
+            },
+            {
+                "narration_text": "Cleans the knife",
+                "start_frame": 20882,
+                "stop_frame": 20973
+            },
+            {
+                "narration_text": "Puts away the knife",
+                "start_frame": 20973,
+                "stop_frame": 21038
+            },
+            {
+                "narration_text": "Cleans the potate peeler",
+                "start_frame": 21038,
+                "stop_frame": 21133
+            },
+            {
+                "narration_text": "Puts away the potate peeler",
+                "start_frame": 21133,
+                "stop_frame": 21180
+            },
+            {
+                "narration_text": "Cleans the chopping board",
+                "start_frame": 21180,
+                "stop_frame": 21280
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean the chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans the chopping board",
+                "start_frame": 20659,
+                "stop_frame": 20782
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 20782,
+                "stop_frame": 20849
+            },
+            {
+                "narration_text": "Cleans the sponge",
+                "start_frame": 20849,
+                "stop_frame": 20859
+            },
+            {
+                "narration_text": "Puts away the sponge",
+                "start_frame": 20859,
+                "stop_frame": 20882
+            },
+            {
+                "narration_text": "Cleans the knife",
+                "start_frame": 20882,
+                "stop_frame": 20973
+            },
+            {
+                "narration_text": "Puts away the knife",
+                "start_frame": 20973,
+                "stop_frame": 21038
+            },
+            {
+                "narration_text": "Cleans the potate peeler",
+                "start_frame": 21038,
+                "stop_frame": 21133
+            },
+            {
+                "narration_text": "Puts away the potate peeler",
+                "start_frame": 21133,
+                "stop_frame": 21180
+            },
+            {
+                "narration_text": "Cleans the chopping board",
+                "start_frame": 21180,
+                "stop_frame": 21280
+            }
+        ]
+    }
+]

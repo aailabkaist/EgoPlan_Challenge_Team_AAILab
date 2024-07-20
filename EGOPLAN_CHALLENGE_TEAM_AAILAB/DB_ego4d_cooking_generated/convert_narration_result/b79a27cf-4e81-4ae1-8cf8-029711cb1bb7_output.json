@@ -1,0 +1,1792 @@
+[
+    {
+        "task_goal": "Prepare to read a book",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Dials a phone",
+                "start_frame": 22,
+                "stop_frame": 185
+            },
+            {
+                "narration_text": "Picks a book",
+                "start_frame": 185,
+                "stop_frame": 262
+            },
+            {
+                "narration_text": "Puts a book down",
+                "start_frame": 262,
+                "stop_frame": 287
+            },
+            {
+                "narration_text": "Opens a book",
+                "start_frame": 287,
+                "stop_frame": 655
+            },
+            {
+                "narration_text": "Reads a book",
+                "start_frame": 655,
+                "stop_frame": 1090
+            },
+            {
+                "narration_text": "Opens a page",
+                "start_frame": 1090,
+                "stop_frame": 1386
+            },
+            {
+                "narration_text": "Pushes a book",
+                "start_frame": 1386,
+                "stop_frame": 1573
+            }
+        ]
+    },
+    {
+        "task_goal": "Dial phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Dials a phone",
+                "start_frame": 22,
+                "stop_frame": 185
+            },
+            {
+                "narration_text": "Picks a book",
+                "start_frame": 185,
+                "stop_frame": 262
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and put down book",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Dials a phone",
+                "start_frame": 22,
+                "stop_frame": 185
+            },
+            {
+                "narration_text": "Picks a book",
+                "start_frame": 185,
+                "stop_frame": 262
+            },
+            {
+                "narration_text": "Puts a book down",
+                "start_frame": 262,
+                "stop_frame": 287
+            },
+            {
+                "narration_text": "Opens a book",
+                "start_frame": 287,
+                "stop_frame": 655
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and read book",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts a book down",
+                "start_frame": 262,
+                "stop_frame": 287
+            },
+            {
+                "narration_text": "Opens a book",
+                "start_frame": 287,
+                "stop_frame": 655
+            },
+            {
+                "narration_text": "Reads a book",
+                "start_frame": 655,
+                "stop_frame": 1090
+            },
+            {
+                "narration_text": "Opens a page",
+                "start_frame": 1090,
+                "stop_frame": 1386
+            }
+        ]
+    },
+    {
+        "task_goal": "Open a page and push book",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Reads a book",
+                "start_frame": 655,
+                "stop_frame": 1090
+            },
+            {
+                "narration_text": "Opens a page",
+                "start_frame": 1090,
+                "stop_frame": 1386
+            },
+            {
+                "narration_text": "Pushes a book",
+                "start_frame": 1386,
+                "stop_frame": 1573
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle bowls and scales",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pushes a book",
+                "start_frame": 1386,
+                "stop_frame": 1573
+            },
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 1573,
+                "stop_frame": 1800
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 1800,
+                "stop_frame": 1914
+            },
+            {
+                "narration_text": "Returns a bowl",
+                "start_frame": 1914,
+                "stop_frame": 2346
+            },
+            {
+                "narration_text": "Holds a steel bowl",
+                "start_frame": 2346,
+                "stop_frame": 2380
+            },
+            {
+                "narration_text": "Clears bowl by hand",
+                "start_frame": 2380,
+                "stop_frame": 2466
+            },
+            {
+                "narration_text": "Outs bowl down",
+                "start_frame": 2466,
+                "stop_frame": 2657
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 2657,
+                "stop_frame": 2672
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 2672,
+                "stop_frame": 2717
+            },
+            {
+                "narration_text": "Picks a scale",
+                "start_frame": 2717,
+                "stop_frame": 2766
+            },
+            {
+                "narration_text": "Puts a bowl on the scale",
+                "start_frame": 2766,
+                "stop_frame": 2831
+            },
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 2831,
+                "stop_frame": 2906
+            },
+            {
+                "narration_text": "Opens a fridge",
+                "start_frame": 2906,
+                "stop_frame": 3068
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and return bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 1573,
+                "stop_frame": 1800
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 1800,
+                "stop_frame": 1914
+            },
+            {
+                "narration_text": "Returns a bowl",
+                "start_frame": 1914,
+                "stop_frame": 2346
+            },
+            {
+                "narration_text": "Holds a steel bowl",
+                "start_frame": 2346,
+                "stop_frame": 2380
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle bowl and scale",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Returns a bowl",
+                "start_frame": 1914,
+                "stop_frame": 2346
+            },
+            {
+                "narration_text": "Holds a steel bowl",
+                "start_frame": 2346,
+                "stop_frame": 2380
+            },
+            {
+                "narration_text": "Clears bowl by hand",
+                "start_frame": 2380,
+                "stop_frame": 2466
+            },
+            {
+                "narration_text": "Outs bowl down",
+                "start_frame": 2466,
+                "stop_frame": 2657
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 2657,
+                "stop_frame": 2672
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 2672,
+                "stop_frame": 2717
+            },
+            {
+                "narration_text": "Picks a scale",
+                "start_frame": 2717,
+                "stop_frame": 2766
+            },
+            {
+                "narration_text": "Puts a bowl on the scale",
+                "start_frame": 2766,
+                "stop_frame": 2831
+            },
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 2831,
+                "stop_frame": 2906
+            },
+            {
+                "narration_text": "Opens a fridge",
+                "start_frame": 2906,
+                "stop_frame": 3068
+            }
+        ]
+    },
+    {
+        "task_goal": "Use the refrigerator and drawer for ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 2831,
+                "stop_frame": 2906
+            },
+            {
+                "narration_text": "Opens a fridge",
+                "start_frame": 2906,
+                "stop_frame": 3068
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 3068,
+                "stop_frame": 3133
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 3133,
+                "stop_frame": 3190
+            },
+            {
+                "narration_text": "Opens drawer",
+                "start_frame": 3190,
+                "stop_frame": 3230
+            },
+            {
+                "narration_text": "Picks a knife",
+                "start_frame": 3230,
+                "stop_frame": 3277
+            },
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 3277,
+                "stop_frame": 3346
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 3346,
+                "stop_frame": 3384
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve items from fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 2831,
+                "stop_frame": 2906
+            },
+            {
+                "narration_text": "Opens a fridge",
+                "start_frame": 2906,
+                "stop_frame": 3068
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 3068,
+                "stop_frame": 3133
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 3133,
+                "stop_frame": 3190
+            },
+            {
+                "narration_text": "Opens drawer",
+                "start_frame": 3190,
+                "stop_frame": 3230
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve knife from drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 3133,
+                "stop_frame": 3190
+            },
+            {
+                "narration_text": "Opens drawer",
+                "start_frame": 3190,
+                "stop_frame": 3230
+            },
+            {
+                "narration_text": "Picks a knife",
+                "start_frame": 3230,
+                "stop_frame": 3277
+            },
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 3277,
+                "stop_frame": 3346
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 3346,
+                "stop_frame": 3384
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare mixture",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 3277,
+                "stop_frame": 3346
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 3346,
+                "stop_frame": 3384
+            },
+            {
+                "narration_text": "Opens unsure",
+                "start_frame": 3384,
+                "stop_frame": 3527
+            },
+            {
+                "narration_text": "Drops unsure in the bowl",
+                "start_frame": 3527,
+                "stop_frame": 3616
+            },
+            {
+                "narration_text": "Folds a paper",
+                "start_frame": 3616,
+                "stop_frame": 3660
+            },
+            {
+                "narration_text": "Drops a paper",
+                "start_frame": 3660,
+                "stop_frame": 3671
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 3671,
+                "stop_frame": 3700
+            },
+            {
+                "narration_text": "Removes a paper from unsure",
+                "start_frame": 3700,
+                "stop_frame": 4451
+            },
+            {
+                "narration_text": "Cuts unsure by knife",
+                "start_frame": 4451,
+                "stop_frame": 4645
+            },
+            {
+                "narration_text": "Drops unsure in the bowl",
+                "start_frame": 4645,
+                "stop_frame": 5057
+            },
+            {
+                "narration_text": "Wraps unsure",
+                "start_frame": 5057,
+                "stop_frame": 5175
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 5175,
+                "stop_frame": 5197
+            },
+            {
+                "narration_text": "Puts knife down",
+                "start_frame": 5197,
+                "stop_frame": 5268
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 5268,
+                "stop_frame": 5340
+            },
+            {
+                "narration_text": "Closes drawer",
+                "start_frame": 5340,
+                "stop_frame": 5378
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 5378,
+                "stop_frame": 5416
+            },
+            {
+                "narration_text": "Picks a packet",
+                "start_frame": 5416,
+                "stop_frame": 5833
+            },
+            {
+                "narration_text": "Puts sugar down",
+                "start_frame": 5833,
+                "stop_frame": 5914
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare bowl with ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 3277,
+                "stop_frame": 3346
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 3346,
+                "stop_frame": 3384
+            },
+            {
+                "narration_text": "Opens unsure",
+                "start_frame": 3384,
+                "stop_frame": 3527
+            },
+            {
+                "narration_text": "Drops unsure in the bowl",
+                "start_frame": 3527,
+                "stop_frame": 3616
+            },
+            {
+                "narration_text": "Folds a paper",
+                "start_frame": 3616,
+                "stop_frame": 3660
+            },
+            {
+                "narration_text": "Drops a paper",
+                "start_frame": 3660,
+                "stop_frame": 3671
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 3671,
+                "stop_frame": 3700
+            },
+            {
+                "narration_text": "Removes a paper from unsure",
+                "start_frame": 3700,
+                "stop_frame": 4451
+            },
+            {
+                "narration_text": "Cuts unsure by knife",
+                "start_frame": 4451,
+                "stop_frame": 4645
+            },
+            {
+                "narration_text": "Drops unsure in the bowl",
+                "start_frame": 4645,
+                "stop_frame": 5057
+            },
+            {
+                "narration_text": "Wraps unsure",
+                "start_frame": 5057,
+                "stop_frame": 5175
+            }
+        ]
+    },
+    {
+        "task_goal": "Wrap uncertain items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Drops unsure in the bowl",
+                "start_frame": 4645,
+                "stop_frame": 5057
+            },
+            {
+                "narration_text": "Wraps unsure",
+                "start_frame": 5057,
+                "stop_frame": 5175
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 5175,
+                "stop_frame": 5197
+            },
+            {
+                "narration_text": "Puts knife down",
+                "start_frame": 5197,
+                "stop_frame": 5268
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 5268,
+                "stop_frame": 5340
+            },
+            {
+                "narration_text": "Closes drawer",
+                "start_frame": 5340,
+                "stop_frame": 5378
+            }
+        ]
+    },
+    {
+        "task_goal": "Operate drawers and handle packets",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 5268,
+                "stop_frame": 5340
+            },
+            {
+                "narration_text": "Closes drawer",
+                "start_frame": 5340,
+                "stop_frame": 5378
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 5378,
+                "stop_frame": 5416
+            },
+            {
+                "narration_text": "Picks a packet",
+                "start_frame": 5416,
+                "stop_frame": 5833
+            },
+            {
+                "narration_text": "Puts sugar down",
+                "start_frame": 5833,
+                "stop_frame": 5914
+            }
+        ]
+    },
+    {
+        "task_goal": "Measure and pour sugar",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts sugar down",
+                "start_frame": 5833,
+                "stop_frame": 5914
+            },
+            {
+                "narration_text": "Holds a packet",
+                "start_frame": 5914,
+                "stop_frame": 5988
+            },
+            {
+                "narration_text": "Closes drawer by foot",
+                "start_frame": 5988,
+                "stop_frame": 6038
+            },
+            {
+                "narration_text": "Dials a scale",
+                "start_frame": 6038,
+                "stop_frame": 6223
+            },
+            {
+                "narration_text": "Pours unsure",
+                "start_frame": 6223,
+                "stop_frame": 6452
+            },
+            {
+                "narration_text": "Puts a packet down",
+                "start_frame": 6452,
+                "stop_frame": 6459
+            },
+            {
+                "narration_text": "Picks sugar",
+                "start_frame": 6459,
+                "stop_frame": 6529
+            },
+            {
+                "narration_text": "Pours sugar",
+                "start_frame": 6529,
+                "stop_frame": 6718
+            },
+            {
+                "narration_text": "Puts sugar down",
+                "start_frame": 6718,
+                "stop_frame": 6724
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 6724,
+                "stop_frame": 6742
+            }
+        ]
+    },
+    {
+        "task_goal": "Organize drawer items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts sugar down",
+                "start_frame": 6718,
+                "stop_frame": 6724
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 6724,
+                "stop_frame": 6742
+            },
+            {
+                "narration_text": "Puts bowl down",
+                "start_frame": 6742,
+                "stop_frame": 6754
+            },
+            {
+                "narration_text": "Picks a packet",
+                "start_frame": 6754,
+                "stop_frame": 6794
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 6794,
+                "stop_frame": 6819
+            },
+            {
+                "narration_text": "Puts packet in a drawer",
+                "start_frame": 6819,
+                "stop_frame": 6899
+            },
+            {
+                "narration_text": "Removes packet in the drawer",
+                "start_frame": 6899,
+                "stop_frame": 6920
+            },
+            {
+                "narration_text": "Closes drawer",
+                "start_frame": 6920,
+                "stop_frame": 6944
+            },
+            {
+                "narration_text": "Opens drawer",
+                "start_frame": 6944,
+                "stop_frame": 6972
+            },
+            {
+                "narration_text": "Puts packet in the drawer",
+                "start_frame": 6972,
+                "stop_frame": 7003
+            },
+            {
+                "narration_text": "Puts sugar in the drawer",
+                "start_frame": 7003,
+                "stop_frame": 7048
+            },
+            {
+                "narration_text": "Closes drawer",
+                "start_frame": 7048,
+                "stop_frame": 7126
+            },
+            {
+                "narration_text": "Clears hand",
+                "start_frame": 7126,
+                "stop_frame": 7252
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle refrigerator and chair",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Clears hand",
+                "start_frame": 7126,
+                "stop_frame": 7252
+            },
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 7252,
+                "stop_frame": 7336
+            },
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 7336,
+                "stop_frame": 7442
+            },
+            {
+                "narration_text": "Picks a packet",
+                "start_frame": 7442,
+                "stop_frame": 7513
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 7513,
+                "stop_frame": 7539
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 7539,
+                "stop_frame": 7605
+            },
+            {
+                "narration_text": "Puts packet down",
+                "start_frame": 7605,
+                "stop_frame": 7718
+            },
+            {
+                "narration_text": "Drags a chair",
+                "start_frame": 7718,
+                "stop_frame": 7757
+            },
+            {
+                "narration_text": "Opens carboard",
+                "start_frame": 7757,
+                "stop_frame": 7813
+            },
+            {
+                "narration_text": "Closes carboard",
+                "start_frame": 7813,
+                "stop_frame": 7825
+            },
+            {
+                "narration_text": "Opens carboard",
+                "start_frame": 7825,
+                "stop_frame": 7871
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 7871,
+                "stop_frame": 7932
+            },
+            {
+                "narration_text": "Closes carboard",
+                "start_frame": 7932,
+                "stop_frame": 7974
+            },
+            {
+                "narration_text": "Opens drawer",
+                "start_frame": 7974,
+                "stop_frame": 8033
+            },
+            {
+                "narration_text": "Picks unsure machine",
+                "start_frame": 8033,
+                "stop_frame": 8060
+            },
+            {
+                "narration_text": "Connects unsure to machine",
+                "start_frame": 8060,
+                "stop_frame": 8125
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 8125,
+                "stop_frame": 8190
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve items from fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 7336,
+                "stop_frame": 7442
+            },
+            {
+                "narration_text": "Picks a packet",
+                "start_frame": 7442,
+                "stop_frame": 7513
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 7513,
+                "stop_frame": 7539
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 7539,
+                "stop_frame": 7605
+            },
+            {
+                "narration_text": "Puts packet down",
+                "start_frame": 7605,
+                "stop_frame": 7718
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle chair and cardboard",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 7539,
+                "stop_frame": 7605
+            },
+            {
+                "narration_text": "Puts packet down",
+                "start_frame": 7605,
+                "stop_frame": 7718
+            },
+            {
+                "narration_text": "Drags a chair",
+                "start_frame": 7718,
+                "stop_frame": 7757
+            },
+            {
+                "narration_text": "Opens carboard",
+                "start_frame": 7757,
+                "stop_frame": 7813
+            },
+            {
+                "narration_text": "Closes carboard",
+                "start_frame": 7813,
+                "stop_frame": 7825
+            },
+            {
+                "narration_text": "Opens carboard",
+                "start_frame": 7825,
+                "stop_frame": 7871
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 7871,
+                "stop_frame": 7932
+            },
+            {
+                "narration_text": "Closes carboard",
+                "start_frame": 7932,
+                "stop_frame": 7974
+            },
+            {
+                "narration_text": "Opens drawer",
+                "start_frame": 7974,
+                "stop_frame": 8033
+            },
+            {
+                "narration_text": "Picks unsure machine",
+                "start_frame": 8033,
+                "stop_frame": 8060
+            },
+            {
+                "narration_text": "Connects unsure to machine",
+                "start_frame": 8060,
+                "stop_frame": 8125
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 8125,
+                "stop_frame": 8190
+            }
+        ]
+    },
+    {
+        "task_goal": "Use grinder and fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Connects unsure to machine",
+                "start_frame": 8060,
+                "stop_frame": 8125
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 8125,
+                "stop_frame": 8190
+            },
+            {
+                "narration_text": "Connects unsure to machine",
+                "start_frame": 8190,
+                "stop_frame": 8362
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 8362,
+                "stop_frame": 8496
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 8496,
+                "stop_frame": 8541
+            },
+            {
+                "narration_text": "Puts grinder down",
+                "start_frame": 8541,
+                "stop_frame": 8561
+            },
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 8561,
+                "stop_frame": 8642
+            },
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 8642,
+                "stop_frame": 8695
+            },
+            {
+                "narration_text": "Puts unsure in the fridge",
+                "start_frame": 8695,
+                "stop_frame": 8713
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 8713,
+                "stop_frame": 8737
+            },
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 8737,
+                "stop_frame": 8999
+            },
+            {
+                "narration_text": "Opens a carboard",
+                "start_frame": 8999,
+                "stop_frame": 9146
+            }
+        ]
+    },
+    {
+        "task_goal": "Connect and use grinder",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Connects unsure to machine",
+                "start_frame": 8060,
+                "stop_frame": 8125
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 8125,
+                "stop_frame": 8190
+            },
+            {
+                "narration_text": "Connects unsure to machine",
+                "start_frame": 8190,
+                "stop_frame": 8362
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 8362,
+                "stop_frame": 8496
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 8496,
+                "stop_frame": 8541
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle refrigerator items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 8561,
+                "stop_frame": 8642
+            },
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 8642,
+                "stop_frame": 8695
+            },
+            {
+                "narration_text": "Puts unsure in the fridge",
+                "start_frame": 8695,
+                "stop_frame": 8713
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 8713,
+                "stop_frame": 8737
+            },
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 8737,
+                "stop_frame": 8999
+            },
+            {
+                "narration_text": "Opens a carboard",
+                "start_frame": 8999,
+                "stop_frame": 9146
+            }
+        ]
+    },
+    {
+        "task_goal": "Add salt and mix",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts flour down",
+                "start_frame": 11456,
+                "stop_frame": 11529
+            },
+            {
+                "narration_text": "Picks salt",
+                "start_frame": 11529,
+                "stop_frame": 11715
+            },
+            {
+                "narration_text": "Puts salt in the flour",
+                "start_frame": 11715,
+                "stop_frame": 11834
+            },
+            {
+                "narration_text": "Puts salt in the store",
+                "start_frame": 11834,
+                "stop_frame": 11862
+            },
+            {
+                "narration_text": "Shakes bowl",
+                "start_frame": 11862,
+                "stop_frame": 11915
+            },
+            {
+                "narration_text": "Puts bowl down",
+                "start_frame": 11915,
+                "stop_frame": 11953
+            },
+            {
+                "narration_text": "Holds sieve",
+                "start_frame": 11953,
+                "stop_frame": 11987
+            },
+            {
+                "narration_text": "Picks bowl",
+                "start_frame": 11987,
+                "stop_frame": 12051
+            },
+            {
+                "narration_text": "Dials scale",
+                "start_frame": 12051,
+                "stop_frame": 12089
+            },
+            {
+                "narration_text": "Pushes scale",
+                "start_frame": 12089,
+                "stop_frame": 12111
+            }
+        ]
+    },
+    {
+        "task_goal": "Grind ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks grinder",
+                "start_frame": 12168,
+                "stop_frame": 12190
+            },
+            {
+                "narration_text": "Picks grinder",
+                "start_frame": 12190,
+                "stop_frame": 12239
+            },
+            {
+                "narration_text": "Puts bowl down",
+                "start_frame": 12239,
+                "stop_frame": 12318
+            },
+            {
+                "narration_text": "Cc puts wire in the socket",
+                "start_frame": 12318,
+                "stop_frame": 12474
+            },
+            {
+                "narration_text": "Grinds unsure",
+                "start_frame": 12474,
+                "stop_frame": 14782
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash and dry hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens knob",
+                "start_frame": 16385,
+                "stop_frame": 16419
+            },
+            {
+                "narration_text": "Washes hand",
+                "start_frame": 16419,
+                "stop_frame": 16469
+            },
+            {
+                "narration_text": "Closes knob",
+                "start_frame": 16469,
+                "stop_frame": 16511
+            },
+            {
+                "narration_text": "Dries hand",
+                "start_frame": 16511,
+                "stop_frame": 16604
+            },
+            {
+                "narration_text": "Picks a grinder",
+                "start_frame": 16604,
+                "stop_frame": 16699
+            },
+            {
+                "narration_text": "Grinds egg",
+                "start_frame": 16699,
+                "stop_frame": 17537
+            }
+        ]
+    },
+    {
+        "task_goal": "Sieve flour and interact with grinder",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Grinds egg",
+                "start_frame": 16699,
+                "stop_frame": 17537
+            },
+            {
+                "narration_text": "Puts grinder on the age of bowl",
+                "start_frame": 17537,
+                "stop_frame": 17594
+            },
+            {
+                "narration_text": "Sieve a flour",
+                "start_frame": 17594,
+                "stop_frame": 17901
+            },
+            {
+                "narration_text": "Puts sieve down",
+                "start_frame": 17901,
+                "stop_frame": 17909
+            },
+            {
+                "narration_text": "Picks flour",
+                "start_frame": 17909,
+                "stop_frame": 17977
+            },
+            {
+                "narration_text": "Holds grinder",
+                "start_frame": 17977,
+                "stop_frame": 18057
+            },
+            {
+                "narration_text": "Puts flour in the bowl",
+                "start_frame": 18057,
+                "stop_frame": 18341
+            },
+            {
+                "narration_text": "Picks banana",
+                "start_frame": 18341,
+                "stop_frame": 18424
+            }
+        ]
+    },
+    {
+        "task_goal": "Smash bananas and pour them into another bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a spoon",
+                "start_frame": 20550,
+                "stop_frame": 20723
+            },
+            {
+                "narration_text": "Picks a smasher",
+                "start_frame": 20723,
+                "stop_frame": 20779
+            },
+            {
+                "narration_text": "Smashes a banana",
+                "start_frame": 20779,
+                "stop_frame": 21453
+            },
+            {
+                "narration_text": "Hits bowl by smasher",
+                "start_frame": 21453,
+                "stop_frame": 21593
+            },
+            {
+                "narration_text": "Puts smasher down",
+                "start_frame": 21593,
+                "stop_frame": 21707
+            },
+            {
+                "narration_text": "Opens drawer",
+                "start_frame": 21707,
+                "stop_frame": 21736
+            }
+        ]
+    },
+    {
+        "task_goal": "Grind mixture and handle ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts smasher down",
+                "start_frame": 21593,
+                "stop_frame": 21707
+            },
+            {
+                "narration_text": "Opens drawer",
+                "start_frame": 21707,
+                "stop_frame": 21736
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 21736,
+                "stop_frame": 21818
+            },
+            {
+                "narration_text": "Pours banana in the other bowl",
+                "start_frame": 21818,
+                "stop_frame": 22331
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 22331,
+                "stop_frame": 22379
+            },
+            {
+                "narration_text": "Picks a grinder",
+                "start_frame": 22379,
+                "stop_frame": 22436
+            },
+            {
+                "narration_text": "Grinds with a grinder",
+                "start_frame": 22436,
+                "stop_frame": 23865
+            },
+            {
+                "narration_text": "Puts grinder down",
+                "start_frame": 23865,
+                "stop_frame": 24264
+            },
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 24264,
+                "stop_frame": 24463
+            },
+            {
+                "narration_text": "Picks a ingredient",
+                "start_frame": 24463,
+                "stop_frame": 24902
+            },
+            {
+                "narration_text": "Picks up a bottle of unsure",
+                "start_frame": 24902,
+                "stop_frame": 25078
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 25078,
+                "stop_frame": 25122
+            },
+            {
+                "narration_text": "Picks up scoopers",
+                "start_frame": 25122,
+                "stop_frame": 25632
+            },
+            {
+                "narration_text": "Pours unsure in the scooper",
+                "start_frame": 25632,
+                "stop_frame": 25815
+            },
+            {
+                "narration_text": "Pours unsure in the steel bowl",
+                "start_frame": 25815,
+                "stop_frame": 25947
+            },
+            {
+                "narration_text": "Places the scoopers on the kitchen bench",
+                "start_frame": 25947,
+                "stop_frame": 26024
+            },
+            {
+                "narration_text": "Places the bottle of unsure in the cabinet",
+                "start_frame": 26024,
+                "stop_frame": 26336
+            },
+            {
+                "narration_text": "Picks up a cooking pot",
+                "start_frame": 26336,
+                "stop_frame": 26462
+            },
+            {
+                "narration_text": "Places the cooking pot on a table",
+                "start_frame": 26462,
+                "stop_frame": 26541
+            }
+        ]
+    },
+    {
+        "task_goal": "Grind mixture",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a grinder",
+                "start_frame": 22379,
+                "stop_frame": 22436
+            },
+            {
+                "narration_text": "Grinds with a grinder",
+                "start_frame": 22436,
+                "stop_frame": 23865
+            },
+            {
+                "narration_text": "Puts grinder down",
+                "start_frame": 23865,
+                "stop_frame": 24264
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle and pour ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a ingredient",
+                "start_frame": 24463,
+                "stop_frame": 24902
+            },
+            {
+                "narration_text": "Picks up a bottle of unsure",
+                "start_frame": 24902,
+                "stop_frame": 25078
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 25078,
+                "stop_frame": 25122
+            },
+            {
+                "narration_text": "Picks up scoopers",
+                "start_frame": 25122,
+                "stop_frame": 25632
+            },
+            {
+                "narration_text": "Pours unsure in the scooper",
+                "start_frame": 25632,
+                "stop_frame": 25815
+            },
+            {
+                "narration_text": "Pours unsure in the steel bowl",
+                "start_frame": 25815,
+                "stop_frame": 25947
+            },
+            {
+                "narration_text": "Places the scoopers on the kitchen bench",
+                "start_frame": 25947,
+                "stop_frame": 26024
+            },
+            {
+                "narration_text": "Places the bottle of unsure in the cabinet",
+                "start_frame": 26024,
+                "stop_frame": 26336
+            },
+            {
+                "narration_text": "Picks up a cooking pot",
+                "start_frame": 26336,
+                "stop_frame": 26462
+            },
+            {
+                "narration_text": "Places the cooking pot on a table",
+                "start_frame": 26462,
+                "stop_frame": 26541
+            }
+        ]
+    },
+    {
+        "task_goal": "Deal with oven and gadgets",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up a cooking pot",
+                "start_frame": 26336,
+                "stop_frame": 26462
+            },
+            {
+                "narration_text": "Places the cooking pot on a table",
+                "start_frame": 26462,
+                "stop_frame": 26541
+            },
+            {
+                "narration_text": "Removes cooking pots from the big cooking pot",
+                "start_frame": 26541,
+                "stop_frame": 26609
+            },
+            {
+                "narration_text": "Places the cooking pots on a table",
+                "start_frame": 26609,
+                "stop_frame": 26680
+            },
+            {
+                "narration_text": "Picks up a cooking pot lid",
+                "start_frame": 26680,
+                "stop_frame": 26821
+            },
+            {
+                "narration_text": "Picks up another cooking pot lid",
+                "start_frame": 26821,
+                "stop_frame": 36166
+            },
+            {
+                "narration_text": "Puts the tray in the oven",
+                "start_frame": 36166,
+                "stop_frame": 36247
+            },
+            {
+                "narration_text": "Picks up a bowl",
+                "start_frame": 36247,
+                "stop_frame": 36303
+            },
+            {
+                "narration_text": "Puts the bowl in the oven",
+                "start_frame": 36303,
+                "stop_frame": 36356
+            },
+            {
+                "narration_text": "Closes the oven",
+                "start_frame": 36356,
+                "stop_frame": 36557
+            },
+            {
+                "narration_text": "Operates a phone",
+                "start_frame": 36557,
+                "stop_frame": 36590
+            },
+            {
+                "narration_text": "Converses",
+                "start_frame": 36590,
+                "stop_frame": 36654
+            },
+            {
+                "narration_text": "Operates the phone",
+                "start_frame": 36654,
+                "stop_frame": 36763
+            },
+            {
+                "narration_text": "Converses",
+                "start_frame": 36763,
+                "stop_frame": 36884
+            },
+            {
+                "narration_text": "Wears a glove",
+                "start_frame": 36884,
+                "stop_frame": 37019
+            },
+            {
+                "narration_text": "Picks up a bowl",
+                "start_frame": 37019,
+                "stop_frame": 37049
+            },
+            {
+                "narration_text": "Picks up an empty packet of seedless raisins",
+                "start_frame": 37049,
+                "stop_frame": 37180
+            },
+            {
+                "narration_text": "Opens the dustbin",
+                "start_frame": 37180,
+                "stop_frame": 37213
+            }
+        ]
+    },
+    {
+        "task_goal": "Place items in the oven",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up a cooking pot",
+                "start_frame": 26336,
+                "stop_frame": 26462
+            },
+            {
+                "narration_text": "Places the cooking pot on a table",
+                "start_frame": 26462,
+                "stop_frame": 26541
+            },
+            {
+                "narration_text": "Removes cooking pots from the big cooking pot",
+                "start_frame": 26541,
+                "stop_frame": 26609
+            },
+            {
+                "narration_text": "Places the cooking pots on a table",
+                "start_frame": 26609,
+                "stop_frame": 26680
+            },
+            {
+                "narration_text": "Picks up a cooking pot lid",
+                "start_frame": 26680,
+                "stop_frame": 26821
+            },
+            {
+                "narration_text": "Picks up another cooking pot lid",
+                "start_frame": 26821,
+                "stop_frame": 36166
+            },
+            {
+                "narration_text": "Puts the tray in the oven",
+                "start_frame": 36166,
+                "stop_frame": 36247
+            },
+            {
+                "narration_text": "Picks up a bowl",
+                "start_frame": 36247,
+                "stop_frame": 36303
+            },
+            {
+                "narration_text": "Puts the bowl in the oven",
+                "start_frame": 36303,
+                "stop_frame": 36356
+            },
+            {
+                "narration_text": "Closes the oven",
+                "start_frame": 36356,
+                "stop_frame": 36557
+            },
+            {
+                "narration_text": "Operates a phone",
+                "start_frame": 36557,
+                "stop_frame": 36590
+            },
+            {
+                "narration_text": "Converses",
+                "start_frame": 36590,
+                "stop_frame": 36654
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle phone and glove",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Operates a phone",
+                "start_frame": 36557,
+                "stop_frame": 36590
+            },
+            {
+                "narration_text": "Converses",
+                "start_frame": 36590,
+                "stop_frame": 36654
+            },
+            {
+                "narration_text": "Operates the phone",
+                "start_frame": 36654,
+                "stop_frame": 36763
+            },
+            {
+                "narration_text": "Converses",
+                "start_frame": 36763,
+                "stop_frame": 36884
+            },
+            {
+                "narration_text": "Wears a glove",
+                "start_frame": 36884,
+                "stop_frame": 37019
+            },
+            {
+                "narration_text": "Picks up a bowl",
+                "start_frame": 37019,
+                "stop_frame": 37049
+            },
+            {
+                "narration_text": "Picks up an empty packet of seedless raisins",
+                "start_frame": 37049,
+                "stop_frame": 37180
+            },
+            {
+                "narration_text": "Opens the dustbin",
+                "start_frame": 37180,
+                "stop_frame": 37213
+            }
+        ]
+    },
+    {
+        "task_goal": "Dispose of waste",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up an empty packet of seedless raisins",
+                "start_frame": 37049,
+                "stop_frame": 37180
+            },
+            {
+                "narration_text": "Opens the dustbin",
+                "start_frame": 37180,
+                "stop_frame": 37213
+            },
+            {
+                "narration_text": "Throws an empty packet of seedless raisins in the litter bin",
+                "start_frame": 37213,
+                "stop_frame": 37361
+            },
+            {
+                "narration_text": "Opens a dish washer",
+                "start_frame": 37361,
+                "stop_frame": 37423
+            },
+            {
+                "narration_text": "Closes a dish washer",
+                "start_frame": 37423,
+                "stop_frame": 37460
+            },
+            {
+                "narration_text": "Opens a dish washer",
+                "start_frame": 37460,
+                "stop_frame": 37501
+            },
+            {
+                "narration_text": "Pulls a tray",
+                "start_frame": 37501,
+                "stop_frame": 37541
+            },
+            {
+                "narration_text": "Puts the bowl in the tray",
+                "start_frame": 37541,
+                "stop_frame": 37666
+            },
+            {
+                "narration_text": "Holds a spatula",
+                "start_frame": 37666,
+                "stop_frame": 37692
+            },
+            {
+                "narration_text": "Scoops the remains in the bowl",
+                "start_frame": 37692,
+                "stop_frame": 37718
+            },
+            {
+                "narration_text": "Lifts up a bowl",
+                "start_frame": 37718,
+                "stop_frame": 37951
+            },
+            {
+                "narration_text": "Scoops the remains in the bowl",
+                "start_frame": 37951,
+                "stop_frame": 38175
+            },
+            {
+                "narration_text": "Scoops the remains in the bowl",
+                "start_frame": 38175,
+                "stop_frame": 38347
+            },
+            {
+                "narration_text": "Scoops the remains in the bowl",
+                "start_frame": 38347,
+                "stop_frame": 38464
+            },
+            {
+                "narration_text": "Scoops the remains in the bowl",
+                "start_frame": 38464,
+                "stop_frame": 38599
+            },
+            {
+                "narration_text": "Scoops the remains in the bowl",
+                "start_frame": 38599,
+                "stop_frame": 38789
+            },
+            {
+                "narration_text": "Scoops the remains in the bowl",
+                "start_frame": 38789,
+                "stop_frame": 38913
+            },
+            {
+                "narration_text": "Puts the bowl in the dish washer",
+                "start_frame": 38913,
+                "stop_frame": 38995
+            },
+            {
+                "narration_text": "Pulls a tray",
+                "start_frame": 38995,
+                "stop_frame": 39017
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash hands and put gadgets away",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the dish washer",
+                "start_frame": 43538,
+                "stop_frame": 43587
+            },
+            {
+                "narration_text": "Turns a button",
+                "start_frame": 43587,
+                "stop_frame": 43689
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 43689,
+                "stop_frame": 43707
+            },
+            {
+                "narration_text": "Washes hands",
+                "start_frame": 43707,
+                "stop_frame": 43768
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 43768,
+                "stop_frame": 43833
+            },
+            {
+                "narration_text": "Wipes hands with the towel",
+                "start_frame": 43833,
+                "stop_frame": 43950
+            },
+            {
+                "narration_text": "Picks up the whisking machine",
+                "start_frame": 43950,
+                "stop_frame": 43996
+            },
+            {
+                "narration_text": "Rolls the cable around the whisking machine",
+                "start_frame": 43996,
+                "stop_frame": 44118
+            },
+            {
+                "narration_text": "Opens a cabinet door",
+                "start_frame": 44118,
+                "stop_frame": 44136
+            },
+            {
+                "narration_text": "Puts the whisking machine in the cabinet",
+                "start_frame": 44136,
+                "stop_frame": 44180
+            },
+            {
+                "narration_text": "Picks up a glove",
+                "start_frame": 44180,
+                "stop_frame": 44228
+            },
+            {
+                "narration_text": "Hangs the glove on the cooker handle",
+                "start_frame": 44228,
+                "stop_frame": 44482
+            },
+            {
+                "narration_text": "Adjusts the camera",
+                "start_frame": 44482,
+                "stop_frame": 44582
+            }
+        ]
+    }
+]

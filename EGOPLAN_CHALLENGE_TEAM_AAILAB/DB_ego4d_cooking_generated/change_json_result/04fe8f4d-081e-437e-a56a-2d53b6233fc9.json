@@ -1,0 +1,89 @@
+{
+    "overall_goal": "Prepare and cook a batch of dough (potentially arancini) and fry it in hot oil.",
+    "clips": [
+        {
+            "subgoal": "Prepare the dough",
+            "start_timestamp": 38,
+            "stop_timestamp": 32580,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Season the dough with salt",
+                    "start_timestamp": 38,
+                    "stop_timestamp": 939
+                },
+                {
+                    "secondary_subgoal": "Mix the dough by hand",
+                    "start_timestamp": 961,
+                    "stop_timestamp": 10378
+                },
+                {
+                    "secondary_subgoal": "Prepare the frying setup",
+                    "start_timestamp": 3413,
+                    "stop_timestamp": 11097
+                },
+                {
+                    "secondary_subgoal": "Mix the dough with the bowl",
+                    "start_timestamp": 3835,
+                    "stop_timestamp": 37466
+                },
+                {
+                    "secondary_subgoal": "Scoop dough with the mesh spoon",
+                    "start_timestamp": 44120,
+                    "stop_timestamp": 44877
+                },
+                {
+                    "secondary_subgoal": "Final mixing of the dough",
+                    "start_timestamp": 48893,
+                    "stop_timestamp": 49787
+                },
+                {
+                    "secondary_subgoal": "Prepare the dough balls or arancini",
+                    "start_timestamp": 53156,
+                    "stop_timestamp": 56195
+                },
+                {
+                    "secondary_subgoal": "Add water to the dough",
+                    "start_timestamp": 57001,
+                    "stop_timestamp": 149377
+                },
+                {
+                    "secondary_subgoal": "Cook the dough balls in boiling water",
+                    "start_timestamp": 148147,
+                    "stop_timestamp": 172618
+                }
+            ]
+        },
+        {
+            "subgoal": "Fry the dough or arancini",
+            "start_timestamp": 32594,
+            "stop_timestamp": 10376,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Deep fry the dough balls",
+                    "start_timestamp": 65507,
+                    "stop_timestamp": 65776
+                },
+                {
+                    "secondary_subgoal": "Remove the fried dough balls from oil",
+                    "start_timestamp": 67950,
+                    "stop_timestamp": 74344
+                },
+                {
+                    "secondary_subgoal": "Handle and cool the fried dough balls",
+                    "start_timestamp": 75798,
+                    "stop_timestamp": 76463
+                },
+                {
+                    "secondary_subgoal": "Final handling of fried dough",
+                    "start_timestamp": 115115,
+                    "stop_timestamp": 118457
+                },
+                {
+                    "secondary_subgoal": "Refry and finalize the dough balls",
+                    "start_timestamp": 118511,
+                    "stop_timestamp": 143494
+                }
+            ]
+        }
+    ]
+}

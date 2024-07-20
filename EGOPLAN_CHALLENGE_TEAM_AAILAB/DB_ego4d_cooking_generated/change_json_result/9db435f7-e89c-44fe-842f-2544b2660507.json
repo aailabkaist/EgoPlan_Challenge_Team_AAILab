@@ -1,0 +1,140 @@
+{
+    "overall_goal": "Make doughs",
+    "clips": [
+        {
+            "subgoal": "Mix and prepare ingredients for dough",
+            "start_timestamp": 4187,
+            "stop_timestamp": 5529,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C makes doughs",
+                    "start_timestamp": 4187,
+                    "stop_timestamp": 4331
+                },
+                {
+                    "secondary_subgoal": "C converses with woman X",
+                    "start_timestamp": 4331,
+                    "stop_timestamp": 4367
+                },
+                {
+                    "secondary_subgoal": "C makes doughs",
+                    "start_timestamp": 4367,
+                    "stop_timestamp": 4846
+                },
+                {
+                    "secondary_subgoal": "C squeezes a nylon paper",
+                    "start_timestamp": 4846,
+                    "stop_timestamp": 4901
+                },
+                {
+                    "secondary_subgoal": "C makes doughs",
+                    "start_timestamp": 4901,
+                    "stop_timestamp": 5529
+                }
+            ]
+        },
+        {
+            "subgoal": "Retrieve and handle ingredients",
+            "start_timestamp": 5529,
+            "stop_timestamp": 5928,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C walks outside the house",
+                    "start_timestamp": 5529,
+                    "stop_timestamp": 5730
+                },
+                {
+                    "secondary_subgoal": "C opens a nylon paper",
+                    "start_timestamp": 5730,
+                    "stop_timestamp": 5793
+                },
+                {
+                    "secondary_subgoal": "O woman X puts flour inside the paper",
+                    "start_timestamp": 5793,
+                    "stop_timestamp": 5856
+                },
+                {
+                    "secondary_subgoal": "C closes the nylon paper",
+                    "start_timestamp": 5856,
+                    "stop_timestamp": 5928
+                }
+            ]
+        },
+        {
+            "subgoal": "Walk back",
+            "start_timestamp": 5928,
+            "stop_timestamp": 6106,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C walks outside the house",
+                    "start_timestamp": 5928,
+                    "stop_timestamp": 6106
+                }
+            ]
+        },
+        {
+            "subgoal": "Continue making doughs",
+            "start_timestamp": 6106,
+            "stop_timestamp": 8011,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C makes doughs",
+                    "start_timestamp": 6106,
+                    "stop_timestamp": 7030
+                },
+                {
+                    "secondary_subgoal": "O woman X converses with camera wearer",
+                    "start_timestamp": 7030,
+                    "stop_timestamp": 7106
+                },
+                {
+                    "secondary_subgoal": "C converses with woman X",
+                    "start_timestamp": 7106,
+                    "stop_timestamp": 7181
+                },
+                {
+                    "secondary_subgoal": "C makes doughs",
+                    "start_timestamp": 7181,
+                    "stop_timestamp": 7325
+                },
+                {
+                    "secondary_subgoal": "C converses with woman X",
+                    "start_timestamp": 7325,
+                    "stop_timestamp": 7511
+                },
+                {
+                    "secondary_subgoal": "C makes doughs",
+                    "start_timestamp": 7511,
+                    "stop_timestamp": 7786
+                },
+                {
+                    "secondary_subgoal": "O woman X converses with camera wearer",
+                    "start_timestamp": 7786,
+                    "stop_timestamp": 7839
+                },
+                {
+                    "secondary_subgoal": "C makes doughs",
+                    "start_timestamp": 7839,
+                    "stop_timestamp": 8011
+                }
+            ]
+        },
+        {
+            "subgoal": "Walk and place nylon paper",
+            "start_timestamp": 8011,
+            "stop_timestamp": 8409,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C walks outside the house",
+                    "start_timestamp": 8011,
+                    "stop_timestamp": 8309
+                },
+                {
+                    "secondary_subgoal": "C puts down a nylon paper",
+                    "start_timestamp": 8309,
+                    "stop_timestamp": 8409
+                }
+            ]
+        }
+    ]
+}

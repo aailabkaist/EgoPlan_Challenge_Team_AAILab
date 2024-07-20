@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ef9zSbgZsGH8GjJs3y8HOHM8yrEn",
+    "object": "chat.completion",
+    "created": 1719478367,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare bread with strawberry and margarine\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Initial phone interactions and a drink\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 1014,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Interacting with phone\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 340\n        },\n        {\n          \"secondary_subgoal\": \"Drinking\",\n          \"start_timestamp\": 340,\n          \"stop_timestamp\": 774\n        },\n        {\n          \"secondary_subgoal\": \"Putting down the cup and interacting with phone\",\n          \"start_timestamp\": 774,\n          \"stop_timestamp\": 1014\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing to cut strawberries\",\n      \"start_timestamp\": 1014,\n      \"stop_timestamp\": 2054,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Getting chopping board and knife\",\n          \"start_timestamp\": 1145,\n          \"stop_timestamp\": 1491\n        },\n        {\n          \"secondary_subgoal\": \"Returning knife to drawer\",\n          \"start_timestamp\": 1491,\n          \"stop_timestamp\": 1586\n        },\n        {\n          \"secondary_subgoal\": \"Handling items around the kitchen counter\",\n          \"start_timestamp\": 1586,\n          \"stop_timestamp\": 2054\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning and preparing strawberries\",\n      \"start_timestamp\": 2054,\n      \"stop_timestamp\": 7986,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Collecting strawberries and peeling spoilt parts\",\n          \"start_timestamp\": 2347,\n          \"stop_timestamp\": 7461\n        },\n        {\n          \"secondary_subgoal\": \"Using phone briefly\",\n          \"start_timestamp\": 7515,\n          \"stop_timestamp\": 7917\n        },\n        {\n          \"secondary_subgoal\": \"Final peeling and cleaning of strawberries\",\n          \"start_timestamp\": 7917,\n          \"stop_timestamp\": 7986\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Slicing strawberries\",\n      \"start_timestamp\": 7986,\n      \"stop_timestamp\": 19362,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cutting strawberries and placing them in zip bag\",\n          \"start_timestamp\": 7986,\n          \"stop_timestamp\": 19362\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Interacting with food items and the oven\",\n      \"start_timestamp\": 19362,\n      \"stop_timestamp\": 23711,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Using phone and handling bread\",\n          \"start_timestamp\": 19362,\n          \"stop_timestamp\": 22587\n        },\n        {\n          \"secondary_subgoal\": \"Placing bread in the oven\",\n          \"start_timestamp\": 22587,\n          \"stop_timestamp\": 23466\n        },\n        {\n          \"secondary_subgoal\": \"Using phone between actions\",\n          \"start_timestamp\": 23466,\n          \"stop_timestamp\": 23711\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing bread with margarine and strawberries\",\n      \"start_timestamp\": 23711,\n      \"stop_timestamp\": 27839,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Spreading margarine on bread\",\n          \"start_timestamp\": 23711,\n          \"stop_timestamp\": 25320\n        },\n        {\n          \"secondary_subgoal\": \"Placing strawberries on bread\",\n          \"start_timestamp\": 25430,\n          \"stop_timestamp\": 26362\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning up and storing margarine\",\n          \"start_timestamp\": 27394,\n          \"stop_timestamp\": 27839\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3766,
+        "completion_tokens": 848,
+        "total_tokens": 4614
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

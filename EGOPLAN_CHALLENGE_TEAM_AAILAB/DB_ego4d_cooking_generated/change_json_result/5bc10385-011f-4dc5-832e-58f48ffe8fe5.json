@@ -1,0 +1,94 @@
+{
+    "overall_goal": "Process items (likely food items) by picking, placing, covering, and squeezing/pressing them using a compressor and paper.",
+    "clips": [
+        {
+            "subgoal": "Initial preparation of items using the hotpot",
+            "start_timestamp": 0,
+            "stop_timestamp": 436,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold, pick from the bowl, place items in the hotpot",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 180
+                },
+                {
+                    "secondary_subgoal": "Cover item with a piece of paper and close the hotpot",
+                    "start_timestamp": 180,
+                    "stop_timestamp": 436
+                }
+            ]
+        },
+        {
+            "subgoal": "Processing items with the compressor",
+            "start_timestamp": 436,
+            "stop_timestamp": 9098,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Close, turn, and open the compressor",
+                    "start_timestamp": 436,
+                    "stop_timestamp": 545
+                },
+                {
+                    "secondary_subgoal": "Rotate item inside the compressor, pick and put items on the table",
+                    "start_timestamp": 545,
+                    "stop_timestamp": 753
+                },
+                {
+                    "secondary_subgoal": "Pick from the bowl, place on the table, and press item with the compressor",
+                    "start_timestamp": 753,
+                    "stop_timestamp": 882
+                },
+                {
+                    "secondary_subgoal": "Cover items with paper and press using the compressor",
+                    "start_timestamp": 882,
+                    "stop_timestamp": 922
+                },
+                {
+                    "secondary_subgoal": "Remove paper and place it on table, continue processing items",
+                    "start_timestamp": 922,
+                    "stop_timestamp": 1048
+                },
+                {
+                    "secondary_subgoal": "Press, open, and turn items inside the compressor",
+                    "start_timestamp": 1048,
+                    "stop_timestamp": 1683
+                },
+                {
+                    "secondary_subgoal": "Eyes on paper management around compressor with consistent repetition",
+                    "start_timestamp": 1683,
+                    "stop_timestamp": 1823
+                },
+                {
+                    "secondary_subgoal": "Periodic steps of pressing and opening the compressor",
+                    "start_timestamp": 1823,
+                    "stop_timestamp": 2610
+                },
+                {
+                    "secondary_subgoal": "Involving turning and taking off paper inside the compressor",
+                    "start_timestamp": 2610,
+                    "stop_timestamp": 3839
+                },
+                {
+                    "secondary_subgoal": "Squeezing unspecified items in the compressor",
+                    "start_timestamp": 3839,
+                    "stop_timestamp": 4752
+                },
+                {
+                    "secondary_subgoal": "Handling papers and putting and taking items on the compressor",
+                    "start_timestamp": 4752,
+                    "stop_timestamp": 5108
+                },
+                {
+                    "secondary_subgoal": "Repetitive covering and squeezing process for items in the compressor",
+                    "start_timestamp": 5108,
+                    "stop_timestamp": 6242
+                },
+                {
+                    "secondary_subgoal": "Final squeezing and handling items procedures",
+                    "start_timestamp": 6242,
+                    "stop_timestamp": 9098
+                }
+            ]
+        }
+    ]
+}

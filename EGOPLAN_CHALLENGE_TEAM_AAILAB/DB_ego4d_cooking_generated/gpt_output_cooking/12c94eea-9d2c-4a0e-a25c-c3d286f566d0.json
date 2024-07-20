@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eh5SSV8BucOai7NVMtpBeYJjxrEc",
+    "object": "chat.completion",
+    "created": 1719485774,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cooking, serving, and cleaning up after a meal\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing the meal\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 184,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Holding the cooking pot\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 2\n        },\n        {\n          \"secondary_subgoal\": \"Turning on the water tap\",\n          \"start_timestamp\": 2,\n          \"stop_timestamp\": 64\n        },\n        {\n          \"secondary_subgoal\": \"Picking the table cloth\",\n          \"start_timestamp\": 64,\n          \"stop_timestamp\": 119\n        },\n        {\n          \"secondary_subgoal\": \"Picking objects (unspecified)\",\n          \"start_timestamp\": 119,\n          \"stop_timestamp\": 184\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Heating the food in the microwave\",\n      \"start_timestamp\": 184,\n      \"stop_timestamp\": 444,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Opening the microwave\",\n          \"start_timestamp\": 184,\n          \"stop_timestamp\": 185\n        },\n        {\n          \"secondary_subgoal\": \"Putting objects in the microwave\",\n          \"start_timestamp\": 185,\n          \"stop_timestamp\": 352\n        },\n        {\n          \"secondary_subgoal\": \"Switching on the microwave\",\n          \"start_timestamp\": 352,\n          \"stop_timestamp\": 444\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning the sink area\",\n      \"start_timestamp\": 444,\n      \"stop_timestamp\": 1070,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wiping up the sink top\",\n          \"start_timestamp\": 523,\n          \"stop_timestamp\": 666\n        },\n        {\n          \"secondary_subgoal\": \"Opening the fridge and placing objects inside\",\n          \"start_timestamp\": 737,\n          \"stop_timestamp\": 1009\n        },\n        {\n          \"secondary_subgoal\": \"Looking and walking around\",\n          \"start_timestamp\": 1009,\n          \"stop_timestamp\": 1070\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Setting up to serve the meal\",\n      \"start_timestamp\": 1070,\n      \"stop_timestamp\": 1290,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Opening the drawer and picking the plate\",\n          \"start_timestamp\": 1070,\n          \"stop_timestamp\": 1290\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Serving the meal\",\n      \"start_timestamp\": 1290,\n      \"stop_timestamp\": 2741,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Scooping food from the frying pan to the plate\",\n          \"start_timestamp\": 1558,\n          \"stop_timestamp\": 2199\n        },\n        {\n          \"secondary_subgoal\": \"Picking and placing food with chop sticks\",\n          \"start_timestamp\": 2390,\n          \"stop_timestamp\": 2612\n        },\n        {\n          \"secondary_subgoal\": \"Eating the meal\",\n          \"start_timestamp\": 2612,\n          \"stop_timestamp\": 2741\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning the kitchen\",\n      \"start_timestamp\": 2741,\n      \"stop_timestamp\": 8439,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Removing and washing the pan\",\n          \"start_timestamp\": 2838,\n          \"stop_timestamp\": 3045\n        },\n        {\n          \"secondary_subgoal\": \"Wiping the sink top\",\n          \"start_timestamp\": 3559,\n          \"stop_timestamp\": 3885\n        },\n        {\n          \"secondary_subgoal\": \"Scrubbing and washing utensils and pans\",\n          \"start_timestamp\": 3959,\n          \"stop_timestamp\": 5721\n        },\n        {\n          \"secondary_subgoal\": \"Looking around and final touches\",\n          \"start_timestamp\": 5721,\n          \"stop_timestamp\": 8439\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1488,
+        "completion_tokens": 898,
+        "total_tokens": 2386
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

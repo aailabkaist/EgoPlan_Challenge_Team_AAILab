@@ -1,0 +1,334 @@
+{
+    "overall_goal": "C prepares food and cleans up the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Get ready for food preparation.",
+            "start_timestamp": 0,
+            "stop_timestamp": 1817,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle and wear camera.",
+                    "start_timestamp": 125,
+                    "stop_timestamp": 684
+                },
+                {
+                    "secondary_subgoal": "Wear a camera.",
+                    "start_timestamp": 684,
+                    "stop_timestamp": 1122
+                },
+                {
+                    "secondary_subgoal": "A woman Y handles a camera.",
+                    "start_timestamp": 1122,
+                    "stop_timestamp": 1612
+                },
+                {
+                    "secondary_subgoal": "C handles camera.",
+                    "start_timestamp": 1612,
+                    "stop_timestamp": 1817
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare for blending ingredients.",
+            "start_timestamp": 1817,
+            "stop_timestamp": 3243,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk to the kitchen and pick soap.",
+                    "start_timestamp": 1817,
+                    "stop_timestamp": 2044
+                },
+                {
+                    "secondary_subgoal": "Put soap on window sill and wash hands.",
+                    "start_timestamp": 2044,
+                    "stop_timestamp": 2485
+                },
+                {
+                    "secondary_subgoal": "Pick a cable and insert plug in the socket.",
+                    "start_timestamp": 2485,
+                    "stop_timestamp": 2689
+                },
+                {
+                    "secondary_subgoal": "Hold blender, pull a jar, and attach to blender.",
+                    "start_timestamp": 2689,
+                    "stop_timestamp": 2952
+                },
+                {
+                    "secondary_subgoal": "Turn on switch and use blender.",
+                    "start_timestamp": 2952,
+                    "stop_timestamp": 3187
+                },
+                {
+                    "secondary_subgoal": "Turn off switch and retrieve jar.",
+                    "start_timestamp": 3187,
+                    "stop_timestamp": 3303
+                }
+            ]
+        },
+        {
+            "subgoal": "Store the blender.",
+            "start_timestamp": 3303,
+            "stop_timestamp": 3953,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put lid on the floor and remove plug from socket.",
+                    "start_timestamp": 3303,
+                    "stop_timestamp": 3647
+                },
+                {
+                    "secondary_subgoal": "Open cabinet and store blender.",
+                    "start_timestamp": 3647,
+                    "stop_timestamp": 3953
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and store ice.",
+            "start_timestamp": 3953,
+            "stop_timestamp": 4793,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open fridge and pick ice.",
+                    "start_timestamp": 3953,
+                    "stop_timestamp": 4442
+                },
+                {
+                    "secondary_subgoal": "Pour ice in a tray and store in fridge.",
+                    "start_timestamp": 4442,
+                    "stop_timestamp": 4744
+                },
+                {
+                    "secondary_subgoal": "Put ice on the floor.",
+                    "start_timestamp": 4744,
+                    "stop_timestamp": 4793
+                }
+            ]
+        },
+        {
+            "subgoal": "Add oil and spices to ingredients.",
+            "start_timestamp": 4793,
+            "stop_timestamp": 6942,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and pour oil.",
+                    "start_timestamp": 4898,
+                    "stop_timestamp": 5251
+                },
+                {
+                    "secondary_subgoal": "Pick and manage spoon, bowls, and containers.",
+                    "start_timestamp": 5251,
+                    "stop_timestamp": 7129
+                },
+                {
+                    "secondary_subgoal": "Scoop and add powder.",
+                    "start_timestamp": 7112,
+                    "stop_timestamp": 7588
+                },
+                {
+                    "secondary_subgoal": "Mix and manage bowls with powder.",
+                    "start_timestamp": 7588,
+                    "stop_timestamp": 7882
+                },
+                {
+                    "secondary_subgoal": "Mixing flour.",
+                    "start_timestamp": 8745,
+                    "stop_timestamp": 6942
+                }
+            ]
+        },
+        {
+            "subgoal": "Grind food and prepare mixture.",
+            "start_timestamp": 16775,
+            "stop_timestamp": 19659,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk to pick a pot and release.",
+                    "start_timestamp": 16805,
+                    "stop_timestamp": 16899
+                },
+                {
+                    "secondary_subgoal": "Remove food from grater and move food into bucket.",
+                    "start_timestamp": 16899,
+                    "stop_timestamp": 17022
+                },
+                {
+                    "secondary_subgoal": "Clean and bang grater.",
+                    "start_timestamp": 17022,
+                    "stop_timestamp": 17560
+                },
+                {
+                    "secondary_subgoal": "Clean knife and countertop.",
+                    "start_timestamp": 17560,
+                    "stop_timestamp": 17873
+                },
+                {
+                    "secondary_subgoal": "Organize trash.",
+                    "start_timestamp": 17873,
+                    "stop_timestamp": 18378
+                },
+                {
+                    "secondary_subgoal": "Clean hands and handle cooking pot.",
+                    "start_timestamp": 18378,
+                    "stop_timestamp": 19376
+                },
+                {
+                    "secondary_subgoal": "Rinse bowl and organize countertop.",
+                    "start_timestamp": 19659,
+                    "stop_timestamp": 19680
+                }
+            ]
+        },
+        {
+            "subgoal": "Begin frying dough.",
+            "start_timestamp": 20064,
+            "stop_timestamp": 21797,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir food in pot.",
+                    "start_timestamp": 20064,
+                    "stop_timestamp": 20750
+                },
+                {
+                    "secondary_subgoal": "Manage spices and fry food.",
+                    "start_timestamp": 20750,
+                    "stop_timestamp": 21852
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare additional food elements.",
+            "start_timestamp": 22130,
+            "stop_timestamp": 23682,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick leaves and spice ingredients.",
+                    "start_timestamp": 22130,
+                    "stop_timestamp": 22387
+                },
+                {
+                    "secondary_subgoal": "Walk around and arrange kitchen.",
+                    "start_timestamp": 22445,
+                    "stop_timestamp": 23514
+                }
+            ]
+        },
+        {
+            "subgoal": "Continue frying process to completion.",
+            "start_timestamp": 23712,
+            "stop_timestamp": 23823,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Complete frying process.",
+                    "start_timestamp": 23712,
+                    "stop_timestamp": 23959
+                }
+            ]
+        },
+        {
+            "subgoal": "Complete preparing vegetables and spices.",
+            "start_timestamp": 30138,
+            "stop_timestamp": 31720,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Complete cutting and arranging pepper.",
+                    "start_timestamp": 30138,
+                    "stop_timestamp": 30148
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare pancake mix.",
+            "start_timestamp": 31720,
+            "stop_timestamp": 37123,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Finish pancake preparation.",
+                    "start_timestamp": 31720,
+                    "stop_timestamp": 34690
+                },
+                {
+                    "secondary_subgoal": "Additional stirring and mixing.",
+                    "start_timestamp": 34690,
+                    "stop_timestamp": 37123
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean and organize kitchen.",
+            "start_timestamp": 46225,
+            "stop_timestamp": 147761,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle utensils and clean surfaces.",
+                    "start_timestamp": 46981,
+                    "stop_timestamp": 47427
+                },
+                {
+                    "secondary_subgoal": "Organize and clean counters.",
+                    "start_timestamp": 47880,
+                    "stop_timestamp": 48747
+                }
+            ]
+        },
+        {
+            "subgoal": "Slice onions and prepare additional kitchen elements.",
+            "start_timestamp": 76920,
+            "stop_timestamp": 89791,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare vegetables and manage ingredients",
+                    "start_timestamp": 76920,
+                    "stop_timestamp": 89791
+                }
+            ]
+        },
+        {
+            "subgoal": "Continue preparing food and clean up.",
+            "start_timestamp": 96783,
+            "stop_timestamp": 102095,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Finish food prep and scrub utensils.",
+                    "start_timestamp": 96783,
+                    "stop_timestamp": 102095
+                }
+            ]
+        },
+        {
+            "subgoal": "Interact with people and finalize cooking.",
+            "start_timestamp": 112066,
+            "stop_timestamp": 145607,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Performs interactions and finalize dishes.",
+                    "start_timestamp": 112066,
+                    "stop_timestamp": 145607
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish by making tea.",
+            "start_timestamp": 145952,
+            "stop_timestamp": 148965,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare tea and other final tasks.",
+                    "start_timestamp": 145952,
+                    "stop_timestamp": 148965
+                }
+            ]
+        },
+        {
+            "subgoal": "Walk around and finalize interactions.",
+            "start_timestamp": 149309,
+            "stop_timestamp": 156275,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Interact and finalize interactions and clean-up tasks.",
+                    "start_timestamp": 149309,
+                    "stop_timestamp": 156275
+                }
+            ]
+        }
+    ]
+}

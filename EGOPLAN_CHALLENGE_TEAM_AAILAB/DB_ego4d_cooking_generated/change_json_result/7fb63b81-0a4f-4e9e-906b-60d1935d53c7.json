@@ -1,0 +1,221 @@
+{
+    "overall_goal": "Prepare a meal involving eggs, vegetables, and possibly other ingredients using various kitchen tools and appliances.",
+    "clips": [
+        {
+            "subgoal": "Retrieve and prepare initial ingredients and tools",
+            "start_timestamp": 19,
+            "stop_timestamp": 1110,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick bottle and other objects",
+                    "start_timestamp": 19,
+                    "stop_timestamp": 350
+                },
+                {
+                    "secondary_subgoal": "Pick and place eggs",
+                    "start_timestamp": 350,
+                    "stop_timestamp": 579
+                },
+                {
+                    "secondary_subgoal": "Pick and place other objects",
+                    "start_timestamp": 579,
+                    "stop_timestamp": 954
+                },
+                {
+                    "secondary_subgoal": "Pick and place food container",
+                    "start_timestamp": 954,
+                    "stop_timestamp": 1056
+                },
+                {
+                    "secondary_subgoal": "Pick and place spring onions",
+                    "start_timestamp": 1056,
+                    "stop_timestamp": 1107
+                },
+                {
+                    "secondary_subgoal": "Close fridge",
+                    "start_timestamp": 1107,
+                    "stop_timestamp": 1110
+                }
+            ]
+        },
+        {
+            "subgoal": "Interact with fridge and drawers",
+            "start_timestamp": 1110,
+            "stop_timestamp": 1816,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open fridge drawer",
+                    "start_timestamp": 1110,
+                    "stop_timestamp": 1503
+                },
+                {
+                    "secondary_subgoal": "Check contents and close drawer",
+                    "start_timestamp": 1503,
+                    "stop_timestamp": 1725
+                },
+                {
+                    "secondary_subgoal": "Close fridge",
+                    "start_timestamp": 1725,
+                    "stop_timestamp": 1816
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cooking area and tools",
+            "start_timestamp": 1816,
+            "stop_timestamp": 2938,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move cooking lid",
+                    "start_timestamp": 1816,
+                    "stop_timestamp": 1942
+                },
+                {
+                    "secondary_subgoal": "Open kitchen cabinet and pick mini saucepan",
+                    "start_timestamp": 1942,
+                    "stop_timestamp": 2053
+                },
+                {
+                    "secondary_subgoal": "Open tap and fill mini saucepan with water",
+                    "start_timestamp": 2053,
+                    "stop_timestamp": 2444
+                },
+                {
+                    "secondary_subgoal": "Place mini saucepan on gas cooker",
+                    "start_timestamp": 2444,
+                    "stop_timestamp": 2632
+                },
+                {
+                    "secondary_subgoal": "Light gas cooker",
+                    "start_timestamp": 2632,
+                    "stop_timestamp": 2727
+                },
+                {
+                    "secondary_subgoal": "Move mini saucepan",
+                    "start_timestamp": 2727,
+                    "stop_timestamp": 2938
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle and store food items",
+            "start_timestamp": 2938,
+            "stop_timestamp": 4394,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and handle aluminum paper",
+                    "start_timestamp": 2938,
+                    "stop_timestamp": 3485
+                },
+                {
+                    "secondary_subgoal": "Move and place food container",
+                    "start_timestamp": 3485,
+                    "stop_timestamp": 3986
+                },
+                {
+                    "secondary_subgoal": "Cover and place food in fridge",
+                    "start_timestamp": 3986,
+                    "stop_timestamp": 4394
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut and prepare vegetables",
+            "start_timestamp": 4394,
+            "stop_timestamp": 8449,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve cucumber from fridge",
+                    "start_timestamp": 4394,
+                    "stop_timestamp": 4839
+                },
+                {
+                    "secondary_subgoal": "Wash hands and handle chopping board",
+                    "start_timestamp": 4839,
+                    "stop_timestamp": 5148
+                },
+                {
+                    "secondary_subgoal": "Remove zip bag from spring onions",
+                    "start_timestamp": 5148,
+                    "stop_timestamp": 5202
+                },
+                {
+                    "secondary_subgoal": "Cut spring onions",
+                    "start_timestamp": 5202,
+                    "stop_timestamp": 5446
+                },
+                {
+                    "secondary_subgoal": "Handle aluminum transparent paper",
+                    "start_timestamp": 5446,
+                    "stop_timestamp": 6825
+                },
+                {
+                    "secondary_subgoal": "Prepare cucumber and spring onions",
+                    "start_timestamp": 6825,
+                    "stop_timestamp": 8229
+                },
+                {
+                    "secondary_subgoal": "Light gas cooker",
+                    "start_timestamp": 8229,
+                    "stop_timestamp": 8349
+                },
+                {
+                    "secondary_subgoal": "Open and move objects",
+                    "start_timestamp": 8349,
+                    "stop_timestamp": 8449
+                }
+            ]
+        },
+        {
+            "subgoal": "Sort and clean vegetables",
+            "start_timestamp": 8449,
+            "stop_timestamp": 15193,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Remove worn-out leaves",
+                    "start_timestamp": 8449,
+                    "stop_timestamp": 14524
+                },
+                {
+                    "secondary_subgoal": "Wash and rinse vegetables",
+                    "start_timestamp": 14524,
+                    "stop_timestamp": 15193
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle unsorted vegetables and kitchen tools",
+            "start_timestamp": 15193,
+            "stop_timestamp": 19452,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and handle vegetables",
+                    "start_timestamp": 15193,
+                    "stop_timestamp": 18335
+                },
+                {
+                    "secondary_subgoal": "Clean chopping board",
+                    "start_timestamp": 18335,
+                    "stop_timestamp": 19452
+                }
+            ]
+        },
+        {
+            "subgoal": "Store vegetables and clean workspace",
+            "start_timestamp": 19452,
+            "stop_timestamp": 21284,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Store vegetables in polythene bags",
+                    "start_timestamp": 19452,
+                    "stop_timestamp": 20926
+                },
+                {
+                    "secondary_subgoal": "Handle plastic clips and secure bags",
+                    "start_timestamp": 20926,
+                    "stop_timestamp": 21284
+                }
+            ]
+        }
+    ]
+}

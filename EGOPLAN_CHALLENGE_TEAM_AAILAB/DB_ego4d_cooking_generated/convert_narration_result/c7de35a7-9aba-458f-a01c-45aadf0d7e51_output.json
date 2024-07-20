@@ -1,0 +1,702 @@
+[
+    {
+        "task_goal": "Serves the meal onto a plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the spoon with the right hand",
+                "start_frame": 1,
+                "stop_frame": 12
+            },
+            {
+                "narration_text": "Puts the meal on the plate",
+                "start_frame": 12,
+                "stop_frame": 118
+            },
+            {
+                "narration_text": "Soaks the spoon in the meal",
+                "start_frame": 118,
+                "stop_frame": 179
+            },
+            {
+                "narration_text": "Holds the plate with the left hand",
+                "start_frame": 179,
+                "stop_frame": 336
+            },
+            {
+                "narration_text": "Holds the pot with both hands",
+                "start_frame": 336,
+                "stop_frame": 403
+            },
+            {
+                "narration_text": "Holds the cover",
+                "start_frame": 403,
+                "stop_frame": 472
+            },
+            {
+                "narration_text": "Holds the spoon",
+                "start_frame": 472,
+                "stop_frame": 637
+            },
+            {
+                "narration_text": "Holds the chopping stick with the right hand",
+                "start_frame": 637,
+                "stop_frame": 651
+            },
+            {
+                "narration_text": "Holds the oven pot with the left hand",
+                "start_frame": 651,
+                "stop_frame": 826
+            },
+            {
+                "narration_text": "Puts the meal on the plate",
+                "start_frame": 826,
+                "stop_frame": 1660
+            }
+        ]
+    },
+    {
+        "task_goal": "Holds the spoon with the right hand.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the spoon with the right hand",
+                "start_frame": 1,
+                "stop_frame": 12
+            },
+            {
+                "narration_text": "Puts the meal on the plate",
+                "start_frame": 12,
+                "stop_frame": 118
+            }
+        ]
+    },
+    {
+        "task_goal": "Puts the meal on the plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the spoon with the right hand",
+                "start_frame": 1,
+                "stop_frame": 12
+            },
+            {
+                "narration_text": "Puts the meal on the plate",
+                "start_frame": 12,
+                "stop_frame": 118
+            },
+            {
+                "narration_text": "Soaks the spoon in the meal",
+                "start_frame": 118,
+                "stop_frame": 179
+            }
+        ]
+    },
+    {
+        "task_goal": "Soaks the spoon in the meal.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the meal on the plate",
+                "start_frame": 12,
+                "stop_frame": 118
+            },
+            {
+                "narration_text": "Soaks the spoon in the meal",
+                "start_frame": 118,
+                "stop_frame": 179
+            },
+            {
+                "narration_text": "Holds the plate with the left hand",
+                "start_frame": 179,
+                "stop_frame": 336
+            }
+        ]
+    },
+    {
+        "task_goal": "Holds the plate with the left hand.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Soaks the spoon in the meal",
+                "start_frame": 118,
+                "stop_frame": 179
+            },
+            {
+                "narration_text": "Holds the plate with the left hand",
+                "start_frame": 179,
+                "stop_frame": 336
+            },
+            {
+                "narration_text": "Holds the pot with both hands",
+                "start_frame": 336,
+                "stop_frame": 403
+            }
+        ]
+    },
+    {
+        "task_goal": "Holds the pot with both hands.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the plate with the left hand",
+                "start_frame": 179,
+                "stop_frame": 336
+            },
+            {
+                "narration_text": "Holds the pot with both hands",
+                "start_frame": 336,
+                "stop_frame": 403
+            },
+            {
+                "narration_text": "Holds the cover",
+                "start_frame": 403,
+                "stop_frame": 472
+            }
+        ]
+    },
+    {
+        "task_goal": "Holds the cover.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the pot with both hands",
+                "start_frame": 336,
+                "stop_frame": 403
+            },
+            {
+                "narration_text": "Holds the cover",
+                "start_frame": 403,
+                "stop_frame": 472
+            },
+            {
+                "narration_text": "Holds the spoon",
+                "start_frame": 472,
+                "stop_frame": 637
+            }
+        ]
+    },
+    {
+        "task_goal": "Holds the spoon.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the cover",
+                "start_frame": 403,
+                "stop_frame": 472
+            },
+            {
+                "narration_text": "Holds the spoon",
+                "start_frame": 472,
+                "stop_frame": 637
+            },
+            {
+                "narration_text": "Holds the chopping stick with the right hand",
+                "start_frame": 637,
+                "stop_frame": 651
+            }
+        ]
+    },
+    {
+        "task_goal": "Holds the chopping stick with the right hand.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the spoon",
+                "start_frame": 472,
+                "stop_frame": 637
+            },
+            {
+                "narration_text": "Holds the chopping stick with the right hand",
+                "start_frame": 637,
+                "stop_frame": 651
+            },
+            {
+                "narration_text": "Holds the oven pot with the left hand",
+                "start_frame": 651,
+                "stop_frame": 826
+            }
+        ]
+    },
+    {
+        "task_goal": "Holds the oven pot with the left hand.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the chopping stick with the right hand",
+                "start_frame": 637,
+                "stop_frame": 651
+            },
+            {
+                "narration_text": "Holds the oven pot with the left hand",
+                "start_frame": 651,
+                "stop_frame": 826
+            },
+            {
+                "narration_text": "Puts the meal on the plate",
+                "start_frame": 826,
+                "stop_frame": 1660
+            }
+        ]
+    },
+    {
+        "task_goal": "Cleans up after serving the meal.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the oven pot with the left hand",
+                "start_frame": 651,
+                "stop_frame": 826
+            },
+            {
+                "narration_text": "Puts the meal on the plate",
+                "start_frame": 826,
+                "stop_frame": 1660
+            },
+            {
+                "narration_text": "Puts the pot in the sink",
+                "start_frame": 1660,
+                "stop_frame": 1668
+            },
+            {
+                "narration_text": "Opens the water on the water tap",
+                "start_frame": 1668,
+                "stop_frame": 1759
+            },
+            {
+                "narration_text": "Opens the kitchen cabinet",
+                "start_frame": 1759,
+                "stop_frame": 1901
+            },
+            {
+                "narration_text": "Picks the plate",
+                "start_frame": 1901,
+                "stop_frame": 1915
+            },
+            {
+                "narration_text": "Changes the plate from the left hand to the right hand",
+                "start_frame": 1915,
+                "stop_frame": 1934
+            },
+            {
+                "narration_text": "Holds the plate",
+                "start_frame": 1934,
+                "stop_frame": 1962
+            },
+            {
+                "narration_text": "Holds the plate with both hands",
+                "start_frame": 1962,
+                "stop_frame": 2010
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 2010,
+                "stop_frame": 2150
+            },
+            {
+                "narration_text": "Holds the chopping stick",
+                "start_frame": 2150,
+                "stop_frame": 2244
+            },
+            {
+                "narration_text": "Holds the plate with both hands",
+                "start_frame": 2244,
+                "stop_frame": 2310
+            },
+            {
+                "narration_text": "Holds the pot",
+                "start_frame": 2310,
+                "stop_frame": 2371
+            },
+            {
+                "narration_text": "Holds the cover",
+                "start_frame": 2371,
+                "stop_frame": 2479
+            },
+            {
+                "narration_text": "Picks the unsure with the chopping stick",
+                "start_frame": 2479,
+                "stop_frame": 3235
+            }
+        ]
+    },
+    {
+        "task_goal": "Puts the meal on the plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the oven pot with the left hand",
+                "start_frame": 651,
+                "stop_frame": 826
+            },
+            {
+                "narration_text": "Puts the meal on the plate",
+                "start_frame": 826,
+                "stop_frame": 1660
+            },
+            {
+                "narration_text": "Puts the pot in the sink",
+                "start_frame": 1660,
+                "stop_frame": 1668
+            }
+        ]
+    },
+    {
+        "task_goal": "Puts the pot in the sink.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the meal on the plate",
+                "start_frame": 826,
+                "stop_frame": 1660
+            },
+            {
+                "narration_text": "Puts the pot in the sink",
+                "start_frame": 1660,
+                "stop_frame": 1668
+            },
+            {
+                "narration_text": "Opens the water on the water tap",
+                "start_frame": 1668,
+                "stop_frame": 1759
+            }
+        ]
+    },
+    {
+        "task_goal": "Opens the water on the water tap.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the pot in the sink",
+                "start_frame": 1660,
+                "stop_frame": 1668
+            },
+            {
+                "narration_text": "Opens the water on the water tap",
+                "start_frame": 1668,
+                "stop_frame": 1759
+            },
+            {
+                "narration_text": "Opens the kitchen cabinet",
+                "start_frame": 1759,
+                "stop_frame": 1901
+            }
+        ]
+    },
+    {
+        "task_goal": "Opens the kitchen cabinet.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the water on the water tap",
+                "start_frame": 1668,
+                "stop_frame": 1759
+            },
+            {
+                "narration_text": "Opens the kitchen cabinet",
+                "start_frame": 1759,
+                "stop_frame": 1901
+            },
+            {
+                "narration_text": "Picks the plate",
+                "start_frame": 1901,
+                "stop_frame": 1915
+            }
+        ]
+    },
+    {
+        "task_goal": "Picks the plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the kitchen cabinet",
+                "start_frame": 1759,
+                "stop_frame": 1901
+            },
+            {
+                "narration_text": "Picks the plate",
+                "start_frame": 1901,
+                "stop_frame": 1915
+            },
+            {
+                "narration_text": "Changes the plate from the left hand to the right hand",
+                "start_frame": 1915,
+                "stop_frame": 1934
+            }
+        ]
+    },
+    {
+        "task_goal": "Changes the plate from the left hand to the right hand.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the plate",
+                "start_frame": 1901,
+                "stop_frame": 1915
+            },
+            {
+                "narration_text": "Changes the plate from the left hand to the right hand",
+                "start_frame": 1915,
+                "stop_frame": 1934
+            },
+            {
+                "narration_text": "Holds the plate",
+                "start_frame": 1934,
+                "stop_frame": 1962
+            }
+        ]
+    },
+    {
+        "task_goal": "Holds the plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Changes the plate from the left hand to the right hand",
+                "start_frame": 1915,
+                "stop_frame": 1934
+            },
+            {
+                "narration_text": "Holds the plate",
+                "start_frame": 1934,
+                "stop_frame": 1962
+            },
+            {
+                "narration_text": "Holds the plate with both hands",
+                "start_frame": 1962,
+                "stop_frame": 2010
+            }
+        ]
+    },
+    {
+        "task_goal": "Holds the plate with both hands.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the plate",
+                "start_frame": 1934,
+                "stop_frame": 1962
+            },
+            {
+                "narration_text": "Holds the plate with both hands",
+                "start_frame": 1962,
+                "stop_frame": 2010
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 2010,
+                "stop_frame": 2150
+            }
+        ]
+    },
+    {
+        "task_goal": "Opens the drawer.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the plate with both hands",
+                "start_frame": 1962,
+                "stop_frame": 2010
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 2010,
+                "stop_frame": 2150
+            },
+            {
+                "narration_text": "Holds the chopping stick",
+                "start_frame": 2150,
+                "stop_frame": 2244
+            }
+        ]
+    },
+    {
+        "task_goal": "Holds the chopping stick.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 2010,
+                "stop_frame": 2150
+            },
+            {
+                "narration_text": "Holds the chopping stick",
+                "start_frame": 2150,
+                "stop_frame": 2244
+            },
+            {
+                "narration_text": "Holds the plate with both hands",
+                "start_frame": 2244,
+                "stop_frame": 2310
+            }
+        ]
+    },
+    {
+        "task_goal": "Holds the plate with both hands.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the chopping stick",
+                "start_frame": 2150,
+                "stop_frame": 2244
+            },
+            {
+                "narration_text": "Holds the plate with both hands",
+                "start_frame": 2244,
+                "stop_frame": 2310
+            },
+            {
+                "narration_text": "Holds the pot",
+                "start_frame": 2310,
+                "stop_frame": 2371
+            }
+        ]
+    },
+    {
+        "task_goal": "Holds the pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the plate with both hands",
+                "start_frame": 2244,
+                "stop_frame": 2310
+            },
+            {
+                "narration_text": "Holds the pot",
+                "start_frame": 2310,
+                "stop_frame": 2371
+            },
+            {
+                "narration_text": "Holds the cover",
+                "start_frame": 2371,
+                "stop_frame": 2479
+            }
+        ]
+    },
+    {
+        "task_goal": "Holds the cover.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the pot",
+                "start_frame": 2310,
+                "stop_frame": 2371
+            },
+            {
+                "narration_text": "Holds the cover",
+                "start_frame": 2371,
+                "stop_frame": 2479
+            },
+            {
+                "narration_text": "Picks the unsure with the chopping stick",
+                "start_frame": 2479,
+                "stop_frame": 3235
+            }
+        ]
+    },
+    {
+        "task_goal": "Finishes the task in the kitchen.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the cover",
+                "start_frame": 2371,
+                "stop_frame": 2479
+            },
+            {
+                "narration_text": "Picks the unsure with the chopping stick",
+                "start_frame": 2479,
+                "stop_frame": 3235
+            },
+            {
+                "narration_text": "Puts the chopping stick on the plate",
+                "start_frame": 3235,
+                "stop_frame": 3356
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 3356,
+                "stop_frame": 3775
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 3775,
+                "stop_frame": 3826
+            },
+            {
+                "narration_text": "Lift the hands",
+                "start_frame": 3826,
+                "stop_frame": 3926
+            }
+        ]
+    },
+    {
+        "task_goal": "Picks the unsure with the chopping stick.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the cover",
+                "start_frame": 2371,
+                "stop_frame": 2479
+            },
+            {
+                "narration_text": "Picks the unsure with the chopping stick",
+                "start_frame": 2479,
+                "stop_frame": 3235
+            },
+            {
+                "narration_text": "Puts the chopping stick on the plate",
+                "start_frame": 3235,
+                "stop_frame": 3356
+            }
+        ]
+    },
+    {
+        "task_goal": "Puts the chopping stick on the plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the unsure with the chopping stick",
+                "start_frame": 2479,
+                "stop_frame": 3235
+            },
+            {
+                "narration_text": "Puts the chopping stick on the plate",
+                "start_frame": 3235,
+                "stop_frame": 3356
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 3356,
+                "stop_frame": 3775
+            }
+        ]
+    },
+    {
+        "task_goal": "Opens the fridge.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the chopping stick on the plate",
+                "start_frame": 3235,
+                "stop_frame": 3356
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 3356,
+                "stop_frame": 3775
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 3775,
+                "stop_frame": 3826
+            }
+        ]
+    },
+    {
+        "task_goal": "Closes the fridge.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 3356,
+                "stop_frame": 3775
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 3775,
+                "stop_frame": 3826
+            },
+            {
+                "narration_text": "Lift the hands",
+                "start_frame": 3826,
+                "stop_frame": 3926
+            }
+        ]
+    },
+    {
+        "task_goal": "Lifts the hands.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 3775,
+                "stop_frame": 3826
+            },
+            {
+                "narration_text": "Lift the hands",
+                "start_frame": 3826,
+                "stop_frame": 3926
+            }
+        ]
+    }
+]

@@ -1,0 +1,762 @@
+[
+    {
+        "task_goal": "Put laptop down and wear socks.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stares around the the house",
+                "start_frame": 14,
+                "stop_frame": 64
+            },
+            {
+                "narration_text": "Picks laptop from the legs",
+                "start_frame": 64,
+                "stop_frame": 99
+            },
+            {
+                "narration_text": "Puts the laptop on the seat",
+                "start_frame": 99,
+                "stop_frame": 133
+            },
+            {
+                "narration_text": "Stands up on the floor",
+                "start_frame": 133,
+                "stop_frame": 180
+            },
+            {
+                "narration_text": "Stretches the socks",
+                "start_frame": 180,
+                "stop_frame": 234
+            },
+            {
+                "narration_text": "Wears socks on the left leg",
+                "start_frame": 234,
+                "stop_frame": 301
+            },
+            {
+                "narration_text": "Picks socks from the seat",
+                "start_frame": 301,
+                "stop_frame": 302
+            },
+            {
+                "narration_text": "Stretches the socks",
+                "start_frame": 302,
+                "stop_frame": 397
+            },
+            {
+                "narration_text": "Wear socks on the right leg",
+                "start_frame": 397,
+                "stop_frame": 469
+            },
+            {
+                "narration_text": "Walks around the house",
+                "start_frame": 469,
+                "stop_frame": 694
+            }
+        ]
+    },
+    {
+        "task_goal": "Put laptop down.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stares around the the house",
+                "start_frame": 14,
+                "stop_frame": 64
+            },
+            {
+                "narration_text": "Picks laptop from the legs",
+                "start_frame": 64,
+                "stop_frame": 99
+            },
+            {
+                "narration_text": "Puts the laptop on the seat",
+                "start_frame": 99,
+                "stop_frame": 133
+            },
+            {
+                "narration_text": "Stands up on the floor",
+                "start_frame": 133,
+                "stop_frame": 180
+            }
+        ]
+    },
+    {
+        "task_goal": "Wear socks on left leg.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stands up on the floor",
+                "start_frame": 133,
+                "stop_frame": 180
+            },
+            {
+                "narration_text": "Stretches the socks",
+                "start_frame": 180,
+                "stop_frame": 234
+            },
+            {
+                "narration_text": "Wears socks on the left leg",
+                "start_frame": 234,
+                "stop_frame": 301
+            },
+            {
+                "narration_text": "Picks socks from the seat",
+                "start_frame": 301,
+                "stop_frame": 302
+            }
+        ]
+    },
+    {
+        "task_goal": "Wear socks on right leg.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks socks from the seat",
+                "start_frame": 301,
+                "stop_frame": 302
+            },
+            {
+                "narration_text": "Stretches the socks",
+                "start_frame": 302,
+                "stop_frame": 397
+            },
+            {
+                "narration_text": "Wear socks on the right leg",
+                "start_frame": 397,
+                "stop_frame": 469
+            },
+            {
+                "narration_text": "Walks around the house",
+                "start_frame": 469,
+                "stop_frame": 694
+            }
+        ]
+    },
+    {
+        "task_goal": "Gather ingredients from the fridge and place them on the table.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the house",
+                "start_frame": 469,
+                "stop_frame": 694
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 694,
+                "stop_frame": 793
+            },
+            {
+                "narration_text": "Stares inside the fridge",
+                "start_frame": 793,
+                "stop_frame": 1303
+            },
+            {
+                "narration_text": "Picks a packet from the fridge",
+                "start_frame": 1303,
+                "stop_frame": 1400
+            },
+            {
+                "narration_text": "Puts the packet on the table",
+                "start_frame": 1400,
+                "stop_frame": 1500
+            },
+            {
+                "narration_text": "Picks onions from the fridge",
+                "start_frame": 1500,
+                "stop_frame": 1576
+            },
+            {
+                "narration_text": "Puts onions on the table",
+                "start_frame": 1576,
+                "stop_frame": 1688
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 1688,
+                "stop_frame": 1827
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 1827,
+                "stop_frame": 1885
+            },
+            {
+                "narration_text": "Picks a tin from the fridge",
+                "start_frame": 1885,
+                "stop_frame": 1959
+            },
+            {
+                "narration_text": "Puts the tin on the table",
+                "start_frame": 1959,
+                "stop_frame": 1968
+            },
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 1968,
+                "stop_frame": 2060
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the fridge.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the house",
+                "start_frame": 469,
+                "stop_frame": 694
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 694,
+                "stop_frame": 793
+            },
+            {
+                "narration_text": "Stares inside the fridge",
+                "start_frame": 793,
+                "stop_frame": 1303
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick a packet and onions from the fridge.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 694,
+                "stop_frame": 793
+            },
+            {
+                "narration_text": "Stares inside the fridge",
+                "start_frame": 793,
+                "stop_frame": 1303
+            },
+            {
+                "narration_text": "Picks a packet from the fridge",
+                "start_frame": 1303,
+                "stop_frame": 1400
+            },
+            {
+                "narration_text": "Puts the packet on the table",
+                "start_frame": 1400,
+                "stop_frame": 1500
+            },
+            {
+                "narration_text": "Picks onions from the fridge",
+                "start_frame": 1500,
+                "stop_frame": 1576
+            },
+            {
+                "narration_text": "Puts onions on the table",
+                "start_frame": 1576,
+                "stop_frame": 1688
+            }
+        ]
+    },
+    {
+        "task_goal": "Place packet and onions on the table.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a packet from the fridge",
+                "start_frame": 1303,
+                "stop_frame": 1400
+            },
+            {
+                "narration_text": "Puts the packet on the table",
+                "start_frame": 1400,
+                "stop_frame": 1500
+            },
+            {
+                "narration_text": "Picks onions from the fridge",
+                "start_frame": 1500,
+                "stop_frame": 1576
+            },
+            {
+                "narration_text": "Puts onions on the table",
+                "start_frame": 1576,
+                "stop_frame": 1688
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 1688,
+                "stop_frame": 1827
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick a tin from the fridge and place it on the table.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 1827,
+                "stop_frame": 1885
+            },
+            {
+                "narration_text": "Picks a tin from the fridge",
+                "start_frame": 1885,
+                "stop_frame": 1959
+            },
+            {
+                "narration_text": "Puts the tin on the table",
+                "start_frame": 1959,
+                "stop_frame": 1968
+            },
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 1968,
+                "stop_frame": 2060
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare the cooking utensils and ingredients on the cooker and the table.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 1968,
+                "stop_frame": 2060
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 2060,
+                "stop_frame": 2381
+            },
+            {
+                "narration_text": "Pulls out the drawer",
+                "start_frame": 2381,
+                "stop_frame": 2435
+            },
+            {
+                "narration_text": "Stares the utensils in the drawer",
+                "start_frame": 2435,
+                "stop_frame": 2520
+            },
+            {
+                "narration_text": "Picks pan from the drawer",
+                "start_frame": 2520,
+                "stop_frame": 2647
+            },
+            {
+                "narration_text": "Puts the pan on the cooker",
+                "start_frame": 2647,
+                "stop_frame": 2691
+            },
+            {
+                "narration_text": "Operates the cooker",
+                "start_frame": 2691,
+                "stop_frame": 2922
+            },
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 2922,
+                "stop_frame": 2961
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 2961,
+                "stop_frame": 3008
+            },
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 3008,
+                "stop_frame": 3060
+            },
+            {
+                "narration_text": "Picks the chop board from the drawer",
+                "start_frame": 3060,
+                "stop_frame": 3147
+            },
+            {
+                "narration_text": "Puts the chop board on the table",
+                "start_frame": 3147,
+                "stop_frame": 3162
+            },
+            {
+                "narration_text": "Picks the tin from the table",
+                "start_frame": 3162,
+                "stop_frame": 3181
+            },
+            {
+                "narration_text": "Puts the tin on the chop board",
+                "start_frame": 3181,
+                "stop_frame": 3213
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and place the pan on the cooker and operate the cooker.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 2060,
+                "stop_frame": 2381
+            },
+            {
+                "narration_text": "Pulls out the drawer",
+                "start_frame": 2381,
+                "stop_frame": 2435
+            },
+            {
+                "narration_text": "Stares the utensils in the drawer",
+                "start_frame": 2435,
+                "stop_frame": 2520
+            },
+            {
+                "narration_text": "Picks pan from the drawer",
+                "start_frame": 2520,
+                "stop_frame": 2647
+            },
+            {
+                "narration_text": "Puts the pan on the cooker",
+                "start_frame": 2647,
+                "stop_frame": 2691
+            },
+            {
+                "narration_text": "Operates the cooker",
+                "start_frame": 2691,
+                "stop_frame": 2922
+            },
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 2922,
+                "stop_frame": 2961
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick the chop board from the drawer and place it on the table.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 2961,
+                "stop_frame": 3008
+            },
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 3008,
+                "stop_frame": 3060
+            },
+            {
+                "narration_text": "Picks the chop board from the drawer",
+                "start_frame": 3060,
+                "stop_frame": 3147
+            },
+            {
+                "narration_text": "Puts the chop board on the table",
+                "start_frame": 3147,
+                "stop_frame": 3162
+            },
+            {
+                "narration_text": "Picks the tin from the table",
+                "start_frame": 3162,
+                "stop_frame": 3181
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the tin on the chop board.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the tin from the table",
+                "start_frame": 3162,
+                "stop_frame": 3181
+            },
+            {
+                "narration_text": "Puts the tin on the chop board",
+                "start_frame": 3181,
+                "stop_frame": 3213
+            },
+            {
+                "narration_text": "Opens the tin on the chop board",
+                "start_frame": 3213,
+                "stop_frame": 3279
+            }
+        ]
+    },
+    {
+        "task_goal": "Chop an unspecified ingredient on the chop board.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the tin on the chop board",
+                "start_frame": 3213,
+                "stop_frame": 3279
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 3279,
+                "stop_frame": 3336
+            },
+            {
+                "narration_text": "Picks a knife from the drawer",
+                "start_frame": 3336,
+                "stop_frame": 3361
+            },
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 3361,
+                "stop_frame": 3391
+            },
+            {
+                "narration_text": "Pours unsure on the chop board",
+                "start_frame": 3391,
+                "stop_frame": 3435
+            },
+            {
+                "narration_text": "Chops the unsure on the chop board",
+                "start_frame": 3435,
+                "stop_frame": 3789
+            },
+            {
+                "narration_text": "Puts the knife on the chop board",
+                "start_frame": 3789,
+                "stop_frame": 3844
+            },
+            {
+                "narration_text": "Closes the tin",
+                "start_frame": 3844,
+                "stop_frame": 3993
+            }
+        ]
+    },
+    {
+        "task_goal": "Chop the ingredient on the chop board.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours unsure on the chop board",
+                "start_frame": 3391,
+                "stop_frame": 3435
+            },
+            {
+                "narration_text": "Chops the unsure on the chop board",
+                "start_frame": 3435,
+                "stop_frame": 3789
+            },
+            {
+                "narration_text": "Puts the knife on the chop board",
+                "start_frame": 3789,
+                "stop_frame": 3844
+            },
+            {
+                "narration_text": "Closes the tin",
+                "start_frame": 3844,
+                "stop_frame": 3993
+            }
+        ]
+    },
+    {
+        "task_goal": "Manage onions and close the tin.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the tin",
+                "start_frame": 3844,
+                "stop_frame": 3993
+            },
+            {
+                "narration_text": "Opens the bowl with onions",
+                "start_frame": 3993,
+                "stop_frame": 4127
+            },
+            {
+                "narration_text": "Puts onions on the table",
+                "start_frame": 4127,
+                "stop_frame": 4388
+            },
+            {
+                "narration_text": "Closes the bowl with onions",
+                "start_frame": 4388,
+                "stop_frame": 4430
+            },
+            {
+                "narration_text": "Picks knife from the chop board",
+                "start_frame": 4430,
+                "stop_frame": 4498
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the bowl with onions and place them on the table.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the bowl with onions",
+                "start_frame": 3993,
+                "stop_frame": 4127
+            },
+            {
+                "narration_text": "Puts onions on the table",
+                "start_frame": 4127,
+                "stop_frame": 4388
+            },
+            {
+                "narration_text": "Closes the bowl with onions",
+                "start_frame": 4388,
+                "stop_frame": 4430
+            }
+        ]
+    },
+    {
+        "task_goal": "Close the bowl with onions.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the bowl with onions",
+                "start_frame": 4388,
+                "stop_frame": 4430
+            },
+            {
+                "narration_text": "Picks knife from the chop board",
+                "start_frame": 4430,
+                "stop_frame": 4498
+            }
+        ]
+    },
+    {
+        "task_goal": "Engage in various small tasks around the house.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks knife from the chop board",
+                "start_frame": 4430,
+                "stop_frame": 4498
+            },
+            {
+                "narration_text": "Picks a bottle from the table",
+                "start_frame": 4498,
+                "stop_frame": 4526
+            },
+            {
+                "narration_text": "Turns the lights on",
+                "start_frame": 4526,
+                "stop_frame": 4612
+            },
+            {
+                "narration_text": "Touches her leg",
+                "start_frame": 4612,
+                "stop_frame": 4703
+            },
+            {
+                "narration_text": "Picks unsure from the ground",
+                "start_frame": 4703,
+                "stop_frame": 4763
+            },
+            {
+                "narration_text": "Opens the kitchen cupboard",
+                "start_frame": 4763,
+                "stop_frame": 4827
+            },
+            {
+                "narration_text": "Puts the unsure in the paper bag",
+                "start_frame": 4827,
+                "stop_frame": 4968
+            },
+            {
+                "narration_text": "Closes the kitchen cupboard",
+                "start_frame": 4968,
+                "stop_frame": 5015
+            },
+            {
+                "narration_text": "Turns the tap on",
+                "start_frame": 5015,
+                "stop_frame": 5021
+            },
+            {
+                "narration_text": "Rinses the lid",
+                "start_frame": 5021,
+                "stop_frame": 5069
+            },
+            {
+                "narration_text": "Puts the lid on the table",
+                "start_frame": 5069,
+                "stop_frame": 5107
+            },
+            {
+                "narration_text": "Walks around the house",
+                "start_frame": 5107,
+                "stop_frame": 5295
+            },
+            {
+                "narration_text": "Operates phone",
+                "start_frame": 5295,
+                "stop_frame": 5395
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick a bottle from the table and turn on the lights.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a bottle from the table",
+                "start_frame": 4498,
+                "stop_frame": 4526
+            },
+            {
+                "narration_text": "Turns the lights on",
+                "start_frame": 4526,
+                "stop_frame": 4612
+            },
+            {
+                "narration_text": "Touches her leg",
+                "start_frame": 4612,
+                "stop_frame": 4703
+            },
+            {
+                "narration_text": "Picks unsure from the ground",
+                "start_frame": 4703,
+                "stop_frame": 4763
+            }
+        ]
+    },
+    {
+        "task_goal": "Engage in small tasks around the kitchen, including rinsing the lid and closing the kitchen cupboard.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks unsure from the ground",
+                "start_frame": 4703,
+                "stop_frame": 4763
+            },
+            {
+                "narration_text": "Opens the kitchen cupboard",
+                "start_frame": 4763,
+                "stop_frame": 4827
+            },
+            {
+                "narration_text": "Puts the unsure in the paper bag",
+                "start_frame": 4827,
+                "stop_frame": 4968
+            },
+            {
+                "narration_text": "Closes the kitchen cupboard",
+                "start_frame": 4968,
+                "stop_frame": 5015
+            },
+            {
+                "narration_text": "Turns the tap on",
+                "start_frame": 5015,
+                "stop_frame": 5021
+            },
+            {
+                "narration_text": "Rinses the lid",
+                "start_frame": 5021,
+                "stop_frame": 5069
+            },
+            {
+                "narration_text": "Puts the lid on the table",
+                "start_frame": 5069,
+                "stop_frame": 5107
+            },
+            {
+                "narration_text": "Walks around the house",
+                "start_frame": 5107,
+                "stop_frame": 5295
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk around the house and operate the phone.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the house",
+                "start_frame": 5107,
+                "stop_frame": 5295
+            },
+            {
+                "narration_text": "Operates phone",
+                "start_frame": 5295,
+                "stop_frame": 5395
+            }
+        ]
+    }
+]

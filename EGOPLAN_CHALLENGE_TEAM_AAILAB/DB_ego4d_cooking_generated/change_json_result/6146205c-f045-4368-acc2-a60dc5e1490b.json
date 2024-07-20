@@ -1,0 +1,136 @@
+{
+    "overall_goal": "Prepare and cook parsnip and meat dish",
+    "clips": [
+        {
+            "subgoal": "Prepare the parsnip",
+            "start_timestamp": 55,
+            "stop_timestamp": 10915,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and place parsnip",
+                    "start_timestamp": 55,
+                    "stop_timestamp": 241
+                },
+                {
+                    "secondary_subgoal": "Prepare foil and knife",
+                    "start_timestamp": 361,
+                    "stop_timestamp": 1354
+                },
+                {
+                    "secondary_subgoal": "Wash the knife",
+                    "start_timestamp": 1314,
+                    "stop_timestamp": 1691
+                },
+                {
+                    "secondary_subgoal": "Complete knife washing and drying",
+                    "start_timestamp": 1691,
+                    "stop_timestamp": 1948
+                },
+                {
+                    "secondary_subgoal": "Prepare the peeler",
+                    "start_timestamp": 1948,
+                    "stop_timestamp": 2221
+                },
+                {
+                    "secondary_subgoal": "Wash and clean peeler",
+                    "start_timestamp": 2221,
+                    "stop_timestamp": 3196
+                },
+                {
+                    "secondary_subgoal": "Dry and put down peeler",
+                    "start_timestamp": 3196,
+                    "stop_timestamp": 3756
+                },
+                {
+                    "secondary_subgoal": "Prepare and wash parsnip",
+                    "start_timestamp": 3928,
+                    "stop_timestamp": 5355
+                },
+                {
+                    "secondary_subgoal": "Wash a cup",
+                    "start_timestamp": 5355,
+                    "stop_timestamp": 5813
+                },
+                {
+                    "secondary_subgoal": "Wash and cut parsnip",
+                    "start_timestamp": 5879,
+                    "stop_timestamp": 6357
+                },
+                {
+                    "secondary_subgoal": "Peel and prepare parsnip",
+                    "start_timestamp": 6357,
+                    "stop_timestamp": 7967
+                },
+                {
+                    "secondary_subgoal": "Wash and cut parsnip",
+                    "start_timestamp": 7973,
+                    "stop_timestamp": 10915
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare necessary utensils and workspace",
+            "start_timestamp": 11343,
+            "stop_timestamp": 18901,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fetch water in a cup",
+                    "start_timestamp": 11343,
+                    "stop_timestamp": 11525
+                },
+                {
+                    "secondary_subgoal": "Wash cooking utensils",
+                    "start_timestamp": 11914,
+                    "stop_timestamp": 12131
+                },
+                {
+                    "secondary_subgoal": "Prepare foil for cooking",
+                    "start_timestamp": 12335,
+                    "stop_timestamp": 12749
+                },
+                {
+                    "secondary_subgoal": "Prepare microwave and utensil movements",
+                    "start_timestamp": 13046,
+                    "stop_timestamp": 14861
+                },
+                {
+                    "secondary_subgoal": "Prepare and store meat",
+                    "start_timestamp": 14861,
+                    "stop_timestamp": 15748
+                },
+                {
+                    "secondary_subgoal": "Fetch and prepare knives",
+                    "start_timestamp": 15784,
+                    "stop_timestamp": 16472
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook parsnip",
+            "start_timestamp": 19133,
+            "stop_timestamp": 21257,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare cooking oil",
+                    "start_timestamp": 19133,
+                    "stop_timestamp": 19597
+                },
+                {
+                    "secondary_subgoal": "Turn and cook parsnip",
+                    "start_timestamp": 19597,
+                    "stop_timestamp": 20284
+                },
+                {
+                    "secondary_subgoal": "Bracket dishware",
+                    "start_timestamp": 20284,
+                    "stop_timestamp": 20807
+                },
+                {
+                    "secondary_subgoal": "Reconfigure dishware",
+                    "start_timestamp": 20807,
+                    "stop_timestamp": 21257
+                }
+            ]
+        }
+    ]
+}

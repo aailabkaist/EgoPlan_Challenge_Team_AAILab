@@ -1,0 +1,112 @@
+{
+    "overall_goal": "Preparing and cooking a meal.",
+    "clips": [
+        {
+            "subgoal": "Cooking and stirring the eggs",
+            "start_timestamp": "0",
+            "stop_timestamp": "1841",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Holding and stirring the eggs in the pan",
+                    "start_timestamp": "0",
+                    "stop_timestamp": "664"
+                },
+                {
+                    "secondary_subgoal": "Continuing stirring and shaking eggs",
+                    "start_timestamp": "664",
+                    "stop_timestamp": "1520"
+                },
+                {
+                    "secondary_subgoal": "Collecting, spreading and arranging eggs",
+                    "start_timestamp": "1520",
+                    "stop_timestamp": "1841"
+                }
+            ]
+        },
+        {
+            "subgoal": "Finishing egg preparation and cleaning the pan",
+            "start_timestamp": "1841",
+            "stop_timestamp": "2821",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Finishing plating the eggs and turning off the cooker",
+                    "start_timestamp": "1841",
+                    "stop_timestamp": "2296"
+                },
+                {
+                    "secondary_subgoal": "Cleaning the pan using serviette",
+                    "start_timestamp": "2296",
+                    "stop_timestamp": "2821"
+                }
+            ]
+        },
+        {
+            "subgoal": "Setting up and cooking steak rolls and leek onions",
+            "start_timestamp": "2821",
+            "stop_timestamp": "5651",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Smearing oil and adding steak rolls to the pan",
+                    "start_timestamp": "2821",
+                    "stop_timestamp": "4355"
+                },
+                {
+                    "secondary_subgoal": "Turning and stirring steak rolls and leek onions in the pan",
+                    "start_timestamp": "4355",
+                    "stop_timestamp": "5651"
+                }
+            ]
+        },
+        {
+            "subgoal": "Completing the steak rolls and leek onions preparation",
+            "start_timestamp": "5651",
+            "stop_timestamp": "8600",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Finalizing cooking by stirring and turning steak rolls",
+                    "start_timestamp": "5651",
+                    "stop_timestamp": "7672"
+                },
+                {
+                    "secondary_subgoal": "Switching and stirring with chopsticks, adding steak to the pan",
+                    "start_timestamp": "7672",
+                    "stop_timestamp": "8600"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning and organizing the kitchen",
+            "start_timestamp": "8600",
+            "stop_timestamp": "10134",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walking around and organizing items in the kitchen",
+                    "start_timestamp": "8600",
+                    "stop_timestamp": "9207"
+                },
+                {
+                    "secondary_subgoal": "Handling cheese: cutting and adding to the pan",
+                    "start_timestamp": "9207",
+                    "stop_timestamp": "10134"
+                }
+            ]
+        },
+        {
+            "subgoal": "Final cooking and seasoning of meat sticks",
+            "start_timestamp": "10134",
+            "stop_timestamp": "11924",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring meat sticks in the pan with chopsticks",
+                    "start_timestamp": "10134",
+                    "stop_timestamp": "10812"
+                },
+                {
+                    "secondary_subgoal": "Sprinkling spice, adjusting pan and cooker, looking around",
+                    "start_timestamp": "10812",
+                    "stop_timestamp": "11924"
+                }
+            ]
+        }
+    ]
+}

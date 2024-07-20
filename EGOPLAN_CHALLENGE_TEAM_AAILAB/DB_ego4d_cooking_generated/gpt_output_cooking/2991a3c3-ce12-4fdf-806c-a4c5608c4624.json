@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehBvL1rJo64JxxjB58tgJwlYBXfY",
+    "object": "chat.completion",
+    "created": 1719486175,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and cooking a meal involving garlic, eggs, milk, cabbage, and various spices.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Gathering and preparing initial ingredients\",\n      \"start_timestamp\": 271,\n      \"stop_timestamp\": 7091,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Fixing the camera and gathering tools\",\n          \"start_timestamp\": 143,\n          \"stop_timestamp\": 366\n        },\n        {\n          \"secondary_subgoal\": \"Handling garlic - chopping and preparing\",\n          \"start_timestamp\": 429,\n          \"stop_timestamp\": 2429\n        },\n        {\n          \"secondary_subgoal\": \"Handling eggs - breaking and mixing with milk\",\n          \"start_timestamp\": 2429,\n          \"stop_timestamp\": 3730\n        },\n        {\n          \"secondary_subgoal\": \"Preparing oil and cookware\",\n          \"start_timestamp\": 3730,\n          \"stop_timestamp\": 4414\n        },\n        {\n          \"secondary_subgoal\": \"Mixing and beating the egg mixture\",\n          \"start_timestamp\": 4414,\n          \"stop_timestamp\": 4800\n        },\n        {\n          \"secondary_subgoal\": \"Cooking egg mixture in the pan\",\n          \"start_timestamp\": 4800,\n          \"stop_timestamp\": 6558\n        },\n        {\n          \"secondary_subgoal\": \"Final stir and adjustment of egg mixture\",\n          \"start_timestamp\": 6558,\n          \"stop_timestamp\": 7091\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing cabbage and additional garlic\",\n      \"start_timestamp\": 7091,\n      \"stop_timestamp\": 11269,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handling cabbage - cleaning and preparing\",\n          \"start_timestamp\": 8569,\n          \"stop_timestamp\": 10455\n        },\n        {\n          \"secondary_subgoal\": \"Cooking cabbage in the pan\",\n          \"start_timestamp\": 10455,\n          \"stop_timestamp\": 11269\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Seasoning and final mixing of ingredients\",\n      \"start_timestamp\": 11269,\n      \"stop_timestamp\": 18688,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Adding various spices to the pan\",\n          \"start_timestamp\": 17256,\n          \"stop_timestamp\": 17780\n        },\n        {\n          \"secondary_subgoal\": \"Final stirs and adjustments with spices\",\n          \"start_timestamp\": 18356,\n          \"stop_timestamp\": 18688\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Checking food taste and cleaning up\",\n      \"start_timestamp\": 18688,\n      \"stop_timestamp\": 21172,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Tasting and finalizing texture and taste\",\n          \"start_timestamp\": 18997,\n          \"stop_timestamp\": 19891\n        },\n        {\n          \"secondary_subgoal\": \"Preparing for the next step - cleaning and organizing\",\n          \"start_timestamp\": 20018,\n          \"stop_timestamp\": 21172\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4176,
+        "completion_tokens": 685,
+        "total_tokens": 4861
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

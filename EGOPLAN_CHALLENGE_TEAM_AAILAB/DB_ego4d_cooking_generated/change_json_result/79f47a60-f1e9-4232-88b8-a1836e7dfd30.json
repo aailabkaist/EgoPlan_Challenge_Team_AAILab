@@ -1,0 +1,192 @@
+{
+    "overall_goal": "Prepare a dish using ingredients and kitchen utensils.",
+    "clips": [
+        {
+            "subgoal": "Prepare hands and initial equipment for cooking",
+            "start_timestamp": 42,
+            "stop_timestamp": 996,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Enter the house",
+                    "start_timestamp": 42,
+                    "stop_timestamp": 124
+                },
+                {
+                    "secondary_subgoal": "Wash hands with water and soap",
+                    "start_timestamp": 124,
+                    "stop_timestamp": 996
+                }
+            ]
+        },
+        {
+            "subgoal": "Setup cooking station with necessary utensils and ingredients",
+            "start_timestamp": 996,
+            "stop_timestamp": 1975,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up and set packets",
+                    "start_timestamp": 996,
+                    "stop_timestamp": 1504
+                },
+                {
+                    "secondary_subgoal": "Prepare and fill cooking pot with water",
+                    "start_timestamp": 1593,
+                    "stop_timestamp": 1918
+                },
+                {
+                    "secondary_subgoal": "Heat the cooking pot on the gas cooker",
+                    "start_timestamp": 1918,
+                    "stop_timestamp": 1975
+                }
+            ]
+        },
+        {
+            "subgoal": "Process cucumber and add to cooking pot",
+            "start_timestamp": 2019,
+            "stop_timestamp": 8804,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare cucumber",
+                    "start_timestamp": 2906,
+                    "stop_timestamp": 3475
+                },
+                {
+                    "secondary_subgoal": "Cut cucumber",
+                    "start_timestamp": 3503,
+                    "stop_timestamp": 3836
+                },
+                {
+                    "secondary_subgoal": "Store cucumber back in fridge",
+                    "start_timestamp": 3836,
+                    "stop_timestamp": 4063
+                },
+                {
+                    "secondary_subgoal": "Clean cucumber",
+                    "start_timestamp": 4133,
+                    "stop_timestamp": 4360
+                },
+                {
+                    "secondary_subgoal": "Cut cucumber into pieces",
+                    "start_timestamp": 4430,
+                    "stop_timestamp": 5549
+                },
+                {
+                    "secondary_subgoal": "Add cucumber to cooking pot",
+                    "start_timestamp": 5549,
+                    "stop_timestamp": 5759
+                },
+                {
+                    "secondary_subgoal": "Prepare other ingredients",
+                    "start_timestamp": 5759,
+                    "stop_timestamp": 6086
+                },
+                {
+                    "secondary_subgoal": "Add ingredients to cooking pot",
+                    "start_timestamp": 6440,
+                    "stop_timestamp": 6487
+                },
+                {
+                    "secondary_subgoal": "Get measuring cup and fill with water",
+                    "start_timestamp": 6487,
+                    "stop_timestamp": 6686
+                },
+                {
+                    "secondary_subgoal": "Pour water into cooking pot & stir",
+                    "start_timestamp": 6686,
+                    "stop_timestamp": 8010
+                },
+                {
+                    "secondary_subgoal": "Add ice cubes to cooking pot",
+                    "start_timestamp": 8114,
+                    "stop_timestamp": 8353
+                },
+                {
+                    "secondary_subgoal": "Final stirring of cucumbers in cooking pot",
+                    "start_timestamp": 8397,
+                    "stop_timestamp": 8763
+                },
+                {
+                    "secondary_subgoal": "Place cooking pot in fridge",
+                    "start_timestamp": 8763,
+                    "stop_timestamp": 9023
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare herbs and vegetables",
+            "start_timestamp": 9201,
+            "stop_timestamp": 11989,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Organize packets and pick leaves",
+                    "start_timestamp": 9201,
+                    "stop_timestamp": 10294
+                },
+                {
+                    "secondary_subgoal": "Cut leaves and place in saucer",
+                    "start_timestamp": 10431,
+                    "stop_timestamp": 11926
+                },
+                {
+                    "secondary_subgoal": "Clean up hands & utensils",
+                    "start_timestamp": 11926,
+                    "stop_timestamp": 11989
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare pasta and other ingredients",
+            "start_timestamp": 12274,
+            "stop_timestamp": 17832,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and unwrap pasta",
+                    "start_timestamp": 12274,
+                    "stop_timestamp": 13156
+                },
+                {
+                    "secondary_subgoal": "Add pasta to cooking pot and start cooking",
+                    "start_timestamp": 13352,
+                    "stop_timestamp": 13580
+                },
+                {
+                    "secondary_subgoal": "Stir pasta with chopsticks",
+                    "start_timestamp": 13717,
+                    "stop_timestamp": 15924
+                },
+                {
+                    "secondary_subgoal": "Prepare additional ingredients and add to microwave",
+                    "start_timestamp": 14366,
+                    "stop_timestamp": 15324
+                },
+                {
+                    "secondary_subgoal": "Continue stirring pasta and adjust cooking settings",
+                    "start_timestamp": 15420,
+                    "stop_timestamp": 17403
+                }
+            ]
+        },
+        {
+            "subgoal": "Final cleaning and preparation of cooking station",
+            "start_timestamp": 17832,
+            "stop_timestamp": 21339,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean chopping board and utensils",
+                    "start_timestamp": 18307,
+                    "stop_timestamp": 19973
+                },
+                {
+                    "secondary_subgoal": "Organize and clean microwave area",
+                    "start_timestamp": 20223,
+                    "stop_timestamp": 20491
+                },
+                {
+                    "secondary_subgoal": "Handle final ingredient preparation",
+                    "start_timestamp": 20812,
+                    "stop_timestamp": 21339
+                }
+            ]
+        }
+    ]
+}

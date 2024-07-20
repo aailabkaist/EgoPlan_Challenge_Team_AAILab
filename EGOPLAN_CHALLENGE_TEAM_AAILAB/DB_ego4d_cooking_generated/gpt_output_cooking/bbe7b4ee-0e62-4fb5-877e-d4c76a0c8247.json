@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egJRj4Y8iUr61KiPhGK5aCtKcwSu",
+    "object": "chat.completion",
+    "created": 1719482797,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cook the food on the pan\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare and cook food\",\n      \"start_timestamp\": 132,\n      \"stop_timestamp\": 3772,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Fire food on the pan\",\n          \"start_timestamp\": 132,\n          \"stop_timestamp\": 388\n        },\n        {\n          \"secondary_subgoal\": \"Mix food on the pan\",\n          \"start_timestamp\": 388,\n          \"stop_timestamp\": 637\n        },\n        {\n          \"secondary_subgoal\": \"Leave spoon on the pan\",\n          \"start_timestamp\": 637,\n          \"stop_timestamp\": 671\n        },\n        {\n          \"secondary_subgoal\": \"Look at the food on the pan\",\n          \"start_timestamp\": 671,\n          \"stop_timestamp\": 818\n        },\n        {\n          \"secondary_subgoal\": \"Switch the gas\",\n          \"start_timestamp\": 818,\n          \"stop_timestamp\": 888\n        },\n        {\n          \"secondary_subgoal\": \"Mix food on the pan\",\n          \"start_timestamp\": 888,\n          \"stop_timestamp\": 1110\n        },\n        {\n          \"secondary_subgoal\": \"Leave spoon on the pan\",\n          \"start_timestamp\": 1110,\n          \"stop_timestamp\": 1304\n        },\n        {\n          \"secondary_subgoal\": \"Look at the food on the pan\",\n          \"start_timestamp\": 1304,\n          \"stop_timestamp\": 1392\n        },\n        {\n          \"secondary_subgoal\": \"Mix food on the pan\",\n          \"start_timestamp\": 1392,\n          \"stop_timestamp\": 1672\n        },\n        {\n          \"secondary_subgoal\": \"Leave spoon on the pan\",\n          \"start_timestamp\": 1672,\n          \"stop_timestamp\": 1742\n        },\n        {\n          \"secondary_subgoal\": \"Fix the camera\",\n          \"start_timestamp\": 1742,\n          \"stop_timestamp\": 1819\n        },\n        {\n          \"secondary_subgoal\": \"Mix food on the pan\",\n          \"start_timestamp\": 1819,\n          \"stop_timestamp\": 3362\n        },\n        {\n          \"secondary_subgoal\": \"Look at the food on the pan\",\n          \"start_timestamp\": 3362,\n          \"stop_timestamp\": 3672\n        },\n        {\n          \"secondary_subgoal\": \"Fix the camera\",\n          \"start_timestamp\": 3672,\n          \"stop_timestamp\": 3772\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 493,
+        "completion_tokens": 546,
+        "total_tokens": 1039
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

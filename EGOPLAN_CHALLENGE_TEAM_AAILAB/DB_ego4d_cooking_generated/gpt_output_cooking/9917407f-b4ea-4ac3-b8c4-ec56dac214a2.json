@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efHbBGGfVQRcOpAHbZN3VL1wcRZS",
+    "object": "chat.completion",
+    "created": 1719478839,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Fold multiple papers and magazines\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Fold multiple sheets of paper\",\n      \"start_timestamp\": 31755,\n      \"stop_timestamp\": 55558,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Fold individual sheets of paper\",\n          \"start_timestamp\": 31755,\n          \"stop_timestamp\": 39036\n        },\n        {\n          \"secondary_subgoal\": \"Pick and hold folded sheets of paper\",\n          \"start_timestamp\": 39115,\n          \"stop_timestamp\": 40017\n        },\n        {\n          \"secondary_subgoal\": \"Fold multiple sheets in succession\",\n          \"start_timestamp\": 41830,\n          \"stop_timestamp\": 48048\n        },\n        {\n          \"secondary_subgoal\": \"Pick and hold folded sheets of paper\",\n          \"start_timestamp\": 48105,\n          \"stop_timestamp\": 49704\n        },\n        {\n          \"secondary_subgoal\": \"Fold individual sheets of paper\",\n          \"start_timestamp\": 49704,\n          \"stop_timestamp\": 55558\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Fold and handle magazines\",\n      \"start_timestamp\": 56737,\n      \"stop_timestamp\": 59922,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Fold and handle magazine on the floor\",\n          \"start_timestamp\": 56737,\n          \"stop_timestamp\": 60188\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Fold magazines again and final action\",\n      \"start_timestamp\": 60220,\n      \"stop_timestamp\": 63337,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Continuing to fold magazines on the floor\",\n          \"start_timestamp\": 62413,\n          \"stop_timestamp\": 63337\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2953,
+        "completion_tokens": 408,
+        "total_tokens": 3361
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

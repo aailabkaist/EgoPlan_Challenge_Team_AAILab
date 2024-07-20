@@ -1,0 +1,237 @@
+{
+    "overall_goal": "Prepare a meal by adding ingredients, stirring, adjusting heat, and cooking in a kitchen pot.",
+    "clips": [
+        {
+            "subgoal": "Initial meal preparation and ingredient stirring",
+            "start_timestamp": 0,
+            "stop_timestamp": 3276,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir with chopsticks",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 136
+                },
+                {
+                    "secondary_subgoal": "Handle chopsticks and unknown items",
+                    "start_timestamp": 136,
+                    "stop_timestamp": 475
+                },
+                {
+                    "secondary_subgoal": "Look at and drop items",
+                    "start_timestamp": 475,
+                    "stop_timestamp": 526
+                },
+                {
+                    "secondary_subgoal": "Manipulate items from drawers",
+                    "start_timestamp": 526,
+                    "stop_timestamp": 714
+                },
+                {
+                    "secondary_subgoal": "Try different utensils",
+                    "start_timestamp": 714,
+                    "stop_timestamp": 1425
+                },
+                {
+                    "secondary_subgoal": "Adjust heat and work with tins",
+                    "start_timestamp": 1425,
+                    "stop_timestamp": 1610
+                },
+                {
+                    "secondary_subgoal": "Add unknown items to cooking pot",
+                    "start_timestamp": 1610,
+                    "stop_timestamp": 1878
+                },
+                {
+                    "secondary_subgoal": "Add items and read labels",
+                    "start_timestamp": 1878,
+                    "stop_timestamp": 2224
+                },
+                {
+                    "secondary_subgoal": "Stir with chopsticks",
+                    "start_timestamp": 2224,
+                    "stop_timestamp": 3205
+                },
+                {
+                    "secondary_subgoal": "Handle box of wine",
+                    "start_timestamp": 3205,
+                    "stop_timestamp": 3276
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding wine and stirring",
+            "start_timestamp": 3276,
+            "stop_timestamp": 3959,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and handle wine",
+                    "start_timestamp": 3276,
+                    "stop_timestamp": 3444
+                },
+                {
+                    "secondary_subgoal": "Pour wine and handle box",
+                    "start_timestamp": 3444,
+                    "stop_timestamp": 3570
+                }
+            ]
+        },
+        {
+            "subgoal": "Stirring and adjusting heat",
+            "start_timestamp": 3959,
+            "stop_timestamp": 5648,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir with chopsticks",
+                    "start_timestamp": 3959,
+                    "stop_timestamp": 4972
+                },
+                {
+                    "secondary_subgoal": "Adjust heat and taste",
+                    "start_timestamp": 4972,
+                    "stop_timestamp": 5463
+                },
+                {
+                    "secondary_subgoal": "Taste and add water",
+                    "start_timestamp": 5463,
+                    "stop_timestamp": 5921
+                },
+                {
+                    "secondary_subgoal": "Stir and stop",
+                    "start_timestamp": 5921,
+                    "stop_timestamp": 6461
+                }
+            ]
+        },
+        {
+            "subgoal": "Working with sieves and tins",
+            "start_timestamp": 6461,
+            "stop_timestamp": 8046,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and transfer potatoes with sieve",
+                    "start_timestamp": 6461,
+                    "stop_timestamp": 6888
+                },
+                {
+                    "secondary_subgoal": "Grab and add potatoes",
+                    "start_timestamp": 6888,
+                    "stop_timestamp": 7477
+                },
+                {
+                    "secondary_subgoal": "Rinse tins and sieve",
+                    "start_timestamp": 7477,
+                    "stop_timestamp": 7729
+                },
+                {
+                    "secondary_subgoal": "Rinse hands and dry with towel",
+                    "start_timestamp": 7729,
+                    "stop_timestamp": 8074
+                }
+            ]
+        },
+        {
+            "subgoal": "Continuing cooking with stir and heat adjustments",
+            "start_timestamp": 8074,
+            "stop_timestamp": 17008,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring with chopsticks",
+                    "start_timestamp": 8074,
+                    "stop_timestamp": 8541
+                },
+                {
+                    "secondary_subgoal": "Handling vinegar and soy sauce",
+                    "start_timestamp": 8541,
+                    "stop_timestamp": 9598
+                },
+                {
+                    "secondary_subgoal": "Add and adjust ingredient",
+                    "start_timestamp": 9598,
+                    "stop_timestamp": 10488
+                },
+                {
+                    "secondary_subgoal": "Wash and reposition items in sink",
+                    "start_timestamp": 10488,
+                    "stop_timestamp": 10987
+                },
+                {
+                    "secondary_subgoal": "Stirring the food",
+                    "start_timestamp": 10987,
+                    "stop_timestamp": 11727
+                },
+                {
+                    "secondary_subgoal": "Cover pot and touch drawer",
+                    "start_timestamp": 11727,
+                    "stop_timestamp": 12117
+                },
+                {
+                    "secondary_subgoal": "Washing utensils and cleaning sink",
+                    "start_timestamp": 12117,
+                    "stop_timestamp": 14844
+                },
+                {
+                    "secondary_subgoal": "Handling bottles and fridge",
+                    "start_timestamp": 14844,
+                    "stop_timestamp": 15709
+                },
+                {
+                    "secondary_subgoal": "Stir food and add mushrooms",
+                    "start_timestamp": 15709,
+                    "stop_timestamp": 16365
+                },
+                {
+                    "secondary_subgoal": "Stir food and taste",
+                    "start_timestamp": 16365,
+                    "stop_timestamp": 17008
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling final ingredients and cooking",
+            "start_timestamp": 17008,
+            "stop_timestamp": 21339,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjust heat and add water",
+                    "start_timestamp": 17008,
+                    "stop_timestamp": 17209
+                },
+                {
+                    "secondary_subgoal": "Stir and drop chopsticks",
+                    "start_timestamp": 17209,
+                    "stop_timestamp": 18061
+                },
+                {
+                    "secondary_subgoal": "Add unknown ingredients",
+                    "start_timestamp": 18061,
+                    "stop_timestamp": 18944
+                },
+                {
+                    "secondary_subgoal": "Cover pot and walk",
+                    "start_timestamp": 18944,
+                    "stop_timestamp": 19467
+                },
+                {
+                    "secondary_subgoal": "Handle and remove items",
+                    "start_timestamp": 19467,
+                    "stop_timestamp": 20135
+                },
+                {
+                    "secondary_subgoal": "Open and close drawers",
+                    "start_timestamp": 20135,
+                    "stop_timestamp": 20781
+                },
+                {
+                    "secondary_subgoal": "Stir food and handle soup spoon",
+                    "start_timestamp": 20781,
+                    "stop_timestamp": 21231
+                },
+                {
+                    "secondary_subgoal": "Rinsing chopsticks",
+                    "start_timestamp": 21231,
+                    "stop_timestamp": 21339
+                }
+            ]
+        }
+    ]
+}

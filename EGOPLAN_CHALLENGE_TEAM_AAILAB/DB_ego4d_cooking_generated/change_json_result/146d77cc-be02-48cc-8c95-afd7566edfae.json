@@ -1,0 +1,160 @@
+{
+    "overall_goal": "Prepare and serve a meal",
+    "clips": [
+        {
+            "subgoal": "Cook food in the pot",
+            "start_timestamp": 0,
+            "stop_timestamp": 1134,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold key cooking tools",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 44
+                },
+                {
+                    "secondary_subgoal": "Stir the food",
+                    "start_timestamp": 44,
+                    "stop_timestamp": 589
+                },
+                {
+                    "secondary_subgoal": "Take a bowl",
+                    "start_timestamp": 589,
+                    "stop_timestamp": 644
+                },
+                {
+                    "secondary_subgoal": "Stir sauce",
+                    "start_timestamp": 644,
+                    "stop_timestamp": 770
+                },
+                {
+                    "secondary_subgoal": "Add sauce to the food",
+                    "start_timestamp": 770,
+                    "stop_timestamp": 904
+                },
+                {
+                    "secondary_subgoal": "Scoop food",
+                    "start_timestamp": 904,
+                    "stop_timestamp": 983
+                },
+                {
+                    "secondary_subgoal": "Put food in the bowl",
+                    "start_timestamp": 983,
+                    "stop_timestamp": 1013
+                },
+                {
+                    "secondary_subgoal": "Pour food in the cooking pot",
+                    "start_timestamp": 1013,
+                    "stop_timestamp": 1134
+                }
+            ]
+        },
+        {
+            "subgoal": "Continue cooking and manage ingredients",
+            "start_timestamp": 1134,
+            "stop_timestamp": 2821,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir the food",
+                    "start_timestamp": 1134,
+                    "stop_timestamp": 1192
+                },
+                {
+                    "secondary_subgoal": "Take and stir with chopstick",
+                    "start_timestamp": 1192,
+                    "stop_timestamp": 2327
+                },
+                {
+                    "secondary_subgoal": "Scoop vegetable",
+                    "start_timestamp": 2327,
+                    "stop_timestamp": 2494
+                },
+                {
+                    "secondary_subgoal": "Put down chopstick and stir",
+                    "start_timestamp": 2494,
+                    "stop_timestamp": 2750
+                },
+                {
+                    "secondary_subgoal": "Take and scoop with chopstick",
+                    "start_timestamp": 2750,
+                    "stop_timestamp": 2801
+                },
+                {
+                    "secondary_subgoal": "Wipe the cooker",
+                    "start_timestamp": 2801,
+                    "stop_timestamp": 2837
+                }
+            ]
+        },
+        {
+            "subgoal": "Manage the fridge and add sauce",
+            "start_timestamp": 2837,
+            "stop_timestamp": 3195,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Get a bottle from the fridge",
+                    "start_timestamp": 2837,
+                    "stop_timestamp": 2947
+                },
+                {
+                    "secondary_subgoal": "Open the bottle and add sauce",
+                    "start_timestamp": 2947,
+                    "stop_timestamp": 3122
+                },
+                {
+                    "secondary_subgoal": "Put down the bottle",
+                    "start_timestamp": 3122,
+                    "stop_timestamp": 3195
+                }
+            ]
+        },
+        {
+            "subgoal": "Final steps of cooking and serving",
+            "start_timestamp": 3195,
+            "stop_timestamp": 6576,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir the food and scoop vegetable",
+                    "start_timestamp": 3195,
+                    "stop_timestamp": 4139
+                },
+                {
+                    "secondary_subgoal": "Put down chopstick and stir",
+                    "start_timestamp": 4139,
+                    "stop_timestamp": 4546
+                },
+                {
+                    "secondary_subgoal": "Manage sauce bottle",
+                    "start_timestamp": 4546,
+                    "stop_timestamp": 4785
+                },
+                {
+                    "secondary_subgoal": "Walk to the cooker and stir food",
+                    "start_timestamp": 4785,
+                    "stop_timestamp": 5122
+                },
+                {
+                    "secondary_subgoal": "Manage cleaning tasks",
+                    "start_timestamp": 5122,
+                    "stop_timestamp": 6576
+                }
+            ]
+        },
+        {
+            "subgoal": "Finishing touches and storage",
+            "start_timestamp": 6576,
+            "stop_timestamp": 6815,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wipe hand and manage bottle",
+                    "start_timestamp": 6576,
+                    "stop_timestamp": 6715
+                },
+                {
+                    "secondary_subgoal": "Close the fridge",
+                    "start_timestamp": 6715,
+                    "stop_timestamp": 6815
+                }
+            ]
+        }
+    ]
+}

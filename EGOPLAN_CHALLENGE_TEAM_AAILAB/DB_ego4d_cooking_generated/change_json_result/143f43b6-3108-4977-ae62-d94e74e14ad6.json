@@ -1,0 +1,56 @@
+{
+    "overall_goal": "Completing a meeting or discussion with written documents and camera adjustments.",
+    "clips": [
+        {
+            "subgoal": "Raising hands and acknowledging each other.",
+            "start_timestamp": 129,
+            "stop_timestamp": 216,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Raising hands by different individuals.",
+                    "start_timestamp": 129,
+                    "stop_timestamp": 216
+                }
+            ]
+        },
+        {
+            "subgoal": "Introduction and settling down for discussion.",
+            "start_timestamp": 216,
+            "stop_timestamp": 487,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Shaking hands.",
+                    "start_timestamp": 216,
+                    "stop_timestamp": 303
+                },
+                {
+                    "secondary_subgoal": "Standing up.",
+                    "start_timestamp": 303,
+                    "stop_timestamp": 361
+                },
+                {
+                    "secondary_subgoal": "Pointing at the paper.",
+                    "start_timestamp": 361,
+                    "stop_timestamp": 487
+                }
+            ]
+        },
+        {
+            "subgoal": "Adjusting the camera.",
+            "start_timestamp": 487,
+            "stop_timestamp": 732,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Shaking hands.",
+                    "start_timestamp": 487,
+                    "stop_timestamp": 542
+                },
+                {
+                    "secondary_subgoal": "Adjusting the camera by different individuals.",
+                    "start_timestamp": 542,
+                    "stop_timestamp": 732
+                }
+            ]
+        }
+    ]
+}

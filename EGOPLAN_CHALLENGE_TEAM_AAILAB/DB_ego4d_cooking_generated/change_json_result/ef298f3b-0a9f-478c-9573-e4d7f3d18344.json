@@ -1,0 +1,78 @@
+{
+    "overall_goal": "Prepare and clean vegetables for cooking by plucking leaves from stalks, cutting vegetables, and organizing them into bowls and trays.",
+    "clips": [
+        {
+            "subgoal": "Pluck leaves from leafstalks and place them in the cooking pot",
+            "start_timestamp": 0,
+            "stop_timestamp": 6771,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pluck leaves from the stalk and place them in the cooking pot",
+                    "start_timestamp": 59,
+                    "stop_timestamp": 6523
+                },
+                {
+                    "secondary_subgoal": "Pluck leaves and clean the vegetable twig",
+                    "start_timestamp": 6523,
+                    "stop_timestamp": 6771
+                }
+            ]
+        },
+        {
+            "subgoal": "Prune leaves from stems and place them in a bowl",
+            "start_timestamp": 6812,
+            "stop_timestamp": 32175,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prune leaves from the stem and place them in the bowl",
+                    "start_timestamp": 6812,
+                    "stop_timestamp": 34808
+                },
+                {
+                    "secondary_subgoal": "Prepare vegetables by wiping and shifting stems and placing them in the bowl",
+                    "start_timestamp": 34808,
+                    "stop_timestamp": 35173
+                },
+                {
+                    "secondary_subgoal": "Picking and preparing vegetables in the bowl",
+                    "start_timestamp": 35173,
+                    "stop_timestamp": 32175
+                }
+            ]
+        },
+        {
+            "subgoal": "Remove leaves from stalks and place them in a tray",
+            "start_timestamp": 35173,
+            "stop_timestamp": 6972,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Remove leaves from the stalk step-by-step",
+                    "start_timestamp": 35173,
+                    "stop_timestamp": 40120
+                },
+                {
+                    "secondary_subgoal": "Place stalk in tray methodically",
+                    "start_timestamp": 40120,
+                    "stop_timestamp": 8013
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize vegetable stems and leaves into trays and bowls",
+            "start_timestamp": 32175,
+            "stop_timestamp": 77238,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Organize vegetable stems and leaves from metal tray",
+                    "start_timestamp": 32175,
+                    "stop_timestamp": 67961
+                },
+                {
+                    "secondary_subgoal": "Gathering and arranging vegetables on the sliver tray",
+                    "start_timestamp": 67961,
+                    "stop_timestamp": 77238
+                }
+            ]
+        }
+    ]
+}

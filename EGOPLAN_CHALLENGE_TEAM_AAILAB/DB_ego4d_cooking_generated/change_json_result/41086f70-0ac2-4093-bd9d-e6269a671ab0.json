@@ -1,0 +1,88 @@
+{
+    "overall_goal": "Prepare and serve noodles and accompanying dishes",
+    "clips": [
+        {
+            "subgoal": "Prepare and boil noodles",
+            "start_timestamp": 0,
+            "stop_timestamp": 10342,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Set up cooking environment",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 469
+                },
+                {
+                    "secondary_subgoal": "Start cooking process",
+                    "start_timestamp": 469,
+                    "stop_timestamp": 892
+                },
+                {
+                    "secondary_subgoal": "Prepare ingredients and utensils",
+                    "start_timestamp": 892,
+                    "stop_timestamp": 3700
+                },
+                {
+                    "secondary_subgoal": "Boil noodles",
+                    "start_timestamp": 3700,
+                    "stop_timestamp": 10342
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook and serve noodles",
+            "start_timestamp": 10342,
+            "stop_timestamp": 15023,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Drain and wash noodles",
+                    "start_timestamp": 10342,
+                    "stop_timestamp": 12545
+                },
+                {
+                    "secondary_subgoal": "Serve noodles",
+                    "start_timestamp": 12545,
+                    "stop_timestamp": 15023
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and serve vegetables and other dishes",
+            "start_timestamp": 15023,
+            "stop_timestamp": 19148,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare vegetables and eggs",
+                    "start_timestamp": 15023,
+                    "stop_timestamp": 17395
+                },
+                {
+                    "secondary_subgoal": "Season and mix salad",
+                    "start_timestamp": 17395,
+                    "stop_timestamp": 18676
+                },
+                {
+                    "secondary_subgoal": "Fetch and prepare ingredients from the fridge and cabinet",
+                    "start_timestamp": 18676,
+                    "stop_timestamp": 19148
+                }
+            ]
+        },
+        {
+            "subgoal": "Finalize preparation and clean-up",
+            "start_timestamp": 19148,
+            "stop_timestamp": 20464,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare seasonings and clean",
+                    "start_timestamp": 19148,
+                    "stop_timestamp": 19583
+                },
+                {
+                    "secondary_subgoal": "Wrap up preparation and clean",
+                    "start_timestamp": 19583,
+                    "stop_timestamp": 20464
+                }
+            ]
+        }
+    ]
+}

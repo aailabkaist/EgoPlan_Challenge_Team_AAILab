@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efC4yadkGPZbvuCaBPhRpiFKDXGP",
+    "object": "chat.completion",
+    "created": 1719478496,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cut green chili peppers and place them on a tray\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Cut green chili peppers and continue repetitive pepper cutting process\",\n      \"start_timestamp\": 17,\n      \"stop_timestamp\": 85651,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick, cut, and place green chili peppers on the tray\",\n          \"start_timestamp\": 17,\n          \"stop_timestamp\": 3963\n        },\n        {\n          \"secondary_subgoal\": \"Pick, cut, and place more green chili peppers on the tray\",\n          \"start_timestamp\": 3963,\n          \"stop_timestamp\": 5337\n        },\n        {\n          \"secondary_subgoal\": \"Take a break to wear spectacles, then continue the cutting process\",\n          \"start_timestamp\": 5337,\n          \"stop_timestamp\": 5900\n        },\n        { \n          \"secondary_subgoal\": \"Pick, cut, and place green chili peppers in a continuous manner\",\n          \"start_timestamp\": 5900,\n          \"stop_timestamp\": 8651\n        },\n        {\n          \"secondary_subgoal\": \"Take a break to drink tea, then resume the cutting process\",\n          \"start_timestamp\": 8651,\n          \"stop_timestamp\": 27905\n        },\n        {\n          \"secondary_subgoal\": \"Use a different plate to pick and cut green chili peppers and segment peppers into smaller pieces\",\n          \"start_timestamp\": 27905,\n          \"stop_timestamp\": 69627 \n        },\n        {\n          \"secondary_subgoal\": \"Continuously pick, cut, and place remaining peppers on the tray\",\n          \"start_timestamp\": 69627,\n          \"stop_timestamp\": 85651\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cut and prepare chili peppers\",\n      \"start_timestamp\": 85703,\n      \"stop_timestamp\": 102861,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut and place chili pepper stems on tray\",\n          \"start_timestamp\": 85703,\n          \"stop_timestamp\": 99340\n        },\n        {\n          \"secondary_subgoal\": \"Continue cutting and placing peppers on the tray\",\n          \"start_timestamp\": 99340,\n          \"stop_timestamp\": 102861\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 17249,
+        "completion_tokens": 498,
+        "total_tokens": 17747
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

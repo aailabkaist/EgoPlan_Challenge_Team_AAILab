@@ -1,0 +1,103 @@
+{
+    "overall_goal": "Prepare and store sliced bread",
+    "clips": [
+        {
+            "subgoal": "Gather necessary items",
+            "start_timestamp": 0,
+            "stop_timestamp": 1558,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up bread",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 139
+                },
+                {
+                    "secondary_subgoal": "Place bread on the sink",
+                    "start_timestamp": 139,
+                    "stop_timestamp": 361
+                },
+                {
+                    "secondary_subgoal": "Get chopping board",
+                    "start_timestamp": 361,
+                    "stop_timestamp": 703
+                },
+                {
+                    "secondary_subgoal": "Get scissors",
+                    "start_timestamp": 703,
+                    "stop_timestamp": 879
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the bread",
+            "start_timestamp": 879,
+            "stop_timestamp": 3076,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut bread open",
+                    "start_timestamp": 879,
+                    "stop_timestamp": 926
+                },
+                {
+                    "secondary_subgoal": "Place bread on chopping board",
+                    "start_timestamp": 1205,
+                    "stop_timestamp": 1305
+                },
+                {
+                    "secondary_subgoal": "Get knife from cabinet",
+                    "start_timestamp": 1358,
+                    "stop_timestamp": 1558
+                }
+            ]
+        },
+        {
+            "subgoal": "Slice the bread",
+            "start_timestamp": 1558,
+            "stop_timestamp": 3943,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "First slicing session",
+                    "start_timestamp": 1558,
+                    "stop_timestamp": 2955
+                },
+                {
+                    "secondary_subgoal": "Stack sliced bread",
+                    "start_timestamp": 2955,
+                    "stop_timestamp": 3076
+                },
+                {
+                    "secondary_subgoal": "Second slicing session",
+                    "start_timestamp": 3076,
+                    "stop_timestamp": 3758
+                },
+                {
+                    "secondary_subgoal": "Place sliced bread in polythene paper",
+                    "start_timestamp": 3758,
+                    "stop_timestamp": 3943
+                }
+            ]
+        },
+        {
+            "subgoal": "Store the sliced bread",
+            "start_timestamp": 3943,
+            "stop_timestamp": 4662,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Tie polythene paper",
+                    "start_timestamp": 3943,
+                    "stop_timestamp": 4421
+                },
+                {
+                    "secondary_subgoal": "Return scissors to drawer",
+                    "start_timestamp": 4506,
+                    "stop_timestamp": 4522
+                },
+                {
+                    "secondary_subgoal": "Put sliced bread on cabinet",
+                    "start_timestamp": 4562,
+                    "stop_timestamp": 4662
+                }
+            ]
+        }
+    ]
+}

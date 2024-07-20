@@ -1,0 +1,128 @@
+{
+    "overall_goal": "C engages in various activities around the house, focusing on preparing food and cleaning the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Explore the house and interact with a dog",
+            "start_timestamp": 0,
+            "stop_timestamp": 3443,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look around the house",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 457
+                },
+                {
+                    "secondary_subgoal": "Walk around",
+                    "start_timestamp": 457,
+                    "stop_timestamp": 511
+                },
+                {
+                    "secondary_subgoal": "Play with the dog",
+                    "start_timestamp": 545,
+                    "stop_timestamp": 799
+                },
+                {
+                    "secondary_subgoal": "Walk around",
+                    "start_timestamp": 799,
+                    "stop_timestamp": 1074
+                },
+                {
+                    "secondary_subgoal": "Play with the dog",
+                    "start_timestamp": 1074,
+                    "stop_timestamp": 1264
+                },
+                {
+                    "secondary_subgoal": "Throw dog toy",
+                    "start_timestamp": 1264,
+                    "stop_timestamp": 1343
+                },
+                {
+                    "secondary_subgoal": "Walk around",
+                    "start_timestamp": 1343,
+                    "stop_timestamp": 1416
+                }
+            ]
+        },
+        {
+            "subgoal": "Access the fridge and interact with food items",
+            "start_timestamp": 1416,
+            "stop_timestamp": 1858,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open fridge",
+                    "start_timestamp": 1416,
+                    "stop_timestamp": 1472
+                },
+                {
+                    "secondary_subgoal": "Interact with fridge drawer",
+                    "start_timestamp": 1472,
+                    "stop_timestamp": 1670
+                },
+                {
+                    "secondary_subgoal": "Look inside fridge",
+                    "start_timestamp": 1670,
+                    "stop_timestamp": 1702
+                },
+                {
+                    "secondary_subgoal": "Pick and drop items in fridge",
+                    "start_timestamp": 1702,
+                    "stop_timestamp": 1858
+                }
+            ]
+        },
+        {
+            "subgoal": "Play and interact with dog",
+            "start_timestamp": 1858,
+            "stop_timestamp": 3717,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Play and throw toy for dog",
+                    "start_timestamp": 1858,
+                    "stop_timestamp": 2167
+                },
+                {
+                    "secondary_subgoal": "Walk around",
+                    "start_timestamp": 2167,
+                    "stop_timestamp": 2408
+                }
+            ]
+        },
+        {
+            "subgoal": "Perform cooking actions and interact with bread",
+            "start_timestamp": 4719,
+            "stop_timestamp": 7890,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open cabinet and get cooking pot",
+                    "start_timestamp": 4719,
+                    "stop_timestamp": 4843
+                },
+                {
+                    "secondary_subgoal": "Move bread on counter",
+                    "start_timestamp": 4843,
+                    "stop_timestamp": 4898
+                },
+                {
+                    "secondary_subgoal": "Unwrap bread and place items on toast",
+                    "start_timestamp": 4898,
+                    "stop_timestamp": 7399
+                },
+                {
+                    "secondary_subgoal": "Seal package and move container",
+                    "start_timestamp": 7399,
+                    "stop_timestamp": 7459
+                },
+                {
+                    "secondary_subgoal": "Drop and pick container",
+                    "start_timestamp": 7459,
+                    "stop_timestamp": 7547
+                },
+                {
+                    "secondary_subgoal": "Cut and place items on bread",
+                    "start_timestamp": 7547,
+                    "stop_timestamp": 7890
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "overall_goal": "Preparing and serving food, then cleaning the kitchen and utensils",
+    "clips": [
+        {
+            "subgoal": "Serving the food",
+            "start_timestamp": 0,
+            "stop_timestamp": 5732,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Serving the food in the plates",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 1153
+                },
+                {
+                    "secondary_subgoal": "Moving cooking equipment to the sink",
+                    "start_timestamp": 1153,
+                    "stop_timestamp": 1205
+                },
+                {
+                    "secondary_subgoal": "Serving another portion of food in the plates",
+                    "start_timestamp": 1386,
+                    "stop_timestamp": 2590
+                },
+                {
+                    "secondary_subgoal": "Moving another cooking pot to the sink",
+                    "start_timestamp": 2590,
+                    "stop_timestamp": 2675
+                },
+                {
+                    "secondary_subgoal": "Handling and processing the container",
+                    "start_timestamp": 2675,
+                    "stop_timestamp": 3164
+                },
+                {
+                    "secondary_subgoal": "Handling and slicing with the knife",
+                    "start_timestamp": 3218,
+                    "stop_timestamp": 3332
+                },
+                {
+                    "secondary_subgoal": "Decorating and arranging plates on the table",
+                    "start_timestamp": 3332,
+                    "stop_timestamp": 3960
+                },
+                {
+                    "secondary_subgoal": "Washing and drying hands",
+                    "start_timestamp": 3960,
+                    "stop_timestamp": 4121
+                },
+                {
+                    "secondary_subgoal": "Moving plates on the table",
+                    "start_timestamp": 4121,
+                    "stop_timestamp": 4188
+                },
+                {
+                    "secondary_subgoal": "Serving another portion of food",
+                    "start_timestamp": 5025,
+                    "stop_timestamp": 5097
+                },
+                {
+                    "secondary_subgoal": "Moving utensils to the sink",
+                    "start_timestamp": 5097,
+                    "stop_timestamp": 5171
+                },
+                {
+                    "secondary_subgoal": "Handling and opening the container",
+                    "start_timestamp": 5195,
+                    "stop_timestamp": 5262
+                },
+                {
+                    "secondary_subgoal": "Adding spices and storing the container on the rack",
+                    "start_timestamp": 5262,
+                    "stop_timestamp": 5503
+                },
+                {
+                    "secondary_subgoal": "Returning knife to the sink and moving plates",
+                    "start_timestamp": 5562,
+                    "stop_timestamp": 5702
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing additional food items",
+            "start_timestamp": 5702,
+            "stop_timestamp": 7131,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking food from the fridge",
+                    "start_timestamp": 5760,
+                    "stop_timestamp": 5894
+                },
+                {
+                    "secondary_subgoal": "Handling the bowl with food",
+                    "start_timestamp": 5975,
+                    "stop_timestamp": 6185
+                },
+                {
+                    "secondary_subgoal": "Serving food from the bowl",
+                    "start_timestamp": 6185,
+                    "stop_timestamp": 7068
+                },
+                {
+                    "secondary_subgoal": "Moving bowl to the sink",
+                    "start_timestamp": 7068,
+                    "stop_timestamp": 7131
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning the kitchen",
+            "start_timestamp": 7131,
+            "stop_timestamp": 9857,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Disposing polythene paper in the dustbin",
+                    "start_timestamp": 7131,
+                    "stop_timestamp": 7205
+                },
+                {
+                    "secondary_subgoal": "Wiping the table",
+                    "start_timestamp": 7236,
+                    "stop_timestamp": 7324
+                },
+                {
+                    "secondary_subgoal": "Handling the tray",
+                    "start_timestamp": 7623,
+                    "stop_timestamp": 7649
+                },
+                {
+                    "secondary_subgoal": "Placing food in a bowl on the tray",
+                    "start_timestamp": 7649,
+                    "stop_timestamp": 8652
+                },
+                {
+                    "secondary_subgoal": "Moving and arranging plates and chopsticks on the tray",
+                    "start_timestamp": 8729,
+                    "stop_timestamp": 9453
+                },
+                {
+                    "secondary_subgoal": "Moving tray to the sink",
+                    "start_timestamp": 9453,
+                    "stop_timestamp": 9529
+                },
+                {
+                    "secondary_subgoal": "Wiping the table",
+                    "start_timestamp": 9631,
+                    "stop_timestamp": 9739
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing and storing utensils",
+            "start_timestamp": 9857,
+            "stop_timestamp": 14826,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing and placing utensils",
+                    "start_timestamp": 9857,
+                    "stop_timestamp": 12001
+                },
+                {
+                    "secondary_subgoal": "Arranging bowls on the table",
+                    "start_timestamp": 12001,
+                    "stop_timestamp": 12440
+                },
+                {
+                    "secondary_subgoal": "Rinsing and placing utensils in containers",
+                    "start_timestamp": 12607,
+                    "stop_timestamp": 13916
+                },
+                {
+                    "secondary_subgoal": "Rinsing and placing the tray on the rack",
+                    "start_timestamp": 14102,
+                    "stop_timestamp": 14192
+                },
+                {
+                    "secondary_subgoal": "Rinsing and storing chopsticks",
+                    "start_timestamp": 14389,
+                    "stop_timestamp": 14448
+                },
+                {
+                    "secondary_subgoal": "Drying hands",
+                    "start_timestamp": 14657,
+                    "stop_timestamp": 14726
+                }
+            ]
+        }
+    ]
+}

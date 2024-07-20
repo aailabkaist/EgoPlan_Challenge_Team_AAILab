@@ -1,0 +1,51 @@
+{
+    "overall_goal": "Preparing and cleaning up after cooking a dish.",
+    "clips": [
+        {
+            "subgoal": "Cooking and seasoning the dish",
+            "start_timestamp": 24,
+            "stop_timestamp": 7566,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring and tasting the dish",
+                    "start_timestamp": 24,
+                    "stop_timestamp": 3172
+                },
+                {
+                    "secondary_subgoal": "Adding spices, stirring, and tasting the dish",
+                    "start_timestamp": 3172,
+                    "stop_timestamp": 7566
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning utensils and kitchen area",
+            "start_timestamp": 7659,
+            "stop_timestamp": 9715,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning utensils in the sink",
+                    "start_timestamp": 7659,
+                    "stop_timestamp": 9289
+                },
+                {
+                    "secondary_subgoal": "Placing cleaned utensils in utensil rack and hand cleaning",
+                    "start_timestamp": 9289,
+                    "stop_timestamp": 9715
+                }
+            ]
+        },
+        {
+            "subgoal": "Tidying up kitchen items",
+            "start_timestamp": 9735,
+            "stop_timestamp": 10641,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Finalizing cleaning and organizing",
+                    "start_timestamp": 9735,
+                    "stop_timestamp": 10641
+                }
+            ]
+        }
+    ]
+}

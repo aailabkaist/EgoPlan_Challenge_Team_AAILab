@@ -1,0 +1,877 @@
+[
+    {
+        "task_goal": "Prepare cleaning materials and apply soap.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stands in a kitchen",
+                "start_frame": 1,
+                "stop_frame": 35
+            },
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 35,
+                "stop_frame": 72
+            },
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 72,
+                "stop_frame": 103
+            },
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 103,
+                "stop_frame": 134
+            },
+            {
+                "narration_text": "Picks dish cloth",
+                "start_frame": 134,
+                "stop_frame": 167
+            },
+            {
+                "narration_text": "Rinses dish cloth",
+                "start_frame": 167,
+                "stop_frame": 235
+            },
+            {
+                "narration_text": "Picks washing liquid",
+                "start_frame": 235,
+                "stop_frame": 276
+            },
+            {
+                "narration_text": " puts soap on liquid soap",
+                "start_frame": 276,
+                "stop_frame": 314
+            },
+            {
+                "narration_text": "Returns liquid soap",
+                "start_frame": 314,
+                "stop_frame": 342
+            },
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 342,
+                "stop_frame": 371
+            }
+        ]
+    },
+    {
+        "task_goal": "Locate and turn on faucet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 35,
+                "stop_frame": 72
+            },
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 72,
+                "stop_frame": 103
+            },
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 103,
+                "stop_frame": 134
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and rinse dish cloth",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 103,
+                "stop_frame": 134
+            },
+            {
+                "narration_text": "Picks dish cloth",
+                "start_frame": 134,
+                "stop_frame": 167
+            },
+            {
+                "narration_text": "Rinses dish cloth",
+                "start_frame": 167,
+                "stop_frame": 235
+            },
+            {
+                "narration_text": "Picks washing liquid",
+                "start_frame": 235,
+                "stop_frame": 276
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and apply washing liquid",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rinses dish cloth",
+                "start_frame": 167,
+                "stop_frame": 235
+            },
+            {
+                "narration_text": "Picks washing liquid",
+                "start_frame": 235,
+                "stop_frame": 276
+            },
+            {
+                "narration_text": " puts soap on liquid soap",
+                "start_frame": 276,
+                "stop_frame": 314
+            },
+            {
+                "narration_text": "Returns liquid soap",
+                "start_frame": 314,
+                "stop_frame": 342
+            }
+        ]
+    },
+    {
+        "task_goal": "Return washing liquid and turn off faucet",
+        "task_progress_metadata": [
+            {
+                "narration_text": " puts soap on liquid soap",
+                "start_frame": 276,
+                "stop_frame": 314
+            },
+            {
+                "narration_text": "Returns liquid soap",
+                "start_frame": 314,
+                "stop_frame": 342
+            },
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 342,
+                "stop_frame": 371
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash dish cloth and bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Returns liquid soap",
+                "start_frame": 314,
+                "stop_frame": 342
+            },
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 342,
+                "stop_frame": 371
+            },
+            {
+                "narration_text": "Washes dish cloth",
+                "start_frame": 371,
+                "stop_frame": 438
+            },
+            {
+                "narration_text": "Picks bowl",
+                "start_frame": 438,
+                "stop_frame": 471
+            },
+            {
+                "narration_text": "Moves bowl",
+                "start_frame": 471,
+                "stop_frame": 490
+            },
+            {
+                "narration_text": "Washes bowl",
+                "start_frame": 490,
+                "stop_frame": 628
+            },
+            {
+                "narration_text": "Drops bowl",
+                "start_frame": 628,
+                "stop_frame": 644
+            },
+            {
+                "narration_text": "Picks bowl",
+                "start_frame": 644,
+                "stop_frame": 674
+            },
+            {
+                "narration_text": "Washes bowl",
+                "start_frame": 674,
+                "stop_frame": 869
+            },
+            {
+                "narration_text": "Picks bowl",
+                "start_frame": 869,
+                "stop_frame": 876
+            },
+            {
+                "narration_text": "Pours water",
+                "start_frame": 876,
+                "stop_frame": 922
+            },
+            {
+                "narration_text": "Drops bowl",
+                "start_frame": 922,
+                "stop_frame": 944
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash bowl multiple times",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Drops bowl",
+                "start_frame": 922,
+                "stop_frame": 944
+            },
+            {
+                "narration_text": "Washes bowl",
+                "start_frame": 944,
+                "stop_frame": 1083
+            },
+            {
+                "narration_text": "Picks bowl",
+                "start_frame": 1083,
+                "stop_frame": 1092
+            },
+            {
+                "narration_text": "Drops bowl i",
+                "start_frame": 1092,
+                "stop_frame": 1111
+            },
+            {
+                "narration_text": "Picks bowl",
+                "start_frame": 1111,
+                "stop_frame": 1117
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and wash bowl again",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Drops bowl i",
+                "start_frame": 1092,
+                "stop_frame": 1111
+            },
+            {
+                "narration_text": "Picks bowl",
+                "start_frame": 1111,
+                "stop_frame": 1117
+            },
+            {
+                "narration_text": "Drops bowl",
+                "start_frame": 1117,
+                "stop_frame": 1126
+            },
+            {
+                "narration_text": "Picks chop sticks",
+                "start_frame": 1126,
+                "stop_frame": 1167
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and wash chop sticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Drops bowl",
+                "start_frame": 1117,
+                "stop_frame": 1126
+            },
+            {
+                "narration_text": "Picks chop sticks",
+                "start_frame": 1126,
+                "stop_frame": 1167
+            },
+            {
+                "narration_text": "Washes chop sticks",
+                "start_frame": 1167,
+                "stop_frame": 1265
+            },
+            {
+                "narration_text": "Drops chop sticks",
+                "start_frame": 1265,
+                "stop_frame": 1288
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash and drop chop sticks, pick and wash pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes chop sticks",
+                "start_frame": 1167,
+                "stop_frame": 1265
+            },
+            {
+                "narration_text": "Drops chop sticks",
+                "start_frame": 1265,
+                "stop_frame": 1288
+            },
+            {
+                "narration_text": "Picks pan",
+                "start_frame": 1288,
+                "stop_frame": 1318
+            },
+            {
+                "narration_text": "Washes pan",
+                "start_frame": 1318,
+                "stop_frame": 1696
+            },
+            {
+                "narration_text": "Puts pan in a a sink",
+                "start_frame": 1696,
+                "stop_frame": 1703
+            }
+        ]
+    },
+    {
+        "task_goal": "Put pan in the sink, wash and drop chop sticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes pan",
+                "start_frame": 1318,
+                "stop_frame": 1696
+            },
+            {
+                "narration_text": "Puts pan in a a sink",
+                "start_frame": 1696,
+                "stop_frame": 1703
+            },
+            {
+                "narration_text": "Picks chop sticks",
+                "start_frame": 1703,
+                "stop_frame": 1730
+            },
+            {
+                "narration_text": "Washes chop sticks",
+                "start_frame": 1730,
+                "stop_frame": 1787
+            },
+            {
+                "narration_text": "Drops chop sticks",
+                "start_frame": 1787,
+                "stop_frame": 1811
+            },
+            {
+                "narration_text": "Picks chop sticks",
+                "start_frame": 1811,
+                "stop_frame": 1893
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and wash chop sticks again",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Drops chop sticks",
+                "start_frame": 1787,
+                "stop_frame": 1811
+            },
+            {
+                "narration_text": "Picks chop sticks",
+                "start_frame": 1811,
+                "stop_frame": 1893
+            },
+            {
+                "narration_text": "Washes chop sticks",
+                "start_frame": 1893,
+                "stop_frame": 1948
+            },
+            {
+                "narration_text": "Drops chop sticks",
+                "start_frame": 1948,
+                "stop_frame": 1986
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and wash plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes chop sticks",
+                "start_frame": 1893,
+                "stop_frame": 1948
+            },
+            {
+                "narration_text": "Drops chop sticks",
+                "start_frame": 1948,
+                "stop_frame": 1986
+            },
+            {
+                "narration_text": "Picks a plate",
+                "start_frame": 1986,
+                "stop_frame": 2023
+            },
+            {
+                "narration_text": "Washes plate",
+                "start_frame": 2023,
+                "stop_frame": 2417
+            },
+            {
+                "narration_text": "Puts plate under bowls",
+                "start_frame": 2417,
+                "stop_frame": 2481
+            },
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 2481,
+                "stop_frame": 2509
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse, squeeze, and return dish cloth",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 2481,
+                "stop_frame": 2509
+            },
+            {
+                "narration_text": "Rinses dish cloth",
+                "start_frame": 2509,
+                "stop_frame": 2782
+            },
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 2782,
+                "stop_frame": 2826
+            },
+            {
+                "narration_text": "Rinses faucet",
+                "start_frame": 2826,
+                "stop_frame": 2860
+            },
+            {
+                "narration_text": "Rinses dish cloth",
+                "start_frame": 2860,
+                "stop_frame": 2890
+            },
+            {
+                "narration_text": "Squeezes water",
+                "start_frame": 2890,
+                "stop_frame": 2933
+            },
+            {
+                "narration_text": "Returns dish cloth",
+                "start_frame": 2933,
+                "stop_frame": 2952
+            },
+            {
+                "narration_text": "Moves around the kitchen",
+                "start_frame": 2952,
+                "stop_frame": 2994
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse dish cloth and faucet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 2481,
+                "stop_frame": 2509
+            },
+            {
+                "narration_text": "Rinses dish cloth",
+                "start_frame": 2509,
+                "stop_frame": 2782
+            },
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 2782,
+                "stop_frame": 2826
+            },
+            {
+                "narration_text": "Rinses faucet",
+                "start_frame": 2826,
+                "stop_frame": 2860
+            },
+            {
+                "narration_text": "Rinses dish cloth",
+                "start_frame": 2860,
+                "stop_frame": 2890
+            },
+            {
+                "narration_text": "Squeezes water",
+                "start_frame": 2890,
+                "stop_frame": 2933
+            }
+        ]
+    },
+    {
+        "task_goal": "Squeeze water and return dish cloth",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rinses dish cloth",
+                "start_frame": 2860,
+                "stop_frame": 2890
+            },
+            {
+                "narration_text": "Squeezes water",
+                "start_frame": 2890,
+                "stop_frame": 2933
+            },
+            {
+                "narration_text": "Returns dish cloth",
+                "start_frame": 2933,
+                "stop_frame": 2952
+            },
+            {
+                "narration_text": "Moves around the kitchen",
+                "start_frame": 2952,
+                "stop_frame": 2994
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse and rack multiple bowls and plates",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves around the kitchen",
+                "start_frame": 2952,
+                "stop_frame": 2994
+            },
+            {
+                "narration_text": "Picks tray",
+                "start_frame": 2994,
+                "stop_frame": 3020
+            },
+            {
+                "narration_text": "Puts tray on a sink",
+                "start_frame": 3020,
+                "stop_frame": 3051
+            },
+            {
+                "narration_text": "Rinses bowl",
+                "start_frame": 3051,
+                "stop_frame": 3185
+            },
+            {
+                "narration_text": "Puts bowl in a dish rack",
+                "start_frame": 3185,
+                "stop_frame": 3197
+            },
+            {
+                "narration_text": "Picks bowl",
+                "start_frame": 3197,
+                "stop_frame": 3219
+            },
+            {
+                "narration_text": "Rinses bowl",
+                "start_frame": 3219,
+                "stop_frame": 3396
+            },
+            {
+                "narration_text": "Puts bowl in a dish rack",
+                "start_frame": 3396,
+                "stop_frame": 3446
+            },
+            {
+                "narration_text": "Picks pan",
+                "start_frame": 3446,
+                "stop_frame": 3478
+            },
+            {
+                "narration_text": "Rinses pan",
+                "start_frame": 3478,
+                "stop_frame": 3759
+            },
+            {
+                "narration_text": "Puts pan in a dish rack",
+                "start_frame": 3759,
+                "stop_frame": 3797
+            },
+            {
+                "narration_text": "Picks chop sticks",
+                "start_frame": 3797,
+                "stop_frame": 3831
+            },
+            {
+                "narration_text": "Rinses chop sticks",
+                "start_frame": 3831,
+                "stop_frame": 4001
+            },
+            {
+                "narration_text": "Puts chopsticks in a dish rack",
+                "start_frame": 4001,
+                "stop_frame": 4036
+            },
+            {
+                "narration_text": "Picks bowl",
+                "start_frame": 4036,
+                "stop_frame": 4059
+            },
+            {
+                "narration_text": "Rinses bowl",
+                "start_frame": 4059,
+                "stop_frame": 4220
+            },
+            {
+                "narration_text": "Puts bowl in a rack",
+                "start_frame": 4220,
+                "stop_frame": 4274
+            },
+            {
+                "narration_text": "Picks plate",
+                "start_frame": 4274,
+                "stop_frame": 4300
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse and rack plates, and turn off faucet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts bowl in a rack",
+                "start_frame": 4220,
+                "stop_frame": 4274
+            },
+            {
+                "narration_text": "Picks plate",
+                "start_frame": 4274,
+                "stop_frame": 4300
+            },
+            {
+                "narration_text": "Rinses plate",
+                "start_frame": 4300,
+                "stop_frame": 4391
+            },
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 4391,
+                "stop_frame": 4447
+            },
+            {
+                "narration_text": "Puts plate in a rack",
+                "start_frame": 4447,
+                "stop_frame": 4517
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse and dry egg shells, and store them",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks egg shell",
+                "start_frame": 4517,
+                "stop_frame": 4616
+            },
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 4616,
+                "stop_frame": 4665
+            },
+            {
+                "narration_text": "Rinses egg shell",
+                "start_frame": 4665,
+                "stop_frame": 4766
+            },
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 4766,
+                "stop_frame": 4806
+            },
+            {
+                "narration_text": "Picks polythene paper",
+                "start_frame": 4806,
+                "stop_frame": 4884
+            },
+            {
+                "narration_text": "Dries egg shells",
+                "start_frame": 4884,
+                "stop_frame": 4966
+            },
+            {
+                "narration_text": "Stores egg shells",
+                "start_frame": 4966,
+                "stop_frame": 5050
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 5050,
+                "stop_frame": 5080
+            }
+        ]
+    },
+    {
+        "task_goal": "Dry pan and store it",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks pan",
+                "start_frame": 6743,
+                "stop_frame": 6768
+            },
+            {
+                "narration_text": "Dries pan",
+                "start_frame": 6768,
+                "stop_frame": 6936
+            },
+            {
+                "narration_text": "Stores pan",
+                "start_frame": 6936,
+                "stop_frame": 7012
+            },
+            {
+                "narration_text": "Moves towards a fridge",
+                "start_frame": 7012,
+                "stop_frame": 7053
+            }
+        ]
+    },
+    {
+        "task_goal": "Put kitchen towel on hook and pick tray",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stores pan",
+                "start_frame": 6936,
+                "stop_frame": 7012
+            },
+            {
+                "narration_text": "Moves towards a fridge",
+                "start_frame": 7012,
+                "stop_frame": 7053
+            },
+            {
+                "narration_text": "Puts kitchen towel on a hook",
+                "start_frame": 7053,
+                "stop_frame": 7096
+            },
+            {
+                "narration_text": "Makes a step in a kitchen",
+                "start_frame": 7096,
+                "stop_frame": 7127
+            },
+            {
+                "narration_text": "Picks tray",
+                "start_frame": 7127,
+                "stop_frame": 7141
+            },
+            {
+                "narration_text": "Drains water",
+                "start_frame": 7141,
+                "stop_frame": 7202
+            },
+            {
+                "narration_text": "Dries tray",
+                "start_frame": 7202,
+                "stop_frame": 7411
+            }
+        ]
+    },
+    {
+        "task_goal": "Drain and dry tray, return it, and dry sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Drains water",
+                "start_frame": 7141,
+                "stop_frame": 7202
+            },
+            {
+                "narration_text": "Dries tray",
+                "start_frame": 7202,
+                "stop_frame": 7411
+            },
+            {
+                "narration_text": "Returns tray",
+                "start_frame": 7411,
+                "stop_frame": 7451
+            },
+            {
+                "narration_text": "Dries sink",
+                "start_frame": 7451,
+                "stop_frame": 7463
+            },
+            {
+                "narration_text": "Picks bowl",
+                "start_frame": 7463,
+                "stop_frame": 7489
+            },
+            {
+                "narration_text": "Dries sink",
+                "start_frame": 7489,
+                "stop_frame": 7570
+            },
+            {
+                "narration_text": "Puts bowl on a sink",
+                "start_frame": 7570,
+                "stop_frame": 7572
+            },
+            {
+                "narration_text": "Dries sink",
+                "start_frame": 7572,
+                "stop_frame": 7809
+            },
+            {
+                "narration_text": "Spreads kitchen towel on the sink",
+                "start_frame": 7809,
+                "stop_frame": 7923
+            }
+        ]
+    },
+    {
+        "task_goal": "Spread kitchen towel on sink and open cupboard",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Dries sink",
+                "start_frame": 7572,
+                "stop_frame": 7809
+            },
+            {
+                "narration_text": "Spreads kitchen towel on the sink",
+                "start_frame": 7809,
+                "stop_frame": 7923
+            },
+            {
+                "narration_text": "Opens cupboard",
+                "start_frame": 7923,
+                "stop_frame": 7973
+            },
+            {
+                "narration_text": "Picks bowl",
+                "start_frame": 7973,
+                "stop_frame": 8037
+            },
+            {
+                "narration_text": "Picks utensils",
+                "start_frame": 8037,
+                "stop_frame": 8056
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick, return, and arrange utensils in cupboard, close cupboard and look around sink area",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks bowl",
+                "start_frame": 7973,
+                "stop_frame": 8037
+            },
+            {
+                "narration_text": "Picks utensils",
+                "start_frame": 8037,
+                "stop_frame": 8056
+            },
+            {
+                "narration_text": "Returns utensils",
+                "start_frame": 8056,
+                "stop_frame": 8123
+            },
+            {
+                "narration_text": "Puts utensils together",
+                "start_frame": 8123,
+                "stop_frame": 8160
+            },
+            {
+                "narration_text": "Puts utensils in a cupboard",
+                "start_frame": 8160,
+                "stop_frame": 8195
+            },
+            {
+                "narration_text": "Closes cupboard",
+                "start_frame": 8195,
+                "stop_frame": 8232
+            },
+            {
+                "narration_text": "Looks around the sink area",
+                "start_frame": 8232,
+                "stop_frame": 8332
+            }
+        ]
+    }
+]

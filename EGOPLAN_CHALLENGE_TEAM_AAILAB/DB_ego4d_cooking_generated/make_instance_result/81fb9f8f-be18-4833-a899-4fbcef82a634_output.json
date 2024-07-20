@@ -1,0 +1,477 @@
+[
+    {
+        "task_goal": "Mold and fill the dough with rice",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C molds the dough",
+                "start_frame": 25,
+                "stop_frame": 188
+            },
+            {
+                "narration_text": "#C C takes rice from the tray",
+                "start_frame": 188,
+                "stop_frame": 234
+            },
+            {
+                "narration_text": "#C C puts the rice in the dough",
+                "start_frame": 234,
+                "stop_frame": 263
+            },
+            {
+                "narration_text": "#C C puts the rice in the tray",
+                "start_frame": 263,
+                "stop_frame": 298
+            },
+            {
+                "narration_text": "#C C molds the dough",
+                "start_frame": 298,
+                "stop_frame": 554
+            },
+            {
+                "narration_text": "#C C puts the dough in the tray",
+                "start_frame": 554,
+                "stop_frame": 560
+            }
+        ]
+    },
+    {
+        "task_goal": "Mold the dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C molds the dough",
+                "start_frame": 25,
+                "stop_frame": 188
+            },
+            {
+                "narration_text": "#C C takes rice from the tray",
+                "start_frame": 188,
+                "stop_frame": 234
+            }
+        ]
+    },
+    {
+        "task_goal": "Take rice from the tray",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C molds the dough",
+                "start_frame": 25,
+                "stop_frame": 188
+            },
+            {
+                "narration_text": "#C C takes rice from the tray",
+                "start_frame": 188,
+                "stop_frame": 234
+            },
+            {
+                "narration_text": "#C C puts the rice in the dough",
+                "start_frame": 234,
+                "stop_frame": 263
+            }
+        ]
+    },
+    {
+        "task_goal": "Put rice in the dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes rice from the tray",
+                "start_frame": 188,
+                "stop_frame": 234
+            },
+            {
+                "narration_text": "#C C puts the rice in the dough",
+                "start_frame": 234,
+                "stop_frame": 263
+            },
+            {
+                "narration_text": "#C C puts the rice in the tray",
+                "start_frame": 263,
+                "stop_frame": 298
+            }
+        ]
+    },
+    {
+        "task_goal": "Put dough in the tray",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the rice in the dough",
+                "start_frame": 234,
+                "stop_frame": 263
+            },
+            {
+                "narration_text": "#C C puts the rice in the tray",
+                "start_frame": 263,
+                "stop_frame": 298
+            },
+            {
+                "narration_text": "#C C molds the dough",
+                "start_frame": 298,
+                "stop_frame": 554
+            }
+        ]
+    },
+    {
+        "task_goal": "Mold the dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the rice in the tray",
+                "start_frame": 263,
+                "stop_frame": 298
+            },
+            {
+                "narration_text": "#C C molds the dough",
+                "start_frame": 298,
+                "stop_frame": 554
+            },
+            {
+                "narration_text": "#C C puts the dough in the tray",
+                "start_frame": 554,
+                "stop_frame": 560
+            }
+        ]
+    },
+    {
+        "task_goal": "Put the dough in the tray",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C molds the dough",
+                "start_frame": 298,
+                "stop_frame": 554
+            },
+            {
+                "narration_text": "#C C puts the dough in the tray",
+                "start_frame": 554,
+                "stop_frame": 560
+            },
+            {
+                "narration_text": "#C C takes dough from lady Z",
+                "start_frame": 560,
+                "stop_frame": 616
+            }
+        ]
+    },
+    {
+        "task_goal": "Take dough from lady",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the dough in the tray",
+                "start_frame": 554,
+                "stop_frame": 560
+            },
+            {
+                "narration_text": "#C C takes dough from lady Z",
+                "start_frame": 560,
+                "stop_frame": 616
+            },
+            {
+                "narration_text": "#C C opens a tray",
+                "start_frame": 616,
+                "stop_frame": 633
+            }
+        ]
+    },
+    {
+        "task_goal": "Open a tray",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes dough from lady Z",
+                "start_frame": 560,
+                "stop_frame": 616
+            },
+            {
+                "narration_text": "#C C opens a tray",
+                "start_frame": 616,
+                "stop_frame": 633
+            },
+            {
+                "narration_text": "#C C puts the dough in the tray",
+                "start_frame": 633,
+                "stop_frame": 653
+            }
+        ]
+    },
+    {
+        "task_goal": "Put the dough in the tray and cover the tray",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens a tray",
+                "start_frame": 616,
+                "stop_frame": 633
+            },
+            {
+                "narration_text": "#C C puts the dough in the tray",
+                "start_frame": 633,
+                "stop_frame": 653
+            },
+            {
+                "narration_text": "#C C covers the tray",
+                "start_frame": 653,
+                "stop_frame": 703
+            },
+            {
+                "narration_text": "#C C pulls the trays",
+                "start_frame": 703,
+                "stop_frame": 719
+            }
+        ]
+    },
+    {
+        "task_goal": "Pull the trays",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C covers the tray",
+                "start_frame": 653,
+                "stop_frame": 703
+            },
+            {
+                "narration_text": "#C C pulls the trays",
+                "start_frame": 703,
+                "stop_frame": 719
+            },
+            {
+                "narration_text": "#C C pinches the dough",
+                "start_frame": 719,
+                "stop_frame": 757
+            }
+        ]
+    },
+    {
+        "task_goal": "Pinch and mold the dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pulls the trays",
+                "start_frame": 703,
+                "stop_frame": 719
+            },
+            {
+                "narration_text": "#C C pinches the dough",
+                "start_frame": 719,
+                "stop_frame": 757
+            },
+            {
+                "narration_text": "#C C molds the dough",
+                "start_frame": 757,
+                "stop_frame": 1284
+            },
+            {
+                "narration_text": "#C C takes rice from the tray",
+                "start_frame": 1284,
+                "stop_frame": 1318
+            },
+            {
+                "narration_text": "#C C puts the rice in the dough",
+                "start_frame": 1318,
+                "stop_frame": 1341
+            },
+            {
+                "narration_text": "#C C takes rice from the tray",
+                "start_frame": 1341,
+                "stop_frame": 1365
+            },
+            {
+                "narration_text": "#C C puts the rice in the dough",
+                "start_frame": 1365,
+                "stop_frame": 1385
+            },
+            {
+                "narration_text": "#C C molds the dough",
+                "start_frame": 1385,
+                "stop_frame": 1646
+            },
+            {
+                "narration_text": "#C C puts the dough in the tray",
+                "start_frame": 1646,
+                "stop_frame": 1664
+            },
+            {
+                "narration_text": "#C C pinches the dough",
+                "start_frame": 1664,
+                "stop_frame": 1695
+            },
+            {
+                "narration_text": "#C C puts the dough in the hand",
+                "start_frame": 1695,
+                "stop_frame": 1712
+            }
+        ]
+    },
+    {
+        "task_goal": "Put dough in the hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pinches the dough",
+                "start_frame": 1664,
+                "stop_frame": 1695
+            },
+            {
+                "narration_text": "#C C puts the dough in the hand",
+                "start_frame": 1695,
+                "stop_frame": 1712
+            },
+            {
+                "narration_text": "#C C pinches the dough",
+                "start_frame": 1712,
+                "stop_frame": 1723
+            }
+        ]
+    },
+    {
+        "task_goal": "Pinch and mold the dough with rice",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the dough in the hand",
+                "start_frame": 1695,
+                "stop_frame": 1712
+            },
+            {
+                "narration_text": "#C C pinches the dough",
+                "start_frame": 1712,
+                "stop_frame": 1723
+            },
+            {
+                "narration_text": "#C C molds the dough",
+                "start_frame": 1723,
+                "stop_frame": 2262
+            },
+            {
+                "narration_text": "#C C takes rice from the tray",
+                "start_frame": 2262,
+                "stop_frame": 2298
+            },
+            {
+                "narration_text": "#C C puts rice in the dough",
+                "start_frame": 2298,
+                "stop_frame": 2340
+            },
+            {
+                "narration_text": "#C C molds the dough",
+                "start_frame": 2340,
+                "stop_frame": 2617
+            },
+            {
+                "narration_text": "#C C puts the dough in the tray",
+                "start_frame": 2617,
+                "stop_frame": 2634
+            },
+            {
+                "narration_text": "#C C picks a dough from the tray",
+                "start_frame": 2634,
+                "stop_frame": 2656
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick a dough from the tray and put rice in the dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the dough in the tray",
+                "start_frame": 2617,
+                "stop_frame": 2634
+            },
+            {
+                "narration_text": "#C C picks a dough from the tray",
+                "start_frame": 2634,
+                "stop_frame": 2656
+            },
+            {
+                "narration_text": "#C C takes rice from the tray",
+                "start_frame": 2656,
+                "stop_frame": 2681
+            },
+            {
+                "narration_text": "#C C puts rice in the dough",
+                "start_frame": 2681,
+                "stop_frame": 2735
+            },
+            {
+                "narration_text": "#C C molds the dough",
+                "start_frame": 2735,
+                "stop_frame": 2962
+            }
+        ]
+    },
+    {
+        "task_goal": "Mold and put the dough in the tray",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts rice in the dough",
+                "start_frame": 2681,
+                "stop_frame": 2735
+            },
+            {
+                "narration_text": "#C C molds the dough",
+                "start_frame": 2735,
+                "stop_frame": 2962
+            },
+            {
+                "narration_text": "#C C puts the dough in the tray",
+                "start_frame": 2962,
+                "stop_frame": 2984
+            },
+            {
+                "narration_text": "#C C pinches the dough",
+                "start_frame": 2984,
+                "stop_frame": 3020
+            }
+        ]
+    },
+    {
+        "task_goal": "Pinch and mold the dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the rice in the dough",
+                "start_frame": 4972,
+                "stop_frame": 5007
+            },
+            {
+                "narration_text": "#C C molds the dough",
+                "start_frame": 5007,
+                "stop_frame": 5296
+            },
+            {
+                "narration_text": "#C C puts the dough in the tray",
+                "start_frame": 5296,
+                "stop_frame": 5311
+            },
+            {
+                "narration_text": "#C C pinches the dough",
+                "start_frame": 5311,
+                "stop_frame": 5340
+            },
+            {
+                "narration_text": "#C C puts the dough in the hand",
+                "start_frame": 5340,
+                "stop_frame": 5344
+            },
+            {
+                "narration_text": "#C C molds the dough",
+                "start_frame": 5344,
+                "stop_frame": 5640
+            }
+        ]
+    },
+    {
+        "task_goal": "Roll dough and coat fingers with flour",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#O A woman D shapes the dough.",
+                "start_frame": 72346,
+                "stop_frame": 72515
+            },
+            {
+                "narration_text": "#C C rolls the dough.",
+                "start_frame": 72515,
+                "stop_frame": 72633
+            },
+            {
+                "narration_text": "#C C coats her fingers with flour.",
+                "start_frame": 72633,
+                "stop_frame": 72678
+            },
+            {
+                "narration_text": "#C C shapes the dough.",
+                "start_frame": 72678,
+                "stop_frame": 72778
+            }
+        ]
+    }
+]

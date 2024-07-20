@@ -1,0 +1,94 @@
+{
+    "overall_goal": "Clean and organize kitchen dishes and utensils",
+    "clips": [
+        {
+            "subgoal": "Collect and wash dishes and utensils",
+            "start_timestamp": 52,
+            "stop_timestamp": 3579,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Collect all dirty dishes and utensils",
+                    "start_timestamp": 52,
+                    "stop_timestamp": 188
+                },
+                {
+                    "secondary_subgoal": "Wash the kitchen cloth",
+                    "start_timestamp": 215,
+                    "stop_timestamp": 459
+                },
+                {
+                    "secondary_subgoal": "Wipe and clean the tray and sink table",
+                    "start_timestamp": 624,
+                    "stop_timestamp": 838
+                },
+                {
+                    "secondary_subgoal": "Place the oven tray on a shelf",
+                    "start_timestamp": 872,
+                    "stop_timestamp": 1027
+                },
+                {
+                    "secondary_subgoal": "Wash another set of dishes and utensils",
+                    "start_timestamp": 1116,
+                    "stop_timestamp": 2154
+                },
+                {
+                    "secondary_subgoal": "Continue washing the washing cloth",
+                    "start_timestamp": 2189,
+                    "stop_timestamp": 2435
+                },
+                {
+                    "secondary_subgoal": "Rinse and place more bowls on sink table",
+                    "start_timestamp": 2585,
+                    "stop_timestamp": 3386
+                },
+                {
+                    "secondary_subgoal": "Rinse and place chopsticks on sink table",
+                    "start_timestamp": 3403,
+                    "stop_timestamp": 3507
+                },
+                {
+                    "secondary_subgoal": "Fold and place the polythene bag on a shelf",
+                    "start_timestamp": 3579,
+                    "stop_timestamp": 3921
+                }
+            ]
+        },
+        {
+            "subgoal": "Dry and organize dishes and utensils",
+            "start_timestamp": 3980,
+            "stop_timestamp": 6672,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Dry and place bowls on shelf",
+                    "start_timestamp": 4036,
+                    "stop_timestamp": 4663
+                },
+                {
+                    "secondary_subgoal": "Dry and place chopsticks in drawer",
+                    "start_timestamp": 4708,
+                    "stop_timestamp": 4849
+                },
+                {
+                    "secondary_subgoal": "Dry #unsure object and place it on table",
+                    "start_timestamp": 4911,
+                    "stop_timestamp": 5004
+                },
+                {
+                    "secondary_subgoal": "Fold and hang hand towel",
+                    "start_timestamp": 5023,
+                    "stop_timestamp": 5066
+                },
+                {
+                    "secondary_subgoal": "Complete cleaning of kitchen trays, sink, and table",
+                    "start_timestamp": 5096,
+                    "stop_timestamp": 6082
+                },
+                {
+                    "secondary_subgoal": "Organize and place bowls on shelf",
+                    "start_timestamp": 6388,
+                    "stop_timestamp": 6672
+                }
+            ]
+        }
+    ]
+}

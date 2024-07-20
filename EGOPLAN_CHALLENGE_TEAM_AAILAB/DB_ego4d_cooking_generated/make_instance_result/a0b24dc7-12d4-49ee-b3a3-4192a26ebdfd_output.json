@@ -1,0 +1,852 @@
+[
+    {
+        "task_goal": "Add vinegar to the cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C touches the cooking pot lid",
+                "start_frame": 1,
+                "stop_frame": 2
+            },
+            {
+                "narration_text": "#C C uncovers the cooking pot",
+                "start_frame": 2,
+                "stop_frame": 41
+            },
+            {
+                "narration_text": "#C C converses",
+                "start_frame": 41,
+                "stop_frame": 45
+            },
+            {
+                "narration_text": "#C C puts down the cooking pot lid",
+                "start_frame": 45,
+                "stop_frame": 70
+            },
+            {
+                "narration_text": "#C C takes the vinegar bottle",
+                "start_frame": 70,
+                "stop_frame": 95
+            },
+            {
+                "narration_text": "#C C opens the vinegar bottle",
+                "start_frame": 95,
+                "stop_frame": 131
+            },
+            {
+                "narration_text": "#C C touches the heat regulator",
+                "start_frame": 131,
+                "stop_frame": 186
+            },
+            {
+                "narration_text": "#C C pours the vinegar in the cooking pot",
+                "start_frame": 186,
+                "stop_frame": 294
+            },
+            {
+                "narration_text": "#C C puts down the vinegar bottle",
+                "start_frame": 294,
+                "stop_frame": 338
+            },
+            {
+                "narration_text": "#C C takes the cooking pot lid",
+                "start_frame": 338,
+                "stop_frame": 378
+            },
+            {
+                "narration_text": "#C C closes the cooking pot",
+                "start_frame": 378,
+                "stop_frame": 407
+            },
+            {
+                "narration_text": "#C C closes the vinegar bottle",
+                "start_frame": 407,
+                "stop_frame": 462
+            }
+        ]
+    },
+    {
+        "task_goal": "Uncover the cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C touches the cooking pot lid",
+                "start_frame": 1,
+                "stop_frame": 2
+            },
+            {
+                "narration_text": "#C C uncovers the cooking pot",
+                "start_frame": 2,
+                "stop_frame": 41
+            },
+            {
+                "narration_text": "#C C converses",
+                "start_frame": 41,
+                "stop_frame": 45
+            },
+            {
+                "narration_text": "#C C puts down the cooking pot lid",
+                "start_frame": 45,
+                "stop_frame": 70
+            }
+        ]
+    },
+    {
+        "task_goal": "Take and open the vinegar bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts down the cooking pot lid",
+                "start_frame": 45,
+                "stop_frame": 70
+            },
+            {
+                "narration_text": "#C C takes the vinegar bottle",
+                "start_frame": 70,
+                "stop_frame": 95
+            },
+            {
+                "narration_text": "#C C opens the vinegar bottle",
+                "start_frame": 95,
+                "stop_frame": 131
+            },
+            {
+                "narration_text": "#C C touches the heat regulator",
+                "start_frame": 131,
+                "stop_frame": 186
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour vinegar into the cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C touches the heat regulator",
+                "start_frame": 131,
+                "stop_frame": 186
+            },
+            {
+                "narration_text": "#C C pours the vinegar in the cooking pot",
+                "start_frame": 186,
+                "stop_frame": 294
+            },
+            {
+                "narration_text": "#C C puts down the vinegar bottle",
+                "start_frame": 294,
+                "stop_frame": 338
+            }
+        ]
+    },
+    {
+        "task_goal": "Close the cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes the cooking pot lid",
+                "start_frame": 338,
+                "stop_frame": 378
+            },
+            {
+                "narration_text": "#C C closes the cooking pot",
+                "start_frame": 378,
+                "stop_frame": 407
+            },
+            {
+                "narration_text": "#C C closes the vinegar bottle",
+                "start_frame": 407,
+                "stop_frame": 462
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare cleaning tools (e.g., tissue and scrub sponge)",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes the tissue",
+                "start_frame": 462,
+                "stop_frame": 515
+            },
+            {
+                "narration_text": "#C C puts down the tissue",
+                "start_frame": 515,
+                "stop_frame": 559
+            },
+            {
+                "narration_text": "#C C takes the grater",
+                "start_frame": 559,
+                "stop_frame": 573
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 573,
+                "stop_frame": 586
+            },
+            {
+                "narration_text": "#C C takes the sponge scrub",
+                "start_frame": 586,
+                "stop_frame": 608
+            },
+            {
+                "narration_text": "#C C washes the grater",
+                "start_frame": 608,
+                "stop_frame": 655
+            },
+            {
+                "narration_text": "#C C puts down the scrub sponge",
+                "start_frame": 655,
+                "stop_frame": 669
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash grater",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C washes the grater",
+                "start_frame": 608,
+                "stop_frame": 655
+            },
+            {
+                "narration_text": "#C C puts down the scrub sponge",
+                "start_frame": 655,
+                "stop_frame": 669
+            },
+            {
+                "narration_text": "#C C puts down the grater",
+                "start_frame": 669,
+                "stop_frame": 723
+            },
+            {
+                "narration_text": "#C C takes the grater",
+                "start_frame": 723,
+                "stop_frame": 754
+            }
+        ]
+    },
+    {
+        "task_goal": "Finish cleaning and set tools aside",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts down the scrub sponge",
+                "start_frame": 655,
+                "stop_frame": 669
+            },
+            {
+                "narration_text": "#C C puts down the grater",
+                "start_frame": 669,
+                "stop_frame": 723
+            },
+            {
+                "narration_text": "#C C takes the grater",
+                "start_frame": 723,
+                "stop_frame": 754
+            },
+            {
+                "narration_text": "#C C cleans the grater",
+                "start_frame": 754,
+                "stop_frame": 783
+            },
+            {
+                "narration_text": "#C C puts down the grater",
+                "start_frame": 783,
+                "stop_frame": 814
+            },
+            {
+                "narration_text": "#C C scrubs the sink",
+                "start_frame": 814,
+                "stop_frame": 1003
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C scrubs the sink",
+                "start_frame": 814,
+                "stop_frame": 1003
+            },
+            {
+                "narration_text": "#C C puts down the scrubber",
+                "start_frame": 1003,
+                "stop_frame": 1023
+            },
+            {
+                "narration_text": "#C C fills the dish with water",
+                "start_frame": 1023,
+                "stop_frame": 1038
+            }
+        ]
+    },
+    {
+        "task_goal": "Fill dish with water and pour out water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C fills the dish with water",
+                "start_frame": 1023,
+                "stop_frame": 1038
+            },
+            {
+                "narration_text": "#C C pours the water",
+                "start_frame": 1038,
+                "stop_frame": 1054
+            },
+            {
+                "narration_text": "#C C fills the dish with water",
+                "start_frame": 1054,
+                "stop_frame": 1073
+            },
+            {
+                "narration_text": "#C C pours the water",
+                "start_frame": 1073,
+                "stop_frame": 1139
+            },
+            {
+                "narration_text": "#C C puts down the dish",
+                "start_frame": 1139,
+                "stop_frame": 1152
+            },
+            {
+                "narration_text": "#C C takes the grater",
+                "start_frame": 1152,
+                "stop_frame": 1174
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean grater again",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts down the dish",
+                "start_frame": 1139,
+                "stop_frame": 1152
+            },
+            {
+                "narration_text": "#C C takes the grater",
+                "start_frame": 1152,
+                "stop_frame": 1174
+            },
+            {
+                "narration_text": "#C C takes the sponge scrub",
+                "start_frame": 1174,
+                "stop_frame": 1192
+            },
+            {
+                "narration_text": "#C C scrubs the grater",
+                "start_frame": 1192,
+                "stop_frame": 1272
+            },
+            {
+                "narration_text": "#C C puts down the scrub sponge",
+                "start_frame": 1272,
+                "stop_frame": 1298
+            },
+            {
+                "narration_text": "#C C cleans the grater",
+                "start_frame": 1298,
+                "stop_frame": 1333
+            },
+            {
+                "narration_text": "#C C touches the dish",
+                "start_frame": 1333,
+                "stop_frame": 1364
+            },
+            {
+                "narration_text": "#C C puts down the grater",
+                "start_frame": 1364,
+                "stop_frame": 1376
+            },
+            {
+                "narration_text": "#C C takes the knife",
+                "start_frame": 1376,
+                "stop_frame": 1401
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean knife and put it in the cupboard",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts down the grater",
+                "start_frame": 1364,
+                "stop_frame": 1376
+            },
+            {
+                "narration_text": "#C C takes the knife",
+                "start_frame": 1376,
+                "stop_frame": 1401
+            },
+            {
+                "narration_text": "#C C takes the scrub sponge",
+                "start_frame": 1401,
+                "stop_frame": 1426
+            },
+            {
+                "narration_text": "#C C cleans the knife",
+                "start_frame": 1426,
+                "stop_frame": 1469
+            },
+            {
+                "narration_text": "#C C puts down the scrub sponge",
+                "start_frame": 1469,
+                "stop_frame": 1520
+            },
+            {
+                "narration_text": "#C C cleans the knife",
+                "start_frame": 1520,
+                "stop_frame": 1568
+            },
+            {
+                "narration_text": "#C C opens the cupboard",
+                "start_frame": 1568,
+                "stop_frame": 1574
+            },
+            {
+                "narration_text": "#C C puts the knife in the cupboard",
+                "start_frame": 1574,
+                "stop_frame": 1627
+            },
+            {
+                "narration_text": "#C C closes the cupboard",
+                "start_frame": 1627,
+                "stop_frame": 1667
+            },
+            {
+                "narration_text": "#C C takes the cutting board",
+                "start_frame": 1667,
+                "stop_frame": 1705
+            },
+            {
+                "narration_text": "#C C cleans the cutting board",
+                "start_frame": 1705,
+                "stop_frame": 1735
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean and put away the cutting board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes the cutting board",
+                "start_frame": 1667,
+                "stop_frame": 1705
+            },
+            {
+                "narration_text": "#C C cleans the cutting board",
+                "start_frame": 1705,
+                "stop_frame": 1735
+            },
+            {
+                "narration_text": "#C C puts down the cutting board",
+                "start_frame": 1735,
+                "stop_frame": 1769
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 1769,
+                "stop_frame": 1822
+            },
+            {
+                "narration_text": "#C C takes the chop sticks",
+                "start_frame": 1822,
+                "stop_frame": 1848
+            }
+        ]
+    },
+    {
+        "task_goal": "Move meat in the cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes the chop sticks",
+                "start_frame": 1822,
+                "stop_frame": 1848
+            },
+            {
+                "narration_text": "#C C uncovers the cooking pot",
+                "start_frame": 1848,
+                "stop_frame": 1923
+            },
+            {
+                "narration_text": "#C C moves the meat with the chop sticks",
+                "start_frame": 1923,
+                "stop_frame": 2259
+            },
+            {
+                "narration_text": "#C C taps the chop sticks on the cooking pot",
+                "start_frame": 2259,
+                "stop_frame": 2275
+            },
+            {
+                "narration_text": "#C C covers the cooking pot",
+                "start_frame": 2275,
+                "stop_frame": 2322
+            },
+            {
+                "narration_text": "#C C touches the heat regulator",
+                "start_frame": 2322,
+                "stop_frame": 2352
+            },
+            {
+                "narration_text": "#C C puts the chop sticks on the cutting board",
+                "start_frame": 2352,
+                "stop_frame": 2400
+            }
+        ]
+    },
+    {
+        "task_goal": "Uncover the cooking pot and stir meat with chop sticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes the chop sticks",
+                "start_frame": 1822,
+                "stop_frame": 1848
+            },
+            {
+                "narration_text": "#C C uncovers the cooking pot",
+                "start_frame": 1848,
+                "stop_frame": 1923
+            },
+            {
+                "narration_text": "#C C moves the meat with the chop sticks",
+                "start_frame": 1923,
+                "stop_frame": 2259
+            },
+            {
+                "narration_text": "#C C taps the chop sticks on the cooking pot",
+                "start_frame": 2259,
+                "stop_frame": 2275
+            },
+            {
+                "narration_text": "#C C covers the cooking pot",
+                "start_frame": 2275,
+                "stop_frame": 2322
+            }
+        ]
+    },
+    {
+        "task_goal": "Cover the cooking pot and adjust heat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C covers the cooking pot",
+                "start_frame": 2275,
+                "stop_frame": 2322
+            },
+            {
+                "narration_text": "#C C touches the heat regulator",
+                "start_frame": 2322,
+                "stop_frame": 2352
+            },
+            {
+                "narration_text": "#C C puts the chop sticks on the cutting board",
+                "start_frame": 2352,
+                "stop_frame": 2400
+            }
+        ]
+    },
+    {
+        "task_goal": "Perform hand hygiene and drink water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the chop sticks on the cutting board",
+                "start_frame": 2352,
+                "stop_frame": 2400
+            },
+            {
+                "narration_text": "#C C wipes her hand on her cloth",
+                "start_frame": 2400,
+                "stop_frame": 2540
+            },
+            {
+                "narration_text": "#C C sighs",
+                "start_frame": 2540,
+                "stop_frame": 2622
+            },
+            {
+                "narration_text": "#C C takes the glass",
+                "start_frame": 2622,
+                "stop_frame": 2671
+            },
+            {
+                "narration_text": "#C C drinks from the glass",
+                "start_frame": 2671,
+                "stop_frame": 2757
+            },
+            {
+                "narration_text": "#C C puts down the glass",
+                "start_frame": 2757,
+                "stop_frame": 2854
+            },
+            {
+                "narration_text": "#C C stands in the kitchen",
+                "start_frame": 2854,
+                "stop_frame": 3041
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe hands on cloth and sigh",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the chop sticks on the cutting board",
+                "start_frame": 2352,
+                "stop_frame": 2400
+            },
+            {
+                "narration_text": "#C C wipes her hand on her cloth",
+                "start_frame": 2400,
+                "stop_frame": 2540
+            },
+            {
+                "narration_text": "#C C sighs",
+                "start_frame": 2540,
+                "stop_frame": 2622
+            },
+            {
+                "narration_text": "#C C takes the glass",
+                "start_frame": 2622,
+                "stop_frame": 2671
+            },
+            {
+                "narration_text": "#C C drinks from the glass",
+                "start_frame": 2671,
+                "stop_frame": 2757
+            }
+        ]
+    },
+    {
+        "task_goal": "Take and drink from the glass",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes the glass",
+                "start_frame": 2622,
+                "stop_frame": 2671
+            },
+            {
+                "narration_text": "#C C drinks from the glass",
+                "start_frame": 2671,
+                "stop_frame": 2757
+            },
+            {
+                "narration_text": "#C C puts down the glass",
+                "start_frame": 2757,
+                "stop_frame": 2854
+            },
+            {
+                "narration_text": "#C C stands in the kitchen",
+                "start_frame": 2854,
+                "stop_frame": 3041
+            }
+        ]
+    },
+    {
+        "task_goal": "Final look at the cooking process and tidy up",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stands in the kitchen",
+                "start_frame": 2854,
+                "stop_frame": 3041
+            },
+            {
+                "narration_text": "#C C uncovers the cooking pot",
+                "start_frame": 3041,
+                "stop_frame": 3108
+            },
+            {
+                "narration_text": "#C C looks at the meat",
+                "start_frame": 3108,
+                "stop_frame": 3160
+            },
+            {
+                "narration_text": "#C C covers the cooking pot",
+                "start_frame": 3160,
+                "stop_frame": 3232
+            },
+            {
+                "narration_text": "#C C looks at the cooking pot",
+                "start_frame": 3232,
+                "stop_frame": 3366
+            },
+            {
+                "narration_text": "#C C touches her cloth",
+                "start_frame": 3366,
+                "stop_frame": 3551
+            },
+            {
+                "narration_text": "#C C takes the wipe",
+                "start_frame": 3551,
+                "stop_frame": 3563
+            },
+            {
+                "narration_text": "#C C moves the vinegar bottle",
+                "start_frame": 3563,
+                "stop_frame": 3704
+            },
+            {
+                "narration_text": "#C C wipes the sink",
+                "start_frame": 3704,
+                "stop_frame": 3746
+            },
+            {
+                "narration_text": "#C C puts down the packet",
+                "start_frame": 3746,
+                "stop_frame": 3879
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 3879,
+                "stop_frame": 3897
+            },
+            {
+                "narration_text": "#C C washes the wipe",
+                "start_frame": 3897,
+                "stop_frame": 4013
+            },
+            {
+                "narration_text": "#C C presses the wipe",
+                "start_frame": 4013,
+                "stop_frame": 4046
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 4046,
+                "stop_frame": 4083
+            },
+            {
+                "narration_text": "#C C puts down the wipe",
+                "start_frame": 4083,
+                "stop_frame": 4138
+            },
+            {
+                "narration_text": "#C C uncovers the cooking pot",
+                "start_frame": 4138,
+                "stop_frame": 4163
+            },
+            {
+                "narration_text": "#C C looks at the meat",
+                "start_frame": 4163,
+                "stop_frame": 4281
+            },
+            {
+                "narration_text": "#C C adjusts the camera",
+                "start_frame": 4281,
+                "stop_frame": 4381
+            }
+        ]
+    },
+    {
+        "task_goal": "Uncover cooking pot, look at meat, and cover cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stands in the kitchen",
+                "start_frame": 2854,
+                "stop_frame": 3041
+            },
+            {
+                "narration_text": "#C C uncovers the cooking pot",
+                "start_frame": 3041,
+                "stop_frame": 3108
+            },
+            {
+                "narration_text": "#C C looks at the meat",
+                "start_frame": 3108,
+                "stop_frame": 3160
+            },
+            {
+                "narration_text": "#C C covers the cooking pot",
+                "start_frame": 3160,
+                "stop_frame": 3232
+            },
+            {
+                "narration_text": "#C C looks at the cooking pot",
+                "start_frame": 3232,
+                "stop_frame": 3366
+            },
+            {
+                "narration_text": "#C C touches her cloth",
+                "start_frame": 3366,
+                "stop_frame": 3551
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean the kitchen area",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C touches her cloth",
+                "start_frame": 3366,
+                "stop_frame": 3551
+            },
+            {
+                "narration_text": "#C C takes the wipe",
+                "start_frame": 3551,
+                "stop_frame": 3563
+            },
+            {
+                "narration_text": "#C C moves the vinegar bottle",
+                "start_frame": 3563,
+                "stop_frame": 3704
+            },
+            {
+                "narration_text": "#C C wipes the sink",
+                "start_frame": 3704,
+                "stop_frame": 3746
+            },
+            {
+                "narration_text": "#C C puts down the packet",
+                "start_frame": 3746,
+                "stop_frame": 3879
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 3879,
+                "stop_frame": 3897
+            },
+            {
+                "narration_text": "#C C washes the wipe",
+                "start_frame": 3897,
+                "stop_frame": 4013
+            },
+            {
+                "narration_text": "#C C presses the wipe",
+                "start_frame": 4013,
+                "stop_frame": 4046
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 4046,
+                "stop_frame": 4083
+            },
+            {
+                "narration_text": "#C C puts down the wipe",
+                "start_frame": 4083,
+                "stop_frame": 4138
+            },
+            {
+                "narration_text": "#C C uncovers the cooking pot",
+                "start_frame": 4138,
+                "stop_frame": 4163
+            },
+            {
+                "narration_text": "#C C looks at the meat",
+                "start_frame": 4163,
+                "stop_frame": 4281
+            }
+        ]
+    },
+    {
+        "task_goal": "Final check on meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C uncovers the cooking pot",
+                "start_frame": 4138,
+                "stop_frame": 4163
+            },
+            {
+                "narration_text": "#C C looks at the meat",
+                "start_frame": 4163,
+                "stop_frame": 4281
+            },
+            {
+                "narration_text": "#C C adjusts the camera",
+                "start_frame": 4281,
+                "stop_frame": 4381
+            }
+        ]
+    }
+]

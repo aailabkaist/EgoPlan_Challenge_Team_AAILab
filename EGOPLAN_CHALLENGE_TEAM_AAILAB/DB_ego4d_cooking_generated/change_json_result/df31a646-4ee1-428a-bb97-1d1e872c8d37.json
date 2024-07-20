@@ -1,0 +1,225 @@
+{
+    "overall_goal": "Prepare a cooked meal involving various vegetables.",
+    "clips": [
+        {
+            "subgoal": "Fetch water and prepare the cooking pot.",
+            "start_timestamp": 13,
+            "stop_timestamp": 1031,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fetch first batch of water.",
+                    "start_timestamp": 13,
+                    "stop_timestamp": 65
+                },
+                {
+                    "secondary_subgoal": "Close faucet and walk around the kitchen.",
+                    "start_timestamp": 65,
+                    "stop_timestamp": 141
+                },
+                {
+                    "secondary_subgoal": "Put water in the cooking pot.",
+                    "start_timestamp": 141,
+                    "stop_timestamp": 193
+                },
+                {
+                    "secondary_subgoal": "Walk around the kitchen.",
+                    "start_timestamp": 193,
+                    "stop_timestamp": 239
+                },
+                {
+                    "secondary_subgoal": "Turn off the gas cooker.",
+                    "start_timestamp": 239,
+                    "stop_timestamp": 278
+                },
+                {
+                    "secondary_subgoal": "Fetch second batch of water.",
+                    "start_timestamp": 278,
+                    "stop_timestamp": 337
+                },
+                {
+                    "secondary_subgoal": "Close faucet and walk around the kitchen.",
+                    "start_timestamp": 337,
+                    "stop_timestamp": 408
+                },
+                {
+                    "secondary_subgoal": "Put water in the cooking pot.",
+                    "start_timestamp": 408,
+                    "stop_timestamp": 453
+                },
+                {
+                    "secondary_subgoal": "Move around the kitchen.",
+                    "start_timestamp": 453,
+                    "stop_timestamp": 533
+                },
+                {
+                    "secondary_subgoal": "Fetch third batch of water.",
+                    "start_timestamp": 533,
+                    "stop_timestamp": 553
+                },
+                {
+                    "secondary_subgoal": "Close faucet and move around the kitchen.",
+                    "start_timestamp": 553,
+                    "stop_timestamp": 601
+                },
+                {
+                    "secondary_subgoal": "Put water in the cooking pot.",
+                    "start_timestamp": 601,
+                    "stop_timestamp": 635
+                },
+                {
+                    "secondary_subgoal": "Move around the kitchen.",
+                    "start_timestamp": 635,
+                    "stop_timestamp": 682
+                },
+                {
+                    "secondary_subgoal": "Fetch fourth batch of water.",
+                    "start_timestamp": 682,
+                    "stop_timestamp": 717
+                },
+                {
+                    "secondary_subgoal": "Close faucet and move around the kitchen.",
+                    "start_timestamp": 717,
+                    "stop_timestamp": 738
+                },
+                {
+                    "secondary_subgoal": "Put water in the cooking pot.",
+                    "start_timestamp": 738,
+                    "stop_timestamp": 772
+                },
+                {
+                    "secondary_subgoal": "Move around the kitchen.",
+                    "start_timestamp": 772,
+                    "stop_timestamp": 837
+                },
+                {
+                    "secondary_subgoal": "Fetch final batch of water.",
+                    "start_timestamp": 837,
+                    "stop_timestamp": 873
+                },
+                {
+                    "secondary_subgoal": "Close faucet and move around the kitchen.",
+                    "start_timestamp": 873,
+                    "stop_timestamp": 902
+                },
+                {
+                    "secondary_subgoal": "Put water in the cooking pot.",
+                    "start_timestamp": 902,
+                    "stop_timestamp": 937
+                },
+                {
+                    "secondary_subgoal": "Put the cup on the countertop.",
+                    "start_timestamp": 993,
+                    "stop_timestamp": 1031
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare physical cooking setup and initial steps of cooking.",
+            "start_timestamp": 1031,
+            "stop_timestamp": 1464,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick wooden flat spoon and stir the cooking pot.",
+                    "start_timestamp": 1031,
+                    "stop_timestamp": 1085
+                },
+                {
+                    "secondary_subgoal": "Hit the cooking pot with flat spoon.",
+                    "start_timestamp": 1334,
+                    "stop_timestamp": 1431
+                },
+                {
+                    "secondary_subgoal": "Put the flat spoon on the cup.",
+                    "start_timestamp": 1431,
+                    "stop_timestamp": 1475
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean and cut vegetables for cooking.",
+            "start_timestamp": 1475,
+            "stop_timestamp": 6437,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Straighten, fold, and put plastic paper in woven bag.",
+                    "start_timestamp": 1475,
+                    "stop_timestamp": 1664
+                },
+                {
+                    "secondary_subgoal": "Pick and place box of unsures around.",
+                    "start_timestamp": 1682,
+                    "stop_timestamp": 1751
+                },
+                {
+                    "secondary_subgoal": "Walk around house and put plastic paper in dustbin.",
+                    "start_timestamp": 1751,
+                    "stop_timestamp": 1942
+                },
+                {
+                    "secondary_subgoal": "Pick pack of unsure and move chopping board.",
+                    "start_timestamp": 1979,
+                    "stop_timestamp": 2083
+                },
+                {
+                    "secondary_subgoal": "Pick knife, chopping board, and other items around the house.",
+                    "start_timestamp": 2083,
+                    "stop_timestamp": 2244
+                },
+                {
+                    "secondary_subgoal": "Unwrap and place eggplants, paper folds, eggplants comparison.",
+                    "start_timestamp": 2244,
+                    "stop_timestamp": 3726
+                },
+                {
+                    "secondary_subgoal": "Wash, peel, cut and place eggplants.",
+                    "start_timestamp": 3779,
+                    "stop_timestamp": 6437
+                }
+            ]
+        },
+        {
+            "subgoal": "Setup and deploy capsicum for cooking.",
+            "start_timestamp": 11707,
+            "stop_timestamp": 15218,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare the capsicum.",
+                    "start_timestamp": 11767,
+                    "stop_timestamp": 11925
+                },
+                {
+                    "secondary_subgoal": "Clean and cut capsicum.",
+                    "start_timestamp": 11991,
+                    "stop_timestamp": 12728
+                },
+                {
+                    "secondary_subgoal": "Cut inner parts of the capsicum.",
+                    "start_timestamp": 12728,
+                    "stop_timestamp": 13401
+                }
+            ]
+        },
+        {
+            "subgoal": "Unwrap and place cucumber, then wash and cut it.",
+            "start_timestamp": 13606,
+            "stop_timestamp": 15173,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Unwrap and clean cucumber.",
+                    "start_timestamp": 13606,
+                    "stop_timestamp": 14012
+                },
+                {
+                    "secondary_subgoal": "Cut and prepare cucumber.",
+                    "start_timestamp": 14038,
+                    "stop_timestamp": 15087
+                },
+                {
+                    "secondary_subgoal": "Place knife on chopping board.",
+                    "start_timestamp": 15109,
+                    "stop_timestamp": 15173
+                }
+            ]
+        }
+    ]
+}

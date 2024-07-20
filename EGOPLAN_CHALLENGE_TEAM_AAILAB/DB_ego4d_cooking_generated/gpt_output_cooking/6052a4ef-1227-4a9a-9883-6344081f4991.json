@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehQcyhPJnK6E4d5B4kX1D7CCITMh",
+    "object": "chat.completion",
+    "created": 1719487086,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Clean and organize the kitchen\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Clean hands and sink area\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 1600,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash hands\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 146\n        },\n        {\n          \"secondary_subgoal\": \"Walk in the kitchen\",\n          \"start_timestamp\": 146,\n          \"stop_timestamp\": 339\n        },\n        {\n          \"secondary_subgoal\": \"Pick and arrange items around the sink\",\n          \"start_timestamp\": 339,\n          \"stop_timestamp\": 757\n        },\n        {\n          \"secondary_subgoal\": \"Repeatedly open and close various lids\",\n          \"start_timestamp\": 757,\n          \"stop_timestamp\": 1222\n        },\n        {\n          \"secondary_subgoal\": \"Pour water and clean sink area\",\n          \"start_timestamp\": 1222,\n          \"stop_timestamp\": 1600\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Continue cleaning sink area\",\n      \"start_timestamp\": 1600,\n      \"stop_timestamp\": 2039,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean sink with a towel\",\n          \"start_timestamp\": 1600,\n          \"stop_timestamp\": 1700\n        },\n        {\n          \"secondary_subgoal\": \"Handle various items around the sink\",\n          \"start_timestamp\": 1700,\n          \"stop_timestamp\": 2039\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Organize fridge and nearby area\",\n      \"start_timestamp\": 2039,\n      \"stop_timestamp\": 2594,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Open and organize fridge\",\n          \"start_timestamp\": 2039,\n          \"stop_timestamp\": 2172\n        },\n        {\n          \"secondary_subgoal\": \"Put items in the fridge\",\n          \"start_timestamp\": 2172,\n          \"stop_timestamp\": 2594\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Arrange items and touch camera\",\n      \"start_timestamp\": 2594,\n      \"stop_timestamp\": 4220,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handle items around the kitchen\",\n          \"start_timestamp\": 2594,\n          \"stop_timestamp\": 3312\n        },\n        {\n          \"secondary_subgoal\": \"Stretch hand to gas cooker\",\n          \"start_timestamp\": 3312,\n          \"stop_timestamp\": 3695\n        },\n        {\n          \"secondary_subgoal\": \"Touch camera and other objects\",\n          \"start_timestamp\": 3695,\n          \"stop_timestamp\": 4220\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 986,
+        "completion_tokens": 610,
+        "total_tokens": 1596
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

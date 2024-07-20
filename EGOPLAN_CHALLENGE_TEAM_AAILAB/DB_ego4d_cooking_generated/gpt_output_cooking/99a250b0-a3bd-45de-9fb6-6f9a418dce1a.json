@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfua2Wq4WuEPYfIrpLKX0k4VZSYH",
+    "object": "chat.completion",
+    "created": 1719242928,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cooking meat pieces with spices and cleaning up\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing the pan and turning on the cooker\",\n      \"start_timestamp\": \"37\",\n      \"stop_timestamp\": \"459\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turning on the cooker\",\n          \"start_timestamp\": \"37\",\n          \"stop_timestamp\": \"49\"\n        },\n        {\n          \"secondary_subgoal\": \"Preparing the pan\",\n          \"start_timestamp\": \"49\",\n          \"stop_timestamp\": \"459\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handling meat pieces and opening fridge multiple times\",\n      \"start_timestamp\": \"459\",\n      \"stop_timestamp\": \"1154\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Getting meat pieces from fridge\",\n          \"start_timestamp\": \"459\",\n          \"stop_timestamp\": \"870\"\n        },\n        {\n          \"secondary_subgoal\": \"Organizing items on the counter\",\n          \"start_timestamp\": \"870\",\n          \"stop_timestamp\": \"1154\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Adding ingredients to the pan and interacting with the fridge\",\n      \"start_timestamp\": \"1154\",\n      \"stop_timestamp\": \"1788\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Getting a drink and looking around\",\n          \"start_timestamp\": \"1154\",\n          \"stop_timestamp\": \"1357\"\n        },\n        {\n          \"secondary_subgoal\": \"Preparing meat pieces and putting them in the pan\",\n          \"start_timestamp\": \"1357\",\n          \"stop_timestamp\": \"1788\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking the meat\",\n      \"start_timestamp\": \"1788\",\n      \"stop_timestamp\": \"7038\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stirring and separating meat pieces\",\n          \"start_timestamp\": \"1788\",\n          \"stop_timestamp\": \"7038\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Adding spices and mixing\",\n      \"start_timestamp\": \"7038\",\n      \"stop_timestamp\": \"13488\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Adding spices and stirring meat\",\n          \"start_timestamp\": \"7038\",\n          \"stop_timestamp\": \"13488\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finalizing cooking and cleaning up space\",\n      \"start_timestamp\": \"13488\",\n      \"stop_timestamp\": \"17283\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Performing final cooking steps and stirring\",\n          \"start_timestamp\": \"13488\",\n          \"stop_timestamp\": \"16985\"\n        },\n        {\n          \"secondary_subgoal\": \"Plating the meat\",\n          \"start_timestamp\": \"16985\",\n          \"stop_timestamp\": \"17283\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning cooking utensils and area\",\n      \"start_timestamp\": \"17283\",\n      \"stop_timestamp\": \"20873\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Washing hands, utensils and wiping down areas\",\n          \"start_timestamp\": \"17283\",\n          \"stop_timestamp\": \"20873\"\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3938,
+        "completion_tokens": 724,
+        "total_tokens": 4662
+    },
+    "system_fingerprint": "fp_5e6c71d4a8"
+}

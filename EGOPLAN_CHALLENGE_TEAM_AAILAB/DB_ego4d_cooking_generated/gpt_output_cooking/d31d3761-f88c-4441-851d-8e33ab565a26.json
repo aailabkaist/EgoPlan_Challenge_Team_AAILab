@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehROvblMWN3eKHuu41Zj7TXS1FI3",
+    "object": "chat.completion",
+    "created": 1719487134,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare food by using various kitchen tools at the sink and microwave areas\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Gather and rinse kitchen tools\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 266,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Get and move measuring jug\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 64\n        },\n        {\n          \"secondary_subgoal\": \"Walk to the sink and put measuring jug down\",\n          \"start_timestamp\": 64,\n          \"stop_timestamp\": 93\n        },\n        {\n          \"secondary_subgoal\": \"Turn on the tap\",\n          \"start_timestamp\": 132,\n          \"stop_timestamp\": 141\n        },\n        {\n          \"secondary_subgoal\": \"Rinse hands and dry them\",\n          \"start_timestamp\": 166,\n          \"stop_timestamp\": 266\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Shake and handle strainer bowl\",\n      \"start_timestamp\": 266,\n      \"stop_timestamp\": 487,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Press and shake the strainer bowl\",\n          \"start_timestamp\": 266,\n          \"stop_timestamp\": 426\n        },\n        {\n          \"secondary_subgoal\": \"Handle measuring jug and pour water\",\n          \"start_timestamp\": 487,\n          \"stop_timestamp\": 554\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handle objects in the microwave area\",\n      \"start_timestamp\": 554,\n      \"stop_timestamp\": 772,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Move towards microwave and press buttons\",\n          \"start_timestamp\": 554,\n          \"stop_timestamp\": 609\n        },\n        {\n          \"secondary_subgoal\": \"Transfer objects into a bowl\",\n          \"start_timestamp\": 625,\n          \"stop_timestamp\": 732\n        },\n        {\n          \"secondary_subgoal\": \"Handle the measuring jug\",\n          \"start_timestamp\": 772,\n          \"stop_timestamp\": 772\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Wash and dry hands\",\n      \"start_timestamp\": 848,\n      \"stop_timestamp\": 1038,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Walk to the sink\",\n          \"start_timestamp\": 926,\n          \"stop_timestamp\": 960\n        },\n        {\n          \"secondary_subgoal\": \"Rinse and dry hands\",\n          \"start_timestamp\": 960,\n          \"stop_timestamp\": 1038\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 694,
+        "completion_tokens": 569,
+        "total_tokens": 1263
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

@@ -1,0 +1,201 @@
+{
+    "overall_goal": "Prepare a dish from coconut and canary melon",
+    "clips": [
+        {
+            "subgoal": "Adjust the camera and speak to a man",
+            "start_timestamp": 16,
+            "stop_timestamp": 216,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjust the camera",
+                    "start_timestamp": 16,
+                    "stop_timestamp": 43
+                },
+                {
+                    "secondary_subgoal": "Speak to a man",
+                    "start_timestamp": 43,
+                    "stop_timestamp": 137
+                },
+                {
+                    "secondary_subgoal": "A man adjusts the camera",
+                    "start_timestamp": 137,
+                    "stop_timestamp": 216
+                }
+            ]
+        },
+        {
+            "subgoal": "Extract cooking oil from coconut",
+            "start_timestamp": 216,
+            "stop_timestamp": 1992,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold and scoop cooking oil",
+                    "start_timestamp": 216,
+                    "stop_timestamp": 505
+                },
+                {
+                    "secondary_subgoal": "Pour cooking oil into the sieve",
+                    "start_timestamp": 505,
+                    "stop_timestamp": 1530
+                },
+                {
+                    "secondary_subgoal": "Repeat steps to extract cooking oil",
+                    "start_timestamp": 1530,
+                    "stop_timestamp": 1992
+                }
+            ]
+        },
+        {
+            "subgoal": "Grate the coconut",
+            "start_timestamp": 1992,
+            "stop_timestamp": 6183,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold and grate the coconut",
+                    "start_timestamp": 1992,
+                    "stop_timestamp": 4370
+                },
+                {
+                    "secondary_subgoal": "Wipe and continue grating",
+                    "start_timestamp": 4370,
+                    "stop_timestamp": 6183
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare coconut mixture",
+            "start_timestamp": 1992,
+            "stop_timestamp": 9336,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Speak and rotate the coconut",
+                    "start_timestamp": 5886,
+                    "stop_timestamp": 6058
+                },
+                {
+                    "secondary_subgoal": "Grate and clean the coconut",
+                    "start_timestamp": 6059,
+                    "stop_timestamp": 6183
+                },
+                {
+                    "secondary_subgoal": "Carry and scoop shredded coconut",
+                    "start_timestamp": 6183,
+                    "stop_timestamp": 7335
+                },
+                {
+                    "secondary_subgoal": "Hit and move shredded coconut",
+                    "start_timestamp": 7335,
+                    "stop_timestamp": 8062
+                },
+                {
+                    "secondary_subgoal": "Shred coconut in a tray",
+                    "start_timestamp": 8062,
+                    "stop_timestamp": 9124
+                },
+                {
+                    "secondary_subgoal": "Walk away from the table",
+                    "start_timestamp": 9124,
+                    "stop_timestamp": 9336
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare dough mixture and boil ingredients",
+            "start_timestamp": 10576,
+            "stop_timestamp": 14452,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mix flour, cumin, and salt",
+                    "start_timestamp": 10576,
+                    "stop_timestamp": 12680
+                },
+                {
+                    "secondary_subgoal": "Mix and add water",
+                    "start_timestamp": 12680,
+                    "stop_timestamp": 13217
+                },
+                {
+                    "secondary_subgoal": "Hold and shake the mixture",
+                    "start_timestamp": 13217,
+                    "stop_timestamp": 13852
+                },
+                {
+                    "secondary_subgoal": "Mix and knead with hands",
+                    "start_timestamp": 13852,
+                    "stop_timestamp": 15043
+                },
+                {
+                    "secondary_subgoal": "Scoop shredded coconut",
+                    "start_timestamp": 15043,
+                    "stop_timestamp": 16313
+                },
+                {
+                    "secondary_subgoal": "Knead and sprinkle water",
+                    "start_timestamp": 16313,
+                    "stop_timestamp": 17784
+                },
+                {
+                    "secondary_subgoal": "Speak and add unspecified ingredient",
+                    "start_timestamp": 17784,
+                    "stop_timestamp": 18302
+                },
+                {
+                    "secondary_subgoal": "Prepare dough balls",
+                    "start_timestamp": 18302,
+                    "stop_timestamp": 22087
+                }
+            ]
+        },
+        {
+            "subgoal": "Boil shredded coconut and flour mixture",
+            "start_timestamp": 22087,
+            "stop_timestamp": 28870,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add water to mixture and boil",
+                    "start_timestamp": 22087,
+                    "stop_timestamp": 28473
+                },
+                {
+                    "secondary_subgoal": "Boil and look around",
+                    "start_timestamp": 28473,
+                    "stop_timestamp": 28870
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare washed and processed ingredients",
+            "start_timestamp": 47526,
+            "stop_timestamp": 59079,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and rinse cloth",
+                    "start_timestamp": 47526,
+                    "stop_timestamp": 57016
+                },
+                {
+                    "secondary_subgoal": "Rinse and wring the cloth",
+                    "start_timestamp": 57016,
+                    "stop_timestamp": 59186
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook canary melon",
+            "start_timestamp": 71526,
+            "stop_timestamp": 79724,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel and cut canary melon",
+                    "start_timestamp": 71526,
+                    "stop_timestamp": 76925
+                },
+                {
+                    "secondary_subgoal": "Store cut pieces",
+                    "start_timestamp": 76925,
+                    "stop_timestamp": 79724
+                }
+            ]
+        }
+    ]
+}

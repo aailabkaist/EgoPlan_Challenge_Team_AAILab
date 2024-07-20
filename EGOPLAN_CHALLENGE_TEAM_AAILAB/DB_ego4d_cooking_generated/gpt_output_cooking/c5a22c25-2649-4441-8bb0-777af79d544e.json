@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eevaDmoFhVr48ZxIzi0zGe8qmtcI",
+    "object": "chat.completion",
+    "created": 1719477474,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a blended mixture and other food items\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Gather utensils and ingredients\",\n      \"start_timestamp\": 342,\n      \"stop_timestamp\": 1485,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick bowl from table and place in sink\",\n          \"start_timestamp\": 342,\n          \"stop_timestamp\": 467\n        },\n        {\n          \"secondary_subgoal\": \"Open fridge to pick items\",\n          \"start_timestamp\": 923,\n          \"stop_timestamp\": 1414\n        },\n        {\n          \"secondary_subgoal\": \"Move around the room and go upstairs\",\n          \"start_timestamp\": 1414,\n          \"stop_timestamp\": 1679\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Interact with others and gather more utensils\",\n      \"start_timestamp\": 1679,\n      \"stop_timestamp\": 3943,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Enter room and interact with Man Y\",\n          \"start_timestamp\": 1679,\n          \"stop_timestamp\": 2177\n        },\n        {\n          \"secondary_subgoal\": \"Open drawer and interact with Man Y\",\n          \"start_timestamp\": 3296,\n          \"stop_timestamp\": 3606\n        },\n        {\n          \"secondary_subgoal\": \"Look around and pick items from cabinet\",\n          \"start_timestamp\": 3606,\n          \"stop_timestamp\": 3943\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare ingredients and blend the mixture\",\n      \"start_timestamp\": 3943,\n      \"stop_timestamp\": 12275,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Peel banana and place on table\",\n          \"start_timestamp\": 4671,\n          \"stop_timestamp\": 5039\n        },\n        {\n          \"secondary_subgoal\": \"Cut and peel more items\",\n          \"start_timestamp\": 5566,\n          \"stop_timestamp\": 5698\n        },\n        {\n          \"secondary_subgoal\": \"Wash hands and move around\",\n          \"start_timestamp\": 5995,\n          \"stop_timestamp\": 6279\n        },\n        {\n          \"secondary_subgoal\": \"Gather and cut more ingredients\",\n          \"start_timestamp\": 6302,\n          \"stop_timestamp\": 6749\n        },\n        {\n          \"secondary_subgoal\": \"Open cabinet and gather items\",\n          \"start_timestamp\": 6841,\n          \"stop_timestamp\": 7295\n        },\n        {\n          \"secondary_subgoal\": \"Prepare the mixture for blending\",\n          \"start_timestamp\": 7679,\n          \"stop_timestamp\": 10700\n        },\n        {\n          \"secondary_subgoal\": \"Blend and open blending jar\",\n          \"start_timestamp\": 11026,\n          \"stop_timestamp\": 12120\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up and finalize\",\n      \"start_timestamp\": 12120,\n      \"stop_timestamp\": 15253,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash blending jar lid\",\n          \"start_timestamp\": 12334,\n          \"stop_timestamp\": 12765\n        },\n        {\n          \"secondary_subgoal\": \"Return packet and close fridge\",\n          \"start_timestamp\": 13084,\n          \"stop_timestamp\": 13261\n        },\n        {\n          \"secondary_subgoal\": \"Pour coffee and place cup on table\",\n          \"start_timestamp\": 14822,\n          \"stop_timestamp\": 15253\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2297,
+        "completion_tokens": 771,
+        "total_tokens": 3068
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

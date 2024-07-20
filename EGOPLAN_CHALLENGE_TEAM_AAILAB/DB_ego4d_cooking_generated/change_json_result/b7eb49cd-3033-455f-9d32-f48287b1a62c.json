@@ -1,0 +1,179 @@
+{
+    "overall_goal": "C performs various cooking and kitchen-related activities, including interacting with others and managing kitchen tasks.",
+    "clips": [
+        {
+            "subgoal": "Interacting with and assisting Lady X",
+            "start_timestamp": 0,
+            "stop_timestamp": 2597,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Lady X walks in and puts objects on the table",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 999
+                },
+                {
+                    "secondary_subgoal": "Lady X picks and interacts with objects in the room",
+                    "start_timestamp": 1400,
+                    "stop_timestamp": 2319
+                },
+                {
+                    "secondary_subgoal": "Lady X talks to C and interacts with objects",
+                    "start_timestamp": 2513,
+                    "stop_timestamp": 2597
+                }
+            ]
+        },
+        {
+            "subgoal": "C interacts with baby Y",
+            "start_timestamp": 2762,
+            "stop_timestamp": 3500,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C interacts with baby Y",
+                    "start_timestamp": 2762,
+                    "stop_timestamp": 2808
+                },
+                {
+                    "secondary_subgoal": "C looks around",
+                    "start_timestamp": 2808,
+                    "stop_timestamp": 3500
+                }
+            ]
+        },
+        {
+            "subgoal": "C handles a metal tin in the kitchen",
+            "start_timestamp": 4933,
+            "stop_timestamp": 5555,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C moves and places a metal tin",
+                    "start_timestamp": 4933,
+                    "stop_timestamp": 5555
+                }
+            ]
+        },
+        {
+            "subgoal": "C walks to different parts of the kitchen",
+            "start_timestamp": 5853,
+            "stop_timestamp": 6664,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C walks around and interacts with objects",
+                    "start_timestamp": 5853,
+                    "stop_timestamp": 6664
+                }
+            ]
+        },
+        {
+            "subgoal": "C handles kitchen tools and food",
+            "start_timestamp": 6748,
+            "stop_timestamp": 9318,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C picks tongs and interacts with food",
+                    "start_timestamp": 6748,
+                    "stop_timestamp": 9288
+                },
+                {
+                    "secondary_subgoal": "C talks to lady X",
+                    "start_timestamp": 9288,
+                    "stop_timestamp": 9318
+                }
+            ]
+        },
+        {
+            "subgoal": "C performs cooking tasks and handles metal tins",
+            "start_timestamp": 9588,
+            "stop_timestamp": 11475,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C scoops food from the frying pan",
+                    "start_timestamp": 9588,
+                    "stop_timestamp": 10275
+                },
+                {
+                    "secondary_subgoal": "C removes sausage from fryer",
+                    "start_timestamp": 10690,
+                    "stop_timestamp": 10835
+                },
+                {
+                    "secondary_subgoal": "C picks and handles a soda can",
+                    "start_timestamp": 10835,
+                    "stop_timestamp": 11475
+                }
+            ]
+        },
+        {
+            "subgoal": "C interacts with objects around the room",
+            "start_timestamp": 17305,
+            "stop_timestamp": 21804,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C looks around and talks",
+                    "start_timestamp": 17305,
+                    "stop_timestamp": 21804
+                }
+            ]
+        },
+        {
+            "subgoal": "C handles kitchen objects and operates the sink",
+            "start_timestamp": 19855,
+            "stop_timestamp": 21077,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C walks and looks at cooking pot",
+                    "start_timestamp": 19855,
+                    "stop_timestamp": 21077
+                }
+            ]
+        },
+        {
+            "subgoal": "C handles kitchen utensils and cabinets",
+            "start_timestamp": 22289,
+            "stop_timestamp": 23908,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C looks around and opens a door",
+                    "start_timestamp": 22289,
+                    "stop_timestamp": 23908
+                }
+            ]
+        },
+        {
+            "subgoal": "C performs various tasks in the kitchen",
+            "start_timestamp": 28047,
+            "stop_timestamp": 35594,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C talks to X, washes utensils, and arranges cabinet",
+                    "start_timestamp": 28047,
+                    "stop_timestamp": 35594
+                }
+            ]
+        },
+        {
+            "subgoal": "C interacts with kitchen objects and talks to others",
+            "start_timestamp": 35999,
+            "stop_timestamp": 43033,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C walks, cooks, interacts with persons X and Y",
+                    "start_timestamp": 35999,
+                    "stop_timestamp": 43033
+                }
+            ]
+        },
+        {
+            "subgoal": "C prepares final touches for cooking",
+            "start_timestamp": 43710,
+            "stop_timestamp": 45136,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C checks the sauce, talks to lady Y, prepares food in the cooker",
+                    "start_timestamp": 43710,
+                    "stop_timestamp": 45136
+                }
+            ]
+        }
+    ]
+}

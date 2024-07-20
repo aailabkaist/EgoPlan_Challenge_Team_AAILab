@@ -1,0 +1,146 @@
+{
+    "overall_goal": "Prepare and cook meat using various kitchen utensils and ingredients",
+    "clips": [
+        {
+            "subgoal": "Setup cooking area and gather utensils",
+            "start_timestamp": 0,
+            "stop_timestamp": 510,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Search for a bowl and frying pan",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 251
+                },
+                {
+                    "secondary_subgoal": "Clean the frying pan",
+                    "start_timestamp": 251,
+                    "stop_timestamp": 510
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and regulate the oven",
+            "start_timestamp": 510,
+            "stop_timestamp": 905,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move and regulate oven temperature",
+                    "start_timestamp": 510,
+                    "stop_timestamp": 905
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the meat and cooking area",
+            "start_timestamp": 905,
+            "stop_timestamp": 1223,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move the meat and prepare cooking utensils",
+                    "start_timestamp": 905,
+                    "stop_timestamp": 1223
+                }
+            ]
+        },
+        {
+            "subgoal": "Manage paper and chopsticks",
+            "start_timestamp": 1223,
+            "stop_timestamp": 1564,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and discard paper",
+                    "start_timestamp": 1223,
+                    "stop_timestamp": 1496
+                },
+                {
+                    "secondary_subgoal": "Place chopsticks on the sink",
+                    "start_timestamp": 1496,
+                    "stop_timestamp": 1564
+                }
+            ]
+        },
+        {
+            "subgoal": "Set up for cooking and manage ingredients",
+            "start_timestamp": 1564,
+            "stop_timestamp": 2434,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Drag meat and prepare cooking oil",
+                    "start_timestamp": 1564,
+                    "stop_timestamp": 1964
+                },
+                {
+                    "secondary_subgoal": "Regulate oven and prepare pan",
+                    "start_timestamp": 1964,
+                    "stop_timestamp": 2434
+                }
+            ]
+        },
+        {
+            "subgoal": "Begin cooking meat",
+            "start_timestamp": 2434,
+            "stop_timestamp": 8358,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Manage oil and heat",
+                    "start_timestamp": 2434,
+                    "stop_timestamp": 3356
+                },
+                {
+                    "secondary_subgoal": "Wipe and store oil bottle",
+                    "start_timestamp": 3356,
+                    "stop_timestamp": 3849
+                },
+                {
+                    "secondary_subgoal": "Drop chopsticks and place meat in pan",
+                    "start_timestamp": 3849,
+                    "stop_timestamp": 4406
+                },
+                {
+                    "secondary_subgoal": "Manage chopsticks and meat",
+                    "start_timestamp": 4406,
+                    "stop_timestamp": 8358
+                }
+            ]
+        },
+        {
+            "subgoal": "Maintain cooking process and add spices",
+            "start_timestamp": 8358,
+            "stop_timestamp": 16726,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn and cut the meat using chopsticks",
+                    "start_timestamp": 8358,
+                    "stop_timestamp": 12265
+                },
+                {
+                    "secondary_subgoal": "Add spices and discard sachets",
+                    "start_timestamp": 12265,
+                    "stop_timestamp": 16726
+                }
+            ]
+        },
+        {
+            "subgoal": "Complete meat cooking with additional seasoning",
+            "start_timestamp": 16726,
+            "stop_timestamp": 21275,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Separate and stir meat",
+                    "start_timestamp": 16726,
+                    "stop_timestamp": 20528
+                },
+                {
+                    "secondary_subgoal": "Add oils and spices",
+                    "start_timestamp": 20528,
+                    "stop_timestamp": 21175
+                },
+                {
+                    "secondary_subgoal": "Store remaining ingredients",
+                    "start_timestamp": 21175,
+                    "stop_timestamp": 21275
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,492 @@
+[
+    {
+        "task_goal": "Pick and place pieces of cabbage",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the pieces of cabbages",
+                "start_frame": 35,
+                "stop_frame": 56
+            },
+            {
+                "narration_text": "Puts the pieces of cabbages down",
+                "start_frame": 56,
+                "stop_frame": 65
+            },
+            {
+                "narration_text": "Picks the knife",
+                "start_frame": 65,
+                "stop_frame": 92
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and cut cabbage with knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the pieces of cabbages down",
+                "start_frame": 56,
+                "stop_frame": 65
+            },
+            {
+                "narration_text": "Picks the knife",
+                "start_frame": 65,
+                "stop_frame": 92
+            },
+            {
+                "narration_text": "Cuts the cabbage",
+                "start_frame": 92,
+                "stop_frame": 148
+            },
+            {
+                "narration_text": "Puts the cabbage in the container",
+                "start_frame": 148,
+                "stop_frame": 163
+            },
+            {
+                "narration_text": "Picks the cabbage",
+                "start_frame": 163,
+                "stop_frame": 193
+            },
+            {
+                "narration_text": "Cuts the cabbage",
+                "start_frame": 193,
+                "stop_frame": 244
+            },
+            {
+                "narration_text": "Puts the cabbage in the container",
+                "start_frame": 244,
+                "stop_frame": 261
+            },
+            {
+                "narration_text": "Picks the cabbage",
+                "start_frame": 261,
+                "stop_frame": 297
+            },
+            {
+                "narration_text": "Cuts the cabbage",
+                "start_frame": 297,
+                "stop_frame": 376
+            },
+            {
+                "narration_text": "Puts the cabbage in the container",
+                "start_frame": 376,
+                "stop_frame": 412
+            }
+        ]
+    },
+    {
+        "task_goal": "Put cut cabbage in container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cuts the cabbage",
+                "start_frame": 297,
+                "stop_frame": 376
+            },
+            {
+                "narration_text": "Puts the cabbage in the container",
+                "start_frame": 376,
+                "stop_frame": 412
+            },
+            {
+                "narration_text": "Picks the cabbage",
+                "start_frame": 412,
+                "stop_frame": 433
+            }
+        ]
+    },
+    {
+        "task_goal": "Continue picking, cutting, and placing cabbage in container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the cabbage in the container",
+                "start_frame": 376,
+                "stop_frame": 412
+            },
+            {
+                "narration_text": "Picks the cabbage",
+                "start_frame": 412,
+                "stop_frame": 433
+            },
+            {
+                "narration_text": "Puts the cabbage on the chopping board",
+                "start_frame": 433,
+                "stop_frame": 452
+            },
+            {
+                "narration_text": "Cuts the cabbage",
+                "start_frame": 452,
+                "stop_frame": 574
+            },
+            {
+                "narration_text": "Puts the cabbage in the container",
+                "start_frame": 574,
+                "stop_frame": 601
+            },
+            {
+                "narration_text": "Picks the cabbage",
+                "start_frame": 601,
+                "stop_frame": 631
+            },
+            {
+                "narration_text": "Moves the pieces of cabbages with a knife",
+                "start_frame": 631,
+                "stop_frame": 687
+            },
+            {
+                "narration_text": "Puts the knife down",
+                "start_frame": 687,
+                "stop_frame": 703
+            },
+            {
+                "narration_text": "Peels the cabbage",
+                "start_frame": 703,
+                "stop_frame": 753
+            },
+            {
+                "narration_text": "Picks the knife",
+                "start_frame": 753,
+                "stop_frame": 775
+            },
+            {
+                "narration_text": "Cuts the cabbage",
+                "start_frame": 775,
+                "stop_frame": 848
+            },
+            {
+                "narration_text": "Puts the cabbage in the container",
+                "start_frame": 848,
+                "stop_frame": 869
+            },
+            {
+                "narration_text": "Holds the cabbage",
+                "start_frame": 869,
+                "stop_frame": 892
+            },
+            {
+                "narration_text": "Cuts the cabbage",
+                "start_frame": 892,
+                "stop_frame": 1016
+            },
+            {
+                "narration_text": "Puts the cabbage in the container",
+                "start_frame": 1016,
+                "stop_frame": 1065
+            },
+            {
+                "narration_text": "Wipes the knife with hand",
+                "start_frame": 1065,
+                "stop_frame": 1085
+            },
+            {
+                "narration_text": "Picks the cabbages",
+                "start_frame": 1085,
+                "stop_frame": 1138
+            },
+            {
+                "narration_text": "Puts the cabbages on the cutting board",
+                "start_frame": 1138,
+                "stop_frame": 1177
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold and cut cabbage",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the cabbages",
+                "start_frame": 1085,
+                "stop_frame": 1138
+            },
+            {
+                "narration_text": "Puts the cabbages on the cutting board",
+                "start_frame": 1138,
+                "stop_frame": 1177
+            },
+            {
+                "narration_text": "Holds the cabbage",
+                "start_frame": 1177,
+                "stop_frame": 1221
+            },
+            {
+                "narration_text": "Cuts the cabbage",
+                "start_frame": 1221,
+                "stop_frame": 1261
+            },
+            {
+                "narration_text": "Moves the pieces of cabbage with a knife",
+                "start_frame": 1261,
+                "stop_frame": 1290
+            },
+            {
+                "narration_text": "Cuts the cabbage",
+                "start_frame": 1290,
+                "stop_frame": 1360
+            },
+            {
+                "narration_text": "Puts the cabbage in the container",
+                "start_frame": 1360,
+                "stop_frame": 1386
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle and place pieces of cabbage in container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cuts the cabbage",
+                "start_frame": 1290,
+                "stop_frame": 1360
+            },
+            {
+                "narration_text": "Puts the cabbage in the container",
+                "start_frame": 1360,
+                "stop_frame": 1386
+            },
+            {
+                "narration_text": "Holds the cabbage",
+                "start_frame": 1386,
+                "stop_frame": 1407
+            },
+            {
+                "narration_text": "Cuts the cabbage",
+                "start_frame": 1407,
+                "stop_frame": 1445
+            }
+        ]
+    },
+    {
+        "task_goal": "Dialing phone and handling ingredients/utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Dials the phone",
+                "start_frame": 21105,
+                "stop_frame": 21244
+            },
+            {
+                "narration_text": "Mixes the food",
+                "start_frame": 21244,
+                "stop_frame": 21377
+            },
+            {
+                "narration_text": "Lifts the hand",
+                "start_frame": 21377,
+                "stop_frame": 21436
+            },
+            {
+                "narration_text": "Puts the spoon on the pan",
+                "start_frame": 21436,
+                "stop_frame": 21457
+            },
+            {
+                "narration_text": "Lifts the hand",
+                "start_frame": 21457,
+                "stop_frame": 21472
+            },
+            {
+                "narration_text": "Looks at the pan",
+                "start_frame": 21472,
+                "stop_frame": 21599
+            },
+            {
+                "narration_text": "Looks at the unsure",
+                "start_frame": 21599,
+                "stop_frame": 21672
+            },
+            {
+                "narration_text": "Looks at the pan",
+                "start_frame": 21672,
+                "stop_frame": 21787
+            },
+            {
+                "narration_text": "Looks at the shirt",
+                "start_frame": 21787,
+                "stop_frame": 21895
+            },
+            {
+                "narration_text": "Looks at the pan",
+                "start_frame": 21895,
+                "stop_frame": 21934
+            },
+            {
+                "narration_text": "Holds the spoon",
+                "start_frame": 21934,
+                "stop_frame": 21949
+            },
+            {
+                "narration_text": "Mixes the food",
+                "start_frame": 21949,
+                "stop_frame": 22002
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix and place food ingredients with spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the spoon",
+                "start_frame": 21934,
+                "stop_frame": 21949
+            },
+            {
+                "narration_text": "Mixes the food",
+                "start_frame": 21949,
+                "stop_frame": 22002
+            },
+            {
+                "narration_text": "Puts the spoon on the pan",
+                "start_frame": 22002,
+                "stop_frame": 22027
+            },
+            {
+                "narration_text": "Dials the phone",
+                "start_frame": 22027,
+                "stop_frame": 22079
+            },
+            {
+                "narration_text": "Walks to the dust bin",
+                "start_frame": 22079,
+                "stop_frame": 22157
+            },
+            {
+                "narration_text": "Opens the bin",
+                "start_frame": 22157,
+                "stop_frame": 22159
+            },
+            {
+                "narration_text": "Throws the paper in the bin",
+                "start_frame": 22159,
+                "stop_frame": 22195
+            },
+            {
+                "narration_text": "Closes the bin",
+                "start_frame": 22195,
+                "stop_frame": 22218
+            },
+            {
+                "narration_text": "Walks beside the cabine",
+                "start_frame": 22218,
+                "stop_frame": 22321
+            },
+            {
+                "narration_text": "Holds the spoon",
+                "start_frame": 22321,
+                "stop_frame": 22339
+            },
+            {
+                "narration_text": "Holds the pan handle",
+                "start_frame": 22339,
+                "stop_frame": 22349
+            },
+            {
+                "narration_text": "Mixes the food",
+                "start_frame": 22349,
+                "stop_frame": 22451
+            },
+            {
+                "narration_text": "Picks the piece of unsure",
+                "start_frame": 22451,
+                "stop_frame": 22477
+            },
+            {
+                "narration_text": "Puts the piece of unsure in the pan",
+                "start_frame": 22477,
+                "stop_frame": 22495
+            },
+            {
+                "narration_text": "Holds the pan handle",
+                "start_frame": 22495,
+                "stop_frame": 22511
+            },
+            {
+                "narration_text": "Mixes the food",
+                "start_frame": 22511,
+                "stop_frame": 22695
+            },
+            {
+                "narration_text": "Puts the spoon on the pan",
+                "start_frame": 22695,
+                "stop_frame": 22734
+            }
+        ]
+    },
+    {
+        "task_goal": "Move around the room handling plants and outside space",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Mixes the food",
+                "start_frame": 22511,
+                "stop_frame": 22695
+            },
+            {
+                "narration_text": "Puts the spoon on the pan",
+                "start_frame": 22695,
+                "stop_frame": 22734
+            },
+            {
+                "narration_text": "Walks on the room",
+                "start_frame": 22734,
+                "stop_frame": 22809
+            },
+            {
+                "narration_text": "Opens the door",
+                "start_frame": 22809,
+                "stop_frame": 22904
+            },
+            {
+                "narration_text": "Walks toward the plants",
+                "start_frame": 22904,
+                "stop_frame": 23044
+            },
+            {
+                "narration_text": "Picks the plant leaves",
+                "start_frame": 23044,
+                "stop_frame": 23208
+            },
+            {
+                "narration_text": "Holds the plants leaves",
+                "start_frame": 23208,
+                "stop_frame": 23239
+            },
+            {
+                "narration_text": "Picks the plant leaves",
+                "start_frame": 23239,
+                "stop_frame": 23311
+            },
+            {
+                "narration_text": "Holds the plants leaves",
+                "start_frame": 23311,
+                "stop_frame": 23400
+            },
+            {
+                "narration_text": "Picks the plant leaf",
+                "start_frame": 23400,
+                "stop_frame": 23480
+            },
+            {
+                "narration_text": "Holds the plants leaves",
+                "start_frame": 23480,
+                "stop_frame": 23523
+            },
+            {
+                "narration_text": "Picks the plant leaf",
+                "start_frame": 23523,
+                "stop_frame": 23572
+            },
+            {
+                "narration_text": "Eats the leaf",
+                "start_frame": 23572,
+                "stop_frame": 23611
+            },
+            {
+                "narration_text": "Opens the door",
+                "start_frame": 23611,
+                "stop_frame": 23718
+            },
+            {
+                "narration_text": "Closes the door",
+                "start_frame": 23718,
+                "stop_frame": 23766
+            }
+        ]
+    }
+]

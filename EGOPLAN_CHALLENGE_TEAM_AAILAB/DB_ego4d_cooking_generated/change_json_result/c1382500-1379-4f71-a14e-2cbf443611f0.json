@@ -1,0 +1,187 @@
+{
+    "overall_goal": "Preparing cassava and coconut for cooking, including peeling, cutting, washing, grating, and blending, and also cleaning up the workspace.",
+    "clips": [
+        {
+            "subgoal": "Peeling, cutting, and placing cassava in the cooking pot",
+            "start_timestamp": 20,
+            "stop_timestamp": 2646,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peeling cassava",
+                    "start_timestamp": 20,
+                    "stop_timestamp": 242
+                },
+                {
+                    "secondary_subgoal": "Picking up knife and cutting cassava",
+                    "start_timestamp": 242,
+                    "stop_timestamp": 850
+                },
+                {
+                    "secondary_subgoal": "Peeling cassava",
+                    "start_timestamp": 850,
+                    "stop_timestamp": 1300
+                },
+                {
+                    "secondary_subgoal": "Cutting cassava",
+                    "start_timestamp": 1300,
+                    "stop_timestamp": 1725
+                },
+                {
+                    "secondary_subgoal": "Peeling cassava",
+                    "start_timestamp": 1725,
+                    "stop_timestamp": 1916
+                },
+                {
+                    "secondary_subgoal": "Peeling and cutting cassava",
+                    "start_timestamp": 1916,
+                    "stop_timestamp": 1945
+                },
+                {
+                    "secondary_subgoal": "Cutting and peeling cassava",
+                    "start_timestamp": 1945,
+                    "stop_timestamp": 2280
+                },
+                {
+                    "secondary_subgoal": "Cutting and peeling cassava",
+                    "start_timestamp": 2280,
+                    "stop_timestamp": 2400
+                },
+                {
+                    "secondary_subgoal": "Peeling and cutting cassava",
+                    "start_timestamp": 2400,
+                    "stop_timestamp": 2610
+                },
+                {
+                    "secondary_subgoal": "Putting cassava in cooking pot",
+                    "start_timestamp": 2610,
+                    "stop_timestamp": 2646
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing and grating coconut",
+            "start_timestamp": 2646,
+            "stop_timestamp": 2999,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fetching and washing water",
+                    "start_timestamp": 2646,
+                    "stop_timestamp": 2686
+                },
+                {
+                    "secondary_subgoal": "Grating the coconut",
+                    "start_timestamp": 2686,
+                    "stop_timestamp": 2804
+                },
+                {
+                    "secondary_subgoal": "Washing and draining cassava in water",
+                    "start_timestamp": 2804,
+                    "stop_timestamp": 2896
+                },
+                {
+                    "secondary_subgoal": "Grating coconut",
+                    "start_timestamp": 2896,
+                    "stop_timestamp": 2988
+                },
+                {
+                    "secondary_subgoal": "Collecting materials",
+                    "start_timestamp": 2988,
+                    "stop_timestamp": 2999
+                }
+            ]
+        },
+        {
+            "subgoal": "Blending grated coconut",
+            "start_timestamp": 2999,
+            "stop_timestamp": 3030,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Switching the blender on",
+                    "start_timestamp": 2999,
+                    "stop_timestamp": 3005
+                },
+                {
+                    "secondary_subgoal": "Blending coconut",
+                    "start_timestamp": 3005,
+                    "stop_timestamp": 3030
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing cooking ingredients",
+            "start_timestamp": 3030,
+            "stop_timestamp": 3671,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening, using, and closing tin cups",
+                    "start_timestamp": 3030,
+                    "stop_timestamp": 3186
+                },
+                {
+                    "secondary_subgoal": "Preparing and collecting ingredients",
+                    "start_timestamp": 3186,
+                    "stop_timestamp": 3284
+                },
+                {
+                    "secondary_subgoal": "Preparing and mixing ingredients",
+                    "start_timestamp": 3284,
+                    "stop_timestamp": 3423
+                },
+                {
+                    "secondary_subgoal": "Walking around and holding ingredients",
+                    "start_timestamp": 3423,
+                    "stop_timestamp": 3521
+                },
+                {
+                    "secondary_subgoal": "Collecting and moving vegetables",
+                    "start_timestamp": 3521,
+                    "stop_timestamp": 3627
+                },
+                {
+                    "secondary_subgoal": "Preparing additional ingredients",
+                    "start_timestamp": 3627,
+                    "stop_timestamp": 3671
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning and organizing workspace",
+            "start_timestamp": 3671,
+            "stop_timestamp": 4971,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wiping countertop and objects",
+                    "start_timestamp": 3671,
+                    "stop_timestamp": 3771
+                },
+                {
+                    "secondary_subgoal": "Cleaning sink area",
+                    "start_timestamp": 3771,
+                    "stop_timestamp": 3914
+                },
+                {
+                    "secondary_subgoal": "Washing and cleaning potatoes",
+                    "start_timestamp": 3914,
+                    "stop_timestamp": 4092
+                },
+                {
+                    "secondary_subgoal": "Continuing cleaning process",
+                    "start_timestamp": 4092,
+                    "stop_timestamp": 4971
+                }
+            ]
+        },
+        {
+            "subgoal": "Operating camera and adjusting view",
+            "start_timestamp": 4971,
+            "stop_timestamp": 5009,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjusting camera",
+                    "start_timestamp": 4971,
+                    "stop_timestamp": 5009
+                }
+            ]
+        }
+    ]
+}

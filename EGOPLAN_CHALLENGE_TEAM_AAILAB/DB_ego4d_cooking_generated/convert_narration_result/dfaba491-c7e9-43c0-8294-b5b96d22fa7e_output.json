@@ -1,0 +1,831 @@
+[
+    {
+        "task_goal": "Preparing the kitchen workspace and initial ingredients.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves a pan on the burner",
+                "start_frame": 1,
+                "stop_frame": 28
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 28,
+                "stop_frame": 54
+            },
+            {
+                "narration_text": "Closes the oven",
+                "start_frame": 54,
+                "stop_frame": 95
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 95,
+                "stop_frame": 150
+            },
+            {
+                "narration_text": "Picks a potato in a paper",
+                "start_frame": 150,
+                "stop_frame": 193
+            },
+            {
+                "narration_text": "Picks a potato with the other hand",
+                "start_frame": 193,
+                "stop_frame": 209
+            },
+            {
+                "narration_text": "Picks a potato in a paper",
+                "start_frame": 209,
+                "stop_frame": 234
+            },
+            {
+                "narration_text": "Puts a potato on the countertop",
+                "start_frame": 234,
+                "stop_frame": 256
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 256,
+                "stop_frame": 312
+            },
+            {
+                "narration_text": "Picks a potato with the other hand",
+                "start_frame": 312,
+                "stop_frame": 330
+            },
+            {
+                "narration_text": "Opens the faucet",
+                "start_frame": 330,
+                "stop_frame": 360
+            },
+            {
+                "narration_text": "Washes the potato in the sink",
+                "start_frame": 360,
+                "stop_frame": 493
+            }
+        ]
+    },
+    {
+        "task_goal": "Move a pan and close the oven",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves a pan on the burner",
+                "start_frame": 1,
+                "stop_frame": 28
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 28,
+                "stop_frame": 54
+            },
+            {
+                "narration_text": "Closes the oven",
+                "start_frame": 54,
+                "stop_frame": 95
+            }
+        ]
+    },
+    {
+        "task_goal": "Gather potatoes",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around",
+                "start_frame": 95,
+                "stop_frame": 150
+            },
+            {
+                "narration_text": "Picks a potato in a paper",
+                "start_frame": 150,
+                "stop_frame": 193
+            },
+            {
+                "narration_text": "Picks a potato with the other hand",
+                "start_frame": 193,
+                "stop_frame": 209
+            },
+            {
+                "narration_text": "Picks a potato in a paper",
+                "start_frame": 209,
+                "stop_frame": 234
+            },
+            {
+                "narration_text": "Puts a potato on the countertop",
+                "start_frame": 234,
+                "stop_frame": 256
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 256,
+                "stop_frame": 312
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and close the faucet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a potato with the other hand",
+                "start_frame": 312,
+                "stop_frame": 330
+            },
+            {
+                "narration_text": "Opens the faucet",
+                "start_frame": 330,
+                "stop_frame": 360
+            },
+            {
+                "narration_text": "Washes the potato in the sink",
+                "start_frame": 360,
+                "stop_frame": 493
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing potatoes",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the faucet",
+                "start_frame": 330,
+                "stop_frame": 360
+            },
+            {
+                "narration_text": "Washes the potato in the sink",
+                "start_frame": 360,
+                "stop_frame": 493
+            },
+            {
+                "narration_text": "Closes the faucet",
+                "start_frame": 493,
+                "stop_frame": 516
+            },
+            {
+                "narration_text": "Shakes the potato in the sink",
+                "start_frame": 516,
+                "stop_frame": 538
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 538,
+                "stop_frame": 575
+            },
+            {
+                "narration_text": "Puts a potato on the chopping board",
+                "start_frame": 575,
+                "stop_frame": 591
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 591,
+                "stop_frame": 623
+            },
+            {
+                "narration_text": "Turns the cooker knob",
+                "start_frame": 623,
+                "stop_frame": 660
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 660,
+                "stop_frame": 673
+            },
+            {
+                "narration_text": "Picks a potato with the other hand",
+                "start_frame": 673,
+                "stop_frame": 718
+            },
+            {
+                "narration_text": "Opens the faucet",
+                "start_frame": 718,
+                "stop_frame": 760
+            },
+            {
+                "narration_text": "Washes the potato in the sink",
+                "start_frame": 760,
+                "stop_frame": 1031
+            },
+            {
+                "narration_text": "Turns around",
+                "start_frame": 1031,
+                "stop_frame": 1055
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 1055,
+                "stop_frame": 1076
+            },
+            {
+                "narration_text": "Puts a potato on the countertop",
+                "start_frame": 1076,
+                "stop_frame": 1106
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash potatoes",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the faucet",
+                "start_frame": 330,
+                "stop_frame": 360
+            },
+            {
+                "narration_text": "Washes the potato in the sink",
+                "start_frame": 360,
+                "stop_frame": 493
+            },
+            {
+                "narration_text": "Closes the faucet",
+                "start_frame": 493,
+                "stop_frame": 516
+            },
+            {
+                "narration_text": "Shakes the potato in the sink",
+                "start_frame": 516,
+                "stop_frame": 538
+            }
+        ]
+    },
+    {
+        "task_goal": "Put potatoes on the chopping board and turn cooker knob",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around",
+                "start_frame": 538,
+                "stop_frame": 575
+            },
+            {
+                "narration_text": "Puts a potato on the chopping board",
+                "start_frame": 575,
+                "stop_frame": 591
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 591,
+                "stop_frame": 623
+            },
+            {
+                "narration_text": "Turns the cooker knob",
+                "start_frame": 623,
+                "stop_frame": 660
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash more potatoes",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a potato with the other hand",
+                "start_frame": 673,
+                "stop_frame": 718
+            },
+            {
+                "narration_text": "Opens the faucet",
+                "start_frame": 718,
+                "stop_frame": 760
+            },
+            {
+                "narration_text": "Washes the potato in the sink",
+                "start_frame": 760,
+                "stop_frame": 1031
+            },
+            {
+                "narration_text": "Turns around",
+                "start_frame": 1031,
+                "stop_frame": 1055
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 1055,
+                "stop_frame": 1076
+            },
+            {
+                "narration_text": "Puts a potato on the countertop",
+                "start_frame": 1076,
+                "stop_frame": 1106
+            }
+        ]
+    },
+    {
+        "task_goal": "Preparing the cookware",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around",
+                "start_frame": 1466,
+                "stop_frame": 1500
+            },
+            {
+                "narration_text": "Puts a potato on the chopping board",
+                "start_frame": 1500,
+                "stop_frame": 1514
+            },
+            {
+                "narration_text": "Picks a pot on the chopping board",
+                "start_frame": 1514,
+                "stop_frame": 1529
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 1529,
+                "stop_frame": 1572
+            },
+            {
+                "narration_text": "Fetches water in the sink with a pot",
+                "start_frame": 1572,
+                "stop_frame": 1611
+            },
+            {
+                "narration_text": "Turns a faucet",
+                "start_frame": 1611,
+                "stop_frame": 1778
+            },
+            {
+                "narration_text": "Closes a faucet",
+                "start_frame": 1778,
+                "stop_frame": 1807
+            },
+            {
+                "narration_text": "Picks pot on the sink",
+                "start_frame": 1807,
+                "stop_frame": 1841
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 1841,
+                "stop_frame": 1904
+            },
+            {
+                "narration_text": "Puts pot on the burner",
+                "start_frame": 1904,
+                "stop_frame": 1940
+            },
+            {
+                "narration_text": "Shakes hands",
+                "start_frame": 1940,
+                "stop_frame": 1962
+            },
+            {
+                "narration_text": "Turns the cooker on",
+                "start_frame": 1962,
+                "stop_frame": 2003
+            },
+            {
+                "narration_text": "Shakes hands",
+                "start_frame": 2003,
+                "stop_frame": 2017
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 2017,
+                "stop_frame": 2039
+            },
+            {
+                "narration_text": "Picks a knife on the chopping board",
+                "start_frame": 2039,
+                "stop_frame": 2064
+            }
+        ]
+    },
+    {
+        "task_goal": "Fetch water and place the pot on the burner",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around",
+                "start_frame": 1529,
+                "stop_frame": 1572
+            },
+            {
+                "narration_text": "Fetches water in the sink with a pot",
+                "start_frame": 1572,
+                "stop_frame": 1611
+            },
+            {
+                "narration_text": "Turns a faucet",
+                "start_frame": 1611,
+                "stop_frame": 1778
+            },
+            {
+                "narration_text": "Closes a faucet",
+                "start_frame": 1778,
+                "stop_frame": 1807
+            },
+            {
+                "narration_text": "Picks pot on the sink",
+                "start_frame": 1807,
+                "stop_frame": 1841
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 1841,
+                "stop_frame": 1904
+            },
+            {
+                "narration_text": "Puts pot on the burner",
+                "start_frame": 1904,
+                "stop_frame": 1940
+            },
+            {
+                "narration_text": "Shakes hands",
+                "start_frame": 1940,
+                "stop_frame": 1962
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn on the cooker and pick a knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns the cooker on",
+                "start_frame": 1962,
+                "stop_frame": 2003
+            },
+            {
+                "narration_text": "Shakes hands",
+                "start_frame": 2003,
+                "stop_frame": 2017
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 2017,
+                "stop_frame": 2039
+            },
+            {
+                "narration_text": "Picks a knife on the chopping board",
+                "start_frame": 2039,
+                "stop_frame": 2064
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 2064,
+                "stop_frame": 2116
+            }
+        ]
+    },
+    {
+        "task_goal": "Cutting and washing vegetables",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around",
+                "start_frame": 2064,
+                "stop_frame": 2116
+            },
+            {
+                "narration_text": "Opens the faucet",
+                "start_frame": 2116,
+                "stop_frame": 2176
+            },
+            {
+                "narration_text": "Moves hand around",
+                "start_frame": 2176,
+                "stop_frame": 2217
+            },
+            {
+                "narration_text": "Washes hand in the sink",
+                "start_frame": 2217,
+                "stop_frame": 2306
+            },
+            {
+                "narration_text": "Closes the faucet",
+                "start_frame": 2306,
+                "stop_frame": 2341
+            },
+            {
+                "narration_text": "Shakes knife in the sink",
+                "start_frame": 2341,
+                "stop_frame": 2361
+            },
+            {
+                "narration_text": "Moves around",
+                "start_frame": 2361,
+                "stop_frame": 2403
+            },
+            {
+                "narration_text": "Puts knife in a basin",
+                "start_frame": 2403,
+                "stop_frame": 2423
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 2423,
+                "stop_frame": 2501
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash hands and shake knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the faucet",
+                "start_frame": 2116,
+                "stop_frame": 2176
+            },
+            {
+                "narration_text": "Moves hand around",
+                "start_frame": 2176,
+                "stop_frame": 2217
+            },
+            {
+                "narration_text": "Washes hand in the sink",
+                "start_frame": 2217,
+                "stop_frame": 2306
+            },
+            {
+                "narration_text": "Closes the faucet",
+                "start_frame": 2306,
+                "stop_frame": 2341
+            },
+            {
+                "narration_text": "Shakes knife in the sink",
+                "start_frame": 2341,
+                "stop_frame": 2361
+            },
+            {
+                "narration_text": "Moves around",
+                "start_frame": 2361,
+                "stop_frame": 2403
+            }
+        ]
+    },
+    {
+        "task_goal": "Place knife in the basin and move it around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts knife in a basin",
+                "start_frame": 2403,
+                "stop_frame": 2423
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 2423,
+                "stop_frame": 2501
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and move vegetables and utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks knife in the basin",
+                "start_frame": 3035,
+                "stop_frame": 3059
+            },
+            {
+                "narration_text": "Moves faucet sideways",
+                "start_frame": 3059,
+                "stop_frame": 3093
+            },
+            {
+                "narration_text": "Turns the basin in the sink",
+                "start_frame": 3093,
+                "stop_frame": 3231
+            },
+            {
+                "narration_text": "Puts the basin in the sink",
+                "start_frame": 3231,
+                "stop_frame": 3257
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse knife multiple times",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves a brush in a basin",
+                "start_frame": 4416,
+                "stop_frame": 4455
+            },
+            {
+                "narration_text": "Picks a cloth on the sink",
+                "start_frame": 4455,
+                "stop_frame": 4489
+            },
+            {
+                "narration_text": "Washes a knife with a cloth in a basin",
+                "start_frame": 4489,
+                "stop_frame": 4555
+            },
+            {
+                "narration_text": "Puts a cloth in a basin",
+                "start_frame": 4555,
+                "stop_frame": 4572
+            },
+            {
+                "narration_text": "Rinses a knife in the sink",
+                "start_frame": 4572,
+                "stop_frame": 4588
+            },
+            {
+                "narration_text": "Picks a cloth in a basin",
+                "start_frame": 4588,
+                "stop_frame": 4605
+            },
+            {
+                "narration_text": "Washes a knife with a cloth in a basin",
+                "start_frame": 4605,
+                "stop_frame": 4652
+            },
+            {
+                "narration_text": "Puts a cloth in a basin",
+                "start_frame": 4652,
+                "stop_frame": 4668
+            },
+            {
+                "narration_text": "Rinses a knife in the sink",
+                "start_frame": 4668,
+                "stop_frame": 4682
+            },
+            {
+                "narration_text": "Picks a cloth in a basin",
+                "start_frame": 4682,
+                "stop_frame": 4698
+            },
+            {
+                "narration_text": "Washes a knife with a cloth in a basin",
+                "start_frame": 4698,
+                "stop_frame": 4715
+            },
+            {
+                "narration_text": "Puts knife in a basin",
+                "start_frame": 4715,
+                "stop_frame": 4761
+            },
+            {
+                "narration_text": "Washes a knife with a cloth in a basin",
+                "start_frame": 4761,
+                "stop_frame": 4778
+            },
+            {
+                "narration_text": "Puts a cloth in a basin",
+                "start_frame": 4778,
+                "stop_frame": 4791
+            },
+            {
+                "narration_text": "Rinses a knife in the sink",
+                "start_frame": 4791,
+                "stop_frame": 4857
+            },
+            {
+                "narration_text": "Rinses a hand in the sink",
+                "start_frame": 4857,
+                "stop_frame": 4892
+            },
+            {
+                "narration_text": "Shakes a hand in the sink",
+                "start_frame": 4892,
+                "stop_frame": 4917
+            },
+            {
+                "narration_text": "Holds the faucet",
+                "start_frame": 4917,
+                "stop_frame": 4936
+            }
+        ]
+    },
+    {
+        "task_goal": "Repeat cutting, chopping, and putting potatoes",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 10166,
+                "stop_frame": 10224
+            },
+            {
+                "narration_text": "Rubs his finger",
+                "start_frame": 10224,
+                "stop_frame": 10233
+            },
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 10233,
+                "stop_frame": 10275
+            },
+            {
+                "narration_text": "Opens a fridge door",
+                "start_frame": 10275,
+                "stop_frame": 10325
+            },
+            {
+                "narration_text": "Pulls a fridge drawer",
+                "start_frame": 10325,
+                "stop_frame": 10389
+            },
+            {
+                "narration_text": "Picks spinach from the drawer",
+                "start_frame": 10389,
+                "stop_frame": 10418
+            },
+            {
+                "narration_text": "Picks bell peppers",
+                "start_frame": 10418,
+                "stop_frame": 10455
+            },
+            {
+                "narration_text": "Puts the bell pepper on the spinach",
+                "start_frame": 10455,
+                "stop_frame": 10486
+            },
+            {
+                "narration_text": "Picks a bottle of sauce",
+                "start_frame": 10486,
+                "stop_frame": 10493
+            },
+            {
+                "narration_text": "Puts the sauce bottle aside",
+                "start_frame": 10493,
+                "stop_frame": 10530
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and unwrap vegetables",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a bottle of sauce",
+                "start_frame": 10486,
+                "stop_frame": 10493
+            },
+            {
+                "narration_text": "Puts the sauce bottle aside",
+                "start_frame": 10493,
+                "stop_frame": 10530
+            },
+            {
+                "narration_text": "Picks a cucumber",
+                "start_frame": 10530,
+                "stop_frame": 10559
+            },
+            {
+                "narration_text": "Switches the cucumber to the other hand",
+                "start_frame": 10559,
+                "stop_frame": 10585
+            },
+            {
+                "narration_text": "Pushes unsure",
+                "start_frame": 10585,
+                "stop_frame": 10618
+            },
+            {
+                "narration_text": "Holds unsure",
+                "start_frame": 10618,
+                "stop_frame": 10704
+            },
+            {
+                "narration_text": "Closes the fridge door",
+                "start_frame": 10704,
+                "stop_frame": 10817
+            },
+            {
+                "narration_text": "Pushes chocolate aside",
+                "start_frame": 10817,
+                "stop_frame": 10862
+            },
+            {
+                "narration_text": "Picks grapes",
+                "start_frame": 10862,
+                "stop_frame": 10904
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut more vegetables",
+        "task_progress_metadata": []
+    },
+    {
+        "task_goal": "Rinse and dry spinach",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rinses his hand with water",
+                "start_frame": 12750,
+                "stop_frame": 12835
+            },
+            {
+                "narration_text": "Rinses spinach with water",
+                "start_frame": 12835,
+                "stop_frame": 13182
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 13182,
+                "stop_frame": 13206
+            },
+            {
+                "narration_text": "Holds the spinach with both hands",
+                "start_frame": 13206,
+                "stop_frame": 13365
+            },
+            {
+                "narration_text": "Dries the spinach",
+                "start_frame": 13365,
+                "stop_frame": 13398
+            },
+            {
+                "narration_text": "Pulls his hand off the spinach",
+                "start_frame": 13398,
+                "stop_frame": 13415
+            },
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 13415,
+                "stop_frame": 13456
+            }
+        ]
+    }
+]

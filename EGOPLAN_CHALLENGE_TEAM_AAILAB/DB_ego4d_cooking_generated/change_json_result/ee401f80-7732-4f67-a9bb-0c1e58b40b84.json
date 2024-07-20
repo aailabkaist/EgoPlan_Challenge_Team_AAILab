@@ -1,0 +1,100 @@
+{
+    "overall_goal": "Prepare and cook vegetables including eggplant and capsicum.",
+    "clips": [
+        {
+            "subgoal": "Prepare the workspace and ingredients.",
+            "start_timestamp": 0,
+            "stop_timestamp": 621,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Switch on the lights.",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 114
+                },
+                {
+                    "secondary_subgoal": "Wash and dry hands.",
+                    "start_timestamp": 216,
+                    "stop_timestamp": 741
+                },
+                {
+                    "secondary_subgoal": "Gather ingredients from the refrigerator.",
+                    "start_timestamp": 741,
+                    "stop_timestamp": 1025
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize the ingredients.",
+            "start_timestamp": 1025,
+            "stop_timestamp": 7935,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place vegetables on the counter.",
+                    "start_timestamp": 1025,
+                    "stop_timestamp": 2073
+                },
+                {
+                    "secondary_subgoal": "Prepare vegetables (cuts, clean, etc.).",
+                    "start_timestamp": 2073,
+                    "stop_timestamp": 7420
+                },
+                {
+                    "secondary_subgoal": "Place cut vegetables in trays.",
+                    "start_timestamp": 7420,
+                    "stop_timestamp": 7935
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean and cut bell peppers.",
+            "start_timestamp": 7935,
+            "stop_timestamp": 13208,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and remove seeds from the bell pepper.",
+                    "start_timestamp": 7935,
+                    "stop_timestamp": 9193
+                },
+                {
+                    "secondary_subgoal": "Clean and wash the bell peppers.",
+                    "start_timestamp": 9193,
+                    "stop_timestamp": 9747
+                },
+                {
+                    "secondary_subgoal": "Cut the bell peppers into pieces.",
+                    "start_timestamp": 9747,
+                    "stop_timestamp": 13208
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cut ginger and garlic.",
+            "start_timestamp": 13208,
+            "stop_timestamp": 20375,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and arrange the ginger and garlic.",
+                    "start_timestamp": 13208,
+                    "stop_timestamp": 20013
+                },
+                {
+                    "secondary_subgoal": "Wrap and store the ginger.",
+                    "start_timestamp": 20013,
+                    "stop_timestamp": 20375
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare for cooking.",
+            "start_timestamp": 20375,
+            "stop_timestamp": 21332,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare the cooking pot and oil.",
+                    "start_timestamp": 20375,
+                    "stop_timestamp": 21332
+                }
+            ]
+        }
+    ]
+}

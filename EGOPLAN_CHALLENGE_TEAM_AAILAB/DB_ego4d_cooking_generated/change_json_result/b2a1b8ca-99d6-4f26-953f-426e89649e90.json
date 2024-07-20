@@ -1,0 +1,85 @@
+{
+    "overall_goal": "Preparing and cooking dough-based food using various traditional methods and tools",
+    "clips": [
+        {
+            "subgoal": "Mix and prepare the dough",
+            "start_timestamp": 63484,
+            "stop_timestamp": 80391,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mix water with the flour",
+                    "start_timestamp": 63484,
+                    "stop_timestamp": 70154
+                },
+                {
+                    "secondary_subgoal": "Mix additional ingredients into the dough",
+                    "start_timestamp": 70154,
+                    "stop_timestamp": 80409
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook dough and prepare it using cooking utensils",
+            "start_timestamp": 80409,
+            "stop_timestamp": 88793,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir food and adjust the fire",
+                    "start_timestamp": 80409,
+                    "stop_timestamp": 88793
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the space and stir food",
+            "start_timestamp": 88793,
+            "stop_timestamp": 112511,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare the cooking space and manage water",
+                    "start_timestamp": 88793,
+                    "stop_timestamp": 106001
+                },
+                {
+                    "secondary_subgoal": "Mix food and adjust fire",
+                    "start_timestamp": 106001,
+                    "stop_timestamp": 112511
+                }
+            ]
+        },
+        {
+            "subgoal": "Roll and cook the dough",
+            "start_timestamp": 112511,
+            "stop_timestamp": 164006,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Roll dough on a rolling board",
+                    "start_timestamp": 112511,
+                    "stop_timestamp": 119772
+                },
+                {
+                    "secondary_subgoal": "Cook flat breads on a flat cooking pan",
+                    "start_timestamp": 119772,
+                    "stop_timestamp": 164006
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the final batch of dough for cooking",
+            "start_timestamp": 164006,
+            "stop_timestamp": 166436,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Roll and form the dough",
+                    "start_timestamp": 164006,
+                    "stop_timestamp": 165536
+                },
+                {
+                    "secondary_subgoal": "Cook and manage the flat breads on the flat cooking pan",
+                    "start_timestamp": 165536,
+                    "stop_timestamp": 166436
+                }
+            ]
+        }
+    ]
+}

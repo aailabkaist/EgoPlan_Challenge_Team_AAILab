@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eg7totoYUuBM9B6JPKANPnkXcko1",
+    "object": "chat.completion",
+    "created": 1719482081,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook eggplants and meat using various kitchen appliances and utensils.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepping the kitchen and washing hands\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 73,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Set up camera\", \"start_timestamp\": 0, \"stop_timestamp\": 51},\n        {\"secondary_subgoal\": \"Open and use kitchen tap\", \"start_timestamp\": 51, \"stop_timestamp\": 73}\n      ]\n    },\n    {\n      \"subgoal\": \"Washing and prepping eggplants\",\n      \"start_timestamp\": 75,\n      \"stop_timestamp\": 896,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Pick up and wash eggplants\", \"start_timestamp\": 75, \"stop_timestamp\": 288},\n        {\"secondary_subgoal\": \"Dry hands and set up for cutting\", \"start_timestamp\": 342, \"stop_timestamp\": 398},\n        {\"secondary_subgoal\": \"Get knife from drawer\", \"start_timestamp\": 425, \"stop_timestamp\": 478},\n        {\"secondary_subgoal\": \"Cut and peel eggplants\", \"start_timestamp\": 494, \"stop_timestamp\": 733}\n      ]\n    },\n    {\n      \"subgoal\": \"Cook eggplants\",\n      \"start_timestamp\": 4492,\n      \"stop_timestamp\": 9786,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Stir and cook eggplants in frying pan\", \"start_timestamp\": 6180, \"stop_timestamp\": 9637},\n        {\"secondary_subgoal\": \"Prepare oven and meat\", \"start_timestamp\": 9715, \"stop_timestamp\": 9786}\n      ]\n    },\n    {\n      \"subgoal\": \"Mix and prepare ingredients\",\n      \"start_timestamp\": 10249,\n      \"stop_timestamp\": 16093,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Mix spices into nylon paper bag of meat\", \"start_timestamp\": 14703, \"stop_timestamp\": 16093}\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking eggs\",\n      \"start_timestamp\": 16324,\n      \"stop_timestamp\": 20292,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Beat and mix eggs in a bowl\", \"start_timestamp\": 16324, \"stop_timestamp\": 20292}\n      ]\n    },\n    {\n      \"subgoal\": \"Setting up cooking appliances\",\n      \"start_timestamp\": 19454,\n      \"stop_timestamp\": 20996,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Use cooking pot and electric stove\", \"start_timestamp\": 19454, \"stop_timestamp\": 19794},\n        {\"secondary_subgoal\": \"Set up pan on electric stove\", \"start_timestamp\": 20355, \"stop_timestamp\": 20996}\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 5779,
+        "completion_tokens": 629,
+        "total_tokens": 6408
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

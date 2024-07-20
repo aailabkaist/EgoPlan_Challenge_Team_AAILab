@@ -1,0 +1,81 @@
+{
+    "overall_goal": "Clean and arrange kitchen utensils, and prepare food items for cooking.",
+    "clips": [
+        {
+            "subgoal": "Enter the house and initial interaction",
+            "start_timestamp": 0,
+            "stop_timestamp": 204,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Touch and interact with a lady (lady b) outside the house",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 69
+                },
+                {
+                    "secondary_subgoal": "Walk into the house and drop a khaki bag",
+                    "start_timestamp": 69,
+                    "stop_timestamp": 163
+                },
+                {
+                    "secondary_subgoal": "Lady b follows into the house",
+                    "start_timestamp": 163,
+                    "stop_timestamp": 204
+                }
+            ]
+        },
+        {
+            "subgoal": "Kitchen cleaning: Washing utensils",
+            "start_timestamp": 204,
+            "stop_timestamp": 4914,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open tap and wash a fork",
+                    "start_timestamp": 710,
+                    "stop_timestamp": 1079
+                },
+                {
+                    "secondary_subgoal": "Wash a bowl using a sponge and put it in utensils rack",
+                    "start_timestamp": 1464,
+                    "stop_timestamp": 1860
+                },
+                {
+                    "secondary_subgoal": "Wash a knife and a plate using a sponge, rinse and place on utensils rack",
+                    "start_timestamp": 2073,
+                    "stop_timestamp": 2621
+                },
+                {
+                    "secondary_subgoal": "Wash a glass with a sponge and place it on the utensils rack",
+                    "start_timestamp": 2748,
+                    "stop_timestamp": 3244
+                },
+                {
+                    "secondary_subgoal": "Wash another bowl using a sponge, rinse and place on utensils rack",
+                    "start_timestamp": 3283,
+                    "stop_timestamp": 4315
+                },
+                {
+                    "secondary_subgoal": "Next wash: a tray using a sponge with intermittent looking around",
+                    "start_timestamp": 6527,
+                    "stop_timestamp": 8993
+                }
+            ]
+        },
+        {
+            "subgoal": "Interaction with woman Y and others",
+            "start_timestamp": 9000,
+            "stop_timestamp": 26391,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Interact while washing utensils with a sponge",
+                    "start_timestamp": 9000,
+                    "stop_timestamp": 15000
+                },
+                {
+                    "secondary_subgoal": "Interact and chop carrots",
+                    "start_timestamp": 20201,
+                    "stop_timestamp": 26291
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,912 @@
+[
+    {
+        "task_goal": "Wash and dry utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the chop board",
+                "start_frame": 1,
+                "stop_frame": 159
+            },
+            {
+                "narration_text": "Places the chop board on a utensils rack",
+                "start_frame": 159,
+                "stop_frame": 229
+            },
+            {
+                "narration_text": "Dries the hands",
+                "start_frame": 229,
+                "stop_frame": 293
+            },
+            {
+                "narration_text": "Moves the oil in the pan",
+                "start_frame": 293,
+                "stop_frame": 606
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the chop board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the chop board",
+                "start_frame": 1,
+                "stop_frame": 159
+            },
+            {
+                "narration_text": "Places the chop board on a utensils rack",
+                "start_frame": 159,
+                "stop_frame": 229
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the chop board on a utensils rack",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the chop board",
+                "start_frame": 1,
+                "stop_frame": 159
+            },
+            {
+                "narration_text": "Places the chop board on a utensils rack",
+                "start_frame": 159,
+                "stop_frame": 229
+            },
+            {
+                "narration_text": "Dries the hands",
+                "start_frame": 229,
+                "stop_frame": 293
+            }
+        ]
+    },
+    {
+        "task_goal": "Dry hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the chop board on a utensils rack",
+                "start_frame": 159,
+                "stop_frame": 229
+            },
+            {
+                "narration_text": "Dries the hands",
+                "start_frame": 229,
+                "stop_frame": 293
+            },
+            {
+                "narration_text": "Moves the oil in the pan",
+                "start_frame": 293,
+                "stop_frame": 606
+            }
+        ]
+    },
+    {
+        "task_goal": "Cook food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Dries the hands",
+                "start_frame": 229,
+                "stop_frame": 293
+            },
+            {
+                "narration_text": "Moves the oil in the pan",
+                "start_frame": 293,
+                "stop_frame": 606
+            },
+            {
+                "narration_text": "Puts unsure in the pan",
+                "start_frame": 606,
+                "stop_frame": 712
+            },
+            {
+                "narration_text": "Turns unsure",
+                "start_frame": 712,
+                "stop_frame": 796
+            },
+            {
+                "narration_text": "Places the cooking pan on the gas cooker",
+                "start_frame": 796,
+                "stop_frame": 820
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 820,
+                "stop_frame": 883
+            },
+            {
+                "narration_text": "Takes the container",
+                "start_frame": 883,
+                "stop_frame": 1003
+            },
+            {
+                "narration_text": "Puts unsure in the cooking pan",
+                "start_frame": 1003,
+                "stop_frame": 1323
+            },
+            {
+                "narration_text": "Places the container in the drawer",
+                "start_frame": 1323,
+                "stop_frame": 1355
+            },
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 1355,
+                "stop_frame": 1407
+            },
+            {
+                "narration_text": "Cooks unsure",
+                "start_frame": 1407,
+                "stop_frame": 2030
+            },
+            {
+                "narration_text": "Places the chop stick on the table",
+                "start_frame": 2030,
+                "stop_frame": 2084
+            }
+        ]
+    },
+    {
+        "task_goal": "Move the oil in the pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Dries the hands",
+                "start_frame": 229,
+                "stop_frame": 293
+            },
+            {
+                "narration_text": "Moves the oil in the pan",
+                "start_frame": 293,
+                "stop_frame": 606
+            },
+            {
+                "narration_text": "Puts unsure in the pan",
+                "start_frame": 606,
+                "stop_frame": 712
+            }
+        ]
+    },
+    {
+        "task_goal": "Put ingredients in the pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves the oil in the pan",
+                "start_frame": 293,
+                "stop_frame": 606
+            },
+            {
+                "narration_text": "Puts unsure in the pan",
+                "start_frame": 606,
+                "stop_frame": 712
+            },
+            {
+                "narration_text": "Turns unsure",
+                "start_frame": 712,
+                "stop_frame": 796
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts unsure in the pan",
+                "start_frame": 606,
+                "stop_frame": 712
+            },
+            {
+                "narration_text": "Turns unsure",
+                "start_frame": 712,
+                "stop_frame": 796
+            },
+            {
+                "narration_text": "Places the cooking pan on the gas cooker",
+                "start_frame": 796,
+                "stop_frame": 820
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the cooking pan on the gas cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns unsure",
+                "start_frame": 712,
+                "stop_frame": 796
+            },
+            {
+                "narration_text": "Places the cooking pan on the gas cooker",
+                "start_frame": 796,
+                "stop_frame": 820
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 820,
+                "stop_frame": 883
+            }
+        ]
+    },
+    {
+        "task_goal": "Open drawer to take container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the cooking pan on the gas cooker",
+                "start_frame": 796,
+                "stop_frame": 820
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 820,
+                "stop_frame": 883
+            },
+            {
+                "narration_text": "Takes the container",
+                "start_frame": 883,
+                "stop_frame": 1003
+            },
+            {
+                "narration_text": "Puts unsure in the cooking pan",
+                "start_frame": 1003,
+                "stop_frame": 1323
+            }
+        ]
+    },
+    {
+        "task_goal": "Put ingredients in cooking pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the container",
+                "start_frame": 883,
+                "stop_frame": 1003
+            },
+            {
+                "narration_text": "Puts unsure in the cooking pan",
+                "start_frame": 1003,
+                "stop_frame": 1323
+            },
+            {
+                "narration_text": "Places the container in the drawer",
+                "start_frame": 1323,
+                "stop_frame": 1355
+            }
+        ]
+    },
+    {
+        "task_goal": "Place container back in drawer and close it",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts unsure in the cooking pan",
+                "start_frame": 1003,
+                "stop_frame": 1323
+            },
+            {
+                "narration_text": "Places the container in the drawer",
+                "start_frame": 1323,
+                "stop_frame": 1355
+            },
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 1355,
+                "stop_frame": 1407
+            },
+            {
+                "narration_text": "Cooks unsure",
+                "start_frame": 1407,
+                "stop_frame": 2030
+            }
+        ]
+    },
+    {
+        "task_goal": "Cook ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 1355,
+                "stop_frame": 1407
+            },
+            {
+                "narration_text": "Cooks unsure",
+                "start_frame": 1407,
+                "stop_frame": 2030
+            },
+            {
+                "narration_text": "Places the chop stick on the table",
+                "start_frame": 2030,
+                "stop_frame": 2084
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean the kitchen",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cooks unsure",
+                "start_frame": 1407,
+                "stop_frame": 2030
+            },
+            {
+                "narration_text": "Places the chop stick on the table",
+                "start_frame": 2030,
+                "stop_frame": 2084
+            },
+            {
+                "narration_text": "Collects the dirt in the sink",
+                "start_frame": 2084,
+                "stop_frame": 2403
+            },
+            {
+                "narration_text": "Puts the dirt in a container",
+                "start_frame": 2403,
+                "stop_frame": 2458
+            },
+            {
+                "narration_text": "Collects the dirt in the sink",
+                "start_frame": 2458,
+                "stop_frame": 2528
+            },
+            {
+                "narration_text": "Puts the dirt in a container",
+                "start_frame": 2528,
+                "stop_frame": 2579
+            },
+            {
+                "narration_text": "Opens the water tap",
+                "start_frame": 2579,
+                "stop_frame": 2599
+            },
+            {
+                "narration_text": "Cleans the sink",
+                "start_frame": 2599,
+                "stop_frame": 2912
+            },
+            {
+                "narration_text": "Washes the container",
+                "start_frame": 2912,
+                "stop_frame": 3096
+            },
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 3096,
+                "stop_frame": 3125
+            },
+            {
+                "narration_text": "Washes the container",
+                "start_frame": 3125,
+                "stop_frame": 3339
+            },
+            {
+                "narration_text": "Places the container on the sink",
+                "start_frame": 3339,
+                "stop_frame": 3423
+            },
+            {
+                "narration_text": "Opens the water tap",
+                "start_frame": 3423,
+                "stop_frame": 3466
+            },
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 3466,
+                "stop_frame": 3513
+            },
+            {
+                "narration_text": "Dries the hands",
+                "start_frame": 3513,
+                "stop_frame": 3531
+            },
+            {
+                "narration_text": "Takes the chop stick",
+                "start_frame": 3531,
+                "stop_frame": 3576
+            }
+        ]
+    },
+    {
+        "task_goal": "Place chop stick on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cooks unsure",
+                "start_frame": 1407,
+                "stop_frame": 2030
+            },
+            {
+                "narration_text": "Places the chop stick on the table",
+                "start_frame": 2030,
+                "stop_frame": 2084
+            },
+            {
+                "narration_text": "Collects the dirt in the sink",
+                "start_frame": 2084,
+                "stop_frame": 2403
+            }
+        ]
+    },
+    {
+        "task_goal": "Collect dirt from sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the chop stick on the table",
+                "start_frame": 2030,
+                "stop_frame": 2084
+            },
+            {
+                "narration_text": "Collects the dirt in the sink",
+                "start_frame": 2084,
+                "stop_frame": 2403
+            },
+            {
+                "narration_text": "Puts the dirt in a container",
+                "start_frame": 2403,
+                "stop_frame": 2458
+            }
+        ]
+    },
+    {
+        "task_goal": "Put dirt in container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Collects the dirt in the sink",
+                "start_frame": 2084,
+                "stop_frame": 2403
+            },
+            {
+                "narration_text": "Puts the dirt in a container",
+                "start_frame": 2403,
+                "stop_frame": 2458
+            },
+            {
+                "narration_text": "Collects the dirt in the sink",
+                "start_frame": 2458,
+                "stop_frame": 2528
+            }
+        ]
+    },
+    {
+        "task_goal": "Collect and discard more dirt",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the dirt in a container",
+                "start_frame": 2403,
+                "stop_frame": 2458
+            },
+            {
+                "narration_text": "Collects the dirt in the sink",
+                "start_frame": 2458,
+                "stop_frame": 2528
+            },
+            {
+                "narration_text": "Puts the dirt in a container",
+                "start_frame": 2528,
+                "stop_frame": 2579
+            },
+            {
+                "narration_text": "Opens the water tap",
+                "start_frame": 2579,
+                "stop_frame": 2599
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the water tap and clean the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the dirt in a container",
+                "start_frame": 2528,
+                "stop_frame": 2579
+            },
+            {
+                "narration_text": "Opens the water tap",
+                "start_frame": 2579,
+                "stop_frame": 2599
+            },
+            {
+                "narration_text": "Cleans the sink",
+                "start_frame": 2599,
+                "stop_frame": 2912
+            },
+            {
+                "narration_text": "Washes the container",
+                "start_frame": 2912,
+                "stop_frame": 3096
+            },
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 3096,
+                "stop_frame": 3125
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the container",
+                "start_frame": 2912,
+                "stop_frame": 3096
+            },
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 3096,
+                "stop_frame": 3125
+            },
+            {
+                "narration_text": "Washes the container",
+                "start_frame": 3125,
+                "stop_frame": 3339
+            },
+            {
+                "narration_text": "Places the container on the sink",
+                "start_frame": 3339,
+                "stop_frame": 3423
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the container on the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the container",
+                "start_frame": 3125,
+                "stop_frame": 3339
+            },
+            {
+                "narration_text": "Places the container on the sink",
+                "start_frame": 3339,
+                "stop_frame": 3423
+            },
+            {
+                "narration_text": "Opens the water tap",
+                "start_frame": 3423,
+                "stop_frame": 3466
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and close the water tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the container on the sink",
+                "start_frame": 3339,
+                "stop_frame": 3423
+            },
+            {
+                "narration_text": "Opens the water tap",
+                "start_frame": 3423,
+                "stop_frame": 3466
+            },
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 3466,
+                "stop_frame": 3513
+            },
+            {
+                "narration_text": "Dries the hands",
+                "start_frame": 3513,
+                "stop_frame": 3531
+            }
+        ]
+    },
+    {
+        "task_goal": "Dry hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 3466,
+                "stop_frame": 3513
+            },
+            {
+                "narration_text": "Dries the hands",
+                "start_frame": 3513,
+                "stop_frame": 3531
+            },
+            {
+                "narration_text": "Takes the chop stick",
+                "start_frame": 3531,
+                "stop_frame": 3576
+            }
+        ]
+    },
+    {
+        "task_goal": "Continue cooking and prepare to eat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Dries the hands",
+                "start_frame": 3513,
+                "stop_frame": 3531
+            },
+            {
+                "narration_text": "Takes the chop stick",
+                "start_frame": 3531,
+                "stop_frame": 3576
+            },
+            {
+                "narration_text": "Cooks unsure",
+                "start_frame": 3576,
+                "stop_frame": 4399
+            },
+            {
+                "narration_text": "Switches off the gas cooker",
+                "start_frame": 4399,
+                "stop_frame": 4458
+            },
+            {
+                "narration_text": "Places the chop stick on the table",
+                "start_frame": 4458,
+                "stop_frame": 4519
+            },
+            {
+                "narration_text": "Puts the water in a bowl",
+                "start_frame": 4519,
+                "stop_frame": 4581
+            },
+            {
+                "narration_text": "Washes the bowl",
+                "start_frame": 4581,
+                "stop_frame": 4646
+            },
+            {
+                "narration_text": "Shakes the bowl",
+                "start_frame": 4646,
+                "stop_frame": 4709
+            },
+            {
+                "narration_text": "Places the bowl on the table",
+                "start_frame": 4709,
+                "stop_frame": 4712
+            },
+            {
+                "narration_text": "Takes the chop stick",
+                "start_frame": 4712,
+                "stop_frame": 4751
+            },
+            {
+                "narration_text": "Holds the cooking pan",
+                "start_frame": 4751,
+                "stop_frame": 4789
+            },
+            {
+                "narration_text": "Puts the food in a bowl",
+                "start_frame": 4789,
+                "stop_frame": 4964
+            },
+            {
+                "narration_text": "Puts the cooking pan on a gas cooker",
+                "start_frame": 4964,
+                "stop_frame": 5043
+            },
+            {
+                "narration_text": "Moves the bowl on the table",
+                "start_frame": 5043,
+                "stop_frame": 5121
+            },
+            {
+                "narration_text": "Places the chop stick on the table",
+                "start_frame": 5121,
+                "stop_frame": 5165
+            },
+            {
+                "narration_text": "Holds unsure",
+                "start_frame": 5165,
+                "stop_frame": 5265
+            }
+        ]
+    },
+    {
+        "task_goal": "Take chop stick",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Dries the hands",
+                "start_frame": 3513,
+                "stop_frame": 3531
+            },
+            {
+                "narration_text": "Takes the chop stick",
+                "start_frame": 3531,
+                "stop_frame": 3576
+            },
+            {
+                "narration_text": "Cooks unsure",
+                "start_frame": 3576,
+                "stop_frame": 4399
+            }
+        ]
+    },
+    {
+        "task_goal": "Continue cooking",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the chop stick",
+                "start_frame": 3531,
+                "stop_frame": 3576
+            },
+            {
+                "narration_text": "Cooks unsure",
+                "start_frame": 3576,
+                "stop_frame": 4399
+            },
+            {
+                "narration_text": "Switches off the gas cooker",
+                "start_frame": 4399,
+                "stop_frame": 4458
+            }
+        ]
+    },
+    {
+        "task_goal": "Switch off gas cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cooks unsure",
+                "start_frame": 3576,
+                "stop_frame": 4399
+            },
+            {
+                "narration_text": "Switches off the gas cooker",
+                "start_frame": 4399,
+                "stop_frame": 4458
+            },
+            {
+                "narration_text": "Places the chop stick on the table",
+                "start_frame": 4458,
+                "stop_frame": 4519
+            }
+        ]
+    },
+    {
+        "task_goal": "Place chop stick on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Switches off the gas cooker",
+                "start_frame": 4399,
+                "stop_frame": 4458
+            },
+            {
+                "narration_text": "Places the chop stick on the table",
+                "start_frame": 4458,
+                "stop_frame": 4519
+            },
+            {
+                "narration_text": "Puts the water in a bowl",
+                "start_frame": 4519,
+                "stop_frame": 4581
+            }
+        ]
+    },
+    {
+        "task_goal": "Put water in a bowl and wash it",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the chop stick on the table",
+                "start_frame": 4458,
+                "stop_frame": 4519
+            },
+            {
+                "narration_text": "Puts the water in a bowl",
+                "start_frame": 4519,
+                "stop_frame": 4581
+            },
+            {
+                "narration_text": "Washes the bowl",
+                "start_frame": 4581,
+                "stop_frame": 4646
+            },
+            {
+                "narration_text": "Shakes the bowl",
+                "start_frame": 4646,
+                "stop_frame": 4709
+            }
+        ]
+    },
+    {
+        "task_goal": "Shake and place bowl on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the bowl",
+                "start_frame": 4581,
+                "stop_frame": 4646
+            },
+            {
+                "narration_text": "Shakes the bowl",
+                "start_frame": 4646,
+                "stop_frame": 4709
+            },
+            {
+                "narration_text": "Places the bowl on the table",
+                "start_frame": 4709,
+                "stop_frame": 4712
+            },
+            {
+                "narration_text": "Takes the chop stick",
+                "start_frame": 4712,
+                "stop_frame": 4751
+            }
+        ]
+    },
+    {
+        "task_goal": "Take chop stick, hold cooking pan, and transfer food to bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the bowl on the table",
+                "start_frame": 4709,
+                "stop_frame": 4712
+            },
+            {
+                "narration_text": "Takes the chop stick",
+                "start_frame": 4712,
+                "stop_frame": 4751
+            },
+            {
+                "narration_text": "Holds the cooking pan",
+                "start_frame": 4751,
+                "stop_frame": 4789
+            },
+            {
+                "narration_text": "Puts the food in a bowl",
+                "start_frame": 4789,
+                "stop_frame": 4964
+            },
+            {
+                "narration_text": "Puts the cooking pan on a gas cooker",
+                "start_frame": 4964,
+                "stop_frame": 5043
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the cooking pan on the gas cooker and move the bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the food in a bowl",
+                "start_frame": 4789,
+                "stop_frame": 4964
+            },
+            {
+                "narration_text": "Puts the cooking pan on a gas cooker",
+                "start_frame": 4964,
+                "stop_frame": 5043
+            },
+            {
+                "narration_text": "Moves the bowl on the table",
+                "start_frame": 5043,
+                "stop_frame": 5121
+            },
+            {
+                "narration_text": "Places the chop stick on the table",
+                "start_frame": 5121,
+                "stop_frame": 5165
+            }
+        ]
+    },
+    {
+        "task_goal": "Place chop stick on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves the bowl on the table",
+                "start_frame": 5043,
+                "stop_frame": 5121
+            },
+            {
+                "narration_text": "Places the chop stick on the table",
+                "start_frame": 5121,
+                "stop_frame": 5165
+            },
+            {
+                "narration_text": "Holds unsure",
+                "start_frame": 5165,
+                "stop_frame": 5265
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold another utensil",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the chop stick on the table",
+                "start_frame": 5121,
+                "stop_frame": 5165
+            },
+            {
+                "narration_text": "Holds unsure",
+                "start_frame": 5165,
+                "stop_frame": 5265
+            }
+        ]
+    }
+]

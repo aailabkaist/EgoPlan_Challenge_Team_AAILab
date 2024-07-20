@@ -1,0 +1,44 @@
+{
+    "overall_goal": "Prepare and adjust the tomato stew.",
+    "clips": [
+        {
+            "subgoal": "Cook the tomato stew",
+            "start_timestamp": 0,
+            "stop_timestamp": 768,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir the tomato stew",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 65
+                },
+                {
+                    "secondary_subgoal": "Retrieve and use the spoon to add water to the tomato stew",
+                    "start_timestamp": 118,
+                    "stop_timestamp": 391
+                },
+                {
+                    "secondary_subgoal": "Stir the tomato stew after adding water",
+                    "start_timestamp": 408,
+                    "stop_timestamp": 768
+                }
+            ]
+        },
+        {
+            "subgoal": "Check surroundings and adjust the camera",
+            "start_timestamp": 768,
+            "stop_timestamp": 934,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look around the room",
+                    "start_timestamp": 768,
+                    "stop_timestamp": 834
+                },
+                {
+                    "secondary_subgoal": "Adjust the camera",
+                    "start_timestamp": 834,
+                    "stop_timestamp": 934
+                }
+            ]
+        }
+    ]
+}

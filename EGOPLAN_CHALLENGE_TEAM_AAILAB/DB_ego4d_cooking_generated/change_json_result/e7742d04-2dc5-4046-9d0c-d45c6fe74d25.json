@@ -1,0 +1,213 @@
+{
+    "overall_goal": "Prepare a dish that involves multiple steps such as opening packets, grating ingredients, stirring, tasting, and adjusting the cooking process.",
+    "clips": [
+        {
+            "subgoal": "Prepare the ingredients and start cooking",
+            "start_timestamp": "0",
+            "stop_timestamp": "1507",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Use and put down the phone",
+                    "start_timestamp": "0",
+                    "stop_timestamp": "130"
+                },
+                {
+                    "secondary_subgoal": "Handle packet and knife",
+                    "start_timestamp": "130",
+                    "stop_timestamp": "439"
+                },
+                {
+                    "secondary_subgoal": "Retrieve a grater from the drawer",
+                    "start_timestamp": "439",
+                    "stop_timestamp": "621"
+                },
+                {
+                    "secondary_subgoal": "Grate ingredients",
+                    "start_timestamp": "621",
+                    "stop_timestamp": "1067"
+                },
+                {
+                    "secondary_subgoal": "Place ingredients and tools aside",
+                    "start_timestamp": "1067",
+                    "stop_timestamp": "1507"
+                }
+            ]
+        },
+        {
+            "subgoal": "Add ingredients to the cooking pan and continue preparation",
+            "start_timestamp": "1507",
+            "stop_timestamp": "2765",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and add unsure ingredients",
+                    "start_timestamp": "1507",
+                    "stop_timestamp": "1615"
+                },
+                {
+                    "secondary_subgoal": "Further grating and adding ingredients",
+                    "start_timestamp": "1615",
+                    "stop_timestamp": "2025"
+                },
+                {
+                    "secondary_subgoal": "Initial stirring of the soup",
+                    "start_timestamp": "2025",
+                    "stop_timestamp": "2765"
+                }
+            ]
+        },
+        {
+            "subgoal": "Use phone and taste the soup",
+            "start_timestamp": "2765",
+            "stop_timestamp": "2981",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Use phone",
+                    "start_timestamp": "2765",
+                    "stop_timestamp": "2855"
+                },
+                {
+                    "secondary_subgoal": "Taste the soup",
+                    "start_timestamp": "2855",
+                    "stop_timestamp": "2981"
+                }
+            ]
+        },
+        {
+            "subgoal": "Add more ingredients and stir the soup",
+            "start_timestamp": "2981",
+            "stop_timestamp": "4840",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Grate more ingredients and add to the soup",
+                    "start_timestamp": "2981",
+                    "stop_timestamp": "4076"
+                },
+                {
+                    "secondary_subgoal": "Return unused ingredients to the packet and place in wardrobe",
+                    "start_timestamp": "4076",
+                    "stop_timestamp": "4296"
+                },
+                {
+                    "secondary_subgoal": "Pick oat cult packet and add to the soup",
+                    "start_timestamp": "4296",
+                    "stop_timestamp": "4500"
+                },
+                {
+                    "secondary_subgoal": "Further stir the soup",
+                    "start_timestamp": "4500",
+                    "stop_timestamp": "4722"
+                },
+                {
+                    "secondary_subgoal": "Return oat cult packet to wardrobe",
+                    "start_timestamp": "4722",
+                    "stop_timestamp": "4840"
+                }
+            ]
+        },
+        {
+            "subgoal": "Unwrap and cut unsure ingredient, clean knife, and eat it",
+            "start_timestamp": "4840",
+            "stop_timestamp": "7252",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Unwrap unsure and put wrapper down",
+                    "start_timestamp": "4840",
+                    "stop_timestamp": "5289"
+                },
+                {
+                    "secondary_subgoal": "Cut unsure ingredient and add to cooking pan",
+                    "start_timestamp": "5289",
+                    "stop_timestamp": "6569"
+                },
+                {
+                    "secondary_subgoal": "Clean knife and eat unsure",
+                    "start_timestamp": "6569",
+                    "stop_timestamp": "6796"
+                },
+                {
+                    "secondary_subgoal": "Wrap and eat unsure again",
+                    "start_timestamp": "6796",
+                    "stop_timestamp": "7051"
+                },
+                {
+                    "secondary_subgoal": "Store remaining unsure in wardrobe",
+                    "start_timestamp": "7051",
+                    "stop_timestamp": "7252"
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up and use phone",
+            "start_timestamp": "7252",
+            "stop_timestamp": "8192",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean and discard trash",
+                    "start_timestamp": "7252",
+                    "stop_timestamp": "8243"
+                },
+                {
+                    "secondary_subgoal": "Use phone",
+                    "start_timestamp": "8243",
+                    "stop_timestamp": "8192"
+                }
+            ]
+        },
+        {
+            "subgoal": "Place items in the drawer and dishwasher",
+            "start_timestamp": "8192",
+            "stop_timestamp": "9055",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put utensils in their designated places",
+                    "start_timestamp": "8192",
+                    "stop_timestamp": "8619"
+                },
+                {
+                    "secondary_subgoal": "Clean countertop and place chopping board in dishwasher",
+                    "start_timestamp": "8619",
+                    "stop_timestamp": "9055"
+                }
+            ]
+        },
+        {
+            "subgoal": "Adjust cooking process, add ingredients, and taste",
+            "start_timestamp": "9055",
+            "stop_timestamp": "16665",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open wardrobe, pick ingredients and add to pan",
+                    "start_timestamp": "9055",
+                    "stop_timestamp": "10131"
+                },
+                {
+                    "secondary_subgoal": "Add bottle of unsure and clean countertop",
+                    "start_timestamp": "10131",
+                    "stop_timestamp": "12962"
+                },
+                {
+                    "secondary_subgoal": "Add final ingredients and adjust electric cooker",
+                    "start_timestamp": "12962",
+                    "stop_timestamp": "16665"
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish cooking and clean up",
+            "start_timestamp": "16665",
+            "stop_timestamp": "16974",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Finish cooking process",
+                    "start_timestamp": "16665",
+                    "stop_timestamp": "16874"
+                },
+                {
+                    "secondary_subgoal": "Clean hands",
+                    "start_timestamp": "16874",
+                    "stop_timestamp": "16974"
+                }
+            ]
+        }
+    ]
+}

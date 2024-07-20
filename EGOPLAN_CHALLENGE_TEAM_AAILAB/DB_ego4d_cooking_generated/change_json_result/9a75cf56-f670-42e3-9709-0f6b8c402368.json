@@ -1,0 +1,100 @@
+{
+    "overall_goal": "Cooking and preparing a meal.",
+    "clips": [
+        {
+            "subgoal": "Preparations for cooking",
+            "start_timestamp": 40,
+            "stop_timestamp": 288,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Getting utensils and cooking area prepped",
+                    "start_timestamp": 40,
+                    "stop_timestamp": 288
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling ingredients",
+            "start_timestamp": 288,
+            "stop_timestamp": 2049,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Placing items in various locations",
+                    "start_timestamp": 288,
+                    "stop_timestamp": 745
+                },
+                {
+                    "secondary_subgoal": "Handling cooking pot and adding ingredients",
+                    "start_timestamp": 745,
+                    "stop_timestamp": 1634
+                },
+                {
+                    "secondary_subgoal": "Cleaning up workspace",
+                    "start_timestamp": 1634,
+                    "stop_timestamp": 2049
+                }
+            ]
+        },
+        {
+            "subgoal": "Mixing ingredients",
+            "start_timestamp": 2049,
+            "stop_timestamp": 4504,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling and mixing ingredients",
+                    "start_timestamp": 2049,
+                    "stop_timestamp": 3887
+                },
+                {
+                    "secondary_subgoal": "Cleaning utensils",
+                    "start_timestamp": 3887,
+                    "stop_timestamp": 4480
+                },
+                {
+                    "secondary_subgoal": "Drying hands",
+                    "start_timestamp": 4480,
+                    "stop_timestamp": 4504
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking the egg",
+            "start_timestamp": 4504,
+            "stop_timestamp": 9164,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preparing and frying the egg",
+                    "start_timestamp": 4504,
+                    "stop_timestamp": 8999
+                },
+                {
+                    "secondary_subgoal": "Final table setup and placing egg",
+                    "start_timestamp": 8999,
+                    "stop_timestamp": 9164
+                }
+            ]
+        },
+        {
+            "subgoal": "Utensil cleaning and final food preparation",
+            "start_timestamp": 9164,
+            "stop_timestamp": 15709,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning and drying utensils",
+                    "start_timestamp": 9164,
+                    "stop_timestamp": 9880
+                },
+                {
+                    "secondary_subgoal": "Mixing and preparing the final dish",
+                    "start_timestamp": 9880,
+                    "stop_timestamp": 15609
+                },
+                {
+                    "secondary_subgoal": "Final food presentation",
+                    "start_timestamp": 15609,
+                    "stop_timestamp": 15709
+                }
+            ]
+        }
+    ]
+}

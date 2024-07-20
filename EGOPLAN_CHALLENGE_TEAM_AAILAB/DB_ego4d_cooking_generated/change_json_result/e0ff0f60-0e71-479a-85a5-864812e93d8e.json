@@ -1,0 +1,138 @@
+{
+    "overall_goal": "Prepare and cook food as well as clean up the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Clean hands and prepare utensils",
+            "start_timestamp": 124,
+            "stop_timestamp": 315,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put knife in the sink",
+                    "start_timestamp": 124,
+                    "stop_timestamp": 148
+                },
+                {
+                    "secondary_subgoal": "Open tap",
+                    "start_timestamp": 148,
+                    "stop_timestamp": 161
+                },
+                {
+                    "secondary_subgoal": "Rinse hands",
+                    "start_timestamp": 161,
+                    "stop_timestamp": 222
+                },
+                {
+                    "secondary_subgoal": "Close tap",
+                    "start_timestamp": 222,
+                    "stop_timestamp": 244
+                },
+                {
+                    "secondary_subgoal": "Dry hands with towel",
+                    "start_timestamp": 244,
+                    "stop_timestamp": 315
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook food on the pan",
+            "start_timestamp": 315,
+            "stop_timestamp": 14817,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick chopsticks and stir food on the pan",
+                    "start_timestamp": 315,
+                    "stop_timestamp": 1626
+                },
+                {
+                    "secondary_subgoal": "Put chopsticks on the table",
+                    "start_timestamp": 1626,
+                    "stop_timestamp": 1712
+                },
+                {
+                    "secondary_subgoal": "Open cabinet",
+                    "start_timestamp": 1712,
+                    "stop_timestamp": 1748
+                },
+                {
+                    "secondary_subgoal": "Take plate and close cabinet",
+                    "start_timestamp": 1748,
+                    "stop_timestamp": 1848
+                },
+                {
+                    "secondary_subgoal": "Pick spoon and rinse it",
+                    "start_timestamp": 1916,
+                    "stop_timestamp": 1966
+                },
+                {
+                    "secondary_subgoal": "Scoop and put it on the plate",
+                    "start_timestamp": 1966,
+                    "stop_timestamp": 2846
+                },
+                {
+                    "secondary_subgoal": "Put plate on table",
+                    "start_timestamp": 2846,
+                    "stop_timestamp": 2855
+                },
+                {
+                    "secondary_subgoal": "Pick chopsticks and stir food on the pan",
+                    "start_timestamp": 2855,
+                    "stop_timestamp": 7363
+                },
+                {
+                    "secondary_subgoal": "Rinse hands and close tap",
+                    "start_timestamp": 7375,
+                    "stop_timestamp": 8398
+                },
+                {
+                    "secondary_subgoal": "Continue stirring food on pan",
+                    "start_timestamp": 8398,
+                    "stop_timestamp": 14817
+                }
+            ]
+        },
+        {
+            "subgoal": "Add spices and continue cooking",
+            "start_timestamp": 10561,
+            "stop_timestamp": 20280,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add spices on the food",
+                    "start_timestamp": 10625,
+                    "stop_timestamp": 13132
+                },
+                {
+                    "secondary_subgoal": "Put down the spice bottle",
+                    "start_timestamp": 13132,
+                    "stop_timestamp": 13175
+                },
+                {
+                    "secondary_subgoal": "Stir the food",
+                    "start_timestamp": 13781,
+                    "stop_timestamp": 20254
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up kitchen and put utensils away",
+            "start_timestamp": 20254,
+            "stop_timestamp": 21280,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean the knife",
+                    "start_timestamp": 20442,
+                    "stop_timestamp": 20532
+                },
+                {
+                    "secondary_subgoal": "Clean and put away the potato peeler",
+                    "start_timestamp": 20532,
+                    "stop_timestamp": 21180
+                },
+                {
+                    "secondary_subgoal": "Clean the chopping board",
+                    "start_timestamp": 20782,
+                    "stop_timestamp": 21280
+                }
+            ]
+        }
+    ]
+}

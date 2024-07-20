@@ -1,0 +1,175 @@
+{
+    "overall_goal": "Prepare a meal involving various ingredients, primarily coconuts, mangoes, and yams, and clean the kitchen area.",
+    "clips": [
+        {
+            "subgoal": "Cutting bananas and initial kitchen preparations",
+            "start_timestamp": "61",
+            "stop_timestamp": "353",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walking around the room",
+                    "start_timestamp": "61",
+                    "stop_timestamp": "83"
+                },
+                {
+                    "secondary_subgoal": "Lowering the hand",
+                    "start_timestamp": "83",
+                    "stop_timestamp": "285"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cutting and washing bananas",
+            "start_timestamp": "613",
+            "stop_timestamp": "2329",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cutting bananas",
+                    "start_timestamp": "613",
+                    "stop_timestamp": "988"
+                },
+                {
+                    "secondary_subgoal": "Washing bananas",
+                    "start_timestamp": "2075",
+                    "stop_timestamp": "2329"
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing to grind coconut",
+            "start_timestamp": "3499",
+            "stop_timestamp": "4853",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walking around",
+                    "start_timestamp": "3499",
+                    "stop_timestamp": "3769"
+                },
+                {
+                    "secondary_subgoal": "Holding coconut",
+                    "start_timestamp": "4587",
+                    "stop_timestamp": "4756"
+                }
+            ]
+        },
+        {
+            "subgoal": "Grinding and preparing coconut",
+            "start_timestamp": "5363",
+            "stop_timestamp": "11352",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Grinding coconut",
+                    "start_timestamp": "5363",
+                    "stop_timestamp": "5756"
+                },
+                {
+                    "secondary_subgoal": "Touching coconut",
+                    "start_timestamp": "6402",
+                    "stop_timestamp": "6435"
+                },
+                {
+                    "secondary_subgoal": "Rotating bowl",
+                    "start_timestamp": "6663",
+                    "stop_timestamp": "7075"
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing sweet potatoes and mixing coconut",
+            "start_timestamp": "11687",
+            "stop_timestamp": "14170",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walking and interacting with utensils",
+                    "start_timestamp": "11687",
+                    "stop_timestamp": "11918"
+                },
+                {
+                    "secondary_subgoal": "Preparing sweet potatoes",
+                    "start_timestamp": "12671",
+                    "stop_timestamp": "13754"
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing yams",
+            "start_timestamp": "17391",
+            "stop_timestamp": "22353",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walking and washing dish",
+                    "start_timestamp": "17391",
+                    "stop_timestamp": "17759"
+                },
+                {
+                    "secondary_subgoal": "Peeling yam",
+                    "start_timestamp": "18104",
+                    "stop_timestamp": "21502"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking potatoes",
+            "start_timestamp": "24484",
+            "stop_timestamp": "27183",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adding water",
+                    "start_timestamp": "24678",
+                    "stop_timestamp": "24754"
+                },
+                {
+                    "secondary_subgoal": "Preparing stove and adding cooking pot",
+                    "start_timestamp": "27036",
+                    "stop_timestamp": "27183"
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing and cutting mangoes",
+            "start_timestamp": "33150",
+            "stop_timestamp": "39647",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Getting mango from fridge and washing",
+                    "start_timestamp": "33150",
+                    "stop_timestamp": "33333"
+                },
+                {
+                    "secondary_subgoal": "Cutting and eating mango",
+                    "start_timestamp": "36107",
+                    "stop_timestamp": "39460"
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding spices and mixing ingredients",
+            "start_timestamp": "40003",
+            "stop_timestamp": "43686",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adding spices and mixing",
+                    "start_timestamp": "40003",
+                    "stop_timestamp": "43686"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning the kitchen and finishing cooking",
+            "start_timestamp": "42999",
+            "stop_timestamp": "83582",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adding ingredients and stirring",
+                    "start_timestamp": "42999",
+                    "stop_timestamp": "47351"
+                },
+                {
+                    "secondary_subgoal": "Cleaning utensils",
+                    "start_timestamp": "75336",
+                    "stop_timestamp": "79985"
+                }
+            ]
+        }
+    ]
+}

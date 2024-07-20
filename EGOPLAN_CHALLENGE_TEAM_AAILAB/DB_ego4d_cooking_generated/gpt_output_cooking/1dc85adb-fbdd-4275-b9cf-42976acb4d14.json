@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efG5qQQwpcJxROigUOkhSI4wt4OD",
+    "object": "chat.completion",
+    "created": 1719478745,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and chop ingredients (chili and onion) for cooking and crush them with other ingredients in a tin.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Chop chilies into small pieces\",\n      \"start_timestamp\": 18097,\n      \"stop_timestamp\": 26228,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gather chilies and chopping tools\",\n          \"start_timestamp\": 18097,\n          \"stop_timestamp\": 18191\n        },\n        {\n          \"secondary_subgoal\": \"Chop chilies with a knife\",\n          \"start_timestamp\": 18191,\n          \"stop_timestamp\": 19597\n        },\n        {\n          \"secondary_subgoal\": \"Put chopped chilies in a bowl\",\n          \"start_timestamp\": 19597,\n          \"stop_timestamp\": 19628\n        },\n        {\n          \"secondary_subgoal\": \"Repeat gathering, chopping, and placing chilies\",\n          \"start_timestamp\": 19628,\n          \"stop_timestamp\": 26228\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Chop onions into small pieces\",\n      \"start_timestamp\": 26228,\n      \"stop_timestamp\": 33259,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gather onions and prepare chopping tools\",\n          \"start_timestamp\": 26228,\n          \"stop_timestamp\": 26592\n        },\n        {\n          \"secondary_subgoal\": \"Chop onions with a knife\",\n          \"start_timestamp\": 26592,\n          \"stop_timestamp\": 29081\n        },\n        {\n          \"secondary_subgoal\": \"Put chopped onions in a bowl\",\n          \"start_timestamp\": 29081,\n          \"stop_timestamp\": 29201\n        },\n        {\n          \"secondary_subgoal\": \"Continue chopping and storing onions\",\n          \"start_timestamp\": 29201,\n          \"stop_timestamp\": 33259\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Crush chilies and onions with other ingredients in a tin\",\n      \"start_timestamp\": 33259,\n      \"stop_timestamp\": 36083,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare chilies, onions, and a tin for crushing\",\n          \"start_timestamp\": 33259,\n          \"stop_timestamp\": 34852\n        },\n        {\n          \"secondary_subgoal\": \"Combine ingredients in the tin\",\n          \"start_timestamp\": 34852,\n          \"stop_timestamp\": 35751\n        },\n        {\n          \"secondary_subgoal\": \"Crush ingredients with a pestle\",\n          \"start_timestamp\": 35751,\n          \"stop_timestamp\": 36083\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4890,
+        "completion_tokens": 585,
+        "total_tokens": 5475
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

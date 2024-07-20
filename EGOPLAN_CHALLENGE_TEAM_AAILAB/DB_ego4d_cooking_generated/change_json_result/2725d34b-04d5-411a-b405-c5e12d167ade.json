@@ -1,0 +1,122 @@
+{
+    "overall_goal": "The overall goal of the person is to prepare and cook various dishes, clean up the kitchen, and manage kitchen items",
+    "clips": [
+        {
+            "subgoal": "Lighting up the gas stove and preparing the cooking pan",
+            "start_timestamp": 92,
+            "stop_timestamp": 360,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking and lighting the gas igniter",
+                    "start_timestamp": 92,
+                    "stop_timestamp": 225
+                },
+                {
+                    "secondary_subgoal": "Preparing the cooking pan",
+                    "start_timestamp": 225,
+                    "stop_timestamp": 360
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding ingredients to the cooking pan",
+            "start_timestamp": 442,
+            "stop_timestamp": 1480,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking and opening the tin",
+                    "start_timestamp": 442,
+                    "stop_timestamp": 580
+                },
+                {
+                    "secondary_subgoal": "Adding cooking oil",
+                    "start_timestamp": 580,
+                    "stop_timestamp": 734
+                },
+                {
+                    "secondary_subgoal": "Handling the tin and other items",
+                    "start_timestamp": 734,
+                    "stop_timestamp": 880
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding vegetables and spices to the cooking pan",
+            "start_timestamp": 1838,
+            "stop_timestamp": 22502,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling and cutting the pepper and other vegetables",
+                    "start_timestamp": 1838,
+                    "stop_timestamp": 2175
+                },
+                {
+                    "secondary_subgoal": "Continuing to prepare vegetables and adjust the cooker",
+                    "start_timestamp": 2175,
+                    "stop_timestamp": 1431
+                },
+                {
+                    "secondary_subgoal": "Adding various ingredients",
+                    "start_timestamp": 1431,
+                    "stop_timestamp": 22502
+                }
+            ]
+        },
+        {
+            "subgoal": "Managing the wet grinder",
+            "start_timestamp": 34688,
+            "stop_timestamp": 36545,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling the wet grinder drum and accessories",
+                    "start_timestamp": 34688,
+                    "stop_timestamp": 35387
+                },
+                {
+                    "secondary_subgoal": "Adding rice and water to the wet grinder",
+                    "start_timestamp": 35387,
+                    "stop_timestamp": 36545
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling and storing kitchen containers",
+            "start_timestamp": 31011,
+            "stop_timestamp": 32842,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling various containers",
+                    "start_timestamp": 31011,
+                    "stop_timestamp": 32027
+                },
+                {
+                    "secondary_subgoal": "Placing items back in the fridge and other storage",
+                    "start_timestamp": 32027,
+                    "stop_timestamp": 32842
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning the cooking area and utensils",
+            "start_timestamp": 66379,
+            "stop_timestamp": 86583,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Starting the cleanup process",
+                    "start_timestamp": 66379,
+                    "stop_timestamp": 66767
+                },
+                {
+                    "secondary_subgoal": "Washing various kitchen items",
+                    "start_timestamp": 66767,
+                    "stop_timestamp": 75685
+                },
+                {
+                    "secondary_subgoal": "More intricate and detailed cleaning steps",
+                    "start_timestamp": 75685,
+                    "stop_timestamp": 86583
+                }
+            ]
+        }
+    ]
+}

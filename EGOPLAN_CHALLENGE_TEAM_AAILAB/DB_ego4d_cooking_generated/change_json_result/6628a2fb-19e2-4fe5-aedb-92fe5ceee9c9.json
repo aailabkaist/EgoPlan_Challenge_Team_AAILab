@@ -1,0 +1,171 @@
+{
+    "overall_goal": "Applying hair cream and performing various activities in the house including looking for and handling food items, and preparing meals.",
+    "clips": [
+        {
+            "subgoal": "Applying hair cream",
+            "start_timestamp": "50",
+            "stop_timestamp": "1428",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking and opening hair cream",
+                    "start_timestamp": "50",
+                    "stop_timestamp": "135"
+                },
+                {
+                    "secondary_subgoal": "Scooping and applying hair cream",
+                    "start_timestamp": "135",
+                    "stop_timestamp": "590"
+                },
+                {
+                    "secondary_subgoal": "Applying hair cream on hair",
+                    "start_timestamp": "590",
+                    "stop_timestamp": "1285"
+                },
+                {
+                    "secondary_subgoal": "Washing hands after applying hair cream",
+                    "start_timestamp": "1285",
+                    "stop_timestamp": "1428"
+                }
+            ]
+        },
+        {
+            "subgoal": "Searching and inspecting items around the house",
+            "start_timestamp": "1700",
+            "stop_timestamp": "3333",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walking around the house",
+                    "start_timestamp": "1700",
+                    "stop_timestamp": "1774"
+                },
+                {
+                    "secondary_subgoal": "Looking around the house",
+                    "start_timestamp": "1774",
+                    "stop_timestamp": "2255"
+                },
+                {
+                    "secondary_subgoal": "Opening and looking into a cabinet",
+                    "start_timestamp": "2255",
+                    "stop_timestamp": "2376"
+                },
+                {
+                    "secondary_subgoal": "Opening window blinds",
+                    "start_timestamp": "3300",
+                    "stop_timestamp": "3333"
+                }
+            ]
+        },
+        {
+            "subgoal": "Exploring items in the fridge",
+            "start_timestamp": "4240",
+            "stop_timestamp": "5539",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Looking inside the fridge",
+                    "start_timestamp": "4290",
+                    "stop_timestamp": "4841"
+                },
+                {
+                    "secondary_subgoal": "Selecting and taking items from the fridge",
+                    "start_timestamp": "4841",
+                    "stop_timestamp": "5539"
+                }
+            ]
+        },
+        {
+            "subgoal": "Walking around and organizing kitchen items",
+            "start_timestamp": "5539",
+            "stop_timestamp": "13044",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walking and inspecting the kitchen",
+                    "start_timestamp": "5539",
+                    "stop_timestamp": "9793"
+                },
+                {
+                    "secondary_subgoal": "Selecting items from cabinets and refrigerator",
+                    "start_timestamp": "12270",
+                    "stop_timestamp": "13044"
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling and preparing food in the kitchen",
+            "start_timestamp": "13044",
+            "stop_timestamp": "26431",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing items at sink",
+                    "start_timestamp": "13044",
+                    "stop_timestamp": "13277"
+                },
+                {
+                    "secondary_subgoal": "Handling the trash bin",
+                    "start_timestamp": "13510",
+                    "stop_timestamp": "15312"
+                },
+                {
+                    "secondary_subgoal": "Handling bags and preparing for food operations",
+                    "start_timestamp": "15461",
+                    "stop_timestamp": "16254"
+                },
+                {
+                    "secondary_subgoal": "Continuing with kitchen tasks",
+                    "start_timestamp": "16540",
+                    "stop_timestamp": "26431"
+                }
+            ]
+        },
+        {
+            "subgoal": "Conducting various tasks including operating the cooker and cleaning",
+            "start_timestamp": "26552",
+            "stop_timestamp": "32892",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling item preparations and interactions",
+                    "start_timestamp": "26552",
+                    "stop_timestamp": "32598"
+                },
+                {
+                    "secondary_subgoal": "Cleaning activities in the kitchen",
+                    "start_timestamp": "32598",
+                    "stop_timestamp": "32892"
+                }
+            ]
+        },
+        {
+            "subgoal": "Final tasks in the kitchen",
+            "start_timestamp": "32962",
+            "stop_timestamp": "46408",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Organizing kitchen drawers and items",
+                    "start_timestamp": "32962",
+                    "stop_timestamp": "40737"
+                },
+                {
+                    "secondary_subgoal": "Walking around and checking the kitchen",
+                    "start_timestamp": "42913",
+                    "stop_timestamp": "46408"
+                }
+            ]
+        },
+        {
+            "subgoal": "Concluding activities and turning off camera",
+            "start_timestamp": "46408",
+            "stop_timestamp": "46860",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing and drying hands in the bathroom",
+                    "start_timestamp": "46455",
+                    "stop_timestamp": "46688"
+                },
+                {
+                    "secondary_subgoal": "Walking to the bedroom and switching off camera",
+                    "start_timestamp": "46747",
+                    "stop_timestamp": "46860"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "overall_goal": "Prepare and cook turnip and vegetables in the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Grate and prepare turnip",
+            "start_timestamp": 0,
+            "stop_timestamp": 2184,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather equipment and tools",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 18
+                },
+                {
+                    "secondary_subgoal": "Pick up and hold turnip",
+                    "start_timestamp": 18,
+                    "stop_timestamp": 41
+                },
+                {
+                    "secondary_subgoal": "Prepare turnip for grating",
+                    "start_timestamp": 41,
+                    "stop_timestamp": 66
+                },
+                {
+                    "secondary_subgoal": "Grate the turnip",
+                    "start_timestamp": 853,
+                    "stop_timestamp": 1457
+                },
+                {
+                    "secondary_subgoal": "Put grated turnip on frying pan",
+                    "start_timestamp": 1457,
+                    "stop_timestamp": 1523
+                },
+                {
+                    "secondary_subgoal": "Stir the grated turnip",
+                    "start_timestamp": 2184,
+                    "stop_timestamp": 2184
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook turnip",
+            "start_timestamp": 2184,
+            "stop_timestamp": 4045,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Heat the turnip in frying pan",
+                    "start_timestamp": 2184,
+                    "stop_timestamp": 2364
+                },
+                {
+                    "secondary_subgoal": "Add cooking oil",
+                    "start_timestamp": 2364,
+                    "stop_timestamp": 2654
+                },
+                {
+                    "secondary_subgoal": "Continue stirring turnip",
+                    "start_timestamp": 2654,
+                    "stop_timestamp": 4045
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean and organize kitchenware",
+            "start_timestamp": 4045,
+            "stop_timestamp": 8392,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move sink items",
+                    "start_timestamp": 4045,
+                    "stop_timestamp": 4194
+                },
+                {
+                    "secondary_subgoal": "Wash hands",
+                    "start_timestamp": 4194,
+                    "stop_timestamp": 4748
+                },
+                {
+                    "secondary_subgoal": "Organize kitchenware",
+                    "start_timestamp": 4748,
+                    "stop_timestamp": 8392
+                },
+                {
+                    "secondary_subgoal": "Arrange chopsticks and spoons",
+                    "start_timestamp": 7478,
+                    "stop_timestamp": 7516
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare ingredients for cooking",
+            "start_timestamp": 8392,
+            "stop_timestamp": 10673,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle dishes and vegetables",
+                    "start_timestamp": 8392,
+                    "stop_timestamp": 10315
+                },
+                {
+                    "secondary_subgoal": "Combine ingredients in pan",
+                    "start_timestamp": 10315,
+                    "stop_timestamp": 10673
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook and stir vegetables",
+            "start_timestamp": 10673,
+            "stop_timestamp": 12420,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir vegetables",
+                    "start_timestamp": 10673,
+                    "stop_timestamp": 11330
+                },
+                {
+                    "secondary_subgoal": "Add water to vegetables",
+                    "start_timestamp": 11330,
+                    "stop_timestamp": 12420
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize kitchen and stow utensils",
+            "start_timestamp": 12420,
+            "stop_timestamp": 13427,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move utensils",
+                    "start_timestamp": 12420,
+                    "stop_timestamp": 13427
+                },
+                {
+                    "secondary_subgoal": "Organize utensils in washing machine",
+                    "start_timestamp": 13427,
+                    "stop_timestamp": 14592
+                },
+                {
+                    "secondary_subgoal": "Store utensils and spices in kitchen",
+                    "start_timestamp": 14592,
+                    "stop_timestamp": 15133
+                }
+            ]
+        },
+        {
+            "subgoal": "Add seasoning to vegetables",
+            "start_timestamp": 15133,
+            "stop_timestamp": 17564,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add seasoning ingredients",
+                    "start_timestamp": 15133,
+                    "stop_timestamp": 17564
+                }
+            ]
+        },
+        {
+            "subgoal": "Complete cooking",
+            "start_timestamp": 17564,
+            "stop_timestamp": 21334,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add butter to the spaghetti",
+                    "start_timestamp": 17564,
+                    "stop_timestamp": 20111
+                },
+                {
+                    "secondary_subgoal": "Store butter",
+                    "start_timestamp": 20111,
+                    "stop_timestamp": 20703
+                },
+                {
+                    "secondary_subgoal": "Clean hands and tools",
+                    "start_timestamp": 20703,
+                    "stop_timestamp": 21334
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,622 @@
+[
+    {
+        "task_goal": "Scrap off ingredient from plate and floor, then mix paste",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Scraps off ingredient from the plate with a finger",
+                "start_frame": 6611,
+                "stop_frame": 6761
+            },
+            {
+                "narration_text": "Puts down the plate",
+                "start_frame": 6761,
+                "stop_frame": 6812
+            },
+            {
+                "narration_text": "Scraps off the paste from the floor with a finger",
+                "start_frame": 6812,
+                "stop_frame": 6894
+            },
+            {
+                "narration_text": "Picks up unsure from the bowl",
+                "start_frame": 6894,
+                "stop_frame": 6902
+            },
+            {
+                "narration_text": "Puts unsure on the plate",
+                "start_frame": 6902,
+                "stop_frame": 6944
+            }
+        ]
+    },
+    {
+        "task_goal": "Scrap off ingredient from the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Scraps off ingredient from the plate with a finger",
+                "start_frame": 6611,
+                "stop_frame": 6761
+            },
+            {
+                "narration_text": "Puts down the plate",
+                "start_frame": 6761,
+                "stop_frame": 6812
+            }
+        ]
+    },
+    {
+        "task_goal": "Put down the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Scraps off ingredient from the plate with a finger",
+                "start_frame": 6611,
+                "stop_frame": 6761
+            },
+            {
+                "narration_text": "Puts down the plate",
+                "start_frame": 6761,
+                "stop_frame": 6812
+            },
+            {
+                "narration_text": "Scraps off the paste from the floor with a finger",
+                "start_frame": 6812,
+                "stop_frame": 6894
+            }
+        ]
+    },
+    {
+        "task_goal": "Scrap off the paste from the floor",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down the plate",
+                "start_frame": 6761,
+                "stop_frame": 6812
+            },
+            {
+                "narration_text": "Scraps off the paste from the floor with a finger",
+                "start_frame": 6812,
+                "stop_frame": 6894
+            },
+            {
+                "narration_text": "Picks up unsure from the bowl",
+                "start_frame": 6894,
+                "stop_frame": 6902
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up an object from the bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Scraps off the paste from the floor with a finger",
+                "start_frame": 6812,
+                "stop_frame": 6894
+            },
+            {
+                "narration_text": "Picks up unsure from the bowl",
+                "start_frame": 6894,
+                "stop_frame": 6902
+            },
+            {
+                "narration_text": "Puts unsure on the plate",
+                "start_frame": 6902,
+                "stop_frame": 6944
+            }
+        ]
+    },
+    {
+        "task_goal": "Put object on the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up unsure from the bowl",
+                "start_frame": 6894,
+                "stop_frame": 6902
+            },
+            {
+                "narration_text": "Puts unsure on the plate",
+                "start_frame": 6902,
+                "stop_frame": 6944
+            },
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 6944,
+                "stop_frame": 7188
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix the paste in the bowl with right hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts unsure on the plate",
+                "start_frame": 6902,
+                "stop_frame": 6944
+            },
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 6944,
+                "stop_frame": 7188
+            },
+            {
+                "narration_text": "Picks up an ingredient",
+                "start_frame": 7188,
+                "stop_frame": 7189
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up and pour ingredient in the paste",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 6944,
+                "stop_frame": 7188
+            },
+            {
+                "narration_text": "Picks up an ingredient",
+                "start_frame": 7188,
+                "stop_frame": 7189
+            },
+            {
+                "narration_text": "Pours the ingredient in the paste",
+                "start_frame": 7189,
+                "stop_frame": 7299
+            },
+            {
+                "narration_text": "Puts the ingredient down",
+                "start_frame": 7299,
+                "stop_frame": 7356
+            }
+        ]
+    },
+    {
+        "task_goal": "Put the ingredient down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours the ingredient in the paste",
+                "start_frame": 7189,
+                "stop_frame": 7299
+            },
+            {
+                "narration_text": "Puts the ingredient down",
+                "start_frame": 7299,
+                "stop_frame": 7356
+            },
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 7356,
+                "stop_frame": 7847
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix the paste in the bowl with right hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the ingredient down",
+                "start_frame": 7299,
+                "stop_frame": 7356
+            },
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 7356,
+                "stop_frame": 7847
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 7847,
+                "stop_frame": 7965
+            }
+        ]
+    },
+    {
+        "task_goal": "Look around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 7356,
+                "stop_frame": 7847
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 7847,
+                "stop_frame": 7965
+            },
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 7965,
+                "stop_frame": 8012
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix the paste in the bowl with right hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Looks around",
+                "start_frame": 7847,
+                "stop_frame": 7965
+            },
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 7965,
+                "stop_frame": 8012
+            },
+            {
+                "narration_text": "Picks up an ingredient",
+                "start_frame": 8012,
+                "stop_frame": 8037
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up and pour ingredient in the paste",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 7965,
+                "stop_frame": 8012
+            },
+            {
+                "narration_text": "Picks up an ingredient",
+                "start_frame": 8012,
+                "stop_frame": 8037
+            },
+            {
+                "narration_text": "Pours the ingredient in the paste",
+                "start_frame": 8037,
+                "stop_frame": 8089
+            },
+            {
+                "narration_text": "Puts the ingredient down",
+                "start_frame": 8089,
+                "stop_frame": 8110
+            }
+        ]
+    },
+    {
+        "task_goal": "Put the ingredient down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours the ingredient in the paste",
+                "start_frame": 8037,
+                "stop_frame": 8089
+            },
+            {
+                "narration_text": "Puts the ingredient down",
+                "start_frame": 8089,
+                "stop_frame": 8110
+            },
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 8110,
+                "stop_frame": 8403
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix the paste in the bowl with right hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the ingredient down",
+                "start_frame": 8089,
+                "stop_frame": 8110
+            },
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 8110,
+                "stop_frame": 8403
+            },
+            {
+                "narration_text": "Scraps off the paste from the hands in the bowl",
+                "start_frame": 8403,
+                "stop_frame": 9178
+            }
+        ]
+    },
+    {
+        "task_goal": "Scrap off the paste from hands in the bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 8110,
+                "stop_frame": 8403
+            },
+            {
+                "narration_text": "Scraps off the paste from the hands in the bowl",
+                "start_frame": 8403,
+                "stop_frame": 9178
+            },
+            {
+                "narration_text": "Picks up an ingredient in a bowl",
+                "start_frame": 9178,
+                "stop_frame": 9202
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up and pour ingredient in the paste",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Scraps off the paste from the hands in the bowl",
+                "start_frame": 8403,
+                "stop_frame": 9178
+            },
+            {
+                "narration_text": "Picks up an ingredient in a bowl",
+                "start_frame": 9178,
+                "stop_frame": 9202
+            },
+            {
+                "narration_text": "Pours the ingredient in the paste",
+                "start_frame": 9202,
+                "stop_frame": 9265
+            },
+            {
+                "narration_text": "Puts the bowl down",
+                "start_frame": 9265,
+                "stop_frame": 9290
+            }
+        ]
+    },
+    {
+        "task_goal": "Put the ingredient down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours the ingredient in the paste",
+                "start_frame": 9202,
+                "stop_frame": 9265
+            },
+            {
+                "narration_text": "Puts the bowl down",
+                "start_frame": 9265,
+                "stop_frame": 9290
+            },
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 9290,
+                "stop_frame": 9905
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix the paste in the bowl with right hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the bowl down",
+                "start_frame": 9265,
+                "stop_frame": 9290
+            },
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 9290,
+                "stop_frame": 9905
+            },
+            {
+                "narration_text": "Lifts left hand",
+                "start_frame": 9905,
+                "stop_frame": 9948
+            }
+        ]
+    },
+    {
+        "task_goal": "Lift left hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 9290,
+                "stop_frame": 9905
+            },
+            {
+                "narration_text": "Lifts left hand",
+                "start_frame": 9905,
+                "stop_frame": 9948
+            },
+            {
+                "narration_text": "Puts left hand down",
+                "start_frame": 9948,
+                "stop_frame": 10004
+            }
+        ]
+    },
+    {
+        "task_goal": "Put left hand down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lifts left hand",
+                "start_frame": 9905,
+                "stop_frame": 9948
+            },
+            {
+                "narration_text": "Puts left hand down",
+                "start_frame": 9948,
+                "stop_frame": 10004
+            },
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 10004,
+                "stop_frame": 10577
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix the paste in the bowl with right hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts left hand down",
+                "start_frame": 9948,
+                "stop_frame": 10004
+            },
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 10004,
+                "stop_frame": 10577
+            },
+            {
+                "narration_text": "Scraps off the paste from the hands in the bowl",
+                "start_frame": 10577,
+                "stop_frame": 11033
+            }
+        ]
+    },
+    {
+        "task_goal": "Scrap off the paste from hands in the bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 10004,
+                "stop_frame": 10577
+            },
+            {
+                "narration_text": "Scraps off the paste from the hands in the bowl",
+                "start_frame": 10577,
+                "stop_frame": 11033
+            },
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 11033,
+                "stop_frame": 11298
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix the paste in the bowl with right hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Scraps off the paste from the hands in the bowl",
+                "start_frame": 10577,
+                "stop_frame": 11033
+            },
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 11033,
+                "stop_frame": 11298
+            },
+            {
+                "narration_text": "Scoops an ingredient in a bowl",
+                "start_frame": 11298,
+                "stop_frame": 11402
+            }
+        ]
+    },
+    {
+        "task_goal": "Scoop and sprinkle ingredient in the paste",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 11033,
+                "stop_frame": 11298
+            },
+            {
+                "narration_text": "Scoops an ingredient in a bowl",
+                "start_frame": 11298,
+                "stop_frame": 11402
+            },
+            {
+                "narration_text": "Sprinkles the ingredient in the paste",
+                "start_frame": 11402,
+                "stop_frame": 11528
+            },
+            {
+                "narration_text": "Scraps off the paste from the finger with the floor",
+                "start_frame": 11528,
+                "stop_frame": 11594
+            }
+        ]
+    },
+    {
+        "task_goal": "Scrap paste from finger onto the floor",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Sprinkles the ingredient in the paste",
+                "start_frame": 11402,
+                "stop_frame": 11528
+            },
+            {
+                "narration_text": "Scraps off the paste from the finger with the floor",
+                "start_frame": 11528,
+                "stop_frame": 11594
+            },
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 11594,
+                "stop_frame": 11915
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix the paste in the bowl with right hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Scraps off the paste from the finger with the floor",
+                "start_frame": 11528,
+                "stop_frame": 11594
+            },
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 11594,
+                "stop_frame": 11915
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 11915,
+                "stop_frame": 12037
+            }
+        ]
+    },
+    {
+        "task_goal": "Look around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 11594,
+                "stop_frame": 11915
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 11915,
+                "stop_frame": 12037
+            },
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 12037,
+                "stop_frame": 13128
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix the paste in the bowl with right hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Looks around",
+                "start_frame": 11915,
+                "stop_frame": 12037
+            },
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 12037,
+                "stop_frame": 13128
+            },
+            {
+                "narration_text": "Adjusts the camera",
+                "start_frame": 13128,
+                "stop_frame": 13228
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjust the camera",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Mixes the paste in the bowl with the right hand",
+                "start_frame": 12037,
+                "stop_frame": 13128
+            },
+            {
+                "narration_text": "Adjusts the camera",
+                "start_frame": 13128,
+                "stop_frame": 13228
+            }
+        ]
+    }
+]

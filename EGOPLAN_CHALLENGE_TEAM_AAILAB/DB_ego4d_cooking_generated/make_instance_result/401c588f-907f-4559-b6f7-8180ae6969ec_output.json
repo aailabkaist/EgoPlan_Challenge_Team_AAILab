@@ -1,0 +1,717 @@
+[
+    {
+        "task_goal": "Pick and wash the onion",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the onion",
+                "start_frame": 43,
+                "stop_frame": 62
+            },
+            {
+                "narration_text": "#C C walks to the tap",
+                "start_frame": 62,
+                "stop_frame": 85
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 85,
+                "stop_frame": 108
+            },
+            {
+                "narration_text": "#C C washes the onion",
+                "start_frame": 108,
+                "stop_frame": 113
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 113,
+                "stop_frame": 144
+            },
+            {
+                "narration_text": "#C C puts the onion on the chopping board",
+                "start_frame": 144,
+                "stop_frame": 172
+            }
+        ]
+    },
+    {
+        "task_goal": "Slice and peel the onion",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 113,
+                "stop_frame": 144
+            },
+            {
+                "narration_text": "#C C puts the onion on the chopping board",
+                "start_frame": 144,
+                "stop_frame": 172
+            },
+            {
+                "narration_text": "#C C sliced the onion",
+                "start_frame": 172,
+                "stop_frame": 313
+            },
+            {
+                "narration_text": "#C C picks the bigger part",
+                "start_frame": 313,
+                "stop_frame": 336
+            },
+            {
+                "narration_text": "#C C puts the big onion away",
+                "start_frame": 336,
+                "stop_frame": 363
+            },
+            {
+                "narration_text": "#C C picks the smaller onion",
+                "start_frame": 363,
+                "stop_frame": 408
+            },
+            {
+                "narration_text": "#C C pulls the peel from the onion",
+                "start_frame": 408,
+                "stop_frame": 458
+            },
+            {
+                "narration_text": "#C C throws the peel away",
+                "start_frame": 458,
+                "stop_frame": 483
+            },
+            {
+                "narration_text": "#C C puts the peel on the chopping board",
+                "start_frame": 483,
+                "stop_frame": 576
+            }
+        ]
+    },
+    {
+        "task_goal": "Chop the onion",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C throws the peel away",
+                "start_frame": 458,
+                "stop_frame": 483
+            },
+            {
+                "narration_text": "#C C puts the peel on the chopping board",
+                "start_frame": 483,
+                "stop_frame": 576
+            },
+            {
+                "narration_text": "#C C chops the onion",
+                "start_frame": 576,
+                "stop_frame": 784
+            },
+            {
+                "narration_text": "#C C puts the knife on the chopping board",
+                "start_frame": 784,
+                "stop_frame": 814
+            },
+            {
+                "narration_text": "#C C picks the carrot",
+                "start_frame": 814,
+                "stop_frame": 840
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and wash the carrots",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the knife on the chopping board",
+                "start_frame": 784,
+                "stop_frame": 814
+            },
+            {
+                "narration_text": "#C C picks the carrot",
+                "start_frame": 814,
+                "stop_frame": 840
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 840,
+                "stop_frame": 840
+            },
+            {
+                "narration_text": "#C C washes carrots",
+                "start_frame": 840,
+                "stop_frame": 846
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 846,
+                "stop_frame": 888
+            },
+            {
+                "narration_text": "#C C picks the knife",
+                "start_frame": 888,
+                "stop_frame": 938
+            }
+        ]
+    },
+    {
+        "task_goal": "Chop and peel the carrots",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 846,
+                "stop_frame": 888
+            },
+            {
+                "narration_text": "#C C picks the knife",
+                "start_frame": 888,
+                "stop_frame": 938
+            },
+            {
+                "narration_text": "#C C chops the carrot",
+                "start_frame": 938,
+                "stop_frame": 965
+            },
+            {
+                "narration_text": "#C C picks the chop piece",
+                "start_frame": 965,
+                "stop_frame": 967
+            },
+            {
+                "narration_text": "#C C throws the chop piece in the sink",
+                "start_frame": 967,
+                "stop_frame": 995
+            },
+            {
+                "narration_text": "#C C cuts the carrot",
+                "start_frame": 995,
+                "stop_frame": 1055
+            },
+            {
+                "narration_text": "#C C puts the big piece away",
+                "start_frame": 1055,
+                "stop_frame": 1067
+            },
+            {
+                "narration_text": "#C C picks the small piece",
+                "start_frame": 1067,
+                "stop_frame": 1110
+            },
+            {
+                "narration_text": "#C C peels the carrot",
+                "start_frame": 1110,
+                "stop_frame": 1386
+            },
+            {
+                "narration_text": "#C C throws the peel in the sink",
+                "start_frame": 1386,
+                "stop_frame": 1404
+            },
+            {
+                "narration_text": "#C C puts the carrot on the chopping board",
+                "start_frame": 1404,
+                "stop_frame": 1432
+            },
+            {
+                "narration_text": "#C C chops the carrot",
+                "start_frame": 1432,
+                "stop_frame": 2548
+            }
+        ]
+    },
+    {
+        "task_goal": "Chop more carrots",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the carrot on the chopping board",
+                "start_frame": 1404,
+                "stop_frame": 1432
+            },
+            {
+                "narration_text": "#C C chops the carrot",
+                "start_frame": 1432,
+                "stop_frame": 2548
+            },
+            {
+                "narration_text": "#C C wipes the carrots on the knife",
+                "start_frame": 2548,
+                "stop_frame": 2598
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe and clean the knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C chops the carrot",
+                "start_frame": 1432,
+                "stop_frame": 2548
+            },
+            {
+                "narration_text": "#C C wipes the carrots on the knife",
+                "start_frame": 2548,
+                "stop_frame": 2598
+            },
+            {
+                "narration_text": "#C C picks the red pepper",
+                "start_frame": 2598,
+                "stop_frame": 2622
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare the red pepper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C wipes the carrots on the knife",
+                "start_frame": 2548,
+                "stop_frame": 2598
+            },
+            {
+                "narration_text": "#C C picks the red pepper",
+                "start_frame": 2598,
+                "stop_frame": 2622
+            },
+            {
+                "narration_text": "#C C puts the red pepper on the chopping board",
+                "start_frame": 2622,
+                "stop_frame": 2639
+            },
+            {
+                "narration_text": "#C C cuts the red pepper",
+                "start_frame": 2639,
+                "stop_frame": 2696
+            },
+            {
+                "narration_text": "#C C puts a piece of the red pepper away",
+                "start_frame": 2696,
+                "stop_frame": 2748
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 2748,
+                "stop_frame": 2761
+            },
+            {
+                "narration_text": "#C C washes the pepper",
+                "start_frame": 2761,
+                "stop_frame": 2868
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 2868,
+                "stop_frame": 2890
+            },
+            {
+                "narration_text": "#C C picks the knife",
+                "start_frame": 2890,
+                "stop_frame": 2894
+            },
+            {
+                "narration_text": "#C C puts the pepper on the chopping board",
+                "start_frame": 2894,
+                "stop_frame": 2922
+            },
+            {
+                "narration_text": "#C C cuts the pepper",
+                "start_frame": 2922,
+                "stop_frame": 3065
+            },
+            {
+                "narration_text": "#C C drops the knife on the counter",
+                "start_frame": 3065,
+                "stop_frame": 3088
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and wash the red pepper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C wipes the carrots on the knife",
+                "start_frame": 2548,
+                "stop_frame": 2598
+            },
+            {
+                "narration_text": "#C C picks the red pepper",
+                "start_frame": 2598,
+                "stop_frame": 2622
+            },
+            {
+                "narration_text": "#C C puts the red pepper on the chopping board",
+                "start_frame": 2622,
+                "stop_frame": 2639
+            },
+            {
+                "narration_text": "#C C cuts the red pepper",
+                "start_frame": 2639,
+                "stop_frame": 2696
+            },
+            {
+                "narration_text": "#C C puts a piece of the red pepper away",
+                "start_frame": 2696,
+                "stop_frame": 2748
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 2748,
+                "stop_frame": 2761
+            },
+            {
+                "narration_text": "#C C washes the pepper",
+                "start_frame": 2761,
+                "stop_frame": 2868
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 2868,
+                "stop_frame": 2890
+            },
+            {
+                "narration_text": "#C C picks the knife",
+                "start_frame": 2890,
+                "stop_frame": 2894
+            }
+        ]
+    },
+    {
+        "task_goal": "Slice the red pepper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 2868,
+                "stop_frame": 2890
+            },
+            {
+                "narration_text": "#C C picks the knife",
+                "start_frame": 2890,
+                "stop_frame": 2894
+            },
+            {
+                "narration_text": "#C C puts the pepper on the chopping board",
+                "start_frame": 2894,
+                "stop_frame": 2922
+            },
+            {
+                "narration_text": "#C C cuts the pepper",
+                "start_frame": 2922,
+                "stop_frame": 3065
+            },
+            {
+                "narration_text": "#C C drops the knife on the counter",
+                "start_frame": 3065,
+                "stop_frame": 3088
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove cabbage leaves",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the cabbage on the chopping board",
+                "start_frame": 4739,
+                "stop_frame": 4787
+            },
+            {
+                "narration_text": "#C C drops the knife on the chopping board",
+                "start_frame": 4787,
+                "stop_frame": 4813
+            },
+            {
+                "narration_text": "#C C removes the cabbage leaves",
+                "start_frame": 4813,
+                "stop_frame": 4965
+            },
+            {
+                "narration_text": "#C C puts the cabbage in the bag pack",
+                "start_frame": 4965,
+                "stop_frame": 5002
+            },
+            {
+                "narration_text": "#C C chops the cabbage",
+                "start_frame": 5002,
+                "stop_frame": 5630
+            },
+            {
+                "narration_text": "#C C puts the knife on the chopping board",
+                "start_frame": 5630,
+                "stop_frame": 5728
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash vegetables",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C chops the cabbage",
+                "start_frame": 5002,
+                "stop_frame": 5630
+            },
+            {
+                "narration_text": "#C C puts the knife on the chopping board",
+                "start_frame": 5630,
+                "stop_frame": 5728
+            },
+            {
+                "narration_text": "#C C picks the colander",
+                "start_frame": 5728,
+                "stop_frame": 5735
+            },
+            {
+                "narration_text": "#C C puts the vegetables in the colander",
+                "start_frame": 5735,
+                "stop_frame": 6117
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 6117,
+                "stop_frame": 6135
+            },
+            {
+                "narration_text": "#C C washes the vegetables",
+                "start_frame": 6135,
+                "stop_frame": 6155
+            },
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 6155,
+                "stop_frame": 6181
+            },
+            {
+                "narration_text": "#C C picks the bowl",
+                "start_frame": 6181,
+                "stop_frame": 6194
+            },
+            {
+                "narration_text": "#C C pours the water in the sink",
+                "start_frame": 6194,
+                "stop_frame": 6218
+            },
+            {
+                "narration_text": "#C C puts the colander in the bowl",
+                "start_frame": 6218,
+                "stop_frame": 6273
+            },
+            {
+                "narration_text": "#C C picks the meat",
+                "start_frame": 6273,
+                "stop_frame": 6399
+            }
+        ]
+    },
+    {
+        "task_goal": "Put vegetables in colander",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C chops the cabbage",
+                "start_frame": 5002,
+                "stop_frame": 5630
+            },
+            {
+                "narration_text": "#C C puts the knife on the chopping board",
+                "start_frame": 5630,
+                "stop_frame": 5728
+            },
+            {
+                "narration_text": "#C C picks the colander",
+                "start_frame": 5728,
+                "stop_frame": 5735
+            },
+            {
+                "narration_text": "#C C puts the vegetables in the colander",
+                "start_frame": 5735,
+                "stop_frame": 6117
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 6117,
+                "stop_frame": 6135
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash and drain vegetables",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the vegetables in the colander",
+                "start_frame": 5735,
+                "stop_frame": 6117
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 6117,
+                "stop_frame": 6135
+            },
+            {
+                "narration_text": "#C C washes the vegetables",
+                "start_frame": 6135,
+                "stop_frame": 6155
+            },
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 6155,
+                "stop_frame": 6181
+            },
+            {
+                "narration_text": "#C C picks the bowl",
+                "start_frame": 6181,
+                "stop_frame": 6194
+            },
+            {
+                "narration_text": "#C C pours the water in the sink",
+                "start_frame": 6194,
+                "stop_frame": 6218
+            },
+            {
+                "narration_text": "#C C puts the colander in the bowl",
+                "start_frame": 6218,
+                "stop_frame": 6273
+            },
+            {
+                "narration_text": "#C C picks the meat",
+                "start_frame": 6273,
+                "stop_frame": 6399
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle and cook meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the colander in the bowl",
+                "start_frame": 6218,
+                "stop_frame": 6273
+            },
+            {
+                "narration_text": "#C C picks the meat",
+                "start_frame": 6273,
+                "stop_frame": 6399
+            },
+            {
+                "narration_text": "#C C removes the foil from the meat",
+                "start_frame": 6399,
+                "stop_frame": 6440
+            },
+            {
+                "narration_text": "#C C drops the paper on the counter",
+                "start_frame": 6440,
+                "stop_frame": 6452
+            },
+            {
+                "narration_text": "#C C picks the serving spoon",
+                "start_frame": 6452,
+                "stop_frame": 6510
+            },
+            {
+                "narration_text": "#C C puts the meat in the pan",
+                "start_frame": 6510,
+                "stop_frame": 6593
+            },
+            {
+                "narration_text": "#C C stirs the meat",
+                "start_frame": 6593,
+                "stop_frame": 6637
+            },
+            {
+                "narration_text": "#C C walks to the tap",
+                "start_frame": 6637,
+                "stop_frame": 6663
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 6663,
+                "stop_frame": 6671
+            },
+            {
+                "narration_text": "#C C puts water in the tin",
+                "start_frame": 6671,
+                "stop_frame": 6681
+            }
+        ]
+    },
+    {
+        "task_goal": "Add water and stir meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 6663,
+                "stop_frame": 6671
+            },
+            {
+                "narration_text": "#C C puts water in the tin",
+                "start_frame": 6671,
+                "stop_frame": 6681
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 6681,
+                "stop_frame": 6730
+            },
+            {
+                "narration_text": "#C C picks the paper",
+                "start_frame": 6730,
+                "stop_frame": 6841
+            },
+            {
+                "narration_text": "#C C picks the cabbage pack",
+                "start_frame": 6841,
+                "stop_frame": 6940
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare serving utensils and area",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Picks the pieces of aluminum foil",
+                "start_frame": 18600,
+                "stop_frame": 18639
+            },
+            {
+                "narration_text": "#C C Puts the piece of aluminum foil in the plate bowls",
+                "start_frame": 18639,
+                "stop_frame": 18723
+            },
+            {
+                "narration_text": "#C C Holds the cooking spoon",
+                "start_frame": 18723,
+                "stop_frame": 18750
+            },
+            {
+                "narration_text": "#C C Mixes the food",
+                "start_frame": 18750,
+                "stop_frame": 18771
+            },
+            {
+                "narration_text": "#C C Picks the colander",
+                "start_frame": 18771,
+                "stop_frame": 18787
+            },
+            {
+                "narration_text": "#C C Puts the colander on the other colander",
+                "start_frame": 18787,
+                "stop_frame": 18817
+            },
+            {
+                "narration_text": "#C C Mixes the food",
+                "start_frame": 18817,
+                "stop_frame": 19935
+            },
+            {
+                "narration_text": "#C C Picks the piece of cabbage",
+                "start_frame": 19935,
+                "stop_frame": 19948
+            },
+            {
+                "narration_text": "#C C Puts the piece of cabbage in the cooking pan",
+                "start_frame": 19948,
+                "stop_frame": 19974
+            },
+            {
+                "narration_text": "#C C Mixes the food",
+                "start_frame": 19974,
+                "stop_frame": 20010
+            },
+            {
+                "narration_text": "#C C Holds the packed food",
+                "start_frame": 20010,
+                "stop_frame": 20083
+            }
+        ]
+    }
+]

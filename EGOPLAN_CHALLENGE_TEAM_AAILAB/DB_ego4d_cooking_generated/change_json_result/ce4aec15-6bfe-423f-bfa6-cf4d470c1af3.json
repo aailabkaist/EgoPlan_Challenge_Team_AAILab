@@ -1,0 +1,259 @@
+{
+    "overall_goal": "Prepare, cook, and store various food items",
+    "clips": [
+        {
+            "subgoal": "Cut, wash, and stir fry ingredients",
+            "start_timestamp": 0,
+            "stop_timestamp": 2964,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and store cucumber",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 1116
+                },
+                {
+                    "secondary_subgoal": "Wash hands",
+                    "start_timestamp": 1116,
+                    "stop_timestamp": 1332
+                },
+                {
+                    "secondary_subgoal": "Operate phone",
+                    "start_timestamp": 1332,
+                    "stop_timestamp": 1395
+                },
+                {
+                    "secondary_subgoal": "Pick and stir spaghetti",
+                    "start_timestamp": 1395,
+                    "stop_timestamp": 1593
+                },
+                {
+                    "secondary_subgoal": "Open drawers and pick a bowl",
+                    "start_timestamp": 1593,
+                    "stop_timestamp": 1904
+                },
+                {
+                    "secondary_subgoal": "Put water into the pot",
+                    "start_timestamp": 1904,
+                    "stop_timestamp": 2110
+                },
+                {
+                    "secondary_subgoal": "Pour food into the bowl",
+                    "start_timestamp": 2110,
+                    "stop_timestamp": 2282
+                },
+                {
+                    "secondary_subgoal": "Stir spaghetti under running water",
+                    "start_timestamp": 2282,
+                    "stop_timestamp": 2803
+                },
+                {
+                    "secondary_subgoal": "Pick and store a polythene bag",
+                    "start_timestamp": 2803,
+                    "stop_timestamp": 2964
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and store vegetables",
+            "start_timestamp": 2964,
+            "stop_timestamp": 9056,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open a fridge and unpack a tin",
+                    "start_timestamp": 2964,
+                    "stop_timestamp": 3577
+                },
+                {
+                    "secondary_subgoal": "Wash onions",
+                    "start_timestamp": 3577,
+                    "stop_timestamp": 3763
+                },
+                {
+                    "secondary_subgoal": "Cut onions, store chopped onions and wash hands",
+                    "start_timestamp": 3763,
+                    "stop_timestamp": 7282
+                },
+                {
+                    "secondary_subgoal": "Unpack and wash vegetables",
+                    "start_timestamp": 7282,
+                    "stop_timestamp": 8309
+                },
+                {
+                    "secondary_subgoal": "Chop and store vegetables",
+                    "start_timestamp": 8309,
+                    "stop_timestamp": 9056
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix and store food ingredients",
+            "start_timestamp": 9056,
+            "stop_timestamp": 12951,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir the mixture in a container",
+                    "start_timestamp": 9056,
+                    "stop_timestamp": 9150
+                },
+                {
+                    "secondary_subgoal": "Pick and place down a knife, and put vegetables in a container",
+                    "start_timestamp": 9150,
+                    "stop_timestamp": 9558
+                },
+                {
+                    "secondary_subgoal": "Wash hands",
+                    "start_timestamp": 9558,
+                    "stop_timestamp": 9686
+                },
+                {
+                    "secondary_subgoal": "Dry hands with a towel and pick vinegar",
+                    "start_timestamp": 9686,
+                    "stop_timestamp": 10003
+                },
+                {
+                    "secondary_subgoal": "Pour and stir vinegar into a mixture",
+                    "start_timestamp": 10003,
+                    "stop_timestamp": 10281
+                },
+                {
+                    "secondary_subgoal": "Return vinegar to a stool",
+                    "start_timestamp": 10281,
+                    "stop_timestamp": 10499
+                },
+                {
+                    "secondary_subgoal": "Pour vinegar from a bottle into a can",
+                    "start_timestamp": 10499,
+                    "stop_timestamp": 10946
+                },
+                {
+                    "secondary_subgoal": "Place the vinegar bottle in the fridge",
+                    "start_timestamp": 10946,
+                    "stop_timestamp": 11449
+                },
+                {
+                    "secondary_subgoal": "Stir and store the mixture in a container",
+                    "start_timestamp": 11449,
+                    "stop_timestamp": 12026
+                },
+                {
+                    "secondary_subgoal": "Place the container inside a fridge",
+                    "start_timestamp": 12026,
+                    "stop_timestamp": 12275
+                },
+                {
+                    "secondary_subgoal": "Take out and place a container on the kitchen table",
+                    "start_timestamp": 12291,
+                    "stop_timestamp": 12496
+                },
+                {
+                    "secondary_subgoal": "Put container of vegetables in the fridge",
+                    "start_timestamp": 12496,
+                    "stop_timestamp": 12829
+                },
+                {
+                    "secondary_subgoal": "Place the vinegar bottle on top of the kitchen cabinet",
+                    "start_timestamp": 12829,
+                    "stop_timestamp": 12951
+                }
+            ]
+        },
+        {
+            "subgoal": "Wrap and store unused items",
+            "start_timestamp": 12951,
+            "stop_timestamp": 14125,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wrap items in a polythene bag",
+                    "start_timestamp": 12951,
+                    "stop_timestamp": 13829
+                },
+                {
+                    "secondary_subgoal": "Put items in the drawer",
+                    "start_timestamp": 13829,
+                    "stop_timestamp": 14125
+                }
+            ]
+        },
+        {
+            "subgoal": "Store a container",
+            "start_timestamp": 14125,
+            "stop_timestamp": 14752,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place container in the fridge",
+                    "start_timestamp": 14125,
+                    "stop_timestamp": 14752
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare meal",
+            "start_timestamp": 14752,
+            "stop_timestamp": 17509,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick plate, chop sticks, pot of spaghetti",
+                    "start_timestamp": 14752,
+                    "stop_timestamp": 15186
+                },
+                {
+                    "secondary_subgoal": "Pour spaghetti from pot",
+                    "start_timestamp": 15186,
+                    "stop_timestamp": 15405
+                },
+                {
+                    "secondary_subgoal": "Wash chopping board",
+                    "start_timestamp": 15405,
+                    "stop_timestamp": 15802
+                },
+                {
+                    "secondary_subgoal": "Dry hands and open food container",
+                    "start_timestamp": 15802,
+                    "stop_timestamp": 15943
+                },
+                {
+                    "secondary_subgoal": "Serve food with chop sticks",
+                    "start_timestamp": 15943,
+                    "stop_timestamp": 17509
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash utensils and organize kitchen",
+            "start_timestamp": 17509,
+            "stop_timestamp": 21263,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put bowl and chop sticks in the sink",
+                    "start_timestamp": 17509,
+                    "stop_timestamp": 17820
+                },
+                {
+                    "secondary_subgoal": "Fold and move polythene paper, move container and tins",
+                    "start_timestamp": 17820,
+                    "stop_timestamp": 18409
+                },
+                {
+                    "secondary_subgoal": "Place plate of food on stool",
+                    "start_timestamp": 18409,
+                    "stop_timestamp": 18508
+                },
+                {
+                    "secondary_subgoal": "Use and rinse dish washer",
+                    "start_timestamp": 18508,
+                    "stop_timestamp": 18707
+                },
+                {
+                    "secondary_subgoal": "Apply soap and wash utensils",
+                    "start_timestamp": 18707,
+                    "stop_timestamp": 20995
+                },
+                {
+                    "secondary_subgoal": "Wash and rinse pots",
+                    "start_timestamp": 20995,
+                    "stop_timestamp": 21263
+                }
+            ]
+        }
+    ]
+}

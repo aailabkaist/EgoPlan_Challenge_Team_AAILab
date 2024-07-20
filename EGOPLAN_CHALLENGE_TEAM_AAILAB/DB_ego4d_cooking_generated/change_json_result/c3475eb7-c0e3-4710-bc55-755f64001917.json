@@ -1,0 +1,101 @@
+{
+    "overall_goal": "Cleaning kitchen utensils and the kitchen sink",
+    "clips": [
+        {
+            "subgoal": "Preparing to clean the kitchen utensils",
+            "start_timestamp": 0,
+            "stop_timestamp": 238,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjusting the camera",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 64
+                },
+                {
+                    "secondary_subgoal": "Picking up the lid and covering the pan",
+                    "start_timestamp": 64,
+                    "stop_timestamp": 227
+                },
+                {
+                    "secondary_subgoal": "Turning on and walking towards the faucet",
+                    "start_timestamp": 227,
+                    "stop_timestamp": 238
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning the kitchen utensils",
+            "start_timestamp": 238,
+            "stop_timestamp": 1457,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Water getting ready",
+                    "start_timestamp": 238,
+                    "stop_timestamp": 321
+                },
+                {
+                    "secondary_subgoal": "Putting utensils into the sink",
+                    "start_timestamp": 321,
+                    "stop_timestamp": 390
+                },
+                {
+                    "secondary_subgoal": "Preparing sponge with kitchen detergent",
+                    "start_timestamp": 390,
+                    "stop_timestamp": 577
+                },
+                {
+                    "secondary_subgoal": "Pouring water from bowl and washing it",
+                    "start_timestamp": 577,
+                    "stop_timestamp": 831
+                },
+                {
+                    "secondary_subgoal": "Washing chopsticks and spoon",
+                    "start_timestamp": 831,
+                    "stop_timestamp": 1083
+                },
+                {
+                    "secondary_subgoal": "Rinsing and placing the spoon on the utensil rack",
+                    "start_timestamp": 1083,
+                    "stop_timestamp": 1142
+                },
+                {
+                    "secondary_subgoal": "Rinsing and placing the chopsticks on the utensil rack",
+                    "start_timestamp": 1142,
+                    "stop_timestamp": 1238
+                },
+                {
+                    "secondary_subgoal": "Rinsing and placing the bowl on the countertop",
+                    "start_timestamp": 1238,
+                    "stop_timestamp": 1457
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning the sink and preparing for next round of cleaning",
+            "start_timestamp": 1457,
+            "stop_timestamp": 3351,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning the sink using the sponge",
+                    "start_timestamp": 1457,
+                    "stop_timestamp": 2070
+                },
+                {
+                    "secondary_subgoal": "Drying the sink using the kitchen towel",
+                    "start_timestamp": 2070,
+                    "stop_timestamp": 2600
+                },
+                {
+                    "secondary_subgoal": "Spraying kitchen detergent and rinsing the sink",
+                    "start_timestamp": 2600,
+                    "stop_timestamp": 3251
+                },
+                {
+                    "secondary_subgoal": "Adjusting camera (final)",
+                    "start_timestamp": 3251,
+                    "stop_timestamp": 3351
+                }
+            ]
+        }
+    ]
+}

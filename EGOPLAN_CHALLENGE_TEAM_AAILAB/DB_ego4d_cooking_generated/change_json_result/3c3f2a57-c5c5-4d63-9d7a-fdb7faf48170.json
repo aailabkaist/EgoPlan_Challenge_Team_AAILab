@@ -1,0 +1,151 @@
+{
+    "overall_goal": "Preparing and organizing kitchen items",
+    "clips": [
+        {
+            "subgoal": "Cleaning cutting board",
+            "start_timestamp": 0,
+            "stop_timestamp": 354,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinsing and washing cutting board",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 128
+                },
+                {
+                    "secondary_subgoal": "Rinsing and placing cutting board in rack",
+                    "start_timestamp": 144,
+                    "stop_timestamp": 354
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning sink",
+            "start_timestamp": 354,
+            "stop_timestamp": 496,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinsing and fixing the faucet",
+                    "start_timestamp": 354,
+                    "stop_timestamp": 460
+                },
+                {
+                    "secondary_subgoal": "Turning off faucet",
+                    "start_timestamp": 460,
+                    "stop_timestamp": 496
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling dishes",
+            "start_timestamp": 496,
+            "stop_timestamp": 1361,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Drying hands",
+                    "start_timestamp": 496,
+                    "stop_timestamp": 616
+                },
+                {
+                    "secondary_subgoal": "Handling plates",
+                    "start_timestamp": 616,
+                    "stop_timestamp": 1311
+                },
+                {
+                    "secondary_subgoal": "Closing cabinet door",
+                    "start_timestamp": 1311,
+                    "stop_timestamp": 1361
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing meat",
+            "start_timestamp": 1361,
+            "stop_timestamp": 2269,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Removing cling film and placing meat on a plate",
+                    "start_timestamp": 1442,
+                    "stop_timestamp": 2269
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning and organizing trays",
+            "start_timestamp": 2334,
+            "stop_timestamp": 2748,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing and rinsing plastic trays",
+                    "start_timestamp": 2334,
+                    "stop_timestamp": 2688
+                },
+                {
+                    "secondary_subgoal": "Putting trays in a rack",
+                    "start_timestamp": 2688,
+                    "stop_timestamp": 2748
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling cling film",
+            "start_timestamp": 2748,
+            "stop_timestamp": 2999,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Folding cling film and putting it in a bag",
+                    "start_timestamp": 2893,
+                    "stop_timestamp": 2999
+                }
+            ]
+        },
+        {
+            "subgoal": "Dealing with a bottle",
+            "start_timestamp": 2999,
+            "stop_timestamp": 3662,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Removing label and fetching water in a bottle",
+                    "start_timestamp": 2999,
+                    "stop_timestamp": 3419
+                },
+                {
+                    "secondary_subgoal": "Closing drawer and shaking off water on the bottle",
+                    "start_timestamp": 3492,
+                    "stop_timestamp": 3662
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning up",
+            "start_timestamp": 3662,
+            "stop_timestamp": 5253,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Putting waste in a paper bag",
+                    "start_timestamp": 3741,
+                    "stop_timestamp": 3816
+                },
+                {
+                    "secondary_subgoal": "Moving around kitchen and handling bowls",
+                    "start_timestamp": 3928,
+                    "stop_timestamp": 4643
+                },
+                {
+                    "secondary_subgoal": "Fetching and heating water",
+                    "start_timestamp": 4481,
+                    "stop_timestamp": 4886
+                },
+                {
+                    "secondary_subgoal": "Tidying and washing hands",
+                    "start_timestamp": 4955,
+                    "stop_timestamp": 5033
+                },
+                {
+                    "secondary_subgoal": "Handling a paper bag",
+                    "start_timestamp": 5110,
+                    "stop_timestamp": 5253
+                }
+            ]
+        }
+    ]
+}

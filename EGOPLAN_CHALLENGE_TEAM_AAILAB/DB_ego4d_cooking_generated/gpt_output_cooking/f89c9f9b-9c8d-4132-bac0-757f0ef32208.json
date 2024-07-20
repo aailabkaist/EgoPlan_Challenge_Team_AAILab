@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9df4l2gprJgy6xhNdN40ggLyCZeVs",
+    "object": "chat.completion",
+    "created": 1719239715,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a dish involving mushrooms and meat.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Initial cooking steps involving pouring ingredients and preparation\",\n      \"start_timestamp\": \"10\",\n      \"stop_timestamp\": \"1950\",\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Pour ingredients and press button\", \"start_timestamp\": \"10\", \"stop_timestamp\": \"114\"},\n        {\"secondary_subgoal\": \"Press button\", \"start_timestamp\": \"114\", \"stop_timestamp\": \"139\"},\n        {\"secondary_subgoal\": \"Put sieve down\", \"start_timestamp\": \"139\", \"stop_timestamp\": \"205\"},\n        {\"secondary_subgoal\": \"Pick and turn spoon\", \"start_timestamp\": \"205\", \"stop_timestamp\": \"238\"}\n      ]\n    },\n    {\n      \"subgoal\": \"Adding oil and stirring ingredients\",\n      \"start_timestamp\": \"1174\",\n      \"stop_timestamp\": \"1950\",\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Pick and pour oil\", \"start_timestamp\": \"1174\", \"stop_timestamp\": \"1425\"},\n        {\"secondary_subgoal\": \"Close and put aside oil\", \"start_timestamp\": \"1425\", \"stop_timestamp\": \"1525\"},\n        {\"secondary_subgoal\": \"Mix and turn ingredients with oil\", \"start_timestamp\": \"1525\", \"stop_timestamp\": \"1950\"}\n      ]\n    },\n    {\n      \"subgoal\": \"Preparation of mushrooms\",\n      \"start_timestamp\": \"1950\",\n      \"stop_timestamp\": \"3451\",\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Push sieve and cut packet\", \"start_timestamp\": \"1950\", \"stop_timestamp\": \"2272\"},\n        {\"secondary_subgoal\": \"Dispose trash and unpack mushroom\", \"start_timestamp\": \"2272\", \"stop_timestamp\": \"2575\"},\n        {\"secondary_subgoal\": \"Divide and pack mushroom\", \"start_timestamp\": \"2575\", \"stop_timestamp\": \"2699\"},\n        {\"secondary_subgoal\": \"Cut mushroom\", \"start_timestamp\": \"2699\", \"stop_timestamp\": \"3272\"},\n        {\"secondary_subgoal\": \"Open tap and rinse hand\", \"start_timestamp\": \"3349\", \"stop_timestamp\": \"3451\"}\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking the ingredients in the pan, including adjusting unspecific ingredients\",\n      \"start_timestamp\": \"3451\",\n      \"stop_timestamp\": \"10349\",\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Adjust and turn ingredients repeatedly\", \"start_timestamp\": \"3451\", \"stop_timestamp\": \"7020\"},\n        {\"secondary_subgoal\": \"Open and pour oil\", \"start_timestamp\": \"7020\", \"stop_timestamp\": \"7938\"},\n        {\"secondary_subgoal\": \"Turn ingredients repeatedly\", \"start_timestamp\": \"7938\", \"stop_timestamp\": \"9452\"}\n      ]\n    },\n    {\n      \"subgoal\": \"Final preparation and plating\",\n      \"start_timestamp\": \"10292\",\n      \"stop_timestamp\": \"21339\",\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Prepare plate and move food\", \"start_timestamp\": \"10292\", \"stop_timestamp\": \"11379\"},\n        {\"secondary_subgoal\": \"Add meat to pan\", \"start_timestamp\": \"11379\", \"stop_timestamp\": \"13205\"},\n        {\"secondary_subgoal\": \"Wash hands and dishes\", \"start_timestamp\": \"13205\", \"stop_timestamp\": \"16155\"},\n        {\"secondary_subgoal\": \"Open sachet and prepare ingredients\", \"start_timestamp\": \"16155\", \"stop_timestamp\": \"16996\"},\n        {\"secondary_subgoal\": \"Wait and look\", \"start_timestamp\": \"16996\", \"stop_timestamp\": \"19287\"},\n        {\"secondary_subgoal\": \"Add and stir vegetables\", \"start_timestamp\": \"19287\", \"stop_timestamp\": \"21087\"},\n        {\"secondary_subgoal\": \"Complete final cooking\", \"start_timestamp\": \"21087\", \"stop_timestamp\": \"21339\"}\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2862,
+        "completion_tokens": 859,
+        "total_tokens": 3721
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

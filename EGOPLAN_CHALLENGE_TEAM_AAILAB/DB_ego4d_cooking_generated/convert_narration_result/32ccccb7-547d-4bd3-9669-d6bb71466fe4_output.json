@@ -1,0 +1,822 @@
+[
+    {
+        "task_goal": "Interact with the surrounding environment",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Converses with man x.",
+                "start_frame": 24,
+                "stop_frame": 90
+            },
+            {
+                "narration_text": "Removes the ring.",
+                "start_frame": 90,
+                "stop_frame": 242
+            },
+            {
+                "narration_text": "A man x eats cookies.",
+                "start_frame": 242,
+                "stop_frame": 814
+            },
+            {
+                "narration_text": "A man x eats cookies.",
+                "start_frame": 814,
+                "stop_frame": 1016
+            },
+            {
+                "narration_text": "Walks around.",
+                "start_frame": 1016,
+                "stop_frame": 1083
+            },
+            {
+                "narration_text": "Opens a pot..",
+                "start_frame": 1083,
+                "stop_frame": 1108
+            }
+        ]
+    },
+    {
+        "task_goal": "Converse with man x",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Converses with man x.",
+                "start_frame": 24,
+                "stop_frame": 90
+            },
+            {
+                "narration_text": "Removes the ring.",
+                "start_frame": 90,
+                "stop_frame": 242
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove the ring",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Converses with man x.",
+                "start_frame": 24,
+                "stop_frame": 90
+            },
+            {
+                "narration_text": "Removes the ring.",
+                "start_frame": 90,
+                "stop_frame": 242
+            },
+            {
+                "narration_text": "A man x eats cookies.",
+                "start_frame": 242,
+                "stop_frame": 814
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare utensils and cookware for cooking",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around.",
+                "start_frame": 1016,
+                "stop_frame": 1083
+            },
+            {
+                "narration_text": "Opens a pot..",
+                "start_frame": 1083,
+                "stop_frame": 1108
+            },
+            {
+                "narration_text": "Takes the pot",
+                "start_frame": 1108,
+                "stop_frame": 1143
+            },
+            {
+                "narration_text": "Places the pot on another pot.",
+                "start_frame": 1143,
+                "stop_frame": 1180
+            },
+            {
+                "narration_text": "Covers the pot.",
+                "start_frame": 1180,
+                "stop_frame": 1254
+            },
+            {
+                "narration_text": "Takes a piece off cloth.",
+                "start_frame": 1254,
+                "stop_frame": 1274
+            },
+            {
+                "narration_text": "Wipes hands with the cloth.",
+                "start_frame": 1274,
+                "stop_frame": 1284
+            }
+        ]
+    },
+    {
+        "task_goal": "Open a pot and handle it",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around.",
+                "start_frame": 1016,
+                "stop_frame": 1083
+            },
+            {
+                "narration_text": "Opens a pot..",
+                "start_frame": 1083,
+                "stop_frame": 1108
+            },
+            {
+                "narration_text": "Takes the pot",
+                "start_frame": 1108,
+                "stop_frame": 1143
+            },
+            {
+                "narration_text": "Places the pot on another pot.",
+                "start_frame": 1143,
+                "stop_frame": 1180
+            },
+            {
+                "narration_text": "Covers the pot.",
+                "start_frame": 1180,
+                "stop_frame": 1254
+            },
+            {
+                "narration_text": "Takes a piece off cloth.",
+                "start_frame": 1254,
+                "stop_frame": 1274
+            }
+        ]
+    },
+    {
+        "task_goal": "Take and wipe hands with a piece of cloth",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes a piece off cloth.",
+                "start_frame": 1254,
+                "stop_frame": 1274
+            },
+            {
+                "narration_text": "Wipes hands with the cloth.",
+                "start_frame": 1274,
+                "stop_frame": 1284
+            },
+            {
+                "narration_text": "Puts down the cloth.",
+                "start_frame": 1284,
+                "stop_frame": 1330
+            },
+            {
+                "narration_text": "Takes a tumbler.",
+                "start_frame": 1330,
+                "stop_frame": 1436
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle and adjust cooking equipment",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down the cloth.",
+                "start_frame": 1284,
+                "stop_frame": 1330
+            },
+            {
+                "narration_text": "Takes a tumbler.",
+                "start_frame": 1330,
+                "stop_frame": 1436
+            },
+            {
+                "narration_text": "Takes the piece of cloth.",
+                "start_frame": 1436,
+                "stop_frame": 1505
+            },
+            {
+                "narration_text": "Removes a pot from the cooker.",
+                "start_frame": 1505,
+                "stop_frame": 1574
+            },
+            {
+                "narration_text": "Puts down the pot.",
+                "start_frame": 1574,
+                "stop_frame": 1586
+            },
+            {
+                "narration_text": "Drops the piece of cloth.",
+                "start_frame": 1586,
+                "stop_frame": 1632
+            },
+            {
+                "narration_text": "Takes a pan.",
+                "start_frame": 1632,
+                "stop_frame": 1676
+            },
+            {
+                "narration_text": "Places the pan on the cooker.",
+                "start_frame": 1676,
+                "stop_frame": 1705
+            },
+            {
+                "narration_text": "Wipes the pan with hand.",
+                "start_frame": 1705,
+                "stop_frame": 1748
+            },
+            {
+                "narration_text": "Converses.",
+                "start_frame": 1748,
+                "stop_frame": 1812
+            },
+            {
+                "narration_text": "Adjusts the cooker knob.",
+                "start_frame": 1812,
+                "stop_frame": 1850
+            }
+        ]
+    },
+    {
+        "task_goal": "Take and put down various utensils and cookware (tumbler, pot, pan)",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down the cloth.",
+                "start_frame": 1284,
+                "stop_frame": 1330
+            },
+            {
+                "narration_text": "Takes a tumbler.",
+                "start_frame": 1330,
+                "stop_frame": 1436
+            },
+            {
+                "narration_text": "Takes the piece of cloth.",
+                "start_frame": 1436,
+                "stop_frame": 1505
+            },
+            {
+                "narration_text": "Removes a pot from the cooker.",
+                "start_frame": 1505,
+                "stop_frame": 1574
+            },
+            {
+                "narration_text": "Puts down the pot.",
+                "start_frame": 1574,
+                "stop_frame": 1586
+            },
+            {
+                "narration_text": "Drops the piece of cloth.",
+                "start_frame": 1586,
+                "stop_frame": 1632
+            },
+            {
+                "narration_text": "Takes a pan.",
+                "start_frame": 1632,
+                "stop_frame": 1676
+            },
+            {
+                "narration_text": "Places the pan on the cooker.",
+                "start_frame": 1676,
+                "stop_frame": 1705
+            },
+            {
+                "narration_text": "Wipes the pan with hand.",
+                "start_frame": 1705,
+                "stop_frame": 1748
+            },
+            {
+                "narration_text": "Converses.",
+                "start_frame": 1748,
+                "stop_frame": 1812
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjust the cooker knob",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Converses.",
+                "start_frame": 1748,
+                "stop_frame": 1812
+            },
+            {
+                "narration_text": "Adjusts the cooker knob.",
+                "start_frame": 1812,
+                "stop_frame": 1850
+            },
+            {
+                "narration_text": "Takes a tumbler.",
+                "start_frame": 1850,
+                "stop_frame": 1876
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle and prepare dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the pot.",
+                "start_frame": 1989,
+                "stop_frame": 2027
+            },
+            {
+                "narration_text": "Turns around.",
+                "start_frame": 2027,
+                "stop_frame": 2085
+            },
+            {
+                "narration_text": "Puts down the pot.",
+                "start_frame": 2085,
+                "stop_frame": 2210
+            },
+            {
+                "narration_text": "Moves the piece of cloth.",
+                "start_frame": 2210,
+                "stop_frame": 2265
+            },
+            {
+                "narration_text": "Takes the tumbler.",
+                "start_frame": 2265,
+                "stop_frame": 2286
+            },
+            {
+                "narration_text": "Puts down the tumbler.",
+                "start_frame": 2286,
+                "stop_frame": 2304
+            },
+            {
+                "narration_text": "Takes a cup.",
+                "start_frame": 2304,
+                "stop_frame": 2339
+            },
+            {
+                "narration_text": "Puts down the cup.",
+                "start_frame": 2339,
+                "stop_frame": 2434
+            },
+            {
+                "narration_text": "Takes a dough tray.",
+                "start_frame": 2434,
+                "stop_frame": 2543
+            },
+            {
+                "narration_text": "Puts down the tray.",
+                "start_frame": 2543,
+                "stop_frame": 2547
+            },
+            {
+                "narration_text": "Takes a tumbler.",
+                "start_frame": 2547,
+                "stop_frame": 2569
+            },
+            {
+                "narration_text": "Puts down the tumbler.",
+                "start_frame": 2569,
+                "stop_frame": 2631
+            },
+            {
+                "narration_text": "Turns around.",
+                "start_frame": 2631,
+                "stop_frame": 2725
+            },
+            {
+                "narration_text": "A man x holds a plate of food.",
+                "start_frame": 2725,
+                "stop_frame": 2729
+            },
+            {
+                "narration_text": "A man x operates phone.",
+                "start_frame": 2729,
+                "stop_frame": 2813
+            },
+            {
+                "narration_text": "Sits near man o.",
+                "start_frame": 2813,
+                "stop_frame": 3002
+            },
+            {
+                "narration_text": "A man x gives the phone.",
+                "start_frame": 3002,
+                "stop_frame": 3124
+            }
+        ]
+    },
+    {
+        "task_goal": "Take, move and put down the cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the pot.",
+                "start_frame": 1989,
+                "stop_frame": 2027
+            },
+            {
+                "narration_text": "Turns around.",
+                "start_frame": 2027,
+                "stop_frame": 2085
+            },
+            {
+                "narration_text": "Puts down the pot.",
+                "start_frame": 2085,
+                "stop_frame": 2210
+            },
+            {
+                "narration_text": "Moves the piece of cloth.",
+                "start_frame": 2210,
+                "stop_frame": 2265
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle tumblers, cups, and a dough tray",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves the piece of cloth.",
+                "start_frame": 2210,
+                "stop_frame": 2265
+            },
+            {
+                "narration_text": "Takes the tumbler.",
+                "start_frame": 2265,
+                "stop_frame": 2286
+            },
+            {
+                "narration_text": "Puts down the tumbler.",
+                "start_frame": 2286,
+                "stop_frame": 2304
+            },
+            {
+                "narration_text": "Takes a cup.",
+                "start_frame": 2304,
+                "stop_frame": 2339
+            },
+            {
+                "narration_text": "Puts down the cup.",
+                "start_frame": 2339,
+                "stop_frame": 2434
+            },
+            {
+                "narration_text": "Takes a dough tray.",
+                "start_frame": 2434,
+                "stop_frame": 2543
+            },
+            {
+                "narration_text": "Puts down the tray.",
+                "start_frame": 2543,
+                "stop_frame": 2547
+            },
+            {
+                "narration_text": "Takes a tumbler.",
+                "start_frame": 2547,
+                "stop_frame": 2569
+            },
+            {
+                "narration_text": "Puts down the tumbler.",
+                "start_frame": 2569,
+                "stop_frame": 2631
+            },
+            {
+                "narration_text": "Turns around.",
+                "start_frame": 2631,
+                "stop_frame": 2725
+            },
+            {
+                "narration_text": "A man x holds a plate of food.",
+                "start_frame": 2725,
+                "stop_frame": 2729
+            }
+        ]
+    },
+    {
+        "task_goal": "Interact with man x holding food and phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "A man x holds a plate of food.",
+                "start_frame": 2725,
+                "stop_frame": 2729
+            },
+            {
+                "narration_text": "A man x operates phone.",
+                "start_frame": 2729,
+                "stop_frame": 2813
+            },
+            {
+                "narration_text": "Sits near man o.",
+                "start_frame": 2813,
+                "stop_frame": 3002
+            },
+            {
+                "narration_text": "A man x gives the phone.",
+                "start_frame": 3002,
+                "stop_frame": 3124
+            },
+            {
+                "narration_text": "A man x eats food.",
+                "start_frame": 3124,
+                "stop_frame": 3136
+            },
+            {
+                "narration_text": "Scrolls through the phone.",
+                "start_frame": 3136,
+                "stop_frame": 3220
+            },
+            {
+                "narration_text": "Pushes man x.",
+                "start_frame": 3220,
+                "stop_frame": 3274
+            },
+            {
+                "narration_text": "Scrolls the phone.",
+                "start_frame": 3274,
+                "stop_frame": 3702
+            }
+        ]
+    },
+    {
+        "task_goal": "Scoop and sieve flour",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens a bucket.",
+                "start_frame": 4864,
+                "stop_frame": 4920
+            },
+            {
+                "narration_text": "Takes a sieve.",
+                "start_frame": 4920,
+                "stop_frame": 5004
+            },
+            {
+                "narration_text": "Takes a bowl.",
+                "start_frame": 5004,
+                "stop_frame": 5040
+            },
+            {
+                "narration_text": "Scoops flour from the bucket.",
+                "start_frame": 5040,
+                "stop_frame": 5153
+            },
+            {
+                "narration_text": "Puts the flour into the sieve",
+                "start_frame": 5153,
+                "stop_frame": 5230
+            },
+            {
+                "narration_text": "Puts down the bowl.",
+                "start_frame": 5230,
+                "stop_frame": 5257
+            },
+            {
+                "narration_text": "Sieves the flour.",
+                "start_frame": 5257,
+                "stop_frame": 5307
+            },
+            {
+                "narration_text": "Moves the tray.",
+                "start_frame": 5307,
+                "stop_frame": 5330
+            },
+            {
+                "narration_text": "Sieves the flour.",
+                "start_frame": 5330,
+                "stop_frame": 5973
+            },
+            {
+                "narration_text": "A girl a gives a bottle of oil to c.",
+                "start_frame": 5973,
+                "stop_frame": 6061
+            },
+            {
+                "narration_text": "A girl a opens the bottle cap",
+                "start_frame": 6061,
+                "stop_frame": 6128
+            },
+            {
+                "narration_text": "Puts down the bottle.",
+                "start_frame": 6128,
+                "stop_frame": 6221
+            },
+            {
+                "narration_text": "Sieves the flour.",
+                "start_frame": 6221,
+                "stop_frame": 6258
+            },
+            {
+                "narration_text": "Slaps a girl a.",
+                "start_frame": 6258,
+                "stop_frame": 6312
+            },
+            {
+                "narration_text": "Sieves the flour.",
+                "start_frame": 6312,
+                "stop_frame": 6473
+            },
+            {
+                "narration_text": "Pours the flour into the bucket.",
+                "start_frame": 6473,
+                "stop_frame": 6629
+            }
+        ]
+    },
+    {
+        "task_goal": "Cook the flatbread and prepare more dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Molds the dough",
+                "start_frame": 14807,
+                "stop_frame": 15007
+            },
+            {
+                "narration_text": "Turns the flat dough over",
+                "start_frame": 15007,
+                "stop_frame": 15050
+            },
+            {
+                "narration_text": "Molds the dough",
+                "start_frame": 15050,
+                "stop_frame": 15382
+            },
+            {
+                "narration_text": "Adds flour on the dough",
+                "start_frame": 15382,
+                "stop_frame": 15463
+            },
+            {
+                "narration_text": "Molds the dough",
+                "start_frame": 15463,
+                "stop_frame": 15731
+            },
+            {
+                "narration_text": "Puts the dough on the rolling board",
+                "start_frame": 15731,
+                "stop_frame": 15783
+            },
+            {
+                "narration_text": "Turns the flat dough over",
+                "start_frame": 15783,
+                "stop_frame": 15908
+            },
+            {
+                "narration_text": "Wipes the face",
+                "start_frame": 15908,
+                "stop_frame": 15984
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 15984,
+                "stop_frame": 16168
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 16168,
+                "stop_frame": 16281
+            },
+            {
+                "narration_text": "Picks a cup",
+                "start_frame": 16281,
+                "stop_frame": 16336
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 16336,
+                "stop_frame": 16472
+            },
+            {
+                "narration_text": "Rinses the cup",
+                "start_frame": 16472,
+                "stop_frame": 16539
+            }
+        ]
+    },
+    {
+        "task_goal": "Cook flatbread, mold dough, and turn it over",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Molds the dough",
+                "start_frame": 14807,
+                "stop_frame": 15007
+            },
+            {
+                "narration_text": "Turns the flat dough over",
+                "start_frame": 15007,
+                "stop_frame": 15050
+            },
+            {
+                "narration_text": "Molds the dough",
+                "start_frame": 15050,
+                "stop_frame": 15382
+            },
+            {
+                "narration_text": "Adds flour on the dough",
+                "start_frame": 15382,
+                "stop_frame": 15463
+            },
+            {
+                "narration_text": "Molds the dough",
+                "start_frame": 15463,
+                "stop_frame": 15731
+            },
+            {
+                "narration_text": "Puts the dough on the rolling board",
+                "start_frame": 15731,
+                "stop_frame": 15783
+            },
+            {
+                "narration_text": "Turns the flat dough over",
+                "start_frame": 15783,
+                "stop_frame": 15908
+            },
+            {
+                "narration_text": "Wipes the face",
+                "start_frame": 15908,
+                "stop_frame": 15984
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 15984,
+                "stop_frame": 16168
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 16168,
+                "stop_frame": 16281
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle utensils and mold dough near the flatbread",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Looks around",
+                "start_frame": 15984,
+                "stop_frame": 16168
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 16168,
+                "stop_frame": 16281
+            },
+            {
+                "narration_text": "Picks a cup",
+                "start_frame": 16281,
+                "stop_frame": 16336
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 16336,
+                "stop_frame": 16472
+            },
+            {
+                "narration_text": "Rinses the cup",
+                "start_frame": 16472,
+                "stop_frame": 16539
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse and clean up the cups",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around",
+                "start_frame": 16336,
+                "stop_frame": 16472
+            },
+            {
+                "narration_text": "Rinses the cup",
+                "start_frame": 16472,
+                "stop_frame": 16539
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 16539,
+                "stop_frame": 16782
+            },
+            {
+                "narration_text": "A man b passes by",
+                "start_frame": 16782,
+                "stop_frame": 16827
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle utensil and cups near people in the kitchen",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around",
+                "start_frame": 16539,
+                "stop_frame": 16782
+            },
+            {
+                "narration_text": "A man b passes by",
+                "start_frame": 16782,
+                "stop_frame": 16827
+            },
+            {
+                "narration_text": "Walks forward",
+                "start_frame": 16827,
+                "stop_frame": 16856
+            },
+            {
+                "narration_text": "Passes through girl a and man and man d sitting on a chair",
+                "start_frame": 16856,
+                "stop_frame": 16967
+            },
+            {
+                "narration_text": "Squats",
+                "start_frame": 16967,
+                "stop_frame": 16991
+            }
+        ]
+    }
+]

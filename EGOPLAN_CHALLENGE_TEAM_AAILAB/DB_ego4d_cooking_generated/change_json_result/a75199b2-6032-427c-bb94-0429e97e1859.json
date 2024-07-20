@@ -1,0 +1,110 @@
+{
+    "overall_goal": "Prepare and cook a meal using various ingredients and kitchen appliances.",
+    "clips": [
+        {
+            "subgoal": "Gather ingredients from kitchen cabinets and fridge",
+            "start_timestamp": 0,
+            "stop_timestamp": 1064,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open kitchen cabinets and pick ingredients",
+                    "start_timestamp": 70,
+                    "stop_timestamp": 575
+                },
+                {
+                    "secondary_subgoal": "Open fridge and pick ingredients",
+                    "start_timestamp": 575,
+                    "stop_timestamp": 969
+                },
+                {
+                    "secondary_subgoal": "Place ingredients on countertop",
+                    "start_timestamp": 969,
+                    "stop_timestamp": 1064
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare ingredients for cooking",
+            "start_timestamp": 1064,
+            "stop_timestamp": 3712,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Set up chopping board and knife",
+                    "start_timestamp": 1331,
+                    "stop_timestamp": 1636
+                },
+                {
+                    "secondary_subgoal": "Chop ingredients with knife",
+                    "start_timestamp": 1636,
+                    "stop_timestamp": 3680
+                },
+                {
+                    "secondary_subgoal": "Turn on stove",
+                    "start_timestamp": 3712,
+                    "stop_timestamp": 3712
+                }
+            ]
+        },
+        {
+            "subgoal": "Start cooking on the stove",
+            "start_timestamp": 3812,
+            "stop_timestamp": 7893,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Set up cooking tools and oil",
+                    "start_timestamp": 3812,
+                    "stop_timestamp": 4087
+                },
+                {
+                    "secondary_subgoal": "Move other ingredients around",
+                    "start_timestamp": 4152,
+                    "stop_timestamp": 5100
+                },
+                {
+                    "secondary_subgoal": "Clean up",
+                    "start_timestamp": 5100,
+                    "stop_timestamp": 5867
+                },
+                {
+                    "secondary_subgoal": "Turn on oven and prepare for further cooking",
+                    "start_timestamp": 5920,
+                    "stop_timestamp": 7893
+                }
+            ]
+        },
+        {
+            "subgoal": "Continue chopping ingredients",
+            "start_timestamp": 8001,
+            "stop_timestamp": 10118,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare garlic for cooking",
+                    "start_timestamp": 8618,
+                    "stop_timestamp": 10118
+                }
+            ]
+        },
+        {
+            "subgoal": "Continue cooking on stove and assemble final dish",
+            "start_timestamp": 10194,
+            "stop_timestamp": 12655,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir and cook food",
+                    "start_timestamp": 10560,
+                    "stop_timestamp": 11299
+                },
+                {
+                    "secondary_subgoal": "Manage heater and add ingredients",
+                    "start_timestamp": 11372,
+                    "stop_timestamp": 12125
+                },
+                {
+                    "secondary_subgoal": "Final stir and cook",
+                    "start_timestamp": 12125,
+                    "stop_timestamp": 12655
+                }
+            ]
+        }
+    ]
+}

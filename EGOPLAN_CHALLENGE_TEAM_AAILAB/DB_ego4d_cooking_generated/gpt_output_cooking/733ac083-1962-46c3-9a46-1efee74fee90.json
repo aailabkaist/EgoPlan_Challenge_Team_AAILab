@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehdNZqrangJJGPCWVPdwADBxE1g0",
+    "object": "chat.completion",
+    "created": 1719487877,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Eating food during a meal and engaging in conversation with another person.\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Looking around the room\",\n            \"start_timestamp\": 32,\n            \"stop_timestamp\": 154,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Scanning the surroundings\",\n                    \"start_timestamp\": 32,\n                    \"stop_timestamp\": 49\n                }\n                // No further sub-clips as actions are scattered without further clear secondary goals\n            ]\n        },\n        {\n            \"subgoal\": \"Eating the meal\",\n            \"start_timestamp\": 154,\n            \"stop_timestamp\": 6590,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Scooping food from the plate\",\n                    \"start_timestamp\": 154,\n                    \"stop_timestamp\": 210\n                },\n                {\n                    \"secondary_subgoal\": \"Eating food with a fork\",\n                    \"start_timestamp\": 250,\n                    \"stop_timestamp\": 492\n                },\n                {\n                    \"secondary_subgoal\": \"Stirring food with a fork\",\n                    \"start_timestamp\": 322,\n                    \"stop_timestamp\": 492\n                },\n                {\n                    \"secondary_subgoal\": \"Holding face with hand\",\n                    \"start_timestamp\": 946,\n                    \"stop_timestamp\": 1022\n                },\n                {\n                    \"secondary_subgoal\": \"Interacting with different objects (serviette, plate, etc.)\",\n                    \"start_timestamp\": 1847,\n                    \"stop_timestamp\": 2204\n                },\n                {\n                    \"secondary_subgoal\": \"Scooping food from the plate\",\n                    \"start_timestamp\": 2157,\n                    \"stop_timestamp\": 2616\n                },\n                {\n                    \"secondary_subgoal\": \"Cleaning hands and mouth with a serviette\",\n                    \"start_timestamp\": 3098,\n                    \"stop_timestamp\": 3176\n                },\n                {\n                    \"secondary_subgoal\": \"Stirring food with a fork\",\n                    \"start_timestamp\": 4093,\n                    \"stop_timestamp\": 4105\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Interacting and conversing with X\",\n            \"start_timestamp\": 6520,\n            \"stop_timestamp\": 8747,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Conversations and responses\",\n                    \"start_timestamp\": 8738,\n                    \"stop_timestamp\": 9936\n                },\n                {\n                    \"secondary_subgoal\": \"Continuing conversation while maintaining eating habits\",\n                    \"start_timestamp\": 11268,\n                    \"stop_timestamp\": 13715\n                }\n            ]\n        }\n    ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3270,
+        "completion_tokens": 565,
+        "total_tokens": 3835
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

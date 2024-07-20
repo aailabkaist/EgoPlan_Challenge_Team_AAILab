@@ -1,0 +1,407 @@
+[
+    {
+        "task_goal": "Enter the house and initial interaction",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches unsure",
+                "start_frame": 1,
+                "stop_frame": 1
+            },
+            {
+                "narration_text": "Interacts with lady b",
+                "start_frame": 1,
+                "stop_frame": 69
+            },
+            {
+                "narration_text": "Walks in the house",
+                "start_frame": 69,
+                "stop_frame": 121
+            },
+            {
+                "narration_text": "Drops a khaki bag on the floor",
+                "start_frame": 121,
+                "stop_frame": 163
+            },
+            {
+                "narration_text": "Lady b walks in the kitchen",
+                "start_frame": 163,
+                "stop_frame": 204
+            },
+            {
+                "narration_text": "Lady b touches the camera",
+                "start_frame": 204,
+                "stop_frame": 230
+            }
+        ]
+    },
+    {
+        "task_goal": "Touch and interact with a lady (lady b) outside the house",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches unsure",
+                "start_frame": 1,
+                "stop_frame": 1
+            },
+            {
+                "narration_text": "Interacts with lady b",
+                "start_frame": 1,
+                "stop_frame": 69
+            },
+            {
+                "narration_text": "Walks in the house",
+                "start_frame": 69,
+                "stop_frame": 121
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk into the house and drop a khaki bag",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Interacts with lady b",
+                "start_frame": 1,
+                "stop_frame": 69
+            },
+            {
+                "narration_text": "Walks in the house",
+                "start_frame": 69,
+                "stop_frame": 121
+            },
+            {
+                "narration_text": "Drops a khaki bag on the floor",
+                "start_frame": 121,
+                "stop_frame": 163
+            },
+            {
+                "narration_text": "Lady b walks in the kitchen",
+                "start_frame": 163,
+                "stop_frame": 204
+            }
+        ]
+    },
+    {
+        "task_goal": "Lady b follows into the house",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Drops a khaki bag on the floor",
+                "start_frame": 121,
+                "stop_frame": 163
+            },
+            {
+                "narration_text": "Lady b walks in the kitchen",
+                "start_frame": 163,
+                "stop_frame": 204
+            },
+            {
+                "narration_text": "Lady b touches the camera",
+                "start_frame": 204,
+                "stop_frame": 230
+            }
+        ]
+    },
+    {
+        "task_goal": "Open tap and wash a fork",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks in the kitchen",
+                "start_frame": 551,
+                "stop_frame": 710
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 710,
+                "stop_frame": 744
+            },
+            {
+                "narration_text": "Washes the fork",
+                "start_frame": 744,
+                "stop_frame": 929
+            },
+            {
+                "narration_text": "Moves the tap",
+                "start_frame": 929,
+                "stop_frame": 959
+            },
+            {
+                "narration_text": "Rinses the fork",
+                "start_frame": 959,
+                "stop_frame": 1047
+            },
+            {
+                "narration_text": "Lady b picks a plate",
+                "start_frame": 1047,
+                "stop_frame": 1079
+            },
+            {
+                "narration_text": "Lady b drops the plate",
+                "start_frame": 1079,
+                "stop_frame": 1155
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash a bowl using a sponge and put it in utensils rack",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 1429,
+                "stop_frame": 1464
+            },
+            {
+                "narration_text": "Washes the bowl using a sponge",
+                "start_frame": 1464,
+                "stop_frame": 1717
+            },
+            {
+                "narration_text": "Stares at lady b",
+                "start_frame": 1717,
+                "stop_frame": 1733
+            },
+            {
+                "narration_text": "Lady b walks in the kitchen",
+                "start_frame": 1733,
+                "stop_frame": 1781
+            },
+            {
+                "narration_text": "Puts the bowl in the utensils rack",
+                "start_frame": 1781,
+                "stop_frame": 1815
+            },
+            {
+                "narration_text": "Lady b drops glass of water",
+                "start_frame": 1815,
+                "stop_frame": 1860
+            },
+            {
+                "narration_text": "Washes a knife using a sponge",
+                "start_frame": 1860,
+                "stop_frame": 2073
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash a knife and a plate using a sponge, rinse and place on utensils rack",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes a knife using a sponge",
+                "start_frame": 1860,
+                "stop_frame": 2073
+            },
+            {
+                "narration_text": "Picks a plate",
+                "start_frame": 2073,
+                "stop_frame": 2094
+            },
+            {
+                "narration_text": "Washes the plate using a sponge",
+                "start_frame": 2094,
+                "stop_frame": 2416
+            },
+            {
+                "narration_text": "Rinses the plate",
+                "start_frame": 2416,
+                "stop_frame": 2492
+            },
+            {
+                "narration_text": "Puts the plate on the utensils rack",
+                "start_frame": 2492,
+                "stop_frame": 2585
+            },
+            {
+                "narration_text": "Picks a glass of water",
+                "start_frame": 2585,
+                "stop_frame": 2621
+            },
+            {
+                "narration_text": "Washes the glass of water using a sponge",
+                "start_frame": 2621,
+                "stop_frame": 2748
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash a glass with a sponge and place it on the utensils rack",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the glass of water using a sponge",
+                "start_frame": 2621,
+                "stop_frame": 2748
+            },
+            {
+                "narration_text": "Drops the sponge in the sink",
+                "start_frame": 2748,
+                "stop_frame": 2757
+            },
+            {
+                "narration_text": "Rinses the glass of water",
+                "start_frame": 2757,
+                "stop_frame": 3210
+            },
+            {
+                "narration_text": "Puts the glass of water on the utensils rack",
+                "start_frame": 3210,
+                "stop_frame": 3244
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 3244,
+                "stop_frame": 3283
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash another bowl using a sponge, rinse and place on utensils rack",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 3244,
+                "stop_frame": 3283
+            },
+            {
+                "narration_text": "Picks a sponge",
+                "start_frame": 3283,
+                "stop_frame": 3318
+            },
+            {
+                "narration_text": "Washes a bowl using a sponge",
+                "start_frame": 3318,
+                "stop_frame": 3412
+            },
+            {
+                "narration_text": "Stares at the fridge",
+                "start_frame": 3412,
+                "stop_frame": 3476
+            },
+            {
+                "narration_text": "Washes a bowl using a sponge",
+                "start_frame": 3476,
+                "stop_frame": 3805
+            },
+            {
+                "narration_text": "Stares at lady b",
+                "start_frame": 3805,
+                "stop_frame": 3815
+            },
+            {
+                "narration_text": "Lady b walks in the kitchen",
+                "start_frame": 3815,
+                "stop_frame": 3859
+            },
+            {
+                "narration_text": "Rinses the bowl",
+                "start_frame": 3859,
+                "stop_frame": 4147
+            },
+            {
+                "narration_text": "Puts the bowl in the utensils rack",
+                "start_frame": 4147,
+                "stop_frame": 4194
+            },
+            {
+                "narration_text": "Interacts with lady b",
+                "start_frame": 4194,
+                "stop_frame": 4315
+            },
+            {
+                "narration_text": "Walks in the house",
+                "start_frame": 4315,
+                "stop_frame": 4455
+            }
+        ]
+    },
+    {
+        "task_goal": "Interact while washing utensils with a sponge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Talks to woman y",
+                "start_frame": 8993,
+                "stop_frame": 9244
+            },
+            {
+                "narration_text": "Washes the lid",
+                "start_frame": 9244,
+                "stop_frame": 9821
+            },
+            {
+                "narration_text": "Talks to woman y",
+                "start_frame": 9821,
+                "stop_frame": 9929
+            },
+            {
+                "narration_text": "Picks a lid",
+                "start_frame": 9929,
+                "stop_frame": 9953
+            },
+            {
+                "narration_text": "Washes the lid",
+                "start_frame": 9953,
+                "stop_frame": 10052
+            },
+            {
+                "narration_text": "Picks a glass",
+                "start_frame": 10052,
+                "stop_frame": 10140
+            },
+            {
+                "narration_text": "Talks to woman y",
+                "start_frame": 10140,
+                "stop_frame": 10264
+            },
+            {
+                "narration_text": "Washes the glass",
+                "start_frame": 10264,
+                "stop_frame": 10506
+            },
+            {
+                "narration_text": "Talks to woman y",
+                "start_frame": 10506,
+                "stop_frame": 10642
+            },
+            {
+                "narration_text": "Picks spoon",
+                "start_frame": 10642,
+                "stop_frame": 10728
+            },
+            {
+                "narration_text": "Washes the spoon",
+                "start_frame": 10728,
+                "stop_frame": 10791
+            },
+            {
+                "narration_text": "Talks to woman y",
+                "start_frame": 10791,
+                "stop_frame": 12201
+            },
+            {
+                "narration_text": "Washes pan",
+                "start_frame": 12201,
+                "stop_frame": 12658
+            },
+            {
+                "narration_text": "Talks to woman y",
+                "start_frame": 12658,
+                "stop_frame": 13570
+            },
+            {
+                "narration_text": "Picks tin",
+                "start_frame": 13570,
+                "stop_frame": 13885
+            },
+            {
+                "narration_text": "Talks to woman y",
+                "start_frame": 13885,
+                "stop_frame": 14439
+            },
+            {
+                "narration_text": "Washes fork",
+                "start_frame": 14439,
+                "stop_frame": 14628
+            },
+            {
+                "narration_text": "Talks to woman y",
+                "start_frame": 14628,
+                "stop_frame": 15272
+            }
+        ]
+    }
+]

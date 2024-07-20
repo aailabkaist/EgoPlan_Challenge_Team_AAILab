@@ -1,0 +1,122 @@
+{
+    "overall_goal": "Prepare a meal involving spring onions, eggs, ugali, green vegetables, pink minced meat, and broccoli.",
+    "clips": [
+        {
+            "subgoal": "Prepare and cut spring onions",
+            "start_timestamp": 0,
+            "stop_timestamp": 1009,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and prepare spring onions on the chopping board",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 502
+                },
+                {
+                    "secondary_subgoal": "Put spring onions in cooking pot",
+                    "start_timestamp": 502,
+                    "stop_timestamp": 818
+                },
+                {
+                    "secondary_subgoal": "Clean the chopping board and knife",
+                    "start_timestamp": 818,
+                    "stop_timestamp": 1009
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook initial ingredients",
+            "start_timestamp": 1009,
+            "stop_timestamp": 3107,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Start cooking spring onions and soup",
+                    "start_timestamp": 1009,
+                    "stop_timestamp": 3187
+                },
+                {
+                    "secondary_subgoal": "Break and stir eggs, then pour into cooking pot",
+                    "start_timestamp": 3187,
+                    "stop_timestamp": 5038
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare dishes for serving",
+            "start_timestamp": 5038,
+            "stop_timestamp": 7753,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle eggs and clean tin",
+                    "start_timestamp": 5038,
+                    "stop_timestamp": 5692
+                },
+                {
+                    "secondary_subgoal": "Wash hands and look for more ingredients",
+                    "start_timestamp": 5692,
+                    "stop_timestamp": 6086
+                },
+                {
+                    "secondary_subgoal": "Organize dishes",
+                    "start_timestamp": 6086,
+                    "stop_timestamp": 7753
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare ugali",
+            "start_timestamp": 7753,
+            "stop_timestamp": 13491,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Unwrap and plate ugali",
+                    "start_timestamp": 7753,
+                    "stop_timestamp": 9129
+                },
+                {
+                    "secondary_subgoal": "Clean up and organize plates",
+                    "start_timestamp": 9129,
+                    "stop_timestamp": 11915
+                },
+                {
+                    "secondary_subgoal": "Prepare and plate broccoli",
+                    "start_timestamp": 11915,
+                    "stop_timestamp": 13491
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare green vegetables with pink minced meat",
+            "start_timestamp": 13491,
+            "stop_timestamp": 19817,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and prepare green vegetables",
+                    "start_timestamp": 13491,
+                    "stop_timestamp": 15801
+                },
+                {
+                    "secondary_subgoal": "Prepare pink minced meat and apply it to green vegetables",
+                    "start_timestamp": 15801,
+                    "stop_timestamp": 19489
+                },
+                {
+                    "secondary_subgoal": "Clean hands and prepare ingredients",
+                    "start_timestamp": 19489,
+                    "stop_timestamp": 19817
+                }
+            ]
+        },
+        {
+            "subgoal": "Final cleanup",
+            "start_timestamp": 19817,
+            "stop_timestamp": 21270,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Dispose of unused materials and clean up",
+                    "start_timestamp": 19817,
+                    "stop_timestamp": 21270
+                }
+            ]
+        }
+    ]
+}

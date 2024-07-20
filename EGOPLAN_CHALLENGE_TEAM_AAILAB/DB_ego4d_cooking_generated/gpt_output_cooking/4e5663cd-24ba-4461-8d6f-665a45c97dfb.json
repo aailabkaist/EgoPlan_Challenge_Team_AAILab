@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egRLNexFKr5hM1H5bxvzubspRGaA",
+    "object": "chat.completion",
+    "created": 1719483287,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Make pancakes\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparation of Utensils and Ingredients\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 84,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gather utensils\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 49\n        },\n        {\n          \"secondary_subgoal\": \"Open and set aside lid\",\n          \"start_timestamp\": 49,\n          \"stop_timestamp\": 84\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Mix and Pour the Dough\",\n      \"start_timestamp\": 84,\n      \"stop_timestamp\": 494,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir the dough\",\n          \"start_timestamp\": 124,\n          \"stop_timestamp\": 327\n        },\n        {\n          \"secondary_subgoal\": \"Pour dough into pan\",\n          \"start_timestamp\": 327,\n          \"stop_timestamp\": 494\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Spread and Cook the Dough\",\n      \"start_timestamp\": 494,\n      \"stop_timestamp\": 8551,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Spread dough in pan\",\n          \"start_timestamp\": 494,\n          \"stop_timestamp\": 778\n        },\n        {\n          \"secondary_subgoal\": \"Adjust heat and cook\",\n          \"start_timestamp\": 947,\n          \"stop_timestamp\": 5558\n        },\n        {\n          \"secondary_subgoal\": \"Flip pancakes\",\n          \"start_timestamp\": 2557,\n          \"stop_timestamp\": 7933\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Flatten and Cook Pancakes\",\n      \"start_timestamp\": 8635,\n      \"stop_timestamp\": 15073,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Scoop and pour flour\",\n          \"start_timestamp\": 11828,\n          \"stop_timestamp\": 8693\n        },\n        {\n          \"secondary_subgoal\": \"Flatten flour on pan\",\n          \"start_timestamp\": 11869,\n          \"stop_timestamp\": 12070\n        },\n        {\n          \"secondary_subgoal\": \"Press and turn pancakes\",\n          \"start_timestamp\": 11347,\n          \"stop_timestamp\": 13575\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Remove Cooked Pancakes and Clean Up\",\n      \"start_timestamp\": 14465,\n      \"stop_timestamp\": 18804,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Remove pancake from pan\",\n          \"start_timestamp\": 14649,\n          \"stop_timestamp\": 14751\n        },\n        {\n          \"secondary_subgoal\": \"Put pancake in bowl\",\n          \"start_timestamp\": 14774,\n          \"stop_timestamp\": 15012\n        },\n        {\n          \"secondary_subgoal\": \"Wash utensils and store pancakes\",\n          \"start_timestamp\": 17192,\n          \"stop_timestamp\": 18804\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3027,
+        "completion_tokens": 667,
+        "total_tokens": 3694
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

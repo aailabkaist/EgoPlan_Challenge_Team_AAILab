@@ -1,0 +1,104 @@
+{
+    "overall_goal": "Knead the dough and prepare it for rising",
+    "clips": [
+        {
+            "subgoal": "Prepare the dough",
+            "start_timestamp": 0,
+            "stop_timestamp": 8975,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Use phone, likely to reference recipe or timer",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 86
+                },
+                {
+                    "secondary_subgoal": "Initial kneading of dough",
+                    "start_timestamp": 86,
+                    "stop_timestamp": 138
+                },
+                {
+                    "secondary_subgoal": "Adjust the basin to better position",
+                    "start_timestamp": 138,
+                    "stop_timestamp": 186
+                },
+                {
+                    "secondary_subgoal": "Continued kneading of dough",
+                    "start_timestamp": 186,
+                    "stop_timestamp": 3495
+                },
+                {
+                    "secondary_subgoal": "Take a brief rest or adjust hand position",
+                    "start_timestamp": 3495,
+                    "stop_timestamp": 3526
+                },
+                {
+                    "secondary_subgoal": "Adjust the basin again",
+                    "start_timestamp": 3526,
+                    "stop_timestamp": 3540
+                },
+                {
+                    "secondary_subgoal": "Continue kneading the dough",
+                    "start_timestamp": 3540,
+                    "stop_timestamp": 8360
+                },
+                {
+                    "secondary_subgoal": "Brief hand movement, possibly adjusting dough or basin",
+                    "start_timestamp": 8360,
+                    "stop_timestamp": 8428
+                },
+                {
+                    "secondary_subgoal": "Knead using the other hand",
+                    "start_timestamp": 8428,
+                    "stop_timestamp": 8877
+                },
+                {
+                    "secondary_subgoal": "Continue kneading with the other hand",
+                    "start_timestamp": 8877,
+                    "stop_timestamp": 8961
+                },
+                {
+                    "secondary_subgoal": "Move basin for better access or adjustment",
+                    "start_timestamp": 8961,
+                    "stop_timestamp": 8975
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the dough for rising",
+            "start_timestamp": 8975,
+            "stop_timestamp": 18207,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Resume kneading the dough",
+                    "start_timestamp": 8975,
+                    "stop_timestamp": 17983
+                },
+                {
+                    "secondary_subgoal": "Move basin aside to clear space or reposition",
+                    "start_timestamp": 17983,
+                    "stop_timestamp": 17994
+                },
+                {
+                    "secondary_subgoal": "Pick up and hold the cloth to cover the dough",
+                    "start_timestamp": 17994,
+                    "stop_timestamp": 18044
+                },
+                {
+                    "secondary_subgoal": "Cover the basin with cloth",
+                    "start_timestamp": 18044,
+                    "stop_timestamp": 18079
+                },
+                {
+                    "secondary_subgoal": "Move the basin aside, likely to leave it for rising",
+                    "start_timestamp": 18079,
+                    "stop_timestamp": 18107
+                },
+                {
+                    "secondary_subgoal": "Operate phone, possibly to set a timer or mark down time",
+                    "start_timestamp": 18107,
+                    "stop_timestamp": 18207
+                }
+            ]
+        }
+    ]
+}

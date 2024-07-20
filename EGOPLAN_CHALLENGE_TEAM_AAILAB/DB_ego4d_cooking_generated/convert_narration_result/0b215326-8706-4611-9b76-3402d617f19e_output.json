@@ -1,0 +1,667 @@
+[
+    {
+        "task_goal": "Wash hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns on the tap",
+                "start_frame": 46,
+                "stop_frame": 63
+            },
+            {
+                "narration_text": "Puts unsure in the hand",
+                "start_frame": 63,
+                "stop_frame": 89
+            },
+            {
+                "narration_text": "Smears unsure in the hand",
+                "start_frame": 89,
+                "stop_frame": 151
+            },
+            {
+                "narration_text": "Washes the hand",
+                "start_frame": 151,
+                "stop_frame": 262
+            },
+            {
+                "narration_text": "Turns off the tap",
+                "start_frame": 262,
+                "stop_frame": 296
+            },
+            {
+                "narration_text": "Takes polythene paper",
+                "start_frame": 296,
+                "stop_frame": 337
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and prepare hot peppers",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns off the tap",
+                "start_frame": 262,
+                "stop_frame": 296
+            },
+            {
+                "narration_text": "Takes polythene paper",
+                "start_frame": 296,
+                "stop_frame": 337
+            },
+            {
+                "narration_text": "Opens polythene paper",
+                "start_frame": 337,
+                "stop_frame": 410
+            },
+            {
+                "narration_text": "Removes ho pepper from the polythene paper",
+                "start_frame": 410,
+                "stop_frame": 422
+            },
+            {
+                "narration_text": "Puts polythene paper on the table",
+                "start_frame": 422,
+                "stop_frame": 495
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash hot peppers",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Removes ho pepper from the polythene paper",
+                "start_frame": 410,
+                "stop_frame": 422
+            },
+            {
+                "narration_text": "Puts polythene paper on the table",
+                "start_frame": 422,
+                "stop_frame": 495
+            },
+            {
+                "narration_text": "Turns on the tap",
+                "start_frame": 495,
+                "stop_frame": 506
+            },
+            {
+                "narration_text": "Washes hot peppers",
+                "start_frame": 506,
+                "stop_frame": 690
+            },
+            {
+                "narration_text": "Turns off the tap",
+                "start_frame": 690,
+                "stop_frame": 714
+            },
+            {
+                "narration_text": "Puts hot pepper on the chopping board",
+                "start_frame": 714,
+                "stop_frame": 738
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut hot peppers",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns off the tap",
+                "start_frame": 690,
+                "stop_frame": 714
+            },
+            {
+                "narration_text": "Puts hot pepper on the chopping board",
+                "start_frame": 714,
+                "stop_frame": 738
+            },
+            {
+                "narration_text": "Shakes the hands",
+                "start_frame": 738,
+                "stop_frame": 763
+            },
+            {
+                "narration_text": "Opens the shelve",
+                "start_frame": 763,
+                "stop_frame": 789
+            },
+            {
+                "narration_text": "Takes the knife",
+                "start_frame": 789,
+                "stop_frame": 805
+            },
+            {
+                "narration_text": "Holds hot pepper",
+                "start_frame": 805,
+                "stop_frame": 857
+            },
+            {
+                "narration_text": "Cuts hot peppers",
+                "start_frame": 857,
+                "stop_frame": 1014
+            },
+            {
+                "narration_text": "Turns on the tap",
+                "start_frame": 1014,
+                "stop_frame": 1018
+            },
+            {
+                "narration_text": "Washes hot pepper",
+                "start_frame": 1018,
+                "stop_frame": 1029
+            },
+            {
+                "narration_text": "Turns off the tap",
+                "start_frame": 1029,
+                "stop_frame": 1044
+            },
+            {
+                "narration_text": "Puts hot pepper on the chopping board",
+                "start_frame": 1044,
+                "stop_frame": 1083
+            },
+            {
+                "narration_text": "Cuts hot peppers",
+                "start_frame": 1083,
+                "stop_frame": 1220
+            },
+            {
+                "narration_text": "Puts knife on the chopping board",
+                "start_frame": 1220,
+                "stop_frame": 1275
+            },
+            {
+                "narration_text": "Removes seeds from the hot peppers",
+                "start_frame": 1275,
+                "stop_frame": 2010
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove seeds and wash hot peppers again",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts knife on the chopping board",
+                "start_frame": 1220,
+                "stop_frame": 1275
+            },
+            {
+                "narration_text": "Removes seeds from the hot peppers",
+                "start_frame": 1275,
+                "stop_frame": 2010
+            },
+            {
+                "narration_text": "Turns on the tap",
+                "start_frame": 2010,
+                "stop_frame": 2024
+            },
+            {
+                "narration_text": "Washes hot pepper",
+                "start_frame": 2024,
+                "stop_frame": 2382
+            },
+            {
+                "narration_text": "Turns off the tap",
+                "start_frame": 2382,
+                "stop_frame": 2420
+            },
+            {
+                "narration_text": "Takes a plate",
+                "start_frame": 2420,
+                "stop_frame": 2468
+            }
+        ]
+    },
+    {
+        "task_goal": "Place hot peppers on a plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns off the tap",
+                "start_frame": 2382,
+                "stop_frame": 2420
+            },
+            {
+                "narration_text": "Takes a plate",
+                "start_frame": 2420,
+                "stop_frame": 2468
+            },
+            {
+                "narration_text": "Puts hot pepper on the plate",
+                "start_frame": 2468,
+                "stop_frame": 2498
+            },
+            {
+                "narration_text": "Takes polythene paper",
+                "start_frame": 2498,
+                "stop_frame": 2520
+            },
+            {
+                "narration_text": "Puts hot pepper on the plate",
+                "start_frame": 2520,
+                "stop_frame": 2609
+            },
+            {
+                "narration_text": "Pushes box aside",
+                "start_frame": 2609,
+                "stop_frame": 2620
+            },
+            {
+                "narration_text": "Puts plate on the table",
+                "start_frame": 2620,
+                "stop_frame": 2643
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 2643,
+                "stop_frame": 2667
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean up and prepare functional zone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts plate on the table",
+                "start_frame": 2620,
+                "stop_frame": 2643
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 2643,
+                "stop_frame": 2667
+            },
+            {
+                "narration_text": "Puts polythene paper in the dustbin",
+                "start_frame": 2667,
+                "stop_frame": 2679
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare and wash eggplant",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes eggplant",
+                "start_frame": 2718,
+                "stop_frame": 2731
+            },
+            {
+                "narration_text": "Takes a knife",
+                "start_frame": 2731,
+                "stop_frame": 2746
+            },
+            {
+                "narration_text": "Turns on the tap",
+                "start_frame": 2746,
+                "stop_frame": 2767
+            },
+            {
+                "narration_text": "Washes the chopping board",
+                "start_frame": 2767,
+                "stop_frame": 2821
+            },
+            {
+                "narration_text": "Turns off the tap",
+                "start_frame": 2821,
+                "stop_frame": 2855
+            },
+            {
+                "narration_text": "Cuts egg plant",
+                "start_frame": 2855,
+                "stop_frame": 2879
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut and put eggplant pieces in container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns off the tap",
+                "start_frame": 2821,
+                "stop_frame": 2855
+            },
+            {
+                "narration_text": "Cuts egg plant",
+                "start_frame": 2855,
+                "stop_frame": 2879
+            },
+            {
+                "narration_text": "Puts knife on the chopping board",
+                "start_frame": 2879,
+                "stop_frame": 2907
+            },
+            {
+                "narration_text": "Takes a piece of egg plant",
+                "start_frame": 2907,
+                "stop_frame": 2919
+            },
+            {
+                "narration_text": "Puts a piece of egg plant in the container",
+                "start_frame": 2919,
+                "stop_frame": 2928
+            },
+            {
+                "narration_text": "Takes the knife",
+                "start_frame": 2928,
+                "stop_frame": 2961
+            },
+            {
+                "narration_text": "Cuts egg plant",
+                "start_frame": 2961,
+                "stop_frame": 3070
+            },
+            {
+                "narration_text": "Puts knife on the chopping board",
+                "start_frame": 3070,
+                "stop_frame": 3113
+            },
+            {
+                "narration_text": "Cuts egg plant",
+                "start_frame": 3113,
+                "stop_frame": 3143
+            },
+            {
+                "narration_text": "Puts knife on the chopping board",
+                "start_frame": 3143,
+                "stop_frame": 3169
+            },
+            {
+                "narration_text": "Takes a piece of egg plant",
+                "start_frame": 3169,
+                "stop_frame": 3175
+            },
+            {
+                "narration_text": "Puts a piece of egg plant in the container",
+                "start_frame": 3175,
+                "stop_frame": 3202
+            },
+            {
+                "narration_text": "Takes the knife",
+                "start_frame": 3202,
+                "stop_frame": 3247
+            },
+            {
+                "narration_text": "Cuts egg plant",
+                "start_frame": 3247,
+                "stop_frame": 3340
+            }
+        ]
+    },
+    {
+        "task_goal": "Finalize eggplant preparation",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the knife",
+                "start_frame": 3202,
+                "stop_frame": 3247
+            },
+            {
+                "narration_text": "Cuts egg plant",
+                "start_frame": 3247,
+                "stop_frame": 3340
+            },
+            {
+                "narration_text": "Puts knife on the chopping board",
+                "start_frame": 3340,
+                "stop_frame": 3360
+            },
+            {
+                "narration_text": "Puts egg plant in a bowl",
+                "start_frame": 3360,
+                "stop_frame": 3422
+            },
+            {
+                "narration_text": "Takes the bowl",
+                "start_frame": 3422,
+                "stop_frame": 3450
+            },
+            {
+                "narration_text": "Turns on the tap",
+                "start_frame": 3450,
+                "stop_frame": 3466
+            },
+            {
+                "narration_text": "Washes the egg plant",
+                "start_frame": 3466,
+                "stop_frame": 3548
+            },
+            {
+                "narration_text": "Turns off the tap",
+                "start_frame": 3548,
+                "stop_frame": 3555
+            },
+            {
+                "narration_text": "Touches the egg plants",
+                "start_frame": 3555,
+                "stop_frame": 3593
+            },
+            {
+                "narration_text": "Turns on the tap",
+                "start_frame": 3593,
+                "stop_frame": 3607
+            }
+        ]
+    },
+    {
+        "task_goal": "Add ingredients to minced beef",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Mixes minced beef",
+                "start_frame": 6081,
+                "stop_frame": 6899
+            },
+            {
+                "narration_text": "Puts unsure in the minced beef",
+                "start_frame": 6899,
+                "stop_frame": 7004
+            },
+            {
+                "narration_text": "Puts saucer in the sink",
+                "start_frame": 7004,
+                "stop_frame": 7074
+            },
+            {
+                "narration_text": "Mixes minced beef",
+                "start_frame": 7074,
+                "stop_frame": 9020
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash hands and prepare dishwashing area",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns on the tap",
+                "start_frame": 12167,
+                "stop_frame": 12193
+            },
+            {
+                "narration_text": "Washes the hand",
+                "start_frame": 12193,
+                "stop_frame": 12249
+            },
+            {
+                "narration_text": "Pours unsure in the hand",
+                "start_frame": 12249,
+                "stop_frame": 12297
+            },
+            {
+                "narration_text": "Smears unsure with the hands",
+                "start_frame": 12297,
+                "stop_frame": 12417
+            },
+            {
+                "narration_text": "Takes a tray",
+                "start_frame": 12417,
+                "stop_frame": 12440
+            },
+            {
+                "narration_text": "Holds a polythene paper",
+                "start_frame": 12440,
+                "stop_frame": 12460
+            },
+            {
+                "narration_text": "Puts tray in the sink",
+                "start_frame": 12460,
+                "stop_frame": 12488
+            },
+            {
+                "narration_text": "Squeezes the paper",
+                "start_frame": 12488,
+                "stop_frame": 12515
+            },
+            {
+                "narration_text": "Puts polythene paper in a container",
+                "start_frame": 12515,
+                "stop_frame": 12523
+            },
+            {
+                "narration_text": "Takes a sponge",
+                "start_frame": 12523,
+                "stop_frame": 12544
+            },
+            {
+                "narration_text": "Pours unsure in the sponge",
+                "start_frame": 12544,
+                "stop_frame": 12581
+            },
+            {
+                "narration_text": "Puts bottle on the sink",
+                "start_frame": 12581,
+                "stop_frame": 12595
+            },
+            {
+                "narration_text": "Washes a dishes",
+                "start_frame": 12595,
+                "stop_frame": 13100
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash dishes and clean sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts bottle on the sink",
+                "start_frame": 12581,
+                "stop_frame": 12595
+            },
+            {
+                "narration_text": "Washes a dishes",
+                "start_frame": 12595,
+                "stop_frame": 13100
+            },
+            {
+                "narration_text": "Puts dish in the bucket",
+                "start_frame": 13100,
+                "stop_frame": 13144
+            },
+            {
+                "narration_text": "Rinses the dish",
+                "start_frame": 13144,
+                "stop_frame": 13295
+            },
+            {
+                "narration_text": "Pulls a bowl from the bucket",
+                "start_frame": 13295,
+                "stop_frame": 13376
+            },
+            {
+                "narration_text": "Puts dish in the bucket",
+                "start_frame": 13376,
+                "stop_frame": 13419
+            },
+            {
+                "narration_text": "Hangs the bowl on the wall",
+                "start_frame": 13419,
+                "stop_frame": 13449
+            },
+            {
+                "narration_text": "Washes hand",
+                "start_frame": 13449,
+                "stop_frame": 13476
+            },
+            {
+                "narration_text": "Pushes tray aside",
+                "start_frame": 13476,
+                "stop_frame": 13521
+            },
+            {
+                "narration_text": "Washes hand",
+                "start_frame": 13521,
+                "stop_frame": 13573
+            },
+            {
+                "narration_text": "Wipes the sink",
+                "start_frame": 13573,
+                "stop_frame": 13613
+            },
+            {
+                "narration_text": "Takes a sponge",
+                "start_frame": 13613,
+                "stop_frame": 13637
+            },
+            {
+                "narration_text": "Wipes the sink",
+                "start_frame": 13637,
+                "stop_frame": 13664
+            }
+        ]
+    },
+    {
+        "task_goal": "Finalize cleaning",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes a sponge",
+                "start_frame": 13613,
+                "stop_frame": 13637
+            },
+            {
+                "narration_text": "Wipes the sink",
+                "start_frame": 13637,
+                "stop_frame": 13664
+            },
+            {
+                "narration_text": "Throws water on the sink",
+                "start_frame": 13664,
+                "stop_frame": 13776
+            },
+            {
+                "narration_text": "Takes a sponge",
+                "start_frame": 13776,
+                "stop_frame": 13792
+            },
+            {
+                "narration_text": "Washes the sponge",
+                "start_frame": 13792,
+                "stop_frame": 13856
+            },
+            {
+                "narration_text": "Puts sponge in the sink",
+                "start_frame": 13856,
+                "stop_frame": 13877
+            },
+            {
+                "narration_text": "Washes hand",
+                "start_frame": 13877,
+                "stop_frame": 13905
+            },
+            {
+                "narration_text": "Turns off the tap",
+                "start_frame": 13905,
+                "stop_frame": 13931
+            },
+            {
+                "narration_text": "Shakes the hands",
+                "start_frame": 13931,
+                "stop_frame": 13957
+            },
+            {
+                "narration_text": "Wipes the hand",
+                "start_frame": 13957,
+                "stop_frame": 13986
+            },
+            {
+                "narration_text": "Lifts the hand",
+                "start_frame": 13986,
+                "stop_frame": 14086
+            }
+        ]
+    }
+]

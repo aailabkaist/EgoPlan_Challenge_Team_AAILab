@@ -1,0 +1,107 @@
+{
+    "overall_goal": "Prepare a meal using onions, mushrooms, cucumbers, and capsicum by cutting, stirring, and cooking these vegetables using various kitchen tools and appliances.",
+    "clips": [
+        {
+            "subgoal": "Prepare and cook onions",
+            "start_timestamp": 0,
+            "stop_timestamp": 10405,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and place the phone",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 78
+                },
+                {
+                    "secondary_subgoal": "Peel, cut, and dispose onion peels",
+                    "start_timestamp": 227,
+                    "stop_timestamp": 3027
+                },
+                {
+                    "secondary_subgoal": "Put onions in the pan and switch on cooking gas",
+                    "start_timestamp": 3027,
+                    "stop_timestamp": 6416
+                }
+            ]
+        },
+        {
+            "subgoal": "Add cooking fat and other ingredients",
+            "start_timestamp": 6416,
+            "stop_timestamp": 9539,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and use cooking fat",
+                    "start_timestamp": 6416,
+                    "stop_timestamp": 6955
+                },
+                {
+                    "secondary_subgoal": "Add additional ingredients to the pan",
+                    "start_timestamp": 7094,
+                    "stop_timestamp": 8839
+                },
+                {
+                    "secondary_subgoal": "Open kitchen window",
+                    "start_timestamp": 8753,
+                    "stop_timestamp": 8839
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir and monitor onions",
+            "start_timestamp": 9451,
+            "stop_timestamp": 10403,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjust heat and stir onions",
+                    "start_timestamp": 9451,
+                    "stop_timestamp": 10503
+                }
+            ]
+        },
+        {
+            "subgoal": "Prep and cook mushrooms",
+            "start_timestamp": 10503,
+            "stop_timestamp": 13823,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve, unwrap, and cut mushrooms",
+                    "start_timestamp": 10503,
+                    "stop_timestamp": 13823
+                }
+            ]
+        },
+        {
+            "subgoal": "Prep and cook cucumbers",
+            "start_timestamp": 13823,
+            "stop_timestamp": 16696,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve, wash, and cut cucumbers",
+                    "start_timestamp": 13823,
+                    "stop_timestamp": 16773
+                },
+                {
+                    "secondary_subgoal": "Prepare capsicum",
+                    "start_timestamp": 16773,
+                    "stop_timestamp": 17117
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut and cook capsicum",
+            "start_timestamp": 17117,
+            "stop_timestamp": 21270,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut capsicum and rinse parts",
+                    "start_timestamp": 17117,
+                    "stop_timestamp": 18329
+                },
+                {
+                    "secondary_subgoal": "Cut capsicum",
+                    "start_timestamp": 18329,
+                    "stop_timestamp": 21270
+                }
+            ]
+        }
+    ]
+}

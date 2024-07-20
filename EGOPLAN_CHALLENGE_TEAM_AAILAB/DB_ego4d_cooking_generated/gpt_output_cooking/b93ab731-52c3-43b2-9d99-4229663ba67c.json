@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgvNbxUt4HftoeydvMaTZV06Llgq",
+    "object": "chat.completion",
+    "created": 1719246821,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal involving meat, onions, and various vegetables.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare the cooking pan and water.\",\n      \"start_timestamp\": 106,\n      \"stop_timestamp\": 680,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick up and fill the pan with water.\",\n          \"start_timestamp\": 106,\n          \"stop_timestamp\": 203\n        },\n        {\n          \"secondary_subgoal\": \"Put the water in the pan.\",\n          \"start_timestamp\": 203,\n          \"stop_timestamp\": 409\n        },\n        {\n          \"secondary_subgoal\": \"Turn off water and place pan.\",\n          \"start_timestamp\": 409,\n          \"stop_timestamp\": 472\n        },\n        {\n          \"secondary_subgoal\": \"Put the pan on the stove and turn on the gas.\",\n          \"start_timestamp\": 472,\n          \"stop_timestamp\": 680\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare onions.\",\n      \"start_timestamp\": 855,\n      \"stop_timestamp\": 5434,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick up chopping board, knife, and onions; start peeling onions.\",\n          \"start_timestamp\": 855,\n          \"stop_timestamp\": 1620\n        },\n        {\n          \"secondary_subgoal\": \"Peel and dispose of onion peels.\",\n          \"start_timestamp\": 1620,\n          \"stop_timestamp\": 2670\n        },\n        {\n          \"secondary_subgoal\": \"Cut onions into pieces and put them in water.\",\n          \"start_timestamp\": 2670,\n          \"stop_timestamp\": 5434\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and cook meat.\",\n      \"start_timestamp\": 5496,\n      \"stop_timestamp\": 11930,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut and remove the packaging of meat.\",\n          \"start_timestamp\": 5496,\n          \"stop_timestamp\": 6032\n        },\n        {\n          \"secondary_subgoal\": \"Prepare meat by putting it in boiling water.\",\n          \"start_timestamp\": 6032,\n          \"stop_timestamp\": 8633\n        },\n        {\n          \"secondary_subgoal\": \"Stir and cook the meat in the skillet.\",\n          \"start_timestamp\": 8633,\n          \"stop_timestamp\": 11885\n        },\n        {\n          \"secondary_subgoal\": \"Use mesh strainer to remove meat from the pan.\",\n          \"start_timestamp\": 11885,\n          \"stop_timestamp\": 11930\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare vegetables (cabbage, capsicums, green onions) for the dish.\",\n      \"start_timestamp\": 12832,\n      \"stop_timestamp\": 16832,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash and prepare onions and other vegetables.\",\n          \"start_timestamp\": 12832,\n          \"stop_timestamp\": 13772\n        },\n        {\n          \"secondary_subgoal\": \"Place and prepare capsicums and cabbage.\",\n          \"start_timestamp\": 13772,\n          \"stop_timestamp\": 14431\n        },\n        {\n          \"secondary_subgoal\": \"Slice capsicums.\",\n          \"start_timestamp\": 14431,\n          \"stop_timestamp\": 16491\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare mushrooms.\",\n      \"start_timestamp\": 16882,\n      \"stop_timestamp\": 21173,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut mushrooms.\",\n          \"start_timestamp\": 16882,\n          \"stop_timestamp\": 21118\n        },\n        {\n          \"secondary_subgoal\": \"Add mushrooms to the dish.\",\n          \"start_timestamp\": 21118,\n          \"stop_timestamp\": 21173\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4309,
+        "completion_tokens": 841,
+        "total_tokens": 5150
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

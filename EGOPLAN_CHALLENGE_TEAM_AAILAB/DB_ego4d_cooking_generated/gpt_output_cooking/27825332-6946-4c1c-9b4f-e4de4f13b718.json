@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9devUSatFdNVS8nJ4rsfUacxJ6jsx",
+    "object": "chat.completion",
+    "created": 1719239140,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal involving cutting vegetables, washing ingredients, mixing them, and cooking them\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare cutting board and wash a tomato\",\n      \"start_timestamp\": 65,\n      \"stop_timestamp\": 594,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and wash the chopping board\",\n          \"start_timestamp\": 65,\n          \"stop_timestamp\": 179\n        },\n        {\n          \"secondary_subgoal\": \"Place washing board and pick a tomato\",\n          \"start_timestamp\": 179,\n          \"stop_timestamp\": 318\n        },\n        {\n          \"secondary_subgoal\": \"Wash the tomato\",\n          \"start_timestamp\": 430,\n          \"stop_timestamp\": 573\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Chop tomato and wrap pieces\",\n      \"start_timestamp\": 594,\n      \"stop_timestamp\": 1461,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Chop the tomato\",\n          \"start_timestamp\": 656,\n          \"stop_timestamp\": 981\n        },\n        {\n          \"secondary_subgoal\": \"Wrap tomato pieces\",\n          \"start_timestamp\": 1068,\n          \"stop_timestamp\": 1405\n        },\n        {\n          \"secondary_subgoal\": \"Place wrapped tomato in the fridge\",\n          \"start_timestamp\": 1405,\n          \"stop_timestamp\": 1461\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Fetch water and start cooking preparation\",\n      \"start_timestamp\": 1491,\n      \"stop_timestamp\": 1756,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Fetch water in a cooking pot\",\n          \"start_timestamp\": 1555,\n          \"stop_timestamp\": 1717\n        },\n        {\n          \"secondary_subgoal\": \"Place pot on cooker\",\n          \"start_timestamp\": 1717,\n          \"stop_timestamp\": 1756\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handle ingredients and wash chopping board\",\n      \"start_timestamp\": 1849,\n      \"stop_timestamp\": 2655,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick, unwrap and chop the onion\",\n          \"start_timestamp\": 3024,\n          \"stop_timestamp\": 3486\n        },\n        {\n          \"secondary_subgoal\": \"Wrap and store remaining onion\",\n          \"start_timestamp\": 3610,\n          \"stop_timestamp\": 3713\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare container and stir ingredients\",\n      \"start_timestamp\": 10608,\n      \"stop_timestamp\": 13352,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Open and use plastic container\",\n          \"start_timestamp\": 10608,\n          \"stop_timestamp\": 11121\n        },\n        {\n          \"secondary_subgoal\": \"Stir cooking ingredients\",\n          \"start_timestamp\": 11752,\n          \"stop_timestamp\": 11767\n        },\n        {\n          \"secondary_subgoal\": \"Move ingredients into a bowl\",\n          \"start_timestamp\": 13592,\n          \"stop_timestamp\": 13779\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Complete cooking and clean utensils\",\n      \"start_timestamp\": 16939,\n      \"stop_timestamp\": 19491,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Mix and cook meat slices with ingredients\",\n          \"start_timestamp\": 17330,\n          \"stop_timestamp\": 17826\n        },\n        {\n          \"secondary_subgoal\": \"Clean chopping board and knife\",\n          \"start_timestamp\": 19543,\n          \"stop_timestamp\": 21052\n        }\n      ]\n    }\n  ]\n}\n```\n\nIn this structure, each subgoal directs the specific tasks within the video that are required to achieve the overall meal preparation, with more fine-grained sub-clips emphasizing the localized actions within designated timestamps. The focus is not only on the temporal sequence but also on the clear identification of pre- and post-conditions required, such as washing ingredients before chopping."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4972,
+        "completion_tokens": 887,
+        "total_tokens": 5859
+    },
+    "system_fingerprint": "fp_888385ccad"
+}

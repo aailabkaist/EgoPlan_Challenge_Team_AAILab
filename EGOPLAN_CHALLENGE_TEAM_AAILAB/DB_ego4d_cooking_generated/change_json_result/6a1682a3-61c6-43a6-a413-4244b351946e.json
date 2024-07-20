@@ -1,0 +1,61 @@
+{
+    "overall_goal": "Preparing and serving a meal, and cleaning up the kitchen afterward.",
+    "clips": [
+        {
+            "subgoal": "Serving rice and preparing potatoes",
+            "start_timestamp": 0,
+            "stop_timestamp": 4109,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Serving rice",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 505
+                },
+                {
+                    "secondary_subgoal": "Preparing potatoes",
+                    "start_timestamp": 850,
+                    "stop_timestamp": 1644
+                },
+                {
+                    "secondary_subgoal": "Cooking and arranging potatoes",
+                    "start_timestamp": 1644,
+                    "stop_timestamp": 4109
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing soup and arranging meal components",
+            "start_timestamp": 4109,
+            "stop_timestamp": 5707,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preparing soup",
+                    "start_timestamp": 4109,
+                    "stop_timestamp": 4187
+                },
+                {
+                    "secondary_subgoal": "Arranging soup in bowl",
+                    "start_timestamp": 4187,
+                    "stop_timestamp": 4109
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning up and organizing kitchen tools",
+            "start_timestamp": 5707,
+            "stop_timestamp": 10858,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing dishes and utensils",
+                    "start_timestamp": 5707,
+                    "stop_timestamp": 8105
+                },
+                {
+                    "secondary_subgoal": "Drying and storing cleaned items",
+                    "start_timestamp": 8105,
+                    "stop_timestamp": 10858
+                }
+            ]
+        }
+    ]
+}

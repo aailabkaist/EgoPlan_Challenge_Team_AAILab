@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfgV6ivEXgaiIlyGTajB6ZyZ0adh",
+    "object": "chat.completion",
+    "created": 1719242055,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and mix ingredients in the frying pan and serving bowl.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Mix spaghetti in the serving bowl.\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 261,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Hold frying pan and mixing ingredients in serving bowl.\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 261\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Rinse and fill frying pan with water.\",\n      \"start_timestamp\": 261,\n      \"stop_timestamp\": 525,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Remove chopping sticks from serving bowl.\",\n          \"start_timestamp\": 261,\n          \"stop_timestamp\": 284\n        },\n        {\n          \"secondary_subgoal\": \"Move frying pan to kitchen tap and open tap.\",\n          \"start_timestamp\": 284,\n          \"stop_timestamp\": 362\n        },\n        {\n          \"secondary_subgoal\": \"Rinse chopping sticks.\",\n          \"start_timestamp\": 362,\n          \"stop_timestamp\": 378\n        },\n        {\n          \"secondary_subgoal\": \"Put water in frying pan and close tap.\",\n          \"start_timestamp\": 378,\n          \"stop_timestamp\": 525\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Heat the frying pan and organize items on the cooker.\",\n      \"start_timestamp\": 525,\n      \"stop_timestamp\": 673,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Move frying pan and chopping sticks from tap.\",\n          \"start_timestamp\": 525,\n          \"stop_timestamp\": 582\n        },\n        {\n          \"secondary_subgoal\": \"Place frying pan on cooker.\",\n          \"start_timestamp\": 582,\n          \"stop_timestamp\": 601\n        },\n        {\n          \"secondary_subgoal\": \"Put chopping sticks in frying pan.\",\n          \"start_timestamp\": 601,\n          \"stop_timestamp\": 615\n        },\n        {\n          \"secondary_subgoal\": \"Move frying pan on cooker.\",\n          \"start_timestamp\": 615,\n          \"stop_timestamp\": 623\n        },\n        {\n          \"secondary_subgoal\": \"Touch kettle on cooker.\",\n          \"start_timestamp\": 643,\n          \"stop_timestamp\": 673\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cover the ingredients and rearrange items on the sink.\",\n      \"start_timestamp\": 673,\n      \"stop_timestamp\": 886,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick up frying pan lid and place on serving bowl.\",\n          \"start_timestamp\": 673,\n          \"stop_timestamp\": 795\n        },\n        {\n          \"secondary_subgoal\": \"Move serving bowl and spice bottle on sink.\",\n          \"start_timestamp\": 829,\n          \"stop_timestamp\": 886\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finished organizing.\",\n      \"start_timestamp\": 886,\n      \"stop_timestamp\": 986,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Move hands.\",\n          \"start_timestamp\": 886,\n          \"stop_timestamp\": 986\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 593,
+        "completion_tokens": 695,
+        "total_tokens": 1288
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

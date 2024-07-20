@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egBJH8PgHkEkKw8YI4T70I7v240f",
+    "object": "chat.completion",
+    "created": 1719482293,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cooking flatbread and preparing food\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Lighting the gas cooker and looking around\",\n      \"start_timestamp\": 31,\n      \"stop_timestamp\": 1000,\n      \"sub_clips\": [\n        { \"secondary_subgoal\": \"Lighting the gas cooker\", \"start_timestamp\": 31, \"stop_timestamp\": 169 },\n        { \"secondary_subgoal\": \"Interacting with man X and looking around the kitchen\", \"start_timestamp\": 169, \"stop_timestamp\": 1000 }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing dough for flatbread\",\n      \"start_timestamp\": 1221,\n      \"stop_timestamp\": 2337,\n      \"sub_clips\": [\n        { \"secondary_subgoal\": \"Handling and placing the dough on the rolling board\", \"start_timestamp\": 1221, \"stop_timestamp\": 1607 },\n        { \"secondary_subgoal\": \"Using the rolling pin to flatten the dough\", \"start_timestamp\": 1607, \"stop_timestamp\": 1678 },\n        { \"secondary_subgoal\": \"Relighting the gas cooker\", \"start_timestamp\": 1687, \"stop_timestamp\": 1939 },\n        { \"secondary_subgoal\": \"Rolling and shaping the dough\", \"start_timestamp\": 1939, \"stop_timestamp\": 2337 }\n      ]\n    },\n    {\n      \"subgoal\": \"Making flatbreads on the pan\",\n      \"start_timestamp\": 2871,\n      \"stop_timestamp\": 4308,\n      \"sub_clips\": [\n        { \"secondary_subgoal\": \"Handling and flattening dough on the rolling board\", \"start_timestamp\": 2871, \"stop_timestamp\": 2938 },\n        { \"secondary_subgoal\": \"Turning on the gas cooker again\", \"start_timestamp\": 2938, \"stop_timestamp\": 2992 },\n        { \"secondary_subgoal\": \"Cooking flatbreads on the pan\", \"start_timestamp\": 2992, \"stop_timestamp\": 4308 }\n      ]\n    },\n    {\n      \"subgoal\": \"Finishing the dough preparation and handling\",\n      \"start_timestamp\": 46712,\n      \"stop_timestamp\": 55572,\n      \"sub_clips\": [\n        { \"secondary_subgoal\": \"Picking and folding flatbreads, interacting with the stove\", \"start_timestamp\": 46712, \"stop_timestamp\": 55572 }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking and mixing tea and beans\",\n      \"start_timestamp\": 56437,\n      \"stop_timestamp\": 62025,\n      \"sub_clips\": [\n        { \"secondary_subgoal\": \"Scooping and sieving tea\", \"start_timestamp\": 56437, \"stop_timestamp\": 62025 }\n      ]\n    },\n    {\n      \"subgoal\": \"Operating the bluetooth speaker\",\n      \"start_timestamp\": 51272,\n      \"stop_timestamp\": 53436,\n      \"sub_clips\": [\n        { \"secondary_subgoal\": \"Handling and operating the bluetooth speaker\", \"start_timestamp\": 51272, \"stop_timestamp\": 53436 }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 17556,
+        "completion_tokens": 672,
+        "total_tokens": 18228
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

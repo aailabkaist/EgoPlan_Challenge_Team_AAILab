@@ -1,0 +1,158 @@
+{
+    "overall_goal": "Prepare a meal involving eggs, vegetables, and lady fingers.",
+    "clips": [
+        {
+            "subgoal": "Clean hands and utensils, prepare ingredients and cook eggs",
+            "start_timestamp": 47,
+            "stop_timestamp": 2580,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean hands",
+                    "start_timestamp": 47,
+                    "stop_timestamp": 245
+                },
+                {
+                    "secondary_subgoal": "Prepare cooking area",
+                    "start_timestamp": 276,
+                    "stop_timestamp": 335
+                },
+                {
+                    "secondary_subgoal": "Handle various utensils and cooking items",
+                    "start_timestamp": 335,
+                    "stop_timestamp": 514
+                },
+                {
+                    "secondary_subgoal": "Handle a plastic bag and put it in the carrier",
+                    "start_timestamp": 514,
+                    "stop_timestamp": 681
+                },
+                {
+                    "secondary_subgoal": "Open cupboard and handle bottle",
+                    "start_timestamp": 681,
+                    "stop_timestamp": 860
+                },
+                {
+                    "secondary_subgoal": "Clean hands again",
+                    "start_timestamp": 860,
+                    "stop_timestamp": 954
+                },
+                {
+                    "secondary_subgoal": "Open and prepare the bowl for egg stirring",
+                    "start_timestamp": 954,
+                    "stop_timestamp": 1127
+                },
+                {
+                    "secondary_subgoal": "Stir and pour eggs into the sufuria and start cooking",
+                    "start_timestamp": 1127,
+                    "stop_timestamp": 2580
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cut meat and peppers",
+            "start_timestamp": 2580,
+            "stop_timestamp": 4924,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open cupboard and pick chopping board and meat",
+                    "start_timestamp": 2580,
+                    "stop_timestamp": 2732
+                },
+                {
+                    "secondary_subgoal": "Put chop board and meat down, clean and cut peppers",
+                    "start_timestamp": 2732,
+                    "stop_timestamp": 3840
+                },
+                {
+                    "secondary_subgoal": "Throw pepper pieces in the sink",
+                    "start_timestamp": 3840,
+                    "stop_timestamp": 4069
+                },
+                {
+                    "secondary_subgoal": "Put down knife and place plate aside",
+                    "start_timestamp": 4069,
+                    "stop_timestamp": 4428
+                },
+                {
+                    "secondary_subgoal": "Put chopped peppers into a dish",
+                    "start_timestamp": 4428,
+                    "stop_timestamp": 4725
+                },
+                {
+                    "secondary_subgoal": "Clean hands and touch the towel",
+                    "start_timestamp": 4725,
+                    "stop_timestamp": 4924
+                }
+            ]
+        },
+        {
+            "subgoal": "Refrigerate utensils and prepare new ingredients",
+            "start_timestamp": 4924,
+            "stop_timestamp": 7213,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle fridge items and plates",
+                    "start_timestamp": 4924,
+                    "stop_timestamp": 5524
+                },
+                {
+                    "secondary_subgoal": "Put aside knife and clean chopping board",
+                    "start_timestamp": 5524,
+                    "stop_timestamp": 5784
+                },
+                {
+                    "secondary_subgoal": "Move around kitchen and open fridge",
+                    "start_timestamp": 5784,
+                    "stop_timestamp": 6097
+                },
+                {
+                    "secondary_subgoal": "Handle ginger and wash items",
+                    "start_timestamp": 6097,
+                    "stop_timestamp": 6854
+                },
+                {
+                    "secondary_subgoal": "Clean hands, touch sink and an item on chopping board",
+                    "start_timestamp": 6854,
+                    "stop_timestamp": 7131
+                },
+                {
+                    "secondary_subgoal": "Close tap",
+                    "start_timestamp": 7131,
+                    "stop_timestamp": 7193
+                },
+                {
+                    "secondary_subgoal": "Handle knife and cut items",
+                    "start_timestamp": 7193,
+                    "stop_timestamp": 7213
+                }
+            ]
+        },
+        {
+            "subgoal": "Use and adjust kitchen equipment to cook",
+            "start_timestamp": 7213,
+            "stop_timestamp": 10001,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open bottle, pour oil, adjust gas",
+                    "start_timestamp": 7213,
+                    "stop_timestamp": 8408
+                },
+                {
+                    "secondary_subgoal": "Handle various kitchen tools and touches towel",
+                    "start_timestamp": 8408,
+                    "stop_timestamp": 8939
+                },
+                {
+                    "secondary_subgoal": "Place items into the oven and handle lady fingers",
+                    "start_timestamp": 8939,
+                    "stop_timestamp": 9310
+                },
+                {
+                    "secondary_subgoal": "Operate camera",
+                    "start_timestamp": 9310,
+                    "stop_timestamp": 10001
+                }
+            ]
+        }
+    ]
+}

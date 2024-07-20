@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfPtj4e8MOmLqaV21tLrFj45yuxh",
+    "object": "chat.completion",
+    "created": 1719241025,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal by cutting, cooking, and mixing various ingredients.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare and cook onions\",\n      \"start_timestamp\": 9239,\n      \"stop_timestamp\": 9876,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Peel and cut onions\",\n          \"start_timestamp\": 9239,\n          \"stop_timestamp\": 9876\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and cook noodles\",\n      \"start_timestamp\": 9876,\n      \"stop_timestamp\": 13723,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Retrieve spoon\",\n          \"start_timestamp\": 9876,\n          \"stop_timestamp\": 10120\n        },\n        {\n          \"secondary_subgoal\": \"Add noodles to cooking pot\",\n          \"start_timestamp\": 10120,\n          \"stop_timestamp\": 13723\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and cook lettuce\",\n      \"start_timestamp\": 13723,\n      \"stop_timestamp\": 16063,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pluck and cut lettuce\",\n          \"start_timestamp\": 13723,\n          \"stop_timestamp\": 15187\n        },\n        {\n          \"secondary_subgoal\": \"Add lettuce to cooking pot\",\n          \"start_timestamp\": 15187,\n          \"stop_timestamp\": 16063\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and cook cucumber\",\n      \"start_timestamp\": 16063,\n      \"stop_timestamp\": 18226,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut cucumber\",\n          \"start_timestamp\": 16063,\n          \"stop_timestamp\": 17732\n        },\n        {\n          \"secondary_subgoal\": \"Dispose of cucumber and clean work area\",\n          \"start_timestamp\": 17732,\n          \"stop_timestamp\": 18226\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and store tofu\",\n      \"start_timestamp\": 18226,\n      \"stop_timestamp\": 19461,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut and store tofu\",\n          \"start_timestamp\": 18226,\n          \"stop_timestamp\": 19461\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Add tofu and egg to cooking pot\",\n      \"start_timestamp\": 19461,\n      \"stop_timestamp\": 22779,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Add tofu to cooking pot\",\n          \"start_timestamp\": 19461,\n          \"stop_timestamp\": 22012\n        },\n        {\n          \"secondary_subgoal\": \"Put egg into cooking pot\",\n          \"start_timestamp\": 22089,\n          \"stop_timestamp\": 22779\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Add soy sauce to cooking pot\",\n      \"start_timestamp\": 22779,\n      \"stop_timestamp\": 21077,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Add soy sauce\",\n          \"start_timestamp\": 20675,\n          \"stop_timestamp\": 21077\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up workspace\",\n      \"start_timestamp\": 21077,\n      \"stop_timestamp\": 21889,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean workspace and dispose of trash\",\n          \"start_timestamp\": 21077,\n          \"stop_timestamp\": 21889\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Add final ingredients and serve food\",\n      \"start_timestamp\": 21889,\n      \"stop_timestamp\": 29209,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Add tofu and final ingredients to cooking pot\",\n          \"start_timestamp\": 21889,\n          \"stop_timestamp\": 22779\n        },\n        {\n          \"secondary_subgoal\": \"Serve food\",\n          \"start_timestamp\": 27101,\n          \"stop_timestamp\": 29109\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3190,
+        "completion_tokens": 900,
+        "total_tokens": 4090
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

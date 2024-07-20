@@ -1,0 +1,113 @@
+{
+    "overall_goal": "Prepare and cook a meal involving seeds, cabbage, and proteins.",
+    "clips": [
+        {
+            "subgoal": "Turn on the cooker and prepare the seeds.",
+            "start_timestamp": 0,
+            "stop_timestamp": 7140,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on the cooker.",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 537
+                },
+                {
+                    "secondary_subgoal": "Retrieve plastic tin and seeds from the cabinet.",
+                    "start_timestamp": 537,
+                    "stop_timestamp": 776
+                },
+                {
+                    "secondary_subgoal": "Prepare seeds from the plastic tin.",
+                    "start_timestamp": 776,
+                    "stop_timestamp": 1700
+                },
+                {
+                    "secondary_subgoal": "Prepare chopping board and knife for seed preparation.",
+                    "start_timestamp": 1700,
+                    "stop_timestamp": 2217
+                },
+                {
+                    "secondary_subgoal": "Prepare and cut seeds on the chopping board with the knife.",
+                    "start_timestamp": 2217,
+                    "stop_timestamp": 5505
+                },
+                {
+                    "secondary_subgoal": "Pour seeds into a plate.",
+                    "start_timestamp": 5505,
+                    "stop_timestamp": 5914
+                },
+                {
+                    "secondary_subgoal": "Add mole grains to the plate of seeds.",
+                    "start_timestamp": 5914,
+                    "stop_timestamp": 6657
+                },
+                {
+                    "secondary_subgoal": "Insert sunflower seeds and mole grains into the plastic tin.",
+                    "start_timestamp": 6657,
+                    "stop_timestamp": 7140
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and mix food ingredients with seeds.",
+            "start_timestamp": 7140,
+            "stop_timestamp": 23342,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare Royco mixture and add to the seeds.",
+                    "start_timestamp": 7140,
+                    "stop_timestamp": 16926
+                },
+                {
+                    "secondary_subgoal": "Prepare food ingredients and mix with seeds.",
+                    "start_timestamp": 16926,
+                    "stop_timestamp": 23510
+                },
+                {
+                    "secondary_subgoal": "Insert mixed food into the oven.",
+                    "start_timestamp": 23510,
+                    "stop_timestamp": 23572
+                },
+                {
+                    "secondary_subgoal": "Clean dishes and utensils used in food preparation.",
+                    "start_timestamp": 23572,
+                    "stop_timestamp": 23342
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cabbage.",
+            "start_timestamp": 23342,
+            "stop_timestamp": 27455,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare cabbage and insert into the oven.",
+                    "start_timestamp": 23342,
+                    "stop_timestamp": 25866
+                },
+                {
+                    "secondary_subgoal": "Cover tin and move food to the fridge.",
+                    "start_timestamp": 25866,
+                    "stop_timestamp": 27455
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare onions and finalize cooking.",
+            "start_timestamp": 27455,
+            "stop_timestamp": 31949,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare onions for cooking.",
+                    "start_timestamp": 27455,
+                    "stop_timestamp": 28864
+                },
+                {
+                    "secondary_subgoal": "Clean and prepare pressure cooker for final cooking.",
+                    "start_timestamp": 28864,
+                    "stop_timestamp": 31949
+                }
+            ]
+        }
+    ]
+}

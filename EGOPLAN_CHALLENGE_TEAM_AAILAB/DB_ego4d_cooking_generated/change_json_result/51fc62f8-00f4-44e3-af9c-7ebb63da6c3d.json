@@ -1,0 +1,105 @@
+{
+    "overall_goal": "Prepare a meal involving multiple steps including handling various ingredients and kitchen tools.",
+    "clips": [
+        {
+            "subgoal": "Prepare and place meat in cooking pot",
+            "start_timestamp": 130,
+            "stop_timestamp": 726,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up meat from the counter",
+                    "start_timestamp": 130,
+                    "stop_timestamp": 196
+                },
+                {
+                    "secondary_subgoal": "Flip the packet of meat",
+                    "start_timestamp": 236,
+                    "stop_timestamp": 299
+                },
+                {
+                    "secondary_subgoal": "Obtain and place cooking pot",
+                    "start_timestamp": 391,
+                    "stop_timestamp": 585
+                },
+                {
+                    "secondary_subgoal": "Place meat in cooking pot and add water",
+                    "start_timestamp": 585,
+                    "stop_timestamp": 726
+                }
+            ]
+        },
+        {
+            "subgoal": "Place and heat butter in microwave",
+            "start_timestamp": 1279,
+            "stop_timestamp": 1981,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up and move butter",
+                    "start_timestamp": 1279,
+                    "stop_timestamp": 1595
+                },
+                {
+                    "secondary_subgoal": "Place butter in microwave",
+                    "start_timestamp": 1836,
+                    "stop_timestamp": 1981
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle green peas preparation",
+            "start_timestamp": 4218,
+            "stop_timestamp": 11180,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put green peas in a sink",
+                    "start_timestamp": 4841,
+                    "stop_timestamp": 4936
+                },
+                {
+                    "secondary_subgoal": "Open green peas, rinse them, and transfer to cooking pot",
+                    "start_timestamp": 5555,
+                    "stop_timestamp": 8747
+                },
+                {
+                    "secondary_subgoal": "Further rinse green peas and place on chopping board",
+                    "start_timestamp": 8929,
+                    "stop_timestamp": 9079
+                },
+                {
+                    "secondary_subgoal": "Handle green peas on chopping board",
+                    "start_timestamp": 12286,
+                    "stop_timestamp": 15236
+                }
+            ]
+        },
+        {
+            "subgoal": "Peel and wash cassava",
+            "start_timestamp": 12540,
+            "stop_timestamp": 14621,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up and unwrap cassava",
+                    "start_timestamp": 12335,
+                    "stop_timestamp": 14154
+                },
+                {
+                    "secondary_subgoal": "Wash cassava",
+                    "start_timestamp": 14154,
+                    "stop_timestamp": 14168
+                }
+            ]
+        },
+        {
+            "subgoal": "Grate ingredients",
+            "start_timestamp": 17332,
+            "stop_timestamp": 21067,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Grate ingredients until finished",
+                    "start_timestamp": 17332,
+                    "stop_timestamp": 21067
+                }
+            ]
+        }
+    ]
+}

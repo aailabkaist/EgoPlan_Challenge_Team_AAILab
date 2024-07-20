@@ -1,0 +1,122 @@
+{
+    "overall_goal": "Fry and prepare ring-shaped noodles (murukku) and doughnut rolls.",
+    "clips": [
+        {
+            "subgoal": "Fry ring-shaped noodles (murukku).",
+            "start_timestamp": 1,
+            "stop_timestamp": 9965,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fry the first batch of ring-shaped noodles (murukku).",
+                    "start_timestamp": 1,
+                    "stop_timestamp": 471
+                },
+                {
+                    "secondary_subgoal": "Fry additional batches of ring-shaped noodles.",
+                    "start_timestamp": 471,
+                    "stop_timestamp": 2599
+                },
+                {
+                    "secondary_subgoal": "Remove fried noodles from the frying pan and place them on sieve.",
+                    "start_timestamp": 2599,
+                    "stop_timestamp": 8886
+                },
+                {
+                    "secondary_subgoal": "Put uncooked doughnut rolls into the cooking oil.",
+                    "start_timestamp": 8886,
+                    "stop_timestamp": 9939
+                }
+            ]
+        },
+        {
+            "subgoal": "Put doughnut rolls in cooking oil, and placing more doughnut rolls on the lid.",
+            "start_timestamp": 9939,
+            "stop_timestamp": 11546,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put the doughnut rolls in the cooking oil.",
+                    "start_timestamp": 9939,
+                    "stop_timestamp": 10135
+                },
+                {
+                    "secondary_subgoal": "Placing more doughnut rolls on the lid.",
+                    "start_timestamp": 10135,
+                    "stop_timestamp": 11546
+                }
+            ]
+        },
+        {
+            "subgoal": "Adjust doughnut rolls in the cooking oil.",
+            "start_timestamp": 11642,
+            "stop_timestamp": 15941,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn doughnut rolls with a wire in the cooking oil.",
+                    "start_timestamp": 11642,
+                    "stop_timestamp": 14548
+                },
+                {
+                    "secondary_subgoal": "Turn doughnut rolls with a metal rod in the cooking oil.",
+                    "start_timestamp": 14548,
+                    "stop_timestamp": 15941
+                }
+            ]
+        },
+        {
+            "subgoal": "Transfer cooked doughnuts into the cooking pot.",
+            "start_timestamp": 15941,
+            "stop_timestamp": 20844,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn the pastry, place it into the cooking pot.",
+                    "start_timestamp": 15941,
+                    "stop_timestamp": 20000
+                },
+                {
+                    "secondary_subgoal": "Place the doughnut rolls into the cooking pot.",
+                    "start_timestamp": 20000,
+                    "stop_timestamp": 20844
+                }
+            ]
+        },
+        {
+            "subgoal": "Pour the pastry in the oil.",
+            "start_timestamp": 20844,
+            "stop_timestamp": 22931,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pour the pastry into the oil from the tray.",
+                    "start_timestamp": 20844,
+                    "stop_timestamp": 21800
+                },
+                {
+                    "secondary_subgoal": "Scoop and put the pastry into the tray.",
+                    "start_timestamp": 21800,
+                    "stop_timestamp": 22931
+                }
+            ]
+        },
+        {
+            "subgoal": "Move around the kitchen and fry murukku.",
+            "start_timestamp": 22931,
+            "stop_timestamp": 40054,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Perform multiple tasks in a compact space in the kitchen.",
+                    "start_timestamp": 22931,
+                    "stop_timestamp": 30736
+                },
+                {
+                    "secondary_subgoal": "Fry murukku and adjust with the thin wooden stick.",
+                    "start_timestamp": 30736,
+                    "stop_timestamp": 37496
+                },
+                {
+                    "secondary_subgoal": "Continue frying and adjusting murukku.",
+                    "start_timestamp": 37496,
+                    "stop_timestamp": 40054
+                }
+            ]
+        }
+    ]
+}

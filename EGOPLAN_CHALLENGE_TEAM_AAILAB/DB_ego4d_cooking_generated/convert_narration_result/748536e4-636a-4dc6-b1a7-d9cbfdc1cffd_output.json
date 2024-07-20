@@ -1,0 +1,312 @@
+[
+    {
+        "task_goal": "Look around the room and start preparing mangoes",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Looks around the room",
+                "start_frame": 56,
+                "stop_frame": 108
+            },
+            {
+                "narration_text": "Moves the hands",
+                "start_frame": 108,
+                "stop_frame": 229
+            },
+            {
+                "narration_text": "Picks a mango",
+                "start_frame": 229,
+                "stop_frame": 319
+            },
+            {
+                "narration_text": "Picks a knife",
+                "start_frame": 319,
+                "stop_frame": 401
+            }
+        ]
+    },
+    {
+        "task_goal": "Look around the room",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Looks around the room",
+                "start_frame": 56,
+                "stop_frame": 108
+            },
+            {
+                "narration_text": "Moves the hands",
+                "start_frame": 108,
+                "stop_frame": 229
+            }
+        ]
+    },
+    {
+        "task_goal": "Move around to pick a mango",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Looks around the room",
+                "start_frame": 56,
+                "stop_frame": 108
+            },
+            {
+                "narration_text": "Moves the hands",
+                "start_frame": 108,
+                "stop_frame": 229
+            },
+            {
+                "narration_text": "Picks a mango",
+                "start_frame": 229,
+                "stop_frame": 319
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick a mango",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves the hands",
+                "start_frame": 108,
+                "stop_frame": 229
+            },
+            {
+                "narration_text": "Picks a mango",
+                "start_frame": 229,
+                "stop_frame": 319
+            },
+            {
+                "narration_text": "Picks a knife",
+                "start_frame": 319,
+                "stop_frame": 401
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and use the knife to cut the mango",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a mango",
+                "start_frame": 229,
+                "stop_frame": 319
+            },
+            {
+                "narration_text": "Picks a knife",
+                "start_frame": 319,
+                "stop_frame": 401
+            },
+            {
+                "narration_text": "Cuts the mango",
+                "start_frame": 401,
+                "stop_frame": 499
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut and peel the mango",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a knife",
+                "start_frame": 319,
+                "stop_frame": 401
+            },
+            {
+                "narration_text": "Cuts the mango",
+                "start_frame": 401,
+                "stop_frame": 499
+            },
+            {
+                "narration_text": "Puts the peel on the tray",
+                "start_frame": 499,
+                "stop_frame": 589
+            }
+        ]
+    },
+    {
+        "task_goal": "Put mango peel on the tray and continue cutting",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cuts the mango",
+                "start_frame": 401,
+                "stop_frame": 499
+            },
+            {
+                "narration_text": "Puts the peel on the tray",
+                "start_frame": 499,
+                "stop_frame": 589
+            },
+            {
+                "narration_text": "Cuts the mango",
+                "start_frame": 589,
+                "stop_frame": 808
+            },
+            {
+                "narration_text": "Puts the sliced mango aside",
+                "start_frame": 808,
+                "stop_frame": 847
+            }
+        ]
+    },
+    {
+        "task_goal": "Place sliced mango aside",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cuts the mango",
+                "start_frame": 589,
+                "stop_frame": 808
+            },
+            {
+                "narration_text": "Puts the sliced mango aside",
+                "start_frame": 808,
+                "stop_frame": 847
+            },
+            {
+                "narration_text": "Moves the hand",
+                "start_frame": 847,
+                "stop_frame": 913
+            }
+        ]
+    },
+    {
+        "task_goal": "Dice mangoes with knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cc puts the diced the mango in a pot",
+                "start_frame": 32887,
+                "stop_frame": 32997
+            },
+            {
+                "narration_text": "Cc dices the mango",
+                "start_frame": 32997,
+                "stop_frame": 33259
+            },
+            {
+                "narration_text": "Cc moves the diced mango",
+                "start_frame": 33259,
+                "stop_frame": 33303
+            },
+            {
+                "narration_text": "Cc dices the mango",
+                "start_frame": 33303,
+                "stop_frame": 33595
+            },
+            {
+                "narration_text": "Cc moves the diced mango",
+                "start_frame": 33595,
+                "stop_frame": 33638
+            },
+            {
+                "narration_text": "Cc dices the mango",
+                "start_frame": 33638,
+                "stop_frame": 33778
+            },
+            {
+                "narration_text": "Cc moves the diced mango",
+                "start_frame": 33778,
+                "stop_frame": 33804
+            },
+            {
+                "narration_text": "Cc dices the mango",
+                "start_frame": 33804,
+                "stop_frame": 34344
+            },
+            {
+                "narration_text": "Cc moves the diced mango",
+                "start_frame": 34344,
+                "stop_frame": 34364
+            },
+            {
+                "narration_text": "Cc dices the mango",
+                "start_frame": 34364,
+                "stop_frame": 35023
+            },
+            {
+                "narration_text": "Cc moves the diced mango",
+                "start_frame": 35023,
+                "stop_frame": 35163
+            },
+            {
+                "narration_text": "Cc dices the mango",
+                "start_frame": 35163,
+                "stop_frame": 35435
+            },
+            {
+                "narration_text": "Cc moves the diced mango",
+                "start_frame": 35435,
+                "stop_frame": 35478
+            },
+            {
+                "narration_text": "Cc places the knife on a chopping board",
+                "start_frame": 35478,
+                "stop_frame": 35504
+            },
+            {
+                "narration_text": "Cc rubs his hands",
+                "start_frame": 35504,
+                "stop_frame": 35577
+            },
+            {
+                "narration_text": "Cc gathers the diced mango",
+                "start_frame": 35577,
+                "stop_frame": 35809
+            },
+            {
+                "narration_text": "Cc picks the diced mango",
+                "start_frame": 35809,
+                "stop_frame": 35846
+            }
+        ]
+    },
+    {
+        "task_goal": "Final touches and cleanup",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the camera",
+                "start_frame": 44421,
+                "stop_frame": 44783
+            },
+            {
+                "narration_text": "Holds the knife with the right hand",
+                "start_frame": 44783,
+                "stop_frame": 44881
+            },
+            {
+                "narration_text": "Holds the mango with the right hand",
+                "start_frame": 44881,
+                "stop_frame": 44981
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold the camera and knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the camera",
+                "start_frame": 44421,
+                "stop_frame": 44783
+            },
+            {
+                "narration_text": "Holds the knife with the right hand",
+                "start_frame": 44783,
+                "stop_frame": 44881
+            },
+            {
+                "narration_text": "Holds the mango with the right hand",
+                "start_frame": 44881,
+                "stop_frame": 44981
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold the mango",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the knife with the right hand",
+                "start_frame": 44783,
+                "stop_frame": 44881
+            },
+            {
+                "narration_text": "Holds the mango with the right hand",
+                "start_frame": 44881,
+                "stop_frame": 44981
+            }
+        ]
+    }
+]

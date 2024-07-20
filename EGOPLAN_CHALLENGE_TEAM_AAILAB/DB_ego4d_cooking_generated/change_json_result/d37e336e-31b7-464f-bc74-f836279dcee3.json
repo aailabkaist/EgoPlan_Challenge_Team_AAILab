@@ -1,0 +1,304 @@
+{
+    "overall_goal": "Prepare and cook brinjal with food coloring.",
+    "clips": [
+        {
+            "subgoal": "Chop the brinjal.",
+            "start_timestamp": 37,
+            "stop_timestamp": 2092,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick the brinjal from the sink.",
+                    "start_timestamp": 37,
+                    "stop_timestamp": 68
+                },
+                {
+                    "secondary_subgoal": "Pick the knife from the container.",
+                    "start_timestamp": 68,
+                    "stop_timestamp": 112
+                },
+                {
+                    "secondary_subgoal": "Hold and chop the brinjal on the chopping board.",
+                    "start_timestamp": 112,
+                    "stop_timestamp": 2092
+                }
+            ]
+        },
+        {
+            "subgoal": "Collect the brinjal slices.",
+            "start_timestamp": 2092,
+            "stop_timestamp": 2308,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Collect the slices on the chopping board.",
+                    "start_timestamp": 2092,
+                    "stop_timestamp": 2308
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the food color.",
+            "start_timestamp": 2308,
+            "stop_timestamp": 2471,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick a cup of food color from the sink.",
+                    "start_timestamp": 2308,
+                    "stop_timestamp": 2412
+                },
+                {
+                    "secondary_subgoal": "Place the cup of food color in the tray.",
+                    "start_timestamp": 2412,
+                    "stop_timestamp": 2471
+                }
+            ]
+        },
+        {
+            "subgoal": "Apply the food color to the brinjal.",
+            "start_timestamp": 2471,
+            "stop_timestamp": 8770,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick the pastry brush from the cup.",
+                    "start_timestamp": 2471,
+                    "stop_timestamp": 2550
+                },
+                {
+                    "secondary_subgoal": "Spread the food color on brinjal with pastry brush.",
+                    "start_timestamp": 2550,
+                    "stop_timestamp": 8770,
+                    "details": [
+                        {
+                            "subgoal": "Spread food color in the brinjal.",
+                            "start_timestamp": 2756,
+                            "stop_timestamp": 2756
+                        },
+                        {
+                            "subgoal": "Pick the brinjal from the sink.",
+                            "start_timestamp": 2813,
+                            "stop_timestamp": 3273
+                        },
+                        {
+                            "subgoal": "Spread food color in the brinjal.",
+                            "start_timestamp": 3273,
+                            "stop_timestamp": 3413
+                        },
+                        {
+                            "subgoal": "Pick the brinjal from the sink.",
+                            "start_timestamp": 3413,
+                            "stop_timestamp": 3639
+                        },
+                        {
+                            "subgoal": "Spread food color in the brinjal.",
+                            "start_timestamp": 3639,
+                            "stop_timestamp": 3793
+                        },
+                        {
+                            "subgoal": "Pick the brinjal from the sink.",
+                            "start_timestamp": 3793,
+                            "stop_timestamp": 4022
+                        },
+                        {
+                            "subgoal": "Spread food color in the brinjal.",
+                            "start_timestamp": 4022,
+                            "stop_timestamp": 4108
+                        },
+                        {
+                            "subgoal": "Pick the brinjal from the sink.",
+                            "start_timestamp": 4108,
+                            "stop_timestamp": 4373
+                        },
+                        {
+                            "subgoal": "Spread food color in the brinjal.",
+                            "start_timestamp": 4373,
+                            "stop_timestamp": 4487
+                        },
+                        {
+                            "subgoal": "Pick the brinjal from the sink.",
+                            "start_timestamp": 4487,
+                            "stop_timestamp": 4752
+                        },
+                        {
+                            "subgoal": "Spread food color in the brinjal.",
+                            "start_timestamp": 4752,
+                            "stop_timestamp": 4818
+                        },
+                        {
+                            "subgoal": "Pick the brinjal from the sink.",
+                            "start_timestamp": 4818,
+                            "stop_timestamp": 5107
+                        },
+                        {
+                            "subgoal": "Spread food color in the brinjal.",
+                            "start_timestamp": 5107,
+                            "stop_timestamp": 5165
+                        },
+                        {
+                            "subgoal": "Pick the brinjal from the sink.",
+                            "start_timestamp": 5165,
+                            "stop_timestamp": 5410
+                        },
+                        {
+                            "subgoal": "Spread food color in the brinjal.",
+                            "start_timestamp": 5410,
+                            "stop_timestamp": 5472
+                        },
+                        {
+                            "subgoal": "Pick the brinjal from the sink.",
+                            "start_timestamp": 5472,
+                            "stop_timestamp": 5806
+                        },
+                        {
+                            "subgoal": "Spread food color in the brinjal.",
+                            "start_timestamp": 5806,
+                            "stop_timestamp": 5887
+                        },
+                        {
+                            "subgoal": "Remove a cup of food color from the tray.",
+                            "start_timestamp": 5887,
+                            "stop_timestamp": 5935
+                        },
+                        {
+                            "subgoal": "Pick the brinjal from the sink.",
+                            "start_timestamp": 5935,
+                            "stop_timestamp": 5977
+                        },
+                        {
+                            "subgoal": "Pick the knife from the container.",
+                            "start_timestamp": 5977,
+                            "stop_timestamp": 7508
+                        },
+                        {
+                            "subgoal": "Chop the brinjal on the chopping board.",
+                            "start_timestamp": 7508,
+                            "stop_timestamp": 7587
+                        },
+                        {
+                            "subgoal": "Pick a piece of brinjal from the chopping board.",
+                            "start_timestamp": 7587,
+                            "stop_timestamp": 7629
+                        },
+                        {
+                            "subgoal": "Move the tray aside.",
+                            "start_timestamp": 7629,
+                            "stop_timestamp": 7696
+                        },
+                        {
+                            "subgoal": "Pick a cup of food color from the sink.",
+                            "start_timestamp": 7696,
+                            "stop_timestamp": 7975
+                        },
+                        {
+                            "subgoal": "Spread the food color on brinjal with pastry brush.",
+                            "start_timestamp": 7975,
+                            "stop_timestamp": 8011
+                        },
+                        {
+                            "subgoal": "Pick a piece of brinjal from the chopping board.",
+                            "start_timestamp": 8011,
+                            "stop_timestamp": 8294
+                        },
+                        {
+                            "subgoal": "Spread the food color on brinjal with pastry brush.",
+                            "start_timestamp": 8294,
+                            "stop_timestamp": 8381
+                        },
+                        {
+                            "subgoal": "Pick a piece of brinjal from the chopping board.",
+                            "start_timestamp": 8381,
+                            "stop_timestamp": 8673
+                        },
+                        {
+                            "subgoal": "Spread the food color on brinjal with pastry brush.",
+                            "start_timestamp": 8673,
+                            "stop_timestamp": 8770
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the brinjal.",
+            "start_timestamp": 8770,
+            "stop_timestamp": 9033,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put the pastry brush inside the cup of the food color.",
+                    "start_timestamp": 8770,
+                    "stop_timestamp": 8820
+                },
+                {
+                    "secondary_subgoal": "Open the door of the cooker.",
+                    "start_timestamp": 8820,
+                    "stop_timestamp": 8859
+                },
+                {
+                    "secondary_subgoal": "Hold and place the tray full of brinjal inside the cooker.",
+                    "start_timestamp": 8859,
+                    "stop_timestamp": 8965
+                },
+                {
+                    "secondary_subgoal": "Close the door of the cooker.",
+                    "start_timestamp": 8965,
+                    "stop_timestamp": 9033
+                }
+            ]
+        },
+        {
+            "subgoal": "Repeat chopping and coloring of additional brinjal.",
+            "start_timestamp": 9033,
+            "stop_timestamp": 11157,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Collect the slices on the chopping board.",
+                    "start_timestamp": 9033,
+                    "stop_timestamp": 9162
+                },
+                {
+                    "secondary_subgoal": "Pick the knife and brinjal from the sink.",
+                    "start_timestamp": 9162,
+                    "stop_timestamp": 9195
+                },
+                {
+                    "secondary_subgoal": "Place the brinjal on the chopping board.",
+                    "start_timestamp": 9195,
+                    "stop_timestamp": 9212
+                },
+                {
+                    "secondary_subgoal": "Chop the brinjal on the chopping board.",
+                    "start_timestamp": 9212,
+                    "stop_timestamp": 9979
+                },
+                {
+                    "secondary_subgoal": "Collect the slices on the chopping board.",
+                    "start_timestamp": 9979,
+                    "stop_timestamp": 10082
+                },
+                {
+                    "secondary_subgoal": "Chop the brinjal on the chopping board.",
+                    "start_timestamp": 10082,
+                    "stop_timestamp": 10843
+                },
+                {
+                    "secondary_subgoal": "Collect the slices on the chopping board.",
+                    "start_timestamp": 10843,
+                    "stop_timestamp": 10911
+                },
+                {
+                    "secondary_subgoal": "Pick the brinjal and knife from the sink.",
+                    "start_timestamp": 10911,
+                    "stop_timestamp": 10971
+                },
+                {
+                    "secondary_subgoal": "Place the brinjal on the chopping board and chop.",
+                    "start_timestamp": 10971,
+                    "stop_timestamp": 11104
+                },
+                {
+                    "secondary_subgoal": "Put the knife on the sink.",
+                    "start_timestamp": 11104,
+                    "stop_timestamp": 11157
+                }
+            ]
+        }
+    ]
+}

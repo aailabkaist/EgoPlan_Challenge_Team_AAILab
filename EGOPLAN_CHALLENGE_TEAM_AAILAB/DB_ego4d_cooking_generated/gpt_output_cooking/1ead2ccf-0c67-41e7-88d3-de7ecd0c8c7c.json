@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dt2PXmyy9XZUTEtKvbUHkXtgbYZP",
+    "object": "chat.completion",
+    "created": 1719293385,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook a meal using cabbage and other ingredients\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare and cut cabbage\",\n      \"start_timestamp\": \"35\",\n      \"stop_timestamp\": \"11075\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and place pieces of cabbage\",\n          \"start_timestamp\": \"35\",\n          \"stop_timestamp\": \"65\"\n        },\n        {\n          \"secondary_subgoal\": \"Pick and cut cabbage with knife\",\n          \"start_timestamp\": \"65\",\n          \"stop_timestamp\": \"376\"\n        },\n        {\n          \"secondary_subgoal\": \"Put cut cabbage in container\",\n          \"start_timestamp\": \"376\",\n          \"stop_timestamp\": \"412\"\n        },\n        {\n          \"secondary_subgoal\": \"Continue picking, cutting, and placing cabbage in container\",\n          \"start_timestamp\": \"412\",\n          \"stop_timestamp\": \"1138\"\n        },\n        {\n          \"secondary_subgoal\": \"Hold and cut cabbage\",\n          \"start_timestamp\": \"1138\",\n          \"stop_timestamp\": \"1360\"\n        },\n        {\n          \"secondary_subgoal\": \"Handle and place pieces of cabbage in container\",\n          \"start_timestamp\": \"1360\",\n          \"stop_timestamp\": \"1407\"\n        },\n        {\n          \"secondary_subgoal\": \"Continue cutting and placing cabbage\",\n          \"start_timestamp\": \"1407\",\n          \"stop_timestamp\": \"14219\"\n        },\n        {\n          \"secondary_subgoal\": \"Move, cut, and peel cabbage\",\n          \"start_timestamp\": \"14219\",\n          \"stop_timestamp\": \"15264\"\n        },\n        {\n          \"secondary_subgoal\": \"Handle phone while preparing cabbage\",\n          \"start_timestamp\": \"15264\",\n          \"stop_timestamp\": \"21244\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handle phone and other kitchen tools while preparing onions and food\",\n      \"start_timestamp\": \"21244\",\n      \"stop_timestamp\": \"43000\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Dialing phone and handling ingredients/utensils\",\n          \"start_timestamp\": \"21244\",\n          \"stop_timestamp\": \"21949\"\n        },\n        {\n          \"secondary_subgoal\": \"Mix and place food ingredients with spoon\",\n          \"start_timestamp\": \"21949\",\n          \"stop_timestamp\": \"22695\"\n        },\n        {\n          \"secondary_subgoal\": \"Move around the room handling plants and outside space\",\n          \"start_timestamp\": \"22695\",\n          \"stop_timestamp\": \"23718\"\n        },\n        {\n          \"secondary_subgoal\": \"Wash and cut leaves, mix with food\",\n          \"start_timestamp\": \"23718\",\n          \"stop_timestamp\": \"30548\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing and cutting onions mixing with other ingredients\",\n      \"start_timestamp\": \"30548\",\n      \"stop_timestamp\": \"43997\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Peel, cut and mix onions with food\",\n          \"start_timestamp\": \"30548\",\n          \"stop_timestamp\": \"35612\"\n        },\n        {\n          \"secondary_subgoal\": \"Open fridge, handle butter, mix with food\",\n          \"start_timestamp\": \"35612\",\n          \"stop_timestamp\": \"40393\"\n        },\n        {\n          \"secondary_subgoal\": \"Cut and mix more ingredients with food\",\n          \"start_timestamp\": \"40393\",\n          \"stop_timestamp\": \"43000\"\n        },\n        {\n          \"secondary_subgoal\": \"Find and handle additional ingredients, mix in food\",\n          \"start_timestamp\": \"43000\",\n          \"stop_timestamp\": \"43997\"\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 11677,
+        "completion_tokens": 793,
+        "total_tokens": 12470
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dt0ClHaG6ongXTppm236KqHIwffJ",
+    "object": "chat.completion",
+    "created": 1719293248,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook a meal, then clean up the kitchen\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Cook a meal\",\n      \"start_timestamp\": 479,\n      \"stop_timestamp\": 19699,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare cooking ingredients and utensils\",\n          \"start_timestamp\": 479,\n          \"stop_timestamp\": 1128\n        },\n        {\n          \"secondary_subgoal\": \"Season the frying pan\",\n          \"start_timestamp\": 1128,\n          \"stop_timestamp\": 1482\n        },\n        {\n          \"secondary_subgoal\": \"Prepare garlic\",\n          \"start_timestamp\": 1833,\n          \"stop_timestamp\": 1933\n        },\n        {\n          \"secondary_subgoal\": \"Cook garlic\",\n          \"start_timestamp\": 3534,\n          \"stop_timestamp\": 3882\n        },\n        {\n          \"secondary_subgoal\": \"Add and prepare peppers\",\n          \"start_timestamp\": 4076,\n          \"stop_timestamp\": 4562\n        },\n        {\n          \"secondary_subgoal\": \"Add more oil and peanut\",\n          \"start_timestamp\": 7696,\n          \"stop_timestamp\": 10768\n        },\n        {\n          \"secondary_subgoal\": \"Stir fry ingredients\",\n          \"start_timestamp\": 11725,\n          \"stop_timestamp\": 12836\n        },\n        {\n          \"secondary_subgoal\": \"Finalize cooking\",\n          \"start_timestamp\": 14960,\n          \"stop_timestamp\": 19699\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare beverage\",\n      \"start_timestamp\": 13714,\n      \"stop_timestamp\": 14849,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pour and prepare beverage\",\n          \"start_timestamp\": 13714,\n          \"stop_timestamp\": 14849\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Consume beverage\",\n      \"start_timestamp\": 14849,\n      \"stop_timestamp\": 15054,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Drink a prepared beverage\",\n          \"start_timestamp\": 14849,\n          \"stop_timestamp\": 15054\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean the kitchen and utensils\",\n      \"start_timestamp\": 23666,\n      \"stop_timestamp\": 73512,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean cooking utensils and kitchen surfaces\",\n          \"start_timestamp\": 23666,\n          \"stop_timestamp\": 51892\n        },\n        {\n          \"secondary_subgoal\": \"Wash glasses and straws\",\n          \"start_timestamp\": 51909,\n          \"stop_timestamp\": 63276\n        },\n        {\n          \"secondary_subgoal\": \"Wash dishes\",\n          \"start_timestamp\": 63306,\n          \"stop_timestamp\": 67429\n        },\n        {\n          \"secondary_subgoal\": \"Clean kitchen surfaces\",\n          \"start_timestamp\": 67946,\n          \"stop_timestamp\": 73159\n        },\n        {\n          \"secondary_subgoal\": \"Clean countertops\",\n          \"start_timestamp\": 73517,\n          \"stop_timestamp\": 73512\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 13627,
+        "completion_tokens": 697,
+        "total_tokens": 14324
+    },
+    "system_fingerprint": "fp_5e6c71d4a8"
+}

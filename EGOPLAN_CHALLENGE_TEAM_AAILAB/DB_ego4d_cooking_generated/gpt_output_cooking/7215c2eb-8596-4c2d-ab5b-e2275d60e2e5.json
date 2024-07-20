@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efzq6xyYLTGOx8Vxtk782iiipCfQ",
+    "object": "chat.completion",
+    "created": 1719481582,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and distribute food on leaves using a cooking pot and stirring spoon\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Move and manipulate the cooking pot and retrieve the stirring spoon\",\n      \"start_timestamp\": 14,\n      \"stop_timestamp\": 66,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Move the cooking pot on the ground\",\n          \"start_timestamp\": 14,\n          \"stop_timestamp\": 47\n        },\n        {\n          \"secondary_subgoal\": \"Pick the stirring spoon\",\n          \"start_timestamp\": 47,\n          \"stop_timestamp\": 66\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Scooping, pouring, and spreading food from the cooking pot onto leaves\",\n      \"start_timestamp\": 66,\n      \"stop_timestamp\": 8578,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Scoop and pour food on a leaf\",\n          \"start_timestamp\": 66,\n          \"stop_timestamp\": 3272\n        },\n        {\n          \"secondary_subgoal\": \"Spread food on the leaf with the stirring spoon\",\n          \"start_timestamp\": 3272,\n          \"stop_timestamp\": 8578\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Additional food manipulation and handling of leaves\",\n      \"start_timestamp\": 8578,\n      \"stop_timestamp\": 17086,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Move leaves and handle leaf activities\",\n          \"start_timestamp\": 8578,\n          \"stop_timestamp\": 9350\n        },\n        {\n          \"secondary_subgoal\": \"Stir and scoop content from the pot with a spoon\",\n          \"start_timestamp\": 9350,\n          \"stop_timestamp\": 16499\n        },\n        {\n          \"secondary_subgoal\": \"Handle and distribute food onto leaves\",\n          \"start_timestamp\": 16499,\n          \"stop_timestamp\": 17086\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final adjustments and food collection\",\n      \"start_timestamp\": 17086,\n      \"stop_timestamp\": 18103,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Collect and distribute food from the cooking pot\",\n          \"start_timestamp\": 17086,\n          \"stop_timestamp\": 17755\n        },\n        {\n          \"secondary_subgoal\": \"Place ladle on food and finish collection\",\n          \"start_timestamp\": 17755,\n          \"stop_timestamp\": 18103\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3865,
+        "completion_tokens": 551,
+        "total_tokens": 4416
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

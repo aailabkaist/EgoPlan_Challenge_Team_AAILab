@@ -1,0 +1,171 @@
+{
+    "overall_goal": "Prepare and serve food and fruit while maintaining cleanliness in the kitchen",
+    "clips": [
+        {
+            "subgoal": "Clean the chopping board and hands",
+            "start_timestamp": 0,
+            "stop_timestamp": 273,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash the chopping board",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 107
+                },
+                {
+                    "secondary_subgoal": "Put away the chopping board and dry hands",
+                    "start_timestamp": 107,
+                    "stop_timestamp": 273
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean kitchen surfaces and tools",
+            "start_timestamp": 273,
+            "stop_timestamp": 901,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean kitchen surfaces with a towel",
+                    "start_timestamp": 273,
+                    "stop_timestamp": 485
+                },
+                {
+                    "secondary_subgoal": "Clean sink with liquid soap",
+                    "start_timestamp": 485,
+                    "stop_timestamp": 848
+                },
+                {
+                    "secondary_subgoal": "Wash and dry hands",
+                    "start_timestamp": 848,
+                    "stop_timestamp": 901
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare food for consumption",
+            "start_timestamp": 901,
+            "stop_timestamp": 2479,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Drink water and handle kitchen tools",
+                    "start_timestamp": 901,
+                    "stop_timestamp": 1133
+                },
+                {
+                    "secondary_subgoal": "Prepare food using the frying pan",
+                    "start_timestamp": 1133,
+                    "stop_timestamp": 1670
+                },
+                {
+                    "secondary_subgoal": "Manage spices and ingredients",
+                    "start_timestamp": 1670,
+                    "stop_timestamp": 2202
+                },
+                {
+                    "secondary_subgoal": "Continue preparing food with the frying pan",
+                    "start_timestamp": 2202,
+                    "stop_timestamp": 2479
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve and consume the food",
+            "start_timestamp": 2479,
+            "stop_timestamp": 3304,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Serve the food in the bowl",
+                    "start_timestamp": 2479,
+                    "stop_timestamp": 2880
+                },
+                {
+                    "secondary_subgoal": "Eat the food",
+                    "start_timestamp": 2880,
+                    "stop_timestamp": 3045
+                },
+                {
+                    "secondary_subgoal": "Place used items on the counter top",
+                    "start_timestamp": 3045,
+                    "stop_timestamp": 3089
+                },
+                {
+                    "secondary_subgoal": "Fan self and drink water",
+                    "start_timestamp": 3089,
+                    "stop_timestamp": 3304
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean and store cookware",
+            "start_timestamp": 3304,
+            "stop_timestamp": 3718,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean and cover frying pan",
+                    "start_timestamp": 3304,
+                    "stop_timestamp": 3490
+                },
+                {
+                    "secondary_subgoal": "Fetch and set up for cutting fruit",
+                    "start_timestamp": 3490,
+                    "stop_timestamp": 3718
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and peel fruit",
+            "start_timestamp": 3718,
+            "stop_timestamp": 5601,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and cut fruit",
+                    "start_timestamp": 3718,
+                    "stop_timestamp": 4665
+                },
+                {
+                    "secondary_subgoal": "Peel and manage fruit pieces",
+                    "start_timestamp": 4665,
+                    "stop_timestamp": 5601
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean after preparing fruit",
+            "start_timestamp": 5601,
+            "stop_timestamp": 7044,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Manage fruit pieces and tools",
+                    "start_timestamp": 5601,
+                    "stop_timestamp": 6112
+                },
+                {
+                    "secondary_subgoal": "Clean and store items",
+                    "start_timestamp": 6112,
+                    "stop_timestamp": 6996
+                },
+                {
+                    "secondary_subgoal": "Dry hands",
+                    "start_timestamp": 6996,
+                    "stop_timestamp": 7044
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize kitchen and finalize tasks",
+            "start_timestamp": 7044,
+            "stop_timestamp": 7417,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Extend match box and fruit bowl",
+                    "start_timestamp": 7044,
+                    "stop_timestamp": 7242
+                },
+                {
+                    "secondary_subgoal": "Dry hands again and conclude tasks",
+                    "start_timestamp": 7242,
+                    "stop_timestamp": 7417
+                }
+            ]
+        }
+    ]
+}

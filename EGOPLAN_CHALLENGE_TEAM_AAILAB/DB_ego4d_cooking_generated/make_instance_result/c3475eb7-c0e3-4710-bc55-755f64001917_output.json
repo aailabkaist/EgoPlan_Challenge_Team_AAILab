@@ -1,0 +1,592 @@
+[
+    {
+        "task_goal": "Preparing to clean the kitchen utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C adjusts the camera",
+                "start_frame": 1,
+                "stop_frame": 64
+            },
+            {
+                "narration_text": "#C C picks up a lid",
+                "start_frame": 64,
+                "stop_frame": 88
+            },
+            {
+                "narration_text": "#C C carries the lid towards the electric stove",
+                "start_frame": 88,
+                "stop_frame": 153
+            },
+            {
+                "narration_text": "#C C covers the pan with the lid",
+                "start_frame": 153,
+                "stop_frame": 184
+            },
+            {
+                "narration_text": "#C C walks towards the sink",
+                "start_frame": 184,
+                "stop_frame": 227
+            },
+            {
+                "narration_text": "#C C turns on the kitchen faucet",
+                "start_frame": 227,
+                "stop_frame": 238
+            },
+            {
+                "narration_text": "#C C twists the kitchen faucet",
+                "start_frame": 238,
+                "stop_frame": 321
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjusting the camera",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C adjusts the camera",
+                "start_frame": 1,
+                "stop_frame": 64
+            },
+            {
+                "narration_text": "#C C picks up a lid",
+                "start_frame": 64,
+                "stop_frame": 88
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking up the lid and covering the pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C adjusts the camera",
+                "start_frame": 1,
+                "stop_frame": 64
+            },
+            {
+                "narration_text": "#C C picks up a lid",
+                "start_frame": 64,
+                "stop_frame": 88
+            },
+            {
+                "narration_text": "#C C carries the lid towards the electric stove",
+                "start_frame": 88,
+                "stop_frame": 153
+            },
+            {
+                "narration_text": "#C C covers the pan with the lid",
+                "start_frame": 153,
+                "stop_frame": 184
+            },
+            {
+                "narration_text": "#C C walks towards the sink",
+                "start_frame": 184,
+                "stop_frame": 227
+            },
+            {
+                "narration_text": "#C C turns on the kitchen faucet",
+                "start_frame": 227,
+                "stop_frame": 238
+            }
+        ]
+    },
+    {
+        "task_goal": "Turning on and walking towards the faucet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks towards the sink",
+                "start_frame": 184,
+                "stop_frame": 227
+            },
+            {
+                "narration_text": "#C C turns on the kitchen faucet",
+                "start_frame": 227,
+                "stop_frame": 238
+            },
+            {
+                "narration_text": "#C C twists the kitchen faucet",
+                "start_frame": 238,
+                "stop_frame": 321
+            }
+        ]
+    },
+    {
+        "task_goal": "Water getting ready",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns on the kitchen faucet",
+                "start_frame": 227,
+                "stop_frame": 238
+            },
+            {
+                "narration_text": "#C C twists the kitchen faucet",
+                "start_frame": 238,
+                "stop_frame": 321
+            },
+            {
+                "narration_text": "#C C picks the spoon and the chopsticks",
+                "start_frame": 321,
+                "stop_frame": 373
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting utensils into the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C twists the kitchen faucet",
+                "start_frame": 238,
+                "stop_frame": 321
+            },
+            {
+                "narration_text": "#C C picks the spoon and the chopsticks",
+                "start_frame": 321,
+                "stop_frame": 373
+            },
+            {
+                "narration_text": "#C C puts the spoon and the chopsticks in the sink",
+                "start_frame": 373,
+                "stop_frame": 390
+            },
+            {
+                "narration_text": "#C C picks up the sponge",
+                "start_frame": 390,
+                "stop_frame": 471
+            }
+        ]
+    },
+    {
+        "task_goal": "Preparing sponge with kitchen detergent",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the spoon and the chopsticks in the sink",
+                "start_frame": 373,
+                "stop_frame": 390
+            },
+            {
+                "narration_text": "#C C picks up the sponge",
+                "start_frame": 390,
+                "stop_frame": 471
+            },
+            {
+                "narration_text": "#C C picks up the kitchen detergent",
+                "start_frame": 471,
+                "stop_frame": 493
+            },
+            {
+                "narration_text": "#C C sprinkles the kitchen detergent on the sponge",
+                "start_frame": 493,
+                "stop_frame": 546
+            },
+            {
+                "narration_text": "#C C puts the kitchen detergent back",
+                "start_frame": 546,
+                "stop_frame": 577
+            },
+            {
+                "narration_text": "#C C picks up the bowl",
+                "start_frame": 577,
+                "stop_frame": 593
+            }
+        ]
+    },
+    {
+        "task_goal": "Pouring water from bowl and washing it",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the kitchen detergent back",
+                "start_frame": 546,
+                "stop_frame": 577
+            },
+            {
+                "narration_text": "#C C picks up the bowl",
+                "start_frame": 577,
+                "stop_frame": 593
+            },
+            {
+                "narration_text": "#C C pours the water from the bowl into the sink",
+                "start_frame": 593,
+                "stop_frame": 658
+            },
+            {
+                "narration_text": "#C C washes the bowl using the sponge",
+                "start_frame": 658,
+                "stop_frame": 807
+            },
+            {
+                "narration_text": "#C C puts the bowl on the sink",
+                "start_frame": 807,
+                "stop_frame": 831
+            },
+            {
+                "narration_text": "#C C picks up the chopsticks",
+                "start_frame": 831,
+                "stop_frame": 855
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing chopsticks and spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the bowl on the sink",
+                "start_frame": 807,
+                "stop_frame": 831
+            },
+            {
+                "narration_text": "#C C picks up the chopsticks",
+                "start_frame": 831,
+                "stop_frame": 855
+            },
+            {
+                "narration_text": "#C C washes the chopsticks",
+                "start_frame": 855,
+                "stop_frame": 873
+            },
+            {
+                "narration_text": "#C C puts the chopsticks on the bowl",
+                "start_frame": 873,
+                "stop_frame": 882
+            },
+            {
+                "narration_text": "#C C picks up the spoon",
+                "start_frame": 882,
+                "stop_frame": 893
+            },
+            {
+                "narration_text": "#C C washes the spoon using the sponge",
+                "start_frame": 893,
+                "stop_frame": 968
+            },
+            {
+                "narration_text": "#C C puts back the sponge",
+                "start_frame": 968,
+                "stop_frame": 988
+            },
+            {
+                "narration_text": "#C C rinses the spoon",
+                "start_frame": 988,
+                "stop_frame": 1083
+            },
+            {
+                "narration_text": "#C C puts the spoon on the utensils rack",
+                "start_frame": 1083,
+                "stop_frame": 1142
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinsing and placing the spoon on the utensil rack",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C rinses the spoon",
+                "start_frame": 988,
+                "stop_frame": 1083
+            },
+            {
+                "narration_text": "#C C puts the spoon on the utensils rack",
+                "start_frame": 1083,
+                "stop_frame": 1142
+            },
+            {
+                "narration_text": "#C C rinses the chopsticks",
+                "start_frame": 1142,
+                "stop_frame": 1217
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinsing and placing the chopsticks on the utensil rack",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the spoon on the utensils rack",
+                "start_frame": 1083,
+                "stop_frame": 1142
+            },
+            {
+                "narration_text": "#C C rinses the chopsticks",
+                "start_frame": 1142,
+                "stop_frame": 1217
+            },
+            {
+                "narration_text": "#C C puts the chopsticks on the utensils rack",
+                "start_frame": 1217,
+                "stop_frame": 1238
+            },
+            {
+                "narration_text": "#C C rinses the bowl",
+                "start_frame": 1238,
+                "stop_frame": 1402
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinsing and placing the bowl on the countertop",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the chopsticks on the utensils rack",
+                "start_frame": 1217,
+                "stop_frame": 1238
+            },
+            {
+                "narration_text": "#C C rinses the bowl",
+                "start_frame": 1238,
+                "stop_frame": 1402
+            },
+            {
+                "narration_text": "#C C puts the bowl on the countertop",
+                "start_frame": 1402,
+                "stop_frame": 1457
+            },
+            {
+                "narration_text": "#C C picks up the sponge",
+                "start_frame": 1457,
+                "stop_frame": 1514
+            }
+        ]
+    },
+    {
+        "task_goal": "Cleaning the sink and preparing for next round of cleaning",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the bowl on the countertop",
+                "start_frame": 1402,
+                "stop_frame": 1457
+            },
+            {
+                "narration_text": "#C C picks up the sponge",
+                "start_frame": 1457,
+                "stop_frame": 1514
+            },
+            {
+                "narration_text": "#C C cleans the sink using the sponge",
+                "start_frame": 1514,
+                "stop_frame": 2032
+            },
+            {
+                "narration_text": "#C C throws the sponge into the sponge rack",
+                "start_frame": 2032,
+                "stop_frame": 2056
+            },
+            {
+                "narration_text": "#C C picks up the kitchen towel",
+                "start_frame": 2056,
+                "stop_frame": 2070
+            },
+            {
+                "narration_text": "#C C turns off the kitchen faucet",
+                "start_frame": 2070,
+                "stop_frame": 2092
+            },
+            {
+                "narration_text": "#C C dries the sink using the kitchen towel",
+                "start_frame": 2092,
+                "stop_frame": 2379
+            },
+            {
+                "narration_text": "#C C turns the kitchen towel",
+                "start_frame": 2379,
+                "stop_frame": 2446
+            },
+            {
+                "narration_text": "#C C dries the sink using the kitchen towel",
+                "start_frame": 2446,
+                "stop_frame": 2562
+            },
+            {
+                "narration_text": "#C C puts the kitchen towel on the countertop",
+                "start_frame": 2562,
+                "stop_frame": 2600
+            },
+            {
+                "narration_text": "#C C picks up the kitchen detergent",
+                "start_frame": 2600,
+                "stop_frame": 2616
+            },
+            {
+                "narration_text": "#C C sprays the kitchen sink with the kitchen detergent",
+                "start_frame": 2616,
+                "stop_frame": 3108
+            },
+            {
+                "narration_text": "#C C puts back the kitchen detergent",
+                "start_frame": 3108,
+                "stop_frame": 3129
+            },
+            {
+                "narration_text": "#C C twists the kitchen faucet",
+                "start_frame": 3129,
+                "stop_frame": 3142
+            },
+            {
+                "narration_text": "#C C turns on the kitchen faucet",
+                "start_frame": 3142,
+                "stop_frame": 3164
+            },
+            {
+                "narration_text": "#C C turns off the kitchen faucet",
+                "start_frame": 3164,
+                "stop_frame": 3166
+            },
+            {
+                "narration_text": "#C C rinses off the hand",
+                "start_frame": 3166,
+                "stop_frame": 3215
+            },
+            {
+                "narration_text": "#C C wipes the hand off",
+                "start_frame": 3215,
+                "stop_frame": 3251
+            },
+            {
+                "narration_text": "#C C adjusts the camera",
+                "start_frame": 3251,
+                "stop_frame": 3351
+            }
+        ]
+    },
+    {
+        "task_goal": "Cleaning the sink using the sponge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the bowl on the countertop",
+                "start_frame": 1402,
+                "stop_frame": 1457
+            },
+            {
+                "narration_text": "#C C picks up the sponge",
+                "start_frame": 1457,
+                "stop_frame": 1514
+            },
+            {
+                "narration_text": "#C C cleans the sink using the sponge",
+                "start_frame": 1514,
+                "stop_frame": 2032
+            },
+            {
+                "narration_text": "#C C throws the sponge into the sponge rack",
+                "start_frame": 2032,
+                "stop_frame": 2056
+            },
+            {
+                "narration_text": "#C C picks up the kitchen towel",
+                "start_frame": 2056,
+                "stop_frame": 2070
+            },
+            {
+                "narration_text": "#C C turns off the kitchen faucet",
+                "start_frame": 2070,
+                "stop_frame": 2092
+            }
+        ]
+    },
+    {
+        "task_goal": "Drying the sink using the kitchen towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks up the kitchen towel",
+                "start_frame": 2056,
+                "stop_frame": 2070
+            },
+            {
+                "narration_text": "#C C turns off the kitchen faucet",
+                "start_frame": 2070,
+                "stop_frame": 2092
+            },
+            {
+                "narration_text": "#C C dries the sink using the kitchen towel",
+                "start_frame": 2092,
+                "stop_frame": 2379
+            },
+            {
+                "narration_text": "#C C turns the kitchen towel",
+                "start_frame": 2379,
+                "stop_frame": 2446
+            },
+            {
+                "narration_text": "#C C dries the sink using the kitchen towel",
+                "start_frame": 2446,
+                "stop_frame": 2562
+            },
+            {
+                "narration_text": "#C C puts the kitchen towel on the countertop",
+                "start_frame": 2562,
+                "stop_frame": 2600
+            },
+            {
+                "narration_text": "#C C picks up the kitchen detergent",
+                "start_frame": 2600,
+                "stop_frame": 2616
+            }
+        ]
+    },
+    {
+        "task_goal": "Spraying kitchen detergent and rinsing the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the kitchen towel on the countertop",
+                "start_frame": 2562,
+                "stop_frame": 2600
+            },
+            {
+                "narration_text": "#C C picks up the kitchen detergent",
+                "start_frame": 2600,
+                "stop_frame": 2616
+            },
+            {
+                "narration_text": "#C C sprays the kitchen sink with the kitchen detergent",
+                "start_frame": 2616,
+                "stop_frame": 3108
+            },
+            {
+                "narration_text": "#C C puts back the kitchen detergent",
+                "start_frame": 3108,
+                "stop_frame": 3129
+            },
+            {
+                "narration_text": "#C C twists the kitchen faucet",
+                "start_frame": 3129,
+                "stop_frame": 3142
+            },
+            {
+                "narration_text": "#C C turns on the kitchen faucet",
+                "start_frame": 3142,
+                "stop_frame": 3164
+            },
+            {
+                "narration_text": "#C C turns off the kitchen faucet",
+                "start_frame": 3164,
+                "stop_frame": 3166
+            },
+            {
+                "narration_text": "#C C rinses off the hand",
+                "start_frame": 3166,
+                "stop_frame": 3215
+            },
+            {
+                "narration_text": "#C C wipes the hand off",
+                "start_frame": 3215,
+                "stop_frame": 3251
+            },
+            {
+                "narration_text": "#C C adjusts the camera",
+                "start_frame": 3251,
+                "stop_frame": 3351
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjusting camera (final)",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C wipes the hand off",
+                "start_frame": 3215,
+                "stop_frame": 3251
+            },
+            {
+                "narration_text": "#C C adjusts the camera",
+                "start_frame": 3251,
+                "stop_frame": 3351
+            }
+        ]
+    }
+]

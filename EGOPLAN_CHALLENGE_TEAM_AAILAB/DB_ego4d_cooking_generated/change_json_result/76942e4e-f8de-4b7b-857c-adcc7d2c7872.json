@@ -1,0 +1,132 @@
+{
+    "overall_goal": "Chop various food items and place them into appropriate containers or cooking pot.",
+    "clips": [
+        {
+            "subgoal": "Chop and place chopped items into a bowl",
+            "start_timestamp": 93,
+            "stop_timestamp": 4850,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and chop with knife",
+                    "start_timestamp": 338,
+                    "stop_timestamp": 1221
+                },
+                {
+                    "secondary_subgoal": "Adjust chopping stand",
+                    "start_timestamp": 1221,
+                    "stop_timestamp": 1322
+                },
+                {
+                    "secondary_subgoal": "Chop and remove pieces",
+                    "start_timestamp": 1322,
+                    "stop_timestamp": 2251
+                },
+                {
+                    "secondary_subgoal": "Remove chopped items from knife",
+                    "start_timestamp": 2251,
+                    "stop_timestamp": 2309
+                },
+                {
+                    "secondary_subgoal": "Put chopped items into a bowl",
+                    "start_timestamp": 4032,
+                    "stop_timestamp": 4680
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and chop items continuously",
+            "start_timestamp": 4881,
+            "stop_timestamp": 13581,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Chop items on chopping board",
+                    "start_timestamp": 4881,
+                    "stop_timestamp": 6404
+                },
+                {
+                    "secondary_subgoal": "Adjust and align items",
+                    "start_timestamp": 5423,
+                    "stop_timestamp": 6404
+                },
+                {
+                    "secondary_subgoal": "Scoop and place items into a bowl",
+                    "start_timestamp": 3278,
+                    "stop_timestamp": 6404
+                }
+            ]
+        },
+        {
+            "subgoal": "Chop cassava and place into cooking pot",
+            "start_timestamp": 6639,
+            "stop_timestamp": 12800,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Chop cassava pieces",
+                    "start_timestamp": 7429,
+                    "stop_timestamp": 11262
+                },
+                {
+                    "secondary_subgoal": "Put cassava pieces into pot",
+                    "start_timestamp": 11262,
+                    "stop_timestamp": 21842
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut and arrange banana stem pieces",
+            "start_timestamp": 25293,
+            "stop_timestamp": 32034,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut banana stem",
+                    "start_timestamp": 25293,
+                    "stop_timestamp": 32490
+                },
+                {
+                    "secondary_subgoal": "Remove banana stem from knife",
+                    "start_timestamp": 28782,
+                    "stop_timestamp": 30760
+                },
+                {
+                    "secondary_subgoal": "Put banana stem pieces in pot",
+                    "start_timestamp": 25890,
+                    "stop_timestamp": 31266
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare additional items and put into cooking pot",
+            "start_timestamp": 33314,
+            "stop_timestamp": 33692,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel and clean item",
+                    "start_timestamp": 33106,
+                    "stop_timestamp": 33234
+                },
+                {
+                    "secondary_subgoal": "Chop and arrange items",
+                    "start_timestamp": 33498,
+                    "stop_timestamp": 33692
+                }
+            ]
+        },
+        {
+            "subgoal": "Chop and arrange additional unspecific items",
+            "start_timestamp": 37065,
+            "stop_timestamp": 48876,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut unspecific items and arrange",
+                    "start_timestamp": 37374,
+                    "stop_timestamp": 48604
+                },
+                {
+                    "secondary_subgoal": "Move items on chopping board",
+                    "start_timestamp": 39577,
+                    "stop_timestamp": 48756
+                }
+            ]
+        }
+    ]
+}

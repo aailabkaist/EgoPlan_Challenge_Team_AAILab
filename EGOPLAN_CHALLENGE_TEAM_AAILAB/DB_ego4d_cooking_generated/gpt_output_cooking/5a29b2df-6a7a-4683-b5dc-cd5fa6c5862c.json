@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efePxluhmPmtZ67Roi5rW4HkmqKd",
+    "object": "chat.completion",
+    "created": 1719480253,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Peel and collect garlic and onion in bowls.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Remove the outer cover of garlic and place the peeled garlic in a dish.\",\n      \"start_timestamp\": 13,\n      \"stop_timestamp\": 1756,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Remove the outer cover of the garlic and put it in the dish.\",\n          \"start_timestamp\": 13,\n          \"stop_timestamp\": 1866\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Peel garlic and place it into a bowl.\",\n      \"start_timestamp\": 8641,\n      \"stop_timestamp\": 74383,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Peel garlic and place it in a bowl.\",\n          \"start_timestamp\": 8641,\n          \"stop_timestamp\": 33252\n        },\n        {\n          \"secondary_subgoal\": \"Pick garlic from the cooking pot, peel it, and drop it into a bowl.\",\n          \"start_timestamp\": 33280,\n          \"stop_timestamp\": 47975\n        },\n        {\n          \"secondary_subgoal\": \"Peel garlic with hands and put it in a bowl.\",\n          \"start_timestamp\": 48914,\n          \"stop_timestamp\": 63230\n        },\n        {\n          \"secondary_subgoal\": \"Peel garlic into a container and drop the garlic in.\",\n          \"start_timestamp\": 65329,\n          \"stop_timestamp\": 72027\n        },\n        {\n          \"secondary_subgoal\": \"Sort through husks and find garlic clove, then peel and drop it into a container.\",\n          \"start_timestamp\": 73282,\n          \"stop_timestamp\": 74383\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6608,
+        "completion_tokens": 384,
+        "total_tokens": 6992
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

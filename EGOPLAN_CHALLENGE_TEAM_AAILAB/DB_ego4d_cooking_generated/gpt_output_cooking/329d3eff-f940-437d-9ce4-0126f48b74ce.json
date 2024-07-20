@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeGoiRfmXSYtaQYZ2I1QyHc9BPRo",
+    "object": "chat.completion",
+    "created": 1719474946,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal and clean the kitchen afterward.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparation of ingredients and setting up the cooking environment.\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 1387,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gathering equipment and initial setup activities in the kitchen.\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 845\n        },\n        {\n          \"secondary_subgoal\": \"Preparing items for cooking.\",\n          \"start_timestamp\": 845,\n          \"stop_timestamp\": 1387\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking and combining ingredients.\",\n      \"start_timestamp\": 1387,\n      \"stop_timestamp\": 9579,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Setting up and washing items for cooking.\",\n          \"start_timestamp\": 1387,\n          \"stop_timestamp\": 1940\n        },\n        {\n          \"secondary_subgoal\": \"Chopping and processing ingredients.\",\n          \"start_timestamp\": 1940,\n          \"stop_timestamp\": 3072\n        },\n        {\n          \"secondary_subgoal\": \"Mixing and combining ingredients in the cooking pot.\",\n          \"start_timestamp\": 3072,\n          \"stop_timestamp\": 4432\n        },\n        {\n          \"secondary_subgoal\": \"Adding additional ingredients and preparing for cooking process.\",\n          \"start_timestamp\": 4432,\n          \"stop_timestamp\": 5913\n        },\n        {\n          \"secondary_subgoal\": \"Continuing to chop, mix, and prepare ingredients.\",\n          \"start_timestamp\": 5913,\n          \"stop_timestamp\": 9579\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning and arranging the kitchen.\",\n      \"start_timestamp\": 9579,\n      \"stop_timestamp\": 21338,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cleaning utensils and kitchen items used during cooking.\",\n          \"start_timestamp\": 9579,\n          \"stop_timestamp\": 17234\n        },\n        {\n          \"secondary_subgoal\": \"Storing cooked food items and completing the cleaning process.\",\n          \"start_timestamp\": 17234,\n          \"stop_timestamp\": 21338\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4766,
+        "completion_tokens": 497,
+        "total_tokens": 5263
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

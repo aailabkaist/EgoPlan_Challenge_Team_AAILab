@@ -1,0 +1,787 @@
+[
+    {
+        "task_goal": "Getting ingredients from the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a camera",
+                "start_frame": 1,
+                "stop_frame": 62
+            },
+            {
+                "narration_text": "Pushes a drawer",
+                "start_frame": 62,
+                "stop_frame": 75
+            },
+            {
+                "narration_text": "Walks to the fridge",
+                "start_frame": 75,
+                "stop_frame": 135
+            },
+            {
+                "narration_text": "Opens a fridge",
+                "start_frame": 135,
+                "stop_frame": 216
+            },
+            {
+                "narration_text": "Picks an egg",
+                "start_frame": 216,
+                "stop_frame": 242
+            },
+            {
+                "narration_text": "Picks another egg",
+                "start_frame": 242,
+                "stop_frame": 335
+            },
+            {
+                "narration_text": "Pulls a fridge drawer",
+                "start_frame": 335,
+                "stop_frame": 368
+            },
+            {
+                "narration_text": "Picks a wrapped deli meat",
+                "start_frame": 368,
+                "stop_frame": 435
+            },
+            {
+                "narration_text": "Pushes a drawer",
+                "start_frame": 435,
+                "stop_frame": 507
+            },
+            {
+                "narration_text": "Closes a fridge",
+                "start_frame": 507,
+                "stop_frame": 535
+            },
+            {
+                "narration_text": "Puts deli meat on a countertop",
+                "start_frame": 535,
+                "stop_frame": 567
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pushes a drawer",
+                "start_frame": 62,
+                "stop_frame": 75
+            },
+            {
+                "narration_text": "Walks to the fridge",
+                "start_frame": 75,
+                "stop_frame": 135
+            },
+            {
+                "narration_text": "Opens a fridge",
+                "start_frame": 135,
+                "stop_frame": 216
+            },
+            {
+                "narration_text": "Picks an egg",
+                "start_frame": 216,
+                "stop_frame": 242
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens a fridge",
+                "start_frame": 135,
+                "stop_frame": 216
+            },
+            {
+                "narration_text": "Picks an egg",
+                "start_frame": 216,
+                "stop_frame": 242
+            },
+            {
+                "narration_text": "Picks another egg",
+                "start_frame": 242,
+                "stop_frame": 335
+            },
+            {
+                "narration_text": "Pulls a fridge drawer",
+                "start_frame": 335,
+                "stop_frame": 368
+            },
+            {
+                "narration_text": "Picks a wrapped deli meat",
+                "start_frame": 368,
+                "stop_frame": 435
+            },
+            {
+                "narration_text": "Pushes a drawer",
+                "start_frame": 435,
+                "stop_frame": 507
+            }
+        ]
+    },
+    {
+        "task_goal": "Closing the fridge and placing ingredients on the countertop",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pushes a drawer",
+                "start_frame": 435,
+                "stop_frame": 507
+            },
+            {
+                "narration_text": "Closes a fridge",
+                "start_frame": 507,
+                "stop_frame": 535
+            },
+            {
+                "narration_text": "Puts deli meat on a countertop",
+                "start_frame": 535,
+                "stop_frame": 567
+            }
+        ]
+    },
+    {
+        "task_goal": "Unwrapping deli meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places eggs on a countertop",
+                "start_frame": 567,
+                "stop_frame": 657
+            },
+            {
+                "narration_text": "Unwraps deli meat",
+                "start_frame": 657,
+                "stop_frame": 775
+            },
+            {
+                "narration_text": "Moves a camera",
+                "start_frame": 775,
+                "stop_frame": 966
+            }
+        ]
+    },
+    {
+        "task_goal": "Positioning camera and handling deli meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Unwraps deli meat",
+                "start_frame": 657,
+                "stop_frame": 775
+            },
+            {
+                "narration_text": "Moves a camera",
+                "start_frame": 775,
+                "stop_frame": 966
+            },
+            {
+                "narration_text": "Picks a deli meat",
+                "start_frame": 966,
+                "stop_frame": 992
+            }
+        ]
+    },
+    {
+        "task_goal": "Cutting deli meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places deli meat on a plate",
+                "start_frame": 1024,
+                "stop_frame": 1050
+            },
+            {
+                "narration_text": "Turns a plate",
+                "start_frame": 1050,
+                "stop_frame": 1080
+            },
+            {
+                "narration_text": "Cuts deli meat",
+                "start_frame": 1080,
+                "stop_frame": 1227
+            },
+            {
+                "narration_text": "Turns a plate",
+                "start_frame": 1227,
+                "stop_frame": 1275
+            },
+            {
+                "narration_text": "Cuts deli meat",
+                "start_frame": 1275,
+                "stop_frame": 1523
+            },
+            {
+                "narration_text": "Picks deli meat pieces",
+                "start_frame": 1523,
+                "stop_frame": 1563
+            },
+            {
+                "narration_text": "Places deli meat pieces on a plate",
+                "start_frame": 1563,
+                "stop_frame": 1592
+            },
+            {
+                "narration_text": "Picks deli meat pieces",
+                "start_frame": 1592,
+                "stop_frame": 1630
+            },
+            {
+                "narration_text": "Places deli meat pieces on a plate",
+                "start_frame": 1630,
+                "stop_frame": 1675
+            },
+            {
+                "narration_text": "Picks a deli meat",
+                "start_frame": 1675,
+                "stop_frame": 1733
+            },
+            {
+                "narration_text": "Places deli meat pieces on a plate",
+                "start_frame": 1733,
+                "stop_frame": 1779
+            },
+            {
+                "narration_text": "Cuts deli meat",
+                "start_frame": 1779,
+                "stop_frame": 1867
+            },
+            {
+                "narration_text": "Moves a camera",
+                "start_frame": 1867,
+                "stop_frame": 1978
+            }
+        ]
+    },
+    {
+        "task_goal": "Turning plate and cutting more deli meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cuts deli meat",
+                "start_frame": 1779,
+                "stop_frame": 1867
+            },
+            {
+                "narration_text": "Moves a camera",
+                "start_frame": 1867,
+                "stop_frame": 1978
+            },
+            {
+                "narration_text": "Turns a plate",
+                "start_frame": 1978,
+                "stop_frame": 2014
+            },
+            {
+                "narration_text": "Cuts deli meat",
+                "start_frame": 2014,
+                "stop_frame": 2214
+            },
+            {
+                "narration_text": "Picks a paper",
+                "start_frame": 2214,
+                "stop_frame": 2232
+            },
+            {
+                "narration_text": "Places a knife on a countertop",
+                "start_frame": 2232,
+                "stop_frame": 2244
+            }
+        ]
+    },
+    {
+        "task_goal": "Cooking and breaking eggs into pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts pieces of deli meat in a pan",
+                "start_frame": 5214,
+                "stop_frame": 5355
+            },
+            {
+                "narration_text": "Picks an egg",
+                "start_frame": 5355,
+                "stop_frame": 5409
+            },
+            {
+                "narration_text": "Breaks an egg",
+                "start_frame": 5409,
+                "stop_frame": 5506
+            },
+            {
+                "narration_text": "Pours egg in a pan",
+                "start_frame": 5506,
+                "stop_frame": 5630
+            },
+            {
+                "narration_text": "Puts egg shells in a sink",
+                "start_frame": 5630,
+                "stop_frame": 5640
+            },
+            {
+                "narration_text": "Picks an egg",
+                "start_frame": 5640,
+                "stop_frame": 5684
+            },
+            {
+                "narration_text": "Breaks an egg",
+                "start_frame": 5684,
+                "stop_frame": 5717
+            },
+            {
+                "narration_text": "Pours egg in a pan",
+                "start_frame": 5717,
+                "stop_frame": 5875
+            },
+            {
+                "narration_text": "Flicks egg shells",
+                "start_frame": 5875,
+                "stop_frame": 5983
+            },
+            {
+                "narration_text": "Puts egg shells in a sink",
+                "start_frame": 5983,
+                "stop_frame": 6026
+            },
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 6026,
+                "stop_frame": 6048
+            }
+        ]
+    },
+    {
+        "task_goal": "Sprinkling water and covering with lid",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks egg shells",
+                "start_frame": 6769,
+                "stop_frame": 6828
+            },
+            {
+                "narration_text": "Puts water in an egg shell",
+                "start_frame": 6828,
+                "stop_frame": 6904
+            },
+            {
+                "narration_text": "Sprinkles water in a pan",
+                "start_frame": 6904,
+                "stop_frame": 7115
+            },
+            {
+                "narration_text": "Picks a lid",
+                "start_frame": 7115,
+                "stop_frame": 7146
+            },
+            {
+                "narration_text": "Covers a pan with a lid",
+                "start_frame": 7146,
+                "stop_frame": 7245
+            },
+            {
+                "narration_text": "Picks an egg shell",
+                "start_frame": 7245,
+                "stop_frame": 7329
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling egg shells and cleaning hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks an egg shell",
+                "start_frame": 7245,
+                "stop_frame": 7329
+            },
+            {
+                "narration_text": "Throws egg shells in a bin",
+                "start_frame": 7329,
+                "stop_frame": 7373
+            },
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 7373,
+                "stop_frame": 7400
+            },
+            {
+                "narration_text": "Washes his hands",
+                "start_frame": 7400,
+                "stop_frame": 7419
+            },
+            {
+                "narration_text": "Closes a tap",
+                "start_frame": 7419,
+                "stop_frame": 7429
+            },
+            {
+                "narration_text": "Flicks his hands",
+                "start_frame": 7429,
+                "stop_frame": 7455
+            },
+            {
+                "narration_text": "Dries his hands with a kitchen cloth",
+                "start_frame": 7455,
+                "stop_frame": 7504
+            },
+            {
+                "narration_text": "Opens an oven",
+                "start_frame": 7504,
+                "stop_frame": 7561
+            }
+        ]
+    },
+    {
+        "task_goal": "Uncovering pan and using chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Uncovers a cooking pan",
+                "start_frame": 9787,
+                "stop_frame": 9874
+            },
+            {
+                "narration_text": "Shakes a lid of a cooking pan",
+                "start_frame": 9874,
+                "stop_frame": 9915
+            },
+            {
+                "narration_text": "Places a lid on a sink",
+                "start_frame": 9915,
+                "stop_frame": 9989
+            },
+            {
+                "narration_text": "Picks chopsticks",
+                "start_frame": 9989,
+                "stop_frame": 10041
+            },
+            {
+                "narration_text": "Holds chopsticks with his left hand",
+                "start_frame": 10041,
+                "stop_frame": 10085
+            },
+            {
+                "narration_text": "Holds chopsticks with his right hand",
+                "start_frame": 10085,
+                "stop_frame": 10134
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling pan, eggs, and shutting off cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves a camera",
+                "start_frame": 10416,
+                "stop_frame": 10493
+            },
+            {
+                "narration_text": "Lifts a pan",
+                "start_frame": 10493,
+                "stop_frame": 10540
+            },
+            {
+                "narration_text": "Detaches an egg from a pan",
+                "start_frame": 10540,
+                "stop_frame": 10680
+            },
+            {
+                "narration_text": "Puts an egg in a pan",
+                "start_frame": 10680,
+                "stop_frame": 10821
+            },
+            {
+                "narration_text": "Puts off an electric cooker",
+                "start_frame": 10821,
+                "stop_frame": 10898
+            },
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 10898,
+                "stop_frame": 10913
+            }
+        ]
+    },
+    {
+        "task_goal": "Cleaning frying pan and hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 10898,
+                "stop_frame": 10913
+            },
+            {
+                "narration_text": "Puts water in a cooking pan",
+                "start_frame": 10913,
+                "stop_frame": 10943
+            },
+            {
+                "narration_text": "Rinses a frying pan",
+                "start_frame": 10943,
+                "stop_frame": 10968
+            },
+            {
+                "narration_text": "Closes a tap",
+                "start_frame": 10968,
+                "stop_frame": 11009
+            },
+            {
+                "narration_text": "Places a frying pan in a sink",
+                "start_frame": 11009,
+                "stop_frame": 11040
+            },
+            {
+                "narration_text": "Places chopsticks on a plate",
+                "start_frame": 11040,
+                "stop_frame": 11070
+            }
+        ]
+    },
+    {
+        "task_goal": "Cleaning hands and handling bread and banana",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 13597,
+                "stop_frame": 13620
+            },
+            {
+                "narration_text": "Washes his hands",
+                "start_frame": 13620,
+                "stop_frame": 13698
+            },
+            {
+                "narration_text": "Pushes a tap pipe",
+                "start_frame": 13698,
+                "stop_frame": 13709
+            },
+            {
+                "narration_text": "Rinses his hands",
+                "start_frame": 13709,
+                "stop_frame": 13734
+            },
+            {
+                "narration_text": "Closes a tap",
+                "start_frame": 13734,
+                "stop_frame": 13753
+            },
+            {
+                "narration_text": "Flicks his hands",
+                "start_frame": 13753,
+                "stop_frame": 13777
+            },
+            {
+                "narration_text": "Touches a kitchen cloth",
+                "start_frame": 13777,
+                "stop_frame": 13820
+            },
+            {
+                "narration_text": "Wipes his hands",
+                "start_frame": 13820,
+                "stop_frame": 13960
+            },
+            {
+                "narration_text": "Picks bananas",
+                "start_frame": 13960,
+                "stop_frame": 14147
+            },
+            {
+                "narration_text": "Cuts a banana",
+                "start_frame": 14147,
+                "stop_frame": 14299
+            },
+            {
+                "narration_text": "Places a banana on a countertop",
+                "start_frame": 14299,
+                "stop_frame": 14348
+            },
+            {
+                "narration_text": "Hags bananas on a countertop",
+                "start_frame": 14348,
+                "stop_frame": 14598
+            },
+            {
+                "narration_text": "Picks a bread knife",
+                "start_frame": 14598,
+                "stop_frame": 14683
+            }
+        ]
+    },
+    {
+        "task_goal": "Spreading more butter on bread",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Spreads butter on a bread",
+                "start_frame": 15013,
+                "stop_frame": 15661
+            },
+            {
+                "narration_text": "Places bread on a plate",
+                "start_frame": 15661,
+                "stop_frame": 15691
+            },
+            {
+                "narration_text": "Picks a bread",
+                "start_frame": 15691,
+                "stop_frame": 15725
+            },
+            {
+                "narration_text": "Spreads butter on a bread",
+                "start_frame": 15725,
+                "stop_frame": 16896
+            },
+            {
+                "narration_text": "Moves bread",
+                "start_frame": 16896,
+                "stop_frame": 16930
+            },
+            {
+                "narration_text": "Puts bread on plate",
+                "start_frame": 16930,
+                "stop_frame": 17001
+            },
+            {
+                "narration_text": "Moves knife",
+                "start_frame": 17001,
+                "stop_frame": 17087
+            }
+        ]
+    },
+    {
+        "task_goal": "Cleaning hands and handling knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts knife down",
+                "start_frame": 17087,
+                "stop_frame": 17167
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 17167,
+                "stop_frame": 17187
+            },
+            {
+                "narration_text": "Washes hands",
+                "start_frame": 17187,
+                "stop_frame": 17220
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting container in fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 17830,
+                "stop_frame": 17948
+            },
+            {
+                "narration_text": "Puts food container in fridge",
+                "start_frame": 17948,
+                "stop_frame": 18085
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 18085,
+                "stop_frame": 18164
+            },
+            {
+                "narration_text": "Moves banana",
+                "start_frame": 18164,
+                "stop_frame": 18235
+            }
+        ]
+    },
+    {
+        "task_goal": "Filling, microwaving water, and tossing trash",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks cup",
+                "start_frame": 18262,
+                "stop_frame": 18337
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 18337,
+                "stop_frame": 18344
+            },
+            {
+                "narration_text": "Puts water in cup",
+                "start_frame": 18344,
+                "stop_frame": 18517
+            },
+            {
+                "narration_text": "Opens microwave",
+                "start_frame": 18517,
+                "stop_frame": 18550
+            },
+            {
+                "narration_text": "Puts cup of water in microwave",
+                "start_frame": 18550,
+                "stop_frame": 18600
+            },
+            {
+                "narration_text": "Closes microwave",
+                "start_frame": 18600,
+                "stop_frame": 18625
+            },
+            {
+                "narration_text": "Operates microwave",
+                "start_frame": 18625,
+                "stop_frame": 18720
+            },
+            {
+                "narration_text": "Folds unsure",
+                "start_frame": 18720,
+                "stop_frame": 18762
+            },
+            {
+                "narration_text": "Puts unsure in dustbin",
+                "start_frame": 18762,
+                "stop_frame": 18835
+            },
+            {
+                "narration_text": "Picks cleaning towel",
+                "start_frame": 18835,
+                "stop_frame": 18871
+            },
+            {
+                "narration_text": "Cleans kitchen sink",
+                "start_frame": 18871,
+                "stop_frame": 18962
+            }
+        ]
+    },
+    {
+        "task_goal": "Cleaning kitchen sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks cleaning towel",
+                "start_frame": 18835,
+                "stop_frame": 18871
+            },
+            {
+                "narration_text": "Cleans kitchen sink",
+                "start_frame": 18871,
+                "stop_frame": 18962
+            },
+            {
+                "narration_text": "Puts cleaning towel down",
+                "start_frame": 18962,
+                "stop_frame": 18980
+            },
+            {
+                "narration_text": "Moves plate",
+                "start_frame": 18980,
+                "stop_frame": 19007
+            },
+            {
+                "narration_text": "Cleans kitchen sink",
+                "start_frame": 19007,
+                "stop_frame": 19121
+            },
+            {
+                "narration_text": "Straightens it",
+                "start_frame": 19121,
+                "stop_frame": 19167
+            },
+            {
+                "narration_text": "Puts it down",
+                "start_frame": 19167,
+                "stop_frame": 19215
+            }
+        ]
+    }
+]

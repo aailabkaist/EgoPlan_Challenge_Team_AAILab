@@ -1,0 +1,165 @@
+{
+    "overall_goal": "Preparing a meal in the kitchen",
+    "clips": [
+        {
+            "subgoal": "Getting ready and gathering items",
+            "start_timestamp": 27,
+            "stop_timestamp": 104,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking a packet from a shelf",
+                    "start_timestamp": 27,
+                    "stop_timestamp": 71
+                },
+                {
+                    "secondary_subgoal": "Walking in the room",
+                    "start_timestamp": 71,
+                    "stop_timestamp": 104
+                }
+            ]
+        },
+        {
+            "subgoal": "Using the phone and walking in the house",
+            "start_timestamp": 146,
+            "stop_timestamp": 367,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking and using the phone",
+                    "start_timestamp": 146,
+                    "stop_timestamp": 1128
+                },
+                {
+                    "secondary_subgoal": "Walking in the house",
+                    "start_timestamp": 1128,
+                    "stop_timestamp": 1214
+                }
+            ]
+        },
+        {
+            "subgoal": "Accessing and searching fridge",
+            "start_timestamp": 1214,
+            "stop_timestamp": 1709,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening and searching the fridge",
+                    "start_timestamp": 1214,
+                    "stop_timestamp": 1792
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling papers and packets",
+            "start_timestamp": 1165,
+            "stop_timestamp": 1502,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Touching a paper and packets",
+                    "start_timestamp": 1165,
+                    "stop_timestamp": 1709
+                }
+            ]
+        },
+        {
+            "subgoal": "Using the phone again",
+            "start_timestamp": 1792,
+            "stop_timestamp": 2110,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Using phone",
+                    "start_timestamp": 1792,
+                    "stop_timestamp": 2089
+                },
+                {
+                    "secondary_subgoal": "Walking in the house",
+                    "start_timestamp": 2089,
+                    "stop_timestamp": 2110
+                }
+            ]
+        },
+        {
+            "subgoal": "Accessing various kitchen storage",
+            "start_timestamp": 2303,
+            "stop_timestamp": 2765,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pulling utensils and other items",
+                    "start_timestamp": 2613,
+                    "stop_timestamp": 2750
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing kitchen space",
+            "start_timestamp": 2885,
+            "stop_timestamp": 4640,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Putting plates on table and around kitchen",
+                    "start_timestamp": 3367,
+                    "stop_timestamp": 3584
+                },
+                {
+                    "secondary_subgoal": "Pulling and pouring ingredients",
+                    "start_timestamp": 3584,
+                    "stop_timestamp": 3789
+                },
+                {
+                    "secondary_subgoal": "Using utensils/containers",
+                    "start_timestamp": 3789,
+                    "stop_timestamp": 4592
+                }
+            ]
+        },
+        {
+            "subgoal": "Looking around and final preparations",
+            "start_timestamp": 4761,
+            "stop_timestamp": 9526,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking and placing items on table",
+                    "start_timestamp": 6162,
+                    "stop_timestamp": 8058
+                },
+                {
+                    "secondary_subgoal": "Handling cutlery",
+                    "start_timestamp": 7994,
+                    "stop_timestamp": 8832
+                },
+                {
+                    "secondary_subgoal": "Additional preparations",
+                    "start_timestamp": 9164,
+                    "stop_timestamp": 9526
+                }
+            ]
+        },
+        {
+            "subgoal": "Chopping and food preparation",
+            "start_timestamp": 11541,
+            "stop_timestamp": 11336,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walking, chopping vegetables, arranging",
+                    "start_timestamp": 11541,
+                    "stop_timestamp": 11930
+                }
+            ]
+        },
+        {
+            "subgoal": "Wiping hands and chopping more",
+            "start_timestamp": 12752,
+            "stop_timestamp": 19019,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wiping and looking around",
+                    "start_timestamp": 12887,
+                    "stop_timestamp": 13823
+                },
+                {
+                    "secondary_subgoal": "Chopping capsicum and moving around",
+                    "start_timestamp": 15659,
+                    "stop_timestamp": 16433
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "overall_goal": "Prepare chopped fruits and potatoes, season them, and mix them in a bowl.",
+    "clips": [
+        {
+            "subgoal": "Chop and place the fruits in a plate.",
+            "start_timestamp": 92,
+            "stop_timestamp": 7684,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold and cut the fruit",
+                    "start_timestamp": 92,
+                    "stop_timestamp": 247
+                },
+                {
+                    "secondary_subgoal": "Drop pieces of fruit into the plate",
+                    "start_timestamp": 247,
+                    "stop_timestamp": 308
+                },
+                {
+                    "secondary_subgoal": "Continue cutting and placing fruit in the plate",
+                    "start_timestamp": 308,
+                    "stop_timestamp": 7674
+                },
+                {
+                    "secondary_subgoal": "Final packing of fruits into the plate",
+                    "start_timestamp": 7674,
+                    "stop_timestamp": 7684
+                }
+            ]
+        },
+        {
+            "subgoal": "Move the action to the table and further prepare fruits",
+            "start_timestamp": 7684,
+            "stop_timestamp": 8572,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place plate aside, take pot and place on table",
+                    "start_timestamp": 7684,
+                    "stop_timestamp": 7826
+                },
+                {
+                    "secondary_subgoal": "Take another fruit and cut the fruit",
+                    "start_timestamp": 7826,
+                    "stop_timestamp": 8572
+                }
+            ]
+        },
+        {
+            "subgoal": "Dice the potato and drop pieces into the pot",
+            "start_timestamp": 8572,
+            "stop_timestamp": 12350,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut the potato and drop pieces in the pot",
+                    "start_timestamp": 8572,
+                    "stop_timestamp": 9005
+                },
+                {
+                    "secondary_subgoal": "Continue cutting and dropping potato pieces",
+                    "start_timestamp": 9005,
+                    "stop_timestamp": 12350
+                }
+            ]
+        },
+        {
+            "subgoal": "Further dice the remaining potatoes",
+            "start_timestamp": 12350,
+            "stop_timestamp": 17620,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cutting potatoes and removing unwanted parts",
+                    "start_timestamp": 12350,
+                    "stop_timestamp": 12728
+                },
+                {
+                    "secondary_subgoal": "Preparing remaining potatoes and cutting pieces",
+                    "start_timestamp": 12728,
+                    "stop_timestamp": 17620
+                }
+            ]
+        },
+        {
+            "subgoal": "Season and mix the contents in the bowl",
+            "start_timestamp": 17620,
+            "stop_timestamp": 22736,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Shaking the bowl with contents",
+                    "start_timestamp": 17620,
+                    "stop_timestamp": 19268
+                },
+                {
+                    "secondary_subgoal": "Moving tray and bowl to the table",
+                    "start_timestamp": 19268,
+                    "stop_timestamp": 19359
+                },
+                {
+                    "secondary_subgoal": "Seasoning, adding salt, adding unsure ingredient",
+                    "start_timestamp": 19359,
+                    "stop_timestamp": 21859
+                },
+                {
+                    "secondary_subgoal": "Stirring the content in the bowl",
+                    "start_timestamp": 21859,
+                    "stop_timestamp": 22736
+                }
+            ]
+        }
+    ]
+}

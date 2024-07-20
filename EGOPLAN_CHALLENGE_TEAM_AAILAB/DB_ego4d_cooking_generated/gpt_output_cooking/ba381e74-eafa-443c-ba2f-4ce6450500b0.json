@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgZeaZOcVjY011XlSnggxXv8UAGV",
+    "object": "chat.completion",
+    "created": 1719245474,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and cooking a meal.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Cooking and stirring the eggs\",\n      \"start_timestamp\": \"0\",\n      \"stop_timestamp\": \"1841\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Holding and stirring the eggs in the pan\",\n          \"start_timestamp\": \"0\",\n          \"stop_timestamp\": \"664\"\n        },\n        {\n          \"secondary_subgoal\": \"Continuing stirring and shaking eggs\",\n          \"start_timestamp\": \"664\",\n          \"stop_timestamp\": \"1520\"\n        },\n        {\n          \"secondary_subgoal\": \"Collecting, spreading and arranging eggs\",\n          \"start_timestamp\": \"1520\",\n          \"stop_timestamp\": \"1841\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finishing egg preparation and cleaning the pan\",\n      \"start_timestamp\": \"1841\",\n      \"stop_timestamp\": \"2821\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Finishing plating the eggs and turning off the cooker\",\n          \"start_timestamp\": \"1841\",\n          \"stop_timestamp\": \"2296\"\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning the pan using serviette\",\n          \"start_timestamp\": \"2296\",\n          \"stop_timestamp\": \"2821\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Setting up and cooking steak rolls and leek onions\",\n      \"start_timestamp\": \"2821\",\n      \"stop_timestamp\": \"5651\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Smearing oil and adding steak rolls to the pan\",\n          \"start_timestamp\": \"2821\",\n          \"stop_timestamp\": \"4355\"\n        },\n        {\n          \"secondary_subgoal\": \"Turning and stirring steak rolls and leek onions in the pan\",\n          \"start_timestamp\": \"4355\",\n          \"stop_timestamp\": \"5651\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Completing the steak rolls and leek onions preparation\",\n      \"start_timestamp\": \"5651\",\n      \"stop_timestamp\": \"8600\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Finalizing cooking by stirring and turning steak rolls\",\n          \"start_timestamp\": \"5651\",\n          \"stop_timestamp\": \"7672\"\n        },\n        {\n          \"secondary_subgoal\": \"Switching and stirring with chopsticks, adding steak to the pan\",\n          \"start_timestamp\": \"7672\",\n          \"stop_timestamp\": \"8600\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning and organizing the kitchen\",\n      \"start_timestamp\": \"8600\",\n      \"stop_timestamp\": \"10134\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Walking around and organizing items in the kitchen\",\n          \"start_timestamp\": \"8600\",\n          \"stop_timestamp\": \"9207\"\n        },\n        {\n          \"secondary_subgoal\": \"Handling cheese: cutting and adding to the pan\",\n          \"start_timestamp\": \"9207\",\n          \"stop_timestamp\": \"10134\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final cooking and seasoning of meat sticks\",\n      \"start_timestamp\": \"10134\",\n      \"stop_timestamp\": \"11924\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stirring meat sticks in the pan with chopsticks\",\n          \"start_timestamp\": \"10134\",\n          \"stop_timestamp\": \"10812\"\n        },\n        {\n          \"secondary_subgoal\": \"Sprinkling spice, adjusting pan and cooker, looking around\",\n          \"start_timestamp\": \"10812\",\n          \"stop_timestamp\": \"11924\"\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3582,
+        "completion_tokens": 802,
+        "total_tokens": 4384
+    },
+    "system_fingerprint": "fp_5e6c71d4a8"
+}

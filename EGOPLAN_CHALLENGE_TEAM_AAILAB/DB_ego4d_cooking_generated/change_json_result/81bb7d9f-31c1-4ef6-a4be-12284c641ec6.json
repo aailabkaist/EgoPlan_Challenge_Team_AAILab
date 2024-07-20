@@ -1,0 +1,130 @@
+{
+    "overall_goal": "Prepare a meal involving vegetables and meat.",
+    "clips": [
+        {
+            "subgoal": "Prepping the Cooking Space and Tools",
+            "start_timestamp": 17,
+            "stop_timestamp": 810,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Set Up Camera",
+                    "start_timestamp": 17,
+                    "stop_timestamp": 83
+                },
+                {
+                    "secondary_subgoal": "Wear Camera",
+                    "start_timestamp": 83,
+                    "stop_timestamp": 207
+                },
+                {
+                    "secondary_subgoal": "Set up Stopwatch",
+                    "start_timestamp": 271,
+                    "stop_timestamp": 421
+                },
+                {
+                    "secondary_subgoal": "Unwrap Bread",
+                    "start_timestamp": 459,
+                    "stop_timestamp": 586
+                },
+                {
+                    "secondary_subgoal": "Walk Around Kitchen",
+                    "start_timestamp": 598,
+                    "stop_timestamp": 662
+                },
+                {
+                    "secondary_subgoal": "Pick and Place Items",
+                    "start_timestamp": 662,
+                    "stop_timestamp": 810
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing Ingredients and Cooking Pot",
+            "start_timestamp": 935,
+            "stop_timestamp": 2342,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cover Tin with Eggs",
+                    "start_timestamp": 935,
+                    "stop_timestamp": 972
+                },
+                {
+                    "secondary_subgoal": "Handle Cooking Pot and Place Items",
+                    "start_timestamp": 1007,
+                    "stop_timestamp": 1151
+                },
+                {
+                    "secondary_subgoal": "Prepare Cooking Vegetables (Cabbage)",
+                    "start_timestamp": 1272,
+                    "stop_timestamp": 2198
+                },
+                {
+                    "secondary_subgoal": "Prepare Cooking Pan with Oil",
+                    "start_timestamp": 3038,
+                    "stop_timestamp": 3221
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking the Ingredients on the Cooker",
+            "start_timestamp": 3333,
+            "stop_timestamp": 7182,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add Cooking Oil",
+                    "start_timestamp": 3154,
+                    "stop_timestamp": 3221
+                },
+                {
+                    "secondary_subgoal": "Cook with Cooking Pan",
+                    "start_timestamp": 3154,
+                    "stop_timestamp": 7194
+                },
+                {
+                    "secondary_subgoal": "Prepare Additional Ingredients",
+                    "start_timestamp": 7315,
+                    "stop_timestamp": 7899
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing Final Dish with Meat",
+            "start_timestamp": 7899,
+            "stop_timestamp": 13798,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cook Meat in the Pan",
+                    "start_timestamp": 7899,
+                    "stop_timestamp": 18808
+                },
+                {
+                    "secondary_subgoal": "Combine Meat and Vegetables",
+                    "start_timestamp": 18808,
+                    "stop_timestamp": 19402
+                },
+                {
+                    "secondary_subgoal": "Season Dish",
+                    "start_timestamp": 20055,
+                    "stop_timestamp": 20490
+                }
+            ]
+        },
+        {
+            "subgoal": "Finishing and Serving",
+            "start_timestamp": 20899,
+            "stop_timestamp": 21339,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Shake and Place Skillet",
+                    "start_timestamp": 20899,
+                    "stop_timestamp": 21239
+                },
+                {
+                    "secondary_subgoal": "Put Cooking Tools Away",
+                    "start_timestamp": 20899,
+                    "stop_timestamp": 21213
+                }
+            ]
+        }
+    ]
+}

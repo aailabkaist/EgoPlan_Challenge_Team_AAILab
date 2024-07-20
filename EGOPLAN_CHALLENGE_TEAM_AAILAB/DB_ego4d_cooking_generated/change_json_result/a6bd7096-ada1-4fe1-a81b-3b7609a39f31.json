@@ -1,0 +1,111 @@
+{
+    "overall_goal": "Prepare and stir content with a chopping stick in the kitchen",
+    "clips": [
+        {
+            "subgoal": "Cut and handle ingredients with a knife",
+            "start_timestamp": 9128,
+            "stop_timestamp": 9570,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up the knife",
+                    "start_timestamp": 9128,
+                    "stop_timestamp": 9151
+                },
+                {
+                    "secondary_subgoal": "Cut ingredients",
+                    "start_timestamp": 9151,
+                    "stop_timestamp": 9238
+                },
+                {
+                    "secondary_subgoal": "Chop ingredients",
+                    "start_timestamp": 9238,
+                    "stop_timestamp": 9487
+                },
+                {
+                    "secondary_subgoal": "Scoop and put in plate",
+                    "start_timestamp": 9487,
+                    "stop_timestamp": 9518
+                },
+                {
+                    "secondary_subgoal": "Place knife back on chopping board",
+                    "start_timestamp": 9518,
+                    "stop_timestamp": 9570
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean hands and dispose of waste",
+            "start_timestamp": 9570,
+            "stop_timestamp": 9885,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and dry hands",
+                    "start_timestamp": 9570,
+                    "stop_timestamp": 9682
+                },
+                {
+                    "secondary_subgoal": "Dispose of paper in dustbin",
+                    "start_timestamp": 9682,
+                    "stop_timestamp": 9836
+                },
+                {
+                    "secondary_subgoal": "Stand on floor",
+                    "start_timestamp": 9836,
+                    "stop_timestamp": 9875
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir contents with chopping stick",
+            "start_timestamp": 9875,
+            "stop_timestamp": 11277,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up chopping stick",
+                    "start_timestamp": 9875,
+                    "stop_timestamp": 9911
+                },
+                {
+                    "secondary_subgoal": "Stir contents",
+                    "start_timestamp": 9911,
+                    "stop_timestamp": 10211
+                },
+                {
+                    "secondary_subgoal": "Put chopping stick in sink",
+                    "start_timestamp": 10211,
+                    "stop_timestamp": 10264
+                },
+                {
+                    "secondary_subgoal": "Clean hands and sink",
+                    "start_timestamp": 10264,
+                    "stop_timestamp": 10618
+                },
+                {
+                    "secondary_subgoal": "Wipe hands with kitchen towel",
+                    "start_timestamp": 10618,
+                    "stop_timestamp": 10675
+                },
+                {
+                    "secondary_subgoal": "Pick up chopping stick from sink",
+                    "start_timestamp": 10675,
+                    "stop_timestamp": 10746
+                },
+                {
+                    "secondary_subgoal": "Stir contents",
+                    "start_timestamp": 10746,
+                    "stop_timestamp": 11082
+                },
+                {
+                    "secondary_subgoal": "Put chopping stick on the bowl",
+                    "start_timestamp": 11082,
+                    "stop_timestamp": 11119
+                },
+                {
+                    "secondary_subgoal": "Wipe hands with kitchen towel and adjust camera",
+                    "start_timestamp": 11119,
+                    "stop_timestamp": 11277
+                }
+            ]
+        }
+    ]
+}

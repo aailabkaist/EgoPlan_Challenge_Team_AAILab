@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeXGrvEV9EJHo8vQqxsvAoeiwPHh",
+    "object": "chat.completion",
+    "created": 1719475966,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cook and prepare food.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare cooking ingredients and tools\",\n      \"start_timestamp\": 121,\n      \"stop_timestamp\": 525,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Switch pots and open lids\",\n          \"start_timestamp\": 121,\n          \"stop_timestamp\": 338\n        },\n        {\n          \"secondary_subgoal\": \"Manage hand cloths and utensils\",\n          \"start_timestamp\": 338,\n          \"stop_timestamp\": 525\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook food\",\n      \"start_timestamp\": 525,\n      \"stop_timestamp\": 11183,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Remove foil cover and stir food\",\n          \"start_timestamp\": 525,\n          \"stop_timestamp\": 1092\n        },\n        {\n          \"secondary_subgoal\": \"Level fire and cover pot\",\n          \"start_timestamp\": 1303,\n          \"stop_timestamp\": 1838\n        },\n        {\n          \"secondary_subgoal\": \"Taste food and add spices\",\n          \"start_timestamp\": 1912,\n          \"stop_timestamp\": 3618\n        },\n        {\n          \"secondary_subgoal\": \"Add ingredients from cans and stir\",\n          \"start_timestamp\": 3618,\n          \"stop_timestamp\": 5400\n        },\n        {\n          \"secondary_subgoal\": \"Taste food with side plate\",\n          \"start_timestamp\": 5400,\n          \"stop_timestamp\": 6772\n        },\n        {\n          \"secondary_subgoal\": \"Close and open various lids and continue stirring\",\n          \"start_timestamp\": 7004,\n          \"stop_timestamp\": 1153\n        },\n        {\n          \"secondary_subgoal\": \"Add more spices and condiments while stirring\",\n          \"start_timestamp\": 1153,\n          \"stop_timestamp\": 13134\n        },\n        {\n          \"secondary_subgoal\": \"End cooking by turning off the cooker\",\n          \"start_timestamp\": 13560,\n          \"stop_timestamp\": 13978\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up cooking area\",\n      \"start_timestamp\": 13978,\n      \"stop_timestamp\": 17092,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cover and clean utensils\",\n          \"start_timestamp\": 13978,\n          \"stop_timestamp\": 14435\n        },\n        {\n          \"secondary_subgoal\": \"Store utensils in cabinet\",\n          \"start_timestamp\": 14435,\n          \"stop_timestamp\": 16709\n        },\n        {\n          \"secondary_subgoal\": \"Clean cooking area thoroughly\",\n          \"start_timestamp\": 16709,\n          \"stop_timestamp\": 17092\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare food tray for serving\",\n      \"start_timestamp\": 17092,\n      \"stop_timestamp\": 18143,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Organize and clean utensils\",\n          \"start_timestamp\": 17092,\n          \"stop_timestamp\": 17640\n        },\n        {\n          \"secondary_subgoal\": \"Gather utensils and food items\",\n          \"start_timestamp\": 17640,\n          \"stop_timestamp\": 18143\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2527,
+        "completion_tokens": 717,
+        "total_tokens": 3244
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

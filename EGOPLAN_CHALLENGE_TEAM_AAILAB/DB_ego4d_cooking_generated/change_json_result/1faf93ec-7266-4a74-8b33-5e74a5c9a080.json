@@ -1,0 +1,125 @@
+{
+    "overall_goal": "Make and prepare coffee",
+    "clips": [
+        {
+            "subgoal": "Load coffee into the mug",
+            "start_timestamp": 32,
+            "stop_timestamp": 465,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put mug down",
+                    "start_timestamp": 32,
+                    "stop_timestamp": 93
+                },
+                {
+                    "secondary_subgoal": "Pick and open coffee",
+                    "start_timestamp": 93,
+                    "stop_timestamp": 127
+                },
+                {
+                    "secondary_subgoal": "Put coffee down",
+                    "start_timestamp": 127,
+                    "stop_timestamp": 200
+                },
+                {
+                    "secondary_subgoal": "Pick up and scoop coffee with spoon",
+                    "start_timestamp": 200,
+                    "stop_timestamp": 310
+                },
+                {
+                    "secondary_subgoal": "Put coffee in mug",
+                    "start_timestamp": 310,
+                    "stop_timestamp": 465
+                }
+            ]
+        },
+        {
+            "subgoal": "Add milk to the coffee",
+            "start_timestamp": 615,
+            "stop_timestamp": 1678,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk to and open the fridge",
+                    "start_timestamp": 615,
+                    "stop_timestamp": 720
+                },
+                {
+                    "secondary_subgoal": "Pick milk from the fridge",
+                    "start_timestamp": 720,
+                    "stop_timestamp": 838
+                },
+                {
+                    "secondary_subgoal": "Pour milk into mug",
+                    "start_timestamp": 934,
+                    "stop_timestamp": 1043
+                },
+                {
+                    "secondary_subgoal": "Put #unsure in the coffee",
+                    "start_timestamp": 1043,
+                    "stop_timestamp": 1366
+                },
+                {
+                    "secondary_subgoal": "Stir coffee",
+                    "start_timestamp": 1366,
+                    "stop_timestamp": 1464
+                },
+                {
+                    "secondary_subgoal": "Return milk to the fridge",
+                    "start_timestamp": 1496,
+                    "stop_timestamp": 1678
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare to make coffee",
+            "start_timestamp": 1847,
+            "stop_timestamp": 2192,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and put down pan",
+                    "start_timestamp": 1847,
+                    "stop_timestamp": 1951
+                },
+                {
+                    "secondary_subgoal": "Place mug on coffee maker",
+                    "start_timestamp": 2007,
+                    "stop_timestamp": 2192
+                }
+            ]
+        },
+        {
+            "subgoal": "Make coffee",
+            "start_timestamp": 2266,
+            "stop_timestamp": 2973,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick pack of tea and put it in coffee maker",
+                    "start_timestamp": 2266,
+                    "stop_timestamp": 2581
+                },
+                {
+                    "secondary_subgoal": "Fetch and fill water in the coffee maker",
+                    "start_timestamp": 2583,
+                    "stop_timestamp": 2973
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean kitchen",
+            "start_timestamp": 3348,
+            "stop_timestamp": 3914,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and clean with scrubber",
+                    "start_timestamp": 3348,
+                    "stop_timestamp": 3759
+                },
+                {
+                    "secondary_subgoal": "Walk around and pour dirt in litter bin",
+                    "start_timestamp": 3759,
+                    "stop_timestamp": 3914
+                }
+            ]
+        }
+    ]
+}

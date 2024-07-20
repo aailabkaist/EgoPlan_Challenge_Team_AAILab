@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efo8dj35aq61V5jUSdAdEN8aSIo8",
+    "object": "chat.completion",
+    "created": 1719480856,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal involving stew, pasta, and potentially other ingredients using various kitchen appliances and utensils\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Getting ready to cook pasta\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 802,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Setting up the electric kettle\", \"start_timestamp\": 0, \"stop_timestamp\": 56},\n        {\"secondary_subgoal\": \"Putting the jug on the table and preparing the weighing machine\", \"start_timestamp\": 85, \"stop_timestamp\": 226},\n        {\"secondary_subgoal\": \"Walking around\", \"start_timestamp\": 261, \"stop_timestamp\": 386},\n        {\"secondary_subgoal\": \"Preparing the cooking pot\", \"start_timestamp\": 386, \"stop_timestamp\": 492}\n      ]\n    },\n    {\n      \"subgoal\": \"Using phone\",\n      \"start_timestamp\": 492,\n      \"stop_timestamp\": 802,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Using the phone\", \"start_timestamp\": 492, \"stop_timestamp\": 802}\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing stew and adding ingredients\",\n      \"start_timestamp\": 802,\n      \"stop_timestamp\": 2341,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Adding spices and stirring stew\", \"start_timestamp\": 802, \"stop_timestamp\": 1018},\n        {\"secondary_subgoal\": \"Using the phone\", \"start_timestamp\": 1018, \"stop_timestamp\": 1119},\n        {\"secondary_subgoal\": \"Stirring the stew\", \"start_timestamp\": 1119, \"stop_timestamp\": 1018},\n        {\"secondary_subgoal\": \"Serving stew in the bowl\", \"start_timestamp\": 1359, \"stop_timestamp\": 2010},\n        {\"secondary_subgoal\": \"Pouring stew in the blender\", \"start_timestamp\": 2351, \"stop_timestamp\": 2847}\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing blender\",\n      \"start_timestamp\": 2847,\n      \"stop_timestamp\": 3767,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Closing the blender\", \"start_timestamp\": 2847, \"stop_timestamp\": 3299},\n        {\"secondary_subgoal\": \"Stopping the blender\", \"start_timestamp\": 3299, \"stop_timestamp\": 3379},\n        {\"secondary_subgoal\": \"Blending contents\", \"start_timestamp\": 3539, \"stop_timestamp\": 3767}\n      ]\n    },\n    {\n      \"subgoal\": \"Adding water and stirring pasta\",\n      \"start_timestamp\": 3767,\n      \"stop_timestamp\": 4980,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Pouring water in cooking pot\", \"start_timestamp\": 4624, \"stop_timestamp\": 4980}\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking pasta\",\n      \"start_timestamp\": 5039,\n      \"stop_timestamp\": 8498,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Putting on the gas cooker\", \"start_timestamp\": 5039, \"stop_timestamp\": 5323},\n        {\"secondary_subgoal\": \"Stirring pasta\", \"start_timestamp\": 5367, \"stop_timestamp\": 6207},\n        {\"secondary_subgoal\": \"Putting on the blender\", \"start_timestamp\": 8655, \"stop_timestamp\": 8691},\n        {\"secondary_subgoal\": \"Using phone and stirring food\", \"start_timestamp\": 8498, \"stop_timestamp\": 8624}\n      ]\n    },\n    {\n      \"subgoal\": \"Handling blended content\",\n      \"start_timestamp\": 8691,\n      \"stop_timestamp\": 14712,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Opening and stirring in blender\", \"start_timestamp\": 8691, \"stop_timestamp\": 9188},\n        {\"secondary_subgoal\": \"Removing contents onto cooking pot\", \"start_timestamp\": 10082, \"stop_timestamp\": 10717},\n        {\"secondary_subgoal\": \"Stirring and adding ingredients\", \"start_timestamp\": 12588, \"stop_timestamp\": 14712},\n      ]\n    },\n    {\n      \"subgoal\": \"Final touches to cooking pot\",\n      \"start_timestamp\": 14712,\n      \"stop_timestamp\": 17880,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Adding and stirring curd\", \"start_timestamp\": 14712, \"stop_timestamp\": 17110},\n        {\"secondary_subgoal\": \"Stirring food and pasta\", \"start_timestamp\": 17350, \"stop_timestamp\": 17880}\n      ]\n    }\n  ]\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2861,
+        "completion_tokens": 1017,
+        "total_tokens": 3878
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

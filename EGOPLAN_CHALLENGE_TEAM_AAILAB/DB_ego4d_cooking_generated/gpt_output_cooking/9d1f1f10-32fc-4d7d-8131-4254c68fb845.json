@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eg2BW3VBM3U2MWNh9nNPSaKN53vd",
+    "object": "chat.completion",
+    "created": 1719481727,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Crush and process the unknown substance into a powder and store it in tins\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare the workspace and initial objects\",\n      \"start_timestamp\": 27,\n      \"stop_timestamp\": 361,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put the unknown substance in the pot\",\n          \"start_timestamp\": 27,\n          \"stop_timestamp\": 135\n        },\n        {\n          \"secondary_subgoal\": \"Place the newspaper down\",\n          \"start_timestamp\": 135,\n          \"stop_timestamp\": 168\n        },\n        {\n          \"secondary_subgoal\": \"Move the bucket and basin\",\n          \"start_timestamp\": 168,\n          \"stop_timestamp\": 310\n        },\n        {\n          \"secondary_subgoal\": \"Move another bucket\",\n          \"start_timestamp\": 310,\n          \"stop_timestamp\": 314\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Begin smashing the unknown substance in the pot\",\n      \"start_timestamp\": 361,\n      \"stop_timestamp\": 1486,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Repeatedly smash the unknown substance with a metal rod\",\n          \"start_timestamp\": 361,\n          \"stop_timestamp\": 1374\n        },\n        {\n          \"secondary_subgoal\": \"Pick out pieces of the unknown substance from the powder\",\n          \"start_timestamp\": 1374,\n          \"stop_timestamp\": 1486\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Continue smashing and processing the unknown substance\",\n      \"start_timestamp\": 1486,\n      \"stop_timestamp\": 5706,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Smash the unknown substance in the pot\",\n          \"start_timestamp\": 1486,\n          \"stop_timestamp\": 5706\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handle the powder and pot\",\n      \"start_timestamp\": 5706,\n      \"stop_timestamp\": 6211,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Place down the metal rod and handle the newspaper and powder\",\n          \"start_timestamp\": 5706,\n          \"stop_timestamp\": 6161\n        },\n        {\n          \"secondary_subgoal\": \"Put the powder in the newspaper and put it in the pot\",\n          \"start_timestamp\": 6161,\n          \"stop_timestamp\": 6211\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final smashing and processing\",\n      \"start_timestamp\": 6211,\n      \"stop_timestamp\": 15679,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Smash the unknown substance in the pot\",\n          \"start_timestamp\": 6211,\n          \"stop_timestamp\": 13774\n        },\n        {\n          \"secondary_subgoal\": \"Handle the pot, powder, and newspaper\",\n          \"start_timestamp\": 13774,\n          \"stop_timestamp\": 15679\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final handling and cleaning\",\n      \"start_timestamp\": 15679,\n      \"stop_timestamp\": 21907,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Process and store the powder in tins\",\n          \"start_timestamp\": 15679,\n          \"stop_timestamp\": 21529\n        },\n        {\n          \"secondary_subgoal\": \"Fold the newspapers and clean up\",\n          \"start_timestamp\": 21529,\n          \"stop_timestamp\": 21907\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2293,
+        "completion_tokens": 774,
+        "total_tokens": 3067
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

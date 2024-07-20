@@ -1,0 +1,169 @@
+{
+    "overall_goal": "Cooking a dish with garlic, minced meat, and vegetables",
+    "clips": [
+        {
+            "subgoal": "Preparing the cooking pan and adding garlic",
+            "start_timestamp": 0,
+            "stop_timestamp": 741,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Putting oil in the pan",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 57
+                },
+                {
+                    "secondary_subgoal": "Moving and placing the pan",
+                    "start_timestamp": 57,
+                    "stop_timestamp": 243
+                },
+                {
+                    "secondary_subgoal": "Preparing garlic",
+                    "start_timestamp": 243,
+                    "stop_timestamp": 741
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning utensils",
+            "start_timestamp": 741,
+            "stop_timestamp": 1238,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning hands and utensils",
+                    "start_timestamp": 741,
+                    "stop_timestamp": 1158
+                },
+                {
+                    "secondary_subgoal": "Cleaning chopping board and utensils",
+                    "start_timestamp": 1158,
+                    "stop_timestamp": 1238
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling polythene bags",
+            "start_timestamp": 1238,
+            "stop_timestamp": 1375,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wrapping and disposing of polythene bags",
+                    "start_timestamp": 1238,
+                    "stop_timestamp": 1375
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking garlic",
+            "start_timestamp": 1375,
+            "stop_timestamp": 1692,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring garlic",
+                    "start_timestamp": 1375,
+                    "stop_timestamp": 1692
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding and cooking minced meat",
+            "start_timestamp": 1692,
+            "stop_timestamp": 2370,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling zip bag and adding minced meat",
+                    "start_timestamp": 1692,
+                    "stop_timestamp": 2370
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking and stirring food",
+            "start_timestamp": 2370,
+            "stop_timestamp": 3007,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring and regulating heat",
+                    "start_timestamp": 2370,
+                    "stop_timestamp": 3007
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding spices",
+            "start_timestamp": 3007,
+            "stop_timestamp": 4083,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adding spices and seasoning",
+                    "start_timestamp": 3007,
+                    "stop_timestamp": 4083
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning and disposing",
+            "start_timestamp": 4083,
+            "stop_timestamp": 5572,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning knife and utensils",
+                    "start_timestamp": 4083,
+                    "stop_timestamp": 5207
+                },
+                {
+                    "secondary_subgoal": "Disposing zip bag",
+                    "start_timestamp": 5207,
+                    "stop_timestamp": 5572
+                }
+            ]
+        },
+        {
+            "subgoal": "Final cooking steps",
+            "start_timestamp": 5572,
+            "stop_timestamp": 7615,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring food and adjusting heat",
+                    "start_timestamp": 5572,
+                    "stop_timestamp": 7615
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding vegetables and final seasoning",
+            "start_timestamp": 7615,
+            "stop_timestamp": 10143,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adding vegetables and final seasoning",
+                    "start_timestamp": 7615,
+                    "stop_timestamp": 10143
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning after cooking",
+            "start_timestamp": 10143,
+            "stop_timestamp": 12809,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning dishes and utensils",
+                    "start_timestamp": 10143,
+                    "stop_timestamp": 12809
+                }
+            ]
+        },
+        {
+            "subgoal": "Final stir and finishing touch",
+            "start_timestamp": 12809,
+            "stop_timestamp": 19394,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Final stirring and adding water",
+                    "start_timestamp": 12809,
+                    "stop_timestamp": 19394
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "overall_goal": "Grilling meat",
+    "clips": [
+        {
+            "subgoal": "Setting up the grill",
+            "start_timestamp": 738,
+            "stop_timestamp": 7000,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Placing charcoal in the grill",
+                    "start_timestamp": 738,
+                    "stop_timestamp": 1812
+                },
+                {
+                    "secondary_subgoal": "Spreading and sifting charcoal",
+                    "start_timestamp": 1910,
+                    "stop_timestamp": 6664
+                },
+                {
+                    "secondary_subgoal": "Fixing the grill mesh",
+                    "start_timestamp": 6664,
+                    "stop_timestamp": 6797
+                },
+                {
+                    "secondary_subgoal": "Uncovering the meat and preparing the area",
+                    "start_timestamp": 6797,
+                    "stop_timestamp": 7000
+                }
+            ]
+        },
+        {
+            "subgoal": "Grilling the meat",
+            "start_timestamp": 7000,
+            "stop_timestamp": 33168,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Placing meat on the grill and initial seasoning",
+                    "start_timestamp": 7000,
+                    "stop_timestamp": 8336
+                },
+                {
+                    "secondary_subgoal": "Turning the meat and applying seasoning",
+                    "start_timestamp": 8826,
+                    "stop_timestamp": 11992
+                },
+                {
+                    "secondary_subgoal": "Additional seasoning and adjustments to the grill",
+                    "start_timestamp": 12151,
+                    "stop_timestamp": 18977
+                },
+                {
+                    "secondary_subgoal": "Turning and seasoning the meat repeatedly",
+                    "start_timestamp": 19793,
+                    "stop_timestamp": 31990
+                },
+                {
+                    "secondary_subgoal": "Final seasoning and placing lid on the grill",
+                    "start_timestamp": 31990,
+                    "stop_timestamp": 33068
+                }
+            ]
+        },
+        {
+            "subgoal": "Serving the grilled meat",
+            "start_timestamp": 33068,
+            "stop_timestamp": 33168,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Serving the meat on a plate",
+                    "start_timestamp": 33068,
+                    "stop_timestamp": 33168
+                }
+            ]
+        }
+    ]
+}

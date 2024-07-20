@@ -1,0 +1,306 @@
+{
+    "overall_goal": "Prepare a meal by cleaning utensils, mixing ingredients, and cooking food on the stove.",
+    "clips": [
+        {
+            "subgoal": "Clean the bowl and lid",
+            "start_timestamp": 0,
+            "stop_timestamp": 986,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on tap",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 14
+                },
+                {
+                    "secondary_subgoal": "Turn off tap",
+                    "start_timestamp": 14,
+                    "stop_timestamp": 30
+                },
+                {
+                    "secondary_subgoal": "Pour water in sink",
+                    "start_timestamp": 30,
+                    "stop_timestamp": 50
+                },
+                {
+                    "secondary_subgoal": "Place bowl in sink",
+                    "start_timestamp": 50,
+                    "stop_timestamp": 92
+                },
+                {
+                    "secondary_subgoal": "Turn on tap",
+                    "start_timestamp": 140,
+                    "stop_timestamp": 153
+                },
+                {
+                    "secondary_subgoal": "Clean lid",
+                    "start_timestamp": 153,
+                    "stop_timestamp": 177
+                },
+                {
+                    "secondary_subgoal": "Place lid on bowl",
+                    "start_timestamp": 177,
+                    "stop_timestamp": 203
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean hands and gather ingredients",
+            "start_timestamp": 226,
+            "stop_timestamp": 1656,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on tap",
+                    "start_timestamp": 226,
+                    "stop_timestamp": 257
+                },
+                {
+                    "secondary_subgoal": "Clean hands",
+                    "start_timestamp": 257,
+                    "stop_timestamp": 283
+                },
+                {
+                    "secondary_subgoal": "Touch the tap",
+                    "start_timestamp": 283,
+                    "stop_timestamp": 331
+                },
+                {
+                    "secondary_subgoal": "Pick soap and rub on hands",
+                    "start_timestamp": 331,
+                    "stop_timestamp": 398
+                },
+                {
+                    "secondary_subgoal": "Put soap back",
+                    "start_timestamp": 398,
+                    "stop_timestamp": 426
+                },
+                {
+                    "secondary_subgoal": "Clean hands",
+                    "start_timestamp": 426,
+                    "stop_timestamp": 675
+                },
+                {
+                    "secondary_subgoal": "Look around",
+                    "start_timestamp": 675,
+                    "stop_timestamp": 879
+                },
+                {
+                    "secondary_subgoal": "Touch tap and clean hands",
+                    "start_timestamp": 879,
+                    "stop_timestamp": 986
+                },
+                {
+                    "secondary_subgoal": "Turn off tap",
+                    "start_timestamp": 986,
+                    "stop_timestamp": 1006
+                },
+                {
+                    "secondary_subgoal": "Shake hands",
+                    "start_timestamp": 1006,
+                    "stop_timestamp": 1025
+                },
+                {
+                    "secondary_subgoal": "Dry hands with a towel",
+                    "start_timestamp": 1065,
+                    "stop_timestamp": 1176
+                },
+                {
+                    "secondary_subgoal": "Pick and place bottle from fridge",
+                    "start_timestamp": 1194,
+                    "stop_timestamp": 1280
+                },
+                {
+                    "secondary_subgoal": "Put bottle back and close fridge",
+                    "start_timestamp": 1280,
+                    "stop_timestamp": 1361
+                },
+                {
+                    "secondary_subgoal": "Open bottle",
+                    "start_timestamp": 1361,
+                    "stop_timestamp": 1365
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the mixture in the bowl",
+            "start_timestamp": 1365,
+            "stop_timestamp": 2807,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pouring soy sauce",
+                    "start_timestamp": 1411,
+                    "stop_timestamp": 1535
+                },
+                {
+                    "secondary_subgoal": "Grab bottle and put soy sauce in bowl",
+                    "start_timestamp": 1670,
+                    "stop_timestamp": 1821
+                },
+                {
+                    "secondary_subgoal": "Mix the mixture",
+                    "start_timestamp": 2085,
+                    "stop_timestamp": 2793
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking and adjusting ingredients",
+            "start_timestamp": 2831,
+            "stop_timestamp": 5837,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Lift kid and put lid on pan",
+                    "start_timestamp": 2851,
+                    "stop_timestamp": 2883
+                },
+                {
+                    "secondary_subgoal": "Turn on cooker",
+                    "start_timestamp": 2916,
+                    "stop_timestamp": 2936
+                },
+                {
+                    "secondary_subgoal": "Open fridge and pick bottle",
+                    "start_timestamp": 2981,
+                    "stop_timestamp": 3050
+                },
+                {
+                    "secondary_subgoal": "Put bottle on table",
+                    "start_timestamp": 3050,
+                    "stop_timestamp": 3076
+                },
+                {
+                    "secondary_subgoal": "Pour paste from bottle and close it",
+                    "start_timestamp": 3147,
+                    "stop_timestamp": 3301
+                },
+                {
+                    "secondary_subgoal": "Put bottle in fridge and close the door",
+                    "start_timestamp": 3310,
+                    "stop_timestamp": 3417
+                },
+                {
+                    "secondary_subgoal": "Add soy sauce from bottle in pan",
+                    "start_timestamp": 3531,
+                    "stop_timestamp": 3590
+                },
+                {
+                    "secondary_subgoal": "Put lid on pan",
+                    "start_timestamp": 3590,
+                    "stop_timestamp": 3615
+                }
+            ]
+        },
+        {
+            "subgoal": "Stirring and final adjustments",
+            "start_timestamp": 3661,
+            "stop_timestamp": 7702,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir the food",
+                    "start_timestamp": 3670,
+                    "stop_timestamp": 4275
+                },
+                {
+                    "secondary_subgoal": "Put lid on pan",
+                    "start_timestamp": 4275,
+                    "stop_timestamp": 4298
+                },
+                {
+                    "secondary_subgoal": "Lift lid and add final soy sauce",
+                    "start_timestamp": 4372,
+                    "stop_timestamp": 4431
+                },
+                {
+                    "secondary_subgoal": "Put back bottle in fridge",
+                    "start_timestamp": 4536,
+                    "stop_timestamp": 4577
+                },
+                {
+                    "secondary_subgoal": "Switch on air conditioner",
+                    "start_timestamp": 4643,
+                    "stop_timestamp": 4671
+                },
+                {
+                    "secondary_subgoal": "Stir food again",
+                    "start_timestamp": 4687,
+                    "stop_timestamp": 5889
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix secondary mixture in bowl",
+            "start_timestamp": 5906,
+            "stop_timestamp": 7012,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mix mixture in bowl",
+                    "start_timestamp": 5950,
+                    "stop_timestamp": 6283
+                },
+                {
+                    "secondary_subgoal": "Put bowl on table",
+                    "start_timestamp": 6286,
+                    "stop_timestamp": 6295
+                },
+                {
+                    "secondary_subgoal": "Pick spice container",
+                    "start_timestamp": 6348,
+                    "stop_timestamp": 6580
+                }
+            ]
+        },
+        {
+            "subgoal": "Add final ingredients and serve",
+            "start_timestamp": 7050,
+            "stop_timestamp": 12167,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Regulate heat on cooker",
+                    "start_timestamp": 7066,
+                    "stop_timestamp": 7093
+                },
+                {
+                    "secondary_subgoal": "Stir food",
+                    "start_timestamp": 7162,
+                    "stop_timestamp": 7690
+                },
+                {
+                    "secondary_subgoal": "Serve food in bowls and pick saucers",
+                    "start_timestamp": 7985,
+                    "stop_timestamp": 8644
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish cooking and store items",
+            "start_timestamp": 8713,
+            "stop_timestamp": 12321,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick lids and cooking pot",
+                    "start_timestamp": 8730,
+                    "stop_timestamp": 9293
+                },
+                {
+                    "secondary_subgoal": "Operate gas grill and kettle",
+                    "start_timestamp": 9173,
+                    "stop_timestamp": 9255
+                },
+                {
+                    "secondary_subgoal": "Open fridge and pick pan",
+                    "start_timestamp": 9326,
+                    "stop_timestamp": 9377
+                },
+                {
+                    "secondary_subgoal": "Stir ingredients in pan",
+                    "start_timestamp": 10969,
+                    "stop_timestamp": 11185
+                },
+                {
+                    "secondary_subgoal": "Remove lids from pan",
+                    "start_timestamp": 11944,
+                    "stop_timestamp": 12098
+                }
+            ]
+        }
+    ]
+}

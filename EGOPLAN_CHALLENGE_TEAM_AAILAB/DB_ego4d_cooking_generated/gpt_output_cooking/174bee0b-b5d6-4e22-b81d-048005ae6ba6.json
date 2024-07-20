@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eg1njyEveo6M4dRxBcIilNYF0BLZ",
+    "object": "chat.completion",
+    "created": 1719481703,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook a meal using cabbage, bell pepper, sausages, and various spices.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare the ingredients and the workspace for cooking\",\n      \"start_timestamp\": 55,\n      \"stop_timestamp\": 6122,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gather ingredients and tools from the drawer\",\n          \"start_timestamp\": 159,\n          \"stop_timestamp\": 508\n        },\n        {\n          \"secondary_subgoal\": \"Prepare the cabbage for cutting\",\n          \"start_timestamp\": 637,\n          \"stop_timestamp\": 964\n        },\n        {\n          \"secondary_subgoal\": \"Cut the cabbage into pieces\",\n          \"start_timestamp\": 1032,\n          \"stop_timestamp\": 2582\n        },\n        {\n          \"secondary_subgoal\": \"Prepare the seasoning\",\n          \"start_timestamp\": 2668,\n          \"stop_timestamp\": 2973\n        },\n        {\n          \"secondary_subgoal\": \"Wash and prepare the seasoning (unsure item)\",\n          \"start_timestamp\": 3012,\n          \"stop_timestamp\": 4197\n        },\n        {\n          \"secondary_subgoal\": \"Prepare and cut the bell pepper\",\n          \"start_timestamp\": 4264,\n          \"stop_timestamp\": 5387\n        },\n        {\n          \"secondary_subgoal\": \"Prepare the pan on the cooker\",\n          \"start_timestamp\": 5530,\n          \"stop_timestamp\": 6078\n        },\n        {\n          \"secondary_subgoal\": \"Prepare and handle ingredients at the sink counter\",\n          \"start_timestamp\": 508,\n          \"stop_timestamp\": 6122\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook the prepared ingredients\",\n      \"start_timestamp\": 6202,\n      \"stop_timestamp\": 16509,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cook the bell peppers and cabbage in the pan\",\n          \"start_timestamp\": 6202,\n          \"stop_timestamp\": 6866\n        },\n        {\n          \"secondary_subgoal\": \"Add and stir sausages with cabbage in the pan\",\n          \"start_timestamp\": 8574,\n          \"stop_timestamp\": 15573\n        },\n        {\n          \"secondary_subgoal\": \"Finalize the cooking by adjusting heat\",\n          \"start_timestamp\": 15573,\n          \"stop_timestamp\": 16154\n        },\n        {\n          \"secondary_subgoal\": \"Prepare to serve the meal\",\n          \"start_timestamp\": 16185,\n          \"stop_timestamp\": 16509\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Serve the cooked meal\",\n      \"start_timestamp\": 16509,\n      \"stop_timestamp\": 19532,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Transfer the cooked food into a serving plate\",\n          \"start_timestamp\": 16509,\n          \"stop_timestamp\": 17471\n        },\n        {\n          \"secondary_subgoal\": \"Store remaining ingredients back into the refrigerator\",\n          \"start_timestamp\": 18432,\n          \"stop_timestamp\": 19532\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up the workspace\",\n      \"start_timestamp\": 19532,\n      \"stop_timestamp\": 20030,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Dispose of kitchen waste and clean the sink\",\n          \"start_timestamp\": 19777,\n          \"stop_timestamp\": 19853\n        },\n        {\n          \"secondary_subgoal\": \"Set up the camera\",\n          \"start_timestamp\": 19930,\n          \"stop_timestamp\": 20030\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4271,
+        "completion_tokens": 789,
+        "total_tokens": 5060
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

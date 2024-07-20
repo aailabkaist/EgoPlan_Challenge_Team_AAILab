@@ -1,0 +1,91 @@
+{
+    "overall_goal": "Prepare and serve a fried dish",
+    "clips": [
+        {
+            "subgoal": "Store and prepare cooking ingredients",
+            "start_timestamp": "0",
+            "stop_timestamp": "2438",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Store a box in the fridge",
+                    "start_timestamp": "0",
+                    "stop_timestamp": "272"
+                },
+                {
+                    "secondary_subgoal": "Add cooking oil to the pan",
+                    "start_timestamp": "338",
+                    "stop_timestamp": "625"
+                },
+                {
+                    "secondary_subgoal": "Turn food in the fry pan",
+                    "start_timestamp": "625",
+                    "stop_timestamp": "1204"
+                },
+                {
+                    "secondary_subgoal": "Prepare the knife for chopping",
+                    "start_timestamp": "1242",
+                    "stop_timestamp": "1683"
+                },
+                {
+                    "secondary_subgoal": "Retrieve and chop the onion",
+                    "start_timestamp": "1806",
+                    "stop_timestamp": "2307"
+                },
+                {
+                    "secondary_subgoal": "Wash the onion",
+                    "start_timestamp": "2390",
+                    "stop_timestamp": "2438"
+                }
+            ]
+        },
+        {
+            "subgoal": "Chop the onion and add it to the pan",
+            "start_timestamp": "2472",
+            "stop_timestamp": "3396",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place the onion on the chopping board",
+                    "start_timestamp": "2472",
+                    "stop_timestamp": "2529"
+                },
+                {
+                    "secondary_subgoal": "Turn food in the fry pan again",
+                    "start_timestamp": "2529",
+                    "stop_timestamp": "2918"
+                },
+                {
+                    "secondary_subgoal": "Chop the onion",
+                    "start_timestamp": "3107",
+                    "stop_timestamp": "3289"
+                },
+                {
+                    "secondary_subgoal": "Add chopped onion to the pan",
+                    "start_timestamp": "3317",
+                    "stop_timestamp": "3347"
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the tray and serve the food",
+            "start_timestamp": "3396",
+            "stop_timestamp": "4581",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and place a tray plate",
+                    "start_timestamp": "3437",
+                    "stop_timestamp": "3607"
+                },
+                {
+                    "secondary_subgoal": "Remove fry pan from heat and serve the food",
+                    "start_timestamp": "3647",
+                    "stop_timestamp": "4329"
+                },
+                {
+                    "secondary_subgoal": "Place the food on a tray and put it aside",
+                    "start_timestamp": "4435",
+                    "stop_timestamp": "4481"
+                }
+            ]
+        }
+    ]
+}

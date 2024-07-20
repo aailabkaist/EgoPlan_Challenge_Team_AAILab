@@ -1,0 +1,120 @@
+{
+    "overall_goal": "Prepare a meal by cooking, chopping, and managing the ingredients and utensils in the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Clean utensils and workspace in the kitchen.",
+            "start_timestamp": 822,
+            "stop_timestamp": 5548,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Discard remnants in the sink.",
+                    "start_timestamp": 822,
+                    "stop_timestamp": 1010
+                },
+                {
+                    "secondary_subgoal": "Wash and clean cooking pot and other utensils.",
+                    "start_timestamp": 1010,
+                    "stop_timestamp": 2395
+                },
+                {
+                    "secondary_subgoal": "Rearrange chopsticks and other kitchen items.",
+                    "start_timestamp": 5387,
+                    "stop_timestamp": 5548
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle kitchen appliances and prepare cooking tools.",
+            "start_timestamp": 2573,
+            "stop_timestamp": 7178,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on the cooker and gather pot lid.",
+                    "start_timestamp": 2573,
+                    "stop_timestamp": 3057
+                },
+                {
+                    "secondary_subgoal": "Cut and discard storage paper.",
+                    "start_timestamp": 3278,
+                    "stop_timestamp": 3452
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking preparation",
+            "start_timestamp": 8240,
+            "stop_timestamp": 9941,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and discard storage paper and remove items from paper.",
+                    "start_timestamp": 3278,
+                    "stop_timestamp": 4491
+                },
+                {
+                    "secondary_subgoal": "Wrap and discard paper",
+                    "start_timestamp": 4942,
+                    "stop_timestamp": 5066
+                },
+                {
+                    "secondary_subgoal": "Wash and dry hands",
+                    "start_timestamp": 5387,
+                    "stop_timestamp": 5548
+                },
+                {
+                    "secondary_subgoal": "Fill and place saucepan with water on cooker.",
+                    "start_timestamp": 9185,
+                    "stop_timestamp": 9496
+                },
+                {
+                    "secondary_subgoal": "Clean the saucepan lid.",
+                    "start_timestamp": 9565,
+                    "stop_timestamp": 9848
+                }
+            ]
+        },
+        {
+            "subgoal": "Manage food ingredients",
+            "start_timestamp": 10239,
+            "stop_timestamp": 13550,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick, open, and prepare ingredients from the fridge.",
+                    "start_timestamp": 10239,
+                    "stop_timestamp": 11162
+                },
+                {
+                    "secondary_subgoal": "Use chopsticks to manage food in the saucepan.",
+                    "start_timestamp": 11244,
+                    "stop_timestamp": 11882
+                },
+                {
+                    "secondary_subgoal": "Cut and discard vegetables or similar ingredients.",
+                    "start_timestamp": 12021,
+                    "stop_timestamp": 13189
+                },
+                {
+                    "secondary_subgoal": "Put ingredients in the saucepan and wash hands.",
+                    "start_timestamp": 13426,
+                    "stop_timestamp": 13770
+                }
+            ]
+        },
+        {
+            "subgoal": "Final Cooking steps",
+            "start_timestamp": 14109,
+            "stop_timestamp": 14649,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Check and manage food in the saucepan with chopsticks.",
+                    "start_timestamp": 14154,
+                    "stop_timestamp": 14369
+                },
+                {
+                    "secondary_subgoal": "Standby in the kitchen.",
+                    "start_timestamp": 14471,
+                    "stop_timestamp": 14649
+                }
+            ]
+        }
+    ]
+}

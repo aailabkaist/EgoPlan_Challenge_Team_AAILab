@@ -1,0 +1,110 @@
+{
+    "overall_goal": "Preparing a meal by cooking, boiling, washing, cutting, and mixing ingredients in the kitchen",
+    "clips": [
+        {
+            "subgoal": "Gathering and preparing initial ingredients and utensils",
+            "start_timestamp": 109,
+            "stop_timestamp": 2039,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Getting and washing cooking pot",
+                    "start_timestamp": 109,
+                    "stop_timestamp": 882
+                },
+                {
+                    "secondary_subgoal": "Handling eggs",
+                    "start_timestamp": 882,
+                    "stop_timestamp": 472
+                },
+                {
+                    "secondary_subgoal": "Cleaning and preparing the cooking pot",
+                    "start_timestamp": 472,
+                    "stop_timestamp": 2039
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing additional kitchenware and ingredients",
+            "start_timestamp": 2039,
+            "stop_timestamp": 3310,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gathering bowls and glasses",
+                    "start_timestamp": 2039,
+                    "stop_timestamp": 2663
+                },
+                {
+                    "secondary_subgoal": "Prepare and handling knives",
+                    "start_timestamp": 2663,
+                    "stop_timestamp": 2890
+                },
+                {
+                    "secondary_subgoal": "Handling and mixing ingredients",
+                    "start_timestamp": 2890,
+                    "stop_timestamp": 3310
+                }
+            ]
+        },
+        {
+            "subgoal": "Mixing ingredients and washing hands",
+            "start_timestamp": 5514,
+            "stop_timestamp": 1282,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring mixture and washing hands",
+                    "start_timestamp": 5514,
+                    "stop_timestamp": 6253
+                },
+                {
+                    "secondary_subgoal": "Cleaning utensils and hands",
+                    "start_timestamp": 6253,
+                    "stop_timestamp": 6431
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing additional ingredients",
+            "start_timestamp": 6431,
+            "stop_timestamp": 12969,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling and cleaning used utensils",
+                    "start_timestamp": 6431,
+                    "stop_timestamp": 8974
+                },
+                {
+                    "secondary_subgoal": "Stirring a new mixture",
+                    "start_timestamp": 8974,
+                    "stop_timestamp": 12969
+                },
+                {
+                    "secondary_subgoal": "Cleaning tools and containers",
+                    "start_timestamp": 12974,
+                    "stop_timestamp": 12969
+                }
+            ]
+        },
+        {
+            "subgoal": "Final actions and preparation",
+            "start_timestamp": 12903,
+            "stop_timestamp": 22029,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Working on the final recipe",
+                    "start_timestamp": 12903,
+                    "stop_timestamp": 18111
+                },
+                {
+                    "secondary_subgoal": "Cutting and preparing ingredients",
+                    "start_timestamp": 18111,
+                    "stop_timestamp": 20248
+                },
+                {
+                    "secondary_subgoal": "Final preparations and cleanup",
+                    "start_timestamp": 20248,
+                    "stop_timestamp": 22029
+                }
+            ]
+        }
+    ]
+}

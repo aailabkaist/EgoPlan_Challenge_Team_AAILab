@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egPtkkKjWsWP6cXJLr2XKaxFK3CV",
+    "object": "chat.completion",
+    "created": 1719483197,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook food using various kitchen utensils and ingredients\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Stir and mix the food in the cooking pot\",\n      \"start_timestamp\": 42,\n      \"stop_timestamp\": 1811,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir the food in the cooking pot with a spoon\",\n          \"start_timestamp\": 42,\n          \"stop_timestamp\": 459\n        },\n        {\n          \"secondary_subgoal\": \"Add greens to the food in the cooking pot\",\n          \"start_timestamp\": 517,\n          \"stop_timestamp\": 600\n        },\n        {\n          \"secondary_subgoal\": \"Stir the food in the cooking pot again\",\n          \"start_timestamp\": 649,\n          \"stop_timestamp\": 804\n        },\n        {\n          \"secondary_subgoal\": \"Regulate the gas knob\",\n          \"start_timestamp\": 1141,\n          \"stop_timestamp\": 1811\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Stir food and mix rice\",\n      \"start_timestamp\": 1910,\n      \"stop_timestamp\": 5737,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir the food in the cooking pot\",\n          \"start_timestamp\": 1910,\n          \"stop_timestamp\": 2786\n        },\n        {\n          \"secondary_subgoal\": \"Mix rice with salt\",\n          \"start_timestamp\": 3018,\n          \"stop_timestamp\": 5635\n        },\n        {\n          \"secondary_subgoal\": \"Move the trey\",\n          \"start_timestamp\": 5635,\n          \"stop_timestamp\": 5687\n        },\n        {\n          \"secondary_subgoal\": \"Stir the food again\",\n          \"start_timestamp\": 5711,\n          \"stop_timestamp\": 7422\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Move and interact with cooking pot and utensils\",\n      \"start_timestamp\": 7537,\n      \"stop_timestamp\": 18225,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Assist person Y with cooking pot\",\n          \"start_timestamp\": 7537,\n          \"stop_timestamp\": 8170\n        },\n        {\n          \"secondary_subgoal\": \"Stir vegetables and manage water in pot\",\n          \"start_timestamp\": 8205,\n          \"stop_timestamp\": 9494\n        },\n        {\n          \"secondary_subgoal\": \"Handle the gas cooker burner and spoons\",\n          \"start_timestamp\": 10232,\n          \"stop_timestamp\": 14158\n        },\n        {\n          \"secondary_subgoal\": \"Use holder to grasp and move pot\",\n          \"start_timestamp\": 14158,\n          \"stop_timestamp\": 16050\n        },\n        {\n          \"secondary_subgoal\": \"Use a spatula to stir and manage frying pan\",\n          \"start_timestamp\": 16759,\n          \"stop_timestamp\": 18225\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2158,
+        "completion_tokens": 645,
+        "total_tokens": 2803
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

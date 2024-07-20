@@ -1,0 +1,106 @@
+{
+    "overall_goal": "Whisk and mix the paste using a machine until it reaches the desired consistency.",
+    "clips": [
+        {
+            "subgoal": "Prepare the whisks and connect them to the machine.",
+            "start_timestamp": 1,
+            "stop_timestamp": 271,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold the whisks with the left hand.",
+                    "start_timestamp": 1,
+                    "stop_timestamp": 102
+                },
+                {
+                    "secondary_subgoal": "Connect the whisks to the machine.",
+                    "start_timestamp": 102,
+                    "stop_timestamp": 271
+                }
+            ]
+        },
+        {
+            "subgoal": "Whisk the paste following a repeated process of whisking and rotating the bowl.",
+            "start_timestamp": 271,
+            "stop_timestamp": 3607,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Whisk the paste.",
+                    "start_timestamp": 271,
+                    "stop_timestamp": 602
+                },
+                {
+                    "secondary_subgoal": "Rotate the bowl.",
+                    "start_timestamp": 602,
+                    "stop_timestamp": 739
+                },
+                {
+                    "secondary_subgoal": "Whisk the paste.",
+                    "start_timestamp": 739,
+                    "stop_timestamp": 830
+                },
+                {
+                    "secondary_subgoal": "Hold onto the bowl.",
+                    "start_timestamp": 830,
+                    "stop_timestamp": 1357
+                },
+                {
+                    "secondary_subgoal": "Rotate the bowl.",
+                    "start_timestamp": 1357,
+                    "stop_timestamp": 1497
+                },
+                {
+                    "secondary_subgoal": "Whisk the paste.",
+                    "start_timestamp": 1497,
+                    "stop_timestamp": 1736
+                },
+                {
+                    "secondary_subgoal": "Hold onto the bowl.",
+                    "start_timestamp": 1736,
+                    "stop_timestamp": 1825
+                },
+                {
+                    "secondary_subgoal": "Whisk the paste.",
+                    "start_timestamp": 1825,
+                    "stop_timestamp": 1867
+                },
+                {
+                    "secondary_subgoal": "Rotate the bowl.",
+                    "start_timestamp": 1867,
+                    "stop_timestamp": 2073
+                },
+                {
+                    "secondary_subgoal": "Whisk the paste.",
+                    "start_timestamp": 2073,
+                    "stop_timestamp": 2122
+                },
+                {
+                    "secondary_subgoal": "Rotate the bowl.",
+                    "start_timestamp": 2122,
+                    "stop_timestamp": 3512
+                },
+                {
+                    "secondary_subgoal": "Whisk the paste.",
+                    "start_timestamp": 3512,
+                    "stop_timestamp": 3586
+                }
+            ]
+        },
+        {
+            "subgoal": "Complete the whisking process and tap on the phone.",
+            "start_timestamp": 3586,
+            "stop_timestamp": 3707,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take out the whisk from the machine.",
+                    "start_timestamp": 3586,
+                    "stop_timestamp": 3607
+                },
+                {
+                    "secondary_subgoal": "Tap on the phone.",
+                    "start_timestamp": 3607,
+                    "stop_timestamp": 3707
+                }
+            ]
+        }
+    ]
+}

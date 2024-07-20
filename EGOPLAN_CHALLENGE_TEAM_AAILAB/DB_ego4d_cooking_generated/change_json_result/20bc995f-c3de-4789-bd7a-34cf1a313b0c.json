@@ -1,0 +1,97 @@
+{
+    "overall_goal": "Prepare and serve various food items to customers, interact with them, and handle sales transactions.",
+    "clips": [
+        {
+            "subgoal": "Serve food to different customers",
+            "start_timestamp": 845,
+            "stop_timestamp": 5810,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and cut onions, then mix with food using a spatula",
+                    "start_timestamp": 2259,
+                    "stop_timestamp": 4886
+                },
+                {
+                    "secondary_subgoal": "Add food on snacks and serve to various customers",
+                    "start_timestamp": 4906,
+                    "stop_timestamp": 5810
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve mixed food and adjust cooker settings",
+            "start_timestamp": 5900,
+            "stop_timestamp": 22602,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Serve food to various customers",
+                    "start_timestamp": 6829,
+                    "stop_timestamp": 8794
+                },
+                {
+                    "secondary_subgoal": "Mix food, add spices and adjust cooker settings",
+                    "start_timestamp": 11614,
+                    "stop_timestamp": 22888
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle payments and organize items",
+            "start_timestamp": 12642,
+            "stop_timestamp": 34884,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Receive payments from customers",
+                    "start_timestamp": 12642,
+                    "stop_timestamp": 12981
+                },
+                {
+                    "secondary_subgoal": "Organize items on shelves and put food in order",
+                    "start_timestamp": 13312,
+                    "stop_timestamp": 29780
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean and organize work area",
+            "start_timestamp": 72023,
+            "stop_timestamp": 79931,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean various utensils and work area",
+                    "start_timestamp": 72023,
+                    "stop_timestamp": 77994
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix and serve Panipuri",
+            "start_timestamp": 80170,
+            "stop_timestamp": 18610,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and serve Panipuri to customers",
+                    "start_timestamp": 80170,
+                    "stop_timestamp": 88730
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle complex interactions and tasks",
+            "start_timestamp": 12642,
+            "stop_timestamp": 108281,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mix spices and ingredients, serve in various ways",
+                    "start_timestamp": 12642,
+                    "stop_timestamp": 107684
+                },
+                {
+                    "secondary_subgoal": "Multi-task with various customer needs and object handling",
+                    "start_timestamp": 108061,
+                    "stop_timestamp": 108281
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "overall_goal": "Prepare and process various grains and cereals using traditional cooking methods.",
+    "clips": [
+        {
+            "subgoal": "Gather and prepare sticks and firewood.",
+            "start_timestamp": 163,
+            "stop_timestamp": 1772,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and divide sticks.",
+                    "start_timestamp": 163,
+                    "stop_timestamp": 507
+                },
+                {
+                    "secondary_subgoal": "Use sticks to hit cloth and stir in pot.",
+                    "start_timestamp": 507,
+                    "stop_timestamp": 1544
+                },
+                {
+                    "secondary_subgoal": "Transfer and sweep fabric with sticks.",
+                    "start_timestamp": 1544,
+                    "stop_timestamp": 1971
+                }
+            ]
+        },
+        {
+            "subgoal": "Adjust fire and stir rice.",
+            "start_timestamp": 1971,
+            "stop_timestamp": 30079,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjust firewood and stir rice.",
+                    "start_timestamp": 1971,
+                    "stop_timestamp": 2957
+                },
+                {
+                    "secondary_subgoal": "Walk in garden and collect more firewood.",
+                    "start_timestamp": 3044,
+                    "stop_timestamp": 3475
+                },
+                {
+                    "secondary_subgoal": "Sit on a stool and stir rice.",
+                    "start_timestamp": 3622,
+                    "stop_timestamp": 4162
+                },
+                {
+                    "secondary_subgoal": "Scoops rice into cooking pot and stir.",
+                    "start_timestamp": 4235,
+                    "stop_timestamp": 5152
+                },
+                {
+                    "secondary_subgoal": "Repeat stirring and adjusting firewood.",
+                    "start_timestamp": 5152,
+                    "stop_timestamp": 30079
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare grains in the pot.",
+            "start_timestamp": 57357,
+            "stop_timestamp": 56603,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Repeat cycle of stirring and removing grains from pot.",
+                    "start_timestamp": 57357,
+                    "stop_timestamp": 39872
+                },
+                {
+                    "secondary_subgoal": "Stir grains in pot with broomsticks.",
+                    "start_timestamp": 39901,
+                    "stop_timestamp": 56603
+                }
+            ]
+        },
+        {
+            "subgoal": "Sand roast popcorns.",
+            "start_timestamp": 33363,
+            "stop_timestamp": 39786,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add popcorn maize and stir with coconut sticks.",
+                    "start_timestamp": 33363,
+                    "stop_timestamp": 38882
+                }
+            ]
+        },
+        {
+            "subgoal": "Roast seeds and remove chaff.",
+            "start_timestamp": 39786,
+            "stop_timestamp": 67234,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Repeat cycle of adding seeds, stirring, and removing from pot.",
+                    "start_timestamp": 39786,
+                    "stop_timestamp": 56603
+                }
+            ]
+        },
+        {
+            "subgoal": "Collect and sieve grains.",
+            "start_timestamp": 69824,
+            "stop_timestamp": 77200,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Collect grains into bowl and sieve.",
+                    "start_timestamp": 69824,
+                    "stop_timestamp": 76506
+                },
+                {
+                    "secondary_subgoal": "Remove chaff and pour grains into bucket.",
+                    "start_timestamp": 66506,
+                    "stop_timestamp": 77200
+                }
+            ]
+        },
+        {
+            "subgoal": "Perform miscellaneous activities.",
+            "start_timestamp": 9351,
+            "stop_timestamp": 77200,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Other minor actions unrelated to main workflow.",
+                    "start_timestamp": 9351,
+                    "stop_timestamp": 77200
+                }
+            ]
+        }
+    ]
+}

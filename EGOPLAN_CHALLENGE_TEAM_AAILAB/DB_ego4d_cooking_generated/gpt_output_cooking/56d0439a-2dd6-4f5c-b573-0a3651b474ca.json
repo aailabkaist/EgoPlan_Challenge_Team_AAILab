@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgfGTfNk6T8EXqPESMriWEHmjAZY",
+    "object": "chat.completion",
+    "created": 1719245822,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and storing food using various kitchen items and appliances\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing ingredients and seasoning\",\n      \"start_timestamp\": 30,\n      \"stop_timestamp\": 762,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Taking and handling kitchen items\",\n          \"start_timestamp\": 30,\n          \"stop_timestamp\": 369\n        },\n        {\n          \"secondary_subgoal\": \"Handling spices\",\n          \"start_timestamp\": 369,\n          \"stop_timestamp\": 762\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handling waste and preparing sachets\",\n      \"start_timestamp\": 762,\n      \"stop_timestamp\": 1671,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Throwing away sachet\",\n          \"start_timestamp\": 762,\n          \"stop_timestamp\": 828\n        },\n        {\n          \"secondary_subgoal\": \"Preparing more sachets\",\n          \"start_timestamp\": 828,\n          \"stop_timestamp\": 1289\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning up\",\n          \"start_timestamp\": 1289,\n          \"stop_timestamp\": 1671\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning kitchen items\",\n      \"start_timestamp\": 1671,\n      \"stop_timestamp\": 2070,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cleaning and putting away the lid\",\n          \"start_timestamp\": 1671,\n          \"stop_timestamp\": 2031\n        },\n        {\n          \"secondary_subgoal\": \"Closing the tap\",\n          \"start_timestamp\": 2031,\n          \"stop_timestamp\": 2070\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Stirring food and using the microwave\",\n      \"start_timestamp\": 2070,\n      \"stop_timestamp\": 689,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handling food with microwave\",\n          \"start_timestamp\": 4579,\n          \"stop_timestamp\": 5004\n        },\n        {\n          \"secondary_subgoal\": \"Stirring food with chopsticks\",\n          \"start_timestamp\": 5004,\n          \"stop_timestamp\": 5258\n        },\n        {\n          \"secondary_subgoal\": \"Handling food and microwave\",\n          \"start_timestamp\": 5258,\n          \"stop_timestamp\": 646\n        },\n        {\n          \"secondary_subgoal\": \"Handling dirty foil paper and fridge\",\n          \"start_timestamp\": 646,\n          \"stop_timestamp\": 689\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 919,
+        "completion_tokens": 567,
+        "total_tokens": 1486
+    },
+    "system_fingerprint": "fp_5e6c71d4a8"
+}

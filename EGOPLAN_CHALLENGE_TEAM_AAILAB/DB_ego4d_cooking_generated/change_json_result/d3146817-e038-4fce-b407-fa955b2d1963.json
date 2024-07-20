@@ -1,0 +1,120 @@
+{
+    "overall_goal": "C prepares, cooks, and consumes a meal, then engages in sewing and knitting activities.",
+    "clips": [
+        {
+            "subgoal": "C prepares chapati and coconut stew",
+            "start_timestamp": 31742,
+            "stop_timestamp": 40304,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C fries chapatis",
+                    "start_timestamp": 31742,
+                    "stop_timestamp": 35221
+                },
+                {
+                    "secondary_subgoal": "C handles coconut and checks the chapati",
+                    "start_timestamp": 35221,
+                    "stop_timestamp": 36837
+                },
+                {
+                    "secondary_subgoal": "C adjusts stove and prepares pot",
+                    "start_timestamp": 36837,
+                    "stop_timestamp": 37716
+                },
+                {
+                    "secondary_subgoal": "C eats coconut and finishes cooking chapati",
+                    "start_timestamp": 37716,
+                    "stop_timestamp": 40508
+                }
+            ]
+        },
+        {
+            "subgoal": "C serves and sets up food for eating",
+            "start_timestamp": 40508,
+            "stop_timestamp": 43668,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C serves chapati and stew onto plates",
+                    "start_timestamp": 40508,
+                    "stop_timestamp": 42187
+                },
+                {
+                    "secondary_subgoal": "C arranges plates and jug",
+                    "start_timestamp": 42187,
+                    "stop_timestamp": 43668
+                }
+            ]
+        },
+        {
+            "subgoal": "C eats the meal",
+            "start_timestamp": 43668,
+            "stop_timestamp": 52856,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C begins eating chapati with stew",
+                    "start_timestamp": 43668,
+                    "stop_timestamp": 47776
+                },
+                {
+                    "secondary_subgoal": "C continues eating chapati and meat",
+                    "start_timestamp": 47776,
+                    "stop_timestamp": 51959
+                },
+                {
+                    "secondary_subgoal": "C drinks water and washes hands",
+                    "start_timestamp": 51959,
+                    "stop_timestamp": 52589
+                },
+                {
+                    "secondary_subgoal": "C relaxes and rests",
+                    "start_timestamp": 52589,
+                    "stop_timestamp": 52856
+                }
+            ]
+        },
+        {
+            "subgoal": "C shifts to weaving/knitting tasks",
+            "start_timestamp": 52856,
+            "stop_timestamp": 109868,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C knits a fabric with a crochet hook",
+                    "start_timestamp": 52856,
+                    "stop_timestamp": 60999
+                },
+                {
+                    "secondary_subgoal": "C clears and prepares fireplace",
+                    "start_timestamp": 60999,
+                    "stop_timestamp": 68723
+                },
+                {
+                    "secondary_subgoal": "C spins yam and knits fabric",
+                    "start_timestamp": 68723,
+                    "stop_timestamp": 107177
+                },
+                {
+                    "secondary_subgoal": "C starts using a phone",
+                    "start_timestamp": 107177,
+                    "stop_timestamp": 109868
+                }
+            ]
+        },
+        {
+            "subgoal": "C continues with knitting tasks and talking on the phone",
+            "start_timestamp": 109868,
+            "stop_timestamp": 151495,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C talks on the phone and knits",
+                    "start_timestamp": 109868,
+                    "stop_timestamp": 138540
+                },
+                {
+                    "secondary_subgoal": "C continues knitting without phone",
+                    "start_timestamp": 138540,
+                    "stop_timestamp": 151495
+                }
+            ]
+        }
+    ]
+}

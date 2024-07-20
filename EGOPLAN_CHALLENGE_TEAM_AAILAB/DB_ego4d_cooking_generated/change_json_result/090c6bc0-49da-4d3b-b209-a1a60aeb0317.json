@@ -1,0 +1,136 @@
+{
+    "overall_goal": "Preparing a meal with vegetables and meat",
+    "clips": [
+        {
+            "subgoal": "Washing hands",
+            "start_timestamp": 12,
+            "stop_timestamp": 204,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open tap",
+                    "start_timestamp": 12,
+                    "stop_timestamp": 61
+                },
+                {
+                    "secondary_subgoal": "Wash hands",
+                    "start_timestamp": 61,
+                    "stop_timestamp": 106
+                },
+                {
+                    "secondary_subgoal": "Close tap",
+                    "start_timestamp": 106,
+                    "stop_timestamp": 204
+                }
+            ]
+        },
+        {
+            "subgoal": "Gathering ingredients",
+            "start_timestamp": 204,
+            "stop_timestamp": 1300,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and close fridge",
+                    "start_timestamp": 340,
+                    "stop_timestamp": 916
+                },
+                {
+                    "secondary_subgoal": "Open drawer, pick and drop shopping bag and ingredients",
+                    "start_timestamp": 916,
+                    "stop_timestamp": 1437
+                },
+                {
+                    "secondary_subgoal": "Move items and collect cabbage",
+                    "start_timestamp": 1437,
+                    "stop_timestamp": 1910
+                },
+                {
+                    "secondary_subgoal": "Wash cabbage",
+                    "start_timestamp": 1910,
+                    "stop_timestamp": 2326
+                },
+                {
+                    "secondary_subgoal": "Peel cabbage multiple times",
+                    "start_timestamp": 2326,
+                    "stop_timestamp": 2782
+                },
+                {
+                    "secondary_subgoal": "Wash cabbage",
+                    "start_timestamp": 2782,
+                    "stop_timestamp": 3036
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing vegetables",
+            "start_timestamp": 3036,
+            "stop_timestamp": 11275,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and close drawers, pick items",
+                    "start_timestamp": 3036,
+                    "stop_timestamp": 3462
+                },
+                {
+                    "secondary_subgoal": "Select cooking utensils and prepare meat",
+                    "start_timestamp": 3528,
+                    "stop_timestamp": 3076
+                },
+                {
+                    "secondary_subgoal": "Wash hands and pour cooking oil",
+                    "start_timestamp": 4480,
+                    "stop_timestamp": 4860
+                },
+                {
+                    "secondary_subgoal": "Get more items from fridge",
+                    "start_timestamp": 4860,
+                    "stop_timestamp": 5226
+                },
+                {
+                    "secondary_subgoal": "Stir food and regulate fire",
+                    "start_timestamp": 5226,
+                    "stop_timestamp": 6210
+                },
+                {
+                    "secondary_subgoal": "Chopping vegetables",
+                    "start_timestamp": 8754,
+                    "stop_timestamp": 11741
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking meat and vegetables",
+            "start_timestamp": 6207,
+            "stop_timestamp": 15268,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir and fry food",
+                    "start_timestamp": 6207,
+                    "stop_timestamp": 12356
+                },
+                {
+                    "secondary_subgoal": "Add oil and other ingredients",
+                    "start_timestamp": 13191,
+                    "stop_timestamp": 14446
+                },
+                {
+                    "secondary_subgoal": "Serve the food",
+                    "start_timestamp": 15119,
+                    "stop_timestamp": 15288
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing dishes",
+            "start_timestamp": 15744,
+            "stop_timestamp": 12696,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing utensils and kitchen tools",
+                    "start_timestamp": 15744,
+                    "stop_timestamp": 17034
+                }
+            ]
+        }
+    ],
+    "segments": []
+}

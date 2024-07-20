@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eePzkOVuSNznmfmDQcaOJzofVQzm",
+    "object": "chat.completion",
+    "created": 1719475515,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Remove and collect maize kernels from cobs into a cooking pot and an aluminum trough.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Remove maize kernels from the cobs and collect them in the cooking pot.\",\n      \"start_timestamp\": 1,\n      \"stop_timestamp\": 21776,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Hold maize cob, de-kernel and switch to next cob.\",\n          \"start_timestamp\": 1,\n          \"stop_timestamp\": 4211\n        },\n        {\n          \"secondary_subgoal\": \"Hold and manipulate maize cobs while removing kernels.\",\n          \"start_timestamp\": 4222,\n          \"stop_timestamp\": 8542\n        },\n        {\n          \"secondary_subgoal\": \"Continuously remove maize kernels from cobs with minor face/body interactions.\",\n          \"start_timestamp\": 5533,\n          \"stop_timestamp\": 21776\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Remove maize kernels from cobs and collect them in an aluminum trough.\",\n      \"start_timestamp\": 21776,\n      \"stop_timestamp\": 109798,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Manually remove maize kernels from the maize cob with some corn breaking/adjusting.\",\n          \"start_timestamp\": 21776,\n          \"stop_timestamp\": 104906\n        },\n        {\n          \"secondary_subgoal\": \"Continuously hold and de-kernel maize cobs.\",\n          \"start_timestamp\": 104906,\n          \"stop_timestamp\": 106945\n        },\n        {\n          \"secondary_subgoal\": \"De-kernel maize and deal with the maize properly by switching hands/adjusting position.\",\n          \"start_timestamp\": 106945,\n          \"stop_timestamp\": 109798\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Organize, adjust and place maize cobs and kernels.\",\n      \"start_timestamp\": 109798,\n      \"stop_timestamp\": 115449,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Peel maize corns and place kernels in the pot.\",\n          \"start_timestamp\": 109798,\n          \"stop_timestamp\": 114799\n        },\n        {\n          \"secondary_subgoal\": \"Touch and arrange maize cobs while placing kernels into the pot.\",\n          \"start_timestamp\": 114799,\n          \"stop_timestamp\": 115449\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9565,
+        "completion_tokens": 526,
+        "total_tokens": 10091
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

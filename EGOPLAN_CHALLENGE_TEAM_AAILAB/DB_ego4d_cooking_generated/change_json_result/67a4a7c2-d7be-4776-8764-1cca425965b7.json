@@ -1,0 +1,179 @@
+{
+    "overall_goal": "Cook a meal consisting of meat and eggplants with spices.",
+    "clips": [
+        {
+            "subgoal": "Prepare the cooking area and utensils",
+            "start_timestamp": 0,
+            "stop_timestamp": 224,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjust cooking gas and pick up the strainer bowl",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 58
+                },
+                {
+                    "secondary_subgoal": "Move the strainer bowl to the sink",
+                    "start_timestamp": 58,
+                    "stop_timestamp": 185
+                },
+                {
+                    "secondary_subgoal": "Proceed back to cooking area",
+                    "start_timestamp": 185,
+                    "stop_timestamp": 224
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking the meat and eggplants",
+            "start_timestamp": 224,
+            "stop_timestamp": 4231,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring and handling the cooking pan",
+                    "start_timestamp": 224,
+                    "stop_timestamp": 808
+                },
+                {
+                    "secondary_subgoal": "Transfer contents to another cooking pan",
+                    "start_timestamp": 808,
+                    "stop_timestamp": 1103
+                },
+                {
+                    "secondary_subgoal": "Move and place the pan on the gas cooker",
+                    "start_timestamp": 1103,
+                    "stop_timestamp": 1211
+                },
+                {
+                    "secondary_subgoal": "Resume stirring ingredients",
+                    "start_timestamp": 1211,
+                    "stop_timestamp": 2852
+                },
+                {
+                    "secondary_subgoal": "Open cabinet, retrieve items, and cut paper towel",
+                    "start_timestamp": 2852,
+                    "stop_timestamp": 3232
+                },
+                {
+                    "secondary_subgoal": "Use paper towel with chopsticks in the pan",
+                    "start_timestamp": 3232,
+                    "stop_timestamp": 3811
+                },
+                {
+                    "secondary_subgoal": "Dispose of paper towel and clean up",
+                    "start_timestamp": 3811,
+                    "stop_timestamp": 4025
+                },
+                {
+                    "secondary_subgoal": "Turn off gas and prepare measuring tools",
+                    "start_timestamp": 4025,
+                    "stop_timestamp": 4480
+                },
+                {
+                    "secondary_subgoal": "Measure and add spices to the dish",
+                    "start_timestamp": 4480,
+                    "stop_timestamp": 5273
+                },
+                {
+                    "secondary_subgoal": "Retrieve more spices from the cabinet",
+                    "start_timestamp": 5273,
+                    "stop_timestamp": 6821
+                },
+                {
+                    "secondary_subgoal": "Final adjustments and placing items back",
+                    "start_timestamp": 6821,
+                    "stop_timestamp": 7350
+                }
+            ]
+        },
+        {
+            "subgoal": "Final seasoning of the dish",
+            "start_timestamp": 7350,
+            "stop_timestamp": 8079,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add salt to the dish multiple times",
+                    "start_timestamp": 7350,
+                    "stop_timestamp": 8000
+                },
+                {
+                    "secondary_subgoal": "Place back salt container",
+                    "start_timestamp": 8000,
+                    "stop_timestamp": 8079
+                }
+            ]
+        },
+        {
+            "subgoal": "Final stirring and mixing",
+            "start_timestamp": 8079,
+            "stop_timestamp": 9643,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Resume stirring",
+                    "start_timestamp": 8079,
+                    "stop_timestamp": 9628
+                },
+                {
+                    "secondary_subgoal": "Retrieve spices from the shelf",
+                    "start_timestamp": 9628,
+                    "stop_timestamp": 9970
+                },
+                {
+                    "secondary_subgoal": "Prepare spice packets and ceramic bowl",
+                    "start_timestamp": 9970,
+                    "stop_timestamp": 10816
+                },
+                {
+                    "secondary_subgoal": "Fold and store spice packets",
+                    "start_timestamp": 10816,
+                    "stop_timestamp": 11126
+                }
+            ]
+        },
+        {
+            "subgoal": "Add and mix final ingredients",
+            "start_timestamp": 11126,
+            "stop_timestamp": 12786,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fill ceramic bowl with water and stir",
+                    "start_timestamp": 11126,
+                    "stop_timestamp": 11891
+                },
+                {
+                    "secondary_subgoal": "Adjust gas knob and conduct final stir",
+                    "start_timestamp": 11891,
+                    "stop_timestamp": 12786
+                }
+            ]
+        },
+        {
+            "subgoal": "Cover the dish to cook",
+            "start_timestamp": 12786,
+            "stop_timestamp": 13106,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve pot lid and cover the pot",
+                    "start_timestamp": 12786,
+                    "stop_timestamp": 13001
+                },
+                {
+                    "secondary_subgoal": "Adjust cooker hood buttons",
+                    "start_timestamp": 13001,
+                    "stop_timestamp": 13106
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle post-cooking activities",
+            "start_timestamp": 13106,
+            "stop_timestamp": 13206,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Interact with spice cabinet and iPad",
+                    "start_timestamp": 13106,
+                    "stop_timestamp": 13206
+                }
+            ]
+        }
+    ]
+}

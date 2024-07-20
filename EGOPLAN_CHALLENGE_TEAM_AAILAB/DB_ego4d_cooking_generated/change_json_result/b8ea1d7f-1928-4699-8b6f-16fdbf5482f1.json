@@ -1,0 +1,137 @@
+{
+    "overall_goal": "Prepare and cook broth, clean up utensils used, and adjust the cooking process.",
+    "clips": [
+        {
+            "subgoal": "Prepare the broth by adding water and stirring with a spoon.",
+            "start_timestamp": 6,
+            "stop_timestamp": 1399,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add water to the can and the cooking pot.",
+                    "start_timestamp": 6,
+                    "stop_timestamp": 62
+                },
+                {
+                    "secondary_subgoal": "Stir and adjust the broth.",
+                    "start_timestamp": 233,
+                    "stop_timestamp": 1399
+                }
+            ]
+        },
+        {
+            "subgoal": "Collect and clean used utensils.",
+            "start_timestamp": 1399,
+            "stop_timestamp": 3271,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean flat wooden spoon.",
+                    "start_timestamp": 1399,
+                    "stop_timestamp": 2216
+                },
+                {
+                    "secondary_subgoal": "Clean bowl.",
+                    "start_timestamp": 2245,
+                    "stop_timestamp": 3433
+                },
+                {
+                    "secondary_subgoal": "Clean knife.",
+                    "start_timestamp": 3453,
+                    "stop_timestamp": 3725
+                },
+                {
+                    "secondary_subgoal": "Wipe kitchen counter and discard tissue.",
+                    "start_timestamp": 3725,
+                    "stop_timestamp": 3895
+                },
+                {
+                    "secondary_subgoal": "Clean chopping board.",
+                    "start_timestamp": 3973,
+                    "stop_timestamp": 4331
+                },
+                {
+                    "secondary_subgoal": "Wipe kitchen counter.",
+                    "start_timestamp": 4529,
+                    "stop_timestamp": 4592
+                }
+            ]
+        },
+        {
+            "subgoal": "Adjust heat and stir the broth.",
+            "start_timestamp": 4873,
+            "stop_timestamp": 12116,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjust heat and check the broth.",
+                    "start_timestamp": 4873,
+                    "stop_timestamp": 5197
+                },
+                {
+                    "secondary_subgoal": "Open and scoop ingredients.",
+                    "start_timestamp": 5225,
+                    "stop_timestamp": 5720
+                },
+                {
+                    "secondary_subgoal": "Run water in a measuring jar.",
+                    "start_timestamp": 5823,
+                    "stop_timestamp": 5982
+                },
+                {
+                    "secondary_subgoal": "Stir the broth with spatula and serving spoon.",
+                    "start_timestamp": 6108,
+                    "stop_timestamp": 8263
+                },
+                {
+                    "secondary_subgoal": "Stir and sieve broth.",
+                    "start_timestamp": 8672,
+                    "stop_timestamp": 11798
+                },
+                {
+                    "secondary_subgoal": "Scoop and pour ingredients into the soup.",
+                    "start_timestamp": 12116,
+                    "stop_timestamp": 15622
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir and taste the soup.",
+            "start_timestamp": 16068,
+            "stop_timestamp": 16593,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Final checks and seasoning.",
+                    "start_timestamp": 16068,
+                    "stop_timestamp": 16593
+                }
+            ]
+        },
+        {
+            "subgoal": "Finishing touches on cooking.",
+            "start_timestamp": 17449,
+            "stop_timestamp": 21092,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add spices and stir.",
+                    "start_timestamp": 17449,
+                    "stop_timestamp": 18238
+                },
+                {
+                    "secondary_subgoal": "Cover the cooking pot and clean up the counter.",
+                    "start_timestamp": 20576,
+                    "stop_timestamp": 21092
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash and clean utensils.",
+            "start_timestamp": 21302,
+            "stop_timestamp": 21492,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash the cleaning dish cloth.",
+                    "start_timestamp": 21302,
+                    "stop_timestamp": 21492
+                }
+            ]
+        }
+    ]
+}

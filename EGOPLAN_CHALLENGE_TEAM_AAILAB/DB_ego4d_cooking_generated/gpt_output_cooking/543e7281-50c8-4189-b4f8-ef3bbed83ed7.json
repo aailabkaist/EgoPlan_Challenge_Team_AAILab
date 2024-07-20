@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efXqc5Jll7OjPQtYxfHAFzYYM99o",
+    "object": "chat.completion",
+    "created": 1719479846,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Collect green leaves from plant branches and place them in a plate.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Pluck leaves from plants and collect branches.\",\n      \"start_timestamp\": 9235,\n      \"stop_timestamp\": 24330,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Break branches from the plant and put on the table.\",\n          \"start_timestamp\": 9235,\n          \"stop_timestamp\": 10263\n        },\n        {\n          \"secondary_subgoal\": \"Pluck leaves from the plant and place in a bowl, interspersed with putting sticks on the table.\",\n          \"start_timestamp\": 10263,\n          \"stop_timestamp\": 16024\n        },\n        {\n          \"secondary_subgoal\": \"Pluck leaves from the plant while occasionally breaking branches and putting sticks on the table.\",\n          \"start_timestamp\": 16024,\n          \"stop_timestamp\": 20554\n        },\n        {\n          \"secondary_subgoal\": \"Remove leaves from branches and place them in a plate while mixing and sorting leaves.\",\n          \"start_timestamp\": 20554,\n          \"stop_timestamp\": 24330\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Separate green leaves from branches and manage them on the table.\",\n      \"start_timestamp\": 24330,\n      \"stop_timestamp\": 24807,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Separate green leaves and put down branches.\",\n          \"start_timestamp\": 24330,\n          \"stop_timestamp\": 24463\n        },\n        {\n          \"secondary_subgoal\": \"Separate green leaves and put down branches intermittently, while managing green leaves on a tray.\",\n          \"start_timestamp\": 24463,\n          \"stop_timestamp\": 24707\n        },\n        {\n          \"secondary_subgoal\": \"Put down a branch on the table.\",\n          \"start_timestamp\": 24707,\n          \"stop_timestamp\": 24807\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3104,
+        "completion_tokens": 430,
+        "total_tokens": 3534
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

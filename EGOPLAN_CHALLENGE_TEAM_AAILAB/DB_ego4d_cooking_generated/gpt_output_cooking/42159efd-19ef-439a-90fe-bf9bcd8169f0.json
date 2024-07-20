@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeDG3A38kGqeDQzRmB6xz91lH7LU",
+    "object": "chat.completion",
+    "created": 1719474726,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Fry chicken, serve it in a plate, and clean the used utensils.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Fry the chicken\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 880,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Hold frying pan and pick chopsticks\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 72\n        },\n        {\n          \"secondary_subgoal\": \"Turn and shake chicken pieces\",\n          \"start_timestamp\": 72,\n          \"stop_timestamp\": 811\n        },\n        {\n          \"secondary_subgoal\": \"Put chopsticks down and turn off the fire\",\n          \"start_timestamp\": 811,\n          \"stop_timestamp\": 880\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and serve chicken on a plate\",\n      \"start_timestamp\": 880,\n      \"stop_timestamp\": 2407,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick items from the fridge and shake a bottle\",\n          \"start_timestamp\": 880,\n          \"stop_timestamp\": 1159\n        },\n        {\n          \"secondary_subgoal\": \"Pick a plate and chopsticks\",\n          \"start_timestamp\": 1214,\n          \"stop_timestamp\": 1341\n        },\n        {\n          \"secondary_subgoal\": \"Lift frying pan and place chicken pieces on plate repeatedly\",\n          \"start_timestamp\": 1370,\n          \"stop_timestamp\": 2407\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean the frying pan and other utensils\",\n      \"start_timestamp\": 2407,\n      \"stop_timestamp\": 6067,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turn on the faucet and put frying pan in running water\",\n          \"start_timestamp\": 2552,\n          \"stop_timestamp\": 2771\n        },\n        {\n          \"secondary_subgoal\": \"Pick polythene paper and pick and shake bottle\",\n          \"start_timestamp\": 2888,\n          \"stop_timestamp\": 3019\n        },\n        {\n          \"secondary_subgoal\": \"Hold plate and open bottle cap\",\n          \"start_timestamp\": 3042,\n          \"stop_timestamp\": 3201\n        },\n        {\n          \"secondary_subgoal\": \"Put unsure item in plate of chicken and close the bottle cap\",\n          \"start_timestamp\": 3278,\n          \"stop_timestamp\": 3622\n        },\n        {\n          \"secondary_subgoal\": \"Place bottle in fridge and grab the plate of chicken\",\n          \"start_timestamp\": 3681,\n          \"stop_timestamp\": 3923\n        },\n        {\n          \"secondary_subgoal\": \"Pick knife and wash dish cloth\",\n          \"start_timestamp\": 3978,\n          \"stop_timestamp\": 4130\n        },\n        {\n          \"secondary_subgoal\": \"Hold frying pan and wash using soap\",\n          \"start_timestamp\": 4279,\n          \"stop_timestamp\": 4473\n        },\n        {\n          \"secondary_subgoal\": \"Wash frying pan and hands\",\n          \"start_timestamp\": 4503,\n          \"stop_timestamp\": 5024\n        },\n        {\n          \"secondary_subgoal\": \"Rinse frying pan and pick knife to wash\",\n          \"start_timestamp\": 5076,\n          \"stop_timestamp\": 5221\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1836,
+        "completion_tokens": 729,
+        "total_tokens": 2565
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

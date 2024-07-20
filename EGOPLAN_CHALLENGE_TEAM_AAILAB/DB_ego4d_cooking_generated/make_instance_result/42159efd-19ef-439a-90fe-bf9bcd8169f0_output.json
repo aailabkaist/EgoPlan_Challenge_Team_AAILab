@@ -1,0 +1,512 @@
+[
+    {
+        "task_goal": "Fry the chicken",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds a frying pan",
+                "start_frame": 1,
+                "stop_frame": 29
+            },
+            {
+                "narration_text": "#C C picks chop sticks",
+                "start_frame": 29,
+                "stop_frame": 72
+            },
+            {
+                "narration_text": "#C C turns chicken pieces",
+                "start_frame": 72,
+                "stop_frame": 393
+            },
+            {
+                "narration_text": "#C C shakes the frying pan",
+                "start_frame": 393,
+                "stop_frame": 432
+            },
+            {
+                "narration_text": "#C C turns chicken pieces",
+                "start_frame": 432,
+                "stop_frame": 811
+            },
+            {
+                "narration_text": "#C C puts chop sticks down",
+                "start_frame": 811,
+                "stop_frame": 846
+            },
+            {
+                "narration_text": "#C C turns off the fire",
+                "start_frame": 846,
+                "stop_frame": 880
+            },
+            {
+                "narration_text": "#C C opens a fridge",
+                "start_frame": 880,
+                "stop_frame": 973
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold frying pan and pick chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds a frying pan",
+                "start_frame": 1,
+                "stop_frame": 29
+            },
+            {
+                "narration_text": "#C C picks chop sticks",
+                "start_frame": 29,
+                "stop_frame": 72
+            },
+            {
+                "narration_text": "#C C turns chicken pieces",
+                "start_frame": 72,
+                "stop_frame": 393
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn and shake chicken pieces",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks chop sticks",
+                "start_frame": 29,
+                "stop_frame": 72
+            },
+            {
+                "narration_text": "#C C turns chicken pieces",
+                "start_frame": 72,
+                "stop_frame": 393
+            },
+            {
+                "narration_text": "#C C shakes the frying pan",
+                "start_frame": 393,
+                "stop_frame": 432
+            },
+            {
+                "narration_text": "#C C turns chicken pieces",
+                "start_frame": 432,
+                "stop_frame": 811
+            },
+            {
+                "narration_text": "#C C puts chop sticks down",
+                "start_frame": 811,
+                "stop_frame": 846
+            }
+        ]
+    },
+    {
+        "task_goal": "Put chopsticks down and turn off the fire",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns chicken pieces",
+                "start_frame": 432,
+                "stop_frame": 811
+            },
+            {
+                "narration_text": "#C C puts chop sticks down",
+                "start_frame": 811,
+                "stop_frame": 846
+            },
+            {
+                "narration_text": "#C C turns off the fire",
+                "start_frame": 846,
+                "stop_frame": 880
+            },
+            {
+                "narration_text": "#C C opens a fridge",
+                "start_frame": 880,
+                "stop_frame": 973
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick items from the fridge and shake a bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns off the fire",
+                "start_frame": 846,
+                "stop_frame": 880
+            },
+            {
+                "narration_text": "#C C opens a fridge",
+                "start_frame": 880,
+                "stop_frame": 973
+            },
+            {
+                "narration_text": "#C C picks #unsure",
+                "start_frame": 973,
+                "stop_frame": 1002
+            },
+            {
+                "narration_text": "#C C closes the fridge door",
+                "start_frame": 1002,
+                "stop_frame": 1032
+            },
+            {
+                "narration_text": "#C C shakes the bottle",
+                "start_frame": 1032,
+                "stop_frame": 1097
+            },
+            {
+                "narration_text": "#C C puts bottle down",
+                "start_frame": 1097,
+                "stop_frame": 1159
+            },
+            {
+                "narration_text": "#C C looks around counter top",
+                "start_frame": 1159,
+                "stop_frame": 1214
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick a plate and chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks around counter top",
+                "start_frame": 1159,
+                "stop_frame": 1214
+            },
+            {
+                "narration_text": "#C C picks plate",
+                "start_frame": 1214,
+                "stop_frame": 1269
+            },
+            {
+                "narration_text": "#C C picks chop sticks",
+                "start_frame": 1269,
+                "stop_frame": 1341
+            },
+            {
+                "narration_text": "#C C lift frying pan from fire",
+                "start_frame": 1341,
+                "stop_frame": 1370
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn on the faucet and put frying pan in running water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns on the faucet",
+                "start_frame": 2528,
+                "stop_frame": 2552
+            },
+            {
+                "narration_text": "#C C holds the frying pan",
+                "start_frame": 2552,
+                "stop_frame": 2611
+            },
+            {
+                "narration_text": "#C C holds the tap",
+                "start_frame": 2611,
+                "stop_frame": 2623
+            },
+            {
+                "narration_text": "#C C removes the frying pan from fire",
+                "start_frame": 2623,
+                "stop_frame": 2658
+            },
+            {
+                "narration_text": "#C C puts frying pan in running water",
+                "start_frame": 2658,
+                "stop_frame": 2771
+            },
+            {
+                "narration_text": "#C C pours water in the sink",
+                "start_frame": 2771,
+                "stop_frame": 2837
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick polythene paper and pick and shake bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a polythene paper",
+                "start_frame": 2853,
+                "stop_frame": 2888
+            },
+            {
+                "narration_text": "#C C puts polythene paper in a drainer",
+                "start_frame": 2888,
+                "stop_frame": 2905
+            },
+            {
+                "narration_text": "#C C picks #unsure",
+                "start_frame": 2905,
+                "stop_frame": 2937
+            },
+            {
+                "narration_text": "#C C picks bottle",
+                "start_frame": 2937,
+                "stop_frame": 2948
+            },
+            {
+                "narration_text": "#C C shakes the bottle",
+                "start_frame": 2948,
+                "stop_frame": 2995
+            },
+            {
+                "narration_text": "#C C puts bottle on a counter top",
+                "start_frame": 2995,
+                "stop_frame": 3019
+            },
+            {
+                "narration_text": "#c C holds plate",
+                "start_frame": 3019,
+                "stop_frame": 3042
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold plate and open bottle cap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c C holds plate",
+                "start_frame": 3019,
+                "stop_frame": 3042
+            },
+            {
+                "narration_text": "#C C picks bottle",
+                "start_frame": 3042,
+                "stop_frame": 3059
+            },
+            {
+                "narration_text": "#C C opens bottle cap",
+                "start_frame": 3059,
+                "stop_frame": 3172
+            },
+            {
+                "narration_text": "#C C picks chop sticks",
+                "start_frame": 3172,
+                "stop_frame": 3201
+            },
+            {
+                "narration_text": "#C C puts chop sticks on a bowl",
+                "start_frame": 3201,
+                "stop_frame": 3278
+            }
+        ]
+    },
+    {
+        "task_goal": "Put unsure item in plate of chicken and close the bottle cap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts chop sticks on a bowl",
+                "start_frame": 3201,
+                "stop_frame": 3278
+            },
+            {
+                "narration_text": "#C C puts #unsure in a plate of chicken",
+                "start_frame": 3278,
+                "stop_frame": 3557
+            },
+            {
+                "narration_text": "#C C closes bottle cap",
+                "start_frame": 3557,
+                "stop_frame": 3622
+            },
+            {
+                "narration_text": "#C C opens the fridge door",
+                "start_frame": 3622,
+                "stop_frame": 3681
+            }
+        ]
+    },
+    {
+        "task_goal": "Place bottle in fridge and grab the plate of chicken",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the fridge door",
+                "start_frame": 3622,
+                "stop_frame": 3681
+            },
+            {
+                "narration_text": "#C C puts bottle in a fridge",
+                "start_frame": 3681,
+                "stop_frame": 3738
+            },
+            {
+                "narration_text": "#C C closes the fridge door",
+                "start_frame": 3738,
+                "stop_frame": 3788
+            },
+            {
+                "narration_text": "#C C grabs the plate of chicken",
+                "start_frame": 3788,
+                "stop_frame": 3859
+            },
+            {
+                "narration_text": "#C C touches #unsure",
+                "start_frame": 3859,
+                "stop_frame": 3923
+            },
+            {
+                "narration_text": "#C C puts plate on countertop",
+                "start_frame": 3923,
+                "stop_frame": 3978
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick knife and wash dish cloth",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts plate on countertop",
+                "start_frame": 3923,
+                "stop_frame": 3978
+            },
+            {
+                "narration_text": "#C C picks knife",
+                "start_frame": 3978,
+                "stop_frame": 4003
+            },
+            {
+                "narration_text": "#C C turns on the faucets",
+                "start_frame": 4003,
+                "stop_frame": 4058
+            },
+            {
+                "narration_text": "#C C picks dish cloth",
+                "start_frame": 4058,
+                "stop_frame": 4085
+            },
+            {
+                "narration_text": "#C C washes dish cloth in water",
+                "start_frame": 4085,
+                "stop_frame": 4122
+            },
+            {
+                "narration_text": "#C C drops dish cloth",
+                "start_frame": 4122,
+                "stop_frame": 4130
+            },
+            {
+                "narration_text": "#C C picks soap",
+                "start_frame": 4130,
+                "stop_frame": 4182
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold frying pan and wash using soap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds frying pan",
+                "start_frame": 4263,
+                "stop_frame": 4279
+            },
+            {
+                "narration_text": "#C C moves faucet",
+                "start_frame": 4279,
+                "stop_frame": 4315
+            },
+            {
+                "narration_text": "#C C puts soap in the frying pan",
+                "start_frame": 4315,
+                "stop_frame": 4383
+            },
+            {
+                "narration_text": "#C C puts frying pan in a sink",
+                "start_frame": 4383,
+                "stop_frame": 4396
+            },
+            {
+                "narration_text": "#C C closes bottle cap",
+                "start_frame": 4396,
+                "stop_frame": 4426
+            },
+            {
+                "narration_text": "#C C puts bottle down",
+                "start_frame": 4426,
+                "stop_frame": 4460
+            },
+            {
+                "narration_text": "#C C turns off faucet",
+                "start_frame": 4460,
+                "stop_frame": 4473
+            },
+            {
+                "narration_text": "#C C picks abrasive",
+                "start_frame": 4473,
+                "stop_frame": 4503
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash frying pan and hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks abrasive",
+                "start_frame": 4473,
+                "stop_frame": 4503
+            },
+            {
+                "narration_text": "#C C washes frying pan",
+                "start_frame": 4503,
+                "stop_frame": 4625
+            },
+            {
+                "narration_text": "#C C puts abrasive in a sink",
+                "start_frame": 4625,
+                "stop_frame": 4681
+            },
+            {
+                "narration_text": "#C C turns on a faucet",
+                "start_frame": 4681,
+                "stop_frame": 4702
+            },
+            {
+                "narration_text": "#C C washes hands",
+                "start_frame": 4702,
+                "stop_frame": 4758
+            },
+            {
+                "narration_text": "#C C rinses frying pan",
+                "start_frame": 4758,
+                "stop_frame": 5024
+            },
+            {
+                "narration_text": "#C C puts frying pan down",
+                "start_frame": 5024,
+                "stop_frame": 5076
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse frying pan and pick knife to wash",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts frying pan down",
+                "start_frame": 5024,
+                "stop_frame": 5076
+            },
+            {
+                "narration_text": "#C C touches scissor",
+                "start_frame": 5076,
+                "stop_frame": 5117
+            },
+            {
+                "narration_text": "#C C picks knife",
+                "start_frame": 5117,
+                "stop_frame": 5153
+            },
+            {
+                "narration_text": "#C C picks dish cloth",
+                "start_frame": 5153,
+                "stop_frame": 5197
+            },
+            {
+                "narration_text": "#C C washes knife",
+                "start_frame": 5197,
+                "stop_frame": 5221
+            },
+            {
+                "narration_text": "#C C drops dish cloth in the sink",
+                "start_frame": 5221,
+                "stop_frame": 5236
+            }
+        ]
+    }
+]

@@ -1,0 +1,196 @@
+{
+    "overall_goal": "Preparing a spaghetti dish and cleaning the kitchen afterward",
+    "clips": [
+        {
+            "subgoal": "Moving the camera to start food preparation",
+            "start_timestamp": 0,
+            "stop_timestamp": 2343,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Moving the camera",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 2343
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling and placing spaghetti into a bowl",
+            "start_timestamp": 2343,
+            "stop_timestamp": 3434,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Lifting spaghetti and placing in bowl",
+                    "start_timestamp": 2343,
+                    "stop_timestamp": 3434
+                }
+            ]
+        },
+        {
+            "subgoal": "Using microwave and preparing additional utensils",
+            "start_timestamp": 3434,
+            "stop_timestamp": 4252,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking cooking stick and moving the camera",
+                    "start_timestamp": 3434,
+                    "stop_timestamp": 3888
+                },
+                {
+                    "secondary_subgoal": "Handling small bowl and microwave",
+                    "start_timestamp": 3888,
+                    "stop_timestamp": 4042
+                },
+                {
+                    "secondary_subgoal": "Operating microwave",
+                    "start_timestamp": 4042,
+                    "stop_timestamp": 4252
+                }
+            ]
+        },
+        {
+            "subgoal": "Using chopsticks and stirring spaghetti",
+            "start_timestamp": 4252,
+            "stop_timestamp": 7589,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring spaghetti",
+                    "start_timestamp": 4252,
+                    "stop_timestamp": 4882
+                },
+                {
+                    "secondary_subgoal": "Moving camera and stirring spaghetti",
+                    "start_timestamp": 4882,
+                    "stop_timestamp": 5547
+                },
+                {
+                    "secondary_subgoal": "Unwrapping and pouring #unsure",
+                    "start_timestamp": 5547,
+                    "stop_timestamp": 6382
+                },
+                {
+                    "secondary_subgoal": "Moving camera and stirring spaghetti",
+                    "start_timestamp": 6382,
+                    "stop_timestamp": 7358
+                },
+                {
+                    "secondary_subgoal": "Stirring spaghetti and placing chopsticks on bowl",
+                    "start_timestamp": 7358,
+                    "stop_timestamp": 7589
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling ingredients and moving around kitchen",
+            "start_timestamp": 7589,
+            "stop_timestamp": 9407,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening fridge, picking and closing fridge",
+                    "start_timestamp": 7589,
+                    "stop_timestamp": 7989
+                },
+                {
+                    "secondary_subgoal": "Moving camera and shaking #unsure",
+                    "start_timestamp": 7989,
+                    "stop_timestamp": 8191
+                },
+                {
+                    "secondary_subgoal": "Cutting #unsure and moving camera",
+                    "start_timestamp": 8191,
+                    "stop_timestamp": 9407
+                }
+            ]
+        },
+        {
+            "subgoal": "Using and cleaning microwave",
+            "start_timestamp": 9407,
+            "stop_timestamp": 9861,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picks kitchen towel",
+                    "start_timestamp": 9407,
+                    "stop_timestamp": 9738
+                },
+                {
+                    "secondary_subgoal": "Cleans microwave, closes microwave, and opens #unsure",
+                    "start_timestamp": 9738,
+                    "stop_timestamp": 9861
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing cutleries and cleaning",
+            "start_timestamp": 9861,
+            "stop_timestamp": 16762,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing cutleries",
+                    "start_timestamp": 9861,
+                    "stop_timestamp": 10006
+                },
+                {
+                    "secondary_subgoal": "Putting spoon down and washing cutleries",
+                    "start_timestamp": 10006,
+                    "stop_timestamp": 11071
+                },
+                {
+                    "secondary_subgoal": "Moves and stirs #unsure",
+                    "start_timestamp": 11071,
+                    "stop_timestamp": 11625
+                },
+                {
+                    "secondary_subgoal": "Picks #unsure and plate, then places plate down",
+                    "start_timestamp": 11625,
+                    "stop_timestamp": 11905
+                },
+                {
+                    "secondary_subgoal": "Handling #unsure with chopsticks and putting in plate",
+                    "start_timestamp": 11905,
+                    "stop_timestamp": 12966
+                },
+                {
+                    "secondary_subgoal": "Moving plate and putting it down",
+                    "start_timestamp": 12966,
+                    "stop_timestamp": 13797
+                },
+                {
+                    "secondary_subgoal": "Continuing to wash and hang cutleries",
+                    "start_timestamp": 13797,
+                    "stop_timestamp": 16503
+                },
+                {
+                    "secondary_subgoal": "Moving around kitchen area",
+                    "start_timestamp": 16503,
+                    "stop_timestamp": 16762
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling food items on kitchen shelf and cleaning",
+            "start_timestamp": 16762,
+            "stop_timestamp": 19979,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling can from top shelf and returning it",
+                    "start_timestamp": 17142,
+                    "stop_timestamp": 18186
+                },
+                {
+                    "secondary_subgoal": "Opening fridge, picking and closing fridge",
+                    "start_timestamp": 18186,
+                    "stop_timestamp": 18918
+                },
+                {
+                    "secondary_subgoal": "Using and closing tap, hanging tongs, washing pot",
+                    "start_timestamp": 18918,
+                    "stop_timestamp": 19622
+                },
+                {
+                    "secondary_subgoal": "Drying hands and touching camera",
+                    "start_timestamp": 19622,
+                    "stop_timestamp": 19979
+                }
+            ]
+        }
+    ]
+}

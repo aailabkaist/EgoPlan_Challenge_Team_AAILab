@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfF7HuqKnfUxpdFyd6JMZjQtlNCI",
+    "object": "chat.completion",
+    "created": 1719240357,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare food and clean the kitchen afterward\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Organize kitchen items\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 187,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Fold polythene paper\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 88\n        },\n        {\n          \"secondary_subgoal\": \"Wrap polythene paper with a rubber band\",\n          \"start_timestamp\": 88,\n          \"stop_timestamp\": 187\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Store items in the cabinet\",\n      \"start_timestamp\": 187,\n      \"stop_timestamp\": 294,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put polythene paper in the cabinet\",\n          \"start_timestamp\": 187,\n          \"stop_timestamp\": 294\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare a food dish\",\n      \"start_timestamp\": 294,\n      \"stop_timestamp\": 9087,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Collect ingredients and necessary tools\",\n          \"start_timestamp\": 294,\n          \"stop_timestamp\": 671\n        },\n        {\n          \"secondary_subgoal\": \"Stir unknown item with chopsticks\",\n          \"start_timestamp\": 671,\n          \"stop_timestamp\": 1834\n        },\n        {\n          \"secondary_subgoal\": \"Whip with a piece of clothing, switch pans and stir\",\n          \"start_timestamp\": 1834,\n          \"stop_timestamp\": 2875\n        },\n        {\n          \"secondary_subgoal\": \"Retrieve ingredients from fridge and add to unknown\",\n          \"start_timestamp\": 2875,\n          \"stop_timestamp\": 4091\n        },\n        {\n          \"secondary_subgoal\": \"Stir ingredients with a cooking spoon\",\n          \"start_timestamp\": 4091,\n          \"stop_timestamp\": 6891\n        },\n        {\n          \"secondary_subgoal\": \"Taste and adjust seasoning\",\n          \"start_timestamp\": 6891,\n          \"stop_timestamp\": 9134\n        },\n        {\n          \"secondary_subgoal\": \"Shake pan and stir with chopsticks\",\n          \"start_timestamp\": 9648,\n          \"stop_timestamp\": 11639\n        },\n        {\n          \"secondary_subgoal\": \"Add and mix unknown ingredients with a cooking spoon\",\n          \"start_timestamp\": 11639,\n          \"stop_timestamp\": 12152\n        },\n        {\n          \"secondary_subgoal\": \"Dispose of waste and finalize dish\",\n          \"start_timestamp\": 12152,\n          \"stop_timestamp\": 15198\n        },\n        {\n          \"secondary_subgoal\": \"Taste final product and clean up\",\n          \"start_timestamp\": 15198,\n          \"stop_timestamp\": 9087\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean kitchen and workspace\",\n      \"start_timestamp\": 9087,\n      \"stop_timestamp\": 21301,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Open drawer, take plate and clean drawer\",\n          \"start_timestamp\": 9087,\n          \"stop_timestamp\": 16724\n        },\n        {\n          \"secondary_subgoal\": \"Peel unknown items and clean hands intermittently\",\n          \"start_timestamp\": 16724,\n          \"stop_timestamp\": 20227\n        },\n        {\n          \"secondary_subgoal\": \"Reorganize and finish up peeling\",\n          \"start_timestamp\": 20227,\n          \"stop_timestamp\": 21301\n        }\n      ]\n    }\n  ]\n}\n```\nThis output provides segmented subgoals and secondary subgoals based on the activities described by the timestamps, achieving the overall goal of preparing food and cleaning the kitchen."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2997,
+        "completion_tokens": 813,
+        "total_tokens": 3810
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

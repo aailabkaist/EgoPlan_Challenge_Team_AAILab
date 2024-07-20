@@ -1,0 +1,797 @@
+[
+    {
+        "task_goal": "Adjust camera and set up cooking area.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Adjust the camera",
+                "start_frame": 1,
+                "stop_frame": 26
+            },
+            {
+                "narration_text": "Puts his hand down",
+                "start_frame": 26,
+                "stop_frame": 41
+            },
+            {
+                "narration_text": "Touches the frying pan",
+                "start_frame": 41,
+                "stop_frame": 74
+            },
+            {
+                "narration_text": "Touches the plate",
+                "start_frame": 74,
+                "stop_frame": 83
+            },
+            {
+                "narration_text": "Moves the plate",
+                "start_frame": 83,
+                "stop_frame": 117
+            },
+            {
+                "narration_text": "Folds his shirt",
+                "start_frame": 117,
+                "stop_frame": 154
+            },
+            {
+                "narration_text": "Puts on the heat",
+                "start_frame": 154,
+                "stop_frame": 245
+            },
+            {
+                "narration_text": "Takes the pan gripper",
+                "start_frame": 245,
+                "stop_frame": 273
+            },
+            {
+                "narration_text": "Fixes the gripper on the pan",
+                "start_frame": 273,
+                "stop_frame": 336
+            }
+        ]
+    },
+    {
+        "task_goal": "Fix the gripper on the frying pan and prepare the pan for cooking.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the pan gripper",
+                "start_frame": 245,
+                "stop_frame": 273
+            },
+            {
+                "narration_text": "Fixes the gripper on the pan",
+                "start_frame": 273,
+                "stop_frame": 336
+            },
+            {
+                "narration_text": "Folds his shirt",
+                "start_frame": 336,
+                "stop_frame": 458
+            }
+        ]
+    },
+    {
+        "task_goal": "Get the necessary ingredients from the fridge (salmon, eggs, mustard).",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Fixes the gripper on the pan",
+                "start_frame": 273,
+                "stop_frame": 336
+            },
+            {
+                "narration_text": "Folds his shirt",
+                "start_frame": 336,
+                "stop_frame": 458
+            },
+            {
+                "narration_text": "Touches the plate",
+                "start_frame": 458,
+                "stop_frame": 471
+            },
+            {
+                "narration_text": "Moves the plate",
+                "start_frame": 471,
+                "stop_frame": 492
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 492,
+                "stop_frame": 628
+            },
+            {
+                "narration_text": "Takes the salmon dish",
+                "start_frame": 628,
+                "stop_frame": 685
+            },
+            {
+                "narration_text": "Puts the salmon dish on top of the fridge",
+                "start_frame": 685,
+                "stop_frame": 701
+            },
+            {
+                "narration_text": "Takes the eggs",
+                "start_frame": 701,
+                "stop_frame": 712
+            },
+            {
+                "narration_text": "Holds the plate in his hand",
+                "start_frame": 712,
+                "stop_frame": 729
+            },
+            {
+                "narration_text": "Puts the eggs on top of the fridge",
+                "start_frame": 729,
+                "stop_frame": 749
+            },
+            {
+                "narration_text": "Puts down the plate",
+                "start_frame": 749,
+                "stop_frame": 811
+            },
+            {
+                "narration_text": "Takes the mustard",
+                "start_frame": 811,
+                "stop_frame": 841
+            },
+            {
+                "narration_text": "Closes the fridge door",
+                "start_frame": 841,
+                "stop_frame": 886
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare and arrange ingredients on the kitchen table.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the mustard",
+                "start_frame": 811,
+                "stop_frame": 841
+            },
+            {
+                "narration_text": "Closes the fridge door",
+                "start_frame": 841,
+                "stop_frame": 886
+            },
+            {
+                "narration_text": "Puts the mustard on the table",
+                "start_frame": 886,
+                "stop_frame": 915
+            },
+            {
+                "narration_text": "Opens the dish with eggs",
+                "start_frame": 915,
+                "stop_frame": 995
+            },
+            {
+                "narration_text": "Puts his hand on the wall",
+                "start_frame": 995,
+                "stop_frame": 1021
+            },
+            {
+                "narration_text": "Holds his hand on the sink",
+                "start_frame": 1021,
+                "stop_frame": 1047
+            },
+            {
+                "narration_text": "Holds the frying pan",
+                "start_frame": 1047,
+                "stop_frame": 1300
+            },
+            {
+                "narration_text": "Looks at the frying pan",
+                "start_frame": 1300,
+                "stop_frame": 1422
+            },
+            {
+                "narration_text": "Puts his hand on the sink",
+                "start_frame": 1422,
+                "stop_frame": 1713
+            },
+            {
+                "narration_text": "Takes oil bottle from the shelf",
+                "start_frame": 1713,
+                "stop_frame": 1812
+            },
+            {
+                "narration_text": "Opens the oil bottle",
+                "start_frame": 1812,
+                "stop_frame": 1911
+            },
+            {
+                "narration_text": "Pours the oil on the frying pan",
+                "start_frame": 1911,
+                "stop_frame": 1946
+            },
+            {
+                "narration_text": "Closes the oi bottle",
+                "start_frame": 1946,
+                "stop_frame": 1994
+            },
+            {
+                "narration_text": "Puts the bottle on the shelve",
+                "start_frame": 1994,
+                "stop_frame": 2050
+            },
+            {
+                "narration_text": "Takes the frying pan",
+                "start_frame": 2050,
+                "stop_frame": 2080
+            },
+            {
+                "narration_text": "Rotates the frying pan",
+                "start_frame": 2080,
+                "stop_frame": 2119
+            },
+            {
+                "narration_text": "Puts the frying pan on the cooking plate",
+                "start_frame": 2119,
+                "stop_frame": 2183
+            },
+            {
+                "narration_text": "Takes the egg",
+                "start_frame": 2183,
+                "stop_frame": 2404
+            }
+        ]
+    },
+    {
+        "task_goal": "Heat the pan and start cooking the eggs.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the egg",
+                "start_frame": 2183,
+                "stop_frame": 2404
+            },
+            {
+                "narration_text": "Holds the frying pan",
+                "start_frame": 2404,
+                "stop_frame": 2528
+            },
+            {
+                "narration_text": "Puts his hand over the frying pan",
+                "start_frame": 2528,
+                "stop_frame": 2615
+            },
+            {
+                "narration_text": "Holds the frying pan",
+                "start_frame": 2615,
+                "stop_frame": 2672
+            },
+            {
+                "narration_text": "Puts down the frying pan",
+                "start_frame": 2672,
+                "stop_frame": 2711
+            },
+            {
+                "narration_text": "Puts his hand over the frying pan",
+                "start_frame": 2711,
+                "stop_frame": 3270
+            },
+            {
+                "narration_text": "Breaks the egg shell",
+                "start_frame": 3270,
+                "stop_frame": 3385
+            },
+            {
+                "narration_text": "Puts the egg on the frying pan",
+                "start_frame": 3385,
+                "stop_frame": 3480
+            },
+            {
+                "narration_text": "Pus the egg shell together",
+                "start_frame": 3480,
+                "stop_frame": 3564
+            },
+            {
+                "narration_text": "Takes the polythene bag",
+                "start_frame": 3564,
+                "stop_frame": 3608
+            },
+            {
+                "narration_text": "Opens the polythene bag",
+                "start_frame": 3608,
+                "stop_frame": 3720
+            },
+            {
+                "narration_text": "Puts the egg shell in the polythene bag",
+                "start_frame": 3720,
+                "stop_frame": 3804
+            },
+            {
+                "narration_text": "Closes the polythene bag",
+                "start_frame": 3804,
+                "stop_frame": 3842
+            },
+            {
+                "narration_text": "Puts down the polythene bag",
+                "start_frame": 3842,
+                "stop_frame": 3931
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 3931,
+                "stop_frame": 3947
+            },
+            {
+                "narration_text": "Washes his hand",
+                "start_frame": 3947,
+                "stop_frame": 3982
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 3982,
+                "stop_frame": 4038
+            },
+            {
+                "narration_text": "Cleans his hand on the towel",
+                "start_frame": 4038,
+                "stop_frame": 4066
+            },
+            {
+                "narration_text": "Closes the egg dish",
+                "start_frame": 4066,
+                "stop_frame": 4130
+            },
+            {
+                "narration_text": "Moves the salmon dish",
+                "start_frame": 4130,
+                "stop_frame": 4153
+            }
+        ]
+    },
+    {
+        "task_goal": "Heat frying pan and break the eggs.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the egg",
+                "start_frame": 2183,
+                "stop_frame": 2404
+            },
+            {
+                "narration_text": "Holds the frying pan",
+                "start_frame": 2404,
+                "stop_frame": 2528
+            },
+            {
+                "narration_text": "Puts his hand over the frying pan",
+                "start_frame": 2528,
+                "stop_frame": 2615
+            },
+            {
+                "narration_text": "Holds the frying pan",
+                "start_frame": 2615,
+                "stop_frame": 2672
+            },
+            {
+                "narration_text": "Puts down the frying pan",
+                "start_frame": 2672,
+                "stop_frame": 2711
+            },
+            {
+                "narration_text": "Puts his hand over the frying pan",
+                "start_frame": 2711,
+                "stop_frame": 3270
+            },
+            {
+                "narration_text": "Breaks the egg shell",
+                "start_frame": 3270,
+                "stop_frame": 3385
+            },
+            {
+                "narration_text": "Puts the egg on the frying pan",
+                "start_frame": 3385,
+                "stop_frame": 3480
+            },
+            {
+                "narration_text": "Pus the egg shell together",
+                "start_frame": 3480,
+                "stop_frame": 3564
+            },
+            {
+                "narration_text": "Takes the polythene bag",
+                "start_frame": 3564,
+                "stop_frame": 3608
+            },
+            {
+                "narration_text": "Opens the polythene bag",
+                "start_frame": 3608,
+                "stop_frame": 3720
+            },
+            {
+                "narration_text": "Puts the egg shell in the polythene bag",
+                "start_frame": 3720,
+                "stop_frame": 3804
+            },
+            {
+                "narration_text": "Closes the polythene bag",
+                "start_frame": 3804,
+                "stop_frame": 3842
+            },
+            {
+                "narration_text": "Puts down the polythene bag",
+                "start_frame": 3842,
+                "stop_frame": 3931
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 3931,
+                "stop_frame": 3947
+            },
+            {
+                "narration_text": "Washes his hand",
+                "start_frame": 3947,
+                "stop_frame": 3982
+            }
+        ]
+    },
+    {
+        "task_goal": "Dispose of egg shell and clean hands.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 3931,
+                "stop_frame": 3947
+            },
+            {
+                "narration_text": "Washes his hand",
+                "start_frame": 3947,
+                "stop_frame": 3982
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 3982,
+                "stop_frame": 4038
+            },
+            {
+                "narration_text": "Cleans his hand on the towel",
+                "start_frame": 4038,
+                "stop_frame": 4066
+            },
+            {
+                "narration_text": "Closes the egg dish",
+                "start_frame": 4066,
+                "stop_frame": 4130
+            },
+            {
+                "narration_text": "Moves the salmon dish",
+                "start_frame": 4130,
+                "stop_frame": 4153
+            }
+        ]
+    },
+    {
+        "task_goal": "Interact with cooking utensils and continue cooking eggs.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the egg dish",
+                "start_frame": 4066,
+                "stop_frame": 4130
+            },
+            {
+                "narration_text": "Moves the salmon dish",
+                "start_frame": 4130,
+                "stop_frame": 4153
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 4153,
+                "stop_frame": 4204
+            },
+            {
+                "narration_text": "Puts the eggs in the fridge",
+                "start_frame": 4204,
+                "stop_frame": 4264
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 4264,
+                "stop_frame": 4373
+            },
+            {
+                "narration_text": "Takes the chop sticks",
+                "start_frame": 4373,
+                "stop_frame": 4520
+            },
+            {
+                "narration_text": "Cleans the chop sticks",
+                "start_frame": 4520,
+                "stop_frame": 4550
+            },
+            {
+                "narration_text": "Shakes the chop sticks",
+                "start_frame": 4550,
+                "stop_frame": 4600
+            },
+            {
+                "narration_text": "Checks the eggs with the chop sticks",
+                "start_frame": 4600,
+                "stop_frame": 4740
+            },
+            {
+                "narration_text": "Holds the chop sticks in his hand",
+                "start_frame": 4740,
+                "stop_frame": 5197
+            },
+            {
+                "narration_text": "Puts the egg together with the chop stick",
+                "start_frame": 5197,
+                "stop_frame": 5451
+            },
+            {
+                "narration_text": "Checks the eggs with the chop sticks",
+                "start_frame": 5451,
+                "stop_frame": 5693
+            },
+            {
+                "narration_text": "Puts his hand on the pan gripper",
+                "start_frame": 5693,
+                "stop_frame": 5944
+            },
+            {
+                "narration_text": "Puts his hand on the sink",
+                "start_frame": 5944,
+                "stop_frame": 6103
+            },
+            {
+                "narration_text": "Checks the eggs with the chop sticks",
+                "start_frame": 6103,
+                "stop_frame": 6507
+            },
+            {
+                "narration_text": "Turns the egg",
+                "start_frame": 6507,
+                "stop_frame": 6795
+            },
+            {
+                "narration_text": "Looks at the egg",
+                "start_frame": 6795,
+                "stop_frame": 7028
+            },
+            {
+                "narration_text": "Checks the eggs with the chop sticks",
+                "start_frame": 7028,
+                "stop_frame": 7069
+            },
+            {
+                "narration_text": "Holds the frying pan",
+                "start_frame": 7069,
+                "stop_frame": 7267
+            },
+            {
+                "narration_text": "Checks the eggs with the chop sticks",
+                "start_frame": 7267,
+                "stop_frame": 7416
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn eggs, put them on the plate and prepare for salmon.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the frying pan",
+                "start_frame": 7069,
+                "stop_frame": 7267
+            },
+            {
+                "narration_text": "Checks the eggs with the chop sticks",
+                "start_frame": 7267,
+                "stop_frame": 7416
+            },
+            {
+                "narration_text": "Removes his hand from the pan gripper",
+                "start_frame": 7416,
+                "stop_frame": 7455
+            },
+            {
+                "narration_text": "Puts the chop sticks in the other hand",
+                "start_frame": 7455,
+                "stop_frame": 7644
+            },
+            {
+                "narration_text": "Looks at the egg",
+                "start_frame": 7644,
+                "stop_frame": 8043
+            },
+            {
+                "narration_text": "Holds the frying pan",
+                "start_frame": 8043,
+                "stop_frame": 8079
+            },
+            {
+                "narration_text": "Removes the frying pan",
+                "start_frame": 8079,
+                "stop_frame": 8142
+            },
+            {
+                "narration_text": "Turns the egg with chop sticks",
+                "start_frame": 8142,
+                "stop_frame": 8212
+            },
+            {
+                "narration_text": "Walks towards the plate",
+                "start_frame": 8212,
+                "stop_frame": 8346
+            },
+            {
+                "narration_text": "Puts the egg on the plate",
+                "start_frame": 8346,
+                "stop_frame": 8397
+            },
+            {
+                "narration_text": "Walks towards the cooking gas",
+                "start_frame": 8397,
+                "stop_frame": 8460
+            },
+            {
+                "narration_text": "Puts the egg on the plate",
+                "start_frame": 8460,
+                "stop_frame": 8515
+            },
+            {
+                "narration_text": "Puts the frying pan on the cooking plate",
+                "start_frame": 8515,
+                "stop_frame": 8578
+            },
+            {
+                "narration_text": "Puts the chop stick in the sink",
+                "start_frame": 8578,
+                "stop_frame": 8604
+            }
+        ]
+    },
+    {
+        "task_goal": "Add soy sauce and finish cooking the salmon.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down the bottle",
+                "start_frame": 12802,
+                "stop_frame": 12824
+            },
+            {
+                "narration_text": "Takes the chop sticks",
+                "start_frame": 12824,
+                "stop_frame": 12878
+            },
+            {
+                "narration_text": "Moves the salmon with the chop sticks",
+                "start_frame": 12878,
+                "stop_frame": 13184
+            },
+            {
+                "narration_text": "Turns the salmon",
+                "start_frame": 13184,
+                "stop_frame": 13269
+            },
+            {
+                "narration_text": "Moves the salmon with the chop sticks",
+                "start_frame": 13269,
+                "stop_frame": 13388
+            },
+            {
+                "narration_text": "Turns the salmon",
+                "start_frame": 13388,
+                "stop_frame": 13484
+            },
+            {
+                "narration_text": "Moves the salmon with the chop sticks",
+                "start_frame": 13484,
+                "stop_frame": 13595
+            },
+            {
+                "narration_text": "Turns the salmon",
+                "start_frame": 13595,
+                "stop_frame": 13632
+            },
+            {
+                "narration_text": "Moves the salmon with the chop sticks",
+                "start_frame": 13632,
+                "stop_frame": 14135
+            },
+            {
+                "narration_text": "Turns the salmon",
+                "start_frame": 14135,
+                "stop_frame": 14180
+            },
+            {
+                "narration_text": "Turns off the heat",
+                "start_frame": 14180,
+                "stop_frame": 14215
+            },
+            {
+                "narration_text": "Holds the frying pan",
+                "start_frame": 14215,
+                "stop_frame": 14271
+            },
+            {
+                "narration_text": "Turns the salmon",
+                "start_frame": 14271,
+                "stop_frame": 14529
+            },
+            {
+                "narration_text": "Moves close to the plate",
+                "start_frame": 14529,
+                "stop_frame": 14641
+            },
+            {
+                "narration_text": "Puts the salmon on the plate",
+                "start_frame": 14641,
+                "stop_frame": 14924
+            },
+            {
+                "narration_text": "Rubs the frying pan with chop sticks",
+                "start_frame": 14924,
+                "stop_frame": 15004
+            }
+        ]
+    },
+    {
+        "task_goal": "Do additional sink cleaning and general kitchen tidying.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes his hands",
+                "start_frame": 19225,
+                "stop_frame": 19257
+            },
+            {
+                "narration_text": "Picks a cleaning sponge",
+                "start_frame": 19257,
+                "stop_frame": 19287
+            },
+            {
+                "narration_text": "Cleans the sink",
+                "start_frame": 19287,
+                "stop_frame": 19768
+            },
+            {
+                "narration_text": "Puts the cleaning sponge on the sink area",
+                "start_frame": 19768,
+                "stop_frame": 19813
+            },
+            {
+                "narration_text": "Moves the water tap",
+                "start_frame": 19813,
+                "stop_frame": 19827
+            },
+            {
+                "narration_text": "Moves detergent on the sink area",
+                "start_frame": 19827,
+                "stop_frame": 19861
+            },
+            {
+                "narration_text": "Moves the water tap",
+                "start_frame": 19861,
+                "stop_frame": 19961
+            },
+            {
+                "narration_text": "Picks the pan",
+                "start_frame": 19961,
+                "stop_frame": 20021
+            },
+            {
+                "narration_text": "Pours water on the sink",
+                "start_frame": 20021,
+                "stop_frame": 20100
+            },
+            {
+                "narration_text": "Puts the pan on the cooker",
+                "start_frame": 20100,
+                "stop_frame": 20162
+            },
+            {
+                "narration_text": "Moves detergent on the sink area",
+                "start_frame": 20162,
+                "stop_frame": 20286
+            },
+            {
+                "narration_text": "Dries his hands",
+                "start_frame": 20286,
+                "stop_frame": 20327
+            },
+            {
+                "narration_text": "Adjusts the camera",
+                "start_frame": 20327,
+                "stop_frame": 20427
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehIeBskL1JOKjbHmyEb7NOzuwGss",
+    "object": "chat.completion",
+    "created": 1719486592,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cook a dish by mixing various ingredients in a pot on the stove.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare initial mixture in the pot.\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 532,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Hold and start mixing ingredients.\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 152\n        },\n        {\n          \"secondary_subgoal\": \"Pick up and handle the lid.\",\n          \"start_timestamp\": 152,\n          \"stop_timestamp\": 200\n        },\n        {\n          \"secondary_subgoal\": \"Continue mixing ingredients in the pot.\",\n          \"start_timestamp\": 200,\n          \"stop_timestamp\": 253\n        },\n        {\n          \"secondary_subgoal\": \"Place and prepare additional ingredients.\",\n          \"start_timestamp\": 253,\n          \"stop_timestamp\": 532\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Add and mix ingredients continuously.\",\n      \"start_timestamp\": 532,\n      \"stop_timestamp\": 14166,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Continuously mix food in the pot.\",\n          \"start_timestamp\": 532,\n          \"stop_timestamp\": 866\n        },\n        {\n          \"secondary_subgoal\": \"Pour additional ingredients and mix.\",\n          \"start_timestamp\": 866,\n          \"stop_timestamp\": 10609\n        },\n        {\n          \"secondary_subgoal\": \"Interact with additional person and manipulate leaves for cooking.\",\n          \"start_timestamp\": 10609,\n          \"stop_timestamp\": 12008\n        },\n        {\n          \"secondary_subgoal\": \"Mix different ingredients like garlic and beans in the pot.\",\n          \"start_timestamp\": 12008,\n          \"stop_timestamp\": 14166\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Mix food thoroughly using a skimmer.\",\n      \"start_timestamp\": 14166,\n      \"stop_timestamp\": 24842,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Mix and shake food using a skimmer.\",\n          \"start_timestamp\": 14166,\n          \"stop_timestamp\": 20717\n        },\n        {\n          \"secondary_subgoal\": \"Continue mixing food in the pan with a skimmer.\",\n          \"start_timestamp\": 20717,\n          \"stop_timestamp\": 24842\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final mixing steps and adjustments.\",\n      \"start_timestamp\": 24842,\n      \"stop_timestamp\": 29611,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Final stirs and shakes in the cooking pot.\",\n          \"start_timestamp\": 24842,\n          \"stop_timestamp\": 28386\n        },\n        {\n          \"secondary_subgoal\": \"Get assistance from lady X for seasoning.\",\n          \"start_timestamp\": 28386,\n          \"stop_timestamp\": 29012\n        },\n        {\n          \"secondary_subgoal\": \"Final adjustments and camera setup.\",\n          \"start_timestamp\": 29012,\n          \"stop_timestamp\": 29611\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2772,
+        "completion_tokens": 676,
+        "total_tokens": 3448
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

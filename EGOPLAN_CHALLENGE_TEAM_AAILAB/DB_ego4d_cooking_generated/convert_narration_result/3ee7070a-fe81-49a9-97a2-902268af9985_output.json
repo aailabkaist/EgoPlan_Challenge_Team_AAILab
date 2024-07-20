@@ -1,0 +1,847 @@
+[
+    {
+        "task_goal": "Retrieve meat from fridge and prepare for cooking",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around",
+                "start_frame": 18,
+                "stop_frame": 55
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 55,
+                "stop_frame": 106
+            },
+            {
+                "narration_text": "Takes the meat",
+                "start_frame": 106,
+                "stop_frame": 202
+            },
+            {
+                "narration_text": "Removes the meat in the paper",
+                "start_frame": 202,
+                "stop_frame": 247
+            },
+            {
+                "narration_text": "Folds the polythene paper",
+                "start_frame": 247,
+                "stop_frame": 337
+            },
+            {
+                "narration_text": "Throws the polythene paper on the table",
+                "start_frame": 337,
+                "stop_frame": 369
+            },
+            {
+                "narration_text": "Opens the packed meat",
+                "start_frame": 369,
+                "stop_frame": 485
+            },
+            {
+                "narration_text": "A man x reads unsure",
+                "start_frame": 485,
+                "stop_frame": 582
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the fridge and take the meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around",
+                "start_frame": 18,
+                "stop_frame": 55
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 55,
+                "stop_frame": 106
+            },
+            {
+                "narration_text": "Takes the meat",
+                "start_frame": 106,
+                "stop_frame": 202
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove meat from packaging",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 55,
+                "stop_frame": 106
+            },
+            {
+                "narration_text": "Takes the meat",
+                "start_frame": 106,
+                "stop_frame": 202
+            },
+            {
+                "narration_text": "Removes the meat in the paper",
+                "start_frame": 202,
+                "stop_frame": 247
+            },
+            {
+                "narration_text": "Folds the polythene paper",
+                "start_frame": 247,
+                "stop_frame": 337
+            }
+        ]
+    },
+    {
+        "task_goal": "Dispose of packaging",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Removes the meat in the paper",
+                "start_frame": 202,
+                "stop_frame": 247
+            },
+            {
+                "narration_text": "Folds the polythene paper",
+                "start_frame": 247,
+                "stop_frame": 337
+            },
+            {
+                "narration_text": "Throws the polythene paper on the table",
+                "start_frame": 337,
+                "stop_frame": 369
+            },
+            {
+                "narration_text": "Opens the packed meat",
+                "start_frame": 369,
+                "stop_frame": 485
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the packed meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Throws the polythene paper on the table",
+                "start_frame": 337,
+                "stop_frame": 369
+            },
+            {
+                "narration_text": "Opens the packed meat",
+                "start_frame": 369,
+                "stop_frame": 485
+            },
+            {
+                "narration_text": "A man x reads unsure",
+                "start_frame": 485,
+                "stop_frame": 582
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare the meat for cooking",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the packed meat",
+                "start_frame": 369,
+                "stop_frame": 485
+            },
+            {
+                "narration_text": "A man x reads unsure",
+                "start_frame": 485,
+                "stop_frame": 582
+            },
+            {
+                "narration_text": "Puts the meat in a bowl",
+                "start_frame": 582,
+                "stop_frame": 677
+            },
+            {
+                "narration_text": "Places the plastic container in the sink",
+                "start_frame": 677,
+                "stop_frame": 710
+            },
+            {
+                "narration_text": "Opens the packed meat",
+                "start_frame": 710,
+                "stop_frame": 925
+            },
+            {
+                "narration_text": "Folds the polythene paper",
+                "start_frame": 925,
+                "stop_frame": 964
+            }
+        ]
+    },
+    {
+        "task_goal": "Put meat in a bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "A man x reads unsure",
+                "start_frame": 485,
+                "stop_frame": 582
+            },
+            {
+                "narration_text": "Puts the meat in a bowl",
+                "start_frame": 582,
+                "stop_frame": 677
+            },
+            {
+                "narration_text": "Places the plastic container in the sink",
+                "start_frame": 677,
+                "stop_frame": 710
+            }
+        ]
+    },
+    {
+        "task_goal": "Place packaging in the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the meat in a bowl",
+                "start_frame": 582,
+                "stop_frame": 677
+            },
+            {
+                "narration_text": "Places the plastic container in the sink",
+                "start_frame": 677,
+                "stop_frame": 710
+            },
+            {
+                "narration_text": "Opens the packed meat",
+                "start_frame": 710,
+                "stop_frame": 925
+            }
+        ]
+    },
+    {
+        "task_goal": "Repeat opening and placing meat in the bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the plastic container in the sink",
+                "start_frame": 677,
+                "stop_frame": 710
+            },
+            {
+                "narration_text": "Opens the packed meat",
+                "start_frame": 710,
+                "stop_frame": 925
+            },
+            {
+                "narration_text": "Folds the polythene paper",
+                "start_frame": 925,
+                "stop_frame": 964
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash up after meat preparation",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the plate in the sink",
+                "start_frame": 1203,
+                "stop_frame": 1233
+            },
+            {
+                "narration_text": "Washes the plates",
+                "start_frame": 1233,
+                "stop_frame": 1469
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 1469,
+                "stop_frame": 1482
+            },
+            {
+                "narration_text": "Shakes the plate",
+                "start_frame": 1482,
+                "stop_frame": 1515
+            },
+            {
+                "narration_text": "Places the plate in the sink",
+                "start_frame": 1515,
+                "stop_frame": 1516
+            },
+            {
+                "narration_text": "Unfolds the polythene paper",
+                "start_frame": 1516,
+                "stop_frame": 1631
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the plates and close the tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the plate in the sink",
+                "start_frame": 1203,
+                "stop_frame": 1233
+            },
+            {
+                "narration_text": "Washes the plates",
+                "start_frame": 1233,
+                "stop_frame": 1469
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 1469,
+                "stop_frame": 1482
+            },
+            {
+                "narration_text": "Shakes the plate",
+                "start_frame": 1482,
+                "stop_frame": 1515
+            }
+        ]
+    },
+    {
+        "task_goal": "Shake and place the plate in the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 1469,
+                "stop_frame": 1482
+            },
+            {
+                "narration_text": "Shakes the plate",
+                "start_frame": 1482,
+                "stop_frame": 1515
+            },
+            {
+                "narration_text": "Places the plate in the sink",
+                "start_frame": 1515,
+                "stop_frame": 1516
+            },
+            {
+                "narration_text": "Unfolds the polythene paper",
+                "start_frame": 1516,
+                "stop_frame": 1631
+            }
+        ]
+    },
+    {
+        "task_goal": "Collect and dispose of waste in polythene paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the plate in the sink",
+                "start_frame": 1515,
+                "stop_frame": 1516
+            },
+            {
+                "narration_text": "Unfolds the polythene paper",
+                "start_frame": 1516,
+                "stop_frame": 1631
+            },
+            {
+                "narration_text": "Puts the dirt in the polythene paper",
+                "start_frame": 1631,
+                "stop_frame": 1785
+            },
+            {
+                "narration_text": "Places the dirt in the polythene paper",
+                "start_frame": 1785,
+                "stop_frame": 1935
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the drawer and look for something",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Looks around",
+                "start_frame": 1935,
+                "stop_frame": 2062
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 2062,
+                "stop_frame": 2110
+            },
+            {
+                "narration_text": "Looks for something",
+                "start_frame": 2110,
+                "stop_frame": 2200
+            },
+            {
+                "narration_text": "Takes unsure placed in the drawer",
+                "start_frame": 2200,
+                "stop_frame": 2297
+            },
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 2297,
+                "stop_frame": 2344
+            }
+        ]
+    },
+    {
+        "task_goal": "Close the drawer and place item on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes unsure placed in the drawer",
+                "start_frame": 2200,
+                "stop_frame": 2297
+            },
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 2297,
+                "stop_frame": 2344
+            },
+            {
+                "narration_text": "Places unsure on the table",
+                "start_frame": 2344,
+                "stop_frame": 2405
+            },
+            {
+                "narration_text": "Opens unsure",
+                "start_frame": 2405,
+                "stop_frame": 2566
+            }
+        ]
+    },
+    {
+        "task_goal": "Open an item and pour it on the meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places unsure on the table",
+                "start_frame": 2344,
+                "stop_frame": 2405
+            },
+            {
+                "narration_text": "Opens unsure",
+                "start_frame": 2405,
+                "stop_frame": 2566
+            },
+            {
+                "narration_text": "Pours unsure on the meat",
+                "start_frame": 2566,
+                "stop_frame": 3001
+            },
+            {
+                "narration_text": "Washes the sachet",
+                "start_frame": 3001,
+                "stop_frame": 3199
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the sachet and dispose",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours unsure on the meat",
+                "start_frame": 2566,
+                "stop_frame": 3001
+            },
+            {
+                "narration_text": "Washes the sachet",
+                "start_frame": 3001,
+                "stop_frame": 3199
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 3199,
+                "stop_frame": 3286
+            },
+            {
+                "narration_text": "Puts the sachet in the polythene paper",
+                "start_frame": 3286,
+                "stop_frame": 3368
+            },
+            {
+                "narration_text": "Takes the unsure",
+                "start_frame": 3368,
+                "stop_frame": 3422
+            }
+        ]
+    },
+    {
+        "task_goal": "Take and pour another item on the meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the unsure",
+                "start_frame": 3368,
+                "stop_frame": 3422
+            },
+            {
+                "narration_text": "Opens the unsure",
+                "start_frame": 3422,
+                "stop_frame": 3482
+            },
+            {
+                "narration_text": "Pours unsure on the meat",
+                "start_frame": 3482,
+                "stop_frame": 3591
+            },
+            {
+                "narration_text": "Closes the sachet",
+                "start_frame": 3591,
+                "stop_frame": 3716
+            },
+            {
+                "narration_text": "Places the sachet in the drawer",
+                "start_frame": 3716,
+                "stop_frame": 3816
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the sachet in the drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the sachet",
+                "start_frame": 3591,
+                "stop_frame": 3716
+            },
+            {
+                "narration_text": "Places the sachet in the drawer",
+                "start_frame": 3716,
+                "stop_frame": 3816
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 3816,
+                "stop_frame": 3905
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve egg from the fridge, crack, and add to bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the sachet in the drawer",
+                "start_frame": 3716,
+                "stop_frame": 3816
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 3816,
+                "stop_frame": 3905
+            },
+            {
+                "narration_text": "Takes the egg in the fridge",
+                "start_frame": 3905,
+                "stop_frame": 4036
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 4036,
+                "stop_frame": 4080
+            },
+            {
+                "narration_text": "Breaks the egg",
+                "start_frame": 4080,
+                "stop_frame": 4116
+            },
+            {
+                "narration_text": "Puts the egg in the bowl",
+                "start_frame": 4116,
+                "stop_frame": 4191
+            },
+            {
+                "narration_text": "Places the egg covers in the sink",
+                "start_frame": 4191,
+                "stop_frame": 4215
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash hands after handling egg",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the hands",
+                "start_frame": 4215,
+                "stop_frame": 4259
+            },
+            {
+                "narration_text": "Takes the chop stick",
+                "start_frame": 4259,
+                "stop_frame": 4331
+            },
+            {
+                "narration_text": "Removes the egg cover",
+                "start_frame": 4331,
+                "stop_frame": 4446
+            },
+            {
+                "narration_text": "Places the chop stick in the sink",
+                "start_frame": 4446,
+                "stop_frame": 4503
+            },
+            {
+                "narration_text": "Washes the chop stick",
+                "start_frame": 4503,
+                "stop_frame": 4549
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 4549,
+                "stop_frame": 4568
+            },
+            {
+                "narration_text": "Places the chop stick in the container",
+                "start_frame": 4568,
+                "stop_frame": 4592
+            },
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 4592,
+                "stop_frame": 4637
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare supplementary containers and ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 4592,
+                "stop_frame": 4637
+            },
+            {
+                "narration_text": "Takes the containers",
+                "start_frame": 4637,
+                "stop_frame": 4833
+            },
+            {
+                "narration_text": "Pours unsure in the bowl",
+                "start_frame": 4833,
+                "stop_frame": 4928
+            },
+            {
+                "narration_text": "Arranges the containers",
+                "start_frame": 4928,
+                "stop_frame": 5004
+            },
+            {
+                "narration_text": "Pours unsure on the bowl",
+                "start_frame": 5004,
+                "stop_frame": 5236
+            },
+            {
+                "narration_text": "Places the storage container on the unsure",
+                "start_frame": 5236,
+                "stop_frame": 5357
+            },
+            {
+                "narration_text": "Spins the bowl",
+                "start_frame": 5357,
+                "stop_frame": 5399
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix ingredients in the bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Spins the bowl",
+                "start_frame": 5357,
+                "stop_frame": 5399
+            },
+            {
+                "narration_text": "Mixes the unsure",
+                "start_frame": 5399,
+                "stop_frame": 6295
+            },
+            {
+                "narration_text": "Washes the hands",
+                "start_frame": 6295,
+                "stop_frame": 6531
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 6531,
+                "stop_frame": 6554
+            },
+            {
+                "narration_text": "Walks around",
+                "start_frame": 6554,
+                "stop_frame": 6605
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 6605,
+                "stop_frame": 6665
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve and prepare onion",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around",
+                "start_frame": 6554,
+                "stop_frame": 6605
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 6605,
+                "stop_frame": 6665
+            },
+            {
+                "narration_text": "Takes the onion",
+                "start_frame": 6665,
+                "stop_frame": 6843
+            },
+            {
+                "narration_text": "Closes the fridge drawer",
+                "start_frame": 6843,
+                "stop_frame": 6962
+            },
+            {
+                "narration_text": "Takes the onion",
+                "start_frame": 6962,
+                "stop_frame": 7079
+            },
+            {
+                "narration_text": "Closes the fridge drawer",
+                "start_frame": 7079,
+                "stop_frame": 7145
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 7145,
+                "stop_frame": 7203
+            },
+            {
+                "narration_text": "Places the onion on the table",
+                "start_frame": 7203,
+                "stop_frame": 7230
+            },
+            {
+                "narration_text": "Takes the knife",
+                "start_frame": 7230,
+                "stop_frame": 7253
+            },
+            {
+                "narration_text": "Places the knife in the sink",
+                "start_frame": 7253,
+                "stop_frame": 7275
+            },
+            {
+                "narration_text": "Washes the onion",
+                "start_frame": 7275,
+                "stop_frame": 7305
+            },
+            {
+                "narration_text": "Removes the onion cover",
+                "start_frame": 7305,
+                "stop_frame": 7657
+            },
+            {
+                "narration_text": "Holds the knife",
+                "start_frame": 7657,
+                "stop_frame": 7703
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 7703,
+                "stop_frame": 7724
+            },
+            {
+                "narration_text": "Slices the onion",
+                "start_frame": 7724,
+                "stop_frame": 8749
+            },
+            {
+                "narration_text": "Wipes the onions off the knife",
+                "start_frame": 8749,
+                "stop_frame": 8819
+            },
+            {
+                "narration_text": "Cuts onion with a knife",
+                "start_frame": 8819,
+                "stop_frame": 9121
+            },
+            {
+                "narration_text": "Wipes the onions pieces off the knife",
+                "start_frame": 9121,
+                "stop_frame": 9143
+            },
+            {
+                "narration_text": "Collects the onions pieces together",
+                "start_frame": 9143,
+                "stop_frame": 9188
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix onion with minced meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a bowl",
+                "start_frame": 10986,
+                "stop_frame": 11001
+            },
+            {
+                "narration_text": "Mixes the onion pieces with the minced meat",
+                "start_frame": 11001,
+                "stop_frame": 12629
+            },
+            {
+                "narration_text": "Pulls her hand off the bowl",
+                "start_frame": 12629,
+                "stop_frame": 12643
+            },
+            {
+                "narration_text": "Bends",
+                "start_frame": 12643,
+                "stop_frame": 12661
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 12661,
+                "stop_frame": 12703
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean up after mixing ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 12715,
+                "stop_frame": 12731
+            },
+            {
+                "narration_text": "Rinses her hands with water",
+                "start_frame": 12731,
+                "stop_frame": 12778
+            },
+            {
+                "narration_text": "Pulls the knife",
+                "start_frame": 12778,
+                "stop_frame": 12802
+            },
+            {
+                "narration_text": "Rinses her hands with water",
+                "start_frame": 12802,
+                "stop_frame": 12959
+            },
+            {
+                "narration_text": "Applies soap on her hands",
+                "start_frame": 12959,
+                "stop_frame": 12984
+            },
+            {
+                "narration_text": "Washes her hands",
+                "start_frame": 12984,
+                "stop_frame": 13074
+            },
+            {
+                "narration_text": "Rinses her hands with water",
+                "start_frame": 13074,
+                "stop_frame": 13200
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 13200,
+                "stop_frame": 13218
+            },
+            {
+                "narration_text": "Swings her hands",
+                "start_frame": 13218,
+                "stop_frame": 13247
+            },
+            {
+                "narration_text": "Walks away from the sink",
+                "start_frame": 13247,
+                "stop_frame": 13271
+            }
+        ]
+    }
+]

@@ -1,0 +1,737 @@
+[
+    {
+        "task_goal": "Gather utensils and plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 379,
+                "stop_frame": 417
+            },
+            {
+                "narration_text": "Takes a fork from the drawer",
+                "start_frame": 417,
+                "stop_frame": 484
+            },
+            {
+                "narration_text": "Stirs food in the pot with a fork",
+                "start_frame": 484,
+                "stop_frame": 1069
+            },
+            {
+                "narration_text": "Scoops food from the fork",
+                "start_frame": 1069,
+                "stop_frame": 1112
+            },
+            {
+                "narration_text": "Drops the fork in the cooking pot",
+                "start_frame": 1112,
+                "stop_frame": 1204
+            },
+            {
+                "narration_text": "Walks towards the cupboard",
+                "start_frame": 1204,
+                "stop_frame": 1241
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 1241,
+                "stop_frame": 1351
+            },
+            {
+                "narration_text": "Picks up plate from the drawer",
+                "start_frame": 1351,
+                "stop_frame": 1480
+            },
+            {
+                "narration_text": "Drops the plate on the counter",
+                "start_frame": 1480,
+                "stop_frame": 1529
+            },
+            {
+                "narration_text": "Walks towards the table",
+                "start_frame": 1529,
+                "stop_frame": 1636
+            }
+        ]
+    },
+    {
+        "task_goal": "Take a fork from the drawer.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 379,
+                "stop_frame": 417
+            },
+            {
+                "narration_text": "Takes a fork from the drawer",
+                "start_frame": 417,
+                "stop_frame": 484
+            },
+            {
+                "narration_text": "Stirs food in the pot with a fork",
+                "start_frame": 484,
+                "stop_frame": 1069
+            }
+        ]
+    },
+    {
+        "task_goal": "Gather a plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks towards the cupboard",
+                "start_frame": 1204,
+                "stop_frame": 1241
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 1241,
+                "stop_frame": 1351
+            },
+            {
+                "narration_text": "Picks up plate from the drawer",
+                "start_frame": 1351,
+                "stop_frame": 1480
+            },
+            {
+                "narration_text": "Drops the plate on the counter",
+                "start_frame": 1480,
+                "stop_frame": 1529
+            },
+            {
+                "narration_text": "Walks towards the table",
+                "start_frame": 1529,
+                "stop_frame": 1636
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food in the pot with fork.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes a fork from the drawer",
+                "start_frame": 417,
+                "stop_frame": 484
+            },
+            {
+                "narration_text": "Stirs food in the pot with a fork",
+                "start_frame": 484,
+                "stop_frame": 1069
+            },
+            {
+                "narration_text": "Scoops food from the fork",
+                "start_frame": 1069,
+                "stop_frame": 1112
+            }
+        ]
+    },
+    {
+        "task_goal": "Scoop and drop food.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs food in the pot with a fork",
+                "start_frame": 484,
+                "stop_frame": 1069
+            },
+            {
+                "narration_text": "Scoops food from the fork",
+                "start_frame": 1069,
+                "stop_frame": 1112
+            },
+            {
+                "narration_text": "Drops the fork in the cooking pot",
+                "start_frame": 1112,
+                "stop_frame": 1204
+            },
+            {
+                "narration_text": "Walks towards the cupboard",
+                "start_frame": 1204,
+                "stop_frame": 1241
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve chicken piece from pot and examine.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks chicken piece from the pot",
+                "start_frame": 2355,
+                "stop_frame": 2446
+            },
+            {
+                "narration_text": "Examines the piece",
+                "start_frame": 2446,
+                "stop_frame": 2597
+            },
+            {
+                "narration_text": "Touches the piece with their other hand",
+                "start_frame": 2597,
+                "stop_frame": 2786
+            },
+            {
+                "narration_text": "Puts the chicken piece on the plate",
+                "start_frame": 2786,
+                "stop_frame": 2859
+            }
+        ]
+    },
+    {
+        "task_goal": "Put chicken piece on the plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches the piece with their other hand",
+                "start_frame": 2597,
+                "stop_frame": 2786
+            },
+            {
+                "narration_text": "Puts the chicken piece on the plate",
+                "start_frame": 2786,
+                "stop_frame": 2859
+            },
+            {
+                "narration_text": "Stirs food in the pot with a fork",
+                "start_frame": 2859,
+                "stop_frame": 3273
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut small chicken pieces using fork and spoon.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the spoon from the drawer",
+                "start_frame": 3389,
+                "stop_frame": 3450
+            },
+            {
+                "narration_text": "Uses fork and spoon to cut small chicken pieces",
+                "start_frame": 3450,
+                "stop_frame": 5526
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 5526,
+                "stop_frame": 5629
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut tissue paper.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up tissue paper",
+                "start_frame": 5629,
+                "stop_frame": 5685
+            },
+            {
+                "narration_text": "Cuts a piece of tissue paper",
+                "start_frame": 5685,
+                "stop_frame": 5707
+            },
+            {
+                "narration_text": "Puts down the tissue paper",
+                "start_frame": 5707,
+                "stop_frame": 5743
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 5743,
+                "stop_frame": 5915
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up toy and throw it.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a toy from the floor",
+                "start_frame": 6105,
+                "stop_frame": 6138
+            },
+            {
+                "narration_text": "Throws the toy across the room",
+                "start_frame": 6138,
+                "stop_frame": 6185
+            },
+            {
+                "narration_text": "Walks to the kitchen",
+                "start_frame": 6185,
+                "stop_frame": 6267
+            }
+        ]
+    },
+    {
+        "task_goal": "Examine chicken and continue cutting into small pieces.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up the fork",
+                "start_frame": 6267,
+                "stop_frame": 6292
+            },
+            {
+                "narration_text": "Picks up the remaining piece of chicken",
+                "start_frame": 6292,
+                "stop_frame": 6353
+            },
+            {
+                "narration_text": "Examines the chicken",
+                "start_frame": 6353,
+                "stop_frame": 6588
+            },
+            {
+                "narration_text": "Puts the chicken back on the plate",
+                "start_frame": 6588,
+                "stop_frame": 6716
+            },
+            {
+                "narration_text": "Touches the dog",
+                "start_frame": 6716,
+                "stop_frame": 6753
+            }
+        ]
+    },
+    {
+        "task_goal": "Interact with dog and cut chicken pieces.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches the dog",
+                "start_frame": 6716,
+                "stop_frame": 6753
+            },
+            {
+                "narration_text": "Throws the toy across the room",
+                "start_frame": 6753,
+                "stop_frame": 6822
+            },
+            {
+                "narration_text": "Picks up the fork",
+                "start_frame": 6822,
+                "stop_frame": 6849
+            },
+            {
+                "narration_text": "Uses fork and spoon to cut small chicken pieces",
+                "start_frame": 6849,
+                "stop_frame": 7469
+            },
+            {
+                "narration_text": "Puts down the spoon and fork",
+                "start_frame": 7469,
+                "stop_frame": 7522
+            },
+            {
+                "narration_text": "Walks to the dog",
+                "start_frame": 7522,
+                "stop_frame": 7654
+            },
+            {
+                "narration_text": "Claps her hands",
+                "start_frame": 7654,
+                "stop_frame": 7693
+            },
+            {
+                "narration_text": "Touches the dog's back",
+                "start_frame": 7693,
+                "stop_frame": 7766
+            },
+            {
+                "narration_text": "Walks to the kitchen",
+                "start_frame": 7766,
+                "stop_frame": 7850
+            },
+            {
+                "narration_text": "Picks up the fork",
+                "start_frame": 7850,
+                "stop_frame": 7881
+            },
+            {
+                "narration_text": "Walks towards the dog",
+                "start_frame": 7881,
+                "stop_frame": 7959
+            },
+            {
+                "narration_text": "Pats the dog",
+                "start_frame": 7959,
+                "stop_frame": 8056
+            },
+            {
+                "narration_text": "Walks to the kitchen",
+                "start_frame": 8056,
+                "stop_frame": 8129
+            },
+            {
+                "narration_text": "Picks up the fork",
+                "start_frame": 8129,
+                "stop_frame": 8167
+            },
+            {
+                "narration_text": "Uses fork and spoon to cut small chicken pieces",
+                "start_frame": 8167,
+                "stop_frame": 8420
+            },
+            {
+                "narration_text": "Walks towards the dog",
+                "start_frame": 8420,
+                "stop_frame": 8513
+            },
+            {
+                "narration_text": "Pats the dog",
+                "start_frame": 8513,
+                "stop_frame": 8550
+            }
+        ]
+    },
+    {
+        "task_goal": "Separate and pour meat into cooking pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks in the house",
+                "start_frame": 8550,
+                "stop_frame": 8705
+            },
+            {
+                "narration_text": "Separates the meat with spoons",
+                "start_frame": 8705,
+                "stop_frame": 9419
+            },
+            {
+                "narration_text": "Picks the chopping board",
+                "start_frame": 9419,
+                "stop_frame": 9517
+            },
+            {
+                "narration_text": "Pours the meat in the cooking pot with spoons",
+                "start_frame": 9517,
+                "stop_frame": 9904
+            },
+            {
+                "narration_text": "Picks piece of meat on the counter",
+                "start_frame": 9904,
+                "stop_frame": 9963
+            }
+        ]
+    },
+    {
+        "task_goal": "Give meat to dog.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks in the house",
+                "start_frame": 9963,
+                "stop_frame": 9997
+            },
+            {
+                "narration_text": "Gives the dog meat",
+                "start_frame": 9997,
+                "stop_frame": 10156
+            },
+            {
+                "narration_text": "Stirs the food with spoon",
+                "start_frame": 10156,
+                "stop_frame": 10887
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare bowls from cabinet.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 10967,
+                "stop_frame": 11006
+            },
+            {
+                "narration_text": "Touches the bowls in the cabinet",
+                "start_frame": 11006,
+                "stop_frame": 11062
+            },
+            {
+                "narration_text": "Walks in the house",
+                "start_frame": 11062,
+                "stop_frame": 11133
+            },
+            {
+                "narration_text": "Touches the dog",
+                "start_frame": 11133,
+                "stop_frame": 11170
+            },
+            {
+                "narration_text": "Walks in the house",
+                "start_frame": 11170,
+                "stop_frame": 11228
+            },
+            {
+                "narration_text": "Picks bowls in the cabinet",
+                "start_frame": 11228,
+                "stop_frame": 11345
+            },
+            {
+                "narration_text": "Separates the bowl",
+                "start_frame": 11345,
+                "stop_frame": 11381
+            },
+            {
+                "narration_text": "Places the bowl in the cabinet",
+                "start_frame": 11381,
+                "stop_frame": 11415
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food and put in bowl.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs the food with spoon",
+                "start_frame": 11846,
+                "stop_frame": 12044
+            },
+            {
+                "narration_text": "Takes food with spoon",
+                "start_frame": 12044,
+                "stop_frame": 12162
+            },
+            {
+                "narration_text": "Puts the food in the bowl",
+                "start_frame": 12162,
+                "stop_frame": 12284
+            },
+            {
+                "narration_text": "Takes food with spoon",
+                "start_frame": 12284,
+                "stop_frame": 12332
+            },
+            {
+                "narration_text": "Puts the food in the bowl",
+                "start_frame": 12332,
+                "stop_frame": 12419
+            },
+            {
+                "narration_text": "Takes food with spoon",
+                "start_frame": 12419,
+                "stop_frame": 12506
+            },
+            {
+                "narration_text": "Puts the food in the bowl",
+                "start_frame": 12506,
+                "stop_frame": 12597
+            },
+            {
+                "narration_text": "Places the spoon on chopping board",
+                "start_frame": 12597,
+                "stop_frame": 12651
+            },
+            {
+                "narration_text": "Walks in the house",
+                "start_frame": 12651,
+                "stop_frame": 12758
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold the bowl.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks in the house",
+                "start_frame": 12651,
+                "stop_frame": 12758
+            },
+            {
+                "narration_text": "Holds the bowl",
+                "start_frame": 12758,
+                "stop_frame": 12858
+            }
+        ]
+    },
+    {
+        "task_goal": "Look around and point at objects.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks towards the table",
+                "start_frame": 1529,
+                "stop_frame": 1636
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 1636,
+                "stop_frame": 1763
+            },
+            {
+                "narration_text": "Points with their finger",
+                "start_frame": 1763,
+                "stop_frame": 1837
+            },
+            {
+                "narration_text": "Looks at the ceiling",
+                "start_frame": 1837,
+                "stop_frame": 1886
+            },
+            {
+                "narration_text": "Points at the ceiling",
+                "start_frame": 1886,
+                "stop_frame": 1980
+            },
+            {
+                "narration_text": "Puts the glass down",
+                "start_frame": 1980,
+                "stop_frame": 2013
+            },
+            {
+                "narration_text": "Walks to the kitchen",
+                "start_frame": 2013,
+                "stop_frame": 2078
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean counter and interact with litter.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks to the kitchen",
+                "start_frame": 2013,
+                "stop_frame": 2078
+            },
+            {
+                "narration_text": "Picks a litter from the counter",
+                "start_frame": 2078,
+                "stop_frame": 2210
+            },
+            {
+                "narration_text": "Opens the dish drawer",
+                "start_frame": 2210,
+                "stop_frame": 2355
+            },
+            {
+                "narration_text": "Picks chicken piece from the pot",
+                "start_frame": 2355,
+                "stop_frame": 2446
+            }
+        ]
+    },
+    {
+        "task_goal": "Touch and throw toy.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around",
+                "start_frame": 5915,
+                "stop_frame": 6105
+            },
+            {
+                "narration_text": "Picks a toy from the floor",
+                "start_frame": 6105,
+                "stop_frame": 6138
+            },
+            {
+                "narration_text": "Throws the toy across the room",
+                "start_frame": 6138,
+                "stop_frame": 6185
+            },
+            {
+                "narration_text": "Walks to the kitchen",
+                "start_frame": 6185,
+                "stop_frame": 6267
+            }
+        ]
+    },
+    {
+        "task_goal": "Touch dog and clap hands.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks to the dog",
+                "start_frame": 7522,
+                "stop_frame": 7654
+            },
+            {
+                "narration_text": "Claps her hands",
+                "start_frame": 7654,
+                "stop_frame": 7693
+            },
+            {
+                "narration_text": "Touches the dog's back",
+                "start_frame": 7693,
+                "stop_frame": 7766
+            },
+            {
+                "narration_text": "Walks to the kitchen",
+                "start_frame": 7766,
+                "stop_frame": 7850
+            }
+        ]
+    },
+    {
+        "task_goal": "Pat dog.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks towards the dog",
+                "start_frame": 7881,
+                "stop_frame": 7959
+            },
+            {
+                "narration_text": "Pats the dog",
+                "start_frame": 7959,
+                "stop_frame": 8056
+            },
+            {
+                "narration_text": "Walks to the kitchen",
+                "start_frame": 8056,
+                "stop_frame": 8129
+            }
+        ]
+    },
+    {
+        "task_goal": "Touch dog periodically.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches the dog",
+                "start_frame": 11133,
+                "stop_frame": 11170
+            },
+            {
+                "narration_text": "Walks in the house",
+                "start_frame": 11170,
+                "stop_frame": 11228
+            },
+            {
+                "narration_text": "Picks bowls in the cabinet",
+                "start_frame": 11228,
+                "stop_frame": 11345
+            },
+            {
+                "narration_text": "Separates the bowl",
+                "start_frame": 11345,
+                "stop_frame": 11381
+            },
+            {
+                "narration_text": "Places the bowl in the cabinet",
+                "start_frame": 11381,
+                "stop_frame": 11415
+            },
+            {
+                "narration_text": "Walks in the house",
+                "start_frame": 11415,
+                "stop_frame": 11450
+            },
+            {
+                "narration_text": "Touches the dog",
+                "start_frame": 11450,
+                "stop_frame": 11586
+            },
+            {
+                "narration_text": "Picks the spoon in the cooking pot",
+                "start_frame": 11586,
+                "stop_frame": 11647
+            },
+            {
+                "narration_text": "Walks in the house",
+                "start_frame": 11647,
+                "stop_frame": 11707
+            },
+            {
+                "narration_text": "Touches the dog",
+                "start_frame": 11707,
+                "stop_frame": 11846
+            },
+            {
+                "narration_text": "Stirs the food with spoon",
+                "start_frame": 11846,
+                "stop_frame": 12044
+            }
+        ]
+    }
+]

@@ -1,0 +1,125 @@
+{
+    "overall_goal": "Prepare rolls with cheese, ham, and vegetables, then bake them in the oven and add some toppings.",
+    "clips": [
+        {
+            "subgoal": "Prepare the rolls with cheese",
+            "start_timestamp": 33,
+            "stop_timestamp": 2326,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick rolls and open wrapper",
+                    "start_timestamp": 33,
+                    "stop_timestamp": 232
+                },
+                {
+                    "secondary_subgoal": "Remove rolls from the wrapper",
+                    "start_timestamp": 232,
+                    "stop_timestamp": 357
+                },
+                {
+                    "secondary_subgoal": "Put wrapper aside and pick a knife",
+                    "start_timestamp": 357,
+                    "stop_timestamp": 466
+                },
+                {
+                    "secondary_subgoal": "Cut the rolls with knife and hand",
+                    "start_timestamp": 466,
+                    "stop_timestamp": 1071
+                },
+                {
+                    "secondary_subgoal": "Prepare cheese slices and insert them in rolls",
+                    "start_timestamp": 1071,
+                    "stop_timestamp": 2226
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the rolls for baking",
+            "start_timestamp": 2321,
+            "stop_timestamp": 3121,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk to cabinet and retrieve a tray",
+                    "start_timestamp": 2321,
+                    "stop_timestamp": 2603
+                },
+                {
+                    "secondary_subgoal": "Put rolls in tray and place in the oven",
+                    "start_timestamp": 2654,
+                    "stop_timestamp": 3079
+                },
+                {
+                    "secondary_subgoal": "Press buttons on oven",
+                    "start_timestamp": 3079,
+                    "stop_timestamp": 3118
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare additional ingredients",
+            "start_timestamp": 3221,
+            "stop_timestamp": 6824,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and prepare items from fridge",
+                    "start_timestamp": 3221,
+                    "stop_timestamp": 4041
+                },
+                {
+                    "secondary_subgoal": "Cut unspecified items",
+                    "start_timestamp": 4140,
+                    "stop_timestamp": 6643
+                },
+                {
+                    "secondary_subgoal": "Collect items together",
+                    "start_timestamp": 6643,
+                    "stop_timestamp": 6824
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish baking rolls and start preparing ham",
+            "start_timestamp": 6900,
+            "stop_timestamp": 965,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take tray out of oven",
+                    "start_timestamp": 6900,
+                    "stop_timestamp": 7569
+                },
+                {
+                    "secondary_subgoal": "Prepare and put ham on rolls",
+                    "start_timestamp": 7652,
+                    "stop_timestamp": 9527
+                }
+            ]
+        },
+        {
+            "subgoal": "Apply more toppings",
+            "start_timestamp": 9585,
+            "stop_timestamp": 12916,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Unsure substance with spoon onto rolls",
+                    "start_timestamp": 9742,
+                    "stop_timestamp": 10095
+                },
+                {
+                    "secondary_subgoal": "Spread substance on rolls",
+                    "start_timestamp": 10733,
+                    "stop_timestamp": 11744
+                },
+                {
+                    "secondary_subgoal": "Add vegetables from a bag onto rolls",
+                    "start_timestamp": 11838,
+                    "stop_timestamp": 12866
+                },
+                {
+                    "secondary_subgoal": "Pick a towel and put the towel down",
+                    "start_timestamp": 12916,
+                    "stop_timestamp": 13016
+                }
+            ]
+        }
+    ]
+}

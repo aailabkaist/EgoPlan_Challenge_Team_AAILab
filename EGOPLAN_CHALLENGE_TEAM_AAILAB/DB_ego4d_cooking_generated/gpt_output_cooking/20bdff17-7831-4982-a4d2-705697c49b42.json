@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9decXMeIK8TlDuswsBxaQgQPSQsmq",
+    "object": "chat.completion",
+    "created": 1719237965,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook a meal using various kitchen tools and ingredients\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Wash hands\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 537,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash hands with soap\",\n          \"start_timestamp\": 40,\n          \"stop_timestamp\": 501\n        },\n        {\n          \"secondary_subgoal\": \"Dry hands\",\n          \"start_timestamp\": 501,\n          \"stop_timestamp\": 537\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare vegetables and other ingredients\",\n      \"start_timestamp\": 537,\n      \"stop_timestamp\": 17781,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gather tools and ingredients\",\n          \"start_timestamp\": 537,\n          \"stop_timestamp\": 794\n        },\n        {\n          \"secondary_subgoal\": \"Cut and prepare eggs\",\n          \"start_timestamp\": 1547,\n          \"stop_timestamp\": 2069\n        },\n        {\n          \"secondary_subgoal\": \"Prepare kitchen area and spice up eggs\",\n          \"start_timestamp\": 2069,\n          \"stop_timestamp\": 3727\n        },\n        {\n          \"secondary_subgoal\": \"Cook eggs\",\n          \"start_timestamp\": 3727,\n          \"stop_timestamp\": 7473\n        },\n        {\n          \"secondary_subgoal\": \"Clean up and prepare cutting area\",\n          \"start_timestamp\": 7473,\n          \"stop_timestamp\": 9524\n        },\n        {\n          \"secondary_subgoal\": \"Cut and prepare prawns and other ingredients\",\n          \"start_timestamp\": 9524,\n          \"stop_timestamp\": 13100\n        },\n        {\n          \"secondary_subgoal\": \"Add potatoes to frying pan\",\n          \"start_timestamp\": 13100,\n          \"stop_timestamp\": 14015\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook meal\",\n      \"start_timestamp\": 14015,\n      \"stop_timestamp\": 20372,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Add meat to frying pan\",\n          \"start_timestamp\": 14015,\n          \"stop_timestamp\": 15973\n        },\n        {\n          \"secondary_subgoal\": \"Tear and add additional meat pieces\",\n          \"start_timestamp\": 15973,\n          \"stop_timestamp\": 17771\n        },\n        {\n          \"secondary_subgoal\": \"Stir and adjust cooking\",\n          \"start_timestamp\": 17771,\n          \"stop_timestamp\": 20282\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final preparations and clean up\",\n      \"start_timestamp\": 20372,\n      \"stop_timestamp\": 21338,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare final additions to the meal\",\n          \"start_timestamp\": 20372,\n          \"stop_timestamp\": 20747\n        },\n        {\n          \"secondary_subgoal\": \"Add final ingredient to pan\",\n          \"start_timestamp\": 20747,\n          \"stop_timestamp\": 21144\n        },\n        {\n          \"secondary_subgoal\": \"Clean up packaging\",\n          \"start_timestamp\": 21144,\n          \"stop_timestamp\": 21338\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3956,
+        "completion_tokens": 711,
+        "total_tokens": 4667
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

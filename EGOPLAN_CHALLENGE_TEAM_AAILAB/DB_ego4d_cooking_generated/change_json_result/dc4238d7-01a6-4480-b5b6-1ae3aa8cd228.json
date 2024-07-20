@@ -1,0 +1,169 @@
+{
+    "overall_goal": "Cook spaghetti and prepare additional kitchen tasks",
+    "clips": [
+        {
+            "subgoal": "Prepare minced meat",
+            "start_timestamp": 0,
+            "stop_timestamp": 650,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir minced meat",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 146
+                },
+                {
+                    "secondary_subgoal": "Pause and look around",
+                    "start_timestamp": 146,
+                    "stop_timestamp": 391
+                },
+                {
+                    "secondary_subgoal": "Put down chopsticks and adjust cooking settings",
+                    "start_timestamp": 391,
+                    "stop_timestamp": 650
+                }
+            ]
+        },
+        {
+            "subgoal": "Add spaghetti to cooking pot",
+            "start_timestamp": 650,
+            "stop_timestamp": 1995,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and inspect spaghetti packet",
+                    "start_timestamp": 650,
+                    "stop_timestamp": 873
+                },
+                {
+                    "secondary_subgoal": "Remove and add spaghetti to the pot",
+                    "start_timestamp": 873,
+                    "stop_timestamp": 1855
+                },
+                {
+                    "secondary_subgoal": "Put down the packet and pick chopsticks",
+                    "start_timestamp": 1855,
+                    "stop_timestamp": 1995
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook and stir spaghetti, attend to phone call",
+            "start_timestamp": 1995,
+            "stop_timestamp": 3803,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir spaghetti",
+                    "start_timestamp": 1995,
+                    "stop_timestamp": 3349
+                },
+                {
+                    "secondary_subgoal": "Handle phone call",
+                    "start_timestamp": 3349,
+                    "stop_timestamp": 3615
+                },
+                {
+                    "secondary_subgoal": "Resume stirring spaghetti",
+                    "start_timestamp": 3615,
+                    "stop_timestamp": 3803
+                }
+            ]
+        },
+        {
+            "subgoal": "Pause, look around, adjust cooking settings",
+            "start_timestamp": 3803,
+            "stop_timestamp": 7733,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir and inspect spaghetti",
+                    "start_timestamp": 3803,
+                    "stop_timestamp": 4775
+                },
+                {
+                    "secondary_subgoal": "Pause and stir spaghetti",
+                    "start_timestamp": 4775,
+                    "stop_timestamp": 5262
+                },
+                {
+                    "secondary_subgoal": "Pick cutting board",
+                    "start_timestamp": 5262,
+                    "stop_timestamp": 5394
+                },
+                {
+                    "secondary_subgoal": "Organize cutting board and other kitchen items",
+                    "start_timestamp": 5394,
+                    "stop_timestamp": 5567
+                },
+                {
+                    "secondary_subgoal": "Continue stirring spaghetti",
+                    "start_timestamp": 5567,
+                    "stop_timestamp": 7733
+                }
+            ]
+        },
+        {
+            "subgoal": "Add salt and continue cooking",
+            "start_timestamp": 7733,
+            "stop_timestamp": 12492,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir spaghetti and inspect",
+                    "start_timestamp": 7733,
+                    "stop_timestamp": 8422
+                },
+                {
+                    "secondary_subgoal": "Brief conversation and shaking chopsticks",
+                    "start_timestamp": 8422,
+                    "stop_timestamp": 11898
+                },
+                {
+                    "secondary_subgoal": "Add salt and mix",
+                    "start_timestamp": 11898,
+                    "stop_timestamp": 12492
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize kitchen items while cooking",
+            "start_timestamp": 12492,
+            "stop_timestamp": 16612,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move items in and out of cabinets",
+                    "start_timestamp": 12492,
+                    "stop_timestamp": 13855
+                },
+                {
+                    "secondary_subgoal": "Handle sieves and chopping board",
+                    "start_timestamp": 13855,
+                    "stop_timestamp": 14374
+                },
+                {
+                    "secondary_subgoal": "Continue stirring spaghetti",
+                    "start_timestamp": 14374,
+                    "stop_timestamp": 16612
+                }
+            ]
+        },
+        {
+            "subgoal": "Final Spaghetti stirring",
+            "start_timestamp": 16612,
+            "stop_timestamp": 17891,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wrap the clear foil",
+                    "start_timestamp": 16612,
+                    "stop_timestamp": 16815
+                },
+                {
+                    "secondary_subgoal": "Store kitchen items",
+                    "start_timestamp": 16815,
+                    "stop_timestamp": 17405
+                },
+                {
+                    "secondary_subgoal": "Resume and complete stirring spaghetti",
+                    "start_timestamp": 17405,
+                    "stop_timestamp": 17891
+                }
+            ]
+        }
+    ]
+}

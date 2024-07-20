@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgNlE3vKCQxpWkPVes1gXBKOWHjz",
+    "object": "chat.completion",
+    "created": 1719244737,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cook a meal using broccoli, fish fillet, and rice.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare fish fillet with foil\",\n      \"start_timestamp\": 87,\n      \"stop_timestamp\": 8472,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Retrieve ingredients from drawer\",\n          \"start_timestamp\": 87,\n          \"stop_timestamp\": 469\n        },\n        {\n          \"secondary_subgoal\": \"Place ingredients near chopping board\",\n          \"start_timestamp\": 511,\n          \"stop_timestamp\": 605\n        },\n        {\n          \"secondary_subgoal\": \"Remove sticker from fish fillet package\",\n          \"start_timestamp\": 605,\n          \"stop_timestamp\": 1030\n        },\n        {\n          \"secondary_subgoal\": \"Dispose of the sticker\",\n          \"start_timestamp\": 1030,\n          \"stop_timestamp\": 1123\n        },\n        {\n          \"secondary_subgoal\": \"Retrieve foil paper\",\n          \"start_timestamp\": 1123,\n          \"stop_timestamp\": 1403\n        },\n        {\n          \"secondary_subgoal\": \"Prepare chopping board and tray\",\n          \"start_timestamp\": 1473,\n          \"stop_timestamp\": 1715\n        },\n        {\n          \"secondary_subgoal\": \"Prepare fish fillet\",\n          \"start_timestamp\": 1734,\n          \"stop_timestamp\": 2588\n        },\n        {\n          \"secondary_subgoal\": \"Fold the foil around fish fillet\",\n          \"start_timestamp\": 2588,\n          \"stop_timestamp\": 8472\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare broccoli\",\n      \"start_timestamp\": 8472,\n      \"stop_timestamp\": 11098,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Move and open thermos\",\n          \"start_timestamp\": 8472,\n          \"stop_timestamp\": 8648\n        },\n        {\n          \"secondary_subgoal\": \"Fill and close thermos flask\",\n          \"start_timestamp\": 8648,\n          \"stop_timestamp\": 9032\n        },\n        {\n          \"secondary_subgoal\": \"Place broccoli in cooking pot\",\n          \"start_timestamp\": 9125,\n          \"stop_timestamp\": 9298\n        },\n        {\n          \"secondary_subgoal\": \"Chop broccoli on chopping board\",\n          \"start_timestamp\": 9343,\n          \"stop_timestamp\": 10189\n        },\n        {\n          \"secondary_subgoal\": \"Wash broccoli\",\n          \"start_timestamp\": 10189,\n          \"stop_timestamp\": 11303\n        },\n        {\n          \"secondary_subgoal\": \"Handle cooking pot and wipe hands\",\n          \"start_timestamp\": 11303,\n          \"stop_timestamp\": 11900\n        },\n        {\n          \"secondary_subgoal\": \"Pour water in cooking pot and prepare thermos flask\",\n          \"start_timestamp\": 11900,\n          \"stop_timestamp\": 12967\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare rice\",\n      \"start_timestamp\": 12967,\n      \"stop_timestamp\": 20609,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Open drawers and retrieve cooking items\",\n          \"start_timestamp\": 12967,\n          \"stop_timestamp\": 13229\n        },\n        {\n          \"secondary_subgoal\": \"Handle phone and tin of rice\",\n          \"start_timestamp\": 13278,\n          \"stop_timestamp\": 15183\n        },\n        {\n          \"secondary_subgoal\": \"Wash and measure rice\",\n          \"start_timestamp\": 15183,\n          \"stop_timestamp\": 19147\n        },\n        {\n          \"secondary_subgoal\": \"Cook rice\",\n          \"start_timestamp\": 18847,\n          \"stop_timestamp\": 18835\n        },\n        {\n          \"secondary_subgoal\": \"Final preparations for rice cooking\",\n          \"start_timestamp\": 19147,\n          \"stop_timestamp\": 19376\n        },\n        {\n          \"secondary_subgoal\": \"Clean up and organize cooking area\",\n          \"start_timestamp\": 19376,\n          \"stop_timestamp\": 20609\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1536,
+        "completion_tokens": 888,
+        "total_tokens": 2424
+    },
+    "system_fingerprint": "fp_5e6c71d4a8"
+}

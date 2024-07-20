@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dekXJKrjJuRPqHejYNkInADjRlpA",
+    "object": "chat.completion",
+    "created": 1719238461,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cooking a meal, including chicken and soup, and preparing the food for serving.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare the Chicken\",\n      \"start_timestamp\": 148,\n      \"stop_timestamp\": 3991,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turn on cooker and handle chicken\",\n          \"start_timestamp\": 201,\n          \"stop_timestamp\": 705\n        },\n        {\n          \"secondary_subgoal\": \"Season the soup\",\n          \"start_timestamp\": 1102,\n          \"stop_timestamp\": 1648\n        },\n        {\n          \"secondary_subgoal\": \"Stir and serve the soup\",\n          \"start_timestamp\": 1747,\n          \"stop_timestamp\": 2223\n        },\n        {\n          \"secondary_subgoal\": \"Adjust cooker and handle chicken with chopsticks\",\n          \"start_timestamp\": 2223,\n          \"stop_timestamp\": 2905\n        },\n        {\n          \"secondary_subgoal\": \"Handle chicken with chopsticks and cook\",\n          \"start_timestamp\": 2905,\n          \"stop_timestamp\": 3991\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cut and Cook the Chicken\",\n      \"start_timestamp\": 3991,\n      \"stop_timestamp\": 7055,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare chicken for cutting\",\n          \"start_timestamp\": 3991,\n          \"stop_timestamp\": 4650\n        },\n        {\n          \"secondary_subgoal\": \"Cut the chicken\",\n          \"start_timestamp\": 4650,\n          \"stop_timestamp\": 5253\n        },\n        {\n          \"secondary_subgoal\": \"Cook the chicken\",\n          \"start_timestamp\": 5253,\n          \"stop_timestamp\": 7055\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare Soup\",\n      \"start_timestamp\": 7055,\n      \"stop_timestamp\": 7983,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir and place the soup\",\n          \"start_timestamp\": 7055,\n          \"stop_timestamp\": 7890\n        },\n        {\n          \"secondary_subgoal\": \"Finish preparing space for cooking\",\n          \"start_timestamp\": 7890,\n          \"stop_timestamp\": 7983\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare for Serving\",\n      \"start_timestamp\": 7983,\n      \"stop_timestamp\": 15374,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Organize bowls and trays\",\n          \"start_timestamp\": 7983,\n          \"stop_timestamp\": 13619\n        },\n        {\n          \"secondary_subgoal\": \"Place food in bowls and trays\",\n          \"start_timestamp\": 13619,\n          \"stop_timestamp\": 15374\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Set Table\",\n      \"start_timestamp\": 15374,\n      \"stop_timestamp\": 15905,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare cutlery and set table\",\n          \"start_timestamp\": 15374,\n          \"stop_timestamp\": 15905\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3964,
+        "completion_tokens": 695,
+        "total_tokens": 4659
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

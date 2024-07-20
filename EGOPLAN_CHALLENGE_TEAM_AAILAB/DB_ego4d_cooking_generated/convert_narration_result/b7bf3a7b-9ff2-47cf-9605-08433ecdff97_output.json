@@ -1,0 +1,332 @@
+[
+    {
+        "task_goal": "Store the containers in the cabinet.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a container",
+                "start_frame": 1,
+                "stop_frame": 29
+            },
+            {
+                "narration_text": "Puts the container of unsure in the cabinet",
+                "start_frame": 29,
+                "stop_frame": 36
+            },
+            {
+                "narration_text": "Picks a container of unsure",
+                "start_frame": 36,
+                "stop_frame": 39
+            },
+            {
+                "narration_text": "Puts a container on the counter",
+                "start_frame": 39,
+                "stop_frame": 79
+            },
+            {
+                "narration_text": "Opens a cabinet door",
+                "start_frame": 79,
+                "stop_frame": 98
+            },
+            {
+                "narration_text": "Puts the container of unsure in the cabinet",
+                "start_frame": 98,
+                "stop_frame": 132
+            },
+            {
+                "narration_text": "Closes the door of the cabinet",
+                "start_frame": 132,
+                "stop_frame": 183
+            },
+            {
+                "narration_text": "Picks container of unsure",
+                "start_frame": 183,
+                "stop_frame": 213
+            },
+            {
+                "narration_text": "Opens a cabinet door",
+                "start_frame": 213,
+                "stop_frame": 246
+            },
+            {
+                "narration_text": "Puts the container of unsure in the cabinet",
+                "start_frame": 246,
+                "stop_frame": 394
+            },
+            {
+                "narration_text": "Closes the door of the cabinet",
+                "start_frame": 394,
+                "stop_frame": 427
+            },
+            {
+                "narration_text": "Walks to the sink",
+                "start_frame": 427,
+                "stop_frame": 485
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold and place the container on the counter.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a container",
+                "start_frame": 1,
+                "stop_frame": 29
+            },
+            {
+                "narration_text": "Puts the container of unsure in the cabinet",
+                "start_frame": 29,
+                "stop_frame": 36
+            },
+            {
+                "narration_text": "Picks a container of unsure",
+                "start_frame": 36,
+                "stop_frame": 39
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick another container and hold it.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the container of unsure in the cabinet",
+                "start_frame": 29,
+                "stop_frame": 36
+            },
+            {
+                "narration_text": "Picks a container of unsure",
+                "start_frame": 36,
+                "stop_frame": 39
+            },
+            {
+                "narration_text": "Puts a container on the counter",
+                "start_frame": 39,
+                "stop_frame": 79
+            },
+            {
+                "narration_text": "Opens a cabinet door",
+                "start_frame": 79,
+                "stop_frame": 98
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the cabinet door.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts a container on the counter",
+                "start_frame": 39,
+                "stop_frame": 79
+            },
+            {
+                "narration_text": "Opens a cabinet door",
+                "start_frame": 79,
+                "stop_frame": 98
+            },
+            {
+                "narration_text": "Puts the container of unsure in the cabinet",
+                "start_frame": 98,
+                "stop_frame": 132
+            }
+        ]
+    },
+    {
+        "task_goal": "Put the container in the cabinet.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens a cabinet door",
+                "start_frame": 79,
+                "stop_frame": 98
+            },
+            {
+                "narration_text": "Puts the container of unsure in the cabinet",
+                "start_frame": 98,
+                "stop_frame": 132
+            },
+            {
+                "narration_text": "Closes the door of the cabinet",
+                "start_frame": 132,
+                "stop_frame": 183
+            }
+        ]
+    },
+    {
+        "task_goal": "Close the cabinet door.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the container of unsure in the cabinet",
+                "start_frame": 98,
+                "stop_frame": 132
+            },
+            {
+                "narration_text": "Closes the door of the cabinet",
+                "start_frame": 132,
+                "stop_frame": 183
+            },
+            {
+                "narration_text": "Picks container of unsure",
+                "start_frame": 183,
+                "stop_frame": 213
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick another container.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the door of the cabinet",
+                "start_frame": 132,
+                "stop_frame": 183
+            },
+            {
+                "narration_text": "Picks container of unsure",
+                "start_frame": 183,
+                "stop_frame": 213
+            },
+            {
+                "narration_text": "Opens a cabinet door",
+                "start_frame": 213,
+                "stop_frame": 246
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the cabinet door again.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks container of unsure",
+                "start_frame": 183,
+                "stop_frame": 213
+            },
+            {
+                "narration_text": "Opens a cabinet door",
+                "start_frame": 213,
+                "stop_frame": 246
+            },
+            {
+                "narration_text": "Puts the container of unsure in the cabinet",
+                "start_frame": 246,
+                "stop_frame": 394
+            }
+        ]
+    },
+    {
+        "task_goal": "Place another container in the cabinet.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens a cabinet door",
+                "start_frame": 213,
+                "stop_frame": 246
+            },
+            {
+                "narration_text": "Puts the container of unsure in the cabinet",
+                "start_frame": 246,
+                "stop_frame": 394
+            },
+            {
+                "narration_text": "Closes the door of the cabinet",
+                "start_frame": 394,
+                "stop_frame": 427
+            }
+        ]
+    },
+    {
+        "task_goal": "Close the cabinet door.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the container of unsure in the cabinet",
+                "start_frame": 246,
+                "stop_frame": 394
+            },
+            {
+                "narration_text": "Closes the door of the cabinet",
+                "start_frame": 394,
+                "stop_frame": 427
+            },
+            {
+                "narration_text": "Walks to the sink",
+                "start_frame": 427,
+                "stop_frame": 485
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean hands.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the door of the cabinet",
+                "start_frame": 394,
+                "stop_frame": 427
+            },
+            {
+                "narration_text": "Walks to the sink",
+                "start_frame": 427,
+                "stop_frame": 485
+            },
+            {
+                "narration_text": "Puts hands in the towel",
+                "start_frame": 485,
+                "stop_frame": 521
+            },
+            {
+                "narration_text": "Adjusts the the camera",
+                "start_frame": 521,
+                "stop_frame": 621
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk to the sink.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the door of the cabinet",
+                "start_frame": 394,
+                "stop_frame": 427
+            },
+            {
+                "narration_text": "Walks to the sink",
+                "start_frame": 427,
+                "stop_frame": 485
+            },
+            {
+                "narration_text": "Puts hands in the towel",
+                "start_frame": 485,
+                "stop_frame": 521
+            }
+        ]
+    },
+    {
+        "task_goal": "Dry hands with the towel.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks to the sink",
+                "start_frame": 427,
+                "stop_frame": 485
+            },
+            {
+                "narration_text": "Puts hands in the towel",
+                "start_frame": 485,
+                "stop_frame": 521
+            },
+            {
+                "narration_text": "Adjusts the the camera",
+                "start_frame": 521,
+                "stop_frame": 621
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjust the camera.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts hands in the towel",
+                "start_frame": 485,
+                "stop_frame": 521
+            },
+            {
+                "narration_text": "Adjusts the the camera",
+                "start_frame": 521,
+                "stop_frame": 621
+            }
+        ]
+    }
+]

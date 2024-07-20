@@ -1,0 +1,144 @@
+{
+    "overall_goal": "Prepare a vegetable salad with eggplant, cucumber, cilantro, and onion, then season and mix the ingredients.",
+    "clips": [
+        {
+            "subgoal": "Arrange and prepare the kitchen workspace",
+            "start_timestamp": 64,
+            "stop_timestamp": 547,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Arrange the plates",
+                    "start_timestamp": 64,
+                    "stop_timestamp": 178
+                },
+                {
+                    "secondary_subgoal": "Place the mat",
+                    "start_timestamp": 178,
+                    "stop_timestamp": 273
+                },
+                {
+                    "secondary_subgoal": "Put the plate in the shelf",
+                    "start_timestamp": 273,
+                    "stop_timestamp": 423
+                },
+                {
+                    "secondary_subgoal": "Wash and wipe hands",
+                    "start_timestamp": 515,
+                    "stop_timestamp": 640
+                }
+            ]
+        },
+        {
+            "subgoal": "Gather and clean vegetables from fridge",
+            "start_timestamp": 640,
+            "stop_timestamp": 1053,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather eggplant and cucumber",
+                    "start_timestamp": 640,
+                    "stop_timestamp": 1009
+                },
+                {
+                    "secondary_subgoal": "Place vegetables on the sink",
+                    "start_timestamp": 1009,
+                    "stop_timestamp": 1053
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and chop vegetables",
+            "start_timestamp": 1053,
+            "stop_timestamp": 5173,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and chop eggplant",
+                    "start_timestamp": 1053,
+                    "stop_timestamp": 3318
+                },
+                {
+                    "secondary_subgoal": "Prepare and chop cucumber",
+                    "start_timestamp": 3318,
+                    "stop_timestamp": 5173
+                }
+            ]
+        },
+        {
+            "subgoal": "Season and mix vegetables",
+            "start_timestamp": 5173,
+            "stop_timestamp": 6503,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add salt and shake vegetables",
+                    "start_timestamp": 5173,
+                    "stop_timestamp": 5884
+                },
+                {
+                    "secondary_subgoal": "Mix cucumber and eggplant",
+                    "start_timestamp": 5884,
+                    "stop_timestamp": 6503
+                }
+            ]
+        },
+        {
+            "subgoal": "Add cilantro to the mixture",
+            "start_timestamp": 6503,
+            "stop_timestamp": 9069,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean and cut cilantro leaves",
+                    "start_timestamp": 6503,
+                    "stop_timestamp": 8952
+                },
+                {
+                    "secondary_subgoal": "Collect cilantro leaves",
+                    "start_timestamp": 8952,
+                    "stop_timestamp": 9069
+                }
+            ]
+        },
+        {
+            "subgoal": "Add granola to the mixture",
+            "start_timestamp": 9069,
+            "stop_timestamp": 10767,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve bowl and lid",
+                    "start_timestamp": 9069,
+                    "stop_timestamp": 9420
+                },
+                {
+                    "secondary_subgoal": "Add granola to the bowl",
+                    "start_timestamp": 9420,
+                    "stop_timestamp": 10463
+                },
+                {
+                    "secondary_subgoal": "Scatter courgette pieces",
+                    "start_timestamp": 10463,
+                    "stop_timestamp": 10767
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish salad preparation",
+            "start_timestamp": 10767,
+            "stop_timestamp": 16688,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjusting the mixture",
+                    "start_timestamp": 10767,
+                    "stop_timestamp": 11004
+                },
+                {
+                    "secondary_subgoal": "Clean and chop tomatoes",
+                    "start_timestamp": 11004,
+                    "stop_timestamp": 14895
+                },
+                {
+                    "secondary_subgoal": "Season the mixture",
+                    "start_timestamp": 14895,
+                    "stop_timestamp": 16688
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "overall_goal": "Prepare and cook a meal using various ingredients including tomatoes, spices, and unleavened bread.",
+    "clips": [
+        {
+            "subgoal": "Wash and prepare hands.",
+            "start_timestamp": 39,
+            "stop_timestamp": 1071,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look around and walk.",
+                    "start_timestamp": 39,
+                    "stop_timestamp": 155
+                },
+                {
+                    "secondary_subgoal": "Wash and scrub hands.",
+                    "start_timestamp": 155,
+                    "stop_timestamp": 252
+                },
+                {
+                    "secondary_subgoal": "Apply and scrub soap.",
+                    "start_timestamp": 252,
+                    "stop_timestamp": 363
+                },
+                {
+                    "secondary_subgoal": "Rinse hands and wipe clean.",
+                    "start_timestamp": 363,
+                    "stop_timestamp": 1071
+                }
+            ]
+        },
+        {
+            "subgoal": "Gather and prepare ingredients.",
+            "start_timestamp": 1071,
+            "stop_timestamp": 3078,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare the chopping board and gather knife.",
+                    "start_timestamp": 1071,
+                    "stop_timestamp": 1326
+                },
+                {
+                    "secondary_subgoal": "Gather and prepare tomatoes.",
+                    "start_timestamp": 1418,
+                    "stop_timestamp": 2317
+                },
+                {
+                    "secondary_subgoal": "Wash tomatoes.",
+                    "start_timestamp": 2333,
+                    "stop_timestamp": 2554
+                },
+                {
+                    "secondary_subgoal": "Wipe hands and take a bowl.",
+                    "start_timestamp": 2689,
+                    "stop_timestamp": 2851
+                },
+                {
+                    "secondary_subgoal": "Move around kitchen, gather knife and tomatoes.",
+                    "start_timestamp": 2851,
+                    "stop_timestamp": 2880
+                },
+                {
+                    "secondary_subgoal": "Cut and prepare tomatoes.",
+                    "start_timestamp": 2994,
+                    "stop_timestamp": 3760
+                },
+                {
+                    "secondary_subgoal": "Clean the chopping board and work area.",
+                    "start_timestamp": 3809,
+                    "stop_timestamp": 4127
+                },
+                {
+                    "secondary_subgoal": "Chop and transfer tomatoes to bowl.",
+                    "start_timestamp": 4204,
+                    "stop_timestamp": 4910
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare spices and mix with ingredients.",
+            "start_timestamp": 5339,
+            "stop_timestamp": 9538,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather and use spices from upper cabinet.",
+                    "start_timestamp": 5919,
+                    "stop_timestamp": 6118
+                },
+                {
+                    "secondary_subgoal": "Open and mix spices.",
+                    "start_timestamp": 6118,
+                    "stop_timestamp": 8950
+                }
+            ]
+        },
+        {
+            "subgoal": "Process other ingredients by heating.",
+            "start_timestamp": 9763,
+            "stop_timestamp": 20796,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Process ingredients in microwave.",
+                    "start_timestamp": 9937,
+                    "stop_timestamp": 18281
+                },
+                {
+                    "secondary_subgoal": "Prepare and cut carrots.",
+                    "start_timestamp": 18569,
+                    "stop_timestamp": 20932
+                },
+                {
+                    "secondary_subgoal": "Wash and chop carrots.",
+                    "start_timestamp": 20932,
+                    "stop_timestamp": 21298
+                }
+            ]
+        }
+    ]
+}

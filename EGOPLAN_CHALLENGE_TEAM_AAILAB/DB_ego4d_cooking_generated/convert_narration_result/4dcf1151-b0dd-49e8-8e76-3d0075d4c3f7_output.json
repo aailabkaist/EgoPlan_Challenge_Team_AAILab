@@ -1,0 +1,397 @@
+[
+    {
+        "task_goal": "Collect necessary items for food preparation",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Operates the phone in the house",
+                "start_frame": 27,
+                "stop_frame": 397
+            },
+            {
+                "narration_text": "Walks in the house",
+                "start_frame": 397,
+                "stop_frame": 480
+            },
+            {
+                "narration_text": "Places the phone on the table service",
+                "start_frame": 480,
+                "stop_frame": 523
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 523,
+                "stop_frame": 593
+            },
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 593,
+                "stop_frame": 684
+            },
+            {
+                "narration_text": "Removes the bakery tray from the oven",
+                "start_frame": 684,
+                "stop_frame": 866
+            }
+        ]
+    },
+    {
+        "task_goal": "Operate phone and place it on table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Operates the phone in the house",
+                "start_frame": 27,
+                "stop_frame": 397
+            },
+            {
+                "narration_text": "Walks in the house",
+                "start_frame": 397,
+                "stop_frame": 480
+            },
+            {
+                "narration_text": "Places the phone on the table service",
+                "start_frame": 480,
+                "stop_frame": 523
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 523,
+                "stop_frame": 593
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and close drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the phone on the table service",
+                "start_frame": 480,
+                "stop_frame": 523
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 523,
+                "stop_frame": 593
+            },
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 593,
+                "stop_frame": 684
+            },
+            {
+                "narration_text": "Removes the bakery tray from the oven",
+                "start_frame": 684,
+                "stop_frame": 866
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare bread with tomato sauce",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 593,
+                "stop_frame": 684
+            },
+            {
+                "narration_text": "Removes the bakery tray from the oven",
+                "start_frame": 684,
+                "stop_frame": 866
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 866,
+                "stop_frame": 906
+            },
+            {
+                "narration_text": "Removes the tomato sauce from the fridge",
+                "start_frame": 906,
+                "stop_frame": 1136
+            },
+            {
+                "narration_text": "Opens the lid of the tomato sauce",
+                "start_frame": 1136,
+                "stop_frame": 1161
+            },
+            {
+                "narration_text": "Puts the tomato sauce on the bread",
+                "start_frame": 1161,
+                "stop_frame": 1515
+            },
+            {
+                "narration_text": "Closes the bottle of tomato sauce with a lid",
+                "start_frame": 1515,
+                "stop_frame": 1584
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 1584,
+                "stop_frame": 1617
+            },
+            {
+                "narration_text": "Removes another bottle of tomato sauce from the fridge",
+                "start_frame": 1617,
+                "stop_frame": 1740
+            },
+            {
+                "narration_text": "Opens the lid of the tomato sauce bottle",
+                "start_frame": 1740,
+                "stop_frame": 1791
+            },
+            {
+                "narration_text": "Puts the tomato sauce on the bread",
+                "start_frame": 1791,
+                "stop_frame": 2119
+            },
+            {
+                "narration_text": "Closes the bottle of tomato sauce with a lid",
+                "start_frame": 2119,
+                "stop_frame": 2513
+            },
+            {
+                "narration_text": "Takes the tray of bread",
+                "start_frame": 2513,
+                "stop_frame": 2759
+            },
+            {
+                "narration_text": "Wipes excess sauce",
+                "start_frame": 2759,
+                "stop_frame": 3006
+            },
+            {
+                "narration_text": "Throws the paper towel in the dustbin",
+                "start_frame": 3006,
+                "stop_frame": 3165
+            },
+            {
+                "narration_text": "Wipes excess sauce with paper towel",
+                "start_frame": 3165,
+                "stop_frame": 3422
+            },
+            {
+                "narration_text": "Throws the paper towel in the dustbin",
+                "start_frame": 3422,
+                "stop_frame": 3533
+            },
+            {
+                "narration_text": "Takes the tray of bread",
+                "start_frame": 3533,
+                "stop_frame": 3630
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove bakery tray from oven",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 593,
+                "stop_frame": 684
+            },
+            {
+                "narration_text": "Removes the bakery tray from the oven",
+                "start_frame": 684,
+                "stop_frame": 866
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 866,
+                "stop_frame": 906
+            }
+        ]
+    },
+    {
+        "task_goal": "Get tomato sauce from the fridge and apply it",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Removes the bakery tray from the oven",
+                "start_frame": 684,
+                "stop_frame": 866
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 866,
+                "stop_frame": 906
+            },
+            {
+                "narration_text": "Removes the tomato sauce from the fridge",
+                "start_frame": 906,
+                "stop_frame": 1136
+            },
+            {
+                "narration_text": "Opens the lid of the tomato sauce",
+                "start_frame": 1136,
+                "stop_frame": 1161
+            },
+            {
+                "narration_text": "Puts the tomato sauce on the bread",
+                "start_frame": 1161,
+                "stop_frame": 1515
+            },
+            {
+                "narration_text": "Closes the bottle of tomato sauce with a lid",
+                "start_frame": 1515,
+                "stop_frame": 1584
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 1584,
+                "stop_frame": 1617
+            },
+            {
+                "narration_text": "Removes another bottle of tomato sauce from the fridge",
+                "start_frame": 1617,
+                "stop_frame": 1740
+            },
+            {
+                "narration_text": "Opens the lid of the tomato sauce bottle",
+                "start_frame": 1740,
+                "stop_frame": 1791
+            },
+            {
+                "narration_text": "Puts the tomato sauce on the bread",
+                "start_frame": 1791,
+                "stop_frame": 2119
+            },
+            {
+                "narration_text": "Closes the bottle of tomato sauce with a lid",
+                "start_frame": 2119,
+                "stop_frame": 2513
+            },
+            {
+                "narration_text": "Takes the tray of bread",
+                "start_frame": 2513,
+                "stop_frame": 2759
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe excess sauce and clean up",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the bottle of tomato sauce with a lid",
+                "start_frame": 2119,
+                "stop_frame": 2513
+            },
+            {
+                "narration_text": "Takes the tray of bread",
+                "start_frame": 2513,
+                "stop_frame": 2759
+            },
+            {
+                "narration_text": "Wipes excess sauce",
+                "start_frame": 2759,
+                "stop_frame": 3006
+            },
+            {
+                "narration_text": "Throws the paper towel in the dustbin",
+                "start_frame": 3006,
+                "stop_frame": 3165
+            },
+            {
+                "narration_text": "Wipes excess sauce with paper towel",
+                "start_frame": 3165,
+                "stop_frame": 3422
+            },
+            {
+                "narration_text": "Throws the paper towel in the dustbin",
+                "start_frame": 3422,
+                "stop_frame": 3533
+            },
+            {
+                "narration_text": "Takes the tray of bread",
+                "start_frame": 3533,
+                "stop_frame": 3630
+            }
+        ]
+    },
+    {
+        "task_goal": "Bake the prepared bread",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Throws the paper towel in the dustbin",
+                "start_frame": 3422,
+                "stop_frame": 3533
+            },
+            {
+                "narration_text": "Takes the tray of bread",
+                "start_frame": 3533,
+                "stop_frame": 3630
+            },
+            {
+                "narration_text": "Puts the bread in the oven",
+                "start_frame": 3630,
+                "stop_frame": 3695
+            },
+            {
+                "narration_text": "Picks the phone from the table",
+                "start_frame": 3695,
+                "stop_frame": 3726
+            }
+        ]
+    },
+    {
+        "task_goal": "Put bread in oven",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Throws the paper towel in the dustbin",
+                "start_frame": 3422,
+                "stop_frame": 3533
+            },
+            {
+                "narration_text": "Takes the tray of bread",
+                "start_frame": 3533,
+                "stop_frame": 3630
+            },
+            {
+                "narration_text": "Puts the bread in the oven",
+                "start_frame": 3630,
+                "stop_frame": 3695
+            },
+            {
+                "narration_text": "Picks the phone from the table",
+                "start_frame": 3695,
+                "stop_frame": 3726
+            }
+        ]
+    },
+    {
+        "task_goal": "End activity by using the phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the bread in the oven",
+                "start_frame": 3630,
+                "stop_frame": 3695
+            },
+            {
+                "narration_text": "Picks the phone from the table",
+                "start_frame": 3695,
+                "stop_frame": 3726
+            },
+            {
+                "narration_text": "Operates the phone",
+                "start_frame": 3726,
+                "stop_frame": 3826
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and operate phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the bread in the oven",
+                "start_frame": 3630,
+                "stop_frame": 3695
+            },
+            {
+                "narration_text": "Picks the phone from the table",
+                "start_frame": 3695,
+                "stop_frame": 3726
+            },
+            {
+                "narration_text": "Operates the phone",
+                "start_frame": 3726,
+                "stop_frame": 3826
+            }
+        ]
+    }
+]

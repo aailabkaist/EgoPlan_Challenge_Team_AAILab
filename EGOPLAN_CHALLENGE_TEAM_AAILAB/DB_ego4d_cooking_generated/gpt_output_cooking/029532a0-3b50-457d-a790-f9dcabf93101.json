@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efT1BCcRNB0qhUDaj6AAlHlVCaJs",
+    "object": "chat.completion",
+    "created": 1719479547,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare chopped carrots for further use\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Gather necessary items\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 691,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gathering a plate\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 9\n        },\n        {\n          \"secondary_subgoal\": \"Walking to the fridge\",\n          \"start_timestamp\": 9,\n          \"stop_timestamp\": 70\n        },\n        {\n          \"secondary_subgoal\": \"Retrieving items from the fridge\",\n          \"start_timestamp\": 70,\n          \"stop_timestamp\": 593\n        },\n        {\n          \"secondary_subgoal\": \"Moving items to the countertop\",\n          \"start_timestamp\": 593,\n          \"stop_timestamp\": 691\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing cooking tools\",\n      \"start_timestamp\": 691,\n      \"stop_timestamp\": 911,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Placing items on the countertop\",\n          \"start_timestamp\": 691,\n          \"stop_timestamp\": 779\n        },\n        {\n          \"secondary_subgoal\": \"Standing on the floor\",\n          \"start_timestamp\": 779,\n          \"stop_timestamp\": 911\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Chop carrots\",\n      \"start_timestamp\": 911,\n      \"stop_timestamp\": 2584,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Preparing knife and carrots\",\n          \"start_timestamp\": 911,\n          \"stop_timestamp\": 957\n        },\n        {\n          \"secondary_subgoal\": \"Chopping carrots\",\n          \"start_timestamp\": 957,\n          \"stop_timestamp\": 2584\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 743,
+        "completion_tokens": 405,
+        "total_tokens": 1148
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

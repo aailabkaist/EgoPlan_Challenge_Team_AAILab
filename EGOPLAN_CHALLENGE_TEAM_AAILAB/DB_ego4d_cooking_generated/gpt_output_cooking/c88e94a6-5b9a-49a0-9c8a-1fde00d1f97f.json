@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeg904NLqa31JWD6WxqpKCobS2cS",
+    "object": "chat.completion",
+    "created": 1719476517,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare ingredients for a meal by cutting meat, carrots, and onions, and placing them in a sieve bowl.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Gather ingredients and tools\",\n      \"start_timestamp\": 11,\n      \"stop_timestamp\": 2250,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Move phone to kitchen table\",\n          \"start_timestamp\": 11,\n          \"stop_timestamp\": 74\n        },\n        {\n          \"secondary_subgoal\": \"Retrieve meat from fridge\",\n          \"start_timestamp\": 74,\n          \"stop_timestamp\": 585\n        },\n        {\n          \"secondary_subgoal\": \"Place meat on kitchen table\",\n          \"start_timestamp\": 585,\n          \"stop_timestamp\": 602\n        },\n        {\n          \"secondary_subgoal\": \"Retrieve packet from cabinet and place on table\",\n          \"start_timestamp\": 726,\n          \"stop_timestamp\": 994\n        },\n        {\n          \"secondary_subgoal\": \"Retrieve carrots and onion from fridge\",\n          \"start_timestamp\": 1085,\n          \"stop_timestamp\": 1737\n        },\n        {\n          \"secondary_subgoal\": \"Place carrots and onion on kitchen table\",\n          \"start_timestamp\": 1737,\n          \"stop_timestamp\": 1783\n        },\n        {\n          \"secondary_subgoal\": \"Retrieve pot from cabinet and place on gas cooker\",\n          \"start_timestamp\": 1875,\n          \"stop_timestamp\": 2073\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare cutting area and tools\",\n      \"start_timestamp\": 2467,\n      \"stop_timestamp\": 3720,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Place cutting board on kitchen table\",\n          \"start_timestamp\": 2616,\n          \"stop_timestamp\": 2750\n        },\n        {\n          \"secondary_subgoal\": \"Retrieve knife and wooden spatula\",\n          \"start_timestamp\": 3452,\n          \"stop_timestamp\": 3678\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cut and prepare vegetables\",\n      \"start_timestamp\": 4181,\n      \"stop_timestamp\": 7948,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut and wrap onion pieces\",\n          \"start_timestamp\": 4181,\n          \"stop_timestamp\": 5369\n        },\n        {\n          \"secondary_subgoal\": \"Place onion pieces in crisper\",\n          \"start_timestamp\": 5396,\n          \"stop_timestamp\": 5552\n        },\n        {\n          \"secondary_subgoal\": \"Cut and wrap carrot pieces\",\n          \"start_timestamp\": 5652,\n          \"stop_timestamp\": 6123\n        },\n        {\n          \"secondary_subgoal\": \"Rinse carrot pieces\",\n          \"start_timestamp\": 6158,\n          \"stop_timestamp\": 6216\n        },\n        {\n          \"secondary_subgoal\": \"Cut onions into smaller pieces and place in sink\",\n          \"start_timestamp\": 6267,\n          \"stop_timestamp\": 7524\n        },\n        {\n          \"secondary_subgoal\": \"Clean and dry cutting board\",\n          \"start_timestamp\": 7822,\n          \"stop_timestamp\": 7948\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cut meat and place in bowl\",\n      \"start_timestamp\": 8958,\n      \"stop_timestamp\": 17935,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Unwrap and place meat on cutting board\",\n          \"start_timestamp\": 8958,\n          \"stop_timestamp\": 19812\n        },\n        {\n          \"secondary_subgoal\": \"Cut meat into pieces and place in sieve bowl\",\n          \"start_timestamp\": 19832,\n          \"stop_timestamp\": 20281\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 8404,
+        "completion_tokens": 820,
+        "total_tokens": 9224
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

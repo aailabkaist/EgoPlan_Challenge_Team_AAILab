@@ -1,0 +1,917 @@
+[
+    {
+        "task_goal": "Prepare and crack the eggs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds a phone",
+                "start_frame": 1,
+                "stop_frame": 105
+            },
+            {
+                "narration_text": "#C C puts the phone at the table",
+                "start_frame": 105,
+                "stop_frame": 144
+            },
+            {
+                "narration_text": "#C C open an egg tray",
+                "start_frame": 144,
+                "stop_frame": 201
+            },
+            {
+                "narration_text": "#C C picks an egg from the tray",
+                "start_frame": 201,
+                "stop_frame": 228
+            },
+            {
+                "narration_text": "#C C cracks eggs on the plate",
+                "start_frame": 228,
+                "stop_frame": 844
+            },
+            {
+                "narration_text": "#C C collects the shells together",
+                "start_frame": 844,
+                "stop_frame": 937
+            },
+            {
+                "narration_text": "#C C opens the dustbin",
+                "start_frame": 937,
+                "stop_frame": 964
+            },
+            {
+                "narration_text": "#C C throws the shell to the dustbin",
+                "start_frame": 964,
+                "stop_frame": 1036
+            },
+            {
+                "narration_text": "#C C closes the eggs tray",
+                "start_frame": 1036,
+                "stop_frame": 1056
+            }
+        ]
+    },
+    {
+        "task_goal": "C holds a phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds a phone",
+                "start_frame": 1,
+                "stop_frame": 105
+            },
+            {
+                "narration_text": "#C C puts the phone at the table",
+                "start_frame": 105,
+                "stop_frame": 144
+            }
+        ]
+    },
+    {
+        "task_goal": "C puts the phone at the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds a phone",
+                "start_frame": 1,
+                "stop_frame": 105
+            },
+            {
+                "narration_text": "#C C puts the phone at the table",
+                "start_frame": 105,
+                "stop_frame": 144
+            },
+            {
+                "narration_text": "#C C open an egg tray",
+                "start_frame": 144,
+                "stop_frame": 201
+            }
+        ]
+    },
+    {
+        "task_goal": "C open an egg tray",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the phone at the table",
+                "start_frame": 105,
+                "stop_frame": 144
+            },
+            {
+                "narration_text": "#C C open an egg tray",
+                "start_frame": 144,
+                "stop_frame": 201
+            },
+            {
+                "narration_text": "#C C picks an egg from the tray",
+                "start_frame": 201,
+                "stop_frame": 228
+            }
+        ]
+    },
+    {
+        "task_goal": "C picks an egg from the tray",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C open an egg tray",
+                "start_frame": 144,
+                "stop_frame": 201
+            },
+            {
+                "narration_text": "#C C picks an egg from the tray",
+                "start_frame": 201,
+                "stop_frame": 228
+            },
+            {
+                "narration_text": "#C C cracks eggs on the plate",
+                "start_frame": 228,
+                "stop_frame": 844
+            }
+        ]
+    },
+    {
+        "task_goal": "C cracks eggs on the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks an egg from the tray",
+                "start_frame": 201,
+                "stop_frame": 228
+            },
+            {
+                "narration_text": "#C C cracks eggs on the plate",
+                "start_frame": 228,
+                "stop_frame": 844
+            },
+            {
+                "narration_text": "#C C collects the shells together",
+                "start_frame": 844,
+                "stop_frame": 937
+            }
+        ]
+    },
+    {
+        "task_goal": "C collects the shells together and throws them in the dustbin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cracks eggs on the plate",
+                "start_frame": 228,
+                "stop_frame": 844
+            },
+            {
+                "narration_text": "#C C collects the shells together",
+                "start_frame": 844,
+                "stop_frame": 937
+            },
+            {
+                "narration_text": "#C C opens the dustbin",
+                "start_frame": 937,
+                "stop_frame": 964
+            },
+            {
+                "narration_text": "#C C throws the shell to the dustbin",
+                "start_frame": 964,
+                "stop_frame": 1036
+            },
+            {
+                "narration_text": "#C C closes the eggs tray",
+                "start_frame": 1036,
+                "stop_frame": 1056
+            }
+        ]
+    },
+    {
+        "task_goal": "Store leftover ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C throws the shell to the dustbin",
+                "start_frame": 964,
+                "stop_frame": 1036
+            },
+            {
+                "narration_text": "#C C closes the eggs tray",
+                "start_frame": 1036,
+                "stop_frame": 1056
+            },
+            {
+                "narration_text": "#C C picks the eggs tray",
+                "start_frame": 1056,
+                "stop_frame": 1113
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 1113,
+                "stop_frame": 1176
+            },
+            {
+                "narration_text": "#C C puts the tray inside the fridge",
+                "start_frame": 1176,
+                "stop_frame": 1427
+            },
+            {
+                "narration_text": "#C C picks a container of cooking fat",
+                "start_frame": 1427,
+                "stop_frame": 1598
+            }
+        ]
+    },
+    {
+        "task_goal": "C closes the eggs tray and puts it in the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C throws the shell to the dustbin",
+                "start_frame": 964,
+                "stop_frame": 1036
+            },
+            {
+                "narration_text": "#C C closes the eggs tray",
+                "start_frame": 1036,
+                "stop_frame": 1056
+            },
+            {
+                "narration_text": "#C C picks the eggs tray",
+                "start_frame": 1056,
+                "stop_frame": 1113
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 1113,
+                "stop_frame": 1176
+            },
+            {
+                "narration_text": "#C C puts the tray inside the fridge",
+                "start_frame": 1176,
+                "stop_frame": 1427
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare cooking fat for use",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the tray inside the fridge",
+                "start_frame": 1176,
+                "stop_frame": 1427
+            },
+            {
+                "narration_text": "#C C picks a container of cooking fat",
+                "start_frame": 1427,
+                "stop_frame": 1598
+            },
+            {
+                "narration_text": "#C C opens the container",
+                "start_frame": 1598,
+                "stop_frame": 1714
+            },
+            {
+                "narration_text": "#C C removes a paper from the container",
+                "start_frame": 1714,
+                "stop_frame": 1802
+            },
+            {
+                "narration_text": "#C C dumps the paper on the dustbin",
+                "start_frame": 1802,
+                "stop_frame": 1885
+            },
+            {
+                "narration_text": "#C C opens a drawer",
+                "start_frame": 1885,
+                "stop_frame": 1989
+            }
+        ]
+    },
+    {
+        "task_goal": "C picks a container of cooking fat and removes paper inside it",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the tray inside the fridge",
+                "start_frame": 1176,
+                "stop_frame": 1427
+            },
+            {
+                "narration_text": "#C C picks a container of cooking fat",
+                "start_frame": 1427,
+                "stop_frame": 1598
+            },
+            {
+                "narration_text": "#C C opens the container",
+                "start_frame": 1598,
+                "stop_frame": 1714
+            },
+            {
+                "narration_text": "#C C removes a paper from the container",
+                "start_frame": 1714,
+                "stop_frame": 1802
+            },
+            {
+                "narration_text": "#C C dumps the paper on the dustbin",
+                "start_frame": 1802,
+                "stop_frame": 1885
+            }
+        ]
+    },
+    {
+        "task_goal": "C dumps the paper in the dustbin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C removes a paper from the container",
+                "start_frame": 1714,
+                "stop_frame": 1802
+            },
+            {
+                "narration_text": "#C C dumps the paper on the dustbin",
+                "start_frame": 1802,
+                "stop_frame": 1885
+            },
+            {
+                "narration_text": "#C C opens a drawer",
+                "start_frame": 1885,
+                "stop_frame": 1989
+            }
+        ]
+    },
+    {
+        "task_goal": "Gather utensils for cooking",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C dumps the paper on the dustbin",
+                "start_frame": 1802,
+                "stop_frame": 1885
+            },
+            {
+                "narration_text": "#C C opens a drawer",
+                "start_frame": 1885,
+                "stop_frame": 1989
+            },
+            {
+                "narration_text": "#C C holds a spoon from the drawer",
+                "start_frame": 1989,
+                "stop_frame": 2046
+            },
+            {
+                "narration_text": "#C C picks a fork spoon",
+                "start_frame": 2046,
+                "stop_frame": 2306
+            }
+        ]
+    },
+    {
+        "task_goal": "C opens a drawer and holds a spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C dumps the paper on the dustbin",
+                "start_frame": 1802,
+                "stop_frame": 1885
+            },
+            {
+                "narration_text": "#C C opens a drawer",
+                "start_frame": 1885,
+                "stop_frame": 1989
+            },
+            {
+                "narration_text": "#C C holds a spoon from the drawer",
+                "start_frame": 1989,
+                "stop_frame": 2046
+            },
+            {
+                "narration_text": "#C C picks a fork spoon",
+                "start_frame": 2046,
+                "stop_frame": 2306
+            }
+        ]
+    },
+    {
+        "task_goal": "C picks cooking fat from the container and puts it in the pan, then turns on the stove",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds a spoon from the drawer",
+                "start_frame": 1989,
+                "stop_frame": 2046
+            },
+            {
+                "narration_text": "#C C picks a fork spoon",
+                "start_frame": 2046,
+                "stop_frame": 2306
+            },
+            {
+                "narration_text": "#C C picks cooking fat from the container",
+                "start_frame": 2306,
+                "stop_frame": 2592
+            },
+            {
+                "narration_text": "#C C puts the cooking fat to the pan",
+                "start_frame": 2592,
+                "stop_frame": 2686
+            },
+            {
+                "narration_text": "#C C closes the cooking fat",
+                "start_frame": 2686,
+                "stop_frame": 2741
+            },
+            {
+                "narration_text": "#C C turns on the cooking stove",
+                "start_frame": 2741,
+                "stop_frame": 2825
+            },
+            {
+                "narration_text": "#C C whisks the eggs in a bowl",
+                "start_frame": 2825,
+                "stop_frame": 3196
+            }
+        ]
+    },
+    {
+        "task_goal": "C whisks the eggs in a bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns on the cooking stove",
+                "start_frame": 2741,
+                "stop_frame": 2825
+            },
+            {
+                "narration_text": "#C C whisks the eggs in a bowl",
+                "start_frame": 2825,
+                "stop_frame": 3196
+            },
+            {
+                "narration_text": "#C C holds a package",
+                "start_frame": 3196,
+                "stop_frame": 3260
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare bread",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C whisks the eggs in a bowl",
+                "start_frame": 2825,
+                "stop_frame": 3196
+            },
+            {
+                "narration_text": "#C C holds a package",
+                "start_frame": 3196,
+                "stop_frame": 3260
+            },
+            {
+                "narration_text": "#C C holds a bread",
+                "start_frame": 3260,
+                "stop_frame": 3342
+            },
+            {
+                "narration_text": "#C C cuts the bread with a knife",
+                "start_frame": 3342,
+                "stop_frame": 3587
+            },
+            {
+                "narration_text": "#C C returns the bread inside the package",
+                "start_frame": 3587,
+                "stop_frame": 3874
+            },
+            {
+                "narration_text": "#C C puts the bread inside a tosta machine",
+                "start_frame": 3874,
+                "stop_frame": 3975
+            },
+            {
+                "narration_text": "#C C turns on the gas stove",
+                "start_frame": 3975,
+                "stop_frame": 4104
+            }
+        ]
+    },
+    {
+        "task_goal": "C holds bread and cuts it with a knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C whisks the eggs in a bowl",
+                "start_frame": 2825,
+                "stop_frame": 3196
+            },
+            {
+                "narration_text": "#C C holds a package",
+                "start_frame": 3196,
+                "stop_frame": 3260
+            },
+            {
+                "narration_text": "#C C holds a bread",
+                "start_frame": 3260,
+                "stop_frame": 3342
+            },
+            {
+                "narration_text": "#C C cuts the bread with a knife",
+                "start_frame": 3342,
+                "stop_frame": 3587
+            },
+            {
+                "narration_text": "#C C returns the bread inside the package",
+                "start_frame": 3587,
+                "stop_frame": 3874
+            }
+        ]
+    },
+    {
+        "task_goal": "C returns the bread inside the package and puts it in the tosta machine",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cuts the bread with a knife",
+                "start_frame": 3342,
+                "stop_frame": 3587
+            },
+            {
+                "narration_text": "#C C returns the bread inside the package",
+                "start_frame": 3587,
+                "stop_frame": 3874
+            },
+            {
+                "narration_text": "#C C puts the bread inside a tosta machine",
+                "start_frame": 3874,
+                "stop_frame": 3975
+            },
+            {
+                "narration_text": "#C C turns on the gas stove",
+                "start_frame": 3975,
+                "stop_frame": 4104
+            }
+        ]
+    },
+    {
+        "task_goal": "Store cooking fat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the bread inside a tosta machine",
+                "start_frame": 3874,
+                "stop_frame": 3975
+            },
+            {
+                "narration_text": "#C C turns on the gas stove",
+                "start_frame": 3975,
+                "stop_frame": 4104
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 4104,
+                "stop_frame": 4138
+            },
+            {
+                "narration_text": "#C C puts the cooking fat inside the fridge",
+                "start_frame": 4138,
+                "stop_frame": 4191
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 4191,
+                "stop_frame": 4232
+            },
+            {
+                "narration_text": "#C C picks ingredients from the shelf",
+                "start_frame": 4232,
+                "stop_frame": 4377
+            }
+        ]
+    },
+    {
+        "task_goal": "C puts the bread inside a tosta machine and turns on the gas stove",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the bread inside a tosta machine",
+                "start_frame": 3874,
+                "stop_frame": 3975
+            },
+            {
+                "narration_text": "#C C turns on the gas stove",
+                "start_frame": 3975,
+                "stop_frame": 4104
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 4104,
+                "stop_frame": 4138
+            }
+        ]
+    },
+    {
+        "task_goal": "C opens the fridge and puts the cooking fat inside",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 4104,
+                "stop_frame": 4138
+            },
+            {
+                "narration_text": "#C C puts the cooking fat inside the fridge",
+                "start_frame": 4138,
+                "stop_frame": 4191
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 4191,
+                "stop_frame": 4232
+            },
+            {
+                "narration_text": "#C C picks ingredients from the shelf",
+                "start_frame": 4232,
+                "stop_frame": 4377
+            }
+        ]
+    },
+    {
+        "task_goal": "Add ingredients to eggs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 4191,
+                "stop_frame": 4232
+            },
+            {
+                "narration_text": "#C C picks ingredients from the shelf",
+                "start_frame": 4232,
+                "stop_frame": 4377
+            },
+            {
+                "narration_text": "#C C puts the ingredients at the table",
+                "start_frame": 4377,
+                "stop_frame": 4414
+            },
+            {
+                "narration_text": "#C C adds ingredients to the egg",
+                "start_frame": 4414,
+                "stop_frame": 4906
+            },
+            {
+                "narration_text": "#C C whisks the egg",
+                "start_frame": 4906,
+                "stop_frame": 5504
+            },
+            {
+                "narration_text": "#C C raises the pan from the stove",
+                "start_frame": 5504,
+                "stop_frame": 5747
+            }
+        ]
+    },
+    {
+        "task_goal": "C adds ingredients to the egg mixture",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the ingredients at the table",
+                "start_frame": 4377,
+                "stop_frame": 4414
+            },
+            {
+                "narration_text": "#C C adds ingredients to the egg",
+                "start_frame": 4414,
+                "stop_frame": 4906
+            },
+            {
+                "narration_text": "#C C whisks the egg",
+                "start_frame": 4906,
+                "stop_frame": 5504
+            }
+        ]
+    },
+    {
+        "task_goal": "C whisks the eggs with ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C adds ingredients to the egg",
+                "start_frame": 4414,
+                "stop_frame": 4906
+            },
+            {
+                "narration_text": "#C C whisks the egg",
+                "start_frame": 4906,
+                "stop_frame": 5504
+            },
+            {
+                "narration_text": "#C C raises the pan from the stove",
+                "start_frame": 5504,
+                "stop_frame": 5747
+            }
+        ]
+    },
+    {
+        "task_goal": "C raises the pan from the stove and puts dishes inside the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C whisks the egg",
+                "start_frame": 4906,
+                "stop_frame": 5504
+            },
+            {
+                "narration_text": "#C C raises the pan from the stove",
+                "start_frame": 5504,
+                "stop_frame": 5747
+            },
+            {
+                "narration_text": "#C C puts the dishes inside the sink",
+                "start_frame": 5747,
+                "stop_frame": 5804
+            },
+            {
+                "narration_text": "#C C presses the tosta machine",
+                "start_frame": 5804,
+                "stop_frame": 5998
+            }
+        ]
+    },
+    {
+        "task_goal": "C presses the tosta machine and holds the bowl with eggs, then puts the eggs on the pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the dishes inside the sink",
+                "start_frame": 5747,
+                "stop_frame": 5804
+            },
+            {
+                "narration_text": "#C C presses the tosta machine",
+                "start_frame": 5804,
+                "stop_frame": 5998
+            },
+            {
+                "narration_text": "#C C holds the bowl with eggs",
+                "start_frame": 5998,
+                "stop_frame": 6029
+            },
+            {
+                "narration_text": "#C C puts the eggs on the pan",
+                "start_frame": 6029,
+                "stop_frame": 6077
+            },
+            {
+                "narration_text": "#C C fries eggs inside a pan",
+                "start_frame": 6077,
+                "stop_frame": 6195
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare the rest of the breakfast",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C carries the frying pan with the left hand",
+                "start_frame": 11893,
+                "stop_frame": 11989
+            },
+            {
+                "narration_text": "#C C swings the right hand",
+                "start_frame": 11989,
+                "stop_frame": 12007
+            },
+            {
+                "narration_text": "#C C touches the cake with the right hand",
+                "start_frame": 12007,
+                "stop_frame": 12045
+            },
+            {
+                "narration_text": "#C C serves #unsure",
+                "start_frame": 12045,
+                "stop_frame": 12835
+            },
+            {
+                "narration_text": "#C C walks in the kitchen",
+                "start_frame": 12835,
+                "stop_frame": 12859
+            },
+            {
+                "narration_text": "#C C drops the frying pan on the electric stove",
+                "start_frame": 12859,
+                "stop_frame": 12860
+            },
+            {
+                "narration_text": "#C C moves the ladle spoon to the left hand",
+                "start_frame": 12860,
+                "stop_frame": 12891
+            },
+            {
+                "narration_text": "#C C swings the right hand",
+                "start_frame": 12891,
+                "stop_frame": 12915
+            },
+            {
+                "narration_text": "#C C touches the mobile phone with the right hand",
+                "start_frame": 12915,
+                "stop_frame": 13015
+            }
+        ]
+    },
+    {
+        "task_goal": "C picks the bread from the toaster and puts it on a plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C removes the bread from the toaster",
+                "start_frame": 11055,
+                "stop_frame": 11096
+            },
+            {
+                "narration_text": "#C C picks the bread with the right hand",
+                "start_frame": 11096,
+                "stop_frame": 11160
+            },
+            {
+                "narration_text": "#C C puts the bread in the plate",
+                "start_frame": 11160,
+                "stop_frame": 11167
+            },
+            {
+                "narration_text": "#C C swings the right hand",
+                "start_frame": 11167,
+                "stop_frame": 11200
+            },
+            {
+                "narration_text": "#C C picks the tea towel with both hands",
+                "start_frame": 11200,
+                "stop_frame": 11227
+            }
+        ]
+    },
+    {
+        "task_goal": "C handles cakes from the oven and puts them on the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a cake with the left hand",
+                "start_frame": 11366,
+                "stop_frame": 11388
+            },
+            {
+                "narration_text": "#C C puts the cake in the plate",
+                "start_frame": 11388,
+                "stop_frame": 11389
+            },
+            {
+                "narration_text": "#C C swings the left hand",
+                "start_frame": 11389,
+                "stop_frame": 11407
+            },
+            {
+                "narration_text": "#C C picks a cake with the left hand",
+                "start_frame": 11407,
+                "stop_frame": 11435
+            },
+            {
+                "narration_text": "#C C puts the cake in the plate",
+                "start_frame": 11435,
+                "stop_frame": 11450
+            },
+            {
+                "narration_text": "#C C swings the right hand",
+                "start_frame": 11450,
+                "stop_frame": 11483
+            },
+            {
+                "narration_text": "#C C drops the sheet pan on the electric stove",
+                "start_frame": 11483,
+                "stop_frame": 11526
+            },
+            {
+                "narration_text": "#C C swings the right hand",
+                "start_frame": 11526,
+                "stop_frame": 11539
+            },
+            {
+                "narration_text": "#C C drops the tea towel",
+                "start_frame": 11539,
+                "stop_frame": 11555
+            }
+        ]
+    },
+    {
+        "task_goal": "C serves breakfast",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C swings the right hand",
+                "start_frame": 11989,
+                "stop_frame": 12007
+            },
+            {
+                "narration_text": "#C C touches the cake with the right hand",
+                "start_frame": 12007,
+                "stop_frame": 12045
+            },
+            {
+                "narration_text": "#C C serves #unsure",
+                "start_frame": 12045,
+                "stop_frame": 12835
+            },
+            {
+                "narration_text": "#C C walks in the kitchen",
+                "start_frame": 12835,
+                "stop_frame": 12859
+            },
+            {
+                "narration_text": "#C C drops the frying pan on the electric stove",
+                "start_frame": 12859,
+                "stop_frame": 12860
+            },
+            {
+                "narration_text": "#C C moves the ladle spoon to the left hand",
+                "start_frame": 12860,
+                "stop_frame": 12891
+            },
+            {
+                "narration_text": "#C C swings the right hand",
+                "start_frame": 12891,
+                "stop_frame": 12915
+            },
+            {
+                "narration_text": "#C C touches the mobile phone with the right hand",
+                "start_frame": 12915,
+                "stop_frame": 13015
+            }
+        ]
+    }
+]

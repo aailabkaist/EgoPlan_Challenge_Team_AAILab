@@ -1,0 +1,592 @@
+[
+    {
+        "task_goal": "Clean the kitchen area",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves",
+                "start_frame": 33,
+                "stop_frame": 52
+            },
+            {
+                "narration_text": "Lifts hands",
+                "start_frame": 52,
+                "stop_frame": 96
+            },
+            {
+                "narration_text": "Takes kitchen towel",
+                "start_frame": 96,
+                "stop_frame": 118
+            },
+            {
+                "narration_text": "Wipes the table",
+                "start_frame": 118,
+                "stop_frame": 242
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 242,
+                "stop_frame": 320
+            },
+            {
+                "narration_text": "Places kitchen towel on the surface",
+                "start_frame": 320,
+                "stop_frame": 334
+            }
+        ]
+    },
+    {
+        "task_goal": "Move around in the kitchen",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves",
+                "start_frame": 33,
+                "stop_frame": 52
+            },
+            {
+                "narration_text": "Lifts hands",
+                "start_frame": 52,
+                "stop_frame": 96
+            }
+        ]
+    },
+    {
+        "task_goal": "Lift hands and take kitchen towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves",
+                "start_frame": 33,
+                "stop_frame": 52
+            },
+            {
+                "narration_text": "Lifts hands",
+                "start_frame": 52,
+                "stop_frame": 96
+            },
+            {
+                "narration_text": "Takes kitchen towel",
+                "start_frame": 96,
+                "stop_frame": 118
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lifts hands",
+                "start_frame": 52,
+                "stop_frame": 96
+            },
+            {
+                "narration_text": "Takes kitchen towel",
+                "start_frame": 96,
+                "stop_frame": 118
+            },
+            {
+                "narration_text": "Wipes the table",
+                "start_frame": 118,
+                "stop_frame": 242
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 242,
+                "stop_frame": 320
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk and place kitchen towel on surface",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Wipes the table",
+                "start_frame": 118,
+                "stop_frame": 242
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 242,
+                "stop_frame": 320
+            },
+            {
+                "narration_text": "Places kitchen towel on the surface",
+                "start_frame": 320,
+                "stop_frame": 334
+            }
+        ]
+    },
+    {
+        "task_goal": "Take a bowl and fill with water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves",
+                "start_frame": 334,
+                "stop_frame": 340
+            },
+            {
+                "narration_text": "Takes a bowl",
+                "start_frame": 340,
+                "stop_frame": 365
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 365,
+                "stop_frame": 444
+            },
+            {
+                "narration_text": "Turns on the tap",
+                "start_frame": 444,
+                "stop_frame": 459
+            },
+            {
+                "narration_text": "Puts water in the bowl",
+                "start_frame": 459,
+                "stop_frame": 482
+            }
+        ]
+    },
+    {
+        "task_goal": "Place bowl on the counter and take bucket",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns on the tap",
+                "start_frame": 444,
+                "stop_frame": 459
+            },
+            {
+                "narration_text": "Puts water in the bowl",
+                "start_frame": 459,
+                "stop_frame": 482
+            },
+            {
+                "narration_text": "Places bowl on the counter top",
+                "start_frame": 482,
+                "stop_frame": 504
+            },
+            {
+                "narration_text": "Takes the bucket",
+                "start_frame": 504,
+                "stop_frame": 527
+            },
+            {
+                "narration_text": "Pours water in the sink",
+                "start_frame": 527,
+                "stop_frame": 583
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour water in the sink and put bucket aside",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the bucket",
+                "start_frame": 504,
+                "stop_frame": 527
+            },
+            {
+                "narration_text": "Pours water in the sink",
+                "start_frame": 527,
+                "stop_frame": 583
+            },
+            {
+                "narration_text": "Puts bucket aside",
+                "start_frame": 583,
+                "stop_frame": 616
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 616,
+                "stop_frame": 703
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk and hold the chair",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts bucket aside",
+                "start_frame": 583,
+                "stop_frame": 616
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 616,
+                "stop_frame": 703
+            },
+            {
+                "narration_text": "Holds the chair",
+                "start_frame": 703,
+                "stop_frame": 724
+            }
+        ]
+    },
+    {
+        "task_goal": "Fold the paper bag and throw it in the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the chair",
+                "start_frame": 703,
+                "stop_frame": 724
+            },
+            {
+                "narration_text": "Takes paper bag",
+                "start_frame": 724,
+                "stop_frame": 790
+            },
+            {
+                "narration_text": "Folds paper bag",
+                "start_frame": 790,
+                "stop_frame": 812
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 812,
+                "stop_frame": 849
+            },
+            {
+                "narration_text": "Throws folded paper bag in the fridge",
+                "start_frame": 849,
+                "stop_frame": 878
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 878,
+                "stop_frame": 968
+            }
+        ]
+    },
+    {
+        "task_goal": "Take the cooking pot, open it, and place it on the gas cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 878,
+                "stop_frame": 968
+            },
+            {
+                "narration_text": "Opens the cooking pot",
+                "start_frame": 968,
+                "stop_frame": 998
+            },
+            {
+                "narration_text": "Holds cooking pot",
+                "start_frame": 998,
+                "stop_frame": 1053
+            },
+            {
+                "narration_text": "Closes cooking pot with a lid",
+                "start_frame": 1053,
+                "stop_frame": 1079
+            },
+            {
+                "narration_text": "Opens cooking pot",
+                "start_frame": 1079,
+                "stop_frame": 1104
+            },
+            {
+                "narration_text": "Shakes cooking pot",
+                "start_frame": 1104,
+                "stop_frame": 1120
+            },
+            {
+                "narration_text": "Closes cooking pot with a lid",
+                "start_frame": 1120,
+                "stop_frame": 1153
+            },
+            {
+                "narration_text": "Opens the cooking pot",
+                "start_frame": 1153,
+                "stop_frame": 1168
+            },
+            {
+                "narration_text": "Places lid on the table",
+                "start_frame": 1168,
+                "stop_frame": 1185
+            },
+            {
+                "narration_text": "Carries cooking pot",
+                "start_frame": 1185,
+                "stop_frame": 1221
+            },
+            {
+                "narration_text": "Places cooking pot on gas cooker",
+                "start_frame": 1221,
+                "stop_frame": 1267
+            },
+            {
+                "narration_text": "Picks lighter",
+                "start_frame": 1267,
+                "stop_frame": 1281
+            },
+            {
+                "narration_text": "Lits gas cooker",
+                "start_frame": 1281,
+                "stop_frame": 1317
+            }
+        ]
+    },
+    {
+        "task_goal": "Light the gas cooker and prepare to make tea",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks lighter",
+                "start_frame": 1267,
+                "stop_frame": 1281
+            },
+            {
+                "narration_text": "Lits gas cooker",
+                "start_frame": 1281,
+                "stop_frame": 1317
+            },
+            {
+                "narration_text": "Places lighter aside",
+                "start_frame": 1317,
+                "stop_frame": 1352
+            },
+            {
+                "narration_text": "Opens cupboard",
+                "start_frame": 1352,
+                "stop_frame": 1435
+            },
+            {
+                "narration_text": "Takes the container",
+                "start_frame": 1435,
+                "stop_frame": 1445
+            },
+            {
+                "narration_text": "Opens the container",
+                "start_frame": 1445,
+                "stop_frame": 1496
+            },
+            {
+                "narration_text": "Scoops tea leaves",
+                "start_frame": 1496,
+                "stop_frame": 1527
+            },
+            {
+                "narration_text": "Puts tea leaves in the cooking pot",
+                "start_frame": 1527,
+                "stop_frame": 1680
+            }
+        ]
+    },
+    {
+        "task_goal": "Add tea leaves to the cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Scoops tea leaves",
+                "start_frame": 1496,
+                "stop_frame": 1527
+            },
+            {
+                "narration_text": "Puts tea leaves in the cooking pot",
+                "start_frame": 1527,
+                "stop_frame": 1680
+            },
+            {
+                "narration_text": "Puts spoon in the container",
+                "start_frame": 1680,
+                "stop_frame": 1691
+            },
+            {
+                "narration_text": "Closes the container",
+                "start_frame": 1691,
+                "stop_frame": 1741
+            },
+            {
+                "narration_text": "Puts container on the cupboard",
+                "start_frame": 1741,
+                "stop_frame": 1770
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 1770,
+                "stop_frame": 1843
+            }
+        ]
+    },
+    {
+        "task_goal": "Take a cup and a strainer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts container on the cupboard",
+                "start_frame": 1741,
+                "stop_frame": 1770
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 1770,
+                "stop_frame": 1843
+            },
+            {
+                "narration_text": "Takes a cup",
+                "start_frame": 1843,
+                "stop_frame": 1873
+            },
+            {
+                "narration_text": "Places cup on the counter top",
+                "start_frame": 1873,
+                "stop_frame": 2016
+            },
+            {
+                "narration_text": "Takes a strainer",
+                "start_frame": 2016,
+                "stop_frame": 2129
+            },
+            {
+                "narration_text": "Turns off gas cooker",
+                "start_frame": 2129,
+                "stop_frame": 2211
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn off the gas cooker and handle the cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes a strainer",
+                "start_frame": 2016,
+                "stop_frame": 2129
+            },
+            {
+                "narration_text": "Turns off gas cooker",
+                "start_frame": 2129,
+                "stop_frame": 2211
+            },
+            {
+                "narration_text": "Holds cooking pot",
+                "start_frame": 2211,
+                "stop_frame": 2235
+            },
+            {
+                "narration_text": "Shakes cooking pot",
+                "start_frame": 2235,
+                "stop_frame": 2286
+            }
+        ]
+    },
+    {
+        "task_goal": "Shake the cooking pot and sieve tea",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds cooking pot",
+                "start_frame": 2211,
+                "stop_frame": 2235
+            },
+            {
+                "narration_text": "Shakes cooking pot",
+                "start_frame": 2235,
+                "stop_frame": 2286
+            },
+            {
+                "narration_text": "Sieves tea",
+                "start_frame": 2286,
+                "stop_frame": 2558
+            },
+            {
+                "narration_text": "Places cooking pot on the cooking gas",
+                "start_frame": 2558,
+                "stop_frame": 2620
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the cooking pot and strainer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts strainer in the cooking pot",
+                "start_frame": 2620,
+                "stop_frame": 2640
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 2640,
+                "stop_frame": 2753
+            },
+            {
+                "narration_text": "Turns on the tap",
+                "start_frame": 2753,
+                "stop_frame": 2771
+            }
+        ]
+    },
+    {
+        "task_goal": "Finish cooking and clean up",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a lid",
+                "start_frame": 118767,
+                "stop_frame": 118800
+            },
+            {
+                "narration_text": "Covers the bowl",
+                "start_frame": 118800,
+                "stop_frame": 118803
+            },
+            {
+                "narration_text": "Picks the plate",
+                "start_frame": 118803,
+                "stop_frame": 118821
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 118821,
+                "stop_frame": 118922
+            },
+            {
+                "narration_text": "Puts the plate on the cooker",
+                "start_frame": 118922,
+                "stop_frame": 118953
+            },
+            {
+                "narration_text": "Picks a cooking pot",
+                "start_frame": 118953,
+                "stop_frame": 119066
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 119066,
+                "stop_frame": 119166
+            }
+        ]
+    },
+    {
+        "task_goal": "Finish cooking and cleaning",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a lid",
+                "start_frame": 118767,
+                "stop_frame": 118800
+            },
+            {
+                "narration_text": "Covers the bowl",
+                "start_frame": 118800,
+                "stop_frame": 118803
+            },
+            {
+                "narration_text": "Picks the plate",
+                "start_frame": 118803,
+                "stop_frame": 118821
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 118821,
+                "stop_frame": 118922
+            },
+            {
+                "narration_text": "Puts the plate on the cooker",
+                "start_frame": 118922,
+                "stop_frame": 118953
+            },
+            {
+                "narration_text": "Picks a cooking pot",
+                "start_frame": 118953,
+                "stop_frame": 119066
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 119066,
+                "stop_frame": 119166
+            }
+        ]
+    }
+]

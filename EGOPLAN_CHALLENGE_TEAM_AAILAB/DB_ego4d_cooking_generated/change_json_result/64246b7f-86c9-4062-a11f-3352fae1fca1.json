@@ -1,0 +1,193 @@
+{
+    "overall_goal": "Prepare and cook a meal involving rice and vegetables.",
+    "clips": [
+        {
+            "subgoal": "Prepare rice using a rice cooker",
+            "start_timestamp": 47,
+            "stop_timestamp": 569,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick necessary utensils",
+                    "start_timestamp": 87,
+                    "stop_timestamp": 113
+                },
+                {
+                    "secondary_subgoal": "Operate the rice cooker",
+                    "start_timestamp": 199,
+                    "stop_timestamp": 545
+                },
+                {
+                    "secondary_subgoal": "Walk in the kitchen",
+                    "start_timestamp": 569,
+                    "stop_timestamp": 569
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare serving bowl with water",
+            "start_timestamp": 682,
+            "stop_timestamp": 897,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and fill the bowl with water",
+                    "start_timestamp": 682,
+                    "stop_timestamp": 791
+                },
+                {
+                    "secondary_subgoal": "Move and place the bowl",
+                    "start_timestamp": 791,
+                    "stop_timestamp": 897
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare vegetables (okra)",
+            "start_timestamp": 1050,
+            "stop_timestamp": 2338,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Remove and arrange vegetables from fridge",
+                    "start_timestamp": 1050,
+                    "stop_timestamp": 1894
+                },
+                {
+                    "secondary_subgoal": "Wash okra",
+                    "start_timestamp": 1955,
+                    "stop_timestamp": 2338
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cooking utensils and cook vegetables",
+            "start_timestamp": 2496,
+            "stop_timestamp": 4393,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wipe hands and gather utensils",
+                    "start_timestamp": 2703,
+                    "stop_timestamp": 2764
+                },
+                {
+                    "secondary_subgoal": "Fill cooking pot with water",
+                    "start_timestamp": 2781,
+                    "stop_timestamp": 2895
+                },
+                {
+                    "secondary_subgoal": "Place pot on the gas cooker",
+                    "start_timestamp": 2927,
+                    "stop_timestamp": 3132
+                },
+                {
+                    "secondary_subgoal": "Move utensils and wash okra",
+                    "start_timestamp": 3153,
+                    "stop_timestamp": 4094
+                },
+                {
+                    "secondary_subgoal": "Put okra in pot and begin cooking",
+                    "start_timestamp": 4219,
+                    "stop_timestamp": 4393
+                }
+            ]
+        },
+        {
+            "subgoal": "Manage sieving and washing vegetables",
+            "start_timestamp": 6572,
+            "stop_timestamp": 6957,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and move utensils",
+                    "start_timestamp": 6572,
+                    "stop_timestamp": 6688
+                },
+                {
+                    "secondary_subgoal": "Sieve and wash vegetables",
+                    "start_timestamp": 6714,
+                    "stop_timestamp": 6957
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and chop vegetables",
+            "start_timestamp": 7416,
+            "stop_timestamp": 10456,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Remove vegetables and start chopping",
+                    "start_timestamp": 7416,
+                    "stop_timestamp": 7994
+                },
+                {
+                    "secondary_subgoal": "Continue chopping vegetables",
+                    "start_timestamp": 8050,
+                    "stop_timestamp": 10456
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook chopped vegetables",
+            "start_timestamp": 10716,
+            "stop_timestamp": 12915,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place pot on cooker and cook",
+                    "start_timestamp": 10716,
+                    "stop_timestamp": 11147
+                },
+                {
+                    "secondary_subgoal": "Add oil and cook vegetables",
+                    "start_timestamp": 11527,
+                    "stop_timestamp": 12297
+                },
+                {
+                    "secondary_subgoal": "Continue cooking and manage pot",
+                    "start_timestamp": 12447,
+                    "stop_timestamp": 12915
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix and stir vegetables in pot",
+            "start_timestamp": 15000,
+            "stop_timestamp": 16744,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Continue cooking and stirring vegetables",
+                    "start_timestamp": 15000,
+                    "stop_timestamp": 15292
+                },
+                {
+                    "secondary_subgoal": "Add water and mix vegetables",
+                    "start_timestamp": 15305,
+                    "stop_timestamp": 16744
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish cooking and serve",
+            "start_timestamp": 16837,
+            "stop_timestamp": 21329,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and manage utensils",
+                    "start_timestamp": 16837,
+                    "stop_timestamp": 17017
+                },
+                {
+                    "secondary_subgoal": "Mix and stir vegetables",
+                    "start_timestamp": 17109,
+                    "stop_timestamp": 18798
+                },
+                {
+                    "secondary_subgoal": "Serve cooked vegetables",
+                    "start_timestamp": 19150,
+                    "stop_timestamp": 19973
+                },
+                {
+                    "secondary_subgoal": "Manage cooking and storage",
+                    "start_timestamp": 20025,
+                    "stop_timestamp": 21329
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehSNyQk4tT6XgB843ZrxOwNZipsM",
+    "object": "chat.completion",
+    "created": 1719487195,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"To prepare and cook cassava and yam in the kitchen.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare cassava for cooking.\",\n      \"start_timestamp\": 821,\n      \"stop_timestamp\": 9611,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Peel and cut cassava using a knife.\",\n          \"start_timestamp\": 821,\n          \"stop_timestamp\": 2577\n        },\n        {\n          \"secondary_subgoal\": \"Discard cassava peel and wash cassava.\",\n          \"start_timestamp\": 9611,\n          \"stop_timestamp\": 9646\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare yams for cooking.\",\n      \"start_timestamp\": 9646,\n      \"stop_timestamp\": 22602,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Peel yams using a knife.\",\n          \"start_timestamp\": 9646,\n          \"stop_timestamp\": 9653\n        },\n        {\n          \"secondary_subgoal\": \"Cut yams into pieces.\",\n          \"start_timestamp\": 9653,\n          \"stop_timestamp\": 22602\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Move and clean utensils.\",\n      \"start_timestamp\": 22602,\n      \"stop_timestamp\": 22981,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Move utensils around the kitchen.\",\n          \"start_timestamp\": 22602,\n          \"stop_timestamp\": 22680\n        },\n        {\n          \"secondary_subgoal\": \"Wash utensils in the sink.\",\n          \"start_timestamp\": 22680,\n          \"stop_timestamp\": 22981\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Put ingredients into pot and add water.\",\n      \"start_timestamp\": 22981,\n      \"stop_timestamp\": 28895,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Fill pot with water\",\n          \"start_timestamp\": 22981,\n          \"stop_timestamp\": 28046\n        },\n        {\n          \"secondary_subgoal\": \"Add salt and spices.\",\n          \"start_timestamp\": 28046,\n          \"stop_timestamp\": 28895\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook cassava and yam on the stove.\",\n      \"start_timestamp\": 28895,\n      \"stop_timestamp\": 34161,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turn on the stove burners and place pot on them.\",\n          \"start_timestamp\": 28895,\n          \"stop_timestamp\": 3281\n        },\n        {\n          \"secondary_subgoal\": \"Adjust stove burner settings and add more water if required.\",\n          \"start_timestamp\": 3281,\n          \"stop_timestamp\": 34161\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up and organize the kitchen.\",\n      \"start_timestamp\": 34161,\n      \"stop_timestamp\": 33147,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put away extra containers and close lids.\",\n          \"start_timestamp\": 34161,\n          \"stop_timestamp\": 33147\n        },\n        {\n          \"secondary_subgoal\": \"Disinfecting and tidying up surfaces, including washing up any leftover equipment and disposing of trash.\",\n          \"start_timestamp\": 33147,\n          \"stop_timestamp\": 38356\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7755,
+        "completion_tokens": 745,
+        "total_tokens": 8500
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

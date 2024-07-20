@@ -1,0 +1,166 @@
+{
+    "overall_goal": "Preparing food and managing kitchen tasks while interacting with other people in the house.",
+    "clips": [
+        {
+            "subgoal": "Conversation and observation",
+            "start_timestamp": 20,
+            "stop_timestamp": 5030,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Conversation with man X",
+                    "start_timestamp": 20,
+                    "stop_timestamp": 224
+                },
+                {
+                    "secondary_subgoal": "Observing man X picking wood and fixing furniture",
+                    "start_timestamp": 224,
+                    "stop_timestamp": 469
+                },
+                {
+                    "secondary_subgoal": "Conversation with man X",
+                    "start_timestamp": 469,
+                    "stop_timestamp": 543
+                },
+                {
+                    "secondary_subgoal": "Walking around and observing the apartment and kitchen",
+                    "start_timestamp": 543,
+                    "stop_timestamp": 5030
+                }
+            ]
+        },
+        {
+            "subgoal": "Interacting with the kitchen cabinet",
+            "start_timestamp": 5030,
+            "stop_timestamp": 935,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening, picking container, and closing the cabinet",
+                    "start_timestamp": 543,
+                    "stop_timestamp": 935
+                }
+            ]
+        },
+        {
+            "subgoal": "Walking around and observing the kitchen",
+            "start_timestamp": 935,
+            "stop_timestamp": 32855,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walking and staring at various points in the kitchen",
+                    "start_timestamp": 935,
+                    "stop_timestamp": 3422
+                },
+                {
+                    "secondary_subgoal": "Lifting paper and staring at the window",
+                    "start_timestamp": 3322,
+                    "stop_timestamp": 4904
+                },
+                {
+                    "secondary_subgoal": "Walking, looking, and adjusting camera around the kitchen",
+                    "start_timestamp": 4992,
+                    "stop_timestamp": 14241
+                },
+                {
+                    "secondary_subgoal": "Interacting with a man and doing various kitchen actions",
+                    "start_timestamp": 14241,
+                    "stop_timestamp": 32855
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking and food preparation",
+            "start_timestamp": 9270,
+            "stop_timestamp": 29912,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring food and holding paper",
+                    "start_timestamp": 9270,
+                    "stop_timestamp": 9571
+                },
+                {
+                    "secondary_subgoal": "Using knife on chopping board",
+                    "start_timestamp": 10298,
+                    "stop_timestamp": 11018
+                },
+                {
+                    "secondary_subgoal": "Stirring food and interacting with man X",
+                    "start_timestamp": 11164,
+                    "stop_timestamp": 12419
+                },
+                {
+                    "secondary_subgoal": "Unwrapping paper and interacting with man X",
+                    "start_timestamp": 12419,
+                    "stop_timestamp": 13998
+                },
+                {
+                    "secondary_subgoal": "Covering pot and walking around",
+                    "start_timestamp": 29807,
+                    "stop_timestamp": 29912
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing utensils and organizing kitchen",
+            "start_timestamp": 29912,
+            "stop_timestamp": 37598,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Switching on light and washing utensils",
+                    "start_timestamp": 29912,
+                    "stop_timestamp": 32855
+                },
+                {
+                    "secondary_subgoal": "Observing kitchen and organizing items",
+                    "start_timestamp": 32855,
+                    "stop_timestamp": 37598
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking and managing food",
+            "start_timestamp": 38035,
+            "stop_timestamp": 39589,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring and covering pot with lid",
+                    "start_timestamp": 38074,
+                    "stop_timestamp": 39523
+                },
+                {
+                    "secondary_subgoal": "Walking to the sink and organizing",
+                    "start_timestamp": 39523,
+                    "stop_timestamp": 39589
+                }
+            ]
+        },
+        {
+            "subgoal": "General kitchen tasks and observing",
+            "start_timestamp": 39589,
+            "stop_timestamp": 44691,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Putting bottle in cabinet and organizing",
+                    "start_timestamp": 39641,
+                    "stop_timestamp": 40643
+                },
+                {
+                    "secondary_subgoal": "Walking and looking around kitchen",
+                    "start_timestamp": 40643,
+                    "stop_timestamp": 44691
+                }
+            ]
+        },
+        {
+            "subgoal": "Interaction with others and organizing the house",
+            "start_timestamp": 44718,
+            "stop_timestamp": 44914,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Conversation with man X",
+                    "start_timestamp": 44766,
+                    "stop_timestamp": 44914
+                }
+            ]
+        }
+    ]
+}

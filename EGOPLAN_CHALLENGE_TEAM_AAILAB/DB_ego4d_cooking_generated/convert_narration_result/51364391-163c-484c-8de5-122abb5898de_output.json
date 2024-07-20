@@ -1,0 +1,712 @@
+[
+    {
+        "task_goal": "Interact with the dog and prepare to move into the kitchen",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Plays with the dog",
+                "start_frame": 25,
+                "stop_frame": 45
+            },
+            {
+                "narration_text": "Moves left hand forward",
+                "start_frame": 45,
+                "stop_frame": 94
+            },
+            {
+                "narration_text": "Holds the dog",
+                "start_frame": 94,
+                "stop_frame": 294
+            },
+            {
+                "narration_text": "Drops the dog down",
+                "start_frame": 294,
+                "stop_frame": 324
+            },
+            {
+                "narration_text": "Lifts the right hand",
+                "start_frame": 324,
+                "stop_frame": 417
+            },
+            {
+                "narration_text": "Moves into the room",
+                "start_frame": 417,
+                "stop_frame": 516
+            },
+            {
+                "narration_text": "Stares at the phone",
+                "start_frame": 516,
+                "stop_frame": 576
+            }
+        ]
+    },
+    {
+        "task_goal": "Play with the dog",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Plays with the dog",
+                "start_frame": 25,
+                "stop_frame": 45
+            },
+            {
+                "narration_text": "Moves left hand forward",
+                "start_frame": 45,
+                "stop_frame": 94
+            },
+            {
+                "narration_text": "Holds the dog",
+                "start_frame": 94,
+                "stop_frame": 294
+            },
+            {
+                "narration_text": "Drops the dog down",
+                "start_frame": 294,
+                "stop_frame": 324
+            }
+        ]
+    },
+    {
+        "task_goal": "Move into the room",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the dog",
+                "start_frame": 94,
+                "stop_frame": 294
+            },
+            {
+                "narration_text": "Drops the dog down",
+                "start_frame": 294,
+                "stop_frame": 324
+            },
+            {
+                "narration_text": "Lifts the right hand",
+                "start_frame": 324,
+                "stop_frame": 417
+            },
+            {
+                "narration_text": "Moves into the room",
+                "start_frame": 417,
+                "stop_frame": 516
+            },
+            {
+                "narration_text": "Stares at the phone",
+                "start_frame": 516,
+                "stop_frame": 576
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove shoes and settle in after coming into the room",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves into the room",
+                "start_frame": 417,
+                "stop_frame": 516
+            },
+            {
+                "narration_text": "Stares at the phone",
+                "start_frame": 516,
+                "stop_frame": 576
+            },
+            {
+                "narration_text": "Unties left leg shoe",
+                "start_frame": 576,
+                "stop_frame": 798
+            },
+            {
+                "narration_text": "Renoves left shoe",
+                "start_frame": 798,
+                "stop_frame": 830
+            },
+            {
+                "narration_text": "Drops down the left shoe",
+                "start_frame": 830,
+                "stop_frame": 896
+            },
+            {
+                "narration_text": "Unties the right shoe",
+                "start_frame": 896,
+                "stop_frame": 1231
+            },
+            {
+                "narration_text": "Removes the right shoe",
+                "start_frame": 1231,
+                "stop_frame": 1263
+            },
+            {
+                "narration_text": "Drops down the right shoe",
+                "start_frame": 1263,
+                "stop_frame": 1282
+            },
+            {
+                "narration_text": "Picks shoes",
+                "start_frame": 1282,
+                "stop_frame": 1388
+            },
+            {
+                "narration_text": "Drops shoes on the floor",
+                "start_frame": 1388,
+                "stop_frame": 1441
+            },
+            {
+                "narration_text": "Touches the wall",
+                "start_frame": 1441,
+                "stop_frame": 1505
+            }
+        ]
+    },
+    {
+        "task_goal": "Untie and remove left shoe",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stares at the phone",
+                "start_frame": 516,
+                "stop_frame": 576
+            },
+            {
+                "narration_text": "Unties left leg shoe",
+                "start_frame": 576,
+                "stop_frame": 798
+            },
+            {
+                "narration_text": "Renoves left shoe",
+                "start_frame": 798,
+                "stop_frame": 830
+            },
+            {
+                "narration_text": "Drops down the left shoe",
+                "start_frame": 830,
+                "stop_frame": 896
+            },
+            {
+                "narration_text": "Unties the right shoe",
+                "start_frame": 896,
+                "stop_frame": 1231
+            }
+        ]
+    },
+    {
+        "task_goal": "Untie and remove right shoe",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Drops down the left shoe",
+                "start_frame": 830,
+                "stop_frame": 896
+            },
+            {
+                "narration_text": "Unties the right shoe",
+                "start_frame": 896,
+                "stop_frame": 1231
+            },
+            {
+                "narration_text": "Removes the right shoe",
+                "start_frame": 1231,
+                "stop_frame": 1263
+            },
+            {
+                "narration_text": "Drops down the right shoe",
+                "start_frame": 1263,
+                "stop_frame": 1282
+            },
+            {
+                "narration_text": "Picks shoes",
+                "start_frame": 1282,
+                "stop_frame": 1388
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up and drop shoes on the floor",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Drops down the right shoe",
+                "start_frame": 1263,
+                "stop_frame": 1282
+            },
+            {
+                "narration_text": "Picks shoes",
+                "start_frame": 1282,
+                "stop_frame": 1388
+            },
+            {
+                "narration_text": "Drops shoes on the floor",
+                "start_frame": 1388,
+                "stop_frame": 1441
+            },
+            {
+                "narration_text": "Touches the wall",
+                "start_frame": 1441,
+                "stop_frame": 1505
+            }
+        ]
+    },
+    {
+        "task_goal": "Open fridge and get green peas",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches the fridge",
+                "start_frame": 1559,
+                "stop_frame": 1662
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 1662,
+                "stop_frame": 1761
+            },
+            {
+                "narration_text": "Pulls out shelf",
+                "start_frame": 1761,
+                "stop_frame": 1852
+            },
+            {
+                "narration_text": "Picks green peas from the fridge",
+                "start_frame": 1852,
+                "stop_frame": 1961
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 1961,
+                "stop_frame": 1999
+            },
+            {
+                "narration_text": "Turns",
+                "start_frame": 1999,
+                "stop_frame": 2024
+            }
+        ]
+    },
+    {
+        "task_goal": "Move to sink and untie green peas package",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns",
+                "start_frame": 1999,
+                "stop_frame": 2024
+            },
+            {
+                "narration_text": "Drops green peas on the sink",
+                "start_frame": 2024,
+                "stop_frame": 2059
+            },
+            {
+                "narration_text": "Holds the phone",
+                "start_frame": 2059,
+                "stop_frame": 2156
+            },
+            {
+                "narration_text": "Operates the phone",
+                "start_frame": 2156,
+                "stop_frame": 2983
+            },
+            {
+                "narration_text": "Drops the phone on the sink",
+                "start_frame": 2983,
+                "stop_frame": 3078
+            },
+            {
+                "narration_text": "Picks tray",
+                "start_frame": 3078,
+                "stop_frame": 3120
+            },
+            {
+                "narration_text": "Drops tray on the sink",
+                "start_frame": 3120,
+                "stop_frame": 3151
+            },
+            {
+                "narration_text": "Picks the green peas",
+                "start_frame": 3151,
+                "stop_frame": 3217
+            },
+            {
+                "narration_text": "Unties the green peas package",
+                "start_frame": 3217,
+                "stop_frame": 3461
+            },
+            {
+                "narration_text": "Touches the phone",
+                "start_frame": 3461,
+                "stop_frame": 3871
+            },
+            {
+                "narration_text": "Cuts the package",
+                "start_frame": 3871,
+                "stop_frame": 3921
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut and pour green peas",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches the phone",
+                "start_frame": 3461,
+                "stop_frame": 3871
+            },
+            {
+                "narration_text": "Cuts the package",
+                "start_frame": 3871,
+                "stop_frame": 3921
+            },
+            {
+                "narration_text": "Pours the green peas",
+                "start_frame": 3921,
+                "stop_frame": 4131
+            },
+            {
+                "narration_text": "Throws the nylon bag",
+                "start_frame": 4131,
+                "stop_frame": 4153
+            },
+            {
+                "narration_text": "Touches the phone",
+                "start_frame": 4153,
+                "stop_frame": 4201
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean green peas",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns on the water tap",
+                "start_frame": 4595,
+                "stop_frame": 4640
+            },
+            {
+                "narration_text": "Cleans the green peas",
+                "start_frame": 4640,
+                "stop_frame": 4667
+            },
+            {
+                "narration_text": "Moves the tray",
+                "start_frame": 4667,
+                "stop_frame": 4706
+            },
+            {
+                "narration_text": "Cleans the green peas",
+                "start_frame": 4706,
+                "stop_frame": 5702
+            },
+            {
+                "narration_text": "Turns off the water tap",
+                "start_frame": 5702,
+                "stop_frame": 5765
+            },
+            {
+                "narration_text": "Moves around",
+                "start_frame": 5765,
+                "stop_frame": 5788
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare for cutting green beans",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves around",
+                "start_frame": 5765,
+                "stop_frame": 5788
+            },
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 5788,
+                "stop_frame": 5822
+            },
+            {
+                "narration_text": "Picks the chopping board",
+                "start_frame": 5822,
+                "stop_frame": 5890
+            },
+            {
+                "narration_text": "Moves the phone",
+                "start_frame": 5890,
+                "stop_frame": 5904
+            },
+            {
+                "narration_text": "Places the chopping board on the sink surface",
+                "start_frame": 5904,
+                "stop_frame": 5986
+            },
+            {
+                "narration_text": "Picks the green peas from the tray",
+                "start_frame": 5986,
+                "stop_frame": 6041
+            },
+            {
+                "narration_text": "Drops the green peas on the chopping board",
+                "start_frame": 6041,
+                "stop_frame": 6112
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 6112,
+                "stop_frame": 6147
+            }
+        ]
+    },
+    {
+        "task_goal": "Touch the dog, walk towards kitchen and interact with objects",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches the dog",
+                "start_frame": 21644,
+                "stop_frame": 21777
+            },
+            {
+                "narration_text": "Walks towards the kitchen",
+                "start_frame": 21777,
+                "stop_frame": 21927
+            },
+            {
+                "narration_text": "A man x walks in the house",
+                "start_frame": 21927,
+                "stop_frame": 22098
+            },
+            {
+                "narration_text": "Throws the lid",
+                "start_frame": 22098,
+                "stop_frame": 22287
+            }
+        ]
+    },
+    {
+        "task_goal": "Move and walk around house",
+        "task_progress_metadata": [
+            {
+                "narration_text": "A man x walks in the house",
+                "start_frame": 21927,
+                "stop_frame": 22098
+            },
+            {
+                "narration_text": "Throws the lid",
+                "start_frame": 22098,
+                "stop_frame": 22287
+            },
+            {
+                "narration_text": "Moves his hand",
+                "start_frame": 22287,
+                "stop_frame": 22342
+            },
+            {
+                "narration_text": "A man x operates the laptop",
+                "start_frame": 22342,
+                "stop_frame": 22381
+            },
+            {
+                "narration_text": "Throws the lid",
+                "start_frame": 22381,
+                "stop_frame": 22639
+            },
+            {
+                "narration_text": "Takes the lid",
+                "start_frame": 22639,
+                "stop_frame": 22726
+            },
+            {
+                "narration_text": "Throws the lid",
+                "start_frame": 22726,
+                "stop_frame": 22952
+            },
+            {
+                "narration_text": "Walks in the house",
+                "start_frame": 22952,
+                "stop_frame": 23051
+            },
+            {
+                "narration_text": "Throws the lid",
+                "start_frame": 23051,
+                "stop_frame": 23128
+            },
+            {
+                "narration_text": "Adjust the camera",
+                "start_frame": 23128,
+                "stop_frame": 23170
+            },
+            {
+                "narration_text": "Puts down his hand",
+                "start_frame": 23170,
+                "stop_frame": 23220
+            },
+            {
+                "narration_text": "Takes the lid",
+                "start_frame": 23220,
+                "stop_frame": 23426
+            },
+            {
+                "narration_text": "Interacts with the dog",
+                "start_frame": 23426,
+                "stop_frame": 23632
+            },
+            {
+                "narration_text": "Throws the lid",
+                "start_frame": 23632,
+                "stop_frame": 23806
+            },
+            {
+                "narration_text": "Takes the lid",
+                "start_frame": 23806,
+                "stop_frame": 23897
+            },
+            {
+                "narration_text": "Plays with the dog",
+                "start_frame": 23897,
+                "stop_frame": 24014
+            },
+            {
+                "narration_text": "Throws the lid",
+                "start_frame": 24014,
+                "stop_frame": 24260
+            },
+            {
+                "narration_text": "Touches the floor",
+                "start_frame": 24260,
+                "stop_frame": 24343
+            },
+            {
+                "narration_text": "Takes the lids",
+                "start_frame": 24343,
+                "stop_frame": 24629
+            }
+        ]
+    },
+    {
+        "task_goal": "Cook on stove",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts knife on kitchen slab",
+                "start_frame": 52794,
+                "stop_frame": 52821
+            },
+            {
+                "narration_text": "Takes slotted spoon",
+                "start_frame": 52821,
+                "stop_frame": 52865
+            },
+            {
+                "narration_text": "Cooks on stove",
+                "start_frame": 52865,
+                "stop_frame": 53194
+            },
+            {
+                "narration_text": "Puts slotted spoon on the slab",
+                "start_frame": 53194,
+                "stop_frame": 53227
+            }
+        ]
+    },
+    {
+        "task_goal": "Interaction with the dog and around the house",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks in the kitchen",
+                "start_frame": 53227,
+                "stop_frame": 53253
+            },
+            {
+                "narration_text": "Takes knife",
+                "start_frame": 53253,
+                "stop_frame": 53272
+            },
+            {
+                "narration_text": "Walks in the kitchen",
+                "start_frame": 53272,
+                "stop_frame": 53329
+            },
+            {
+                "narration_text": "Collects garlic on the chopping board",
+                "start_frame": 53329,
+                "stop_frame": 53381
+            },
+            {
+                "narration_text": "Takes garlic from container",
+                "start_frame": 53381,
+                "stop_frame": 53407
+            },
+            {
+                "narration_text": "Peels the garlic",
+                "start_frame": 53407,
+                "stop_frame": 53551
+            },
+            {
+                "narration_text": "Takes knife",
+                "start_frame": 53551,
+                "stop_frame": 53596
+            },
+            {
+                "narration_text": "Cuts garlic",
+                "start_frame": 53596,
+                "stop_frame": 53778
+            },
+            {
+                "narration_text": "Presses knife on the garlic",
+                "start_frame": 53778,
+                "stop_frame": 53800
+            },
+            {
+                "narration_text": "Puts the knife on chopping board",
+                "start_frame": 53800,
+                "stop_frame": 53831
+            },
+            {
+                "narration_text": "Takes the garlic",
+                "start_frame": 53831,
+                "stop_frame": 53872
+            },
+            {
+                "narration_text": "Removes peel from the garlic",
+                "start_frame": 53872,
+                "stop_frame": 53934
+            },
+            {
+                "narration_text": "Takes knife",
+                "start_frame": 53934,
+                "stop_frame": 53952
+            },
+            {
+                "narration_text": "Wipes the knife",
+                "start_frame": 53952,
+                "stop_frame": 54052
+            }
+        ]
+    },
+    {
+        "task_goal": "Play with the dog and adjust surroundings",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cuts garlic",
+                "start_frame": 53596,
+                "stop_frame": 53778
+            },
+            {
+                "narration_text": "Presses knife on the garlic",
+                "start_frame": 53778,
+                "stop_frame": 53800
+            },
+            {
+                "narration_text": "Puts the knife on chopping board",
+                "start_frame": 53800,
+                "stop_frame": 53831
+            },
+            {
+                "narration_text": "Takes the garlic",
+                "start_frame": 53831,
+                "stop_frame": 53872
+            },
+            {
+                "narration_text": "Removes peel from the garlic",
+                "start_frame": 53872,
+                "stop_frame": 53934
+            },
+            {
+                "narration_text": "Takes knife",
+                "start_frame": 53934,
+                "stop_frame": 53952
+            },
+            {
+                "narration_text": "Wipes the knife",
+                "start_frame": 53952,
+                "stop_frame": 54052
+            }
+        ]
+    }
+]

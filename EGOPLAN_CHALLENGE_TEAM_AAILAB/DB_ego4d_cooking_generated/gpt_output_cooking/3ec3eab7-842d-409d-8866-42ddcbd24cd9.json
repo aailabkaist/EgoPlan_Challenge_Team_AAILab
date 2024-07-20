@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efeXwbJZbRlxUKejz0reKDY41pJx",
+    "object": "chat.completion",
+    "created": 1719480261,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Fry and prepare ring-shaped noodles (murukku) and doughnut rolls.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Fry ring-shaped noodles (murukku).\",\n      \"start_timestamp\": 1,\n      \"stop_timestamp\": 9965,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Fry the first batch of ring-shaped noodles (murukku).\",\n          \"start_timestamp\": 1,\n          \"stop_timestamp\": 471\n        },\n        {\n          \"secondary_subgoal\": \"Fry additional batches of ring-shaped noodles.\",\n          \"start_timestamp\": 471,\n          \"stop_timestamp\": 2599\n        },\n        {\n          \"secondary_subgoal\": \"Remove fried noodles from the frying pan and place them on sieve.\",\n          \"start_timestamp\": 2599,\n          \"stop_timestamp\": 8886\n        },\n        {\n          \"secondary_subgoal\": \"Put uncooked doughnut rolls into the cooking oil.\",\n          \"start_timestamp\": 8886,\n          \"stop_timestamp\": 9939\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Put doughnut rolls in cooking oil, and placing more doughnut rolls on the lid.\",\n      \"start_timestamp\": 9939,\n      \"stop_timestamp\": 11546,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put the doughnut rolls in the cooking oil.\",\n          \"start_timestamp\": 9939,\n          \"stop_timestamp\": 10135\n        },\n        {\n          \"secondary_subgoal\": \"Placing more doughnut rolls on the lid.\",\n          \"start_timestamp\": 10135,\n          \"stop_timestamp\": 11546\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Adjust doughnut rolls in the cooking oil.\",\n      \"start_timestamp\": 11642,\n      \"stop_timestamp\": 15941,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turn doughnut rolls with a wire in the cooking oil.\",\n          \"start_timestamp\": 11642,\n          \"stop_timestamp\": 14548\n        },\n        {\n          \"secondary_subgoal\": \"Turn doughnut rolls with a metal rod in the cooking oil.\",\n          \"start_timestamp\": 14548,\n          \"stop_timestamp\": 15941\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Transfer cooked doughnuts into the cooking pot.\",\n      \"start_timestamp\": 15941,\n      \"stop_timestamp\": 20844,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turn the pastry, place it into the cooking pot.\",\n          \"start_timestamp\": 15941,\n          \"stop_timestamp\": 20000\n        },\n        {\n          \"secondary_subgoal\": \"Place the doughnut rolls into the cooking pot.\",\n          \"start_timestamp\": 20000,\n          \"stop_timestamp\": 20844\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Pour the pastry in the oil.\",\n      \"start_timestamp\": 20844,\n      \"stop_timestamp\": 22931,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pour the pastry into the oil from the tray.\",\n          \"start_timestamp\": 20844,\n          \"stop_timestamp\": 21800\n        },\n        {\n          \"secondary_subgoal\": \"Scoop and put the pastry into the tray.\",\n          \"start_timestamp\": 21800,\n          \"stop_timestamp\": 22931\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Move around the kitchen and fry murukku.\",\n      \"start_timestamp\": 22931,\n      \"stop_timestamp\": 40054,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Perform multiple tasks in a compact space in the kitchen.\",\n          \"start_timestamp\": 22931,\n          \"stop_timestamp\": 30736\n        },\n        {\n          \"secondary_subgoal\": \"Fry murukku and adjust with the thin wooden stick.\",\n          \"start_timestamp\": 30736,\n          \"stop_timestamp\": 37496\n        },\n        {\n          \"secondary_subgoal\": \"Continue frying and adjusting murukku.\",\n          \"start_timestamp\": 37496,\n          \"stop_timestamp\": 40054\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3696,
+        "completion_tokens": 919,
+        "total_tokens": 4615
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

@@ -1,0 +1,110 @@
+{
+    "overall_goal": "Preparing various dishes involving chopping vegetables, cooking, and mixing ingredients.",
+    "clips": [
+        {
+            "subgoal": "Chopping and preparing vegetables",
+            "start_timestamp": 124,
+            "stop_timestamp": 5188,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking and chopping onion",
+                    "start_timestamp": 124,
+                    "stop_timestamp": 1488
+                },
+                {
+                    "secondary_subgoal": "Gathering and placing chopped onion",
+                    "start_timestamp": 1488,
+                    "stop_timestamp": 1728
+                },
+                {
+                    "secondary_subgoal": "Chopping and gathering bell pepper",
+                    "start_timestamp": 2003,
+                    "stop_timestamp": 4846
+                },
+                {
+                    "secondary_subgoal": "Placing chopped bell pepper",
+                    "start_timestamp": 4846,
+                    "stop_timestamp": 5170
+                },
+                {
+                    "secondary_subgoal": "Mixing chopped vegetables on a plate",
+                    "start_timestamp": 5188,
+                    "stop_timestamp": 5283
+                }
+            ]
+        },
+        {
+            "subgoal": "Making tortillas and cooking them",
+            "start_timestamp": 5283,
+            "stop_timestamp": 9197,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preparing tortillas with food fillings",
+                    "start_timestamp": 5283,
+                    "stop_timestamp": 7291
+                },
+                {
+                    "secondary_subgoal": "Cooking and flipping the tortillas on the gas cooker",
+                    "start_timestamp": 7291,
+                    "stop_timestamp": 9185
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking and adding ingredients to the food in the pan",
+            "start_timestamp": 9197,
+            "stop_timestamp": 28524,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring and adding onions to the pan",
+                    "start_timestamp": 9197,
+                    "stop_timestamp": 26010
+                },
+                {
+                    "secondary_subgoal": "Adding and mixing bells and tomatoes into the pan",
+                    "start_timestamp": 26010,
+                    "stop_timestamp": 32584
+                },
+                {
+                    "secondary_subgoal": "Turning meat rolls on pan",
+                    "start_timestamp": 32584,
+                    "stop_timestamp": 64527
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing herbs",
+            "start_timestamp": 64527,
+            "stop_timestamp": 69149,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Removing leaves from herb stalks",
+                    "start_timestamp": 64527,
+                    "stop_timestamp": 68749
+                },
+                {
+                    "secondary_subgoal": "Chopping the herbs",
+                    "start_timestamp": 68749,
+                    "stop_timestamp": 69149
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling kitchen tools and equipment",
+            "start_timestamp": 69149,
+            "stop_timestamp": 105893,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Using the blender to mix ingredients",
+                    "start_timestamp": 73122,
+                    "stop_timestamp": 93501
+                },
+                {
+                    "secondary_subgoal": "Using the rolling pin to process dough",
+                    "start_timestamp": 96495,
+                    "stop_timestamp": 105893
+                }
+            ]
+        }
+    ]
+}

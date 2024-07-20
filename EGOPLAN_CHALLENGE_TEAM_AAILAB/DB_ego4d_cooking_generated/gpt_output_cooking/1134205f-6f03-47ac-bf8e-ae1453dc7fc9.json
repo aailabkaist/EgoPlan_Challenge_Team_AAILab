@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efDUAkJuRtJN8rImRnBvNGUrCw4d",
+    "object": "chat.completion",
+    "created": 1719478584,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal by cooking, chopping, and managing the ingredients and utensils in the kitchen.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Clean utensils and workspace in the kitchen.\",\n      \"start_timestamp\": 822,\n      \"stop_timestamp\": 5548,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Discard remnants in the sink.\",\n          \"start_timestamp\": 822,\n          \"stop_timestamp\": 1010\n        },\n        {\n          \"secondary_subgoal\": \"Wash and clean cooking pot and other utensils.\",\n          \"start_timestamp\": 1010,\n          \"stop_timestamp\": 2395\n        },\n        {\n          \"secondary_subgoal\": \"Rearrange chopsticks and other kitchen items.\",\n          \"start_timestamp\": 5387,\n          \"stop_timestamp\": 5548\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handle kitchen appliances and prepare cooking tools.\",\n      \"start_timestamp\": 2573,\n      \"stop_timestamp\": 7178,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turn on the cooker and gather pot lid.\",\n          \"start_timestamp\": 2573,\n          \"stop_timestamp\": 3057\n        },\n        {\n          \"secondary_subgoal\": \"Cut and discard storage paper.\",\n          \"start_timestamp\": 3278,\n          \"stop_timestamp\": 3452\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking preparation\",\n      \"start_timestamp\": 8240,\n      \"stop_timestamp\": 9941,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut and discard storage paper and remove items from paper.\",\n          \"start_timestamp\": 3278,\n          \"stop_timestamp\": 4491\n        },\n        {\n          \"secondary_subgoal\": \"Wrap and discard paper\",\n          \"start_timestamp\": 4942,\n          \"stop_timestamp\": 5066\n        },\n        {\n          \"secondary_subgoal\": \"Wash and dry hands\",\n          \"start_timestamp\": 5387,\n          \"stop_timestamp\": 5548\n        },\n        {\n          \"secondary_subgoal\": \"Fill and place saucepan with water on cooker.\",\n          \"start_timestamp\": 9185,\n          \"stop_timestamp\": 9496\n        },\n        {\n          \"secondary_subgoal\": \"Clean the saucepan lid.\",\n          \"start_timestamp\": 9565,\n          \"stop_timestamp\": 9848\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Manage food ingredients\",\n      \"start_timestamp\": 10239,\n      \"stop_timestamp\": 13550,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick, open, and prepare ingredients from the fridge.\",\n          \"start_timestamp\": 10239,\n          \"stop_timestamp\": 11162\n        },\n        {\n          \"secondary_subgoal\": \"Use chopsticks to manage food in the saucepan.\",\n          \"start_timestamp\": 11244,\n          \"stop_timestamp\": 11882\n        },\n        {\n          \"secondary_subgoal\": \"Cut and discard vegetables or similar ingredients.\",\n          \"start_timestamp\": 12021,\n          \"stop_timestamp\": 13189\n        },\n        {\n          \"secondary_subgoal\": \"Put ingredients in the saucepan and wash hands.\",\n          \"start_timestamp\": 13426,\n          \"stop_timestamp\": 13770\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final Cooking steps\",\n      \"start_timestamp\": 14109,\n      \"stop_timestamp\": 14649,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Check and manage food in the saucepan with chopsticks.\",\n          \"start_timestamp\": 14154,\n          \"stop_timestamp\": 14369\n        },\n        {\n          \"secondary_subgoal\": \"Standby in the kitchen.\",\n          \"start_timestamp\": 14471,\n          \"stop_timestamp\": 14649\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2203,
+        "completion_tokens": 841,
+        "total_tokens": 3044
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

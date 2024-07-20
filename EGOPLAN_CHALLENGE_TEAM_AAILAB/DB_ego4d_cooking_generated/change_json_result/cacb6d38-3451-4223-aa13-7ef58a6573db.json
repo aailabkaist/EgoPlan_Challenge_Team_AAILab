@@ -1,0 +1,124 @@
+{
+    "overall_goal": "Preparing a meal involving chopping, grating, mixing, and cooking various ingredients.",
+    "clips": [
+        {
+            "subgoal": "Preparing the workspace and cleaning/peeling ingredients",
+            "start_timestamp": 16,
+            "stop_timestamp": 1146,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Getting and unfolding a polythene bag",
+                    "start_timestamp": 192,
+                    "stop_timestamp": 249
+                },
+                {
+                    "secondary_subgoal": "Removing upper parts of the ingredient",
+                    "start_timestamp": 545,
+                    "stop_timestamp": 1146
+                }
+            ]
+        },
+        {
+            "subgoal": "Gathering tools for chopping",
+            "start_timestamp": 1196,
+            "stop_timestamp": 1896,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Getting bowls",
+                    "start_timestamp": 1196,
+                    "stop_timestamp": 1639
+                },
+                {
+                    "secondary_subgoal": "Getting a knife",
+                    "start_timestamp": 1680,
+                    "stop_timestamp": 1896
+                }
+            ]
+        },
+        {
+            "subgoal": "Chopping ingredients",
+            "start_timestamp": 1896,
+            "stop_timestamp": 2926,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Initial chopping",
+                    "start_timestamp": 1896,
+                    "stop_timestamp": 2549
+                },
+                {
+                    "secondary_subgoal": "Final chopping and placement",
+                    "start_timestamp": 2549,
+                    "stop_timestamp": 2926
+                }
+            ]
+        },
+        {
+            "subgoal": "Grating ingredients",
+            "start_timestamp": 6750,
+            "stop_timestamp": 8651,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Grating with grater",
+                    "start_timestamp": 7391,
+                    "stop_timestamp": 8245
+                },
+                {
+                    "secondary_subgoal": "Final grating and pouring",
+                    "start_timestamp": 8417,
+                    "stop_timestamp": 8651
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking ingredients",
+            "start_timestamp": 9200,
+            "stop_timestamp": 14052,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preparing mixture",
+                    "start_timestamp": 9880,
+                    "stop_timestamp": 10298
+                },
+                {
+                    "secondary_subgoal": "Cooking on the stove",
+                    "start_timestamp": 14052,
+                    "stop_timestamp": 16174
+                }
+            ]
+        },
+        {
+            "subgoal": "Unsealing and using various ingredients",
+            "start_timestamp": 16224,
+            "stop_timestamp": 17159,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Getting items from the fridge",
+                    "start_timestamp": 16224,
+                    "stop_timestamp": 16324
+                },
+                {
+                    "secondary_subgoal": "Using various ingredients",
+                    "start_timestamp": 16790,
+                    "stop_timestamp": 16998
+                }
+            ]
+        },
+        {
+            "subgoal": "Mixing and combining ingredients",
+            "start_timestamp": 18268,
+            "stop_timestamp": 21137,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mixing with spoon",
+                    "start_timestamp": 18268,
+                    "stop_timestamp": 18830
+                },
+                {
+                    "secondary_subgoal": "Combining in bowl",
+                    "start_timestamp": 19288,
+                    "stop_timestamp": 21137
+                }
+            ]
+        }
+    ]
+}

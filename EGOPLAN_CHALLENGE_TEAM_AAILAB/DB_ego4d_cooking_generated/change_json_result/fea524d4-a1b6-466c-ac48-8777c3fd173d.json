@@ -1,0 +1,54 @@
+{
+    "overall_goal": "Decorate a bread product using cream, sticks, and dough.",
+    "clips": [
+        {
+            "subgoal": "Prepare the bread crumbs and cream for decoration.",
+            "start_timestamp": 30,
+            "stop_timestamp": 16493,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare the bread crumbs.",
+                    "start_timestamp": 30,
+                    "stop_timestamp": 3195
+                },
+                {
+                    "secondary_subgoal": "Shake icing sugar onto the bread crumbs.",
+                    "start_timestamp": 3195,
+                    "stop_timestamp": 5295
+                },
+                {
+                    "secondary_subgoal": "Put aside the bread crumbs and start preparing cream.",
+                    "start_timestamp": 5317,
+                    "stop_timestamp": 9630
+                },
+                {
+                    "secondary_subgoal": "Make cream patterns using a piping bag.",
+                    "start_timestamp": 9697,
+                    "stop_timestamp": 16493
+                }
+            ]
+        },
+        {
+            "subgoal": "Shape and adjust the dough.",
+            "start_timestamp": 16493,
+            "stop_timestamp": 22395,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open the piping bag and put dough on paper.",
+                    "start_timestamp": 16493,
+                    "stop_timestamp": 16735
+                },
+                {
+                    "secondary_subgoal": "Fold and shape dough using paper and stick.",
+                    "start_timestamp": 16735,
+                    "stop_timestamp": 21653
+                },
+                {
+                    "secondary_subgoal": "Adjust dough with a stick and finalize shaping.",
+                    "start_timestamp": 21771,
+                    "stop_timestamp": 22395
+                }
+            ]
+        }
+    ]
+}

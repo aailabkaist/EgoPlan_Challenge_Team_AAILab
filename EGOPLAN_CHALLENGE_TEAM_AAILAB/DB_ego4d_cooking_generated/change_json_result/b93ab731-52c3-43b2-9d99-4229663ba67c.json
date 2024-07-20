@@ -1,0 +1,120 @@
+{
+    "overall_goal": "Prepare a meal involving meat, onions, and various vegetables.",
+    "clips": [
+        {
+            "subgoal": "Prepare the cooking pan and water.",
+            "start_timestamp": 106,
+            "stop_timestamp": 680,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up and fill the pan with water.",
+                    "start_timestamp": 106,
+                    "stop_timestamp": 203
+                },
+                {
+                    "secondary_subgoal": "Put the water in the pan.",
+                    "start_timestamp": 203,
+                    "stop_timestamp": 409
+                },
+                {
+                    "secondary_subgoal": "Turn off water and place pan.",
+                    "start_timestamp": 409,
+                    "stop_timestamp": 472
+                },
+                {
+                    "secondary_subgoal": "Put the pan on the stove and turn on the gas.",
+                    "start_timestamp": 472,
+                    "stop_timestamp": 680
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare onions.",
+            "start_timestamp": 855,
+            "stop_timestamp": 5434,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up chopping board, knife, and onions; start peeling onions.",
+                    "start_timestamp": 855,
+                    "stop_timestamp": 1620
+                },
+                {
+                    "secondary_subgoal": "Peel and dispose of onion peels.",
+                    "start_timestamp": 1620,
+                    "stop_timestamp": 2670
+                },
+                {
+                    "secondary_subgoal": "Cut onions into pieces and put them in water.",
+                    "start_timestamp": 2670,
+                    "stop_timestamp": 5434
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook meat.",
+            "start_timestamp": 5496,
+            "stop_timestamp": 11930,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and remove the packaging of meat.",
+                    "start_timestamp": 5496,
+                    "stop_timestamp": 6032
+                },
+                {
+                    "secondary_subgoal": "Prepare meat by putting it in boiling water.",
+                    "start_timestamp": 6032,
+                    "stop_timestamp": 8633
+                },
+                {
+                    "secondary_subgoal": "Stir and cook the meat in the skillet.",
+                    "start_timestamp": 8633,
+                    "stop_timestamp": 11885
+                },
+                {
+                    "secondary_subgoal": "Use mesh strainer to remove meat from the pan.",
+                    "start_timestamp": 11885,
+                    "stop_timestamp": 11930
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare vegetables (cabbage, capsicums, green onions) for the dish.",
+            "start_timestamp": 12832,
+            "stop_timestamp": 16832,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and prepare onions and other vegetables.",
+                    "start_timestamp": 12832,
+                    "stop_timestamp": 13772
+                },
+                {
+                    "secondary_subgoal": "Place and prepare capsicums and cabbage.",
+                    "start_timestamp": 13772,
+                    "stop_timestamp": 14431
+                },
+                {
+                    "secondary_subgoal": "Slice capsicums.",
+                    "start_timestamp": 14431,
+                    "stop_timestamp": 16491
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare mushrooms.",
+            "start_timestamp": 16882,
+            "stop_timestamp": 21173,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut mushrooms.",
+                    "start_timestamp": 16882,
+                    "stop_timestamp": 21118
+                },
+                {
+                    "secondary_subgoal": "Add mushrooms to the dish.",
+                    "start_timestamp": 21118,
+                    "stop_timestamp": 21173
+                }
+            ]
+        }
+    ]
+}

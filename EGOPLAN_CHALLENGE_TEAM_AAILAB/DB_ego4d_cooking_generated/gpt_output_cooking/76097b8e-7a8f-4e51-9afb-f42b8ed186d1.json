@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egpEIgFhdr5HxKYDPaCKF9PPLS0o",
+    "object": "chat.completion",
+    "created": 1719484768,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Cooking and cleaning utensils and preparing toast\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Washing and organizing utensils\",\n            \"start_timestamp\": 0,\n            \"stop_timestamp\": 2748,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Washing spoons\", \"start_timestamp\": 0, \"stop_timestamp\": 123},\n                {\"secondary_subgoal\": \"Rinsing and organizing washing utensils\", \"start_timestamp\": 123, \"stop_timestamp\": 322},\n                {\"secondary_subgoal\": \"Washing larger utensils\", \"start_timestamp\": 322, \"stop_timestamp\": 2781}\n            ]\n        },\n        {\n            \"subgoal\": \"Washing and organizing additional utensils\",\n            \"start_timestamp\": 3961,\n            \"stop_timestamp\": 4966,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Washing large utensils\", \"start_timestamp\": 3961, \"stop_timestamp\": 4850},\n                {\"secondary_subgoal\": \"Disposing of cleaning materials\", \"start_timestamp\": 4850, \"stop_timestamp\": 4966}\n            ]\n        },\n        {\n            \"subgoal\": \"Preparing the stove for cooking\",\n            \"start_timestamp\": 5021,\n            \"stop_timestamp\": 5706,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Setting up the gas and heating the pan\", \"start_timestamp\": 5021, \"stop_timestamp\": 5116},\n                {\"secondary_subgoal\": \"Preparing to cook by getting utensils\", \"start_timestamp\": 5116, \"stop_timestamp\": 5706}\n            ]\n        },\n        {\n            \"subgoal\": \"Cooking on the stove\",\n            \"start_timestamp\": 5706,\n            \"stop_timestamp\": 11377,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Heating the pan and putting ingredients\", \"start_timestamp\": 5706, \"stop_timestamp\": 6784},\n                {\"secondary_subgoal\": \"Handling the ingredients on stove\", \"start_timestamp\": 6784, \"stop_timestamp\": 10657},\n                {\"secondary_subgoal\": \"Cleaning up while cooking\", \"start_timestamp\": 10657, \"stop_timestamp\": 11377}\n            ]\n        },\n        {\n            \"subgoal\": \"Handling the cooked pieces and preparing to serve\",\n            \"start_timestamp\": 11377,\n            \"stop_timestamp\": 12656,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Turning the pieces and switching off the cooker\", \"start_timestamp\": 11377, \"stop_timestamp\": 11773},\n                {\"secondary_subgoal\": \"Cleaning and preparing to serve\", \"start_timestamp\": 11773, \"stop_timestamp\": 12656}\n            ]\n        },\n        {\n            \"subgoal\": \"Serving the cooked pieces\",\n            \"start_timestamp\": 12656,\n            \"stop_timestamp\": 13254,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Serving the pieces on plate\", \"start_timestamp\": 12656, \"stop_timestamp\": 12997},\n                {\"secondary_subgoal\": \"Carrying the plate to dining area\", \"start_timestamp\": 12997, \"stop_timestamp\": 13254}\n            ]\n        },\n        {\n            \"subgoal\": \"Cleaning up after cooking\",\n            \"start_timestamp\": 13363,\n            \"stop_timestamp\": 14883,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Starting cleanup\", \"start_timestamp\": 13363, \"stop_timestamp\": 13472},\n                {\"secondary_subgoal\": \"Washing lid\", \"start_timestamp\": 13472, \"stop_timestamp\": 14883}\n            ]\n        },\n        {\n            \"subgoal\": \"Final organization and tidy up\",\n            \"start_timestamp\": 14883,\n            \"stop_timestamp\": 15555,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Placing back cleaned items\", \"start_timestamp\": 14883, \"stop_timestamp\": 15004},\n                {\"secondary_subgoal\": \"Final touches on kitchen cleanliness\", \"start_timestamp\": 15004, \"stop_timestamp\": 15555}\n            ]\n        }\n    ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2280,
+        "completion_tokens": 891,
+        "total_tokens": 3171
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

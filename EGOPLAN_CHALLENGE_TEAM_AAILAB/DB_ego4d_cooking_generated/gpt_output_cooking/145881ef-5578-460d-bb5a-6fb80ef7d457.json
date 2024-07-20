@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dg3H4h0RPAnQxjBgYeaFRTaXxaTt",
+    "object": "chat.completion",
+    "created": 1719243467,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and cooking stew and dough with additional steps of organizing and cleaning the kitchen area.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare and maintain the stew\",\n      \"start_timestamp\": 797,\n      \"stop_timestamp\": 17047,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Initial preparation and setup\",\n          \"start_timestamp\": 797,\n          \"stop_timestamp\": 948\n        },\n        {\n          \"secondary_subgoal\": \"Interacting with the lid and ladle\",\n          \"start_timestamp\": 1051,\n          \"stop_timestamp\": 1715\n        },\n        {\n          \"secondary_subgoal\": \"Adding coriander and other ingredients\",\n          \"start_timestamp\": 1749,\n          \"stop_timestamp\": 2434\n        },\n        {\n          \"secondary_subgoal\": \"Cutting and adding coriander\",\n          \"start_timestamp\": 3293,\n          \"stop_timestamp\": 3471\n        },\n        {\n          \"secondary_subgoal\": \"Final stirring and lid placement\",\n          \"start_timestamp\": 3621,\n          \"stop_timestamp\": 3667\n        },\n        {\n          \"secondary_subgoal\": \"Regulation of the cooking process\",\n          \"start_timestamp\": 3885,\n          \"stop_timestamp\": 4658\n        },\n        {\n          \"secondary_subgoal\": \"Preparation of dough (flour, water, and mixing)\",\n          \"start_timestamp\": 4702,\n          \"stop_timestamp\": 13184\n        },\n        {\n          \"secondary_subgoal\": \"Mixing and kneading the dough\",\n          \"start_timestamp\": 13184,\n          \"stop_timestamp\": 16551\n        },\n        {\n          \"secondary_subgoal\": \"Final touches on dough, organization\",\n          \"start_timestamp\": 16551,\n          \"stop_timestamp\": 17047\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Organizing and utilizing kitchen space\",\n      \"start_timestamp\": 17047,\n      \"stop_timestamp\": 22575,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Moving and organizing kitchen items\",\n          \"start_timestamp\": 17008,\n          \"stop_timestamp\": 22365\n        },\n        {\n          \"secondary_subgoal\": \"Using and organizing kitchen utensils\",\n          \"start_timestamp\": 22671,\n          \"stop_timestamp\": 22575\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Mixing and pouring dough onto cooking pot\",\n      \"start_timestamp\": 22575,\n      \"stop_timestamp\": 27634,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Picking, pouring, and organizing dough\",\n          \"start_timestamp\": 23048,\n          \"stop_timestamp\": 24321\n        },\n        {\n          \"secondary_subgoal\": \"Interacting with trays, sieve, and bowls\",\n          \"start_timestamp\": 24321,\n          \"stop_timestamp\": 27634\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning the kitchen area\",\n      \"start_timestamp\": 27634,\n      \"stop_timestamp\": 28777,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Washing and rinsing frying pans\",\n          \"start_timestamp\": 26373,\n          \"stop_timestamp\": 27145\n        },\n        {\n          \"secondary_subgoal\": \"General cleaning and final touches\",\n          \"start_timestamp\": 27286,\n          \"stop_timestamp\": 28777\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4683,
+        "completion_tokens": 753,
+        "total_tokens": 5436
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

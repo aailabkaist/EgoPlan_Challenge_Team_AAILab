@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehjydmUWDWzr4HtU39yQcfI9dDPO",
+    "object": "chat.completion",
+    "created": 1719488286,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook a meal using various ingredients and kitchen appliances.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Gather ingredients from kitchen cabinets and fridge\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 1064,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Open kitchen cabinets and pick ingredients\",\n          \"start_timestamp\": 70,\n          \"stop_timestamp\": 575\n        },\n        {\n          \"secondary_subgoal\": \"Open fridge and pick ingredients\",\n          \"start_timestamp\": 575,\n          \"stop_timestamp\": 969\n        },\n        {\n          \"secondary_subgoal\": \"Place ingredients on countertop\",\n          \"start_timestamp\": 969,\n          \"stop_timestamp\": 1064\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare ingredients for cooking\",\n      \"start_timestamp\": 1064,\n      \"stop_timestamp\": 3712,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Set up chopping board and knife\",\n          \"start_timestamp\": 1331,\n          \"stop_timestamp\": 1636\n        },\n        {\n          \"secondary_subgoal\": \"Chop ingredients with knife\",\n          \"start_timestamp\": 1636,\n          \"stop_timestamp\": 3680\n        },\n        {\n          \"secondary_subgoal\": \"Turn on stove\",\n          \"start_timestamp\": 3712,\n          \"stop_timestamp\": 3712\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Start cooking on the stove\",\n      \"start_timestamp\": 3812,\n      \"stop_timestamp\": 7893,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Set up cooking tools and oil\",\n          \"start_timestamp\": 3812,\n          \"stop_timestamp\": 4087\n        },\n        {\n          \"secondary_subgoal\": \"Move other ingredients around\",\n          \"start_timestamp\": 4152,\n          \"stop_timestamp\": 5100\n        },\n        {\n          \"secondary_subgoal\": \"Clean up\",\n          \"start_timestamp\": 5100,\n          \"stop_timestamp\": 5867\n        },\n        {\n          \"secondary_subgoal\": \"Turn on oven and prepare for further cooking\",\n          \"start_timestamp\": 5920,\n          \"stop_timestamp\": 7893\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Continue chopping ingredients\",\n      \"start_timestamp\": 8001,\n      \"stop_timestamp\": 10118,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare garlic for cooking\",\n          \"start_timestamp\": 8618,\n          \"stop_timestamp\": 10118\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Continue cooking on stove and assemble final dish\",\n      \"start_timestamp\": 10194,\n      \"stop_timestamp\": 12655,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir and cook food\",\n          \"start_timestamp\": 10560,\n          \"stop_timestamp\": 11299\n        },\n        {\n          \"secondary_subgoal\": \"Manage heater and add ingredients\",\n          \"start_timestamp\": 11372,\n          \"stop_timestamp\": 12125\n        },\n        {\n          \"secondary_subgoal\": \"Final stir and cook\",\n          \"start_timestamp\": 12125,\n          \"stop_timestamp\": 12655\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2073,
+        "completion_tokens": 729,
+        "total_tokens": 2802
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

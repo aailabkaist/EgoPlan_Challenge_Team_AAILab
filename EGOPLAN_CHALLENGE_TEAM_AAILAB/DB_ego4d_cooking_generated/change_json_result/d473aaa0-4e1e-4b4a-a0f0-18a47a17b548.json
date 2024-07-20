@@ -1,0 +1,117 @@
+{
+    "overall_goal": "Clean and manage the household tasks",
+    "clips": [
+        {
+            "subgoal": "Sweeping the compound",
+            "start_timestamp": "19879",
+            "stop_timestamp": "22867",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Sweeping and collecting trash",
+                    "start_timestamp": "19879",
+                    "stop_timestamp": "22210"
+                },
+                {
+                    "secondary_subgoal": "Looking around and organizing broom",
+                    "start_timestamp": "22210",
+                    "stop_timestamp": "22738"
+                },
+                {
+                    "secondary_subgoal": "Managing utensils",
+                    "start_timestamp": "22738",
+                    "stop_timestamp": "22867"
+                }
+            ]
+        },
+        {
+            "subgoal": "Tidying up and moving items",
+            "start_timestamp": "22867",
+            "stop_timestamp": "25967",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Moving utensils and pieces of cloth",
+                    "start_timestamp": "22867",
+                    "stop_timestamp": "23449"
+                },
+                {
+                    "secondary_subgoal": "Handling cow dung",
+                    "start_timestamp": "24739",
+                    "stop_timestamp": "25907"
+                },
+                {
+                    "secondary_subgoal": "Walking with the bucket",
+                    "start_timestamp": "25907",
+                    "stop_timestamp": "25967"
+                }
+            ]
+        },
+        {
+            "subgoal": "Emptying the trash bucket",
+            "start_timestamp": "25967",
+            "stop_timestamp": "26822",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walking to the pit",
+                    "start_timestamp": "26036",
+                    "stop_timestamp": "26747"
+                },
+                {
+                    "secondary_subgoal": "Pouring trash into the pit",
+                    "start_timestamp": "26747",
+                    "stop_timestamp": "26822"
+                }
+            ]
+        },
+        {
+            "subgoal": "Fetching and using water",
+            "start_timestamp": "27098",
+            "stop_timestamp": "39420",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fetching water and cleaning",
+                    "start_timestamp": "28250",
+                    "stop_timestamp": "36190"
+                },
+                {
+                    "secondary_subgoal": "Sprinkling and splashing water on the ground",
+                    "start_timestamp": "36190",
+                    "stop_timestamp": "37400"
+                },
+                {
+                    "secondary_subgoal": "Rinsing container and washing hands",
+                    "start_timestamp": "37937",
+                    "stop_timestamp": "38736"
+                }
+            ]
+        },
+        {
+            "subgoal": "Managing the firewood and fire place",
+            "start_timestamp": "39126",
+            "stop_timestamp": "39757",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling firewood",
+                    "start_timestamp": "39126",
+                    "stop_timestamp": "39534"
+                },
+                {
+                    "secondary_subgoal": "Checking the boiling pot",
+                    "start_timestamp": "39534",
+                    "stop_timestamp": "39583"
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling container",
+            "start_timestamp": "39705",
+            "stop_timestamp": "39857",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Holding and opening the container",
+                    "start_timestamp": "39705",
+                    "stop_timestamp": "39857"
+                }
+            ]
+        }
+    ]
+}

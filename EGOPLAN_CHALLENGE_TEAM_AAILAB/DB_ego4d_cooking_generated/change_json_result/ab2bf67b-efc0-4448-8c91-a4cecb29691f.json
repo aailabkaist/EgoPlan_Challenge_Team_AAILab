@@ -1,0 +1,210 @@
+{
+    "overall_goal": "Prepare ingredients and set the table for a meal",
+    "clips": [
+        {
+            "subgoal": "Prepare seasoning and preliminary ingredients",
+            "start_timestamp": 0,
+            "stop_timestamp": 2395,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move to the table and prepare seasoning bottles",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 568
+                },
+                {
+                    "secondary_subgoal": "Get a bottle from the cabinet and prepare more seasoning",
+                    "start_timestamp": 568,
+                    "stop_timestamp": 984
+                },
+                {
+                    "secondary_subgoal": "Move back to the table and pour the seasoning",
+                    "start_timestamp": 984,
+                    "stop_timestamp": 1062
+                },
+                {
+                    "secondary_subgoal": "Retrieve chopsticks and move back to table",
+                    "start_timestamp": 1062,
+                    "stop_timestamp": 1390
+                },
+                {
+                    "secondary_subgoal": "Mix food in the plate and finalize pre-seasoning",
+                    "start_timestamp": 1390,
+                    "stop_timestamp": 2395
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize items on the table",
+            "start_timestamp": 2395,
+            "stop_timestamp": 3455,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move the bottle in the pack and arrange it on the table",
+                    "start_timestamp": 2395,
+                    "stop_timestamp": 2493
+                },
+                {
+                    "secondary_subgoal": "Put the chopsticks on the tin and fold the paper bag",
+                    "start_timestamp": 2493,
+                    "stop_timestamp": 3398
+                },
+                {
+                    "secondary_subgoal": "Move the folded paper to the bag from the table",
+                    "start_timestamp": 3398,
+                    "stop_timestamp": 3455
+                }
+            ]
+        },
+        {
+            "subgoal": "Store unused bottles and clean up",
+            "start_timestamp": 3455,
+            "stop_timestamp": 3687,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Store the bottle in the fridge and box",
+                    "start_timestamp": 3455,
+                    "stop_timestamp": 3725
+                },
+                {
+                    "secondary_subgoal": "Turn off the oven and move back to the counter",
+                    "start_timestamp": 3725,
+                    "stop_timestamp": 3933
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash and prepare vegetables",
+            "start_timestamp": 3933,
+            "stop_timestamp": 6406,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash the knife and chopping board",
+                    "start_timestamp": 3933,
+                    "stop_timestamp": 4192
+                },
+                {
+                    "secondary_subgoal": "Open and wash vegetables from a pack",
+                    "start_timestamp": 4192,
+                    "stop_timestamp": 4665
+                },
+                {
+                    "secondary_subgoal": "Chop vegetables on the chopping board",
+                    "start_timestamp": 4665,
+                    "stop_timestamp": 5788
+                },
+                {
+                    "secondary_subgoal": "Move vegetables to a bowl and organize",
+                    "start_timestamp": 5788,
+                    "stop_timestamp": 6406
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare meat and clean workspace",
+            "start_timestamp": 6406,
+            "stop_timestamp": 10986,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse the chopping board and knife",
+                    "start_timestamp": 6406,
+                    "stop_timestamp": 7006
+                },
+                {
+                    "secondary_subgoal": "Prepare and rinse meat",
+                    "start_timestamp": 7006,
+                    "stop_timestamp": 8035
+                },
+                {
+                    "secondary_subgoal": "Quick organization with utensils",
+                    "start_timestamp": 8035,
+                    "stop_timestamp": 11910
+                },
+                {
+                    "secondary_subgoal": "Wash chopping board and oven",
+                    "start_timestamp": 11910,
+                    "stop_timestamp": 13098
+                }
+            ]
+        },
+        {
+            "subgoal": "Final preparation and clean-up",
+            "start_timestamp": 13098,
+            "stop_timestamp": 14306,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse and dry hands, clean counter and utensils",
+                    "start_timestamp": 13098,
+                    "stop_timestamp": 13718
+                },
+                {
+                    "secondary_subgoal": "Organize the fridge drawer and peel items",
+                    "start_timestamp": 13718,
+                    "stop_timestamp": 14306
+                }
+            ]
+        },
+        {
+            "subgoal": "Grate items and final seasonal preparation",
+            "start_timestamp": 14306,
+            "stop_timestamp": 16497,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Grate and flick items",
+                    "start_timestamp": 14306,
+                    "stop_timestamp": 16154
+                },
+                {
+                    "secondary_subgoal": "Wash the grater and organize counter",
+                    "start_timestamp": 16154,
+                    "stop_timestamp": 16497
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize and clean up workspace",
+            "start_timestamp": 16497,
+            "stop_timestamp": 18489,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare items for storage, wash hands",
+                    "start_timestamp": 16497,
+                    "stop_timestamp": 17371
+                },
+                {
+                    "secondary_subgoal": "Organize and wipe clean surfaces",
+                    "start_timestamp": 17371,
+                    "stop_timestamp": 18489
+                }
+            ]
+        },
+        {
+            "subgoal": "Setup the dining table",
+            "start_timestamp": 18489,
+            "stop_timestamp": 20852,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Arrange plates and cups on the table",
+                    "start_timestamp": 18489,
+                    "stop_timestamp": 19716
+                },
+                {
+                    "secondary_subgoal": "Prepare and arrange chopsticks",
+                    "start_timestamp": 19716,
+                    "stop_timestamp": 20852
+                }
+            ]
+        },
+        {
+            "subgoal": "Final checks in the kitchen",
+            "start_timestamp": 20852,
+            "stop_timestamp": 21322,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Check fridge and cupboard for needed items",
+                    "start_timestamp": 20852,
+                    "stop_timestamp": 21322
+                }
+            ]
+        }
+    ]
+}

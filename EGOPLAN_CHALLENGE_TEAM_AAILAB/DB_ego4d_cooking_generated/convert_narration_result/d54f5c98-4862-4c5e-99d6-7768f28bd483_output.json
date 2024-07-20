@@ -1,0 +1,567 @@
+[
+    {
+        "task_goal": "Rinse eggs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds eggs",
+                "start_frame": 49,
+                "stop_frame": 79
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 79,
+                "stop_frame": 94
+            },
+            {
+                "narration_text": "Rinses eggs",
+                "start_frame": 94,
+                "stop_frame": 150
+            },
+            {
+                "narration_text": "Rinses fingers",
+                "start_frame": 150,
+                "stop_frame": 199
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 199,
+                "stop_frame": 260
+            },
+            {
+                "narration_text": "Rinses eggs",
+                "start_frame": 260,
+                "stop_frame": 337
+            },
+            {
+                "narration_text": "Rinses eggs",
+                "start_frame": 337,
+                "stop_frame": 415
+            },
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 415,
+                "stop_frame": 445
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rinses eggs",
+                "start_frame": 337,
+                "stop_frame": 415
+            },
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 415,
+                "stop_frame": 445
+            },
+            {
+                "narration_text": "Wipes hands",
+                "start_frame": 445,
+                "stop_frame": 503
+            }
+        ]
+    },
+    {
+        "task_goal": "Manipulate objects in preparation for peeling eggs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 415,
+                "stop_frame": 445
+            },
+            {
+                "narration_text": "Wipes hands",
+                "start_frame": 445,
+                "stop_frame": 503
+            },
+            {
+                "narration_text": "Moves bottle",
+                "start_frame": 503,
+                "stop_frame": 543
+            },
+            {
+                "narration_text": "Picks bowl",
+                "start_frame": 543,
+                "stop_frame": 603
+            },
+            {
+                "narration_text": "Places bowl down",
+                "start_frame": 603,
+                "stop_frame": 642
+            },
+            {
+                "narration_text": "Picks cup",
+                "start_frame": 642,
+                "stop_frame": 671
+            },
+            {
+                "narration_text": "Places cup down",
+                "start_frame": 671,
+                "stop_frame": 701
+            },
+            {
+                "narration_text": "Holds cooking pot",
+                "start_frame": 701,
+                "stop_frame": 735
+            },
+            {
+                "narration_text": "Rinses eggs",
+                "start_frame": 735,
+                "stop_frame": 823
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse eggs again",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds cooking pot",
+                "start_frame": 701,
+                "stop_frame": 735
+            },
+            {
+                "narration_text": "Rinses eggs",
+                "start_frame": 735,
+                "stop_frame": 823
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 823,
+                "stop_frame": 853
+            }
+        ]
+    },
+    {
+        "task_goal": "Open tap and pour water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rinses eggs",
+                "start_frame": 735,
+                "stop_frame": 823
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 823,
+                "stop_frame": 853
+            },
+            {
+                "narration_text": "Pours water",
+                "start_frame": 853,
+                "stop_frame": 866
+            },
+            {
+                "narration_text": "Moves knife",
+                "start_frame": 866,
+                "stop_frame": 909
+            }
+        ]
+    },
+    {
+        "task_goal": "Move sliced eggs to cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts egg in cooking pot",
+                "start_frame": 6044,
+                "stop_frame": 6190
+            },
+            {
+                "narration_text": "Slices eggs",
+                "start_frame": 6190,
+                "stop_frame": 6264
+            },
+            {
+                "narration_text": "Moves egg with knife",
+                "start_frame": 6264,
+                "stop_frame": 6308
+            },
+            {
+                "narration_text": "Puts eggs in cooking pot",
+                "start_frame": 6308,
+                "stop_frame": 6408
+            },
+            {
+                "narration_text": "Moves eggs with knife",
+                "start_frame": 6408,
+                "stop_frame": 6475
+            },
+            {
+                "narration_text": "Puts egg in cooking pot",
+                "start_frame": 6475,
+                "stop_frame": 6531
+            },
+            {
+                "narration_text": "Puts knife down",
+                "start_frame": 6531,
+                "stop_frame": 6560
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 6560,
+                "stop_frame": 6571
+            },
+            {
+                "narration_text": "Rinses hands",
+                "start_frame": 6571,
+                "stop_frame": 6605
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse hands and chop board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 6560,
+                "stop_frame": 6571
+            },
+            {
+                "narration_text": "Rinses hands",
+                "start_frame": 6571,
+                "stop_frame": 6605
+            },
+            {
+                "narration_text": "Holds knife",
+                "start_frame": 6605,
+                "stop_frame": 6613
+            },
+            {
+                "narration_text": "Rinses chopping board plus knife",
+                "start_frame": 6613,
+                "stop_frame": 6659
+            },
+            {
+                "narration_text": "Rinses chopping board",
+                "start_frame": 6659,
+                "stop_frame": 6681
+            },
+            {
+                "narration_text": "Rinses hands",
+                "start_frame": 6681,
+                "stop_frame": 6721
+            },
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 6721,
+                "stop_frame": 6788
+            },
+            {
+                "narration_text": "Wipes hands",
+                "start_frame": 6788,
+                "stop_frame": 6847
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir and mix the eggs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places tin down",
+                "start_frame": 8203,
+                "stop_frame": 8246
+            },
+            {
+                "narration_text": "Picks spoon",
+                "start_frame": 8246,
+                "stop_frame": 8291
+            },
+            {
+                "narration_text": "Stirs eggs",
+                "start_frame": 8291,
+                "stop_frame": 8377
+            }
+        ]
+    },
+    {
+        "task_goal": "Mash the eggs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs eggs",
+                "start_frame": 8291,
+                "stop_frame": 8377
+            },
+            {
+                "narration_text": "Stirs eggs",
+                "start_frame": 8377,
+                "stop_frame": 8479
+            },
+            {
+                "narration_text": "Mashes eggs",
+                "start_frame": 8479,
+                "stop_frame": 9135
+            },
+            {
+                "narration_text": "Scoops food in the bowl",
+                "start_frame": 9135,
+                "stop_frame": 9159
+            },
+            {
+                "narration_text": "Tastes the food",
+                "start_frame": 9159,
+                "stop_frame": 9197
+            },
+            {
+                "narration_text": "Mixes food in a bowl",
+                "start_frame": 9197,
+                "stop_frame": 9234
+            },
+            {
+                "narration_text": "Places bowl on the countertop",
+                "start_frame": 9234,
+                "stop_frame": 9262
+            },
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 9262,
+                "stop_frame": 9322
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and add another condiment",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 9262,
+                "stop_frame": 9322
+            },
+            {
+                "narration_text": "Picks a bottle",
+                "start_frame": 9322,
+                "stop_frame": 9386
+            },
+            {
+                "narration_text": "Opens the bottle",
+                "start_frame": 9386,
+                "stop_frame": 9479
+            },
+            {
+                "narration_text": "Adds condiment on the food",
+                "start_frame": 9479,
+                "stop_frame": 9506
+            },
+            {
+                "narration_text": "Closes the bottle",
+                "start_frame": 9506,
+                "stop_frame": 9525
+            },
+            {
+                "narration_text": "Moves a bag",
+                "start_frame": 9525,
+                "stop_frame": 9532
+            },
+            {
+                "narration_text": "Puts bottle in the fridge",
+                "start_frame": 9532,
+                "stop_frame": 9579
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 9579,
+                "stop_frame": 9607
+            },
+            {
+                "narration_text": "Holds the spoon",
+                "start_frame": 9607,
+                "stop_frame": 9618
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix and taste the eggs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 9579,
+                "stop_frame": 9607
+            },
+            {
+                "narration_text": "Holds the spoon",
+                "start_frame": 9607,
+                "stop_frame": 9618
+            },
+            {
+                "narration_text": "Mixes the food",
+                "start_frame": 9618,
+                "stop_frame": 10160
+            },
+            {
+                "narration_text": "Scoops food in the bowl",
+                "start_frame": 10160,
+                "stop_frame": 10181
+            },
+            {
+                "narration_text": "Tastes the food",
+                "start_frame": 10181,
+                "stop_frame": 10216
+            },
+            {
+                "narration_text": "Mixes the food",
+                "start_frame": 10216,
+                "stop_frame": 10281
+            },
+            {
+                "narration_text": "Picks a container",
+                "start_frame": 10281,
+                "stop_frame": 10310
+            },
+            {
+                "narration_text": "Places container on the countertop",
+                "start_frame": 10310,
+                "stop_frame": 10365
+            },
+            {
+                "narration_text": "Holds a spoon",
+                "start_frame": 10365,
+                "stop_frame": 10366
+            },
+            {
+                "narration_text": "Mixes the food",
+                "start_frame": 10366,
+                "stop_frame": 10437
+            },
+            {
+                "narration_text": "Walks around the kitchen",
+                "start_frame": 10437,
+                "stop_frame": 10464
+            },
+            {
+                "narration_text": "Picks a bottle",
+                "start_frame": 10464,
+                "stop_frame": 10507
+            },
+            {
+                "narration_text": "Opens the bottle",
+                "start_frame": 10507,
+                "stop_frame": 10527
+            },
+            {
+                "narration_text": "Adds condiment on food",
+                "start_frame": 10527,
+                "stop_frame": 10575
+            },
+            {
+                "narration_text": "Closes the bottle",
+                "start_frame": 10575,
+                "stop_frame": 10618
+            },
+            {
+                "narration_text": "Places bottle on the countertop",
+                "start_frame": 10618,
+                "stop_frame": 10651
+            },
+            {
+                "narration_text": "Mixes the food",
+                "start_frame": 10651,
+                "stop_frame": 11009
+            },
+            {
+                "narration_text": "Scoops food in the bowl",
+                "start_frame": 11009,
+                "stop_frame": 11029
+            },
+            {
+                "narration_text": "Tastes the food",
+                "start_frame": 11029,
+                "stop_frame": 11060
+            },
+            {
+                "narration_text": "Picks bowl",
+                "start_frame": 11060,
+                "stop_frame": 11084
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare and inspect sandwiches",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Inspects the sandwich",
+                "start_frame": 15633,
+                "stop_frame": 15777
+            },
+            {
+                "narration_text": "Places bread slice on the plate",
+                "start_frame": 15777,
+                "stop_frame": 15800
+            },
+            {
+                "narration_text": "Picks cucumber on the colander",
+                "start_frame": 15800,
+                "stop_frame": 15822
+            },
+            {
+                "narration_text": "Puts cucumber on the lettuce",
+                "start_frame": 15822,
+                "stop_frame": 15855
+            },
+            {
+                "narration_text": "Picks cucumber on the colander",
+                "start_frame": 15855,
+                "stop_frame": 15879
+            },
+            {
+                "narration_text": "Puts cucumber on the lettuce",
+                "start_frame": 15879,
+                "stop_frame": 15912
+            },
+            {
+                "narration_text": "Picks lettuce on the colander",
+                "start_frame": 15912,
+                "stop_frame": 15937
+            },
+            {
+                "narration_text": "Picks cucumber on the colander",
+                "start_frame": 15937,
+                "stop_frame": 15955
+            },
+            {
+                "narration_text": "Puts cucumber on the lettuce",
+                "start_frame": 15955,
+                "stop_frame": 16010
+            },
+            {
+                "narration_text": "Picks a bottle",
+                "start_frame": 16010,
+                "stop_frame": 16050
+            }
+        ]
+    },
+    {
+        "task_goal": "Move and store items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 20936,
+                "stop_frame": 20978
+            },
+            {
+                "narration_text": "Picks the plate",
+                "start_frame": 20978,
+                "stop_frame": 21082
+            },
+            {
+                "narration_text": "Closes the cabinet",
+                "start_frame": 21082,
+                "stop_frame": 21127
+            },
+            {
+                "narration_text": "Covers the sandwich",
+                "start_frame": 21127,
+                "stop_frame": 21225
+            },
+            {
+                "narration_text": "Moves the sandwich",
+                "start_frame": 21225,
+                "stop_frame": 21239
+            },
+            {
+                "narration_text": "Picks the dish towel",
+                "start_frame": 21239,
+                "stop_frame": 21339
+            }
+        ]
+    }
+]

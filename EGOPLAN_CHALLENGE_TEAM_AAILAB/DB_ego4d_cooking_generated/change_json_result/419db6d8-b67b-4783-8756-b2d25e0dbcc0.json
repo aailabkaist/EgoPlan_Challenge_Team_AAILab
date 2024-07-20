@@ -1,0 +1,138 @@
+{
+    "overall_goal": "Prepare and cook food, and serve it in cupcake liners with additional preparations in the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Initial preparations",
+            "start_timestamp": 0,
+            "stop_timestamp": 283,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle lids and tins",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 212
+                },
+                {
+                    "secondary_subgoal": "Place tin on surface",
+                    "start_timestamp": 212,
+                    "stop_timestamp": 283
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare for cooking",
+            "start_timestamp": 283,
+            "stop_timestamp": 472,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Get cookware ready",
+                    "start_timestamp": 283,
+                    "stop_timestamp": 472
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare macaroni and egg mixture",
+            "start_timestamp": 472,
+            "stop_timestamp": 1999,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle paper towel and pour macaroni",
+                    "start_timestamp": 472,
+                    "stop_timestamp": 889
+                },
+                {
+                    "secondary_subgoal": "Pour eggs into pot",
+                    "start_timestamp": 889,
+                    "stop_timestamp": 1964
+                },
+                {
+                    "secondary_subgoal": "Place small bowl on table",
+                    "start_timestamp": 1964,
+                    "stop_timestamp": 1999
+                }
+            ]
+        },
+        {
+            "subgoal": "Use and handle strainer",
+            "start_timestamp": 1999,
+            "stop_timestamp": 2203,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and hold strainer, pour into strainer",
+                    "start_timestamp": 1999,
+                    "stop_timestamp": 2203
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle spices and seasonings",
+            "start_timestamp": 2203,
+            "stop_timestamp": 2453,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Shake salt and unsure content into pot",
+                    "start_timestamp": 2203,
+                    "stop_timestamp": 2453
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir mixture and taste food",
+            "start_timestamp": 2453,
+            "stop_timestamp": 4259,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir and taste food",
+                    "start_timestamp": 2453,
+                    "stop_timestamp": 4259
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and place cupcake liners",
+            "start_timestamp": 4259,
+            "stop_timestamp": 8626,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and place cupcake liners in tins",
+                    "start_timestamp": 4259,
+                    "stop_timestamp": 8626
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve food in cupcake liners",
+            "start_timestamp": 8626,
+            "stop_timestamp": 8087,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Serve vegetables in cupcake liners",
+                    "start_timestamp": 8626,
+                    "stop_timestamp": 8087
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle additional kitchen tasks",
+            "start_timestamp": 8087,
+            "stop_timestamp": 11227,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash hands and clean chopsticks",
+                    "start_timestamp": 8087,
+                    "stop_timestamp": 7350
+                },
+                {
+                    "secondary_subgoal": "Pick small bowl, serve vegetables",
+                    "start_timestamp": 7350,
+                    "stop_timestamp": 8058
+                },
+                {
+                    "secondary_subgoal": "Place bowl and prepare for next steps",
+                    "start_timestamp": 8058,
+                    "stop_timestamp": 11227
+                }
+            ]
+        }
+    ]
+}

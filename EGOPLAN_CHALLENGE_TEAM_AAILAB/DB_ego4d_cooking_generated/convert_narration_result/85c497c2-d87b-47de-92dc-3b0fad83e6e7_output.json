@@ -1,0 +1,2392 @@
+[
+    {
+        "task_goal": "Unwrap and microwave food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 12,
+                "stop_frame": 66
+            },
+            {
+                "narration_text": "Wraps unsure",
+                "start_frame": 66,
+                "stop_frame": 276
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 276,
+                "stop_frame": 414
+            },
+            {
+                "narration_text": "Puts unsure in microwave",
+                "start_frame": 414,
+                "stop_frame": 463
+            },
+            {
+                "narration_text": "Closes microwave",
+                "start_frame": 463,
+                "stop_frame": 488
+            },
+            {
+                "narration_text": "Puts timer",
+                "start_frame": 488,
+                "stop_frame": 1137
+            },
+            {
+                "narration_text": "Opens microwave",
+                "start_frame": 1137,
+                "stop_frame": 1302
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 1302,
+                "stop_frame": 1523
+            }
+        ]
+    },
+    {
+        "task_goal": "Put down item",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 12,
+                "stop_frame": 66
+            },
+            {
+                "narration_text": "Wraps unsure",
+                "start_frame": 66,
+                "stop_frame": 276
+            }
+        ]
+    },
+    {
+        "task_goal": "Wrap item",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 12,
+                "stop_frame": 66
+            },
+            {
+                "narration_text": "Wraps unsure",
+                "start_frame": 66,
+                "stop_frame": 276
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 276,
+                "stop_frame": 414
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick item",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Wraps unsure",
+                "start_frame": 66,
+                "stop_frame": 276
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 276,
+                "stop_frame": 414
+            },
+            {
+                "narration_text": "Puts unsure in microwave",
+                "start_frame": 414,
+                "stop_frame": 463
+            }
+        ]
+    },
+    {
+        "task_goal": "Put item in microwave",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 276,
+                "stop_frame": 414
+            },
+            {
+                "narration_text": "Puts unsure in microwave",
+                "start_frame": 414,
+                "stop_frame": 463
+            },
+            {
+                "narration_text": "Closes microwave",
+                "start_frame": 463,
+                "stop_frame": 488
+            }
+        ]
+    },
+    {
+        "task_goal": "Close microwave",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts unsure in microwave",
+                "start_frame": 414,
+                "stop_frame": 463
+            },
+            {
+                "narration_text": "Closes microwave",
+                "start_frame": 463,
+                "stop_frame": 488
+            },
+            {
+                "narration_text": "Puts timer",
+                "start_frame": 488,
+                "stop_frame": 1137
+            }
+        ]
+    },
+    {
+        "task_goal": "Set timer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes microwave",
+                "start_frame": 463,
+                "stop_frame": 488
+            },
+            {
+                "narration_text": "Puts timer",
+                "start_frame": 488,
+                "stop_frame": 1137
+            },
+            {
+                "narration_text": "Opens microwave",
+                "start_frame": 1137,
+                "stop_frame": 1302
+            }
+        ]
+    },
+    {
+        "task_goal": "Open microwave",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts timer",
+                "start_frame": 488,
+                "stop_frame": 1137
+            },
+            {
+                "narration_text": "Opens microwave",
+                "start_frame": 1137,
+                "stop_frame": 1302
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 1302,
+                "stop_frame": 1523
+            }
+        ]
+    },
+    {
+        "task_goal": "Unwrap and clean cooking pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens microwave",
+                "start_frame": 1137,
+                "stop_frame": 1302
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 1302,
+                "stop_frame": 1523
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 1523,
+                "stop_frame": 1682
+            },
+            {
+                "narration_text": "Unwraps unsure",
+                "start_frame": 1682,
+                "stop_frame": 1873
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 1873,
+                "stop_frame": 1910
+            },
+            {
+                "narration_text": "Moves cooking pan",
+                "start_frame": 1910,
+                "stop_frame": 1969
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 1969,
+                "stop_frame": 2035
+            },
+            {
+                "narration_text": "Washes cooking pan",
+                "start_frame": 2035,
+                "stop_frame": 2450
+            },
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 2450,
+                "stop_frame": 2538
+            },
+            {
+                "narration_text": "Picks serviette tissue",
+                "start_frame": 2538,
+                "stop_frame": 2603
+            },
+            {
+                "narration_text": "Wipes cooking pan",
+                "start_frame": 2603,
+                "stop_frame": 3032
+            },
+            {
+                "narration_text": "Puts cooking pan down",
+                "start_frame": 3032,
+                "stop_frame": 3099
+            },
+            {
+                "narration_text": "Cleans kitchen sink",
+                "start_frame": 3099,
+                "stop_frame": 3160
+            },
+            {
+                "narration_text": "Puts serviette down",
+                "start_frame": 3160,
+                "stop_frame": 3247
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 3247,
+                "stop_frame": 3278
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up item",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens microwave",
+                "start_frame": 1137,
+                "stop_frame": 1302
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 1302,
+                "stop_frame": 1523
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 1523,
+                "stop_frame": 1682
+            }
+        ]
+    },
+    {
+        "task_goal": "Put item down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 1302,
+                "stop_frame": 1523
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 1523,
+                "stop_frame": 1682
+            },
+            {
+                "narration_text": "Unwraps unsure",
+                "start_frame": 1682,
+                "stop_frame": 1873
+            }
+        ]
+    },
+    {
+        "task_goal": "Unwrap item",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 1523,
+                "stop_frame": 1682
+            },
+            {
+                "narration_text": "Unwraps unsure",
+                "start_frame": 1682,
+                "stop_frame": 1873
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 1873,
+                "stop_frame": 1910
+            }
+        ]
+    },
+    {
+        "task_goal": "Put item down again",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Unwraps unsure",
+                "start_frame": 1682,
+                "stop_frame": 1873
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 1873,
+                "stop_frame": 1910
+            },
+            {
+                "narration_text": "Moves cooking pan",
+                "start_frame": 1910,
+                "stop_frame": 1969
+            }
+        ]
+    },
+    {
+        "task_goal": "Move cooking pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 1873,
+                "stop_frame": 1910
+            },
+            {
+                "narration_text": "Moves cooking pan",
+                "start_frame": 1910,
+                "stop_frame": 1969
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 1969,
+                "stop_frame": 2035
+            }
+        ]
+    },
+    {
+        "task_goal": "Open tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves cooking pan",
+                "start_frame": 1910,
+                "stop_frame": 1969
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 1969,
+                "stop_frame": 2035
+            },
+            {
+                "narration_text": "Washes cooking pan",
+                "start_frame": 2035,
+                "stop_frame": 2450
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash cooking pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 1969,
+                "stop_frame": 2035
+            },
+            {
+                "narration_text": "Washes cooking pan",
+                "start_frame": 2035,
+                "stop_frame": 2450
+            },
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 2450,
+                "stop_frame": 2538
+            }
+        ]
+    },
+    {
+        "task_goal": "Close tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes cooking pan",
+                "start_frame": 2035,
+                "stop_frame": 2450
+            },
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 2450,
+                "stop_frame": 2538
+            },
+            {
+                "narration_text": "Picks serviette tissue",
+                "start_frame": 2538,
+                "stop_frame": 2603
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick serviette tissue",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 2450,
+                "stop_frame": 2538
+            },
+            {
+                "narration_text": "Picks serviette tissue",
+                "start_frame": 2538,
+                "stop_frame": 2603
+            },
+            {
+                "narration_text": "Wipes cooking pan",
+                "start_frame": 2603,
+                "stop_frame": 3032
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe cooking pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks serviette tissue",
+                "start_frame": 2538,
+                "stop_frame": 2603
+            },
+            {
+                "narration_text": "Wipes cooking pan",
+                "start_frame": 2603,
+                "stop_frame": 3032
+            },
+            {
+                "narration_text": "Puts cooking pan down",
+                "start_frame": 3032,
+                "stop_frame": 3099
+            }
+        ]
+    },
+    {
+        "task_goal": "Put down cooking pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Wipes cooking pan",
+                "start_frame": 2603,
+                "stop_frame": 3032
+            },
+            {
+                "narration_text": "Puts cooking pan down",
+                "start_frame": 3032,
+                "stop_frame": 3099
+            },
+            {
+                "narration_text": "Cleans kitchen sink",
+                "start_frame": 3099,
+                "stop_frame": 3160
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean kitchen sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts cooking pan down",
+                "start_frame": 3032,
+                "stop_frame": 3099
+            },
+            {
+                "narration_text": "Cleans kitchen sink",
+                "start_frame": 3099,
+                "stop_frame": 3160
+            },
+            {
+                "narration_text": "Puts serviette down",
+                "start_frame": 3160,
+                "stop_frame": 3247
+            }
+        ]
+    },
+    {
+        "task_goal": "Put serviette down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans kitchen sink",
+                "start_frame": 3099,
+                "stop_frame": 3160
+            },
+            {
+                "narration_text": "Puts serviette down",
+                "start_frame": 3160,
+                "stop_frame": 3247
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 3247,
+                "stop_frame": 3278
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick item",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts serviette down",
+                "start_frame": 3160,
+                "stop_frame": 3247
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 3247,
+                "stop_frame": 3278
+            },
+            {
+                "narration_text": "Puts unsure in cooking pan",
+                "start_frame": 3278,
+                "stop_frame": 3356
+            },
+            {
+                "narration_text": "Puts plate down",
+                "start_frame": 3356,
+                "stop_frame": 3406
+            }
+        ]
+    },
+    {
+        "task_goal": "Put item in cooking pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts unsure in cooking pan",
+                "start_frame": 3278,
+                "stop_frame": 3356
+            },
+            {
+                "narration_text": "Puts plate down",
+                "start_frame": 3356,
+                "stop_frame": 3406
+            },
+            {
+                "narration_text": "Holds cooking pan",
+                "start_frame": 3406,
+                "stop_frame": 3418
+            }
+        ]
+    },
+    {
+        "task_goal": "Put plate down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts plate down",
+                "start_frame": 3356,
+                "stop_frame": 3406
+            },
+            {
+                "narration_text": "Holds cooking pan",
+                "start_frame": 3406,
+                "stop_frame": 3418
+            },
+            {
+                "narration_text": "Picks serviette",
+                "start_frame": 3418,
+                "stop_frame": 3458
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold cooking pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds cooking pan",
+                "start_frame": 3406,
+                "stop_frame": 3418
+            },
+            {
+                "narration_text": "Picks serviette",
+                "start_frame": 3418,
+                "stop_frame": 3458
+            },
+            {
+                "narration_text": "Cleans plate",
+                "start_frame": 3458,
+                "stop_frame": 3606
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick serviette",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks serviette",
+                "start_frame": 3418,
+                "stop_frame": 3458
+            },
+            {
+                "narration_text": "Cleans plate",
+                "start_frame": 3458,
+                "stop_frame": 3606
+            },
+            {
+                "narration_text": "Puts serviette down",
+                "start_frame": 3606,
+                "stop_frame": 3642
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans plate",
+                "start_frame": 3458,
+                "stop_frame": 3606
+            },
+            {
+                "narration_text": "Puts serviette down",
+                "start_frame": 3606,
+                "stop_frame": 3642
+            },
+            {
+                "narration_text": "Holds cooking pan",
+                "start_frame": 3642,
+                "stop_frame": 3688
+            }
+        ]
+    },
+    {
+        "task_goal": "Put serviette down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts serviette down",
+                "start_frame": 3606,
+                "stop_frame": 3642
+            },
+            {
+                "narration_text": "Holds cooking pan",
+                "start_frame": 3642,
+                "stop_frame": 3688
+            },
+            {
+                "narration_text": "Lights unsure",
+                "start_frame": 3688,
+                "stop_frame": 3728
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold cooking pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds cooking pan",
+                "start_frame": 3642,
+                "stop_frame": 3688
+            },
+            {
+                "narration_text": "Lights unsure",
+                "start_frame": 3688,
+                "stop_frame": 3728
+            },
+            {
+                "narration_text": "Lights cooking gas",
+                "start_frame": 3728,
+                "stop_frame": 3767
+            }
+        ]
+    },
+    {
+        "task_goal": "Light the stove",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lights unsure",
+                "start_frame": 3688,
+                "stop_frame": 3728
+            },
+            {
+                "narration_text": "Lights cooking gas",
+                "start_frame": 3728,
+                "stop_frame": 3767
+            },
+            {
+                "narration_text": "Moves cooking pan",
+                "start_frame": 3767,
+                "stop_frame": 3776
+            },
+            {
+                "narration_text": "Picks spoon tongs",
+                "start_frame": 3776,
+                "stop_frame": 3801
+            }
+        ]
+    },
+    {
+        "task_goal": "Move cooking pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves cooking pan",
+                "start_frame": 3767,
+                "stop_frame": 3776
+            },
+            {
+                "narration_text": "Picks spoon tongs",
+                "start_frame": 3776,
+                "stop_frame": 3801
+            },
+            {
+                "narration_text": "Stirs food with spoon tongs",
+                "start_frame": 3801,
+                "stop_frame": 3893
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick spoon tongs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks spoon tongs",
+                "start_frame": 3776,
+                "stop_frame": 3801
+            },
+            {
+                "narration_text": "Stirs food with spoon tongs",
+                "start_frame": 3801,
+                "stop_frame": 3893
+            },
+            {
+                "narration_text": "Puts spoon tongs down",
+                "start_frame": 3893,
+                "stop_frame": 3928
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs food with spoon tongs",
+                "start_frame": 3801,
+                "stop_frame": 3893
+            },
+            {
+                "narration_text": "Puts spoon tongs down",
+                "start_frame": 3893,
+                "stop_frame": 3928
+            },
+            {
+                "narration_text": "Picks serviette",
+                "start_frame": 3928,
+                "stop_frame": 3958
+            }
+        ]
+    },
+    {
+        "task_goal": "Put spoon tongs down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts spoon tongs down",
+                "start_frame": 3893,
+                "stop_frame": 3928
+            },
+            {
+                "narration_text": "Picks serviette",
+                "start_frame": 3928,
+                "stop_frame": 3958
+            },
+            {
+                "narration_text": "Folds serviette",
+                "start_frame": 3958,
+                "stop_frame": 4005
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick serviette",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks serviette",
+                "start_frame": 3928,
+                "stop_frame": 3958
+            },
+            {
+                "narration_text": "Folds serviette",
+                "start_frame": 3958,
+                "stop_frame": 4005
+            },
+            {
+                "narration_text": "Holds cooking pan",
+                "start_frame": 4005,
+                "stop_frame": 4053
+            }
+        ]
+    },
+    {
+        "task_goal": "Fold serviette",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Folds serviette",
+                "start_frame": 3958,
+                "stop_frame": 4005
+            },
+            {
+                "narration_text": "Holds cooking pan",
+                "start_frame": 4005,
+                "stop_frame": 4053
+            },
+            {
+                "narration_text": "Picks spoon tongs",
+                "start_frame": 4053,
+                "stop_frame": 4078
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold cooking pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds cooking pan",
+                "start_frame": 4005,
+                "stop_frame": 4053
+            },
+            {
+                "narration_text": "Picks spoon tongs",
+                "start_frame": 4053,
+                "stop_frame": 4078
+            },
+            {
+                "narration_text": "Stirs food with spoon tongs",
+                "start_frame": 4078,
+                "stop_frame": 4422
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick spoon tongs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks spoon tongs",
+                "start_frame": 4053,
+                "stop_frame": 4078
+            },
+            {
+                "narration_text": "Stirs food with spoon tongs",
+                "start_frame": 4078,
+                "stop_frame": 4422
+            },
+            {
+                "narration_text": "Puts serviette in cooking pan",
+                "start_frame": 4422,
+                "stop_frame": 4447
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food with spoon tongs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs food with spoon tongs",
+                "start_frame": 4078,
+                "stop_frame": 4422
+            },
+            {
+                "narration_text": "Puts serviette in cooking pan",
+                "start_frame": 4422,
+                "stop_frame": 4447
+            },
+            {
+                "narration_text": "Cleans pan with serviette",
+                "start_frame": 4447,
+                "stop_frame": 4902
+            }
+        ]
+    },
+    {
+        "task_goal": "Put serviette in cooking pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts serviette in cooking pan",
+                "start_frame": 4422,
+                "stop_frame": 4447
+            },
+            {
+                "narration_text": "Cleans pan with serviette",
+                "start_frame": 4447,
+                "stop_frame": 4902
+            },
+            {
+                "narration_text": "Picks serviette",
+                "start_frame": 4902,
+                "stop_frame": 4937
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean pan with serviette",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans pan with serviette",
+                "start_frame": 4447,
+                "stop_frame": 4902
+            },
+            {
+                "narration_text": "Picks serviette",
+                "start_frame": 4902,
+                "stop_frame": 4937
+            },
+            {
+                "narration_text": "Puts serviette down",
+                "start_frame": 4937,
+                "stop_frame": 4961
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick serviette",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks serviette",
+                "start_frame": 4902,
+                "stop_frame": 4937
+            },
+            {
+                "narration_text": "Puts serviette down",
+                "start_frame": 4937,
+                "stop_frame": 4961
+            },
+            {
+                "narration_text": "Picks serviette",
+                "start_frame": 4961,
+                "stop_frame": 5047
+            }
+        ]
+    },
+    {
+        "task_goal": "Put serviette down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts serviette down",
+                "start_frame": 4937,
+                "stop_frame": 4961
+            },
+            {
+                "narration_text": "Picks serviette",
+                "start_frame": 4961,
+                "stop_frame": 5047
+            },
+            {
+                "narration_text": "Opens dustbin",
+                "start_frame": 5047,
+                "stop_frame": 5051
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick serviette",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks serviette",
+                "start_frame": 4961,
+                "stop_frame": 5047
+            },
+            {
+                "narration_text": "Opens dustbin",
+                "start_frame": 5047,
+                "stop_frame": 5051
+            },
+            {
+                "narration_text": "Puts used serviette in dustbin",
+                "start_frame": 5051,
+                "stop_frame": 5078
+            }
+        ]
+    },
+    {
+        "task_goal": "Open dustbin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens dustbin",
+                "start_frame": 5047,
+                "stop_frame": 5051
+            },
+            {
+                "narration_text": "Puts used serviette in dustbin",
+                "start_frame": 5051,
+                "stop_frame": 5078
+            },
+            {
+                "narration_text": "Closes dustbin",
+                "start_frame": 5078,
+                "stop_frame": 5108
+            }
+        ]
+    },
+    {
+        "task_goal": "Put used serviette in dustbin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts used serviette in dustbin",
+                "start_frame": 5051,
+                "stop_frame": 5078
+            },
+            {
+                "narration_text": "Closes dustbin",
+                "start_frame": 5078,
+                "stop_frame": 5108
+            },
+            {
+                "narration_text": "Holds cooking pan",
+                "start_frame": 5108,
+                "stop_frame": 5116
+            }
+        ]
+    },
+    {
+        "task_goal": "Close dustbin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes dustbin",
+                "start_frame": 5078,
+                "stop_frame": 5108
+            },
+            {
+                "narration_text": "Holds cooking pan",
+                "start_frame": 5108,
+                "stop_frame": 5116
+            },
+            {
+                "narration_text": "Stirs food with spoon tongs",
+                "start_frame": 5116,
+                "stop_frame": 5257
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold cooking pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds cooking pan",
+                "start_frame": 5108,
+                "stop_frame": 5116
+            },
+            {
+                "narration_text": "Stirs food with spoon tongs",
+                "start_frame": 5116,
+                "stop_frame": 5257
+            },
+            {
+                "narration_text": "Picks serviette",
+                "start_frame": 5257,
+                "stop_frame": 5318
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food with spoon tongs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs food with spoon tongs",
+                "start_frame": 5116,
+                "stop_frame": 5257
+            },
+            {
+                "narration_text": "Picks serviette",
+                "start_frame": 5257,
+                "stop_frame": 5318
+            },
+            {
+                "narration_text": "Cleans spoon tongs",
+                "start_frame": 5318,
+                "stop_frame": 5344
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick serviette",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks serviette",
+                "start_frame": 5257,
+                "stop_frame": 5318
+            },
+            {
+                "narration_text": "Cleans spoon tongs",
+                "start_frame": 5318,
+                "stop_frame": 5344
+            },
+            {
+                "narration_text": "Cleans cooking pan with serviette",
+                "start_frame": 5344,
+                "stop_frame": 5763
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean spoon tongs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans spoon tongs",
+                "start_frame": 5318,
+                "stop_frame": 5344
+            },
+            {
+                "narration_text": "Cleans cooking pan with serviette",
+                "start_frame": 5344,
+                "stop_frame": 5763
+            },
+            {
+                "narration_text": "Picks serviette",
+                "start_frame": 5763,
+                "stop_frame": 5775
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean cooking pan with serviette",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cleans cooking pan with serviette",
+                "start_frame": 5344,
+                "stop_frame": 5763
+            },
+            {
+                "narration_text": "Picks serviette",
+                "start_frame": 5763,
+                "stop_frame": 5775
+            },
+            {
+                "narration_text": "Opens dustbin",
+                "start_frame": 5775,
+                "stop_frame": 5791
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick serviette",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks serviette",
+                "start_frame": 5763,
+                "stop_frame": 5775
+            },
+            {
+                "narration_text": "Opens dustbin",
+                "start_frame": 5775,
+                "stop_frame": 5791
+            },
+            {
+                "narration_text": "Puts used serviette in dustbin",
+                "start_frame": 5791,
+                "stop_frame": 5800
+            }
+        ]
+    },
+    {
+        "task_goal": "Open dustbin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens dustbin",
+                "start_frame": 5775,
+                "stop_frame": 5791
+            },
+            {
+                "narration_text": "Puts used serviette in dustbin",
+                "start_frame": 5791,
+                "stop_frame": 5800
+            },
+            {
+                "narration_text": "Closes dustbin",
+                "start_frame": 5800,
+                "stop_frame": 5827
+            }
+        ]
+    },
+    {
+        "task_goal": "Put used serviette in dustbin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts used serviette in dustbin",
+                "start_frame": 5791,
+                "stop_frame": 5800
+            },
+            {
+                "narration_text": "Closes dustbin",
+                "start_frame": 5800,
+                "stop_frame": 5827
+            },
+            {
+                "narration_text": "Switches off gas cooker",
+                "start_frame": 5827,
+                "stop_frame": 5863
+            }
+        ]
+    },
+    {
+        "task_goal": "Close dustbin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes dustbin",
+                "start_frame": 5800,
+                "stop_frame": 5827
+            },
+            {
+                "narration_text": "Switches off gas cooker",
+                "start_frame": 5827,
+                "stop_frame": 5863
+            },
+            {
+                "narration_text": "Moves cooking pan",
+                "start_frame": 5863,
+                "stop_frame": 5899
+            }
+        ]
+    },
+    {
+        "task_goal": "Switch off stove",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Switches off gas cooker",
+                "start_frame": 5827,
+                "stop_frame": 5863
+            },
+            {
+                "narration_text": "Moves cooking pan",
+                "start_frame": 5863,
+                "stop_frame": 5899
+            },
+            {
+                "narration_text": "Stirs food with spoon tongs",
+                "start_frame": 5899,
+                "stop_frame": 8648
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves cooking pan",
+                "start_frame": 5863,
+                "stop_frame": 5899
+            },
+            {
+                "narration_text": "Stirs food with spoon tongs",
+                "start_frame": 5899,
+                "stop_frame": 8648
+            },
+            {
+                "narration_text": "Collects it",
+                "start_frame": 8648,
+                "stop_frame": 8819
+            }
+        ]
+    },
+    {
+        "task_goal": "Collect food and pour blended tomato",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs food with spoon tongs",
+                "start_frame": 5899,
+                "stop_frame": 8648
+            },
+            {
+                "narration_text": "Collects it",
+                "start_frame": 8648,
+                "stop_frame": 8819
+            },
+            {
+                "narration_text": "Pours the remaining blended tomato",
+                "start_frame": 8819,
+                "stop_frame": 9231
+            },
+            {
+                "narration_text": "Pours the remaining",
+                "start_frame": 9231,
+                "stop_frame": 9309
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour remaining tomato and smear on meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours the remaining blended tomato",
+                "start_frame": 8819,
+                "stop_frame": 9231
+            },
+            {
+                "narration_text": "Pours the remaining",
+                "start_frame": 9231,
+                "stop_frame": 9309
+            },
+            {
+                "narration_text": "Smears the tomato on the meat",
+                "start_frame": 9309,
+                "stop_frame": 9453
+            },
+            {
+                "narration_text": "Puts both tong and jar in the sink",
+                "start_frame": 9453,
+                "stop_frame": 9551
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 9551,
+                "stop_frame": 9590
+            }
+        ]
+    },
+    {
+        "task_goal": "Put utensils in sink and open the tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts both tong and jar in the sink",
+                "start_frame": 9453,
+                "stop_frame": 9551
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 9551,
+                "stop_frame": 9590
+            },
+            {
+                "narration_text": "Mixes the water with the spoon",
+                "start_frame": 9590,
+                "stop_frame": 9637
+            },
+            {
+                "narration_text": "Puts aside the jar",
+                "start_frame": 9637,
+                "stop_frame": 9652
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix water and set aside jar",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Mixes the water with the spoon",
+                "start_frame": 9590,
+                "stop_frame": 9637
+            },
+            {
+                "narration_text": "Puts aside the jar",
+                "start_frame": 9637,
+                "stop_frame": 9652
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 9652,
+                "stop_frame": 9698
+            },
+            {
+                "narration_text": "Picks the tong",
+                "start_frame": 9698,
+                "stop_frame": 9722
+            }
+        ]
+    },
+    {
+        "task_goal": "Close tap and pick the tong",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 9652,
+                "stop_frame": 9698
+            },
+            {
+                "narration_text": "Picks the tong",
+                "start_frame": 9698,
+                "stop_frame": 9722
+            },
+            {
+                "narration_text": "Mixes the meat with the tomato",
+                "start_frame": 9722,
+                "stop_frame": 10042
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix meat with tomato",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the tong",
+                "start_frame": 9698,
+                "stop_frame": 9722
+            },
+            {
+                "narration_text": "Mixes the meat with the tomato",
+                "start_frame": 9722,
+                "stop_frame": 10042
+            },
+            {
+                "narration_text": "Turns the pieces of meat",
+                "start_frame": 10042,
+                "stop_frame": 10579
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn pieces of meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Mixes the meat with the tomato",
+                "start_frame": 9722,
+                "stop_frame": 10042
+            },
+            {
+                "narration_text": "Turns the pieces of meat",
+                "start_frame": 10042,
+                "stop_frame": 10579
+            },
+            {
+                "narration_text": "Hits the tong on the pan",
+                "start_frame": 10579,
+                "stop_frame": 10601
+            },
+            {
+                "narration_text": "Pushes the phone",
+                "start_frame": 10601,
+                "stop_frame": 10633
+            }
+        ]
+    },
+    {
+        "task_goal": "Hit tong on pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Hits the tong on the pan",
+                "start_frame": 10579,
+                "stop_frame": 10601
+            },
+            {
+                "narration_text": "Pushes the phone",
+                "start_frame": 10601,
+                "stop_frame": 10633
+            },
+            {
+                "narration_text": "Moves the dish",
+                "start_frame": 10633,
+                "stop_frame": 10706
+            }
+        ]
+    },
+    {
+        "task_goal": "Push phone and move dish",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pushes the phone",
+                "start_frame": 10601,
+                "stop_frame": 10633
+            },
+            {
+                "narration_text": "Moves the dish",
+                "start_frame": 10633,
+                "stop_frame": 10706
+            },
+            {
+                "narration_text": "Collects the meat",
+                "start_frame": 10706,
+                "stop_frame": 10706
+            },
+            {
+                "narration_text": "Puts some on the dish",
+                "start_frame": 10706,
+                "stop_frame": 10817
+            }
+        ]
+    },
+    {
+        "task_goal": "Collect meat and put on dish",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves the dish",
+                "start_frame": 10633,
+                "stop_frame": 10706
+            },
+            {
+                "narration_text": "Collects the meat",
+                "start_frame": 10706,
+                "stop_frame": 10706
+            },
+            {
+                "narration_text": "Puts some on the dish",
+                "start_frame": 10706,
+                "stop_frame": 10817
+            },
+            {
+                "narration_text": "Puts some on the dish",
+                "start_frame": 10817,
+                "stop_frame": 10965
+            },
+            {
+                "narration_text": "Puts some on the dish",
+                "start_frame": 10965,
+                "stop_frame": 11072
+            },
+            {
+                "narration_text": "Collects the meat",
+                "start_frame": 11072,
+                "stop_frame": 11116
+            },
+            {
+                "narration_text": "Lifts the pan",
+                "start_frame": 11116,
+                "stop_frame": 11230
+            }
+        ]
+    },
+    {
+        "task_goal": "Collect remaining meat and pour on dish",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Collects the meat",
+                "start_frame": 11072,
+                "stop_frame": 11116
+            },
+            {
+                "narration_text": "Lifts the pan",
+                "start_frame": 11116,
+                "stop_frame": 11230
+            },
+            {
+                "narration_text": "Collects the remaining meat",
+                "start_frame": 11230,
+                "stop_frame": 11296
+            },
+            {
+                "narration_text": "Pours the meat on the dish",
+                "start_frame": 11296,
+                "stop_frame": 11391
+            },
+            {
+                "narration_text": "Spreads the on the dish",
+                "start_frame": 11391,
+                "stop_frame": 11435
+            },
+            {
+                "narration_text": "Moves hands",
+                "start_frame": 11435,
+                "stop_frame": 11519
+            }
+        ]
+    },
+    {
+        "task_goal": "Spread meat on dish and move hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Spreads the on the dish",
+                "start_frame": 11391,
+                "stop_frame": 11435
+            },
+            {
+                "narration_text": "Moves hands",
+                "start_frame": 11435,
+                "stop_frame": 11519
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 11519,
+                "stop_frame": 11552
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves hands",
+                "start_frame": 11435,
+                "stop_frame": 11519
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 11519,
+                "stop_frame": 11552
+            },
+            {
+                "narration_text": "Puts both tong and pan in the sink",
+                "start_frame": 11552,
+                "stop_frame": 11593
+            }
+        ]
+    },
+    {
+        "task_goal": "Put tong and pan in sink and fetch water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 11519,
+                "stop_frame": 11552
+            },
+            {
+                "narration_text": "Puts both tong and pan in the sink",
+                "start_frame": 11552,
+                "stop_frame": 11593
+            },
+            {
+                "narration_text": "Fetches water",
+                "start_frame": 11593,
+                "stop_frame": 11627
+            },
+            {
+                "narration_text": "Turns the tap",
+                "start_frame": 11627,
+                "stop_frame": 11643
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn the tap and mix water with tong",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Fetches water",
+                "start_frame": 11593,
+                "stop_frame": 11627
+            },
+            {
+                "narration_text": "Turns the tap",
+                "start_frame": 11627,
+                "stop_frame": 11643
+            },
+            {
+                "narration_text": "Mixes the water with tong",
+                "start_frame": 11643,
+                "stop_frame": 11653
+            },
+            {
+                "narration_text": "Puts the tong down",
+                "start_frame": 11653,
+                "stop_frame": 11670
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 11670,
+                "stop_frame": 11700
+            }
+        ]
+    },
+    {
+        "task_goal": "Put tong down and close the tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the tong down",
+                "start_frame": 11653,
+                "stop_frame": 11670
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 11670,
+                "stop_frame": 11700
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 11700,
+                "stop_frame": 11730
+            },
+            {
+                "narration_text": "Opens the cupboard",
+                "start_frame": 11730,
+                "stop_frame": 11755
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk and open cupboard",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks",
+                "start_frame": 11700,
+                "stop_frame": 11730
+            },
+            {
+                "narration_text": "Opens the cupboard",
+                "start_frame": 11730,
+                "stop_frame": 11755
+            },
+            {
+                "narration_text": "Picks a packet",
+                "start_frame": 11755,
+                "stop_frame": 11766
+            },
+            {
+                "narration_text": "Closes the cupboard",
+                "start_frame": 11766,
+                "stop_frame": 11896
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick packet and close cupboard",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a packet",
+                "start_frame": 11755,
+                "stop_frame": 11766
+            },
+            {
+                "narration_text": "Closes the cupboard",
+                "start_frame": 11766,
+                "stop_frame": 11896
+            },
+            {
+                "narration_text": "Opens the packet",
+                "start_frame": 11896,
+                "stop_frame": 11926
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and move hand with packet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the cupboard",
+                "start_frame": 11766,
+                "stop_frame": 11896
+            },
+            {
+                "narration_text": "Opens the packet",
+                "start_frame": 11896,
+                "stop_frame": 11926
+            },
+            {
+                "narration_text": "Moves hand",
+                "start_frame": 11926,
+                "stop_frame": 11967
+            },
+            {
+                "narration_text": "Holds the packet",
+                "start_frame": 11967,
+                "stop_frame": 12041
+            },
+            {
+                "narration_text": "Pours some salt",
+                "start_frame": 12041,
+                "stop_frame": 12180
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold packet and pour some salt",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the packet",
+                "start_frame": 11967,
+                "stop_frame": 12041
+            },
+            {
+                "narration_text": "Pours some salt",
+                "start_frame": 12041,
+                "stop_frame": 12180
+            },
+            {
+                "narration_text": "Pours some salt",
+                "start_frame": 12180,
+                "stop_frame": 12253
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour more salt and shake hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours some salt",
+                "start_frame": 12041,
+                "stop_frame": 12180
+            },
+            {
+                "narration_text": "Pours some salt",
+                "start_frame": 12180,
+                "stop_frame": 12253
+            },
+            {
+                "narration_text": "Shakes hand",
+                "start_frame": 12253,
+                "stop_frame": 12294
+            },
+            {
+                "narration_text": "Pours some salt",
+                "start_frame": 12294,
+                "stop_frame": 12435
+            },
+            {
+                "narration_text": "Closes the packet",
+                "start_frame": 12435,
+                "stop_frame": 12522
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour more salt and close packet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours some salt",
+                "start_frame": 12294,
+                "stop_frame": 12435
+            },
+            {
+                "narration_text": "Closes the packet",
+                "start_frame": 12435,
+                "stop_frame": 12522
+            },
+            {
+                "narration_text": "Presses it",
+                "start_frame": 12522,
+                "stop_frame": 12549
+            },
+            {
+                "narration_text": "Opens the cupboard",
+                "start_frame": 12549,
+                "stop_frame": 12572
+            }
+        ]
+    },
+    {
+        "task_goal": "Press packet and open cupboard",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Presses it",
+                "start_frame": 12522,
+                "stop_frame": 12549
+            },
+            {
+                "narration_text": "Opens the cupboard",
+                "start_frame": 12549,
+                "stop_frame": 12572
+            },
+            {
+                "narration_text": "Puts the packet inside",
+                "start_frame": 12572,
+                "stop_frame": 12590
+            },
+            {
+                "narration_text": "Closes the cupboard",
+                "start_frame": 12590,
+                "stop_frame": 12622
+            }
+        ]
+    },
+    {
+        "task_goal": "Put packet inside and close cupboard",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the packet inside",
+                "start_frame": 12572,
+                "stop_frame": 12590
+            },
+            {
+                "narration_text": "Closes the cupboard",
+                "start_frame": 12590,
+                "stop_frame": 12622
+            },
+            {
+                "narration_text": "Touches the phone",
+                "start_frame": 12622,
+                "stop_frame": 12683
+            },
+            {
+                "narration_text": "Touches the cloth",
+                "start_frame": 12683,
+                "stop_frame": 12707
+            }
+        ]
+    },
+    {
+        "task_goal": "Touch phone and cloth",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches the phone",
+                "start_frame": 12622,
+                "stop_frame": 12683
+            },
+            {
+                "narration_text": "Touches the cloth",
+                "start_frame": 12683,
+                "stop_frame": 12707
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 12707,
+                "stop_frame": 12783
+            },
+            {
+                "narration_text": "Picks a sponge",
+                "start_frame": 12783,
+                "stop_frame": 12797
+            }
+        ]
+    },
+    {
+        "task_goal": "Open tap, pick sponge, and squeeze it",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 12707,
+                "stop_frame": 12783
+            },
+            {
+                "narration_text": "Picks a sponge",
+                "start_frame": 12783,
+                "stop_frame": 12797
+            },
+            {
+                "narration_text": "Squeezes it",
+                "start_frame": 12797,
+                "stop_frame": 12827
+            },
+            {
+                "narration_text": "Picks a spoon",
+                "start_frame": 12827,
+                "stop_frame": 12915
+            },
+            {
+                "narration_text": "Rinses the spoon",
+                "start_frame": 12915,
+                "stop_frame": 12957
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick spoon and rinse it",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a spoon",
+                "start_frame": 12827,
+                "stop_frame": 12915
+            },
+            {
+                "narration_text": "Rinses the spoon",
+                "start_frame": 12915,
+                "stop_frame": 12957
+            },
+            {
+                "narration_text": "Washed it with the cloth",
+                "start_frame": 12957,
+                "stop_frame": 12966
+            },
+            {
+                "narration_text": "Shakes it in the water",
+                "start_frame": 12966,
+                "stop_frame": 13000
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash spoon with cloth and shake it in water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washed it with the cloth",
+                "start_frame": 12957,
+                "stop_frame": 12966
+            },
+            {
+                "narration_text": "Shakes it in the water",
+                "start_frame": 12966,
+                "stop_frame": 13000
+            },
+            {
+                "narration_text": "Opens the cupboard",
+                "start_frame": 13000,
+                "stop_frame": 13044
+            },
+            {
+                "narration_text": "Puts the spoon in cupboard",
+                "start_frame": 13044,
+                "stop_frame": 13138
+            }
+        ]
+    },
+    {
+        "task_goal": "Open cupboard and put spoon inside",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the cupboard",
+                "start_frame": 13000,
+                "stop_frame": 13044
+            },
+            {
+                "narration_text": "Puts the spoon in cupboard",
+                "start_frame": 13044,
+                "stop_frame": 13138
+            },
+            {
+                "narration_text": "Pours water from the jar",
+                "start_frame": 13138,
+                "stop_frame": 13177
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour water from jar and rinse jar",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the spoon in cupboard",
+                "start_frame": 13044,
+                "stop_frame": 13138
+            },
+            {
+                "narration_text": "Pours water from the jar",
+                "start_frame": 13138,
+                "stop_frame": 13177
+            },
+            {
+                "narration_text": "Rinses the jar",
+                "start_frame": 13177,
+                "stop_frame": 13241
+            },
+            {
+                "narration_text": "Washes the jar",
+                "start_frame": 13241,
+                "stop_frame": 13351
+            },
+            {
+                "narration_text": "Rinses it",
+                "start_frame": 13351,
+                "stop_frame": 13403
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash jar and rinse it again",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the jar",
+                "start_frame": 13241,
+                "stop_frame": 13351
+            },
+            {
+                "narration_text": "Rinses it",
+                "start_frame": 13351,
+                "stop_frame": 13403
+            },
+            {
+                "narration_text": "Puts it in the the cupboard",
+                "start_frame": 13403,
+                "stop_frame": 13484
+            },
+            {
+                "narration_text": "Picks the tong",
+                "start_frame": 13484,
+                "stop_frame": 13542
+            }
+        ]
+    },
+    {
+        "task_goal": "Put jar in cupboard",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts it in the the cupboard",
+                "start_frame": 13403,
+                "stop_frame": 13484
+            },
+            {
+                "narration_text": "Picks the tong",
+                "start_frame": 13484,
+                "stop_frame": 13542
+            },
+            {
+                "narration_text": "Washes it",
+                "start_frame": 13542,
+                "stop_frame": 13626
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick tong and wash it",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the tong",
+                "start_frame": 13484,
+                "stop_frame": 13542
+            },
+            {
+                "narration_text": "Washes it",
+                "start_frame": 13542,
+                "stop_frame": 13626
+            },
+            {
+                "narration_text": "Rinses the tong",
+                "start_frame": 13626,
+                "stop_frame": 13696
+            },
+            {
+                "narration_text": "Shakes hand",
+                "start_frame": 13696,
+                "stop_frame": 13715
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse tong and shake hand",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rinses the tong",
+                "start_frame": 13626,
+                "stop_frame": 13696
+            },
+            {
+                "narration_text": "Shakes hand",
+                "start_frame": 13696,
+                "stop_frame": 13715
+            },
+            {
+                "narration_text": "Puts the tong in the cupboard",
+                "start_frame": 13715,
+                "stop_frame": 13751
+            },
+            {
+                "narration_text": "Pours the water from the pan",
+                "start_frame": 13751,
+                "stop_frame": 13792
+            }
+        ]
+    },
+    {
+        "task_goal": "Put tong in cupboard",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the tong in the cupboard",
+                "start_frame": 13715,
+                "stop_frame": 13751
+            },
+            {
+                "narration_text": "Pours the water from the pan",
+                "start_frame": 13751,
+                "stop_frame": 13792
+            },
+            {
+                "narration_text": "Puts the pan down",
+                "start_frame": 13792,
+                "stop_frame": 13858
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour water from pan and put it down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours the water from the pan",
+                "start_frame": 13751,
+                "stop_frame": 13792
+            },
+            {
+                "narration_text": "Puts the pan down",
+                "start_frame": 13792,
+                "stop_frame": 13858
+            },
+            {
+                "narration_text": "Picks a knife",
+                "start_frame": 13858,
+                "stop_frame": 13872
+            },
+            {
+                "narration_text": "Lifts the pan",
+                "start_frame": 13872,
+                "stop_frame": 13916
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick knife, lift pan, and put pan down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a knife",
+                "start_frame": 13858,
+                "stop_frame": 13872
+            },
+            {
+                "narration_text": "Lifts the pan",
+                "start_frame": 13872,
+                "stop_frame": 13916
+            },
+            {
+                "narration_text": "Puts the pan down",
+                "start_frame": 13916,
+                "stop_frame": 13974
+            },
+            {
+                "narration_text": "Rinses the knife",
+                "start_frame": 13974,
+                "stop_frame": 14012
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse knife and put it in cupboard",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the pan down",
+                "start_frame": 13916,
+                "stop_frame": 13974
+            },
+            {
+                "narration_text": "Rinses the knife",
+                "start_frame": 13974,
+                "stop_frame": 14012
+            },
+            {
+                "narration_text": "Puts the knife in the cupboard",
+                "start_frame": 14012,
+                "stop_frame": 14060
+            },
+            {
+                "narration_text": "Washes the pan",
+                "start_frame": 14060,
+                "stop_frame": 14302
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash pan and pour water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the knife in the cupboard",
+                "start_frame": 14012,
+                "stop_frame": 14060
+            },
+            {
+                "narration_text": "Washes the pan",
+                "start_frame": 14060,
+                "stop_frame": 14302
+            },
+            {
+                "narration_text": "Pours the water",
+                "start_frame": 14302,
+                "stop_frame": 14310
+            },
+            {
+                "narration_text": "Washes the bottom of the pan",
+                "start_frame": 14310,
+                "stop_frame": 14396
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash bottom of pan and pour water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours the water",
+                "start_frame": 14302,
+                "stop_frame": 14310
+            },
+            {
+                "narration_text": "Washes the bottom of the pan",
+                "start_frame": 14310,
+                "stop_frame": 14396
+            },
+            {
+                "narration_text": "Pours water",
+                "start_frame": 14396,
+                "stop_frame": 14412
+            },
+            {
+                "narration_text": "Turns the tap",
+                "start_frame": 14412,
+                "stop_frame": 14473
+            },
+            {
+                "narration_text": "Puts the sponge down",
+                "start_frame": 14473,
+                "stop_frame": 14499
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn tap and put sponge down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns the tap",
+                "start_frame": 14412,
+                "stop_frame": 14473
+            },
+            {
+                "narration_text": "Puts the sponge down",
+                "start_frame": 14473,
+                "stop_frame": 14499
+            },
+            {
+                "narration_text": "Picks the bottle",
+                "start_frame": 14499,
+                "stop_frame": 14521
+            },
+            {
+                "narration_text": "Pours unsure",
+                "start_frame": 14521,
+                "stop_frame": 14579
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the bottle",
+                "start_frame": 14499,
+                "stop_frame": 14521
+            },
+            {
+                "narration_text": "Pours unsure",
+                "start_frame": 14521,
+                "stop_frame": 14579
+            },
+            {
+                "narration_text": "Puts the bottle down",
+                "start_frame": 14579,
+                "stop_frame": 14605
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour some liquid from bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours unsure",
+                "start_frame": 14521,
+                "stop_frame": 14579
+            },
+            {
+                "narration_text": "Puts the bottle down",
+                "start_frame": 14579,
+                "stop_frame": 14605
+            },
+            {
+                "narration_text": "Shakes hand",
+                "start_frame": 14605,
+                "stop_frame": 14635
+            },
+            {
+                "narration_text": "Dries hand on the towel",
+                "start_frame": 14635,
+                "stop_frame": 14720
+            }
+        ]
+    },
+    {
+        "task_goal": "Shake hand and dry hand on towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Shakes hand",
+                "start_frame": 14605,
+                "stop_frame": 14635
+            },
+            {
+                "narration_text": "Dries hand on the towel",
+                "start_frame": 14635,
+                "stop_frame": 14720
+            },
+            {
+                "narration_text": "Wipes the table as he lift the dish",
+                "start_frame": 14720,
+                "stop_frame": 14866
+            },
+            {
+                "narration_text": "Moves the hand",
+                "start_frame": 14866,
+                "stop_frame": 14966
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe table and lift dish",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Wipes the table as he lift the dish",
+                "start_frame": 14720,
+                "stop_frame": 14866
+            },
+            {
+                "narration_text": "Moves the hand",
+                "start_frame": 14866,
+                "stop_frame": 14966
+            }
+        ]
+    }
+]

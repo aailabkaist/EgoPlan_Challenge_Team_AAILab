@@ -1,0 +1,81 @@
+{
+    "overall_goal": "Cleaning and preparing food in the kitchen",
+    "clips": [
+        {
+            "subgoal": "Preparing green beans",
+            "start_timestamp": 86,
+            "stop_timestamp": 1554,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing hands",
+                    "start_timestamp": 86,
+                    "stop_timestamp": 142
+                },
+                {
+                    "secondary_subgoal": "Handling green beans and zip bag",
+                    "start_timestamp": 142,
+                    "stop_timestamp": 496
+                },
+                {
+                    "secondary_subgoal": "Clearing the sink",
+                    "start_timestamp": 496,
+                    "stop_timestamp": 622
+                },
+                {
+                    "secondary_subgoal": "Discarding green beans in dustbin",
+                    "start_timestamp": 750,
+                    "stop_timestamp": 907
+                },
+                {
+                    "secondary_subgoal": "Cleaning chopping board and kitchen sink",
+                    "start_timestamp": 1006,
+                    "stop_timestamp": 1288
+                },
+                {
+                    "secondary_subgoal": "Storing green beans in fridge",
+                    "start_timestamp": 1386,
+                    "stop_timestamp": 1554
+                }
+            ]
+        },
+        {
+            "subgoal": "Stirring food and cleaning utensils",
+            "start_timestamp": 1652,
+            "stop_timestamp": 5189,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring food",
+                    "start_timestamp": 1652,
+                    "stop_timestamp": 2489
+                },
+                {
+                    "secondary_subgoal": "Handling cooking utensils and washing them",
+                    "start_timestamp": 2489,
+                    "stop_timestamp": 5189
+                }
+            ]
+        },
+        {
+            "subgoal": "Continuing food preparation and cleaning up",
+            "start_timestamp": 5454,
+            "stop_timestamp": 15947,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Final adjustments and cleaning around the kitchen",
+                    "start_timestamp": 5454,
+                    "stop_timestamp": 13035
+                },
+                {
+                    "secondary_subgoal": "Further cleaning of the sink and surrounding area",
+                    "start_timestamp": 13035,
+                    "stop_timestamp": 14965
+                },
+                {
+                    "secondary_subgoal": "Final food preparation steps",
+                    "start_timestamp": 14965,
+                    "stop_timestamp": 16047
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efNwjSdE7ILdUKRen6YqNSwIeHtr",
+    "object": "chat.completion",
+    "created": 1719479232,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare rolled dough using a puri press and other dough machinery\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Operating the phone and preparing to work on dough\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 1007,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Using the phone\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 312\n        },\n        {\n          \"secondary_subgoal\": \"Looking around and picking up phone\",\n          \"start_timestamp\": 312,\n          \"stop_timestamp\": 742. \n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing the cloth and dough on the floor\",\n      \"start_timestamp\": 742,\n      \"stop_timestamp\": 1007,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Spreading cloth and placing dough on it\",\n          \"start_timestamp\": 742,\n          \"stop_timestamp\": 814      \n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Using the puri press machine\",\n      \"start_timestamp\": 1007,\n      \"stop_timestamp\": 37979,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Placing dough and paper in puri press\",\n          \"start_timestamp\": 1007,\n          \"stop_timestamp\": 1023\n        },\n        {\n          \"secondary_subgoal\": \"Rolling the dough with puri press machine\",\n          \"start_timestamp\": 1360,\n          \"stop_timestamp\": 1379\n        }\n        \"secondary_subgoal\": \"Repeating process of placing and rolling dough\",\n        \"start_timestamp\": 1360,\n        \"stop_timestamp\": 37979,  \n        ]\n      ]\n    },\n    {\n      \"subgoal\": \"Kneading and pinching the dough\",\n      \"start_timestamp\": 25043,\n      \"stop_timestamp\": 32002,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Kneading and pinching the dough\",\n          \"start_timestamp\": 25043,\n          \"stop_timestamp\": 32002\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Using rolling pins to flatten dough\",\n      \"start_timestamp\": 49610,\n      \"stop_timestamp\": 47952,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Repeating actions of rolling and opening the dough kneading machine\",\n          \"start_timestamp\": 49610,\n          \"stop_timestamp\": 56103\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Using dough flattening machine\",\n      \"start_timestamp\":  57182,\n      \"stop_timestamp\": 63290,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Repeating process of pressing and peeling dough with dough flattener\",\n          \"start_timestamp\": 57182,\n          \"stop_timestamp\": 63290\n        }\n      ]\n    }\n  ]\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 15309,
+        "completion_tokens": 643,
+        "total_tokens": 15952
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

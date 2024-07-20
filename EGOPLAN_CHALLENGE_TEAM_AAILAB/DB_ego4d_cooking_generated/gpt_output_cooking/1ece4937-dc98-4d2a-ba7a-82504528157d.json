@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dszseEp9SAd12iSQvvZRUvVm68TD",
+    "object": "chat.completion",
+    "created": 1719293228,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Cooking a meal, including handling onions, meat, and eggs in various pans.\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Turning onions and meat in the pan and adjusting the cooking process\",\n            \"start_timestamp\": 30,\n            \"stop_timestamp\": 193,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Turning onions in the pan\", \"start_timestamp\": 96, \"stop_timestamp\": 158},\n                {\"secondary_subgoal\": \"Adjusting the cooking process and reducing gas\", \"start_timestamp\": 2039, \"stop_timestamp\": 1712}\n            ]\n        },\n        {\n            \"subgoal\": \"Managing cooking utensils and adding ingredients\",\n            \"start_timestamp\": 221,\n            \"stop_timestamp\": 877,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Opening cupboard and picking dishes\", \"start_timestamp\": 348, \"stop_timestamp\": 567},\n                {\"secondary_subgoal\": \"Adding meat and adjusting gas\", \"start_timestamp\": 1241, \"stop_timestamp\": 1278}\n            ]\n        },\n        {\n            \"subgoal\": \"Stir-frying and seasoning the food\",\n            \"start_timestamp\": 1435,\n            \"stop_timestamp\": 4390,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Turning and seasoning onions\", \"start_timestamp\": 2022, \"stop_timestamp\": 2751},\n                {\"secondary_subgoal\": \"Adding salt and chili\", \"start_timestamp\": 4117, \"stop_timestamp\": 4353}\n            ]\n        },\n        {\n            \"subgoal\": \"Finishing the cooking process and cleaning\",\n            \"start_timestamp\": 6778,\n            \"stop_timestamp\": 9248,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Finishing cooking and transferring food\", \"start_timestamp\": 6778, \"stop_timestamp\": 7906},\n                {\"secondary_subgoal\": \"Cleaning utensils and washing hands\", \"start_timestamp\": 7906, \"stop_timestamp\": 9248}\n            ]\n        },\n        {\n            \"subgoal\": \"Preparing and cooking eggs\",\n            \"start_timestamp\": 9507,\n            \"stop_timestamp\": 20756,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Breaking and mixing eggs\", \"start_timestamp\": 9669, \"stop_timestamp\": 10174},\n                {\"secondary_subgoal\": \"Heating pan and adding oil\", \"start_timestamp\": 12787, \"stop_timestamp\": 14000},\n                {\"secondary_subgoal\": \"Cooking eggs and adding onions\", \"start_timestamp\": 18997, \"stop_timestamp\": 16339},\n                {\"secondary_subgoal\": \"Stir-frying with spatula\", \"start_timestamp\": 16554, \"stop_timestamp\": 16823},\n                {\"secondary_subgoal\": \"Switching off cooker and transferring food\", \"start_timestamp\": 17871, \"stop_timestamp\": 18734}\n            ]\n        }\n    ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3584,
+        "completion_tokens": 636,
+        "total_tokens": 4220
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

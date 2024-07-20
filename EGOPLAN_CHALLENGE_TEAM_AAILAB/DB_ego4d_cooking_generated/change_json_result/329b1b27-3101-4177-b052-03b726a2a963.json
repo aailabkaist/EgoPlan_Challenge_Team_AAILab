@@ -1,0 +1,142 @@
+{
+    "overall_goal": "Clean dishes and utensils in the kitchen",
+    "clips": [
+        {
+            "subgoal": "Clean a fish slice",
+            "start_timestamp": 0,
+            "stop_timestamp": 106,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold and wash fish slice",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 64
+                },
+                {
+                    "secondary_subgoal": "Rinse hands and place fish slice in rack",
+                    "start_timestamp": 64,
+                    "stop_timestamp": 106
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean a cooking pan",
+            "start_timestamp": 106,
+            "stop_timestamp": 321,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put water in cooking pan and pour out water",
+                    "start_timestamp": 106,
+                    "stop_timestamp": 198
+                },
+                {
+                    "secondary_subgoal": "Wash the cooking pan",
+                    "start_timestamp": 198,
+                    "stop_timestamp": 321
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean a cooking pot",
+            "start_timestamp": 321,
+            "stop_timestamp": 2671,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pour soap and wash cooking pot",
+                    "start_timestamp": 321,
+                    "stop_timestamp": 629
+                },
+                {
+                    "secondary_subgoal": "Rinse and continue washing cooking pot",
+                    "start_timestamp": 629,
+                    "stop_timestamp": 977
+                },
+                {
+                    "secondary_subgoal": "Pour soap, wash, and turn cooking pot",
+                    "start_timestamp": 977,
+                    "stop_timestamp": 1690
+                },
+                {
+                    "secondary_subgoal": "Wash and turn cooking pot",
+                    "start_timestamp": 1690,
+                    "stop_timestamp": 2236
+                },
+                {
+                    "secondary_subgoal": "Rinse cooking pot and hand",
+                    "start_timestamp": 2236,
+                    "stop_timestamp": 2327
+                },
+                {
+                    "secondary_subgoal": "Hold cooking pot, rinse and pour water",
+                    "start_timestamp": 2327,
+                    "stop_timestamp": 2671
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean a chopping board",
+            "start_timestamp": 2702,
+            "stop_timestamp": 3879,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold plate, pull chopping board, and place in sink",
+                    "start_timestamp": 2702,
+                    "stop_timestamp": 2877
+                },
+                {
+                    "secondary_subgoal": "Collect papers, put in plate, and place plate on surface",
+                    "start_timestamp": 2877,
+                    "stop_timestamp": 2935
+                },
+                {
+                    "secondary_subgoal": "Pick soap dish and scrubber for washing chopping board",
+                    "start_timestamp": 2970,
+                    "stop_timestamp": 3172
+                },
+                {
+                    "secondary_subgoal": "Turn and wash chopping board",
+                    "start_timestamp": 3172,
+                    "stop_timestamp": 3687
+                },
+                {
+                    "secondary_subgoal": "Rinse and place chopping board in rack",
+                    "start_timestamp": 3687,
+                    "stop_timestamp": 3879
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean soap dish and kitchen surfaces",
+            "start_timestamp": 3879,
+            "stop_timestamp": 4199,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse scrubber and soap dish",
+                    "start_timestamp": 3879,
+                    "stop_timestamp": 3952
+                },
+                {
+                    "secondary_subgoal": "Place items in sink and clean surfaces",
+                    "start_timestamp": 3952,
+                    "stop_timestamp": 4106
+                },
+                {
+                    "secondary_subgoal": "Pick and place plate, then clean surfaces",
+                    "start_timestamp": 4106,
+                    "stop_timestamp": 4199
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish cleaning tasks",
+            "start_timestamp": 4199,
+            "stop_timestamp": 4373,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Close tap, place kitchen cloth, and move camera",
+                    "start_timestamp": 4199,
+                    "stop_timestamp": 4373
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,667 @@
+[
+    {
+        "task_goal": "Turn on the cooker and prepare kitchenware",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lowers hands from head",
+                "start_frame": 55,
+                "stop_frame": 76
+            },
+            {
+                "narration_text": "Touches a pan on cooker",
+                "start_frame": 76,
+                "stop_frame": 120
+            },
+            {
+                "narration_text": "Puts the cooker on",
+                "start_frame": 120,
+                "stop_frame": 261
+            },
+            {
+                "narration_text": "Stands in the kitchen",
+                "start_frame": 261,
+                "stop_frame": 329
+            },
+            {
+                "narration_text": "Touches a plate on a rack",
+                "start_frame": 329,
+                "stop_frame": 375
+            },
+            {
+                "narration_text": "Opens a cabinet",
+                "start_frame": 375,
+                "stop_frame": 404
+            },
+            {
+                "narration_text": "Takes a plate from the cabinet",
+                "start_frame": 404,
+                "stop_frame": 498
+            },
+            {
+                "narration_text": "Places the plate on the slab",
+                "start_frame": 498,
+                "stop_frame": 609
+            },
+            {
+                "narration_text": "Takes a a bottle of oil",
+                "start_frame": 609,
+                "stop_frame": 699
+            },
+            {
+                "narration_text": "Uncorks the bottle",
+                "start_frame": 699,
+                "stop_frame": 733
+            },
+            {
+                "narration_text": "Pours the oil into pan",
+                "start_frame": 733,
+                "stop_frame": 797
+            },
+            {
+                "narration_text": "Corks the bottle",
+                "start_frame": 797,
+                "stop_frame": 826
+            },
+            {
+                "narration_text": "Puts the bottle in a corner",
+                "start_frame": 826,
+                "stop_frame": 883
+            },
+            {
+                "narration_text": "Tilts the pan",
+                "start_frame": 883,
+                "stop_frame": 990
+            },
+            {
+                "narration_text": "Places the pan on cooker",
+                "start_frame": 990,
+                "stop_frame": 1031
+            },
+            {
+                "narration_text": "Opens a cabinet",
+                "start_frame": 1031,
+                "stop_frame": 1082
+            },
+            {
+                "narration_text": "Takes a lead from the cabinet",
+                "start_frame": 1082,
+                "stop_frame": 1142
+            },
+            {
+                "narration_text": "Closes the cabinet",
+                "start_frame": 1142,
+                "stop_frame": 1180
+            },
+            {
+                "narration_text": "Puts the lead on the slab",
+                "start_frame": 1180,
+                "stop_frame": 1259
+            },
+            {
+                "narration_text": "Controls the cooker",
+                "start_frame": 1259,
+                "stop_frame": 1321
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn on the cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lowers hands from head",
+                "start_frame": 55,
+                "stop_frame": 76
+            },
+            {
+                "narration_text": "Touches a pan on cooker",
+                "start_frame": 76,
+                "stop_frame": 120
+            },
+            {
+                "narration_text": "Puts the cooker on",
+                "start_frame": 120,
+                "stop_frame": 261
+            }
+        ]
+    },
+    {
+        "task_goal": "Take a plate from the cabinet and place it on the slab",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stands in the kitchen",
+                "start_frame": 261,
+                "stop_frame": 329
+            },
+            {
+                "narration_text": "Touches a plate on a rack",
+                "start_frame": 329,
+                "stop_frame": 375
+            },
+            {
+                "narration_text": "Opens a cabinet",
+                "start_frame": 375,
+                "stop_frame": 404
+            },
+            {
+                "narration_text": "Takes a plate from the cabinet",
+                "start_frame": 404,
+                "stop_frame": 498
+            },
+            {
+                "narration_text": "Places the plate on the slab",
+                "start_frame": 498,
+                "stop_frame": 609
+            },
+            {
+                "narration_text": "Takes a a bottle of oil",
+                "start_frame": 609,
+                "stop_frame": 699
+            }
+        ]
+    },
+    {
+        "task_goal": "Add oil to the pan on the cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes a a bottle of oil",
+                "start_frame": 609,
+                "stop_frame": 699
+            },
+            {
+                "narration_text": "Uncorks the bottle",
+                "start_frame": 699,
+                "stop_frame": 733
+            },
+            {
+                "narration_text": "Pours the oil into pan",
+                "start_frame": 733,
+                "stop_frame": 797
+            },
+            {
+                "narration_text": "Corks the bottle",
+                "start_frame": 797,
+                "stop_frame": 826
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve and place lid from cabinet on the slab",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens a cabinet",
+                "start_frame": 1031,
+                "stop_frame": 1082
+            },
+            {
+                "narration_text": "Takes a lead from the cabinet",
+                "start_frame": 1082,
+                "stop_frame": 1142
+            },
+            {
+                "narration_text": "Closes the cabinet",
+                "start_frame": 1142,
+                "stop_frame": 1180
+            },
+            {
+                "narration_text": "Puts the lead on the slab",
+                "start_frame": 1180,
+                "stop_frame": 1259
+            },
+            {
+                "narration_text": "Controls the cooker",
+                "start_frame": 1259,
+                "stop_frame": 1321
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve ingredients from fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Controls the cooker",
+                "start_frame": 1259,
+                "stop_frame": 1321
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 1321,
+                "stop_frame": 1362
+            },
+            {
+                "narration_text": "Takes a wrapping",
+                "start_frame": 1362,
+                "stop_frame": 1418
+            },
+            {
+                "narration_text": "Searches in the fridge",
+                "start_frame": 1418,
+                "stop_frame": 1469
+            },
+            {
+                "narration_text": "Returns the wrapping into the fridge",
+                "start_frame": 1469,
+                "stop_frame": 1552
+            },
+            {
+                "narration_text": "Takes another wrapping from the fridge",
+                "start_frame": 1552,
+                "stop_frame": 1574
+            },
+            {
+                "narration_text": "Pushes the wrapping into the fridge",
+                "start_frame": 1574,
+                "stop_frame": 1666
+            },
+            {
+                "narration_text": "Touches a packet in the fridge",
+                "start_frame": 1666,
+                "stop_frame": 1727
+            },
+            {
+                "narration_text": "Touches unsure in the fridge",
+                "start_frame": 1727,
+                "stop_frame": 1767
+            },
+            {
+                "narration_text": "Pulls a container",
+                "start_frame": 1767,
+                "stop_frame": 1805
+            },
+            {
+                "narration_text": "Reaches for another container",
+                "start_frame": 1805,
+                "stop_frame": 1828
+            },
+            {
+                "narration_text": "Returns a container into the fridge",
+                "start_frame": 1828,
+                "stop_frame": 1950
+            },
+            {
+                "narration_text": "Unwraps the container",
+                "start_frame": 1950,
+                "stop_frame": 2057
+            },
+            {
+                "narration_text": "Opens the container",
+                "start_frame": 2057,
+                "stop_frame": 2105
+            },
+            {
+                "narration_text": "Puts the container on the slab",
+                "start_frame": 2105,
+                "stop_frame": 2154
+            },
+            {
+                "narration_text": "Picks egg from the fridge",
+                "start_frame": 2154,
+                "stop_frame": 2183
+            },
+            {
+                "narration_text": "Picks another egg",
+                "start_frame": 2183,
+                "stop_frame": 2209
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 2209,
+                "stop_frame": 2239
+            },
+            {
+                "narration_text": "Puts the eggs on the slab",
+                "start_frame": 2239,
+                "stop_frame": 2281
+            }
+        ]
+    },
+    {
+        "task_goal": "Place ingredients on slab and clean up",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 2209,
+                "stop_frame": 2239
+            },
+            {
+                "narration_text": "Puts the eggs on the slab",
+                "start_frame": 2239,
+                "stop_frame": 2281
+            },
+            {
+                "narration_text": "Takes a washing sponge",
+                "start_frame": 2281,
+                "stop_frame": 2323
+            },
+            {
+                "narration_text": "Places the sponge in the sink",
+                "start_frame": 2323,
+                "stop_frame": 2341
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 2341,
+                "stop_frame": 2375
+            },
+            {
+                "narration_text": "Walks in the kitchen",
+                "start_frame": 2375,
+                "stop_frame": 2387
+            },
+            {
+                "narration_text": "Throws litter into dustbin",
+                "start_frame": 2387,
+                "stop_frame": 2460
+            },
+            {
+                "narration_text": "Takes a pellet from the container",
+                "start_frame": 2460,
+                "stop_frame": 2532
+            }
+        ]
+    },
+    {
+        "task_goal": "Fetch water, cook, and seal pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 4434,
+                "stop_frame": 4533
+            },
+            {
+                "narration_text": "Takes a bowl from rack",
+                "start_frame": 4533,
+                "stop_frame": 4582
+            },
+            {
+                "narration_text": "Opens tap to fetch water",
+                "start_frame": 4582,
+                "stop_frame": 4744
+            },
+            {
+                "narration_text": "Pours the water into the pan",
+                "start_frame": 4744,
+                "stop_frame": 4913
+            },
+            {
+                "narration_text": "Seals the pan with lead",
+                "start_frame": 4913,
+                "stop_frame": 4974
+            },
+            {
+                "narration_text": "Pours water into the sink",
+                "start_frame": 4974,
+                "stop_frame": 4994
+            }
+        ]
+    },
+    {
+        "task_goal": "Use turner spoon and stand near cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches a turner spoon",
+                "start_frame": 5036,
+                "stop_frame": 5086
+            },
+            {
+                "narration_text": "Stands near the sink",
+                "start_frame": 5086,
+                "stop_frame": 5417
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 5417,
+                "stop_frame": 5458
+            },
+            {
+                "narration_text": "Takes a container",
+                "start_frame": 5458,
+                "stop_frame": 5471
+            },
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 5471,
+                "stop_frame": 5525
+            },
+            {
+                "narration_text": "Opens the container",
+                "start_frame": 5525,
+                "stop_frame": 5552
+            },
+            {
+                "narration_text": "Places the lead in sink",
+                "start_frame": 5552,
+                "stop_frame": 5583
+            },
+            {
+                "narration_text": "Opens a microwave",
+                "start_frame": 5583,
+                "stop_frame": 5608
+            },
+            {
+                "narration_text": "Puts the container in the microwave",
+                "start_frame": 5608,
+                "stop_frame": 5633
+            },
+            {
+                "narration_text": "Closes the microwave",
+                "start_frame": 5633,
+                "stop_frame": 5656
+            },
+            {
+                "narration_text": "Controls the microwave",
+                "start_frame": 5656,
+                "stop_frame": 5716
+            },
+            {
+                "narration_text": "Puts the microwave on",
+                "start_frame": 5716,
+                "stop_frame": 5754
+            },
+            {
+                "narration_text": "Lifts a bowl",
+                "start_frame": 5754,
+                "stop_frame": 5874
+            },
+            {
+                "narration_text": "Takes another bowl from rack",
+                "start_frame": 5874,
+                "stop_frame": 5944
+            },
+            {
+                "narration_text": "Arranges the bowls on rack",
+                "start_frame": 5944,
+                "stop_frame": 5993
+            },
+            {
+                "narration_text": "Takes a turner spoon",
+                "start_frame": 5993,
+                "stop_frame": 6024
+            },
+            {
+                "narration_text": "Puts the bowl and turner spoon on the slab",
+                "start_frame": 6024,
+                "stop_frame": 6090
+            },
+            {
+                "narration_text": "Stands near the cooker",
+                "start_frame": 6090,
+                "stop_frame": 6368
+            },
+            {
+                "narration_text": "Touches a cooking stick",
+                "start_frame": 6368,
+                "stop_frame": 6451
+            }
+        ]
+    },
+    {
+        "task_goal": "Finish cleaning up",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens microwave door",
+                "start_frame": 16607,
+                "stop_frame": 16643
+            },
+            {
+                "narration_text": "Removes plate with pieces of meat",
+                "start_frame": 16643,
+                "stop_frame": 16685
+            },
+            {
+                "narration_text": "Picks the plate from the microwave",
+                "start_frame": 16685,
+                "stop_frame": 16709
+            },
+            {
+                "narration_text": "Puts the plate beside the microwave",
+                "start_frame": 16709,
+                "stop_frame": 16758
+            },
+            {
+                "narration_text": "Picks the bowl",
+                "start_frame": 16758,
+                "stop_frame": 16779
+            },
+            {
+                "narration_text": "Puts the bowl on the plate",
+                "start_frame": 16779,
+                "stop_frame": 16824
+            },
+            {
+                "narration_text": "Picks the cleaning sponge",
+                "start_frame": 16824,
+                "stop_frame": 16842
+            },
+            {
+                "narration_text": "Washes the cooking pan with the cleaning sponge",
+                "start_frame": 16842,
+                "stop_frame": 17256
+            },
+            {
+                "narration_text": "Opens the water tap",
+                "start_frame": 17256,
+                "stop_frame": 17318
+            },
+            {
+                "narration_text": "Washes the cooking pan with the cleaning sponge",
+                "start_frame": 17318,
+                "stop_frame": 17674
+            },
+            {
+                "narration_text": "Puts the cleaning sponge in the sink",
+                "start_frame": 17674,
+                "stop_frame": 17701
+            },
+            {
+                "narration_text": "Puts the water tap off",
+                "start_frame": 17701,
+                "stop_frame": 17731
+            },
+            {
+                "narration_text": "Holds the cooking pan",
+                "start_frame": 17731,
+                "stop_frame": 17776
+            },
+            {
+                "narration_text": "Puts the cooking pan on the utensil rack",
+                "start_frame": 17776,
+                "stop_frame": 17843
+            },
+            {
+                "narration_text": "Picks the cling plastic wrap",
+                "start_frame": 17843,
+                "stop_frame": 17847
+            },
+            {
+                "narration_text": "Holds the cling plastic wrap",
+                "start_frame": 17847,
+                "stop_frame": 17947
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean remaining dishware and store ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens microwave door",
+                "start_frame": 16607,
+                "stop_frame": 16643
+            },
+            {
+                "narration_text": "Removes plate with pieces of meat",
+                "start_frame": 16643,
+                "stop_frame": 16685
+            },
+            {
+                "narration_text": "Picks the plate from the microwave",
+                "start_frame": 16685,
+                "stop_frame": 16709
+            },
+            {
+                "narration_text": "Puts the plate beside the microwave",
+                "start_frame": 16709,
+                "stop_frame": 16758
+            },
+            {
+                "narration_text": "Picks the bowl",
+                "start_frame": 16758,
+                "stop_frame": 16779
+            },
+            {
+                "narration_text": "Puts the bowl on the plate",
+                "start_frame": 16779,
+                "stop_frame": 16824
+            },
+            {
+                "narration_text": "Picks the cleaning sponge",
+                "start_frame": 16824,
+                "stop_frame": 16842
+            },
+            {
+                "narration_text": "Washes the cooking pan with the cleaning sponge",
+                "start_frame": 16842,
+                "stop_frame": 17256
+            },
+            {
+                "narration_text": "Opens the water tap",
+                "start_frame": 17256,
+                "stop_frame": 17318
+            },
+            {
+                "narration_text": "Washes the cooking pan with the cleaning sponge",
+                "start_frame": 17318,
+                "stop_frame": 17674
+            },
+            {
+                "narration_text": "Puts the cleaning sponge in the sink",
+                "start_frame": 17674,
+                "stop_frame": 17701
+            },
+            {
+                "narration_text": "Puts the water tap off",
+                "start_frame": 17701,
+                "stop_frame": 17731
+            },
+            {
+                "narration_text": "Holds the cooking pan",
+                "start_frame": 17731,
+                "stop_frame": 17776
+            },
+            {
+                "narration_text": "Puts the cooking pan on the utensil rack",
+                "start_frame": 17776,
+                "stop_frame": 17843
+            },
+            {
+                "narration_text": "Picks the cling plastic wrap",
+                "start_frame": 17843,
+                "stop_frame": 17847
+            },
+            {
+                "narration_text": "Holds the cling plastic wrap",
+                "start_frame": 17847,
+                "stop_frame": 17947
+            }
+        ]
+    }
+]

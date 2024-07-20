@@ -1,0 +1,59 @@
+{
+    "overall_goal": "Prepare chopped onion for cooking.",
+    "clips": [
+        {
+            "subgoal": "Cutting and chopping the onion",
+            "start_timestamp": 22,
+            "stop_timestamp": 1911,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut the onion into two halves",
+                    "start_timestamp": 89,
+                    "stop_timestamp": 192
+                },
+                {
+                    "secondary_subgoal": "Chopping half an onion",
+                    "start_timestamp": 192,
+                    "stop_timestamp": 577
+                },
+                {
+                    "secondary_subgoal": "Removing stuck piece from the knife",
+                    "start_timestamp": 577,
+                    "stop_timestamp": 622
+                },
+                {
+                    "secondary_subgoal": "Continue chopping the onion piece",
+                    "start_timestamp": 622,
+                    "stop_timestamp": 1069
+                },
+                {
+                    "secondary_subgoal": "Picking and placing another onion piece on the board",
+                    "start_timestamp": 1114,
+                    "stop_timestamp": 1138
+                },
+                {
+                    "secondary_subgoal": "Chopping another onion piece",
+                    "start_timestamp": 1138,
+                    "stop_timestamp": 1737
+                }
+            ]
+        },
+        {
+            "subgoal": "Finishing the chopping process",
+            "start_timestamp": 1911,
+            "stop_timestamp": 2056,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Putting down the knife and preparing to clean",
+                    "start_timestamp": 1911,
+                    "stop_timestamp": 1956
+                },
+                {
+                    "secondary_subgoal": "Lifting hands, possibly to wash or clean",
+                    "start_timestamp": 1956,
+                    "stop_timestamp": 2056
+                }
+            ]
+        }
+    ]
+}

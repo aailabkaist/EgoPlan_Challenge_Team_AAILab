@@ -1,0 +1,213 @@
+{
+    "overall_goal": "Prepare and serve tacos with various toppings.",
+    "clips": [
+        {
+            "subgoal": "Initial preparation and cooking tasks",
+            "start_timestamp": 0,
+            "stop_timestamp": 3509,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walking to the kitchen",
+                    "start_timestamp": 1,
+                    "stop_timestamp": 228
+                },
+                {
+                    "secondary_subgoal": "Opening oven",
+                    "start_timestamp": 228,
+                    "stop_timestamp": 265
+                },
+                {
+                    "secondary_subgoal": "Closing oven",
+                    "start_timestamp": 265,
+                    "stop_timestamp": 354
+                },
+                {
+                    "secondary_subgoal": "Preparing ingredients",
+                    "start_timestamp": 354,
+                    "stop_timestamp": 968
+                },
+                {
+                    "secondary_subgoal": "Cutting and stirring food",
+                    "start_timestamp": 968,
+                    "stop_timestamp": 1381
+                },
+                {
+                    "secondary_subgoal": "Serving food in a bowl",
+                    "start_timestamp": 1381,
+                    "stop_timestamp": 1796
+                },
+                {
+                    "secondary_subgoal": "Preparing tomatoes on pan",
+                    "start_timestamp": 1796,
+                    "stop_timestamp": 2349
+                },
+                {
+                    "secondary_subgoal": "Miscellaneous kitchen tasks",
+                    "start_timestamp": 2349,
+                    "stop_timestamp": 3509
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing beverage and ice",
+            "start_timestamp": 3713,
+            "stop_timestamp": 4615,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening the fridge and picking the tray",
+                    "start_timestamp": 4032,
+                    "stop_timestamp": 4234
+                },
+                {
+                    "secondary_subgoal": "Putting ice in the bottle",
+                    "start_timestamp": 4234,
+                    "stop_timestamp": 4458
+                },
+                {
+                    "secondary_subgoal": "Putting the tray back in the fridge",
+                    "start_timestamp": 4458,
+                    "stop_timestamp": 4519
+                },
+                {
+                    "secondary_subgoal": "Pouring water in the bottle and walking to the counter",
+                    "start_timestamp": 4519,
+                    "stop_timestamp": 4783
+                }
+            ]
+        },
+        {
+            "subgoal": "Further preparing ingredients and oven tasks",
+            "start_timestamp": 4783,
+            "stop_timestamp": 5033,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preparing tomatoes with spatula",
+                    "start_timestamp": 5000,
+                    "stop_timestamp": 5252
+                },
+                {
+                    "secondary_subgoal": "Removing taco from oven",
+                    "start_timestamp": 5252,
+                    "stop_timestamp": 5470
+                },
+                {
+                    "secondary_subgoal": "Putting taco back in oven",
+                    "start_timestamp": 5470,
+                    "stop_timestamp": 5936
+                },
+                {
+                    "secondary_subgoal": "Adjusting cooker knob",
+                    "start_timestamp": 5936,
+                    "stop_timestamp": 6062
+                }
+            ]
+        },
+        {
+            "subgoal": "Serving tomato and cleaning pan",
+            "start_timestamp": 6062,
+            "stop_timestamp": 7939,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Serving tomato and cleaning kitchen tools",
+                    "start_timestamp": 6062,
+                    "stop_timestamp": 6513
+                },
+                {
+                    "secondary_subgoal": "Picking and cleaning with a bottle",
+                    "start_timestamp": 6513,
+                    "stop_timestamp": 6684
+                },
+                {
+                    "secondary_subgoal": "Sprinkling on tomato",
+                    "start_timestamp": 6684,
+                    "stop_timestamp": 7067
+                },
+                {
+                    "secondary_subgoal": "Cleaning the pan",
+                    "start_timestamp": 7067,
+                    "stop_timestamp": 7939
+                }
+            ]
+        },
+        {
+            "subgoal": "Turning off oven and final dish preparation",
+            "start_timestamp": 7962,
+            "stop_timestamp": 8795,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Final touches on tacos",
+                    "start_timestamp": 7962,
+                    "stop_timestamp": 8575
+                },
+                {
+                    "secondary_subgoal": "Serving final taco dish",
+                    "start_timestamp": 8575,
+                    "stop_timestamp": 8795
+                }
+            ]
+        },
+        {
+            "subgoal": "Scooping and adding food onto taco",
+            "start_timestamp": 8795,
+            "stop_timestamp": 9649,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Scooping food onto tacos",
+                    "start_timestamp": 8879,
+                    "stop_timestamp": 9575
+                },
+                {
+                    "secondary_subgoal": "Shaking and lifting spoon",
+                    "start_timestamp": 9575,
+                    "stop_timestamp": 9649
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding cheese to the tacos",
+            "start_timestamp": 9733,
+            "stop_timestamp": 10699,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fetching cheese from fridge and sprinkling on tacos",
+                    "start_timestamp": 9733,
+                    "stop_timestamp": 10073
+                },
+                {
+                    "secondary_subgoal": "Fetching more cheese and sprinkling",
+                    "start_timestamp": 10073,
+                    "stop_timestamp": 10699
+                }
+            ]
+        },
+        {
+            "subgoal": "Final wrapping and placing taco on the tray",
+            "start_timestamp": 10699,
+            "stop_timestamp": 12240,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wrap tacos and put them on the tray",
+                    "start_timestamp": 10699,
+                    "stop_timestamp": 11986
+                },
+                {
+                    "secondary_subgoal": "Cleaning the bowl and spatula",
+                    "start_timestamp": 11986,
+                    "stop_timestamp": 12240
+                }
+            ]
+        },
+        {
+            "subgoal": "Carrying the bowl",
+            "start_timestamp": 12226,
+            "stop_timestamp": 12326,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Carrying bowl",
+                    "start_timestamp": 12226,
+                    "stop_timestamp": 12326
+                }
+            ]
+        }
+    ]
+}

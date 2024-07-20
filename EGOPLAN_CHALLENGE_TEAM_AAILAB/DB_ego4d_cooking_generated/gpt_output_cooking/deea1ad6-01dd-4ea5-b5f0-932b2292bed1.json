@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dg65VrzMvIbR7V4svyF0OsfbMsO7",
+    "object": "chat.completion",
+    "created": 1719243641,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal involving mince meat, milk, eggs, vegetables, and bread.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare the mince meat\",\n      \"start_timestamp\": 75,\n      \"stop_timestamp\": 2996,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and prepare the sufuria\",\n          \"start_timestamp\": 75,\n          \"stop_timestamp\": 277\n        },\n        {\n          \"secondary_subgoal\": \"Open the tin of mince meat and prepare it\",\n          \"start_timestamp\": 277,\n          \"stop_timestamp\": 2347\n        },\n        {\n          \"secondary_subgoal\": \"Rinse and put the mince meat in the sufuria\",\n          \"start_timestamp\": 2347,\n          \"stop_timestamp\": 2834\n        },\n        {\n          \"secondary_subgoal\": \"Store the remaining mince meat\",\n          \"start_timestamp\": 2834,\n          \"stop_timestamp\": 2996\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare the cooking environment\",\n      \"start_timestamp\": 2996,\n      \"stop_timestamp\": 4089,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Adjust the gas and open the milk\",\n          \"start_timestamp\": 3327,\n          \"stop_timestamp\": 3822\n        },\n        {\n          \"secondary_subgoal\": \"Pour the milk in the sufuria\",\n          \"start_timestamp\": 3901,\n          \"stop_timestamp\": 4089\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean and prepare the kitchenware\",\n      \"start_timestamp\": 4257,\n      \"stop_timestamp\": 5693,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash and clean the pan\",\n          \"start_timestamp\": 4257,\n          \"stop_timestamp\": 5471\n        },\n        {\n          \"secondary_subgoal\": \"Organize the pan and other utensils\",\n          \"start_timestamp\": 5471,\n          \"stop_timestamp\": 5693\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare the eggs\",\n      \"start_timestamp\": 5693,\n      \"stop_timestamp\": 9647,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Break and stir the eggs\",\n          \"start_timestamp\": 5967,\n          \"stop_timestamp\": 6963\n        },\n        {\n          \"secondary_subgoal\": \"Prepare the bread and other ingredients\",\n          \"start_timestamp\": 7097,\n          \"stop_timestamp\": 8757\n        },\n        {\n          \"secondary_subgoal\": \"Cook the eggs\",\n          \"start_timestamp\": 9647,\n          \"stop_timestamp\": 10268\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Mix the mince meat\",\n      \"start_timestamp\": 10679,\n      \"stop_timestamp\": 12780,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Mix mince meat\",\n          \"start_timestamp\": 10679,\n          \"stop_timestamp\": 12561\n        },\n        {\n          \"secondary_subgoal\": \"Season the mince meat\",\n          \"start_timestamp\": 12588,\n          \"stop_timestamp\": 12780\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare the vegetables and add to the dish\",\n      \"start_timestamp\": 15041,\n      \"stop_timestamp\": 20814,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash and prepare the cabbage\",\n          \"start_timestamp\": 15041,\n          \"stop_timestamp\": 16560\n        },\n        {\n          \"secondary_subgoal\": \"Prepare and add tomatoes\",\n          \"start_timestamp\": 16945,\n          \"stop_timestamp\": 18332\n        },\n        {\n          \"secondary_subgoal\": \"Add slices of bread and cook with egg\",\n          \"start_timestamp\": 18406,\n          \"stop_timestamp\": 19467\n        },\n        {\n          \"secondary_subgoal\": \"Finish preparing and serving the meal\",\n          \"start_timestamp\": 19960,\n          \"stop_timestamp\": 20814\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 5558,
+        "completion_tokens": 902,
+        "total_tokens": 6460
+    },
+    "system_fingerprint": "fp_888385ccad"
+}

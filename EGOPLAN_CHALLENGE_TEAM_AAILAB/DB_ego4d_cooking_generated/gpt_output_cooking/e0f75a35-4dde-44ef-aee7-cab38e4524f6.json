@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efoNFgpq8nJERBlYcX62MI7rqrlS",
+    "object": "chat.completion",
+    "created": 1719480871,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and cooking food, specifically potatoes and bread, while interacting with people and managing various kitchen tasks.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing potatoes for cooking\",\n      \"start_timestamp\": 54481,\n      \"stop_timestamp\": 69381,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gathering and handling kitchen utensils\",\n          \"start_timestamp\": 54481,\n          \"stop_timestamp\": 56211\n        },\n        {\n          \"secondary_subgoal\": \"Washing and peeling potatoes\",\n          \"start_timestamp\": 56211,\n          \"stop_timestamp\": 61171\n        },\n        {\n          \"secondary_subgoal\": \"Interacting and washing utensils\",\n          \"start_timestamp\": 61171,\n          \"stop_timestamp\": 69381\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking and mashing potatoes\",\n      \"start_timestamp\": 69381,\n      \"stop_timestamp\": 72004,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Mashing and mixing potatoes\",\n          \"start_timestamp\": 69381,\n          \"stop_timestamp\": 71214\n        },\n        {\n          \"secondary_subgoal\": \"Operating the cooker and clean-up\",\n          \"start_timestamp\": 71214,\n          \"stop_timestamp\": 72004\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Kneading and preparing dough for bread\",\n      \"start_timestamp\": 72004,\n      \"stop_timestamp\": 154708,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Kneading dough\",\n          \"start_timestamp\": 72004,\n          \"stop_timestamp\": 131362\n        },\n        {\n          \"secondary_subgoal\": \"Interacting and preparing dough\",\n          \"start_timestamp\": 131362,\n          \"stop_timestamp\": 143876\n        },\n        {\n          \"secondary_subgoal\": \"Preparing bread and leveling oil\",\n          \"start_timestamp\": 143876,\n          \"stop_timestamp\": 154708\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finalizing bread preparation\",\n      \"start_timestamp\": 154708,\n      \"stop_timestamp\": 161177,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turning bread and final touches\",\n          \"start_timestamp\": 154708,\n          \"stop_timestamp\": 160741\n        },\n        {\n          \"secondary_subgoal\": \"Interacting and adjusting bread\",\n          \"start_timestamp\": 160741,\n          \"stop_timestamp\": 161177\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 8025,
+        "completion_tokens": 563,
+        "total_tokens": 8588
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

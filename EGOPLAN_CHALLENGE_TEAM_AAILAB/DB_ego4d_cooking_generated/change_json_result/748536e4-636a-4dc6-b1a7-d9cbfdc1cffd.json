@@ -1,0 +1,98 @@
+{
+    "overall_goal": "Prepare diced mangoes and place them in a cooking pot",
+    "clips": [
+        {
+            "subgoal": "Look around the room and start preparing mangoes",
+            "start_timestamp": 56,
+            "stop_timestamp": 319,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look around the room",
+                    "start_timestamp": 56,
+                    "stop_timestamp": 108
+                },
+                {
+                    "secondary_subgoal": "Move around to pick a mango",
+                    "start_timestamp": 108,
+                    "stop_timestamp": 229
+                },
+                {
+                    "secondary_subgoal": "Pick a mango",
+                    "start_timestamp": 229,
+                    "stop_timestamp": 319
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut mangoes into slices",
+            "start_timestamp": 319,
+            "stop_timestamp": 32997,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and use the knife to cut the mango",
+                    "start_timestamp": 319,
+                    "stop_timestamp": 401
+                },
+                {
+                    "secondary_subgoal": "Cut and peel the mango",
+                    "start_timestamp": 401,
+                    "stop_timestamp": 499
+                },
+                {
+                    "secondary_subgoal": "Put mango peel on the tray and continue cutting",
+                    "start_timestamp": 499,
+                    "stop_timestamp": 808
+                },
+                {
+                    "secondary_subgoal": "Place sliced mango aside",
+                    "start_timestamp": 808,
+                    "stop_timestamp": 847
+                },
+                {
+                    "secondary_subgoal": "Additional slicing and organizing",
+                    "start_timestamp": 847,
+                    "stop_timestamp": 32997
+                }
+            ]
+        },
+        {
+            "subgoal": "Dice mangoes and place them in a cooking pot",
+            "start_timestamp": 32997,
+            "stop_timestamp": 44783,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Dice mangoes with knife",
+                    "start_timestamp": 32997,
+                    "stop_timestamp": 35809
+                },
+                {
+                    "secondary_subgoal": "Transfer diced mangoes to pot",
+                    "start_timestamp": 35809,
+                    "stop_timestamp": 41487
+                },
+                {
+                    "secondary_subgoal": "Continue dicing and transferring mangos",
+                    "start_timestamp": 41487,
+                    "stop_timestamp": 44783
+                }
+            ]
+        },
+        {
+            "subgoal": "Final touches and cleanup",
+            "start_timestamp": 44783,
+            "stop_timestamp": 44981,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold the camera and knife",
+                    "start_timestamp": 44783,
+                    "stop_timestamp": 44881
+                },
+                {
+                    "secondary_subgoal": "Hold the mango",
+                    "start_timestamp": 44881,
+                    "stop_timestamp": 44981
+                }
+            ]
+        }
+    ]
+}

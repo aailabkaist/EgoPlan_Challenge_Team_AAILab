@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehFrbrba7wIrDr7gByJ95Q4CRVSI",
+    "object": "chat.completion",
+    "created": 1719486419,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n   \"overall_goal\":\"Explore and observe the kitchen environment\",\n   \"clips\":[\n      {\n         \"subgoal\":\"Observing kitchen layout and looking for items\",\n         \"start_timestamp\":15,\n         \"stop_timestamp\":612,\n         \"sub_clips\":[\n            {\n               \"secondary_subgoal\":\"Scanning the kitchen environment\",\n               \"start_timestamp\":15,\n               \"stop_timestamp\":297\n            },\n            {\n               \"secondary_subgoal\":\"Moving around the kitchen to observe different areas\",\n               \"start_timestamp\":297,\n               \"stop_timestamp\":512\n            },\n            {\n               \"secondary_subgoal\":\"Further observing the kitchen environment\",\n               \"start_timestamp\":512,\n               \"stop_timestamp\":612\n            }\n         ]\n      }\n   ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 322,
+        "completion_tokens": 158,
+        "total_tokens": 480
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

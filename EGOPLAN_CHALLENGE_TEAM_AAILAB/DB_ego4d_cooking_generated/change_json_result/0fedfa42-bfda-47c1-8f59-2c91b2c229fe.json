@@ -1,0 +1,166 @@
+{
+    "overall_goal": "Prepare a baked vegetable dish with a side of French fries and a separate apple-based dish.",
+    "clips": [
+        {
+            "subgoal": "Gather initial ingredients and tools required for preparing vegetables.",
+            "start_timestamp": "49",
+            "stop_timestamp": "1560",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve vegetables from the cupboard.",
+                    "start_timestamp": "49",
+                    "stop_timestamp": "701"
+                },
+                {
+                    "secondary_subgoal": "Retrieve necessary tools from the kitchen drawers and cupboards.",
+                    "start_timestamp": "701",
+                    "stop_timestamp": "1560"
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare vegetables by peeling and washing them.",
+            "start_timestamp": "1560",
+            "stop_timestamp": "7869",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel the vegetables.",
+                    "start_timestamp": "1560",
+                    "stop_timestamp": "7869"
+                }
+            ]
+        },
+        {
+            "subgoal": "Gather tools and ingredients to chop the vegetables.",
+            "start_timestamp": "7869",
+            "stop_timestamp": "8557",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve the knife from the fridge.",
+                    "start_timestamp": "8347",
+                    "stop_timestamp": "8557"
+                }
+            ]
+        },
+        {
+            "subgoal": "Chop vegetables.",
+            "start_timestamp": "8557",
+            "stop_timestamp": "14791",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Chop various vegetables progressively.",
+                    "start_timestamp": "8557",
+                    "stop_timestamp": "14791"
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook the sweet potatoes.",
+            "start_timestamp": "17809",
+            "stop_timestamp": "21886",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather pot and prepare sweet potatoes.",
+                    "start_timestamp": "17809",
+                    "stop_timestamp": "18803"
+                },
+                {
+                    "secondary_subgoal": "Cook sweet potatoes in the oven.",
+                    "start_timestamp": "18803",
+                    "stop_timestamp": "21886"
+                }
+            ]
+        },
+        {
+            "subgoal": "Peel and chop onions and garlic, also clean surroundings.",
+            "start_timestamp": "23800",
+            "stop_timestamp": "32662",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle trash and clean the counter.",
+                    "start_timestamp": "24219",
+                    "stop_timestamp": "24812"
+                },
+                {
+                    "secondary_subgoal": "Peel and chop onions.",
+                    "start_timestamp": "25814",
+                    "stop_timestamp": "30600"
+                },
+                {
+                    "secondary_subgoal": "Peel and chop garlic.",
+                    "start_timestamp": "30955",
+                    "stop_timestamp": "32662"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking activities connected to the pot.",
+            "start_timestamp": "33009",
+            "stop_timestamp": "54855",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather pot and ingredients, and start cooking.",
+                    "start_timestamp": "33009",
+                    "stop_timestamp": "38791"
+                },
+                {
+                    "secondary_subgoal": "Use oven for cooking potatoes.",
+                    "start_timestamp": "39444",
+                    "stop_timestamp": "42422"
+                },
+                {
+                    "secondary_subgoal": "Classify kitchen space and wash hands.",
+                    "start_timestamp": "42833",
+                    "stop_timestamp": "43440"
+                },
+                {
+                    "secondary_subgoal": "Peel and prepare apples.",
+                    "start_timestamp": "47008",
+                    "stop_timestamp": "54855"
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare an apple-based mixture and bake it.",
+            "start_timestamp": "55934",
+            "stop_timestamp": "111913",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Continued peeling and chopping apples.",
+                    "start_timestamp": "55934",
+                    "stop_timestamp": "78695"
+                },
+                {
+                    "secondary_subgoal": "Gather materials for baking and prepare a mixture.",
+                    "start_timestamp": "78766",
+                    "stop_timestamp": "91182"
+                },
+                {
+                    "secondary_subgoal": "Prepare the baking tin.",
+                    "start_timestamp": "91214",
+                    "stop_timestamp": "92804"
+                },
+                {
+                    "secondary_subgoal": "Put the mixture into the baking tin and finalize.",
+                    "start_timestamp": "94068",
+                    "stop_timestamp": "101967"
+                },
+                {
+                    "secondary_subgoal": "Wash hands and prepare for the next stage.",
+                    "start_timestamp": "102178",
+                    "stop_timestamp": "102542"
+                },
+                {
+                    "secondary_subgoal": "Add apples and finalize the mixture.",
+                    "start_timestamp": "103253",
+                    "stop_timestamp": "109259"
+                },
+                {
+                    "secondary_subgoal": "Baking the apple mixture.",
+                    "start_timestamp": "111355",
+                    "stop_timestamp": "111913"
+                }
+            ]
+        }
+    ]
+}

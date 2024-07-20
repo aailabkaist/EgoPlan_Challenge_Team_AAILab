@@ -1,0 +1,76 @@
+{
+    "overall_goal": "Prepare and handle dough for cooking or baking purposes using tools like packing paper and a knife, and then proceed to another location.",
+    "clips": [
+        {
+            "subgoal": "Prepare the dough by hitting, cutting, and rolling it on the table.",
+            "start_timestamp": 45,
+            "stop_timestamp": 4477,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Begin by preparing the area and handling the dough.",
+                    "start_timestamp": 45,
+                    "stop_timestamp": 131
+                },
+                {
+                    "secondary_subgoal": "Move and hit the dough to shape it.",
+                    "start_timestamp": 131,
+                    "stop_timestamp": 278
+                },
+                {
+                    "secondary_subgoal": "Cut the dough using a knife.",
+                    "start_timestamp": 278,
+                    "stop_timestamp": 452
+                },
+                {
+                    "secondary_subgoal": "Move and handle the dough pieces.",
+                    "start_timestamp": 452,
+                    "stop_timestamp": 1574
+                },
+                {
+                    "secondary_subgoal": "Roll the dough on the table with hands.",
+                    "start_timestamp": 1574,
+                    "stop_timestamp": 3604
+                },
+                {
+                    "secondary_subgoal": "Continue rubbing and rolling the dough.",
+                    "start_timestamp": 3604,
+                    "stop_timestamp": 4477
+                }
+            ]
+        },
+        {
+            "subgoal": "Place the dough on packing paper for further handling.",
+            "start_timestamp": 4477,
+            "stop_timestamp": 8572,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare the packing paper on the table.",
+                    "start_timestamp": 4477,
+                    "stop_timestamp": 4558
+                },
+                {
+                    "secondary_subgoal": "Place the dough on the packing paper.",
+                    "start_timestamp": 4558,
+                    "stop_timestamp": 8572
+                }
+            ]
+        },
+        {
+            "subgoal": "Move towards the stairs and adjust the camera setup.",
+            "start_timestamp": 8572,
+            "stop_timestamp": 8908,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk around and climb the stairs.",
+                    "start_timestamp": 8644,
+                    "stop_timestamp": 8695
+                },
+                {
+                    "secondary_subgoal": "Raise the hand and adjust the camera.",
+                    "start_timestamp": 8716,
+                    "stop_timestamp": 8908
+                }
+            ]
+        }
+    ]
+}

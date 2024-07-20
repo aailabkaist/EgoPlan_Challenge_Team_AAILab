@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehFN5O7VZY7kGZEZkBN0h291Mtmv",
+    "object": "chat.completion",
+    "created": 1719486389,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Preparing and cleaning up after cooking a meal\", \n    \"clips\": [\n        {\n            \"subgoal\": \"Preparing cooking materials and adding food\", \n            \"start_timestamp\": 81, \n            \"stop_timestamp\": 1742, \n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Cutting and preparing paper\", \n                    \"start_timestamp\": 81, \n                    \"stop_timestamp\": 724\n                },\n                {\n                    \"secondary_subgoal\": \"Filling plastic glass with water\", \n                    \"start_timestamp\": 724, \n                    \"stop_timestamp\": 884\n                },\n                {\n                    \"secondary_subgoal\": \"Mixing food and adjusting cooker\", \n                    \"start_timestamp\": 884, \n                    \"stop_timestamp\": 1742\n                }\n            ]\n        }, \n        {\n            \"subgoal\": \"Cooking the food\", \n            \"start_timestamp\": 1742, \n            \"stop_timestamp\": 2027, \n            \"sub_clips\": [    \n                {\n                    \"secondary_subgoal\": \"Adjusting cooker and cooking food\", \n                    \"start_timestamp\": 1742, \n                    \"stop_timestamp\": 2027\n                }\n            ]\n        }, \n        {\n            \"subgoal\": \"Covering the food and cleaning utensils\", \n            \"start_timestamp\": 2027, \n            \"stop_timestamp\": 6746, \n            \"sub_clips\": [    \n                {\n                    \"secondary_subgoal\": \"Covering food and initial cleaning\", \n                    \"start_timestamp\": 2027, \n                    \"stop_timestamp\": 2543\n                },\n                {\n                    \"secondary_subgoal\": \"Washing utensils\", \n                    \"start_timestamp\": 2543, \n                    \"stop_timestamp\": 6633\n                },\n                {\n                    \"secondary_subgoal\": \"Adjusting cooker\", \n                    \"start_timestamp\": 6633, \n                    \"stop_timestamp\": 6746\n                }\n            ]\n        }, \n        {\n            \"subgoal\": \"Final clean-up\", \n            \"start_timestamp\": 6746, \n            \"stop_timestamp\": 7639, \n            \"sub_clips\": [    \n                {\n                    \"secondary_subgoal\": \"Wiping various utensils and surfaces\", \n                    \"start_timestamp\": 6746, \n                    \"stop_timestamp\": 7539\n                },\n                {\n                    \"secondary_subgoal\": \"Looking around and final touches\", \n                    \"start_timestamp\": 7539, \n                    \"stop_timestamp\": 7639\n                }\n            ]\n        }\n    ]\n}\n```\n\n**Explanation**:\n1. **Overall Goal**: Utilize timestamps to identify the overall goal of the actor, which is cooking a meal and cleaning up afterward.\n2. **Subgoals and Clips**: Segment the video into clips (subgoals) based on relevance to the overall goal. Each clip contains related actions.\n3. **Secondary Subgoals and Sub-clips**: Further segment clips into sub-clips that align with specific, detailed actions within a confined functional area."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1375,
+        "completion_tokens": 646,
+        "total_tokens": 2021
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

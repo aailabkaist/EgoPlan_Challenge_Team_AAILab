@@ -1,0 +1,81 @@
+{
+    "overall_goal": "Prepare and cook food using various kitchen appliances and tools",
+    "clips": [
+        {
+            "subgoal": "Prepare the pod",
+            "start_timestamp": 313,
+            "stop_timestamp": 1544,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and wash the pod",
+                    "start_timestamp": 313,
+                    "stop_timestamp": 890
+                },
+                {
+                    "secondary_subgoal": "Prepare the pod by slicing and removing seeds",
+                    "start_timestamp": 955,
+                    "stop_timestamp": 1544
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook using the stove",
+            "start_timestamp": 2331,
+            "stop_timestamp": 36136,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk and take spoon and cook on stove",
+                    "start_timestamp": 2331,
+                    "stop_timestamp": 28691
+                },
+                {
+                    "secondary_subgoal": "Slice and process the pods on a surface",
+                    "start_timestamp": 3053,
+                    "stop_timestamp": 21193
+                },
+                {
+                    "secondary_subgoal": "Grate coconut on a coconut grinder",
+                    "start_timestamp": 15594,
+                    "stop_timestamp": 20955
+                },
+                {
+                    "secondary_subgoal": "Prepare coconut for blending and clean cooking area",
+                    "start_timestamp": 26141,
+                    "stop_timestamp": 29028
+                },
+                {
+                    "secondary_subgoal": "Blow, mix and wash food",
+                    "start_timestamp": 29500,
+                    "stop_timestamp": 36136
+                }
+            ]
+        },
+        {
+            "subgoal": "Grind and stir food with other ingredients",
+            "start_timestamp": 36457,
+            "stop_timestamp": 74044,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Grind coconut",
+                    "start_timestamp": 36457,
+                    "stop_timestamp": 40730
+                },
+                {
+                    "secondary_subgoal": "Walk and interact with fridge, cooker, other containers",
+                    "start_timestamp": 41200,
+                    "stop_timestamp": 54010
+                },
+                {
+                    "secondary_subgoal": "Clean cooking utensils and wash hands",
+                    "start_timestamp": 55049,
+                    "stop_timestamp": 63521
+                },
+                {
+                    "secondary_subgoal": "Cook and grind food with multiple ingredients",
+                    "start_timestamp": 70156,
+                    "stop_timestamp": 74044
+                }
+            ]
+        }
+    ]
+}

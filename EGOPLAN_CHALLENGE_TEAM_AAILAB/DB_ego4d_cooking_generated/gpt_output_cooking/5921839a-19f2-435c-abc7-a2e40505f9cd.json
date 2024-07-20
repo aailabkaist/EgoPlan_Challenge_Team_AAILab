@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehMLVvcZUKlpkJSdhIOgOEI5oao4",
+    "object": "chat.completion",
+    "created": 1719486821,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cleaning and organizing the kitchen\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Cleaning the sink and countertop\",\n      \"start_timestamp\": 25,\n      \"stop_timestamp\": 1099,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wiping the sink\",\n          \"start_timestamp\": 25,\n          \"stop_timestamp\": 90\n        },\n        {\n          \"secondary_subgoal\": \"Rinsing and folding the towel\",\n          \"start_timestamp\": 90,\n          \"stop_timestamp\": 314\n        },\n        {\n          \"secondary_subgoal\": \"Squeezing and placing the towel\",\n          \"start_timestamp\": 314,\n          \"stop_timestamp\": 521\n        },\n        {\n          \"secondary_subgoal\": \"Manipulating the tap and rinsing hands\",\n          \"start_timestamp\": 521,\n          \"stop_timestamp\": 663\n        },\n        {\n          \"secondary_subgoal\": \"Handling the towel\",\n          \"start_timestamp\": 663,\n          \"stop_timestamp\": 877\n        },\n        {\n          \"secondary_subgoal\": \"Drying hands with hand towel\",\n          \"start_timestamp\": 1099,\n          \"stop_timestamp\": 1254\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Disposing of litter\",\n      \"start_timestamp\": 1254,\n      \"stop_timestamp\": 1788,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handling the clear vinyl cover containing litter\",\n          \"start_timestamp\": 1254,\n          \"stop_timestamp\": 1452\n        },\n        {\n          \"secondary_subgoal\": \"Tying and disposing of the clear vinyl cover containing litter\",\n          \"start_timestamp\": 1452,\n          \"stop_timestamp\": 1788\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Organizing and preparing kitchen for cooking\",\n      \"start_timestamp\": 1788,\n      \"stop_timestamp\": 2638,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Placing bottles\",\n          \"start_timestamp\": 1788,\n          \"stop_timestamp\": 1957\n        },\n        {\n          \"secondary_subgoal\": \"Interacting with the cooking pot\",\n          \"start_timestamp\": 1957,\n          \"stop_timestamp\": 2287\n        },\n        {\n          \"secondary_subgoal\": \"Wiping countertop and switching off the cooker\",\n          \"start_timestamp\": 2287,\n          \"stop_timestamp\": 2508\n        },\n        {\n          \"secondary_subgoal\": \"Walking and staring at the sink\",\n          \"start_timestamp\": 2508,\n          \"stop_timestamp\": 2638\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 974,
+        "completion_tokens": 580,
+        "total_tokens": 1554
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

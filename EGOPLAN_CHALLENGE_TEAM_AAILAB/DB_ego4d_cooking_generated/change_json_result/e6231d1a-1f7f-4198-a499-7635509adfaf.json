@@ -1,0 +1,121 @@
+{
+    "overall_goal": "Prepare a maize dish by blending maize corns and adding pepper",
+    "clips": [
+        {
+            "subgoal": "Load maize corns into the blender",
+            "start_timestamp": 59,
+            "stop_timestamp": 3120,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjust the blender",
+                    "start_timestamp": 25,
+                    "stop_timestamp": 59
+                },
+                {
+                    "secondary_subgoal": "Load maize corns into the blender",
+                    "start_timestamp": 59,
+                    "stop_timestamp": 3120,
+                    "actions": [
+                        {
+                            "secondary_subgoal": "Pick and put maize corns into the blender",
+                            "start_timestamp": 474,
+                            "stop_timestamp": 3110,
+                            "sub_clips": [
+                                {
+                                    "secondary_subgoal": "Put maize corns inside the blender",
+                                    "start_timestamp": 474,
+                                    "stop_timestamp": 3110
+                                }
+                            ]
+                        },
+                        {
+                            "secondary_subgoal": "Hold the cooking pot",
+                            "start_timestamp": 1011,
+                            "stop_timestamp": 1353,
+                            "sub_clips": [
+                                {
+                                    "secondary_subgoal": "Hold the cooking pot with both hands",
+                                    "start_timestamp": 1011,
+                                    "stop_timestamp": 1304
+                                },
+                                {
+                                    "secondary_subgoal": "Pick the spoon and remove stuck corns",
+                                    "start_timestamp": 1304,
+                                    "stop_timestamp": 1353
+                                }
+                            ]
+                        },
+                        {
+                            "secondary_subgoal": "Remove stuck corns from inside the blender",
+                            "start_timestamp": 1353,
+                            "stop_timestamp": 1799,
+                            "sub_clips": [
+                                {
+                                    "secondary_subgoal": "Remove stuck corns with a spoon",
+                                    "start_timestamp": 1353,
+                                    "stop_timestamp": 1629
+                                },
+                                {
+                                    "secondary_subgoal": "Inspect and place the spoon",
+                                    "start_timestamp": 1629,
+                                    "stop_timestamp": 1799
+                                }
+                            ]
+                        },
+                        {
+                            "secondary_subgoal": "Continue loading maize corns",
+                            "start_timestamp": 2624,
+                            "stop_timestamp": 3120,
+                            "sub_clips": [
+                                {
+                                    "secondary_subgoal": "Pick and put more maize corns into the blender",
+                                    "start_timestamp": 2624,
+                                    "stop_timestamp": 3110
+                                },
+                                {
+                                    "secondary_subgoal": "Hold cooking pot",
+                                    "start_timestamp": 3110,
+                                    "stop_timestamp": 3120
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subgoal": "Add pepper and ensure all ingredients are blended",
+            "start_timestamp": 3218,
+            "stop_timestamp": 7757,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add pepper into the blender",
+                    "start_timestamp": 3218,
+                    "stop_timestamp": 3384
+                },
+                {
+                    "secondary_subgoal": "Remove stuck maize corns inside the blender",
+                    "start_timestamp": 3510,
+                    "stop_timestamp": 7657,
+                    "sub_clips": [
+                        {
+                            "secondary_subgoal": "Remove stuck maize corns with a spoon",
+                            "start_timestamp": 3510,
+                            "stop_timestamp": 7597
+                        },
+                        {
+                            "secondary_subgoal": "Put spoon inside cooking pot",
+                            "start_timestamp": 7597,
+                            "stop_timestamp": 7657
+                        }
+                    ]
+                },
+                {
+                    "secondary_subgoal": "Put the lid on the blender",
+                    "start_timestamp": 7657,
+                    "stop_timestamp": 7757
+                }
+            ]
+        }
+    ]
+}

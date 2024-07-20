@@ -1,0 +1,462 @@
+[
+    {
+        "task_goal": "Collect and place item on the kitchen surface",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves around the kitchen",
+                "start_frame": 1,
+                "stop_frame": 300
+            },
+            {
+                "narration_text": "#C C opens drawer",
+                "start_frame": 300,
+                "stop_frame": 427
+            },
+            {
+                "narration_text": "#C C picks a plate",
+                "start_frame": 427,
+                "stop_frame": 458
+            },
+            {
+                "narration_text": "#C C closes the drawer",
+                "start_frame": 458,
+                "stop_frame": 521
+            },
+            {
+                "narration_text": "#C C puts a plate on the kitchen surface",
+                "start_frame": 521,
+                "stop_frame": 587
+            },
+            {
+                "narration_text": "#C C makes a move",
+                "start_frame": 587,
+                "stop_frame": 627
+            }
+        ]
+    },
+    {
+        "task_goal": "Collect and peel bitrades",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C makes a move",
+                "start_frame": 587,
+                "stop_frame": 627
+            },
+            {
+                "narration_text": "#C C opens drawer",
+                "start_frame": 627,
+                "stop_frame": 676
+            },
+            {
+                "narration_text": "#C C picks a pillar",
+                "start_frame": 676,
+                "stop_frame": 886
+            },
+            {
+                "narration_text": "#C C pills bitrades",
+                "start_frame": 886,
+                "stop_frame": 3019
+            },
+            {
+                "narration_text": "#C C makes a move",
+                "start_frame": 3019,
+                "stop_frame": 3066
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut and clean bitrades",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C makes a move",
+                "start_frame": 3019,
+                "stop_frame": 3066
+            },
+            {
+                "narration_text": "#C C picks a knife from the kitchen surface",
+                "start_frame": 3066,
+                "stop_frame": 3156
+            },
+            {
+                "narration_text": "#C C cuts bitrades",
+                "start_frame": 3156,
+                "stop_frame": 3324
+            },
+            {
+                "narration_text": "#C C puts knife on the surface",
+                "start_frame": 3324,
+                "stop_frame": 3385
+            },
+            {
+                "narration_text": "#C C cleans leftovers",
+                "start_frame": 3385,
+                "stop_frame": 3494
+            },
+            {
+                "narration_text": "#C C puts leftovers in his hands",
+                "start_frame": 3494,
+                "stop_frame": 3661
+            },
+            {
+                "narration_text": "#C C makes a move",
+                "start_frame": 3661,
+                "stop_frame": 3776
+            },
+            {
+                "narration_text": "#C C opens tap",
+                "start_frame": 3776,
+                "stop_frame": 3819
+            },
+            {
+                "narration_text": "#C C washes hands",
+                "start_frame": 3819,
+                "stop_frame": 3891
+            },
+            {
+                "narration_text": "#C C closes tap",
+                "start_frame": 3891,
+                "stop_frame": 3952
+            },
+            {
+                "narration_text": "#C C makes a move",
+                "start_frame": 3952,
+                "stop_frame": 4001
+            },
+            {
+                "narration_text": "#C C wipes hands with a towel",
+                "start_frame": 4001,
+                "stop_frame": 4083
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash and dry hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C makes a move",
+                "start_frame": 3661,
+                "stop_frame": 3776
+            },
+            {
+                "narration_text": "#C C opens tap",
+                "start_frame": 3776,
+                "stop_frame": 3819
+            },
+            {
+                "narration_text": "#C C washes hands",
+                "start_frame": 3819,
+                "stop_frame": 3891
+            },
+            {
+                "narration_text": "#C C closes tap",
+                "start_frame": 3891,
+                "stop_frame": 3952
+            },
+            {
+                "narration_text": "#C C makes a move",
+                "start_frame": 3952,
+                "stop_frame": 4001
+            },
+            {
+                "narration_text": "#C C wipes hands with a towel",
+                "start_frame": 4001,
+                "stop_frame": 4083
+            },
+            {
+                "narration_text": "#C C picks a knife",
+                "start_frame": 4083,
+                "stop_frame": 4227
+            }
+        ]
+    },
+    {
+        "task_goal": "Further cut bitrades and prepare ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a knife",
+                "start_frame": 4083,
+                "stop_frame": 4227
+            },
+            {
+                "narration_text": "#C C cuts bitrades",
+                "start_frame": 4227,
+                "stop_frame": 6204
+            },
+            {
+                "narration_text": "#C C picks bitrades with his hands",
+                "start_frame": 6204,
+                "stop_frame": 6255
+            },
+            {
+                "narration_text": "#C C picks a grater",
+                "start_frame": 6255,
+                "stop_frame": 6284
+            },
+            {
+                "narration_text": "#C C puts grater in the dish",
+                "start_frame": 6284,
+                "stop_frame": 6396
+            },
+            {
+                "narration_text": "#C C opens tap",
+                "start_frame": 6396,
+                "stop_frame": 6412
+            },
+            {
+                "narration_text": "#C C washes hands",
+                "start_frame": 6412,
+                "stop_frame": 6455
+            },
+            {
+                "narration_text": "#C C closes tap",
+                "start_frame": 6455,
+                "stop_frame": 6502
+            },
+            {
+                "narration_text": "#C C makes a move",
+                "start_frame": 6502,
+                "stop_frame": 6549
+            },
+            {
+                "narration_text": "#C C wipes hands with a towel",
+                "start_frame": 6549,
+                "stop_frame": 6669
+            },
+            {
+                "narration_text": "#C C picks a folk from the kitchen surface",
+                "start_frame": 6669,
+                "stop_frame": 6780
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir the mixture",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a folk from the kitchen surface",
+                "start_frame": 6669,
+                "stop_frame": 6780
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 6780,
+                "stop_frame": 7025
+            },
+            {
+                "narration_text": "#C C makes a move",
+                "start_frame": 7025,
+                "stop_frame": 7149
+            },
+            {
+                "narration_text": "#C C picks a lid",
+                "start_frame": 7149,
+                "stop_frame": 7174
+            }
+        ]
+    },
+    {
+        "task_goal": "Cover and move around kitchen",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a lid",
+                "start_frame": 7149,
+                "stop_frame": 7174
+            },
+            {
+                "narration_text": "#C C closes food",
+                "start_frame": 7174,
+                "stop_frame": 7227
+            },
+            {
+                "narration_text": "#C C puts spoon in the sufuria",
+                "start_frame": 7227,
+                "stop_frame": 7321
+            },
+            {
+                "narration_text": "#C C moves around",
+                "start_frame": 7321,
+                "stop_frame": 7424
+            },
+            {
+                "narration_text": "#C C picks gloves",
+                "start_frame": 7424,
+                "stop_frame": 7476
+            },
+            {
+                "narration_text": "#C C holds sufuria",
+                "start_frame": 7476,
+                "stop_frame": 7507
+            },
+            {
+                "narration_text": "#C C moves around",
+                "start_frame": 7507,
+                "stop_frame": 7613
+            },
+            {
+                "narration_text": "#C C drains water in the sink",
+                "start_frame": 7613,
+                "stop_frame": 7791
+            }
+        ]
+    },
+    {
+        "task_goal": "Drain water from sufuria",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves around",
+                "start_frame": 7507,
+                "stop_frame": 7613
+            },
+            {
+                "narration_text": "#C C drains water in the sink",
+                "start_frame": 7613,
+                "stop_frame": 7791
+            },
+            {
+                "narration_text": "#C C moves around",
+                "start_frame": 7791,
+                "stop_frame": 7824
+            },
+            {
+                "narration_text": "#C C closes sufuria",
+                "start_frame": 7824,
+                "stop_frame": 7873
+            }
+        ]
+    },
+    {
+        "task_goal": "Final steps in cooking",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes sufuria",
+                "start_frame": 7824,
+                "stop_frame": 7873
+            },
+            {
+                "narration_text": "#C C drains water in the sink",
+                "start_frame": 7873,
+                "stop_frame": 7971
+            },
+            {
+                "narration_text": "#C C moves around",
+                "start_frame": 7971,
+                "stop_frame": 8058
+            },
+            {
+                "narration_text": "#C C puts sufuria on the table",
+                "start_frame": 8058,
+                "stop_frame": 8090
+            },
+            {
+                "narration_text": "#C C opens sufuria",
+                "start_frame": 8090,
+                "stop_frame": 8129
+            },
+            {
+                "narration_text": "#C C puts gloves on the table",
+                "start_frame": 8129,
+                "stop_frame": 8170
+            },
+            {
+                "narration_text": "#C C stirs a mixture",
+                "start_frame": 8170,
+                "stop_frame": 8235
+            },
+            {
+                "narration_text": "#C C pours mixture in the food",
+                "start_frame": 8235,
+                "stop_frame": 8548
+            },
+            {
+                "narration_text": "#C C puts cup on the table",
+                "start_frame": 8548,
+                "stop_frame": 8595
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 8595,
+                "stop_frame": 8650
+            },
+            {
+                "narration_text": "#C C takes a spoon",
+                "start_frame": 8650,
+                "stop_frame": 8700
+            }
+        ]
+    },
+    {
+        "task_goal": "Add salt and other ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes a spoon",
+                "start_frame": 8650,
+                "stop_frame": 8700
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 8700,
+                "stop_frame": 8743
+            },
+            {
+                "narration_text": "#C C takes a salt shaker",
+                "start_frame": 8743,
+                "stop_frame": 8900
+            },
+            {
+                "narration_text": "#C C adds salt in the food",
+                "start_frame": 8900,
+                "stop_frame": 9131
+            },
+            {
+                "narration_text": "#C C closes salt shaker",
+                "start_frame": 9131,
+                "stop_frame": 9225
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 9225,
+                "stop_frame": 9293
+            },
+            {
+                "narration_text": "#C C opens fridge",
+                "start_frame": 9293,
+                "stop_frame": 9352
+            },
+            {
+                "narration_text": "#C C puts salt shaker in the fridge",
+                "start_frame": 9352,
+                "stop_frame": 9444
+            },
+            {
+                "narration_text": "#C C takes a bowl of food",
+                "start_frame": 9444,
+                "stop_frame": 9492
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 9492,
+                "stop_frame": 9564
+            },
+            {
+                "narration_text": "#C C puts a bowl of food on the table",
+                "start_frame": 9564,
+                "stop_frame": 9617
+            },
+            {
+                "narration_text": "#C C picks spoons",
+                "start_frame": 9617,
+                "stop_frame": 9786
+            },
+            {
+                "narration_text": "#C C stirs food",
+                "start_frame": 9786,
+                "stop_frame": 10316
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 10316,
+                "stop_frame": 10374
+            }
+        ]
+    }
+]

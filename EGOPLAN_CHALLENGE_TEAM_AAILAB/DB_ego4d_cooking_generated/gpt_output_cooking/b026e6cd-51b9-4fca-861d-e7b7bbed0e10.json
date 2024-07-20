@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efmfeEL89ORBB0ye6cEz0OGVViFS",
+    "object": "chat.completion",
+    "created": 1719480765,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and garnish pancakes\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Serve initial pancake on the table\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 183,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Move pancake to another plate\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 134\n        },\n        {\n          \"secondary_subgoal\": \"Place chopsticks on the table\",\n          \"start_timestamp\": 134,\n          \"stop_timestamp\": 183\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook another pancake\",\n      \"start_timestamp\": 183,\n      \"stop_timestamp\": 634,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Move towards cooker\",\n          \"start_timestamp\": 183,\n          \"stop_timestamp\": 266\n        },\n        {\n          \"secondary_subgoal\": \"Serve pancake from pan to plate\",\n          \"start_timestamp\": 266,\n          \"stop_timestamp\": 558\n        },\n        {\n          \"secondary_subgoal\": \"Put spatula on the pan\",\n          \"start_timestamp\": 558,\n          \"stop_timestamp\": 634\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Heat pancake in the microwave\",\n      \"start_timestamp\": 634,\n      \"stop_timestamp\": 884,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Place pancake in microwave\",\n          \"start_timestamp\": 634,\n          \"stop_timestamp\": 724\n        },\n        {\n          \"secondary_subgoal\": \"Cover plate with another plate and close microwave\",\n          \"start_timestamp\": 724,\n          \"stop_timestamp\": 803\n        },\n        {\n          \"secondary_subgoal\": \"Set microwave\",\n          \"start_timestamp\": 803,\n          \"stop_timestamp\": 884\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Add toppings to pancake and clean table\",\n      \"start_timestamp\": 884,\n      \"stop_timestamp\": 2443,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick items and add to pancake\",\n          \"start_timestamp\": 884,\n          \"stop_timestamp\": 1435\n        },\n        {\n          \"secondary_subgoal\": \"Add coriander and put plate aside\",\n          \"start_timestamp\": 1435,\n          \"stop_timestamp\": 1832\n        },\n        {\n          \"secondary_subgoal\": \"Pick and put down chopsticks\",\n          \"start_timestamp\": 1832,\n          \"stop_timestamp\": 2079\n        },\n        {\n          \"secondary_subgoal\": \"Wipe the table\",\n          \"start_timestamp\": 2079,\n          \"stop_timestamp\": 2443\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Retrieve and plate the heated pancake\",\n      \"start_timestamp\": 2443,\n      \"stop_timestamp\": 3434,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Open microwave and retrieve pancake\",\n          \"start_timestamp\": 2443,\n          \"stop_timestamp\": 2871\n        },\n        {\n          \"secondary_subgoal\": \"Use spatula to transfer pancake to plate\",\n          \"start_timestamp\": 2871,\n          \"stop_timestamp\": 3296\n        },\n        {\n          \"secondary_subgoal\": \"Place the plate in the sink\",\n          \"start_timestamp\": 3296,\n          \"stop_timestamp\": 3434\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Add more toppings\",\n      \"start_timestamp\": 3434,\n      \"stop_timestamp\": 4173,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick chopsticks and add unknown item to pancake\",\n          \"start_timestamp\": 3434,\n          \"stop_timestamp\": 3803\n        },\n        {\n          \"secondary_subgoal\": \"Add coriander to pancake and put items down\",\n          \"start_timestamp\": 3803,\n          \"stop_timestamp\": 4173\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 792,
+        "completion_tokens": 866,
+        "total_tokens": 1658
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfZGtCnCJMj93C4TidhptL2lDUwh",
+    "object": "chat.completion",
+    "created": 1719241606,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and cleaning up after cooking broccoli\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Draining and shaking broccoli\",\n      \"start_timestamp\": 1,\n      \"stop_timestamp\": 171,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Picking and pouring broccoli\",\n          \"start_timestamp\": 1,\n          \"stop_timestamp\": 98\n        },\n        {\n          \"secondary_subgoal\": \"Shaking broccoli\",\n          \"start_timestamp\": 110,\n          \"stop_timestamp\": 171\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Washing cooking pot and tools\",\n      \"start_timestamp\": 171,\n      \"stop_timestamp\": 1960,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Putting sieve on counter and walking to the sink\",\n          \"start_timestamp\": 171,\n          \"stop_timestamp\": 256\n        },\n        {\n          \"secondary_subgoal\": \"Washing cooking pot\",\n          \"start_timestamp\": 287,\n          \"stop_timestamp\": 640\n        },\n        {\n          \"secondary_subgoal\": \"Rinsing and drying cooking pot\",\n          \"start_timestamp\": 642,\n          \"stop_timestamp\": 1124\n        },\n        {\n          \"secondary_subgoal\": \"Washing, rinsing, and drying utensils\",\n          \"start_timestamp\": 1163,\n          \"stop_timestamp\": 1945\n        },\n        {\n          \"secondary_subgoal\": \"Final rinse of plate\",\n          \"start_timestamp\": 1960,\n          \"stop_timestamp\": 1960\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking broccoli and organizing kitchen\",\n      \"start_timestamp\": 2640,\n      \"stop_timestamp\": 2640,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Opening pot lid and placing on sink\",\n          \"start_timestamp\": 2696,\n          \"stop_timestamp\": 2928\n        },\n        {\n          \"secondary_subgoal\": \"Handling cooking tools\",\n          \"start_timestamp\": 2991,\n          \"stop_timestamp\": 3073\n        },\n        {\n          \"secondary_subgoal\": \"Setting and cooking broccoli\",\n          \"start_timestamp\": 3117,\n          \"stop_timestamp\": 3700\n        },\n        {\n          \"secondary_subgoal\": \"Placing frying pan in the sink\",\n          \"start_timestamp\": 3732,\n          \"stop_timestamp\": 3817\n        },\n        {\n          \"secondary_subgoal\": \"Finishing cooking activities\",\n          \"start_timestamp\": 3817,\n          \"stop_timestamp\": 4679\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning remaining kitchen tools and the area\",\n      \"start_timestamp\": 4887,\n      \"stop_timestamp\": 7881,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Washing and drying kitchen tools\",\n          \"start_timestamp\": 4887,\n          \"stop_timestamp\": 6971\n        },\n        {\n          \"secondary_subgoal\": \"Handling and placing broccoli in a bowl\",\n          \"start_timestamp\": 7035,\n          \"stop_timestamp\": 7507\n        },\n        {\n          \"secondary_subgoal\": \"Final cleaning and organizing kitchen\",\n          \"start_timestamp\": 7641,\n          \"stop_timestamp\": 7881\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2210,
+        "completion_tokens": 723,
+        "total_tokens": 2933
+    },
+    "system_fingerprint": "fp_5e6c71d4a8"
+}

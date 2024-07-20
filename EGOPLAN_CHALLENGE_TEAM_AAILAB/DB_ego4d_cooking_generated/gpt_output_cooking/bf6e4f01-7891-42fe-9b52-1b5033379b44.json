@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9df6amua4k7Z0hmR6tj4TnkaAX8L4",
+    "object": "chat.completion",
+    "created": 1719239828,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"C prepares a dish by cutting bread, gathering ingredients, mixing them, and seasoning the food\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Cutting and preparing bread\",\n      \"start_timestamp\": \"13\",\n      \"stop_timestamp\": \"2422\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Picking up and placing phone and pliers\",\n          \"start_timestamp\": \"13\",\n          \"stop_timestamp\": \"255\"\n        },\n        {\n          \"secondary_subgoal\": \"Preparing pliers and knife\",\n          \"start_timestamp\": \"255\",\n          \"stop_timestamp\": \"998\"\n        },\n        {\n          \"secondary_subgoal\": \"Cutting bread with a knife\",\n          \"start_timestamp\": \"1113\",\n          \"stop_timestamp\": \"2075\"\n        },\n        {\n          \"secondary_subgoal\": \"Picking and transferring bread pieces to a bowl\",\n          \"start_timestamp\": \"2075\",\n          \"stop_timestamp\": \"2422\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Gathering and preparing further ingredients\",\n      \"start_timestamp\": \"2422\",\n      \"stop_timestamp\": \"3657\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Opening fridge and gathering ingredients\",\n          \"start_timestamp\": \"2671\",\n          \"stop_timestamp\": \"2956\"\n        },\n        {\n          \"secondary_subgoal\": \"Breaking and placing eggs in a bowl\",\n          \"start_timestamp\": \"3306\",\n          \"stop_timestamp\": \"3600\"\n        },\n        {\n          \"secondary_subgoal\": \"Moving around and washing hands\",\n          \"start_timestamp\": \"3762\",\n          \"stop_timestamp\": \"4031\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Trash management and preparation for mixing\",\n      \"start_timestamp\": \"4031\",\n      \"stop_timestamp\": \"8749\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Picking and cutting trash paper\",\n          \"start_timestamp\": \"4074\",\n          \"stop_timestamp\": \"4277\"\n        },\n        {\n          \"secondary_subgoal\": \"Aligning and disposing of trash paper\",\n          \"start_timestamp\": \"4500\",\n          \"stop_timestamp\": \"4943\"\n        },\n        {\n          \"secondary_subgoal\": \"Stirring ingredients and more food preparation\",\n          \"start_timestamp\": \"5008\",\n          \"stop_timestamp\": \"7170\"\n        },\n        {\n          \"secondary_subgoal\": \"Washing hands and dishes\",\n          \"start_timestamp\": \"7855\",\n          \"stop_timestamp\": \"8749\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Mixing ingredients and final preparations\",\n      \"start_timestamp\": \"9769\",\n      \"stop_timestamp\": \"15467\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Smashing and stirring food\",\n          \"start_timestamp\": \"9769\",\n          \"stop_timestamp\": \"16509\"\n        },\n        {\n          \"secondary_subgoal\": \"Covering and organizing\",\n          \"start_timestamp\": \"17082\",\n          \"stop_timestamp\": \"17466\"\n        },\n        {\n          \"secondary_subgoal\": \"Transferring food between bowls\",\n          \"start_timestamp\": \"18257\",\n          \"stop_timestamp\": \"24995\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Adding cheese and final touches\",\n      \"start_timestamp\": \"25108\",\n      \"stop_timestamp\": \"31971\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Taking and preparing cheese\",\n          \"start_timestamp\": \"25108\",\n          \"stop_timestamp\": \"28511\"\n        },\n        {\n          \"secondary_subgoal\": \"Adding butter and adjusting final ingredients\",\n          \"start_timestamp\": \"29320\",\n          \"stop_timestamp\": \"31971\"\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 5966,
+        "completion_tokens": 825,
+        "total_tokens": 6791
+    },
+    "system_fingerprint": "fp_5e6c71d4a8"
+}

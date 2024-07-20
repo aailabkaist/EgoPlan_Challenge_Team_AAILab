@@ -1,0 +1,171 @@
+{
+    "overall_goal": "Prepare and fry dough in a kitchen",
+    "clips": [
+        {
+            "subgoal": "Gather ingredients and prepare the workspace",
+            "start_timestamp": 36,
+            "stop_timestamp": 573,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fold and turn a paper",
+                    "start_timestamp": 36,
+                    "stop_timestamp": 114
+                },
+                {
+                    "secondary_subgoal": "Place a paper on the frying pan",
+                    "start_timestamp": 114,
+                    "stop_timestamp": 136
+                },
+                {
+                    "secondary_subgoal": "Move fingers and pick a blender",
+                    "start_timestamp": 136,
+                    "stop_timestamp": 272
+                },
+                {
+                    "secondary_subgoal": "Open blender and put tin on the floor",
+                    "start_timestamp": 272,
+                    "stop_timestamp": 483
+                },
+                {
+                    "secondary_subgoal": "Open lid and touch flour",
+                    "start_timestamp": 483,
+                    "stop_timestamp": 573
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix flour and water",
+            "start_timestamp": 573,
+            "stop_timestamp": 74423,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pour #unsure in flour and gather",
+                    "start_timestamp": 573,
+                    "stop_timestamp": 643
+                },
+                {
+                    "secondary_subgoal": "Gather #unsure and drop in flour",
+                    "start_timestamp": 643,
+                    "stop_timestamp": 776
+                },
+                {
+                    "secondary_subgoal": "Gather #unsure and push container tin",
+                    "start_timestamp": 776,
+                    "stop_timestamp": 884
+                },
+                {
+                    "secondary_subgoal": "Move #unsure and plate",
+                    "start_timestamp": 884,
+                    "stop_timestamp": 1039
+                },
+                {
+                    "secondary_subgoal": "Rinse blender with water",
+                    "start_timestamp": 1039,
+                    "stop_timestamp": 1095
+                },
+                {
+                    "secondary_subgoal": "Pour water in the flour",
+                    "start_timestamp": 1095,
+                    "stop_timestamp": 1143
+                },
+                {
+                    "secondary_subgoal": "Pick lid and place blender on the floor",
+                    "start_timestamp": 1143,
+                    "stop_timestamp": 1197
+                },
+                {
+                    "secondary_subgoal": "Rinse lid with water",
+                    "start_timestamp": 1197,
+                    "stop_timestamp": 1257
+                },
+                {
+                    "secondary_subgoal": "Pour water in the flour",
+                    "start_timestamp": 1257,
+                    "stop_timestamp": 1287
+                },
+                {
+                    "secondary_subgoal": "Place blender lid on the blender",
+                    "start_timestamp": 1287,
+                    "stop_timestamp": 1328
+                },
+                {
+                    "secondary_subgoal": "Mix flour with #unsure",
+                    "start_timestamp": 1328,
+                    "stop_timestamp": 1820
+                },
+                {
+                    "secondary_subgoal": "Pick jug and pour water in flour",
+                    "start_timestamp": 1820,
+                    "stop_timestamp": 1914
+                },
+                {
+                    "secondary_subgoal": "Mix flour with water (in stages)",
+                    "start_timestamp": 1914,
+                    "stop_timestamp": 6687
+                },
+                {
+                    "secondary_subgoal": "Mix flour with water (with both hands in stages)",
+                    "start_timestamp": 6687,
+                    "stop_timestamp": 9445
+                },
+                {
+                    "secondary_subgoal": "Adjust and knead flour",
+                    "start_timestamp": 9445,
+                    "stop_timestamp": 11023
+                },
+                {
+                    "secondary_subgoal": "Wash hands and container",
+                    "start_timestamp": 11023,
+                    "stop_timestamp": 13268
+                },
+                {
+                    "secondary_subgoal": "Clean the counter and arrange containers",
+                    "start_timestamp": 13268,
+                    "stop_timestamp": 17667
+                },
+                {
+                    "secondary_subgoal": "Prepare dough presser and fry dough",
+                    "start_timestamp": 17667,
+                    "stop_timestamp": 74423
+                }
+            ]
+        },
+        {
+            "subgoal": "Fry the prepared dough",
+            "start_timestamp": 74423,
+            "stop_timestamp": 17667,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare dough for frying (knead, dip, cut)",
+                    "start_timestamp": 74423,
+                    "stop_timestamp": 83641
+                },
+                {
+                    "secondary_subgoal": "Flatten dough with roller",
+                    "start_timestamp": 83641,
+                    "stop_timestamp": 85345
+                },
+                {
+                    "secondary_subgoal": "Fry the dough in the pan",
+                    "start_timestamp": 85345,
+                    "stop_timestamp": 85749
+                },
+                {
+                    "secondary_subgoal": "Light the stove and fry",
+                    "start_timestamp": 85749,
+                    "stop_timestamp": 86119
+                },
+                {
+                    "secondary_subgoal": "Cut and place dough on news paper",
+                    "start_timestamp": 86119,
+                    "stop_timestamp": 143879
+                },
+                {
+                    "secondary_subgoal": "Use laptop, hold and pour dough",
+                    "start_timestamp": 179749,
+                    "stop_timestamp": 200846
+                }
+            ]
+        }
+    ]
+}

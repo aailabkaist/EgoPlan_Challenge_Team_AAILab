@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egJaPpJI3KM9VBRkGQtqHcHtC2DJ",
+    "object": "chat.completion",
+    "created": 1719482806,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare mangoes and cook a vegetable dish\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing mangoes by cutting them into pieces\",\n      \"start_timestamp\": 327,\n      \"stop_timestamp\": 25441,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Taking a knife and mango\", \"start_timestamp\": 327, \"stop_timestamp\": 401},\n        {\"secondary_subgoal\": \"Cutting a mango\", \"start_timestamp\": 401, \"stop_timestamp\": 1756},\n        {\"secondary_subgoal\": \"Interacting with person Y and placing mango seed\", \"start_timestamp\": 1756, \"stop_timestamp\": 2342},\n        {\"secondary_subgoal\": \"Cutting mango into small pieces\", \"start_timestamp\": 2342, \"stop_timestamp\": 6534},\n        {\"secondary_subgoal\": \"Cutting another mango\", \"start_timestamp\": 6534, \"stop_timestamp\": 8644},\n        {\"secondary_subgoal\": \"Cutting unripe mango to pieces\", \"start_timestamp\": 8644, \"stop_timestamp\": 14148},\n        {\"secondary_subgoal\": \"Putting mango pieces in bowl and picking knife again\", \"start_timestamp\": 14148, \"stop_timestamp\": 14852},\n        {\"secondary_subgoal\": \"Cutting more unripe mango pieces\", \"start_timestamp\": 14852, \"stop_timestamp\": 16576},\n        {\"secondary_subgoal\": \"Picking more mangoes and cutting them\", \"start_timestamp\": 16576, \"stop_timestamp\": 21951},\n        {\"secondary_subgoal\": \"Cutting remaining mango pieces\", \"start_timestamp\": 21951, \"stop_timestamp\": 25441}\n      ]\n    },\n    {\n      \"subgoal\": \"Managing kitchen space and preparing utensils\",\n      \"start_timestamp\": 25441,\n      \"stop_timestamp\": 32702,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Holding kitchen utensils\", \"start_timestamp\": 25441, \"stop_timestamp\": 27964},\n        {\"secondary_subgoal\": \"Washing and placing mangoes\", \"start_timestamp\": 27964, \"stop_timestamp\": 28782},\n        {\"secondary_subgoal\": \"Moving and searching utensils\", \"start_timestamp\": 28782, \"stop_timestamp\": 30963},\n        {\"secondary_subgoal\": \"Preparing the cooking area\", \"start_timestamp\": 30963, \"stop_timestamp\": 32556},\n        {\"secondary_subgoal\": \"Lifting and lighting the pan\", \"start_timestamp\": 32556, \"stop_timestamp\": 32702}\n      ]\n    },\n    {\n      \"subgoal\": \"Adding spices and cooking the vegetables\",\n      \"start_timestamp\": 32702,\n      \"stop_timestamp\": 42256,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Adding spices to the oil\", \"start_timestamp\": 32702, \"stop_timestamp\": 37777},\n        {\"secondary_subgoal\": \"Stirring spices and adding salt\", \"start_timestamp\": 37777, \"stop_timestamp\": 38578},\n        {\"secondary_subgoal\": \"Stirring the vegetables\", \"start_timestamp\": 38578, \"stop_timestamp\": 41073},\n        {\"secondary_subgoal\": \"Further seasoning and mixing food\", \"start_timestamp\": 41073, \"stop_timestamp\": 42256}\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6794,
+        "completion_tokens": 724,
+        "total_tokens": 7518
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

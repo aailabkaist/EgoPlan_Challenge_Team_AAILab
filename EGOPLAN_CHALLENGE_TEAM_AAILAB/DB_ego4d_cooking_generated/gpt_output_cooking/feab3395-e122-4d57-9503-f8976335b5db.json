@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ee94zzJx8XLZcSo4AiwiN6hjGgfK",
+    "object": "chat.completion",
+    "created": 1719474466,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cooking and serving food\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Stirring and cooking the food\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 646,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Holding cooking utensils\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 62\n        },\n        {\n          \"secondary_subgoal\": \"Using chopsticks to stir food in the frying pan\",\n          \"start_timestamp\": 62,\n          \"stop_timestamp\": 646\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handling the bottle and plate\",\n      \"start_timestamp\": 728,\n      \"stop_timestamp\": 1278,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Placing bottle in the fridge\",\n          \"start_timestamp\": 728,\n          \"stop_timestamp\": 912\n        },\n        {\n          \"secondary_subgoal\": \"Retrieving and placing the plate\",\n          \"start_timestamp\": 990,\n          \"stop_timestamp\": 1278\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Continuing to cook and serve food\",\n      \"start_timestamp\": 1278,\n      \"stop_timestamp\": 3027,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stirring and regulating the food\",\n          \"start_timestamp\": 1278,\n          \"stop_timestamp\": 1751\n        },\n        {\n          \"secondary_subgoal\": \"Removing frying pan and serving food onto plate\",\n          \"start_timestamp\": 1821,\n          \"stop_timestamp\": 3027\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clearing up\",\n      \"start_timestamp\": 3027,\n      \"stop_timestamp\": 4526,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clearing frying pan\",\n          \"start_timestamp\": 3027,\n          \"stop_timestamp\": 4344\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning and turning off appliances\",\n          \"start_timestamp\": 4376,\n          \"stop_timestamp\": 4526\n        }\n      ]\n    }\n  ]\n}\n```\n\n*Note: The subgoal timestamps have been inferred from the gaps in the provided timestamps and general understanding of kitchen activities, and actions grouped logically into subgoals and secondary subgoals.*"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 565,
+        "completion_tokens": 516,
+        "total_tokens": 1081
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

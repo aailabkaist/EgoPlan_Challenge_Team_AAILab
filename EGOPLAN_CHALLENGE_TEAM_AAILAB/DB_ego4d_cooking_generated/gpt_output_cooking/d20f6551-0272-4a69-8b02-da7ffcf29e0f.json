@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeslMCA7AtBnWrNQSAV7P6Qid2Yh",
+    "object": "chat.completion",
+    "created": 1719477299,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"prepare and cook food in the kitchen\",\n    \"clips\": [\n        {\n            \"subgoal\": \"prepare ingredients for cooking\",\n            \"start_timestamp\": 0,\n            \"stop_timestamp\": 9493,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"interact with a lady, gather ingredients and tools\",\n                    \"start_timestamp\": 0,\n                    \"stop_timestamp\": 1679\n                },\n                {\n                    \"secondary_subgoal\": \"cut and prepare onions with a knife\",\n                    \"start_timestamp\": 1679,\n                    \"stop_timestamp\": 3544\n                },\n                {\n                    \"secondary_subgoal\": \"cut vegetables and disposal of waste\",\n                    \"start_timestamp\": 3544,\n                    \"stop_timestamp\": 7143\n                },\n                {\n                    \"secondary_subgoal\": \"prepare more ingredients (garlic) with knife and hands\",\n                    \"start_timestamp\": 7143,\n                    \"stop_timestamp\": 19800\n                },\n                {\n                    \"secondary_subgoal\": \"chop leaf onions and interact with another lady frying them\",\n                    \"start_timestamp\": 19800,\n                    \"stop_timestamp\": 26140\n                },\n                {\n                    \"secondary_subgoal\": \"mix ingredients\",\n                    \"start_timestamp\": 26140,\n                    \"stop_timestamp\": 30127\n                },\n                {\n                    \"secondary_subgoal\": \"clean up the counter and collect trash\",\n                    \"start_timestamp\": 30127,\n                    \"stop_timestamp\": 32135\n                },\n                {\n                    \"secondary_subgoal\": \"wash and store utensils\",\n                    \"start_timestamp\": 32135,\n                    \"stop_timestamp\": 37480\n                },\n                {\n                    \"secondary_subgoal\": \"rinse the basin, dispose of trash, and open a kitchen foil on food\",\n                    \"start_timestamp\": 37480,\n                    \"stop_timestamp\": 38810\n                },\n                {\n                    \"secondary_subgoal\": \"stir food\",\n                    \"start_timestamp\": 38810,\n                    \"stop_timestamp\": 39172\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"cook food on stove\",\n            \"start_timestamp\": 9493,\n            \"stop_timestamp\": 21560,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"turn on stove and heat cooking pot\",\n                    \"start_timestamp\": 9493,\n                    \"stop_timestamp\": 10181\n                },\n                {\n                    \"secondary_subgoal\": \"add cooking oil to pot\",\n                    \"start_timestamp\": 10181,\n                    \"stop_timestamp\": 11709\n                },\n                {\n                    \"secondary_subgoal\": \"fetch water from tap and rinse\",\n                    \"start_timestamp\": 11709,\n                    \"stop_timestamp\": 12002\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"clean up the kitchen\",\n            \"start_timestamp\": 21560,\n            \"stop_timestamp\": 39172,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"throw away trash from sink\",\n                    \"start_timestamp\": 21560,\n                    \"stop_timestamp\": 38037\n                },\n                {\n                    \"secondary_subgoal\": \"wipe hands and finish setup\",\n                    \"start_timestamp\": 38037,\n                    \"stop_timestamp\": 39172\n                }\n            ]\n        }\n    ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2894,
+        "completion_tokens": 706,
+        "total_tokens": 3600
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

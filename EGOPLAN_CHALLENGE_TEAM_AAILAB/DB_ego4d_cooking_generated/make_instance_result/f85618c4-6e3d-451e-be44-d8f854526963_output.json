@@ -1,0 +1,1262 @@
+[
+    {
+        "task_goal": "Handling the bottle and pouring contents",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the bottle",
+                "start_frame": 1,
+                "stop_frame": 45
+            },
+            {
+                "narration_text": "#C C opens the bottle",
+                "start_frame": 45,
+                "stop_frame": 84
+            },
+            {
+                "narration_text": "#C C drops the bottle on the kitchen top",
+                "start_frame": 84,
+                "stop_frame": 123
+            },
+            {
+                "narration_text": "#C C picks the bottle from the kitchen top",
+                "start_frame": 123,
+                "stop_frame": 149
+            },
+            {
+                "narration_text": "#C C opens the bottle",
+                "start_frame": 149,
+                "stop_frame": 236
+            },
+            {
+                "narration_text": "#C C pours #unsure in the paper",
+                "start_frame": 236,
+                "stop_frame": 371
+            },
+            {
+                "narration_text": "#C C drops the bottle on the kitchen top",
+                "start_frame": 371,
+                "stop_frame": 528
+            },
+            {
+                "narration_text": "#C C squeezes #unsure in the paper",
+                "start_frame": 528,
+                "stop_frame": 2864
+            }
+        ]
+    },
+    {
+        "task_goal": "Holding and opening the bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the bottle",
+                "start_frame": 1,
+                "stop_frame": 45
+            },
+            {
+                "narration_text": "#C C opens the bottle",
+                "start_frame": 45,
+                "stop_frame": 84
+            },
+            {
+                "narration_text": "#C C drops the bottle on the kitchen top",
+                "start_frame": 84,
+                "stop_frame": 123
+            }
+        ]
+    },
+    {
+        "task_goal": "Dropping and picking the bottle from the kitchen top",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the bottle",
+                "start_frame": 45,
+                "stop_frame": 84
+            },
+            {
+                "narration_text": "#C C drops the bottle on the kitchen top",
+                "start_frame": 84,
+                "stop_frame": 123
+            },
+            {
+                "narration_text": "#C C picks the bottle from the kitchen top",
+                "start_frame": 123,
+                "stop_frame": 149
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening and pouring contents from the bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C drops the bottle on the kitchen top",
+                "start_frame": 84,
+                "stop_frame": 123
+            },
+            {
+                "narration_text": "#C C picks the bottle from the kitchen top",
+                "start_frame": 123,
+                "stop_frame": 149
+            },
+            {
+                "narration_text": "#C C opens the bottle",
+                "start_frame": 149,
+                "stop_frame": 236
+            },
+            {
+                "narration_text": "#C C pours #unsure in the paper",
+                "start_frame": 236,
+                "stop_frame": 371
+            },
+            {
+                "narration_text": "#C C drops the bottle on the kitchen top",
+                "start_frame": 371,
+                "stop_frame": 528
+            }
+        ]
+    },
+    {
+        "task_goal": "Dropping the bottle on the kitchen top",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pours #unsure in the paper",
+                "start_frame": 236,
+                "stop_frame": 371
+            },
+            {
+                "narration_text": "#C C drops the bottle on the kitchen top",
+                "start_frame": 371,
+                "stop_frame": 528
+            },
+            {
+                "narration_text": "#C C squeezes #unsure in the paper",
+                "start_frame": 528,
+                "stop_frame": 2864
+            }
+        ]
+    },
+    {
+        "task_goal": "Folding and handling the paper with content",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C squeezes #unsure in the paper",
+                "start_frame": 528,
+                "stop_frame": 2864
+            },
+            {
+                "narration_text": "#CC folds the paper",
+                "start_frame": 2864,
+                "stop_frame": 3004
+            },
+            {
+                "narration_text": "#C C closes the paper",
+                "start_frame": 3004,
+                "stop_frame": 3157
+            },
+            {
+                "narration_text": "#C C picks the paper from the table",
+                "start_frame": 3157,
+                "stop_frame": 3244
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 3244,
+                "stop_frame": 3326
+            },
+            {
+                "narration_text": "#C C puts the papers in the fridge",
+                "start_frame": 3326,
+                "stop_frame": 3361
+            },
+            {
+                "narration_text": "#C C closes the frdge",
+                "start_frame": 3361,
+                "stop_frame": 3458
+            },
+            {
+                "narration_text": "#C C picks the packet from the sink",
+                "start_frame": 3458,
+                "stop_frame": 3499
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 3499,
+                "stop_frame": 3569
+            },
+            {
+                "narration_text": "#C C puts the packet in the fridge",
+                "start_frame": 3569,
+                "stop_frame": 3665
+            },
+            {
+                "narration_text": "#C C puts the paper in the fridge",
+                "start_frame": 3665,
+                "stop_frame": 3803
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 3803,
+                "stop_frame": 3879
+            },
+            {
+                "narration_text": "#C C puts the paper on the kitchen top",
+                "start_frame": 3879,
+                "stop_frame": 3934
+            },
+            {
+                "narration_text": "#C C walks around the room",
+                "start_frame": 3934,
+                "stop_frame": 3978
+            }
+        ]
+    },
+    {
+        "task_goal": "Folding and closing the paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C squeezes #unsure in the paper",
+                "start_frame": 528,
+                "stop_frame": 2864
+            },
+            {
+                "narration_text": "#CC folds the paper",
+                "start_frame": 2864,
+                "stop_frame": 3004
+            },
+            {
+                "narration_text": "#C C closes the paper",
+                "start_frame": 3004,
+                "stop_frame": 3157
+            },
+            {
+                "narration_text": "#C C picks the paper from the table",
+                "start_frame": 3157,
+                "stop_frame": 3244
+            }
+        ]
+    },
+    {
+        "task_goal": "Moving the paper to the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the paper",
+                "start_frame": 3004,
+                "stop_frame": 3157
+            },
+            {
+                "narration_text": "#C C picks the paper from the table",
+                "start_frame": 3157,
+                "stop_frame": 3244
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 3244,
+                "stop_frame": 3326
+            },
+            {
+                "narration_text": "#C C puts the papers in the fridge",
+                "start_frame": 3326,
+                "stop_frame": 3361
+            },
+            {
+                "narration_text": "#C C closes the frdge",
+                "start_frame": 3361,
+                "stop_frame": 3458
+            },
+            {
+                "narration_text": "#C C picks the packet from the sink",
+                "start_frame": 3458,
+                "stop_frame": 3499
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 3499,
+                "stop_frame": 3569
+            },
+            {
+                "narration_text": "#C C puts the packet in the fridge",
+                "start_frame": 3569,
+                "stop_frame": 3665
+            },
+            {
+                "narration_text": "#C C puts the paper in the fridge",
+                "start_frame": 3665,
+                "stop_frame": 3803
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 3803,
+                "stop_frame": 3879
+            },
+            {
+                "narration_text": "#C C puts the paper on the kitchen top",
+                "start_frame": 3879,
+                "stop_frame": 3934
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting and picking paper on the kitchen top",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 3803,
+                "stop_frame": 3879
+            },
+            {
+                "narration_text": "#C C puts the paper on the kitchen top",
+                "start_frame": 3879,
+                "stop_frame": 3934
+            },
+            {
+                "narration_text": "#C C walks around the room",
+                "start_frame": 3934,
+                "stop_frame": 3978
+            }
+        ]
+    },
+    {
+        "task_goal": "Placing items in the fridge and operating the phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the paper on the kitchen top",
+                "start_frame": 3879,
+                "stop_frame": 3934
+            },
+            {
+                "narration_text": "#C C walks around the room",
+                "start_frame": 3934,
+                "stop_frame": 3978
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 3978,
+                "stop_frame": 4039
+            },
+            {
+                "narration_text": "#C C puts the bottle in the fridge",
+                "start_frame": 4039,
+                "stop_frame": 4158
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 4158,
+                "stop_frame": 4217
+            },
+            {
+                "narration_text": "#C C operates the phone",
+                "start_frame": 4217,
+                "stop_frame": 4692
+            },
+            {
+                "narration_text": "#CC picks the lid from the cooking pot",
+                "start_frame": 4692,
+                "stop_frame": 4721
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling items in the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the paper on the kitchen top",
+                "start_frame": 3879,
+                "stop_frame": 3934
+            },
+            {
+                "narration_text": "#C C walks around the room",
+                "start_frame": 3934,
+                "stop_frame": 3978
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 3978,
+                "stop_frame": 4039
+            },
+            {
+                "narration_text": "#C C puts the bottle in the fridge",
+                "start_frame": 4039,
+                "stop_frame": 4158
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 4158,
+                "stop_frame": 4217
+            },
+            {
+                "narration_text": "#C C operates the phone",
+                "start_frame": 4217,
+                "stop_frame": 4692
+            }
+        ]
+    },
+    {
+        "task_goal": "Operating the phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 4158,
+                "stop_frame": 4217
+            },
+            {
+                "narration_text": "#C C operates the phone",
+                "start_frame": 4217,
+                "stop_frame": 4692
+            },
+            {
+                "narration_text": "#CC picks the lid from the cooking pot",
+                "start_frame": 4692,
+                "stop_frame": 4721
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling kitchen tools and preparing cooking",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#CC picks the lid from the cooking pot",
+                "start_frame": 4692,
+                "stop_frame": 4721
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 4721,
+                "stop_frame": 4809
+            },
+            {
+                "narration_text": "#C C puts the lid in the drawer",
+                "start_frame": 4809,
+                "stop_frame": 4868
+            },
+            {
+                "narration_text": "#C C puts the sieve in the drawer",
+                "start_frame": 4868,
+                "stop_frame": 4926
+            },
+            {
+                "narration_text": "#C C picks the cooking pot from the gas cooker",
+                "start_frame": 4926,
+                "stop_frame": 4966
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 4966,
+                "stop_frame": 5084
+            },
+            {
+                "narration_text": "#C C fetches water with the cooking pot",
+                "start_frame": 5084,
+                "stop_frame": 5239
+            },
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 5239,
+                "stop_frame": 5290
+            },
+            {
+                "narration_text": "#C C puts the cooking pot on the gas cooker",
+                "start_frame": 5290,
+                "stop_frame": 5345
+            },
+            {
+                "narration_text": "#C C turns on the gas cooker",
+                "start_frame": 5345,
+                "stop_frame": 5574
+            },
+            {
+                "narration_text": "#C C turns on the air conditioner",
+                "start_frame": 5574,
+                "stop_frame": 5653
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 5653,
+                "stop_frame": 5678
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling the cooking pot and sieve",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#CC picks the lid from the cooking pot",
+                "start_frame": 4692,
+                "stop_frame": 4721
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 4721,
+                "stop_frame": 4809
+            },
+            {
+                "narration_text": "#C C puts the lid in the drawer",
+                "start_frame": 4809,
+                "stop_frame": 4868
+            },
+            {
+                "narration_text": "#C C puts the sieve in the drawer",
+                "start_frame": 4868,
+                "stop_frame": 4926
+            },
+            {
+                "narration_text": "#C C picks the cooking pot from the gas cooker",
+                "start_frame": 4926,
+                "stop_frame": 4966
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 4966,
+                "stop_frame": 5084
+            }
+        ]
+    },
+    {
+        "task_goal": "Fetching water and preparing cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the cooking pot from the gas cooker",
+                "start_frame": 4926,
+                "stop_frame": 4966
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 4966,
+                "stop_frame": 5084
+            },
+            {
+                "narration_text": "#C C fetches water with the cooking pot",
+                "start_frame": 5084,
+                "stop_frame": 5239
+            },
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 5239,
+                "stop_frame": 5290
+            },
+            {
+                "narration_text": "#C C puts the cooking pot on the gas cooker",
+                "start_frame": 5290,
+                "stop_frame": 5345
+            },
+            {
+                "narration_text": "#C C turns on the gas cooker",
+                "start_frame": 5345,
+                "stop_frame": 5574
+            }
+        ]
+    },
+    {
+        "task_goal": "Operating gas cooker and air conditioner",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the cooking pot on the gas cooker",
+                "start_frame": 5290,
+                "stop_frame": 5345
+            },
+            {
+                "narration_text": "#C C turns on the gas cooker",
+                "start_frame": 5345,
+                "stop_frame": 5574
+            },
+            {
+                "narration_text": "#C C turns on the air conditioner",
+                "start_frame": 5574,
+                "stop_frame": 5653
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 5653,
+                "stop_frame": 5678
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing and rinsing hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns on the air conditioner",
+                "start_frame": 5574,
+                "stop_frame": 5653
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 5653,
+                "stop_frame": 5678
+            },
+            {
+                "narration_text": "#C C rinses the hands",
+                "start_frame": 5678,
+                "stop_frame": 5763
+            },
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 5763,
+                "stop_frame": 5808
+            },
+            {
+                "narration_text": "#C C adds soap on the hands",
+                "start_frame": 5808,
+                "stop_frame": 5853
+            },
+            {
+                "narration_text": "#C C rubs the hands with soap",
+                "start_frame": 5853,
+                "stop_frame": 5985
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 5985,
+                "stop_frame": 6027
+            },
+            {
+                "narration_text": "#C C rinses the hands",
+                "start_frame": 6027,
+                "stop_frame": 6190
+            },
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 6190,
+                "stop_frame": 6300
+            },
+            {
+                "narration_text": "#C C shakes the hands",
+                "start_frame": 6300,
+                "stop_frame": 6363
+            },
+            {
+                "narration_text": "#C C wipes the hands with the towel",
+                "start_frame": 6363,
+                "stop_frame": 6495
+            },
+            {
+                "narration_text": "#C C picks up the chopping board",
+                "start_frame": 6495,
+                "stop_frame": 6567
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling and washing chopping board and carrots",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C wipes the hands with the towel",
+                "start_frame": 6363,
+                "stop_frame": 6495
+            },
+            {
+                "narration_text": "#C C picks up the chopping board",
+                "start_frame": 6495,
+                "stop_frame": 6567
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 6567,
+                "stop_frame": 6609
+            },
+            {
+                "narration_text": "#C C rinses the chopping board",
+                "start_frame": 6609,
+                "stop_frame": 6662
+            },
+            {
+                "narration_text": "#C C drops the chopping board on the kitchen top",
+                "start_frame": 6662,
+                "stop_frame": 6747
+            },
+            {
+                "narration_text": "#C C picks the carrots from the table",
+                "start_frame": 6747,
+                "stop_frame": 6821
+            },
+            {
+                "narration_text": "#C C opens the paper",
+                "start_frame": 6821,
+                "stop_frame": 7052
+            },
+            {
+                "narration_text": "#C C takes the carrot from the paper",
+                "start_frame": 7052,
+                "stop_frame": 7129
+            },
+            {
+                "narration_text": "#C C puts the carrots from the table",
+                "start_frame": 7129,
+                "stop_frame": 7178
+            },
+            {
+                "narration_text": "#C C puts the phone on the kitchen top",
+                "start_frame": 7178,
+                "stop_frame": 7270
+            },
+            {
+                "narration_text": "#C C puts the tape on the kitchen top",
+                "start_frame": 7270,
+                "stop_frame": 7303
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 7303,
+                "stop_frame": 7354
+            },
+            {
+                "narration_text": "#C C washes the carrot",
+                "start_frame": 7354,
+                "stop_frame": 7471
+            },
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 7471,
+                "stop_frame": 7552
+            }
+        ]
+    },
+    {
+        "task_goal": "Peeling and chopping the carrot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C washes the carrot",
+                "start_frame": 7354,
+                "stop_frame": 7471
+            },
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 7471,
+                "stop_frame": 7552
+            },
+            {
+                "narration_text": "#C C picks the grater knife",
+                "start_frame": 7552,
+                "stop_frame": 7601
+            },
+            {
+                "narration_text": "#C C peels the carrot",
+                "start_frame": 7601,
+                "stop_frame": 8186
+            },
+            {
+                "narration_text": "#C C drops the grater knife on the chopping board",
+                "start_frame": 8186,
+                "stop_frame": 8291
+            },
+            {
+                "narration_text": "#C C picks up the leftovers from the chopping board",
+                "start_frame": 8291,
+                "stop_frame": 8455
+            },
+            {
+                "narration_text": "#C C picks up the paper",
+                "start_frame": 8455,
+                "stop_frame": 8515
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling cooking pot and prepping cooking utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#CC opens the cardboard",
+                "start_frame": 15678,
+                "stop_frame": 15784
+            },
+            {
+                "narration_text": "#C C picks the bowl from the cardboard",
+                "start_frame": 15784,
+                "stop_frame": 15842
+            },
+            {
+                "narration_text": "#C C closes the cardboard",
+                "start_frame": 15842,
+                "stop_frame": 15925
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 15925,
+                "stop_frame": 16023
+            },
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 16023,
+                "stop_frame": 16063
+            },
+            {
+                "narration_text": "#C C picks up the chopping sticks",
+                "start_frame": 16063,
+                "stop_frame": 16144
+            },
+            {
+                "narration_text": "#C C picks the cooking pot from the gas",
+                "start_frame": 16144,
+                "stop_frame": 16266
+            },
+            {
+                "narration_text": "#C C pours water in the sink",
+                "start_frame": 16266,
+                "stop_frame": 16602
+            },
+            {
+                "narration_text": "#CC puts the chopping sticks on the chopping board",
+                "start_frame": 16602,
+                "stop_frame": 16658
+            },
+            {
+                "narration_text": "#CC picks up the seive",
+                "start_frame": 16658,
+                "stop_frame": 16740
+            },
+            {
+                "narration_text": "#C C pours water into the sink",
+                "start_frame": 16740,
+                "stop_frame": 16906
+            },
+            {
+                "narration_text": "#C C drops the frying pan on the gas cooker",
+                "start_frame": 16906,
+                "stop_frame": 16978
+            },
+            {
+                "narration_text": "#C C puts the sieve in the bowl",
+                "start_frame": 16978,
+                "stop_frame": 17045
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 17045,
+                "stop_frame": 17074
+            },
+            {
+                "narration_text": "#C C puts water in the bowl",
+                "start_frame": 17074,
+                "stop_frame": 17146
+            },
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 17146,
+                "stop_frame": 17224
+            },
+            {
+                "narration_text": "#C C pours water in the sink",
+                "start_frame": 17224,
+                "stop_frame": 17274
+            },
+            {
+                "narration_text": "#C C puts the sieve in the bowl",
+                "start_frame": 17274,
+                "stop_frame": 17312
+            },
+            {
+                "narration_text": "#C C picks up the paper",
+                "start_frame": 17312,
+                "stop_frame": 17361
+            },
+            {
+                "narration_text": "#C C folds the paper",
+                "start_frame": 17361,
+                "stop_frame": 17456
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking and prepping the bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#CC opens the cardboard",
+                "start_frame": 15678,
+                "stop_frame": 15784
+            },
+            {
+                "narration_text": "#C C picks the bowl from the cardboard",
+                "start_frame": 15784,
+                "stop_frame": 15842
+            },
+            {
+                "narration_text": "#C C closes the cardboard",
+                "start_frame": 15842,
+                "stop_frame": 15925
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 15925,
+                "stop_frame": 16023
+            },
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 16023,
+                "stop_frame": 16063
+            },
+            {
+                "narration_text": "#C C picks up the chopping sticks",
+                "start_frame": 16063,
+                "stop_frame": 16144
+            },
+            {
+                "narration_text": "#C C picks the cooking pot from the gas",
+                "start_frame": 16144,
+                "stop_frame": 16266
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling cooking pot and chopping sticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks up the chopping sticks",
+                "start_frame": 16063,
+                "stop_frame": 16144
+            },
+            {
+                "narration_text": "#C C picks the cooking pot from the gas",
+                "start_frame": 16144,
+                "stop_frame": 16266
+            },
+            {
+                "narration_text": "#C C pours water in the sink",
+                "start_frame": 16266,
+                "stop_frame": 16602
+            },
+            {
+                "narration_text": "#CC puts the chopping sticks on the chopping board",
+                "start_frame": 16602,
+                "stop_frame": 16658
+            },
+            {
+                "narration_text": "#CC picks up the seive",
+                "start_frame": 16658,
+                "stop_frame": 16740
+            },
+            {
+                "narration_text": "#C C pours water into the sink",
+                "start_frame": 16740,
+                "stop_frame": 16906
+            },
+            {
+                "narration_text": "#C C drops the frying pan on the gas cooker",
+                "start_frame": 16906,
+                "stop_frame": 16978
+            },
+            {
+                "narration_text": "#C C puts the sieve in the bowl",
+                "start_frame": 16978,
+                "stop_frame": 17045
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 17045,
+                "stop_frame": 17074
+            },
+            {
+                "narration_text": "#C C puts water in the bowl",
+                "start_frame": 17074,
+                "stop_frame": 17146
+            },
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 17146,
+                "stop_frame": 17224
+            },
+            {
+                "narration_text": "#C C pours water in the sink",
+                "start_frame": 17224,
+                "stop_frame": 17274
+            },
+            {
+                "narration_text": "#C C puts the sieve in the bowl",
+                "start_frame": 17274,
+                "stop_frame": 17312
+            },
+            {
+                "narration_text": "#C C picks up the paper",
+                "start_frame": 17312,
+                "stop_frame": 17361
+            },
+            {
+                "narration_text": "#C C folds the paper",
+                "start_frame": 17361,
+                "stop_frame": 17456
+            }
+        ]
+    },
+    {
+        "task_goal": "Folding and organizing paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks up the paper",
+                "start_frame": 17312,
+                "stop_frame": 17361
+            },
+            {
+                "narration_text": "#C C folds the paper",
+                "start_frame": 17361,
+                "stop_frame": 17456
+            },
+            {
+                "narration_text": "#C C puts the paper in the bigger paper",
+                "start_frame": 17456,
+                "stop_frame": 17559
+            },
+            {
+                "narration_text": "#CCpicks up the knife",
+                "start_frame": 17559,
+                "stop_frame": 17667
+            },
+            {
+                "narration_text": "#C C chops the onion",
+                "start_frame": 17667,
+                "stop_frame": 18643
+            },
+            {
+                "narration_text": "#C C drops the knife on the chopping board",
+                "start_frame": 18643,
+                "stop_frame": 18705
+            },
+            {
+                "narration_text": "#C C puts the left over in the paper",
+                "start_frame": 18705,
+                "stop_frame": 18847
+            },
+            {
+                "narration_text": "#CC puts the bowl aside",
+                "start_frame": 18847,
+                "stop_frame": 18890
+            },
+            {
+                "narration_text": "#C C picks up the glass",
+                "start_frame": 18890,
+                "stop_frame": 18929
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling glass and rinsing",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#CC puts the bowl aside",
+                "start_frame": 18847,
+                "stop_frame": 18890
+            },
+            {
+                "narration_text": "#C C picks up the glass",
+                "start_frame": 18890,
+                "stop_frame": 18929
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 18929,
+                "stop_frame": 19019
+            },
+            {
+                "narration_text": "#C C rinses the glass",
+                "start_frame": 19019,
+                "stop_frame": 19142
+            },
+            {
+                "narration_text": "#C C rinses the hands",
+                "start_frame": 19142,
+                "stop_frame": 19189
+            },
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 19189,
+                "stop_frame": 19227
+            },
+            {
+                "narration_text": "#CC opens the water tap",
+                "start_frame": 19227,
+                "stop_frame": 19254
+            },
+            {
+                "narration_text": "#C C rinses the hand",
+                "start_frame": 19254,
+                "stop_frame": 19280
+            },
+            {
+                "narration_text": "#CC closes the water tap",
+                "start_frame": 19280,
+                "stop_frame": 19367
+            },
+            {
+                "narration_text": "#C C shakes the hands",
+                "start_frame": 19367,
+                "stop_frame": 19448
+            },
+            {
+                "narration_text": "#C C wipes the hands with the towel",
+                "start_frame": 19448,
+                "stop_frame": 19547
+            },
+            {
+                "narration_text": "#C C picks up the onion",
+                "start_frame": 19547,
+                "stop_frame": 19608
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 19608,
+                "stop_frame": 19702
+            },
+            {
+                "narration_text": "#C C puts the onion in the fridge",
+                "start_frame": 19702,
+                "stop_frame": 19811
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 19811,
+                "stop_frame": 19858
+            },
+            {
+                "narration_text": "#CC walks around the room",
+                "start_frame": 19858,
+                "stop_frame": 19921
+            },
+            {
+                "narration_text": "#C C stares at the kitchen top",
+                "start_frame": 19921,
+                "stop_frame": 19973
+            }
+        ]
+    },
+    {
+        "task_goal": "Concluding the cooking session",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#CC walks around the room",
+                "start_frame": 19858,
+                "stop_frame": 19921
+            },
+            {
+                "narration_text": "#C C stares at the kitchen top",
+                "start_frame": 19921,
+                "stop_frame": 19973
+            },
+            {
+                "narration_text": "#C C operates the phone",
+                "start_frame": 19973,
+                "stop_frame": 20449
+            },
+            {
+                "narration_text": "#C C drops the phone on the kitchen top",
+                "start_frame": 20449,
+                "stop_frame": 20507
+            },
+            {
+                "narration_text": "#C C puts the cooking pot in order",
+                "start_frame": 20507,
+                "stop_frame": 20557
+            },
+            {
+                "narration_text": "#C C turns on the gas cooker",
+                "start_frame": 20557,
+                "stop_frame": 20716
+            },
+            {
+                "narration_text": "#C C picks up the bottle",
+                "start_frame": 20716,
+                "stop_frame": 20807
+            },
+            {
+                "narration_text": "#C C opens the bottle",
+                "start_frame": 20807,
+                "stop_frame": 20941
+            },
+            {
+                "narration_text": "#C C pours the cooking oil in the cooking pot",
+                "start_frame": 20941,
+                "stop_frame": 20984
+            },
+            {
+                "narration_text": "#C C closes the bottle",
+                "start_frame": 20984,
+                "stop_frame": 21021
+            },
+            {
+                "narration_text": "#C C puts the bottle aside",
+                "start_frame": 21021,
+                "stop_frame": 21195
+            },
+            {
+                "narration_text": "#C C drops the cooking pot on the gas",
+                "start_frame": 21195,
+                "stop_frame": 21295
+            }
+        ]
+    },
+    {
+        "task_goal": "General kitchen activities and operating phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#CC walks around the room",
+                "start_frame": 19858,
+                "stop_frame": 19921
+            },
+            {
+                "narration_text": "#C C stares at the kitchen top",
+                "start_frame": 19921,
+                "stop_frame": 19973
+            },
+            {
+                "narration_text": "#C C operates the phone",
+                "start_frame": 19973,
+                "stop_frame": 20449
+            },
+            {
+                "narration_text": "#C C drops the phone on the kitchen top",
+                "start_frame": 20449,
+                "stop_frame": 20507
+            },
+            {
+                "narration_text": "#C C puts the cooking pot in order",
+                "start_frame": 20507,
+                "stop_frame": 20557
+            },
+            {
+                "narration_text": "#C C turns on the gas cooker",
+                "start_frame": 20557,
+                "stop_frame": 20716
+            }
+        ]
+    },
+    {
+        "task_goal": "Completing and organizing kitchen items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the cooking pot in order",
+                "start_frame": 20507,
+                "stop_frame": 20557
+            },
+            {
+                "narration_text": "#C C turns on the gas cooker",
+                "start_frame": 20557,
+                "stop_frame": 20716
+            },
+            {
+                "narration_text": "#C C picks up the bottle",
+                "start_frame": 20716,
+                "stop_frame": 20807
+            },
+            {
+                "narration_text": "#C C opens the bottle",
+                "start_frame": 20807,
+                "stop_frame": 20941
+            },
+            {
+                "narration_text": "#C C pours the cooking oil in the cooking pot",
+                "start_frame": 20941,
+                "stop_frame": 20984
+            },
+            {
+                "narration_text": "#C C closes the bottle",
+                "start_frame": 20984,
+                "stop_frame": 21021
+            },
+            {
+                "narration_text": "#C C puts the bottle aside",
+                "start_frame": 21021,
+                "stop_frame": 21195
+            },
+            {
+                "narration_text": "#C C drops the cooking pot on the gas",
+                "start_frame": 21195,
+                "stop_frame": 21295
+            }
+        ]
+    }
+]

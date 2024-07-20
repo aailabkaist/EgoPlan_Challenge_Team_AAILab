@@ -1,0 +1,516 @@
+{
+    "overall_goal": "Peeling and inspecting mushrooms, followed by cooking and serving a meal involving mushrooms and tea.",
+    "clips": [
+        {
+            "subgoal": "Peeling mushrooms",
+            "start_timestamp": 0,
+            "stop_timestamp": 8197,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 24,
+                    "stop_timestamp": 61
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 61,
+                    "stop_timestamp": 68
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 93,
+                    "stop_timestamp": 104
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 104,
+                    "stop_timestamp": 130
+                },
+                {
+                    "secondary_subgoal": "Peeling mushrooms",
+                    "start_timestamp": 130,
+                    "stop_timestamp": 375
+                },
+                {
+                    "secondary_subgoal": "Dropping peels",
+                    "start_timestamp": 375,
+                    "stop_timestamp": 413
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 413,
+                    "stop_timestamp": 645
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 645,
+                    "stop_timestamp": 695
+                },
+                {
+                    "secondary_subgoal": "Peeling mushrooms",
+                    "start_timestamp": 695,
+                    "stop_timestamp": 820
+                },
+                {
+                    "secondary_subgoal": "Dropping peels",
+                    "start_timestamp": 820,
+                    "stop_timestamp": 842
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 1000,
+                    "stop_timestamp": 1019
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 1019,
+                    "stop_timestamp": 1282
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 1282,
+                    "stop_timestamp": 1301
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 1301,
+                    "stop_timestamp": 1547
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 1547,
+                    "stop_timestamp": 1583
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 1583,
+                    "stop_timestamp": 1950
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 1950,
+                    "stop_timestamp": 1972
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 1972,
+                    "stop_timestamp": 2021
+                },
+                {
+                    "secondary_subgoal": "Shaking hands",
+                    "start_timestamp": 2021,
+                    "stop_timestamp": 2051
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 2051,
+                    "stop_timestamp": 2086
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 2086,
+                    "stop_timestamp": 2519
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 2519,
+                    "stop_timestamp": 2570
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 2570,
+                    "stop_timestamp": 2678
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 2678,
+                    "stop_timestamp": 2693
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 2693,
+                    "stop_timestamp": 2712
+                },
+                {
+                    "secondary_subgoal": "Shaking hands",
+                    "start_timestamp": 2712,
+                    "stop_timestamp": 2725
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 2725,
+                    "stop_timestamp": 2761
+                },
+                {
+                    "secondary_subgoal": "Peeling mushrooms",
+                    "start_timestamp": 2761,
+                    "stop_timestamp": 2784
+                },
+                {
+                    "secondary_subgoal": "Dropping peels",
+                    "start_timestamp": 2784,
+                    "stop_timestamp": 2862
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 2862,
+                    "stop_timestamp": 2994
+                },
+                {
+                    "secondary_subgoal": "Peeling mushrooms",
+                    "start_timestamp": 2994,
+                    "stop_timestamp": 3172
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 3172,
+                    "stop_timestamp": 3189
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 3189,
+                    "stop_timestamp": 3219
+                },
+                {
+                    "secondary_subgoal": "Shaking hands",
+                    "start_timestamp": 3219,
+                    "stop_timestamp": 3282
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms in basin",
+                    "start_timestamp": 3282,
+                    "stop_timestamp": 3549
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 3549,
+                    "stop_timestamp": 3564
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 3564,
+                    "stop_timestamp": 3592
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 3592,
+                    "stop_timestamp": 3617
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 3617,
+                    "stop_timestamp": 3730
+                },
+                {
+                    "secondary_subgoal": "Turning",
+                    "start_timestamp": 3730,
+                    "stop_timestamp": 4101
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 4101,
+                    "stop_timestamp": 4139
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 4139,
+                    "stop_timestamp": 4177
+                },
+                {
+                    "secondary_subgoal": "Shaking hands",
+                    "start_timestamp": 4177,
+                    "stop_timestamp": 4221
+                },
+                {
+                    "secondary_subgoal": "Turning",
+                    "start_timestamp": 4221,
+                    "stop_timestamp": 4570
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 4570,
+                    "stop_timestamp": 4609
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 4609,
+                    "stop_timestamp": 4937
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 4937,
+                    "stop_timestamp": 4957
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 4957,
+                    "stop_timestamp": 5314
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 5314,
+                    "stop_timestamp": 5341
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 5341,
+                    "stop_timestamp": 5712
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 5712,
+                    "stop_timestamp": 5736
+                },
+                {
+                    "secondary_subgoal": "Peeling mushrooms",
+                    "start_timestamp": 5736,
+                    "stop_timestamp": 5764
+                },
+                {
+                    "secondary_subgoal": "Dropping peels",
+                    "start_timestamp": 5764,
+                    "stop_timestamp": 5805
+                },
+                {
+                    "secondary_subgoal": "Shaking hands",
+                    "start_timestamp": 5805,
+                    "stop_timestamp": 5928
+                },
+                {
+                    "secondary_subgoal": "Peeling mushrooms",
+                    "start_timestamp": 5928,
+                    "stop_timestamp": 6068
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 6068,
+                    "stop_timestamp": 6286
+                },
+                {
+                    "secondary_subgoal": "Peeling mushrooms",
+                    "start_timestamp": 6286,
+                    "stop_timestamp": 6328
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 6328,
+                    "stop_timestamp": 6348
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 6348,
+                    "stop_timestamp": 6398
+                },
+                {
+                    "secondary_subgoal": "Rubbing hands",
+                    "start_timestamp": 6398,
+                    "stop_timestamp": 6504
+                },
+                {
+                    "secondary_subgoal": "Picking up tea cup",
+                    "start_timestamp": 6504,
+                    "stop_timestamp": 6523
+                },
+                {
+                    "secondary_subgoal": "Drinking tea",
+                    "start_timestamp": 6523,
+                    "stop_timestamp": 6597
+                },
+                {
+                    "secondary_subgoal": "Dropping tea cup",
+                    "start_timestamp": 6597,
+                    "stop_timestamp": 6643
+                },
+                {
+                    "secondary_subgoal": "Picking up bowl",
+                    "start_timestamp": 6643,
+                    "stop_timestamp": 6667
+                },
+                {
+                    "secondary_subgoal": "Dropping bowl",
+                    "start_timestamp": 6667,
+                    "stop_timestamp": 6713
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 6713,
+                    "stop_timestamp": 6722
+                },
+                {
+                    "secondary_subgoal": "Peeling mushrooms",
+                    "start_timestamp": 6722,
+                    "stop_timestamp": 6942
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 6942,
+                    "stop_timestamp": 7062
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 7062,
+                    "stop_timestamp": 7177
+                },
+                {
+                    "secondary_subgoal": "Peeling mushrooms",
+                    "start_timestamp": 7177,
+                    "stop_timestamp": 7204
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms in a bowl",
+                    "start_timestamp": 7204,
+                    "stop_timestamp": 7316
+                },
+                {
+                    "secondary_subgoal": "Peeling mushrooms",
+                    "start_timestamp": 7316,
+                    "stop_timestamp": 7344
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms in a bowl",
+                    "start_timestamp": 7344,
+                    "stop_timestamp": 7417
+                },
+                {
+                    "secondary_subgoal": "Peeling mushrooms",
+                    "start_timestamp": 7417,
+                    "stop_timestamp": 7434
+                },
+                {
+                    "secondary_subgoal": "Shaking hands",
+                    "start_timestamp": 7434,
+                    "stop_timestamp": 7452
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 7452,
+                    "stop_timestamp": 7509
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 7509,
+                    "stop_timestamp": 7726
+                },
+                {
+                    "secondary_subgoal": "Peeling mushrooms",
+                    "start_timestamp": 7726,
+                    "stop_timestamp": 7871
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 7871,
+                    "stop_timestamp": 7918
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 7918,
+                    "stop_timestamp": 7969
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 7969,
+                    "stop_timestamp": 7995
+                },
+                {
+                    "secondary_subgoal": "Peeling mushrooms",
+                    "start_timestamp": 7995,
+                    "stop_timestamp": 8012
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 8012,
+                    "stop_timestamp": 8090
+                },
+                {
+                    "secondary_subgoal": "Peeling mushrooms",
+                    "start_timestamp": 8090,
+                    "stop_timestamp": 8123
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms",
+                    "start_timestamp": 8123,
+                    "stop_timestamp": 8160
+                },
+                {
+                    "secondary_subgoal": "Shaking hands",
+                    "start_timestamp": 8160,
+                    "stop_timestamp": 8177
+                },
+                {
+                    "secondary_subgoal": "Dropping mushrooms",
+                    "start_timestamp": 8177,
+                    "stop_timestamp": 8197
+                }
+            ]
+        },
+        {
+            "subgoal": "Inspecting and placing mushrooms in a bowl",
+            "start_timestamp": 8197,
+            "stop_timestamp": 13829,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Inspecting mushrooms",
+                    "start_timestamp": 8197,
+                    "stop_timestamp": 11855
+                },
+                {
+                    "secondary_subgoal": "Placing mushrooms in a bowl",
+                    "start_timestamp": 11855,
+                    "stop_timestamp": 12143
+                },
+                {
+                    "secondary_subgoal": "Lifting a bowl",
+                    "start_timestamp": 12143,
+                    "stop_timestamp": 12163
+                },
+                {
+                    "secondary_subgoal": "Picking up mushrooms from table",
+                    "start_timestamp": 12163,
+                    "stop_timestamp": 12194
+                },
+                {
+                    "secondary_subgoal": "Placing bowl on table",
+                    "start_timestamp": 12194,
+                    "stop_timestamp": 12329
+                },
+                {
+                    "secondary_subgoal": "Inspecting mushrooms",
+                    "start_timestamp": 12329,
+                    "stop_timestamp": 12527
+                },
+                {
+                    "secondary_subgoal": "Placing inspected mushroom in bowl",
+                    "start_timestamp": 12527,
+                    "stop_timestamp": 12973
+                },
+                {
+                    "secondary_subgoal": "Inspecting mushrooms",
+                    "start_timestamp": 12973,
+                    "stop_timestamp": 13719
+                },
+                {
+                    "secondary_subgoal": "Placing inspected mushroom in bowl",
+                    "start_timestamp": 13719,
+                    "stop_timestamp": 13774
+                },
+                {
+                    "secondary_subgoal": "Tapping hands",
+                    "start_timestamp": 13774,
+                    "stop_timestamp": 13829
+                }
+            ]
+        },
+        {
+            "subgoal": "Adjusting camera",
+            "start_timestamp": 13829,
+            "stop_timestamp": 13929,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjusting camera",
+                    "start_timestamp": 13829,
+                    "stop_timestamp": 13929
+                }
+            ]
+        }
+    ]
+}

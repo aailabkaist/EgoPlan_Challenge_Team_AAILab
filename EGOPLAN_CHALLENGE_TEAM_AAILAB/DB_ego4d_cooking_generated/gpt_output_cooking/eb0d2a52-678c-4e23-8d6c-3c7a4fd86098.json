@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egjL4e4eRbK0sLpK4Ir0vHkojciy",
+    "object": "chat.completion",
+    "created": 1719484403,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cooking and preparing a chicken dish\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing cooking tools and ingredients\",\n      \"start_timestamp\": 335,\n      \"stop_timestamp\": 1430,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Getting the cooking pan ready\",\n          \"start_timestamp\": 335,\n          \"stop_timestamp\": 762\n        },\n        {\n          \"secondary_subgoal\": \"Interacting with the phone and setting up the cooking pan\",\n          \"start_timestamp\": 762,\n          \"stop_timestamp\": 1430\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handling ingredients for the cup\",\n      \"start_timestamp\": 2126,\n      \"stop_timestamp\": 3040,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Tasting and stirring paste in the cup\",\n          \"start_timestamp\": 2126,\n          \"stop_timestamp\": 2435\n        },\n        {\n          \"secondary_subgoal\": \"Adding more paste to the cup\",\n          \"start_timestamp\": 2435,\n          \"stop_timestamp\": 3040\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking chicken on the pan\",\n      \"start_timestamp\": 3090,\n      \"stop_timestamp\": 16350,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Putting chicken pieces on the pan\",\n          \"start_timestamp\": 3090,\n          \"stop_timestamp\": 4260\n        },\n        {\n          \"secondary_subgoal\": \"Arranging and turning the chicken pieces\",\n          \"start_timestamp\": 4260,\n          \"stop_timestamp\": 11311\n        },\n        {\n          \"secondary_subgoal\": \"Covering and regulating cooking\",\n          \"start_timestamp\": 11311,\n          \"stop_timestamp\": 11927\n        },\n        {\n          \"secondary_subgoal\": \"Checking and regulating the meat\",\n          \"start_timestamp\": 11927,\n          \"stop_timestamp\": 13149\n        },\n        {\n          \"secondary_subgoal\": \"Final stages of cooking the meat\",\n          \"start_timestamp\": 13149,\n          \"stop_timestamp\": 16350\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing cooked meat for serving\",\n      \"start_timestamp\": 16380,\n      \"stop_timestamp\": 19966,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Preparing the table and handling accessories\",\n          \"start_timestamp\": 16380,\n          \"stop_timestamp\": 20075\n        },\n        {\n          \"secondary_subgoal\": \"Cutting and checking the cooked meat\",\n          \"start_timestamp\": 20075,\n          \"stop_timestamp\": 21332\n        }\n      ]\n    }\n  ]\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4322,
+        "completion_tokens": 597,
+        "total_tokens": 4919
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

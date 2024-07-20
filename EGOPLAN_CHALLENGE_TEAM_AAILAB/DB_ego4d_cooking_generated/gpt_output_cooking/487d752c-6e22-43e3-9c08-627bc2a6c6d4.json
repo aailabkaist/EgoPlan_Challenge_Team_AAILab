@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efLIhWG7oHgOKjaum7FGtDdriXIy",
+    "object": "chat.completion",
+    "created": 1719479068,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Preparing garlic for cooking\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Gathering and arranging the necessary items\",\n            \"start_timestamp\": 0,\n            \"stop_timestamp\": 390,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Looking for and inspecting the environment\",\n                    \"start_timestamp\": -1,\n                    \"stop_timestamp\": 23\n                },\n                {\n                    \"secondary_subgoal\": \"Preparing the items on the table\",\n                    \"start_timestamp\": 23,\n                    \"stop_timestamp\": 390\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Preparing garlic\",\n            \"start_timestamp\": 390,\n            \"stop_timestamp\": 1636,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Selecting garlic and removing extra\",\n                    \"start_timestamp\": 390,\n                    \"stop_timestamp\": 417\n                },\n                {\n                    \"secondary_subgoal\": \"Peeling garlic\",\n                    \"start_timestamp\": 417,\n                    \"stop_timestamp\": 671\n                },\n                {\n                    \"secondary_subgoal\": \"Dropping peels and garlic remains on the table\",\n                    \"start_timestamp\": 671,\n                    \"stop_timestamp\": 945\n                },\n                {\n                    \"secondary_subgoal\": \"Peeling and placing peeled garlic on the board\",\n                    \"start_timestamp\": 945,\n                    \"stop_timestamp\": 1454\n                },\n                {\n                    \"secondary_subgoal\": \"Cutting the garlic\",\n                    \"start_timestamp\": 1454,\n                    \"stop_timestamp\": 1615\n                },\n                {\n                    \"secondary_subgoal\": \"Final cleanup and disposal of remains\",\n                    \"start_timestamp\": 1615,\n                    \"stop_timestamp\": 1636\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Post-preparation activities\",\n            \"start_timestamp\": 1636,\n            \"stop_timestamp\": 1790,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Organizing work area by walking around kitchen\",\n                    \"start_timestamp\": 1636,\n                    \"stop_timestamp\": 1690\n                },\n                {\n                    \"secondary_subgoal\": \"Using phone\",\n                    \"start_timestamp\": 1690,\n                    \"stop_timestamp\": 1790\n                }\n            ]\n        }\n    ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 656,
+        "completion_tokens": 496,
+        "total_tokens": 1152
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

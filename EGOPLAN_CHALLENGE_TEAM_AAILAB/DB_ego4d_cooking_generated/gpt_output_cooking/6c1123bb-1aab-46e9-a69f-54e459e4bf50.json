@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eflJM7hBKs6WCEcxRvMav26EL1BH",
+    "object": "chat.completion",
+    "created": 1719480681,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Peel and prepare multiple food ingredients, specifically potatoes, onions, and other items, to prepare a meal including making dough and flatbread.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Peeling and preparing potatoes\",\n      \"start_timestamp\": 49,\n      \"stop_timestamp\": 2252,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Peeling potatoes\",\n          \"start_timestamp\": 49,\n          \"stop_timestamp\": 2191\n        },\n        {\n          \"secondary_subgoal\": \"Adjusting the gas cooker flame\",\n          \"start_timestamp\": 2191,\n          \"stop_timestamp\": 2252\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing other food ingredients\",\n      \"start_timestamp\": 4813,\n      \"stop_timestamp\": 5834,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cutting onions and gathering ingredients\",\n          \"start_timestamp\": 4814,\n          \"stop_timestamp\": 5834\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Making dough\",\n      \"start_timestamp\": 63885,\n      \"stop_timestamp\": 86279,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Mixing flour and water to make the dough\",\n          \"start_timestamp\": 81060,\n          \"stop_timestamp\": 86279\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing flatbread (roti)\",\n      \"start_timestamp\": 160000,\n      \"stop_timestamp\": 170931,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Rolling the dough\",\n          \"start_timestamp\": 160000,\n          \"stop_timestamp\": 170931\n        }\n      ]\n    }\n  ]\n}\n```\n\nNote: The timestamps and actions are approximations. The actions within the provided timestamps might span across multiple lines while adjacent timestamps could be tightly connected actions. Such approximations are done to create organized subgoals within the video narration provided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 33094,
+        "completion_tokens": 439,
+        "total_tokens": 33533
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

@@ -1,0 +1,487 @@
+[
+    {
+        "task_goal": "Store a box in the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes a fridge",
+                "start_frame": 1,
+                "stop_frame": 44
+            },
+            {
+                "narration_text": "Picks a box",
+                "start_frame": 44,
+                "stop_frame": 114
+            },
+            {
+                "narration_text": "Puts a box in a fridge",
+                "start_frame": 114,
+                "stop_frame": 223
+            },
+            {
+                "narration_text": "Closes a fridge",
+                "start_frame": 223,
+                "stop_frame": 272
+            },
+            {
+                "narration_text": "Touches a sink tap",
+                "start_frame": 272,
+                "stop_frame": 296
+            }
+        ]
+    },
+    {
+        "task_goal": "Add cooking oil to the pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Looks around",
+                "start_frame": 296,
+                "stop_frame": 338
+            },
+            {
+                "narration_text": "Picks a bottle cook oil",
+                "start_frame": 338,
+                "stop_frame": 410
+            },
+            {
+                "narration_text": "Adds oil in a pan",
+                "start_frame": 410,
+                "stop_frame": 551
+            },
+            {
+                "narration_text": "Closes the bottle of a oil",
+                "start_frame": 551,
+                "stop_frame": 581
+            },
+            {
+                "narration_text": "Puts the bottle on the table",
+                "start_frame": 581,
+                "stop_frame": 625
+            },
+            {
+                "narration_text": "Turns food in a fry pan with a chopstick",
+                "start_frame": 625,
+                "stop_frame": 1204
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn food in the fry pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the bottle on the table",
+                "start_frame": 581,
+                "stop_frame": 625
+            },
+            {
+                "narration_text": "Turns food in a fry pan with a chopstick",
+                "start_frame": 625,
+                "stop_frame": 1204
+            },
+            {
+                "narration_text": "Walks in a room",
+                "start_frame": 1204,
+                "stop_frame": 1242
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare the knife for chopping",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks in a room",
+                "start_frame": 1204,
+                "stop_frame": 1242
+            },
+            {
+                "narration_text": "Picks a knife",
+                "start_frame": 1242,
+                "stop_frame": 1324
+            },
+            {
+                "narration_text": "Opens the knob",
+                "start_frame": 1324,
+                "stop_frame": 1343
+            },
+            {
+                "narration_text": "Washes knife",
+                "start_frame": 1343,
+                "stop_frame": 1623
+            },
+            {
+                "narration_text": "Closes the knob",
+                "start_frame": 1623,
+                "stop_frame": 1683
+            },
+            {
+                "narration_text": "Puts knife on the table",
+                "start_frame": 1683,
+                "stop_frame": 1743
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve and chop the onion",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens fridge shelve",
+                "start_frame": 1743,
+                "stop_frame": 1806
+            },
+            {
+                "narration_text": "Picks onion",
+                "start_frame": 1806,
+                "stop_frame": 1852
+            },
+            {
+                "narration_text": "Closes fridge by foot",
+                "start_frame": 1852,
+                "stop_frame": 1898
+            },
+            {
+                "narration_text": "Picks a knife",
+                "start_frame": 1898,
+                "stop_frame": 1944
+            },
+            {
+                "narration_text": "Chops onion on chopping board",
+                "start_frame": 1944,
+                "stop_frame": 2104
+            },
+            {
+                "narration_text": "Puts a knife down",
+                "start_frame": 2104,
+                "stop_frame": 2130
+            },
+            {
+                "narration_text": "Puts a piece of onion in a dustbin",
+                "start_frame": 2130,
+                "stop_frame": 2161
+            },
+            {
+                "narration_text": "Peels onion",
+                "start_frame": 2161,
+                "stop_frame": 2307
+            },
+            {
+                "narration_text": "Puts onion cover into the dustbin",
+                "start_frame": 2307,
+                "stop_frame": 2374
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the onion",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the knob",
+                "start_frame": 2374,
+                "stop_frame": 2390
+            },
+            {
+                "narration_text": "Washes the onion",
+                "start_frame": 2390,
+                "stop_frame": 2424
+            },
+            {
+                "narration_text": "Closes the knob",
+                "start_frame": 2424,
+                "stop_frame": 2438
+            },
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 2438,
+                "stop_frame": 2472
+            }
+        ]
+    },
+    {
+        "task_goal": "Chop the onion and add it to the pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 2438,
+                "stop_frame": 2472
+            },
+            {
+                "narration_text": "Puts onion on the chopping board",
+                "start_frame": 2472,
+                "stop_frame": 2529
+            },
+            {
+                "narration_text": "Turns food in a fry pan with a chopstick",
+                "start_frame": 2529,
+                "stop_frame": 2918
+            },
+            {
+                "narration_text": "Presses the button",
+                "start_frame": 2918,
+                "stop_frame": 3094
+            },
+            {
+                "narration_text": "Picks knife and onion",
+                "start_frame": 3094,
+                "stop_frame": 3107
+            },
+            {
+                "narration_text": "Chops onion",
+                "start_frame": 3107,
+                "stop_frame": 3289
+            },
+            {
+                "narration_text": "Collects onion",
+                "start_frame": 3289,
+                "stop_frame": 3317
+            },
+            {
+                "narration_text": "Puts in a fry pan",
+                "start_frame": 3317,
+                "stop_frame": 3347
+            },
+            {
+                "narration_text": "Puts knife down",
+                "start_frame": 3347,
+                "stop_frame": 3396
+            },
+            {
+                "narration_text": "Turns around",
+                "start_frame": 3396,
+                "stop_frame": 3437
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the onion on the chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 2438,
+                "stop_frame": 2472
+            },
+            {
+                "narration_text": "Puts onion on the chopping board",
+                "start_frame": 2472,
+                "stop_frame": 2529
+            },
+            {
+                "narration_text": "Turns food in a fry pan with a chopstick",
+                "start_frame": 2529,
+                "stop_frame": 2918
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn food in the fry pan again",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts onion on the chopping board",
+                "start_frame": 2472,
+                "stop_frame": 2529
+            },
+            {
+                "narration_text": "Turns food in a fry pan with a chopstick",
+                "start_frame": 2529,
+                "stop_frame": 2918
+            },
+            {
+                "narration_text": "Presses the button",
+                "start_frame": 2918,
+                "stop_frame": 3094
+            }
+        ]
+    },
+    {
+        "task_goal": "Chop the onion",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks knife and onion",
+                "start_frame": 3094,
+                "stop_frame": 3107
+            },
+            {
+                "narration_text": "Chops onion",
+                "start_frame": 3107,
+                "stop_frame": 3289
+            },
+            {
+                "narration_text": "Collects onion",
+                "start_frame": 3289,
+                "stop_frame": 3317
+            }
+        ]
+    },
+    {
+        "task_goal": "Add chopped onion to the pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Collects onion",
+                "start_frame": 3289,
+                "stop_frame": 3317
+            },
+            {
+                "narration_text": "Puts in a fry pan",
+                "start_frame": 3317,
+                "stop_frame": 3347
+            },
+            {
+                "narration_text": "Puts knife down",
+                "start_frame": 3347,
+                "stop_frame": 3396
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare the tray and serve the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts knife down",
+                "start_frame": 3347,
+                "stop_frame": 3396
+            },
+            {
+                "narration_text": "Turns around",
+                "start_frame": 3396,
+                "stop_frame": 3437
+            },
+            {
+                "narration_text": "Opens a carboard",
+                "start_frame": 3437,
+                "stop_frame": 3518
+            },
+            {
+                "narration_text": "Picks a tray plate",
+                "start_frame": 3518,
+                "stop_frame": 3584
+            },
+            {
+                "narration_text": "Removes a bottle aside",
+                "start_frame": 3584,
+                "stop_frame": 3596
+            },
+            {
+                "narration_text": "Puts a tray plate down",
+                "start_frame": 3596,
+                "stop_frame": 3607
+            },
+            {
+                "narration_text": "Walks in a room",
+                "start_frame": 3607,
+                "stop_frame": 3647
+            },
+            {
+                "narration_text": "Removes fry pan from heat",
+                "start_frame": 3647,
+                "stop_frame": 3701
+            },
+            {
+                "narration_text": "Serves the fry food with chopstick",
+                "start_frame": 3701,
+                "stop_frame": 4269
+            },
+            {
+                "narration_text": "Puts fry pan and chopstick on the gas cooker",
+                "start_frame": 4269,
+                "stop_frame": 4329
+            },
+            {
+                "narration_text": "Holds a tray plate of fry food",
+                "start_frame": 4329,
+                "stop_frame": 4435
+            },
+            {
+                "narration_text": "Puts tray of food a side",
+                "start_frame": 4435,
+                "stop_frame": 4481
+            },
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 4481,
+                "stop_frame": 4581
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve and place a tray plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns around",
+                "start_frame": 3396,
+                "stop_frame": 3437
+            },
+            {
+                "narration_text": "Opens a carboard",
+                "start_frame": 3437,
+                "stop_frame": 3518
+            },
+            {
+                "narration_text": "Picks a tray plate",
+                "start_frame": 3518,
+                "stop_frame": 3584
+            },
+            {
+                "narration_text": "Removes a bottle aside",
+                "start_frame": 3584,
+                "stop_frame": 3596
+            },
+            {
+                "narration_text": "Puts a tray plate down",
+                "start_frame": 3596,
+                "stop_frame": 3607
+            },
+            {
+                "narration_text": "Walks in a room",
+                "start_frame": 3607,
+                "stop_frame": 3647
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove fry pan from heat and serve the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks in a room",
+                "start_frame": 3607,
+                "stop_frame": 3647
+            },
+            {
+                "narration_text": "Removes fry pan from heat",
+                "start_frame": 3647,
+                "stop_frame": 3701
+            },
+            {
+                "narration_text": "Serves the fry food with chopstick",
+                "start_frame": 3701,
+                "stop_frame": 4269
+            },
+            {
+                "narration_text": "Puts fry pan and chopstick on the gas cooker",
+                "start_frame": 4269,
+                "stop_frame": 4329
+            },
+            {
+                "narration_text": "Holds a tray plate of fry food",
+                "start_frame": 4329,
+                "stop_frame": 4435
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the food on a tray and put it aside",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a tray plate of fry food",
+                "start_frame": 4329,
+                "stop_frame": 4435
+            },
+            {
+                "narration_text": "Puts tray of food a side",
+                "start_frame": 4435,
+                "stop_frame": 4481
+            },
+            {
+                "narration_text": "Walks in the room",
+                "start_frame": 4481,
+                "stop_frame": 4581
+            }
+        ]
+    }
+]

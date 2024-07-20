@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efzfzquBw8aJtWx6x9rSWTfxG1Kn",
+    "object": "chat.completion",
+    "created": 1719481571,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook a meal with onions as one of the ingredients.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing onions for cooking\",\n      \"start_timestamp\": 174,\n      \"stop_timestamp\": 4718,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gathering tools and ingredients\",\n          \"start_timestamp\": 174,\n          \"stop_timestamp\": 3574\n        },\n        {\n          \"secondary_subgoal\": \"Chopping onions\",\n          \"start_timestamp\": 3574,\n          \"stop_timestamp\": 4053\n        },\n        {\n          \"secondary_subgoal\": \"Transferring chopped onions to frying pan\",\n          \"start_timestamp\": 4053,\n          \"stop_timestamp\": 4142\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Fetching additional ingredients from fridge\",\n      \"start_timestamp\": 4142,\n      \"stop_timestamp\": 4325,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Opening fridge and fetching ingredients\",\n          \"start_timestamp\": 4187,\n          \"stop_timestamp\": 4325\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Continuous chopping and frying onions\",\n      \"start_timestamp\": 4325,\n      \"stop_timestamp\": 6298,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Chopping onions\",\n          \"start_timestamp\": 5555,\n          \"stop_timestamp\": 5695\n        },\n        {\n          \"secondary_subgoal\": \"Adding chopped onions to frying pan\",\n          \"start_timestamp\": 5695,\n          \"stop_timestamp\": 5836\n        },\n        {\n          \"secondary_subgoal\": \"Stirring onions\",\n          \"start_timestamp\": 5954,\n          \"stop_timestamp\": 8235\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final preparations before serving\",\n      \"start_timestamp\": 22395,\n      \"stop_timestamp\": 30501,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stirring ingredients in pan using spaghetti spoon\",\n          \"start_timestamp\": 26250,\n          \"stop_timestamp\": 32441\n        },\n        {\n          \"secondary_subgoal\": \"Washing the spaghetti spoon\",\n          \"start_timestamp\": 30088,\n          \"stop_timestamp\": 30428\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Serving the cooked meal\",\n      \"start_timestamp\": 38753,\n      \"stop_timestamp\": 38967,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Serving food from pan\",\n          \"start_timestamp\": 38264,\n          \"stop_timestamp\": 38967\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2640,
+        "completion_tokens": 594,
+        "total_tokens": 3234
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

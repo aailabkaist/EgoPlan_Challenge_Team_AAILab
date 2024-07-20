@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehfQ9xAKsmkdpSLyNNIk2ESeoMKl",
+    "object": "chat.completion",
+    "created": 1719488004,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a sausage sandwich with juice\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Gather ingredients and utensils\",\n      \"start_timestamp\": 268,\n      \"stop_timestamp\": 1092,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Move around the kitchen\",\n          \"start_timestamp\": 268,\n          \"stop_timestamp\": 357\n        },\n        {\n          \"secondary_subgoal\": \"Interact with the drawer\",\n          \"start_timestamp\": 357,\n          \"stop_timestamp\": 485\n        },\n        {\n          \"secondary_subgoal\": \"Look around the kitchen\",\n          \"start_timestamp\": 555,\n          \"stop_timestamp\": 673\n        },\n        {\n          \"secondary_subgoal\": \"Pick cutting knife\",\n          \"start_timestamp\": 1092,\n          \"stop_timestamp\": 1120\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare sausages\",\n      \"start_timestamp\": 1897,\n      \"stop_timestamp\": 2733,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Open fridge and take sausages\",\n          \"start_timestamp\": 1897,\n          \"stop_timestamp\": 2019\n        },\n        {\n          \"secondary_subgoal\": \"Place sausages in microwave and start it\",\n          \"start_timestamp\": 2530,\n          \"stop_timestamp\": 2631\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Get bread from fridge\",\n      \"start_timestamp\": 4771,\n      \"stop_timestamp\": 5893,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick bread from fridge\",\n          \"start_timestamp\": 4771,\n          \"stop_timestamp\": 5003\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Apply tomato sauce on bread\",\n      \"start_timestamp\": 6286,\n      \"stop_timestamp\": 6831,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick tomato sauce\",\n          \"start_timestamp\": 6286,\n          \"stop_timestamp\": 6348\n        },\n        {\n          \"secondary_subgoal\": \"Apply tomato sauce on bread\",\n          \"start_timestamp\": 6523,\n          \"stop_timestamp\": 6688\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare onions\",\n      \"start_timestamp\": 7002,\n      \"stop_timestamp\": 8578,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut and assemble onion on chopping board\",\n          \"start_timestamp\": 7002,\n          \"stop_timestamp\": 8264\n        },\n        {\n          \"secondary_subgoal\": \"Put onions in the plate of sausage\",\n          \"start_timestamp\": 8578,\n          \"stop_timestamp\": 8619\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Store ingredients\",\n      \"start_timestamp\": 8808,\n      \"stop_timestamp\": 8868,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put items in fridge\",\n          \"start_timestamp\": 8808,\n          \"stop_timestamp\": 8868\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Serve juice\",\n      \"start_timestamp\": 8973,\n      \"stop_timestamp\": 9281,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick a bottle of juice and place on the floor\",\n          \"start_timestamp\": 9002,\n          \"stop_timestamp\": 9030\n        },\n        {\n          \"secondary_subgoal\": \"Hold a bottle of juice\",\n          \"start_timestamp\": 9052,\n          \"stop_timestamp\": 9101\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Set the table\",\n      \"start_timestamp\": 9385,\n      \"stop_timestamp\": 9523,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put juice bottle on the table\",\n          \"start_timestamp\": 9463,\n          \"stop_timestamp\": 9523\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1220,
+        "completion_tokens": 878,
+        "total_tokens": 2098
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

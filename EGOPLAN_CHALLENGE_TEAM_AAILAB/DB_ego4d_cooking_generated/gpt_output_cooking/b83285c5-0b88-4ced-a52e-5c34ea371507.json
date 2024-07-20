@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeOWdewFuJpCgcJWZpxVUeIp4qLz",
+    "object": "chat.completion",
+    "created": 1719475424,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and process various types of fruits and vegetables using different tools and techniques.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Initial fruit preparation\",\n      \"start_timestamp\": 107,\n      \"stop_timestamp\": 8472,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Cut fruits\", \"start_timestamp\": 107, \"stop_timestamp\": 716},\n        {\"secondary_subgoal\": \"Assemble fruit pieces\", \"start_timestamp\": 716, \"stop_timestamp\": 782},\n        {\"secondary_subgoal\": \"Cut multiple fruits\", \"start_timestamp\": 782, \"stop_timestamp\": 8472}\n      ]\n    },\n    {\n      \"subgoal\": \"Detailed mango preparation\",\n      \"start_timestamp\": 8472,\n      \"stop_timestamp\": 23183,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Remove peels\", \"start_timestamp\": 8378, \"stop_timestamp\": 8519},\n        {\"secondary_subgoal\": \"Use pickle cutter to process raw mangoes\", \"start_timestamp\": 8519, \"stop_timestamp\": 8660},\n        {\"secondary_subgoal\": \"Finalize mango processing using mango cutter\", \"start_timestamp\": 16653, \"stop_timestamp\": 23183}\n      ]\n    },\n    {\n      \"subgoal\": \"Process mango pieces\",\n      \"start_timestamp\": 23183,\n      \"stop_timestamp\": 32903,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Remove seed coat\", \"start_timestamp\": 22988, \"stop_timestamp\": 29201},\n        {\"secondary_subgoal\": \"Cutting mango pieces\", \"start_timestamp\": 34057, \"stop_timestamp\": 32903}\n      ]\n    },\n    {\n      \"subgoal\": \"Remove seed coats from mango pieces\",\n      \"start_timestamp\": 32903,\n      \"stop_timestamp\": 38902,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Detailed seed coat removal\", \"start_timestamp\": 32903, \"stop_timestamp\": 38902}\n      ]\n    },\n    {\n      \"subgoal\": \"Scratch the pieces of fruit\",\n      \"start_timestamp\": 38902,\n      \"stop_timestamp\": 48107,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Repeated scratching actions\", \"start_timestamp\": 38902, \"stop_timestamp\": 48107}\n      ]\n    },\n    {\n      \"subgoal\": \"Process vegetables\",\n      \"start_timestamp\": 48107,\n      \"stop_timestamp\": 57029,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Peel vegetables with hands\", \"start_timestamp\": 49116, \"stop_timestamp\": 54095},\n        {\"secondary_subgoal\": \"Peel vegetables with a knife\", \"start_timestamp\": 54095, \"stop_timestamp\": 57029}\n      ]\n    },\n    {\n      \"subgoal\": \"Process fruit pieces\",\n      \"start_timestamp\": 57029,\n      \"stop_timestamp\": 57803,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Remove parts of fruits\", \"start_timestamp\": 57029, \"stop_timestamp\": 57475},\n        {\"secondary_subgoal\": \"Move and arrange fruit pieces\", \"start_timestamp\": 57475, \"stop_timestamp\": 57803}\n      ]\n    },\n    {\n      \"subgoal\": \"Organize and finalize tasks\",\n      \"start_timestamp\": 57803,\n      \"stop_timestamp\": 58631,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Put down pieces of fruit\", \"start_timestamp\": 57803, \"stop_timestamp\": 58464},\n        {\"secondary_subgoal\": \"Adjust camera and hands\", \"start_timestamp\": 58464, \"stop_timestamp\": 58631}\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 12666,
+        "completion_tokens": 815,
+        "total_tokens": 13481
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

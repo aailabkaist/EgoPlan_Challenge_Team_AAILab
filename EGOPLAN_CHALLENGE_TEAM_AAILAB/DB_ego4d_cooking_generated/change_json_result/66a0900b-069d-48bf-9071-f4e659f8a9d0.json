@@ -1,0 +1,124 @@
+{
+    "overall_goal": "Prepare a cooked dish involving meat, carrots, and various spices",
+    "clips": [
+        {
+            "subgoal": "Prepare and cut ingredients",
+            "start_timestamp": 127,
+            "stop_timestamp": 4343,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and dry hands",
+                    "start_timestamp": 127,
+                    "stop_timestamp": 1193
+                },
+                {
+                    "secondary_subgoal": "Dispose of carrot peelings",
+                    "start_timestamp": 265,
+                    "stop_timestamp": 912
+                },
+                {
+                    "secondary_subgoal": "Cut carrots",
+                    "start_timestamp": 1193,
+                    "stop_timestamp": 2652
+                },
+                {
+                    "secondary_subgoal": "Cut other food items and place in bowl",
+                    "start_timestamp": 2652,
+                    "stop_timestamp": 4343
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cookware and additional ingredients",
+            "start_timestamp": 4343,
+            "stop_timestamp": 6161,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare pan and remove meat",
+                    "start_timestamp": 4343,
+                    "stop_timestamp": 5204
+                },
+                {
+                    "secondary_subgoal": "Prepare saucepan and unwrap meat",
+                    "start_timestamp": 5204,
+                    "stop_timestamp": 6161
+                }
+            ]
+        },
+        {
+            "subgoal": "Chop the meat",
+            "start_timestamp": 6161,
+            "stop_timestamp": 7251,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Chop meat and place in saucepan",
+                    "start_timestamp": 6161,
+                    "stop_timestamp": 7251
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up and prepare for cooking",
+            "start_timestamp": 7251,
+            "stop_timestamp": 8009,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and dry hands, prepare sponge",
+                    "start_timestamp": 7251,
+                    "stop_timestamp": 7996
+                },
+                {
+                    "secondary_subgoal": "Lift the pan and place on cooker",
+                    "start_timestamp": 7996,
+                    "stop_timestamp": 8009
+                }
+            ]
+        },
+        {
+            "subgoal": "Start cooking the meat",
+            "start_timestamp": 8009,
+            "stop_timestamp": 10391,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Heat the pan and add oil",
+                    "start_timestamp": 8009,
+                    "stop_timestamp": 8302
+                },
+                {
+                    "secondary_subgoal": "Add spices and start cooking",
+                    "start_timestamp": 8302,
+                    "stop_timestamp": 10391
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook with both meat and carrots",
+            "start_timestamp": 10391,
+            "stop_timestamp": 12277,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Combine meat and carrots with spices",
+                    "start_timestamp": 10391,
+                    "stop_timestamp": 12277
+                }
+            ]
+        },
+        {
+            "subgoal": "Add additional spices and ingredients",
+            "start_timestamp": 12277,
+            "stop_timestamp": 21367,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add spices and mix",
+                    "start_timestamp": 12277,
+                    "stop_timestamp": 19447
+                },
+                {
+                    "secondary_subgoal": "Add next ingredient and taste test",
+                    "start_timestamp": 19447,
+                    "stop_timestamp": 21367
+                }
+            ]
+        }
+    ]
+}

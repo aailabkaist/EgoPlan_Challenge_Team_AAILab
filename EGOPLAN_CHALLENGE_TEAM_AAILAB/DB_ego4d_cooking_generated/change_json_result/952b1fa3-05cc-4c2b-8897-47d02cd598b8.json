@@ -1,0 +1,200 @@
+{
+    "overall_goal": "Prepare vegetables by cutting, cleaning, and placing them in a bowl.",
+    "clips": [
+        {
+            "subgoal": "Cutting okra and placing it in the bowl",
+            "start_timestamp": 37,
+            "stop_timestamp": 2383,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking okra",
+                    "start_timestamp": 37,
+                    "stop_timestamp": 72
+                },
+                {
+                    "secondary_subgoal": "Shaking the okra",
+                    "start_timestamp": 72,
+                    "stop_timestamp": 111
+                },
+                {
+                    "secondary_subgoal": "Cutting okra",
+                    "start_timestamp": 111,
+                    "stop_timestamp": 467
+                },
+                {
+                    "secondary_subgoal": "Putting pieces of okra in the bowl",
+                    "start_timestamp": 467,
+                    "stop_timestamp": 508
+                },
+                {
+                    "secondary_subgoal": "Picking okra",
+                    "start_timestamp": 508,
+                    "stop_timestamp": 555
+                },
+                {
+                    "secondary_subgoal": "Cutting okra",
+                    "start_timestamp": 555,
+                    "stop_timestamp": 1041
+                },
+                {
+                    "secondary_subgoal": "Putting pieces of okra in the bowl",
+                    "start_timestamp": 1041,
+                    "stop_timestamp": 1073
+                },
+                {
+                    "secondary_subgoal": "Picking okra",
+                    "start_timestamp": 1073,
+                    "stop_timestamp": 1226
+                },
+                {
+                    "secondary_subgoal": "Cutting okra",
+                    "start_timestamp": 1226,
+                    "stop_timestamp": 1378
+                },
+                {
+                    "secondary_subgoal": "Shaking hand to remove okra bits",
+                    "start_timestamp": 1378,
+                    "stop_timestamp": 1447
+                },
+                {
+                    "secondary_subgoal": "Cutting okra",
+                    "start_timestamp": 1447,
+                    "stop_timestamp": 1741
+                },
+                {
+                    "secondary_subgoal": "Putting pieces of okra in the bowl",
+                    "start_timestamp": 1741,
+                    "stop_timestamp": 1846
+                },
+                {
+                    "secondary_subgoal": "Picking okra",
+                    "start_timestamp": 1846,
+                    "stop_timestamp": 1875
+                },
+                {
+                    "secondary_subgoal": "Cutting okra",
+                    "start_timestamp": 1875,
+                    "stop_timestamp": 2271
+                },
+                {
+                    "secondary_subgoal": "Putting piece of okra in the bowl",
+                    "start_timestamp": 2271,
+                    "stop_timestamp": 2383
+                }
+            ]
+        },
+        {
+            "subgoal": "Cutting endive and placing it in the bowl",
+            "start_timestamp": 2383,
+            "stop_timestamp": 3493,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking endive",
+                    "start_timestamp": 2383,
+                    "stop_timestamp": 2479
+                },
+                {
+                    "secondary_subgoal": "Cutting endive",
+                    "start_timestamp": 2479,
+                    "stop_timestamp": 3102
+                },
+                {
+                    "secondary_subgoal": "Putting pieces of endive in the bowl",
+                    "start_timestamp": 3102,
+                    "stop_timestamp": 3493
+                }
+            ]
+        },
+        {
+            "subgoal": "Cutting and placing endive in the bowl and touching pieces of endive",
+            "start_timestamp": 3493,
+            "stop_timestamp": 4252,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cutting endive",
+                    "start_timestamp": 3493,
+                    "stop_timestamp": 4044
+                },
+                {
+                    "secondary_subgoal": "Touching pieces of endive",
+                    "start_timestamp": 4044,
+                    "stop_timestamp": 4135
+                },
+                {
+                    "secondary_subgoal": "Picking okra",
+                    "start_timestamp": 4135,
+                    "stop_timestamp": 4252
+                }
+            ]
+        },
+        {
+            "subgoal": "Opening door and walking",
+            "start_timestamp": 4252,
+            "stop_timestamp": 4818,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Looking around",
+                    "start_timestamp": 4252,
+                    "stop_timestamp": 4297
+                },
+                {
+                    "secondary_subgoal": "Opening the door",
+                    "start_timestamp": 4297,
+                    "stop_timestamp": 4360
+                },
+                {
+                    "secondary_subgoal": "Walking",
+                    "start_timestamp": 4360,
+                    "stop_timestamp": 4549
+                },
+                {
+                    "secondary_subgoal": "Cutting vegetable leaves",
+                    "start_timestamp": 4549,
+                    "stop_timestamp": 4764
+                },
+                {
+                    "secondary_subgoal": "Walking",
+                    "start_timestamp": 4764,
+                    "stop_timestamp": 4818
+                }
+            ]
+        },
+        {
+            "subgoal": "Cutting and preparing vegetable leaves, and cleaning them",
+            "start_timestamp": 4818,
+            "stop_timestamp": 5964,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cutting vegetable leaves",
+                    "start_timestamp": 4818,
+                    "stop_timestamp": 5097
+                },
+                {
+                    "secondary_subgoal": "Walking",
+                    "start_timestamp": 5097,
+                    "stop_timestamp": 5347
+                },
+                {
+                    "secondary_subgoal": "Cleaning vegetable leaves in the bowl",
+                    "start_timestamp": 5347,
+                    "stop_timestamp": 5490
+                },
+                {
+                    "secondary_subgoal": "Plucking leaves from the twig",
+                    "start_timestamp": 5490,
+                    "stop_timestamp": 5740
+                },
+                {
+                    "secondary_subgoal": "Cutting vegetable leaves",
+                    "start_timestamp": 5740,
+                    "stop_timestamp": 5864
+                },
+                {
+                    "secondary_subgoal": "Putting vegetable in the bowl",
+                    "start_timestamp": 5864,
+                    "stop_timestamp": 5964
+                }
+            ]
+        }
+    ]
+}

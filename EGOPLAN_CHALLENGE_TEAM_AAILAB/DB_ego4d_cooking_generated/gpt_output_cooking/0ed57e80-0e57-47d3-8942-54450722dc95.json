@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efQx5cU2hZcidcJGR5oHqbDLwctY",
+    "object": "chat.completion",
+    "created": 1719479419,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Clean and organize kitchen dishes and utensils\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Collect and wash dishes and utensils\",\n      \"start_timestamp\": 52,\n      \"stop_timestamp\": 3579,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Collect all dirty dishes and utensils\",\n          \"start_timestamp\": 52,\n          \"stop_timestamp\": 188\n        },\n        {\n          \"secondary_subgoal\": \"Wash the kitchen cloth\",\n          \"start_timestamp\": 215,\n          \"stop_timestamp\": 459\n        },\n        {\n          \"secondary_subgoal\": \"Wipe and clean the tray and sink table\",\n          \"start_timestamp\": 624,\n          \"stop_timestamp\": 838\n        },\n        {\n          \"secondary_subgoal\": \"Place the oven tray on a shelf\",\n          \"start_timestamp\": 872,\n          \"stop_timestamp\": 1027\n        },\n        {\n          \"secondary_subgoal\": \"Wash another set of dishes and utensils\",\n          \"start_timestamp\": 1116,\n          \"stop_timestamp\": 2154\n        },\n        {\n          \"secondary_subgoal\": \"Continue washing the washing cloth\",\n          \"start_timestamp\": 2189,\n          \"stop_timestamp\": 2435\n        },\n        {\n          \"secondary_subgoal\": \"Rinse and place more bowls on sink table\",\n          \"start_timestamp\": 2585,\n          \"stop_timestamp\": 3386\n        },\n        {\n          \"secondary_subgoal\": \"Rinse and place chopsticks on sink table\",\n          \"start_timestamp\": 3403,\n          \"stop_timestamp\": 3507\n        },\n        {\n          \"secondary_subgoal\": \"Fold and place the polythene bag on a shelf\",\n          \"start_timestamp\": 3579,\n          \"stop_timestamp\": 3921\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Dry and organize dishes and utensils\",\n      \"start_timestamp\": 3980,\n      \"stop_timestamp\": 6672,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Dry and place bowls on shelf\",\n          \"start_timestamp\": 4036,\n          \"stop_timestamp\": 4663\n        },\n        {\n          \"secondary_subgoal\": \"Dry and place chopsticks in drawer\",\n          \"start_timestamp\": 4708,\n          \"stop_timestamp\": 4849\n        },\n        {\n          \"secondary_subgoal\": \"Dry #unsure object and place it on table\",\n          \"start_timestamp\": 4911,\n          \"stop_timestamp\": 5004\n        },\n        {\n          \"secondary_subgoal\": \"Fold and hang hand towel\",\n          \"start_timestamp\": 5023,\n          \"stop_timestamp\": 5066\n        },\n        {\n          \"secondary_subgoal\": \"Complete cleaning of kitchen trays, sink, and table\",\n          \"start_timestamp\": 5096,\n          \"stop_timestamp\": 6082\n        },\n        {\n          \"secondary_subgoal\": \"Organize and place bowls on shelf\",\n          \"start_timestamp\": 6388,\n          \"stop_timestamp\": 6672\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2407,
+        "completion_tokens": 669,
+        "total_tokens": 3076
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

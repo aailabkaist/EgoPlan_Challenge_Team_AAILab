@@ -1,0 +1,205 @@
+{
+    "overall_goal": "Prepare and cook a meal while maintaining kitchen cleanliness",
+    "clips": [
+        {
+            "subgoal": "Gather and prepare ingredients",
+            "start_timestamp": 0,
+            "stop_timestamp": 423,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wipe hands and close the cabinet",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 162
+                },
+                {
+                    "secondary_subgoal": "Retrieve and place chopsticks",
+                    "start_timestamp": 162,
+                    "stop_timestamp": 348
+                },
+                {
+                    "secondary_subgoal": "Place chopsticks on sink",
+                    "start_timestamp": 348,
+                    "stop_timestamp": 423
+                }
+            ]
+        },
+        {
+            "subgoal": "Add seasoning to pot",
+            "start_timestamp": 423,
+            "stop_timestamp": 1066,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Activate gas cooker and retrieve spice",
+                    "start_timestamp": 423,
+                    "stop_timestamp": 627
+                },
+                {
+                    "secondary_subgoal": "Add spice to water",
+                    "start_timestamp": 627,
+                    "stop_timestamp": 924
+                },
+                {
+                    "secondary_subgoal": "Return spice and close shelve",
+                    "start_timestamp": 924,
+                    "stop_timestamp": 1066
+                }
+            ]
+        },
+        {
+            "subgoal": "Add vegetables to pot",
+            "start_timestamp": 1066,
+            "stop_timestamp": 2000,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add carrots and potatoes to pot",
+                    "start_timestamp": 1066,
+                    "stop_timestamp": 1881
+                },
+                {
+                    "secondary_subgoal": "Clean and place bowls in sink",
+                    "start_timestamp": 1881,
+                    "stop_timestamp": 2000
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle tomato",
+            "start_timestamp": 2000,
+            "stop_timestamp": 2324,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick tomato and grab paper",
+                    "start_timestamp": 2000,
+                    "stop_timestamp": 2201
+                },
+                {
+                    "secondary_subgoal": "Place tomato on chopping board",
+                    "start_timestamp": 2201,
+                    "stop_timestamp": 2324
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir potatoes and handle kitchen waste",
+            "start_timestamp": 2324,
+            "stop_timestamp": 3906,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir potatoes with chopsticks",
+                    "start_timestamp": 2324,
+                    "stop_timestamp": 2875
+                },
+                {
+                    "secondary_subgoal": "Clean and dispose of kitchen waste",
+                    "start_timestamp": 2875,
+                    "stop_timestamp": 3362
+                },
+                {
+                    "secondary_subgoal": "Clean sink and wash hands",
+                    "start_timestamp": 3362,
+                    "stop_timestamp": 3906
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle soup and wash dishes",
+            "start_timestamp": 3906,
+            "stop_timestamp": 8081,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Scooping soup and pour it in the sink",
+                    "start_timestamp": 3906,
+                    "stop_timestamp": 5092
+                },
+                {
+                    "secondary_subgoal": "Wash dishes and tools",
+                    "start_timestamp": 5092,
+                    "stop_timestamp": 7279
+                },
+                {
+                    "secondary_subgoal": "Rinsing dishes and wiping hands",
+                    "start_timestamp": 7279,
+                    "stop_timestamp": 8081
+                }
+            ]
+        },
+        {
+            "subgoal": "Scoop and taste soup",
+            "start_timestamp": 8081,
+            "stop_timestamp": 10289,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Scoop and taste soup",
+                    "start_timestamp": 8081,
+                    "stop_timestamp": 9372
+                },
+                {
+                    "secondary_subgoal": "Drop food stuffs in the pan",
+                    "start_timestamp": 9372,
+                    "stop_timestamp": 10289
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare additional ingredients",
+            "start_timestamp": 10289,
+            "stop_timestamp": 11841,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle chopping board and washing hands",
+                    "start_timestamp": 10289,
+                    "stop_timestamp": 11532
+                },
+                {
+                    "secondary_subgoal": "Wipe sink top",
+                    "start_timestamp": 11532,
+                    "stop_timestamp": 11841
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix and taste food",
+            "start_timestamp": 11841,
+            "stop_timestamp": 17839,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir and taste food",
+                    "start_timestamp": 11841,
+                    "stop_timestamp": 17678
+                },
+                {
+                    "secondary_subgoal": "Open and close drawers",
+                    "start_timestamp": 17678,
+                    "stop_timestamp": 17839
+                }
+            ]
+        },
+        {
+            "subgoal": "Cover cooking pot and clean up",
+            "start_timestamp": 17839,
+            "stop_timestamp": 21194,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cover cooking pot, manage fridge",
+                    "start_timestamp": 17839,
+                    "stop_timestamp": 19392
+                },
+                {
+                    "secondary_subgoal": "Clean hands and put utensils in sink",
+                    "start_timestamp": 19392,
+                    "stop_timestamp": 19801
+                },
+                {
+                    "secondary_subgoal": "Wash and rinse kitchen tools",
+                    "start_timestamp": 19801,
+                    "stop_timestamp": 20892
+                },
+                {
+                    "secondary_subgoal": "Wash and wipe sink area",
+                    "start_timestamp": 20892,
+                    "stop_timestamp": 21194
+                }
+            ]
+        }
+    ]
+}

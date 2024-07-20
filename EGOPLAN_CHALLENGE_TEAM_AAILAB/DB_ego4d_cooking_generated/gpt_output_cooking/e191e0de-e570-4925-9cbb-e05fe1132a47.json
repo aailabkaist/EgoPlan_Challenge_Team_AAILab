@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9degnpOYoDdbL6MkiC5k2hWVeGyE5",
+    "object": "chat.completion",
+    "created": 1719238229,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal by gathering ingredients, washing, chopping, and cooking them.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Gather ingredients from the fridge\",\n      \"start_timestamp\": 137,\n      \"stop_timestamp\": 1257,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Open the fridge and take ingredients\", \"start_timestamp\": 137, \"stop_timestamp\": 1257}\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare ingredients at the table\",\n      \"start_timestamp\": 1379,\n      \"stop_timestamp\": 1967,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Cut and fold ingredients\", \"start_timestamp\": 1379, \"stop_timestamp\": 1781},\n        {\"secondary_subgoal\": \"Take French beans and put them aside\", \"start_timestamp\": 1781, \"stop_timestamp\": 1967}\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and wash additional ingredients\",\n      \"start_timestamp\": 2233,\n      \"stop_timestamp\": 6008,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Open and close book, set cucumber aside\", \"start_timestamp\": 2233, \"stop_timestamp\": 2941},\n        {\"secondary_subgoal\": \"Take and wash additional ingredients\", \"start_timestamp\": 2941, \"stop_timestamp\": 6008}\n      ]\n    },\n    {\n      \"subgoal\": \"Chop ingredients and prepare them for cooking\",\n      \"start_timestamp\": 6008,\n      \"stop_timestamp\": 8677,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Chop and place ingredients in bowl\", \"start_timestamp\": 6008, \"stop_timestamp\": 8677}\n      ]\n    },\n    {\n      \"subgoal\": \"Finish preparation of ingredients\",\n      \"start_timestamp\": 8677,\n      \"stop_timestamp\": 12463,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Chop liver meat and place in bowl\", \"start_timestamp\": 8677, \"stop_timestamp\": 8902},\n        {\"secondary_subgoal\": \"Continue chopping and washing ingredients\", \"start_timestamp\": 9001, \"stop_timestamp\": 12463}\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking\",\n      \"start_timestamp\": 12463,\n      \"stop_timestamp\": 18855,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Prepare French beans for cooking\", \"start_timestamp\": 12463, \"stop_timestamp\": 13364},\n        {\"secondary_subgoal\": \"Stir and check French beans\", \"start_timestamp\": 14437, \"stop_timestamp\": 18955}\n      ]\n    },\n    {\n      \"subgoal\": \"Finish preparation and clean up\",\n      \"start_timestamp\": 18718,\n      \"stop_timestamp\": 18955,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Stir bush beans and check if cooked\", \"start_timestamp\": 18718, \"stop_timestamp\": 18955}\n      ]\n    }\n  ]\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2484,
+        "completion_tokens": 665,
+        "total_tokens": 3149
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

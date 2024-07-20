@@ -1,0 +1,427 @@
+[
+    {
+        "task_goal": "Stir the food with cooking stick.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 122,
+                "stop_frame": 164
+            },
+            {
+                "narration_text": "Touches handle pan",
+                "start_frame": 164,
+                "stop_frame": 258
+            },
+            {
+                "narration_text": "Puts the fork on plate",
+                "start_frame": 258,
+                "stop_frame": 297
+            }
+        ]
+    },
+    {
+        "task_goal": "Use fork for stirring the food.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Touches handle pan",
+                "start_frame": 164,
+                "stop_frame": 258
+            },
+            {
+                "narration_text": "Puts the fork on plate",
+                "start_frame": 258,
+                "stop_frame": 297
+            },
+            {
+                "narration_text": "Picks the cooking stick from the pan",
+                "start_frame": 297,
+                "stop_frame": 322
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir the food with cooking stick.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the fork on plate",
+                "start_frame": 258,
+                "stop_frame": 297
+            },
+            {
+                "narration_text": "Picks the cooking stick from the pan",
+                "start_frame": 297,
+                "stop_frame": 322
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 322,
+                "stop_frame": 1600
+            },
+            {
+                "narration_text": "Presses cooker button",
+                "start_frame": 1600,
+                "stop_frame": 1636
+            }
+        ]
+    },
+    {
+        "task_goal": "Press cooker buttons for adjustments.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 322,
+                "stop_frame": 1600
+            },
+            {
+                "narration_text": "Presses cooker button",
+                "start_frame": 1600,
+                "stop_frame": 1636
+            },
+            {
+                "narration_text": "Presses cooker button",
+                "start_frame": 1636,
+                "stop_frame": 1723
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 1723,
+                "stop_frame": 2029
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir the food with cooking stick.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Presses cooker button",
+                "start_frame": 1636,
+                "stop_frame": 1723
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 1723,
+                "stop_frame": 2029
+            },
+            {
+                "narration_text": "Puts the cooking stick on the pan",
+                "start_frame": 2029,
+                "stop_frame": 2355
+            }
+        ]
+    },
+    {
+        "task_goal": "Put down and pick up cooking stick; stir the food.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 1723,
+                "stop_frame": 2029
+            },
+            {
+                "narration_text": "Puts the cooking stick on the pan",
+                "start_frame": 2029,
+                "stop_frame": 2355
+            },
+            {
+                "narration_text": "Stirs the food using fork",
+                "start_frame": 2355,
+                "stop_frame": 2728
+            },
+            {
+                "narration_text": "Picks the cooking stick from the pan",
+                "start_frame": 2728,
+                "stop_frame": 2744
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 2744,
+                "stop_frame": 3911
+            },
+            {
+                "narration_text": "Puts the cooking stick on the pan",
+                "start_frame": 3911,
+                "stop_frame": 4370
+            }
+        ]
+    },
+    {
+        "task_goal": "Taste the food using fork.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks some food using fork",
+                "start_frame": 4486,
+                "stop_frame": 4588
+            },
+            {
+                "narration_text": "Puts some food on plate",
+                "start_frame": 4588,
+                "stop_frame": 4726
+            },
+            {
+                "narration_text": "Tastes the food",
+                "start_frame": 4726,
+                "stop_frame": 4853
+            },
+            {
+                "narration_text": "Pours some water from plate",
+                "start_frame": 4853,
+                "stop_frame": 4948
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir the food with cooking stick.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the cooking stick from the pan",
+                "start_frame": 8112,
+                "stop_frame": 8126
+            },
+            {
+                "narration_text": "Touches the pan handle",
+                "start_frame": 8126,
+                "stop_frame": 8129
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 8129,
+                "stop_frame": 8341
+            },
+            {
+                "narration_text": "Raises hand",
+                "start_frame": 8341,
+                "stop_frame": 8377
+            }
+        ]
+    },
+    {
+        "task_goal": "Use fork to remove and stir food.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the folk",
+                "start_frame": 9056,
+                "stop_frame": 9113
+            },
+            {
+                "narration_text": "Removes food using the folk",
+                "start_frame": 9113,
+                "stop_frame": 9208
+            },
+            {
+                "narration_text": "Dips folk to the food",
+                "start_frame": 9208,
+                "stop_frame": 9247
+            },
+            {
+                "narration_text": "Removes food using the folk",
+                "start_frame": 9247,
+                "stop_frame": 9316
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 9316,
+                "stop_frame": 9393
+            },
+            {
+                "narration_text": "Puts the folk on the plate",
+                "start_frame": 9393,
+                "stop_frame": 9578
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 9578,
+                "stop_frame": 10012
+            },
+            {
+                "narration_text": "Puts cooking stick on top of pan",
+                "start_frame": 10012,
+                "stop_frame": 10110
+            },
+            {
+                "narration_text": "Picks the folk",
+                "start_frame": 10110,
+                "stop_frame": 10153
+            },
+            {
+                "narration_text": "Picks the food with the folk",
+                "start_frame": 10153,
+                "stop_frame": 10266
+            },
+            {
+                "narration_text": "Puts the folk on the plate",
+                "start_frame": 10266,
+                "stop_frame": 10295
+            },
+            {
+                "narration_text": "Picks the cooking stick",
+                "start_frame": 10295,
+                "stop_frame": 10321
+            }
+        ]
+    },
+    {
+        "task_goal": "Press fire button and open/close drawer.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Presses fire button",
+                "start_frame": 10655,
+                "stop_frame": 10850
+            },
+            {
+                "narration_text": "Touches the utensils",
+                "start_frame": 10850,
+                "stop_frame": 10955
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 10955,
+                "stop_frame": 11021
+            },
+            {
+                "narration_text": "Touches unsure from drawer",
+                "start_frame": 11021,
+                "stop_frame": 11073
+            },
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 11073,
+                "stop_frame": 11102
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 11102,
+                "stop_frame": 11157
+            },
+            {
+                "narration_text": "Picks the unsure from drawer",
+                "start_frame": 11157,
+                "stop_frame": 11254
+            },
+            {
+                "narration_text": "Presses fire button",
+                "start_frame": 11254,
+                "stop_frame": 11465
+            }
+        ]
+    },
+    {
+        "task_goal": "Press fire button.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Presses fire button",
+                "start_frame": 11254,
+                "stop_frame": 11465
+            },
+            {
+                "narration_text": "Picks food from the pan",
+                "start_frame": 11465,
+                "stop_frame": 11616
+            },
+            {
+                "narration_text": "Puts food to the cooking pan",
+                "start_frame": 11616,
+                "stop_frame": 11675
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir the food with cooking stick.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the cooking stick from pan",
+                "start_frame": 12312,
+                "stop_frame": 12335
+            },
+            {
+                "narration_text": "Puts cooking stick to the pan",
+                "start_frame": 12335,
+                "stop_frame": 12382
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 12382,
+                "stop_frame": 12835
+            },
+            {
+                "narration_text": "Picks the ingredients container",
+                "start_frame": 12835,
+                "stop_frame": 12853
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir the food and add ingredients.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the ingredients container",
+                "start_frame": 12835,
+                "stop_frame": 12853
+            },
+            {
+                "narration_text": "Opens ingredients container",
+                "start_frame": 12853,
+                "stop_frame": 12884
+            },
+            {
+                "narration_text": "Adds ingredients to the food",
+                "start_frame": 12884,
+                "stop_frame": 13026
+            },
+            {
+                "narration_text": "Returns the ingredients container",
+                "start_frame": 13026,
+                "stop_frame": 13077
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 13077,
+                "stop_frame": 13822
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve the food.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the folk",
+                "start_frame": 13864,
+                "stop_frame": 13887
+            },
+            {
+                "narration_text": "Picks the cooking pan with food",
+                "start_frame": 13887,
+                "stop_frame": 13938
+            },
+            {
+                "narration_text": "Returns the folk",
+                "start_frame": 13938,
+                "stop_frame": 14060
+            },
+            {
+                "narration_text": "Serves the food",
+                "start_frame": 14060,
+                "stop_frame": 15986
+            },
+            {
+                "narration_text": "Stirs the food using folk",
+                "start_frame": 15986,
+                "stop_frame": 16165
+            },
+            {
+                "narration_text": "Serves the food",
+                "start_frame": 16165,
+                "stop_frame": 16236
+            },
+            {
+                "narration_text": "Removes food from serving spoon",
+                "start_frame": 16236,
+                "stop_frame": 16329
+            },
+            {
+                "narration_text": "Puts folk on the plate",
+                "start_frame": 16329,
+                "stop_frame": 16355
+            }
+        ]
+    }
+]

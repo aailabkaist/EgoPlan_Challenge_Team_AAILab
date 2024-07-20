@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egDWqKYpbqGyIKvzmEMvl1WTuleN",
+    "object": "chat.completion",
+    "created": 1719482430,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Blend rice into flour and cook it.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Blend rice into flour using the blender.\",\n      \"start_timestamp\": \"0\",\n      \"stop_timestamp\": \"12074\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare the blender.\",\n          \"start_timestamp\": \"0\",\n          \"stop_timestamp\": \"173\"\n        },\n        {\n          \"secondary_subgoal\": \"Add Ingrediants to blender.\",\n          \"start_timestamp\": \"829\",\n          \"stop_timestamp\": \"1748\"\n        },\n        {\n          \"secondary_subgoal\": \"Start blending.\",\n          \"start_timestamp\": \"1748\",\n          \"stop_timestamp\": \"1909\"\n        },\n        {\n          \"secondary_subgoal\": \"Restart the blender with more rice.\",\n          \"start_timestamp\": \"3037\",\n          \"stop_timestamp\": \"3160\"\n        },\n        ...\n      ]\n    },\n    {\n      \"subgoal\": \"Cook the blended rice flour on a stove.\",\n      \"start_timestamp\": \"15037\",\n      \"stop_timestamp\": \"15037\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Walk to the stove, turing it on using the lighter.\",\n          \"start_timestamp\": \"15037\",\n          \"stop_timestamp\": \"15150\"\n        },\n        {\n          \"secondary_subgoal\": \"Pour the flour into the pan.\",\n          \"start_timestamp\": \"15211\",\n          \"stop_timestamp\": \"15211\"\n        },\n        ...\n      ]\n    },\n    ...\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7805,
+        "completion_tokens": 335,
+        "total_tokens": 8140
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

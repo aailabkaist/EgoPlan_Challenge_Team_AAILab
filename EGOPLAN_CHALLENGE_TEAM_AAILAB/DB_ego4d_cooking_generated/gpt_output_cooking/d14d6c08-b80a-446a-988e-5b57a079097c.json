@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egGZ9SNyzzRmFEbJx4wNz4ZptSDP",
+    "object": "chat.completion",
+    "created": 1719482619,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook a meal in the kitchen\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare the cooking area\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 994,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Explore the kitchen area\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 545\n        },\n        {\n          \"secondary_subgoal\": \"Inspect sink and gas cooker\",\n          \"start_timestamp\": 545,\n          \"stop_timestamp\": 727\n        },\n        {\n          \"secondary_subgoal\": \"Pour contents into frying pan\",\n          \"start_timestamp\": 727,\n          \"stop_timestamp\": 885\n        },\n        {\n          \"secondary_subgoal\": \"Dispose waste in the bin\",\n          \"start_timestamp\": 885,\n          \"stop_timestamp\": 933\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook the meal\",\n      \"start_timestamp\": 994,\n      \"stop_timestamp\": 7743,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Monitor progress and regulate heat\",\n          \"start_timestamp\": 1449,\n          \"stop_timestamp\": 1599,\n          \"secondary_subgoal\": \"Turn on the gas cooker\",\n          \"start_timestamp\": 1599,\n          \"stop_timestamp\": 1686\n        },\n        {\n          \"secondary_subgoal\": \"Frequent checking of the cooking process\",\n          \"start_timestamp\": 1449,\n          \"stop_timestamp\": 7743,\n          \"secondary_subgoal\": \"Continue stirring and regulating heat\",\n          \"start_timestamp\": 1449,\n          \"stop_timestamp\": 7395\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handle additional ingredients\",\n      \"start_timestamp\": 8191,\n      \"stop_timestamp\": 12458,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Intermittent looking and preparation\",\n          \"start_timestamp\": 7805,\n          \"stop_timestamp\": 8484,\n          \"secondary_subgoal\": \"Interact with toaster and objects in paper bag\",\n          \"start_timestamp\": 8484,\n          \"stop_timestamp\": 9033,\n        },\n        {\n          \"secondary_subgoal\": \"Prepare to refrigerate items\",\n          \"start_timestamp\": 9033,\n          \"stop_timestamp\": 9750,\n          \"secondary_subgoal\": \"Open fridge and store items\",\n          \"start_timestamp\": 9558,\n          \"stop_timestamp\": 9643,\n        },\n        {\n          \"secondary_subgoal\": \"Crack and cook egg in the pan\",\n          \"start_timestamp\": 9750,\n          \"stop_timestamp\": 10632,\n        },\n        {\n          \"secondary_subgoal\": \"Adjust meal pieces in cooking pan\",\n          \"start_timestamp\": 11539,\n          \"stop_timestamp\": 11895,\n        },\n        {\n          \"secondary_subgoal\": \"Move around the house\",\n          \"start_timestamp\": 11895,\n          \"stop_timestamp\": 12103,\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2975,
+        "completion_tokens": 658,
+        "total_tokens": 3633
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

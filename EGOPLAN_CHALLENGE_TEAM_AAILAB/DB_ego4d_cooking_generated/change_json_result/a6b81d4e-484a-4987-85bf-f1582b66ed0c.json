@@ -1,0 +1,49 @@
+{
+    "overall_goal": "Preparing to use a knife in the kitchen",
+    "clips": [
+        {
+            "subgoal": "Adjusting the camera to ensure proper recording",
+            "start_timestamp": 0,
+            "stop_timestamp": 1728,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Initial camera adjustment",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 945
+                },
+                {
+                    "secondary_subgoal": "Further camera adjustment after walking",
+                    "start_timestamp": 981,
+                    "stop_timestamp": 1133
+                },
+                {
+                    "secondary_subgoal": "Final camera adjustment with knife",
+                    "start_timestamp": 1261,
+                    "stop_timestamp": 1586
+                },
+                {
+                    "secondary_subgoal": "Rearranging camera after putting down the knife",
+                    "start_timestamp": 1628,
+                    "stop_timestamp": 1728
+                }
+            ]
+        },
+        {
+            "subgoal": "Manipulating the knife",
+            "start_timestamp": 1133,
+            "stop_timestamp": 1628,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking up the knife",
+                    "start_timestamp": 1133,
+                    "stop_timestamp": 1261
+                },
+                {
+                    "secondary_subgoal": "Putting down the knife",
+                    "start_timestamp": 1586,
+                    "stop_timestamp": 1628
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,482 @@
+[
+    {
+        "task_goal": "Wash the sponge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the sponge",
+                "start_frame": 34,
+                "stop_frame": 208
+            },
+            {
+                "narration_text": "Puts the sponge on the sink",
+                "start_frame": 208,
+                "stop_frame": 233
+            },
+            {
+                "narration_text": "Pours water in the sink",
+                "start_frame": 233,
+                "stop_frame": 312
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the sponge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the sponge",
+                "start_frame": 34,
+                "stop_frame": 208
+            },
+            {
+                "narration_text": "Puts the sponge on the sink",
+                "start_frame": 208,
+                "stop_frame": 233
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the sponge on the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the sponge",
+                "start_frame": 34,
+                "stop_frame": 208
+            },
+            {
+                "narration_text": "Puts the sponge on the sink",
+                "start_frame": 208,
+                "stop_frame": 233
+            },
+            {
+                "narration_text": "Pours water in the sink",
+                "start_frame": 233,
+                "stop_frame": 312
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the sponge on the sink",
+                "start_frame": 208,
+                "stop_frame": 233
+            },
+            {
+                "narration_text": "Pours water in the sink",
+                "start_frame": 233,
+                "stop_frame": 312
+            },
+            {
+                "narration_text": "Washes the cooking pot",
+                "start_frame": 312,
+                "stop_frame": 663
+            },
+            {
+                "narration_text": "Puts cooking pot on the cooker",
+                "start_frame": 663,
+                "stop_frame": 727
+            },
+            {
+                "narration_text": "Washes the bowl",
+                "start_frame": 727,
+                "stop_frame": 877
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour water into the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the sponge on the sink",
+                "start_frame": 208,
+                "stop_frame": 233
+            },
+            {
+                "narration_text": "Pours water in the sink",
+                "start_frame": 233,
+                "stop_frame": 312
+            },
+            {
+                "narration_text": "Washes the cooking pot",
+                "start_frame": 312,
+                "stop_frame": 663
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours water in the sink",
+                "start_frame": 233,
+                "stop_frame": 312
+            },
+            {
+                "narration_text": "Washes the cooking pot",
+                "start_frame": 312,
+                "stop_frame": 663
+            },
+            {
+                "narration_text": "Puts cooking pot on the cooker",
+                "start_frame": 663,
+                "stop_frame": 727
+            }
+        ]
+    },
+    {
+        "task_goal": "Place cooking pot on the cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the cooking pot",
+                "start_frame": 312,
+                "stop_frame": 663
+            },
+            {
+                "narration_text": "Puts cooking pot on the cooker",
+                "start_frame": 663,
+                "stop_frame": 727
+            },
+            {
+                "narration_text": "Washes the bowl",
+                "start_frame": 727,
+                "stop_frame": 877
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts cooking pot on the cooker",
+                "start_frame": 663,
+                "stop_frame": 727
+            },
+            {
+                "narration_text": "Washes the bowl",
+                "start_frame": 727,
+                "stop_frame": 877
+            },
+            {
+                "narration_text": "Puts the bowl on the cabinet",
+                "start_frame": 877,
+                "stop_frame": 918
+            },
+            {
+                "narration_text": "Washes the sieve basin",
+                "start_frame": 918,
+                "stop_frame": 1214
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts cooking pot on the cooker",
+                "start_frame": 663,
+                "stop_frame": 727
+            },
+            {
+                "narration_text": "Washes the bowl",
+                "start_frame": 727,
+                "stop_frame": 877
+            },
+            {
+                "narration_text": "Puts the bowl on the cabinet",
+                "start_frame": 877,
+                "stop_frame": 918
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the bowl on the cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the bowl",
+                "start_frame": 727,
+                "stop_frame": 877
+            },
+            {
+                "narration_text": "Puts the bowl on the cabinet",
+                "start_frame": 877,
+                "stop_frame": 918
+            },
+            {
+                "narration_text": "Washes the sieve basin",
+                "start_frame": 918,
+                "stop_frame": 1214
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the sieve basin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the bowl on the cabinet",
+                "start_frame": 877,
+                "stop_frame": 918
+            },
+            {
+                "narration_text": "Washes the sieve basin",
+                "start_frame": 918,
+                "stop_frame": 1214
+            },
+            {
+                "narration_text": "Puts the sieve basin on the cabinet",
+                "start_frame": 1214,
+                "stop_frame": 1245
+            },
+            {
+                "narration_text": "Pours water in the sink",
+                "start_frame": 1245,
+                "stop_frame": 1298
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the sieve basin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the bowl on the cabinet",
+                "start_frame": 877,
+                "stop_frame": 918
+            },
+            {
+                "narration_text": "Washes the sieve basin",
+                "start_frame": 918,
+                "stop_frame": 1214
+            },
+            {
+                "narration_text": "Puts the sieve basin on the cabinet",
+                "start_frame": 1214,
+                "stop_frame": 1245
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the sieve basin on the cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the sieve basin",
+                "start_frame": 918,
+                "stop_frame": 1214
+            },
+            {
+                "narration_text": "Puts the sieve basin on the cabinet",
+                "start_frame": 1214,
+                "stop_frame": 1245
+            },
+            {
+                "narration_text": "Pours water in the sink",
+                "start_frame": 1245,
+                "stop_frame": 1298
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour water in the sink and clean up",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the sieve basin on the cabinet",
+                "start_frame": 1214,
+                "stop_frame": 1245
+            },
+            {
+                "narration_text": "Pours water in the sink",
+                "start_frame": 1245,
+                "stop_frame": 1298
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 1298,
+                "stop_frame": 1325
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 1325,
+                "stop_frame": 1361
+            },
+            {
+                "narration_text": "Pours water in the sink",
+                "start_frame": 1361,
+                "stop_frame": 1425
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 1425,
+                "stop_frame": 1454
+            },
+            {
+                "narration_text": "Shakes the hand",
+                "start_frame": 1454,
+                "stop_frame": 1611
+            },
+            {
+                "narration_text": "Wipes the hands with the towel",
+                "start_frame": 1611,
+                "stop_frame": 1710
+            },
+            {
+                "narration_text": "Adjusts the camera",
+                "start_frame": 1710,
+                "stop_frame": 1810
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour water into the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the sieve basin on the cabinet",
+                "start_frame": 1214,
+                "stop_frame": 1245
+            },
+            {
+                "narration_text": "Pours water in the sink",
+                "start_frame": 1245,
+                "stop_frame": 1298
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 1298,
+                "stop_frame": 1325
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn off the tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours water in the sink",
+                "start_frame": 1245,
+                "stop_frame": 1298
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 1298,
+                "stop_frame": 1325
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 1325,
+                "stop_frame": 1361
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 1298,
+                "stop_frame": 1325
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 1325,
+                "stop_frame": 1361
+            },
+            {
+                "narration_text": "Pours water in the sink",
+                "start_frame": 1361,
+                "stop_frame": 1425
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour water into the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 1325,
+                "stop_frame": 1361
+            },
+            {
+                "narration_text": "Pours water in the sink",
+                "start_frame": 1361,
+                "stop_frame": 1425
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 1425,
+                "stop_frame": 1454
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn off the tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours water in the sink",
+                "start_frame": 1361,
+                "stop_frame": 1425
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 1425,
+                "stop_frame": 1454
+            },
+            {
+                "narration_text": "Shakes the hand",
+                "start_frame": 1454,
+                "stop_frame": 1611
+            }
+        ]
+    },
+    {
+        "task_goal": "Shake hands to remove excess water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 1425,
+                "stop_frame": 1454
+            },
+            {
+                "narration_text": "Shakes the hand",
+                "start_frame": 1454,
+                "stop_frame": 1611
+            },
+            {
+                "narration_text": "Wipes the hands with the towel",
+                "start_frame": 1611,
+                "stop_frame": 1710
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe hands with a towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Shakes the hand",
+                "start_frame": 1454,
+                "stop_frame": 1611
+            },
+            {
+                "narration_text": "Wipes the hands with the towel",
+                "start_frame": 1611,
+                "stop_frame": 1710
+            },
+            {
+                "narration_text": "Adjusts the camera",
+                "start_frame": 1710,
+                "stop_frame": 1810
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjust the camera",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Wipes the hands with the towel",
+                "start_frame": 1611,
+                "stop_frame": 1710
+            },
+            {
+                "narration_text": "Adjusts the camera",
+                "start_frame": 1710,
+                "stop_frame": 1810
+            }
+        ]
+    }
+]

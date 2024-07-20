@@ -1,0 +1,782 @@
+[
+    {
+        "task_goal": "Set up the kitchen for cooking",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks down the stairs",
+                "start_frame": 130,
+                "stop_frame": 787
+            },
+            {
+                "narration_text": "Walks in to the kitchen",
+                "start_frame": 787,
+                "stop_frame": 912
+            },
+            {
+                "narration_text": "Opens the kitchen cabinet",
+                "start_frame": 912,
+                "stop_frame": 962
+            },
+            {
+                "narration_text": "Removes a pot from the cabinet",
+                "start_frame": 962,
+                "stop_frame": 1002
+            },
+            {
+                "narration_text": "Places the pot on the kitchen countertop",
+                "start_frame": 1002,
+                "stop_frame": 1066
+            },
+            {
+                "narration_text": "Turns on the lights",
+                "start_frame": 1066,
+                "stop_frame": 1210
+            },
+            {
+                "narration_text": "Opens the kitchen cabinet",
+                "start_frame": 1210,
+                "stop_frame": 1273
+            },
+            {
+                "narration_text": "Removes a plastic nylon bag",
+                "start_frame": 1273,
+                "stop_frame": 1477
+            },
+            {
+                "narration_text": "Puts the plastic nylon paper in the dustbin",
+                "start_frame": 1477,
+                "stop_frame": 1815
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 1815,
+                "stop_frame": 1914
+            }
+        ]
+    },
+    {
+        "task_goal": "Open kitchen cabinet and remove a pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks in to the kitchen",
+                "start_frame": 787,
+                "stop_frame": 912
+            },
+            {
+                "narration_text": "Opens the kitchen cabinet",
+                "start_frame": 912,
+                "stop_frame": 962
+            },
+            {
+                "narration_text": "Removes a pot from the cabinet",
+                "start_frame": 962,
+                "stop_frame": 1002
+            },
+            {
+                "narration_text": "Places the pot on the kitchen countertop",
+                "start_frame": 1002,
+                "stop_frame": 1066
+            }
+        ]
+    },
+    {
+        "task_goal": "Place pot on kitchen countertop",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Removes a pot from the cabinet",
+                "start_frame": 962,
+                "stop_frame": 1002
+            },
+            {
+                "narration_text": "Places the pot on the kitchen countertop",
+                "start_frame": 1002,
+                "stop_frame": 1066
+            },
+            {
+                "narration_text": "Turns on the lights",
+                "start_frame": 1066,
+                "stop_frame": 1210
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn on the lights",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the pot on the kitchen countertop",
+                "start_frame": 1002,
+                "stop_frame": 1066
+            },
+            {
+                "narration_text": "Turns on the lights",
+                "start_frame": 1066,
+                "stop_frame": 1210
+            },
+            {
+                "narration_text": "Opens the kitchen cabinet",
+                "start_frame": 1210,
+                "stop_frame": 1273
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove a plastic nylon bag and dispose it",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the kitchen cabinet",
+                "start_frame": 1210,
+                "stop_frame": 1273
+            },
+            {
+                "narration_text": "Removes a plastic nylon bag",
+                "start_frame": 1273,
+                "stop_frame": 1477
+            },
+            {
+                "narration_text": "Puts the plastic nylon paper in the dustbin",
+                "start_frame": 1477,
+                "stop_frame": 1815
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 1815,
+                "stop_frame": 1914
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the plastic nylon paper in the dustbin",
+                "start_frame": 1477,
+                "stop_frame": 1815
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 1815,
+                "stop_frame": 1914
+            },
+            {
+                "narration_text": "Removes a plastic container",
+                "start_frame": 1914,
+                "stop_frame": 1988
+            },
+            {
+                "narration_text": "Places the plastic container on the kitchen countertop",
+                "start_frame": 1988,
+                "stop_frame": 2070
+            },
+            {
+                "narration_text": "Picks a plastic container from the kitchen shelf",
+                "start_frame": 2070,
+                "stop_frame": 2195
+            },
+            {
+                "narration_text": "Places the plastic container on the kitchen countertop",
+                "start_frame": 2195,
+                "stop_frame": 2292
+            },
+            {
+                "narration_text": "Opens the plastic container",
+                "start_frame": 2292,
+                "stop_frame": 2384
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove plastic container from fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 1815,
+                "stop_frame": 1914
+            },
+            {
+                "narration_text": "Removes a plastic container",
+                "start_frame": 1914,
+                "stop_frame": 1988
+            },
+            {
+                "narration_text": "Places the plastic container on the kitchen countertop",
+                "start_frame": 1988,
+                "stop_frame": 2070
+            }
+        ]
+    },
+    {
+        "task_goal": "Place plastic container on the kitchen countertop",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Removes a plastic container",
+                "start_frame": 1914,
+                "stop_frame": 1988
+            },
+            {
+                "narration_text": "Places the plastic container on the kitchen countertop",
+                "start_frame": 1988,
+                "stop_frame": 2070
+            },
+            {
+                "narration_text": "Picks a plastic container from the kitchen shelf",
+                "start_frame": 2070,
+                "stop_frame": 2195
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick another plastic container from the kitchen shelf",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the plastic container on the kitchen countertop",
+                "start_frame": 1988,
+                "stop_frame": 2070
+            },
+            {
+                "narration_text": "Picks a plastic container from the kitchen shelf",
+                "start_frame": 2070,
+                "stop_frame": 2195
+            },
+            {
+                "narration_text": "Places the plastic container on the kitchen countertop",
+                "start_frame": 2195,
+                "stop_frame": 2292
+            }
+        ]
+    },
+    {
+        "task_goal": "Place plastic container on the kitchen countertop",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a plastic container from the kitchen shelf",
+                "start_frame": 2070,
+                "stop_frame": 2195
+            },
+            {
+                "narration_text": "Places the plastic container on the kitchen countertop",
+                "start_frame": 2195,
+                "stop_frame": 2292
+            },
+            {
+                "narration_text": "Opens the plastic container",
+                "start_frame": 2292,
+                "stop_frame": 2384
+            }
+        ]
+    },
+    {
+        "task_goal": "Measure and mix ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the plastic container on the kitchen countertop",
+                "start_frame": 2195,
+                "stop_frame": 2292
+            },
+            {
+                "narration_text": "Opens the plastic container",
+                "start_frame": 2292,
+                "stop_frame": 2384
+            },
+            {
+                "narration_text": "Pours water in the sink",
+                "start_frame": 2384,
+                "stop_frame": 3227
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 3227,
+                "stop_frame": 3312
+            },
+            {
+                "narration_text": "Removes a weighing scale",
+                "start_frame": 3312,
+                "stop_frame": 3424
+            },
+            {
+                "narration_text": "Places the scale on the kitchen countertop",
+                "start_frame": 3424,
+                "stop_frame": 3473
+            },
+            {
+                "narration_text": "Removes the pot lid",
+                "start_frame": 3473,
+                "stop_frame": 3495
+            },
+            {
+                "narration_text": "Places the lid on the kitchen countertop",
+                "start_frame": 3495,
+                "stop_frame": 3509
+            },
+            {
+                "narration_text": "Places the pot on the scale",
+                "start_frame": 3509,
+                "stop_frame": 3573
+            },
+            {
+                "narration_text": "Turns the weighing scale on",
+                "start_frame": 3573,
+                "stop_frame": 3686
+            }
+        ]
+    },
+    {
+        "task_goal": "Open plastic container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the plastic container on the kitchen countertop",
+                "start_frame": 2195,
+                "stop_frame": 2292
+            },
+            {
+                "narration_text": "Opens the plastic container",
+                "start_frame": 2292,
+                "stop_frame": 2384
+            },
+            {
+                "narration_text": "Pours water in the sink",
+                "start_frame": 2384,
+                "stop_frame": 3227
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour water in the sink and remove the weighing scale from drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the plastic container",
+                "start_frame": 2292,
+                "stop_frame": 2384
+            },
+            {
+                "narration_text": "Pours water in the sink",
+                "start_frame": 2384,
+                "stop_frame": 3227
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 3227,
+                "stop_frame": 3312
+            },
+            {
+                "narration_text": "Removes a weighing scale",
+                "start_frame": 3312,
+                "stop_frame": 3424
+            },
+            {
+                "narration_text": "Places the scale on the kitchen countertop",
+                "start_frame": 3424,
+                "stop_frame": 3473
+            }
+        ]
+    },
+    {
+        "task_goal": "Place the pot on the scale and prepare the mixture",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Removes a weighing scale",
+                "start_frame": 3312,
+                "stop_frame": 3424
+            },
+            {
+                "narration_text": "Places the scale on the kitchen countertop",
+                "start_frame": 3424,
+                "stop_frame": 3473
+            },
+            {
+                "narration_text": "Removes the pot lid",
+                "start_frame": 3473,
+                "stop_frame": 3495
+            },
+            {
+                "narration_text": "Places the lid on the kitchen countertop",
+                "start_frame": 3495,
+                "stop_frame": 3509
+            },
+            {
+                "narration_text": "Places the pot on the scale",
+                "start_frame": 3509,
+                "stop_frame": 3573
+            },
+            {
+                "narration_text": "Turns the weighing scale on",
+                "start_frame": 3573,
+                "stop_frame": 3686
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn the weighing scale on and add water to mixture",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the pot on the scale",
+                "start_frame": 3509,
+                "stop_frame": 3573
+            },
+            {
+                "narration_text": "Turns the weighing scale on",
+                "start_frame": 3573,
+                "stop_frame": 3686
+            },
+            {
+                "narration_text": "Pours the mixture of beans and rice in the pot",
+                "start_frame": 3686,
+                "stop_frame": 4403
+            },
+            {
+                "narration_text": "Opens the water tap",
+                "start_frame": 4403,
+                "stop_frame": 4413
+            },
+            {
+                "narration_text": "Puts water in the plastic container",
+                "start_frame": 4413,
+                "stop_frame": 4501
+            },
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 4501,
+                "stop_frame": 4626
+            },
+            {
+                "narration_text": "Pours water into the pot",
+                "start_frame": 4626,
+                "stop_frame": 4755
+            },
+            {
+                "narration_text": "Opens the water tap",
+                "start_frame": 4755,
+                "stop_frame": 4780
+            },
+            {
+                "narration_text": "Puts water in the plastic container",
+                "start_frame": 4780,
+                "stop_frame": 4803
+            },
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 4803,
+                "stop_frame": 4877
+            },
+            {
+                "narration_text": "Pours water into the pot",
+                "start_frame": 4877,
+                "stop_frame": 5033
+            }
+        ]
+    },
+    {
+        "task_goal": "Transfer the pot to the cooker and start cooking",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 4803,
+                "stop_frame": 4877
+            },
+            {
+                "narration_text": "Pours water into the pot",
+                "start_frame": 4877,
+                "stop_frame": 5033
+            },
+            {
+                "narration_text": "Places the plastic container on the kitchen countertop",
+                "start_frame": 5033,
+                "stop_frame": 5066
+            },
+            {
+                "narration_text": "Picks up the pot",
+                "start_frame": 5066,
+                "stop_frame": 5117
+            },
+            {
+                "narration_text": "Places the pot on the kitchen cooker",
+                "start_frame": 5117,
+                "stop_frame": 5178
+            },
+            {
+                "narration_text": "Turns on the fire",
+                "start_frame": 5178,
+                "stop_frame": 5300
+            },
+            {
+                "narration_text": "Removes unsure from the plastic container",
+                "start_frame": 5300,
+                "stop_frame": 5742
+            },
+            {
+                "narration_text": "Adds unsure in the pot",
+                "start_frame": 5742,
+                "stop_frame": 5780
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove and chop cucumbers",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cuts the serviette",
+                "start_frame": 14119,
+                "stop_frame": 14194
+            },
+            {
+                "narration_text": "Wipes the hand using a serviette",
+                "start_frame": 14194,
+                "stop_frame": 14310
+            },
+            {
+                "narration_text": "Picks the spoon",
+                "start_frame": 14310,
+                "stop_frame": 14334
+            },
+            {
+                "narration_text": "Stirs food using a spoon",
+                "start_frame": 14334,
+                "stop_frame": 14554
+            },
+            {
+                "narration_text": "Drops the spoon in the bowl",
+                "start_frame": 14554,
+                "stop_frame": 14580
+            },
+            {
+                "narration_text": "Stares at the cabinet",
+                "start_frame": 14580,
+                "stop_frame": 14726
+            },
+            {
+                "narration_text": "Walks in the kitchen",
+                "start_frame": 14726,
+                "stop_frame": 14882
+            },
+            {
+                "narration_text": "Picks a packet of chocolate",
+                "start_frame": 14882,
+                "stop_frame": 14959
+            },
+            {
+                "narration_text": "Opens the packet of chocolate",
+                "start_frame": 14959,
+                "stop_frame": 15570
+            },
+            {
+                "narration_text": "Cuts the chocolate with the left hand",
+                "start_frame": 15570,
+                "stop_frame": 15778
+            },
+            {
+                "narration_text": "Eats the chocolate",
+                "start_frame": 15778,
+                "stop_frame": 15798
+            },
+            {
+                "narration_text": "Closes the packet of chocolate",
+                "start_frame": 15798,
+                "stop_frame": 15866
+            },
+            {
+                "narration_text": "Drops the packet on the shelf",
+                "start_frame": 15866,
+                "stop_frame": 16060
+            },
+            {
+                "narration_text": "Walks in the kitchen",
+                "start_frame": 16060,
+                "stop_frame": 16220
+            },
+            {
+                "narration_text": "Picks the spoon",
+                "start_frame": 16220,
+                "stop_frame": 16257
+            },
+            {
+                "narration_text": "Stirs food using a spoon",
+                "start_frame": 16257,
+                "stop_frame": 17527
+            },
+            {
+                "narration_text": "Taps the food on the pot",
+                "start_frame": 17527,
+                "stop_frame": 17568
+            },
+            {
+                "narration_text": "Puts down the spoon",
+                "start_frame": 17568,
+                "stop_frame": 17674
+            },
+            {
+                "narration_text": "Looks at the food",
+                "start_frame": 17674,
+                "stop_frame": 17763
+            },
+            {
+                "narration_text": "Takes the spoon",
+                "start_frame": 17763,
+                "stop_frame": 17892
+            }
+        ]
+    },
+    {
+        "task_goal": "Add spices to the food and stir",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the spoon",
+                "start_frame": 17763,
+                "stop_frame": 17892
+            },
+            {
+                "narration_text": "Taps the spoon on the pot",
+                "start_frame": 17892,
+                "stop_frame": 17993
+            },
+            {
+                "narration_text": "Tastes the soup",
+                "start_frame": 17993,
+                "stop_frame": 18137
+            },
+            {
+                "narration_text": "Puts down the spoon",
+                "start_frame": 18137,
+                "stop_frame": 18192
+            },
+            {
+                "narration_text": "Takes the container",
+                "start_frame": 18192,
+                "stop_frame": 18255
+            },
+            {
+                "narration_text": "Opens the lid",
+                "start_frame": 18255,
+                "stop_frame": 18329
+            },
+            {
+                "narration_text": "Adds the spices in the food",
+                "start_frame": 18329,
+                "stop_frame": 18446
+            },
+            {
+                "narration_text": "Closes the container",
+                "start_frame": 18446,
+                "stop_frame": 18502
+            },
+            {
+                "narration_text": "Puts down the container",
+                "start_frame": 18502,
+                "stop_frame": 18610
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 18610,
+                "stop_frame": 19202
+            },
+            {
+                "narration_text": "Puts the spoon on the plate",
+                "start_frame": 19202,
+                "stop_frame": 19287
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 19287,
+                "stop_frame": 19767
+            },
+            {
+                "narration_text": "Touches the spoon",
+                "start_frame": 19767,
+                "stop_frame": 20409
+            },
+            {
+                "narration_text": "Takes the spoon",
+                "start_frame": 20409,
+                "stop_frame": 20449
+            },
+            {
+                "narration_text": "Stirs the soup in the pan",
+                "start_frame": 20449,
+                "stop_frame": 20747
+            },
+            {
+                "narration_text": "Puts down the spoon",
+                "start_frame": 20747,
+                "stop_frame": 20847
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 20847,
+                "stop_frame": 21356
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve the meal",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 35371,
+                "stop_frame": 35449
+            },
+            {
+                "narration_text": "Serves the food into the bowl",
+                "start_frame": 35449,
+                "stop_frame": 35795
+            },
+            {
+                "narration_text": "Drops the pot in the sink",
+                "start_frame": 35795,
+                "stop_frame": 35827
+            },
+            {
+                "narration_text": "Turns on the tap",
+                "start_frame": 35827,
+                "stop_frame": 35859
+            },
+            {
+                "narration_text": "Stirs the pot with the spoon",
+                "start_frame": 35859,
+                "stop_frame": 35959
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve food into a bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 35371,
+                "stop_frame": 35449
+            },
+            {
+                "narration_text": "Serves the food into the bowl",
+                "start_frame": 35449,
+                "stop_frame": 35795
+            },
+            {
+                "narration_text": "Drops the pot in the sink",
+                "start_frame": 35795,
+                "stop_frame": 35827
+            },
+            {
+                "narration_text": "Turns on the tap",
+                "start_frame": 35827,
+                "stop_frame": 35859
+            },
+            {
+                "narration_text": "Stirs the pot with the spoon",
+                "start_frame": 35859,
+                "stop_frame": 35959
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean the pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns on the tap",
+                "start_frame": 35827,
+                "stop_frame": 35859
+            },
+            {
+                "narration_text": "Stirs the pot with the spoon",
+                "start_frame": 35859,
+                "stop_frame": 35959
+            }
+        ]
+    }
+]

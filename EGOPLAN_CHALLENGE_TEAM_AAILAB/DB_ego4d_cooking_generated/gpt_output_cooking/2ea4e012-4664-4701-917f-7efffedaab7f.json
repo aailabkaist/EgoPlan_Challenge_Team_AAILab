@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eekQYop6u6yufAiibyBdk4fj1rfZ",
+    "object": "chat.completion",
+    "created": 1719476782,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Decorate wheat with white cream and floral designs using various tools and materials\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare tools and materials\",\n      \"start_timestamp\": 1,\n      \"stop_timestamp\": 2027,\n      \"sub_clips\": [\n        { \"secondary_subgoal\": \"Hold and pick tools\", \"start_timestamp\": 1, \"stop_timestamp\": 67 },\n        { \"secondary_subgoal\": \"Talk and interact\", \"start_timestamp\": 67, \"stop_timestamp\": 2027 }\n      ]\n    },\n    {\n      \"subgoal\": \"Lard white cream on wheat\",\n      \"start_timestamp\": 2027,\n      \"stop_timestamp\": 3873,\n      \"sub_clips\": [\n        { \"secondary_subgoal\": \"Lard cream and talk intermittently\", \"start_timestamp\": 189, \"stop_timestamp\": 2011 },\n        { \"secondary_subgoal\": \"Continue larding cream\", \"start_timestamp\": 537, \"stop_timestamp\": 3873 }\n      ]\n    },\n    {\n      \"subgoal\": \"Fold and spread nylon paper\",\n      \"start_timestamp\": 4721,\n      \"stop_timestamp\": 5993,\n      \"sub_clips\": [\n        { \"secondary_subgoal\": \"Fold nylon paper\", \"start_timestamp\": 4876, \"stop_timestamp\": 5612 },\n        { \"secondary_subgoal\": \"Spread nylon paper and interact\", \"start_timestamp\": 5738, \"stop_timestamp\": 5993 }\n      ]\n    },\n    {\n      \"subgoal\": \"Resume larding white cream on wheat\",\n      \"start_timestamp\": 5993,\n      \"stop_timestamp\": 12516,\n      \"sub_clips\": [\n        { \"secondary_subgoal\": \"Lard cream and fold paper\", \"start_timestamp\": 6052, \"stop_timestamp\": 10411 },\n        { \"secondary_subgoal\": \"Make patterns with icing sugar\", \"start_timestamp\": 8475, \"stop_timestamp\": 12516 }\n      ]\n    },\n    {\n      \"subgoal\": \"Make complex floral designs\",\n      \"start_timestamp\": 17077,\n      \"stop_timestamp\": 24590,\n      \"sub_clips\": [\n        { \"secondary_subgoal\": \"Adjust design and paper\", \"start_timestamp\": 17077, \"stop_timestamp\": 20132 },\n        { \"secondary_subgoal\": \"Continue creating floral designs\", \"start_timestamp\": 20132, \"stop_timestamp\": 24590 }\n      ]\n    },\n    {\n      \"subgoal\": \"Stain white cream on wheat and finalize designs\",\n      \"start_timestamp\": 25666,\n      \"stop_timestamp\": 159562,\n      \"sub_clips\": [\n        { \"secondary_subgoal\": \"Stain white cream and address tools\", \"start_timestamp\": 25666, \"stop_timestamp\": 31736 },\n        { \"secondary_subgoal\": \"Create floral designs and adjust paper\", \"start_timestamp\": 159224, \"stop_timestamp\": 159562 }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3042,
+        "completion_tokens": 649,
+        "total_tokens": 3691
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

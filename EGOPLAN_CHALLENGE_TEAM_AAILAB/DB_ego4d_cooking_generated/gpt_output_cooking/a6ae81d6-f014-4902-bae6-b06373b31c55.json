@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehVIxXrxT9hMYbRp1ujL8VFctrgL",
+    "object": "chat.completion",
+    "created": 1719487376,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"To clean the kitchen items including bowls, chopsticks, and a cup.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing to clean kitchen items\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 229,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Adjust the camera\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 118\n        },\n        {\n          \"secondary_subgoal\": \"Gather cleaning tools\",\n          \"start_timestamp\": 118,\n          \"stop_timestamp\": 262\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning kitchen items\",\n      \"start_timestamp\": 283,\n      \"stop_timestamp\": 3811,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare for cleaning\",\n          \"start_timestamp\": 283,\n          \"stop_timestamp\": 448\n        },\n        {\n          \"secondary_subgoal\": \"Clean bowl\",\n          \"start_timestamp\": 448,\n          \"stop_timestamp\": 545\n        },\n        {\n          \"secondary_subgoal\": \"Scrub the bowl\",\n          \"start_timestamp\": 545,\n          \"stop_timestamp\": 853\n        },\n        {\n          \"secondary_subgoal\": \"Scrub another bowl\",\n          \"start_timestamp\": 938,\n          \"stop_timestamp\": 1116\n        },\n        {\n          \"secondary_subgoal\": \"Scrub chopsticks\",\n          \"start_timestamp\": 1138,\n          \"stop_timestamp\": 1231\n        },\n        {\n          \"secondary_subgoal\": \"Clean cup\",\n          \"start_timestamp\": 1432,\n          \"stop_timestamp\": 1520\n        },\n        {\n          \"secondary_subgoal\": \"Scrub bowl again\",\n          \"start_timestamp\": 1600,\n          \"stop_timestamp\": 1999\n        },\n        {\n          \"secondary_subgoal\": \"Scrub bowl repeatedly\",\n          \"start_timestamp\": 2236,\n          \"stop_timestamp\": 2524\n        },\n        {\n          \"secondary_subgoal\": \"Clean bowl and communication\",\n          \"start_timestamp\": 2549,\n          \"stop_timestamp\": 3526\n        },\n        {\n          \"secondary_subgoal\": \"Clean and put down items\",\n          \"start_timestamp\": 3581,\n          \"stop_timestamp\": 3754\n        },\n        {\n          \"secondary_subgoal\": \"Close the tap\",\n          \"start_timestamp\": 3811,\n          \"stop_timestamp\": 3852\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finishing up\",\n      \"start_timestamp\": 3852,\n      \"stop_timestamp\": 5162,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Dry and tidy up\",\n          \"start_timestamp\": 3852,\n          \"stop_timestamp\": 4616\n        },\n        {\n          \"secondary_subgoal\": \"Fix and clean the sink strainer\",\n          \"start_timestamp\": 4694,\n          \"stop_timestamp\": 4873\n        },\n        {\n          \"secondary_subgoal\": \"Wash and dry hands\",\n          \"start_timestamp\": 4893,\n          \"stop_timestamp\": 5062\n        },\n        {\n          \"secondary_subgoal\": \"Adjust the camera again\",\n          \"start_timestamp\": 5062,\n          \"stop_timestamp\": 5162\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1330,
+        "completion_tokens": 719,
+        "total_tokens": 2049
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

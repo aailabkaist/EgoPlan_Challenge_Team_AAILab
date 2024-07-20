@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehSZXO7MXz5GcFe0xUqTTGdzlW9r",
+    "object": "chat.completion",
+    "created": 1719487207,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Prepare a meal involving meat and vegetables with spices and egg.\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Store vegetables in the fridge and clean up the kitchen tools.\",\n            \"start_timestamp\": 0,\n            \"stop_timestamp\": 2338,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Store vegetables in the fridge\",\n                    \"start_timestamp\": 0,\n                    \"stop_timestamp\": 163\n                },\n                {\n                    \"secondary_subgoal\": \"Clean the kitchen tools\",\n                    \"start_timestamp\": 232,\n                    \"stop_timestamp\": 1425\n                },\n                {\n                    \"secondary_subgoal\": \"Clean the sink area\",\n                    \"start_timestamp\": 1425,\n                    \"stop_timestamp\": 2291\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Prepare the meat with spices.\",\n            \"start_timestamp\": 2338,\n            \"stop_timestamp\": 7050,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Get items needed for preparation\",\n                    \"start_timestamp\": 2338,\n                    \"stop_timestamp\": 2872\n                },\n                {\n                    \"secondary_subgoal\": \"Prepare the meat\",\n                    \"start_timestamp\": 2872,\n                    \"stop_timestamp\": 6836\n                },\n                {\n                    \"secondary_subgoal\": \"Clean hands\",\n                    \"start_timestamp\": 6836,\n                    \"stop_timestamp\": 7050\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Season the meat and prepare cooking mixture\",\n            \"start_timestamp\": 7050,\n            \"stop_timestamp\": 17797,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Season the meat with salt\",\n                    \"start_timestamp\": 7050,\n                    \"stop_timestamp\": 7760\n                },\n                {\n                    \"secondary_subgoal\": \"Clean hands\",\n                    \"start_timestamp\": 7802,\n                    \"stop_timestamp\": 8041\n                },\n                {\n                    \"secondary_subgoal\": \"Clean the kitchen of papers\",\n                    \"start_timestamp\": 8098,\n                    \"stop_timestamp\": 8218\n                },\n                {\n                    \"secondary_subgoal\": \"Prepare spices\",\n                    \"start_timestamp\": 8270,\n                    \"stop_timestamp\": 10605\n                },\n                {\n                    \"secondary_subgoal\": \"Mix spices and meat\",\n                    \"start_timestamp\": 10605,\n                    \"stop_timestamp\": 13480\n                },\n                {\n                    \"secondary_subgoal\": \"Prepare cooking pot and mix contents\",\n                    \"start_timestamp\": 13653,\n                    \"stop_timestamp\": 17797\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"End meal preparation with clean-up\",\n            \"start_timestamp\": 17797,\n            \"stop_timestamp\": 20992,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Manage sachets and organize\",\n                    \"start_timestamp\": 17797,\n                    \"stop_timestamp\": 19610\n                },\n                {\n                    \"secondary_subgoal\": \"Set up plates and chopsticks\",\n                    \"start_timestamp\": 19610,\n                    \"stop_timestamp\": 20754\n                },\n                {\n                    \"secondary_subgoal\": \"Final hand washing and plate setup\",\n                    \"start_timestamp\": 20754,\n                    \"stop_timestamp\": 20992\n                }\n            ]\n        }\n    ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2402,
+        "completion_tokens": 722,
+        "total_tokens": 3124
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

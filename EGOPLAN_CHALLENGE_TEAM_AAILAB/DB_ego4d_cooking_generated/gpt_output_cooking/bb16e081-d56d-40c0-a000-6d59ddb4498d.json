@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efqPLZosj9nUSmBlfmudvS6MN2hX",
+    "object": "chat.completion",
+    "created": 1719480997,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"prepare and cook paste on a cooking pan using a firewood stove\",\n  \"clips\": [\n    {\n      \"subgoal\": \"add flour to the paste in the pan\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 116,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"pour flour onto the paste\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 70\n        },\n        {\n          \"secondary_subgoal\": \"take flour from container\",\n          \"start_timestamp\": 70,\n          \"stop_timestamp\": 116\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"cover and set aside flour container\",\n      \"start_timestamp\": 116,\n      \"stop_timestamp\": 506,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"pick container lid\",\n          \"start_timestamp\": 156,\n          \"stop_timestamp\": 178\n        },\n        {\n          \"secondary_subgoal\": \"close container with lid\",\n          \"start_timestamp\": 178,\n          \"stop_timestamp\": 409\n        },\n        {\n          \"secondary_subgoal\": \"lift and put aside container\",\n          \"start_timestamp\": 409,\n          \"stop_timestamp\": 506\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"stir and cook paste\",\n      \"start_timestamp\": 506,\n      \"stop_timestamp\": 16661,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"stir paste with spatula\",\n          \"start_timestamp\": 506,\n          \"stop_timestamp\": 874\n        },\n        {\n          \"secondary_subgoal\": \"adjust and add firewood\",\n          \"start_timestamp\": 2178,\n          \"stop_timestamp\": 2292\n        },\n        {\n          \"secondary_subgoal\": \"stir and handle paste with spatula\",\n          \"start_timestamp\": 2292,\n          \"stop_timestamp\": 8708\n        },\n        {\n          \"secondary_subgoal\": \"turn and flatten paste with spatula\",\n          \"start_timestamp\": 8708,\n          \"stop_timestamp\": 16661\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"prepare plate and clean cooking area\",\n      \"start_timestamp\": 16661,\n      \"stop_timestamp\": 21328,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"prepare plate and put on floor\",\n          \"start_timestamp\": 17561,\n          \"stop_timestamp\": 17627\n        },\n        {\n          \"secondary_subgoal\": \"wipe hands and move cooking utensils\",\n          \"start_timestamp\": 17717,\n          \"stop_timestamp\": 17872\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"serve food from pot to the plate\",\n      \"start_timestamp\": 17872,\n      \"stop_timestamp\": 20242,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"pour food from pot to plate\",\n          \"start_timestamp\": 18911,\n          \"stop_timestamp\": 19656\n        },\n        {\n          \"secondary_subgoal\": \"spread food in the plate\",\n          \"start_timestamp\": 19656,\n          \"stop_timestamp\": 19919\n        },\n        {\n          \"secondary_subgoal\": \"fetch water from bucket with jug\",\n          \"start_timestamp\": 19967,\n          \"stop_timestamp\": 20120\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"adjust and add firewood\",\n      \"start_timestamp\": 20368,\n      \"stop_timestamp\": 21328,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"turn firewood and add charcoal\",\n          \"start_timestamp\": 20368,\n          \"stop_timestamp\": 20402\n        },\n        {\n          \"secondary_subgoal\": \"wipe hands and move clothing\",\n          \"start_timestamp\": 21203,\n          \"stop_timestamp\": 21328\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2526,
+        "completion_tokens": 848,
+        "total_tokens": 3374
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

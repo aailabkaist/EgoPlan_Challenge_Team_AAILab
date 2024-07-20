@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgSkIMEN2wJJlXkKcXeLBoyDnFWN",
+    "object": "chat.completion",
+    "created": 1719245046,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook food using different ingredients and utensils in the kitchen\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare the cooking area and gather initial materials\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 302,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Touch the tablet and walk around for inspection\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 169\n        },\n        {\n          \"secondary_subgoal\": \"Pick a piece of paper\",\n          \"start_timestamp\": 169,\n          \"stop_timestamp\": 302\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare the cooking materials\",\n      \"start_timestamp\": 302,\n      \"stop_timestamp\": 5886,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Drop the paper on the kitchen top and walk around\",\n          \"start_timestamp\": 302,\n          \"stop_timestamp\": 383\n        },\n        {\n          \"secondary_subgoal\": \"Open the microwave, pick another piece of paper, and walk around\",\n          \"start_timestamp\": 383,\n          \"stop_timestamp\": 685\n        },\n        {\n          \"secondary_subgoal\": \"Drop the paper on the tray and cut it\",\n          \"start_timestamp\": 685,\n          \"stop_timestamp\": 874\n        },\n        {\n          \"secondary_subgoal\": \"Drop the knife and handle the cut pieces of paper\",\n          \"start_timestamp\": 874,\n          \"stop_timestamp\": 1160\n        },\n        {\n          \"secondary_subgoal\": \"Chop unidentified objects and push them aside in intervals\",\n          \"start_timestamp\": 1160,\n          \"stop_timestamp\": 4601\n        },\n        {\n          \"secondary_subgoal\": \"Dispose of leftovers and clean up\",\n          \"start_timestamp\": 4601,\n          \"stop_timestamp\": 5699\n        },\n        {\n          \"secondary_subgoal\": \"Gather more materials for cooking\",\n          \"start_timestamp\": 5699,\n          \"stop_timestamp\": 5886\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Start cooking\",\n      \"start_timestamp\": 5886,\n      \"stop_timestamp\": 16435,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut more objects and handle ingredients\",\n          \"start_timestamp\": 5886,\n          \"stop_timestamp\": 16165\n        },\n        {\n          \"secondary_subgoal\": \"Wash ingredients and prepare the cooking surface\",\n          \"start_timestamp\": 16165,\n          \"stop_timestamp\": 16435\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook the food\",\n      \"start_timestamp\": 16435,\n      \"stop_timestamp\": 21299,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir food and handle utensils and ingredients\",\n          \"start_timestamp\": 16435,\n          \"stop_timestamp\": 20148\n        },\n        {\n          \"secondary_subgoal\": \"Open cabinets, handle additional utensils, and adjust the fire\",\n          \"start_timestamp\": 20148,\n          \"stop_timestamp\": 21299\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2160,
+        "completion_tokens": 685,
+        "total_tokens": 2845
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

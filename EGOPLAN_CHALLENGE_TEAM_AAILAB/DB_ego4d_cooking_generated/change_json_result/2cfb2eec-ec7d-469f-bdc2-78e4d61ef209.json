@@ -1,0 +1,114 @@
+{
+    "overall_goal": "Preparing food and operating kitchen appliances",
+    "clips": [
+        {
+            "subgoal": "Preparing and spreading dough",
+            "start_timestamp": 220,
+            "stop_timestamp": 5335,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Removing and spreading dough",
+                    "start_timestamp": 220,
+                    "stop_timestamp": 3908
+                },
+                {
+                    "secondary_subgoal": "Handling trays and bowls",
+                    "start_timestamp": 4780,
+                    "stop_timestamp": 5335
+                }
+            ]
+        },
+        {
+            "subgoal": "Operating kitchen appliances",
+            "start_timestamp": 5335,
+            "stop_timestamp": 6088,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Touching and operating the cooker",
+                    "start_timestamp": 5335,
+                    "stop_timestamp": 6072
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling bag and laptop",
+            "start_timestamp": 6488,
+            "stop_timestamp": 8149,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Interacting with bag",
+                    "start_timestamp": 6488,
+                    "stop_timestamp": 7376
+                },
+                {
+                    "secondary_subgoal": "Operating laptop",
+                    "start_timestamp": 7376,
+                    "stop_timestamp": 8149
+                }
+            ]
+        },
+        {
+            "subgoal": "Opening fridge and conversing",
+            "start_timestamp": 8444,
+            "stop_timestamp": 11894,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening fridge and looking around",
+                    "start_timestamp": 8444,
+                    "stop_timestamp": 9194
+                },
+                {
+                    "secondary_subgoal": "Conversing with A",
+                    "start_timestamp": 9194,
+                    "stop_timestamp": 11894
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling kitchen utensils",
+            "start_timestamp": 13198,
+            "stop_timestamp": 21567,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Chopping and looking around the kitchen",
+                    "start_timestamp": 13198,
+                    "stop_timestamp": 14934
+                },
+                {
+                    "secondary_subgoal": "Pointing and holding kitchen utensils",
+                    "start_timestamp": 14934,
+                    "stop_timestamp": 19201
+                },
+                {
+                    "secondary_subgoal": "Grating and touching kitchen tools",
+                    "start_timestamp": 19201,
+                    "stop_timestamp": 21567
+                }
+            ]
+        },
+        {
+            "subgoal": "Operating phone",
+            "start_timestamp": 26384,
+            "stop_timestamp": 27604,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Looking around and operating phone",
+                    "start_timestamp": 26384,
+                    "stop_timestamp": 27604
+                }
+            ]
+        },
+        {
+            "subgoal": "Putting items into the microwave",
+            "start_timestamp": 43457,
+            "stop_timestamp": 44076,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Putting glass in microwave",
+                    "start_timestamp": 43457,
+                    "stop_timestamp": 44076
+                }
+            ]
+        }
+    ]
+}

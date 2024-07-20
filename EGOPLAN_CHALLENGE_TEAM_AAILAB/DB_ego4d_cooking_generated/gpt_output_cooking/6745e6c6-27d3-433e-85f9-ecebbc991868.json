@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9deyHwIgjpkcCnpoNoqloqhulfbYj",
+    "object": "chat.completion",
+    "created": 1719239313,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook meal, and clean the utensils\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare ingredients and cook meal\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 9201,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare cooking area and utensils\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 273\n        },\n        {\n          \"secondary_subgoal\": \"Cook the meat in the pot\",\n          \"start_timestamp\": 273,\n          \"stop_timestamp\": 915\n        },\n        {\n          \"secondary_subgoal\": \"Prepare vegetables and add to pot\",\n          \"start_timestamp\": 915,\n          \"stop_timestamp\": 7935\n        },\n        {\n          \"secondary_subgoal\": \"Add spices and other ingredients to the food\",\n          \"start_timestamp\": 7935,\n          \"stop_timestamp\": 9171\n        },\n        {\n          \"secondary_subgoal\": \"Stir and monitor the food\",\n          \"start_timestamp\": 9171,\n          \"stop_timestamp\": 9201\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean utensils and used area\",\n      \"start_timestamp\": 9201,\n      \"stop_timestamp\": 18440,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean bowls and knife\",\n          \"start_timestamp\": 9201,\n          \"stop_timestamp\": 5543\n        },\n        {\n          \"secondary_subgoal\": \"Store utensils\",\n          \"start_timestamp\": 5543,\n          \"stop_timestamp\": 5877\n        },\n        {\n          \"secondary_subgoal\": \"Rinse and dry hands, and prepare spinach\",\n          \"start_timestamp\": 5877,\n          \"stop_timestamp\": 13175\n        },\n        {\n          \"secondary_subgoal\": \"Cut and clean spinach\",\n          \"start_timestamp\": 13175,\n          \"stop_timestamp\": 16125\n        },\n        {\n          \"secondary_subgoal\": \"Finish cleaning workspace\",\n          \"start_timestamp\": 16125,\n          \"stop_timestamp\": 18440\n        }\n      ]\n    }\n  ]\n}\n``` \n\n### Explanation:\n- **Overall Goal**: The sequence of actions aims to prepare, cook a meal, and clean the utensils used.\n\n### Clip Breakdown:\n\n1. **Clip 1: Prepare ingredients and cook meal (0 - 9201)**\n    - **Sub-clip 1: Prepare cooking area and utensils (0 - 273)**\n        - Actions: Standing in the kitchen, holding the pot, moving hands, lifting and placing objects to prepare.\n    - **Sub-clip 2: Cook the meat in the pot (273 - 915)**\n        - Actions: Cooking the meat with sticks, turning, lifting sticks, switching the stove.\n    - **Sub-clip 3: Prepare vegetables and add to pot (915 - 7935)**\n        - Actions: Moving to sink, washing and preparing vegetables like carrots.\n    - **Sub-clip 4: Add spices and other ingredients to the food (7935 - 9171)**\n        - Actions: Adding spices, switching stove, shaking bottle.\n    - **Sub-clip 5: Stir and monitor the food (9171 - 9201)**\n        - Actions: Stirring the food, observing, covering pan.\n\n2. **Clip 2: Clean utensils and used area (9201 - 18440)**\n    - **Sub-clip 1: Clean bowls and knife (9201 - 5543)**\n        - Actions: Lifting, rinsing bowl and knife, closing taps, cleaning.\n    - **Sub-clip 2: Store utensils (5543 - 5877)**\n        - Actions: Shaking, placing bowls and knives back in storage.\n    - **Sub-clip 3: Rinse and dry hands, and prepare spinach (5877 - 13175)**\n        - Actions: Washing hands, picking and cleaning spinach.\n    - **Sub-clip 4: Cut and clean spinach (13175 - 16125)**\n        - Actions: Cutting, chopping, arranging spinach.\n    - **Sub-clip 5: Finish cleaning workspace (16125 - 18440)**\n        - Actions: Final cleaning of work area, arranging and preparing final steps.\n      \nThis detailed breakdown helps to understand the flow and context of actions performed in the cooking and cleaning process."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 5741,
+        "completion_tokens": 939,
+        "total_tokens": 6680
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

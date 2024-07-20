@@ -1,0 +1,702 @@
+[
+    {
+        "task_goal": "Cutting the meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a knife",
+                "start_frame": 1,
+                "stop_frame": 57
+            },
+            {
+                "narration_text": "Cuts the meat",
+                "start_frame": 57,
+                "stop_frame": 777
+            },
+            {
+                "narration_text": "Puts the knife on the chopping board",
+                "start_frame": 777,
+                "stop_frame": 823
+            },
+            {
+                "narration_text": "Shakes the left hand",
+                "start_frame": 823,
+                "stop_frame": 898
+            }
+        ]
+    },
+    {
+        "task_goal": "Holding the knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a knife",
+                "start_frame": 1,
+                "stop_frame": 57
+            },
+            {
+                "narration_text": "Cuts the meat",
+                "start_frame": 57,
+                "stop_frame": 777
+            }
+        ]
+    },
+    {
+        "task_goal": "Cutting the meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a knife",
+                "start_frame": 1,
+                "stop_frame": 57
+            },
+            {
+                "narration_text": "Cuts the meat",
+                "start_frame": 57,
+                "stop_frame": 777
+            },
+            {
+                "narration_text": "Puts the knife on the chopping board",
+                "start_frame": 777,
+                "stop_frame": 823
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting knife down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cuts the meat",
+                "start_frame": 57,
+                "stop_frame": 777
+            },
+            {
+                "narration_text": "Puts the knife on the chopping board",
+                "start_frame": 777,
+                "stop_frame": 823
+            },
+            {
+                "narration_text": "Shakes the left hand",
+                "start_frame": 823,
+                "stop_frame": 898
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing hands before further tasks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the knife on the chopping board",
+                "start_frame": 777,
+                "stop_frame": 823
+            },
+            {
+                "narration_text": "Shakes the left hand",
+                "start_frame": 823,
+                "stop_frame": 898
+            },
+            {
+                "narration_text": "Picks a polythene bag",
+                "start_frame": 898,
+                "stop_frame": 916
+            },
+            {
+                "narration_text": "Holds a polythene bag",
+                "start_frame": 916,
+                "stop_frame": 985
+            },
+            {
+                "narration_text": "Puts the polythene bag on top of the cupboard",
+                "start_frame": 985,
+                "stop_frame": 1015
+            },
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 1015,
+                "stop_frame": 1051
+            },
+            {
+                "narration_text": "Rinses the hands",
+                "start_frame": 1051,
+                "stop_frame": 1159
+            },
+            {
+                "narration_text": "Closes a tap",
+                "start_frame": 1159,
+                "stop_frame": 1179
+            },
+            {
+                "narration_text": "Shakes hands",
+                "start_frame": 1179,
+                "stop_frame": 1202
+            },
+            {
+                "narration_text": "Presses the detergent",
+                "start_frame": 1202,
+                "stop_frame": 1242
+            },
+            {
+                "narration_text": "Applies detergent on the hands",
+                "start_frame": 1242,
+                "stop_frame": 1477
+            },
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 1477,
+                "stop_frame": 1511
+            },
+            {
+                "narration_text": "Rinses the hands",
+                "start_frame": 1511,
+                "stop_frame": 1680
+            },
+            {
+                "narration_text": "Closes a tap",
+                "start_frame": 1680,
+                "stop_frame": 1705
+            },
+            {
+                "narration_text": "Shakes hands",
+                "start_frame": 1705,
+                "stop_frame": 1919
+            },
+            {
+                "narration_text": "Picks a polythene bag",
+                "start_frame": 1919,
+                "stop_frame": 2015
+            }
+        ]
+    },
+    {
+        "task_goal": "Shaking hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the knife on the chopping board",
+                "start_frame": 777,
+                "stop_frame": 823
+            },
+            {
+                "narration_text": "Shakes the left hand",
+                "start_frame": 823,
+                "stop_frame": 898
+            },
+            {
+                "narration_text": "Picks a polythene bag",
+                "start_frame": 898,
+                "stop_frame": 916
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinsing hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rinses the hands",
+                "start_frame": 1051,
+                "stop_frame": 1159
+            },
+            {
+                "narration_text": "Closes a tap",
+                "start_frame": 1159,
+                "stop_frame": 1179
+            },
+            {
+                "narration_text": "Shakes hands",
+                "start_frame": 1179,
+                "stop_frame": 1202
+            }
+        ]
+    },
+    {
+        "task_goal": "Using detergent",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Presses the detergent",
+                "start_frame": 1202,
+                "stop_frame": 1242
+            },
+            {
+                "narration_text": "Applies detergent on the hands",
+                "start_frame": 1242,
+                "stop_frame": 1477
+            },
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 1477,
+                "stop_frame": 1511
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinsing and drying hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 1477,
+                "stop_frame": 1511
+            },
+            {
+                "narration_text": "Rinses the hands",
+                "start_frame": 1511,
+                "stop_frame": 1680
+            },
+            {
+                "narration_text": "Closes a tap",
+                "start_frame": 1680,
+                "stop_frame": 1705
+            },
+            {
+                "narration_text": "Shakes hands",
+                "start_frame": 1705,
+                "stop_frame": 1919
+            },
+            {
+                "narration_text": "Picks a polythene bag",
+                "start_frame": 1919,
+                "stop_frame": 2015
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking and putting bags down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Shakes the left hand",
+                "start_frame": 823,
+                "stop_frame": 898
+            },
+            {
+                "narration_text": "Picks a polythene bag",
+                "start_frame": 898,
+                "stop_frame": 916
+            },
+            {
+                "narration_text": "Holds a polythene bag",
+                "start_frame": 916,
+                "stop_frame": 985
+            },
+            {
+                "narration_text": "Puts the polythene bag on top of the cupboard",
+                "start_frame": 985,
+                "stop_frame": 1015
+            },
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 1015,
+                "stop_frame": 1051
+            }
+        ]
+    },
+    {
+        "task_goal": "Packing the meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a polythene bag",
+                "start_frame": 3016,
+                "stop_frame": 3241
+            },
+            {
+                "narration_text": "Packs the meat",
+                "start_frame": 3241,
+                "stop_frame": 3294
+            },
+            {
+                "narration_text": "Shakes the polythene bag",
+                "start_frame": 3294,
+                "stop_frame": 3318
+            },
+            {
+                "narration_text": "Packs the meat",
+                "start_frame": 3318,
+                "stop_frame": 3351
+            },
+            {
+                "narration_text": "Puts the meat on top of the cupboard",
+                "start_frame": 3351,
+                "stop_frame": 3438
+            },
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 3438,
+                "stop_frame": 3451
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening taps and rinsing hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 3438,
+                "stop_frame": 3451
+            },
+            {
+                "narration_text": "Rinses the left hand",
+                "start_frame": 3451,
+                "stop_frame": 3516
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 3516,
+                "stop_frame": 3526
+            },
+            {
+                "narration_text": "Shakes hands",
+                "start_frame": 3526,
+                "stop_frame": 3533
+            },
+            {
+                "narration_text": "Presses the detergent",
+                "start_frame": 3533,
+                "stop_frame": 3627
+            }
+        ]
+    },
+    {
+        "task_goal": "Pressing and applying detergent",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Presses the detergent",
+                "start_frame": 3533,
+                "stop_frame": 3627
+            },
+            {
+                "narration_text": "Applies detergent on the hand",
+                "start_frame": 3627,
+                "stop_frame": 3831
+            },
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 3831,
+                "stop_frame": 3900
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinsing hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens a tap",
+                "start_frame": 7431,
+                "stop_frame": 7460
+            },
+            {
+                "narration_text": "Rinses the hands",
+                "start_frame": 7460,
+                "stop_frame": 7499
+            },
+            {
+                "narration_text": "Closes a tap",
+                "start_frame": 7499,
+                "stop_frame": 7530
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling spices and containers",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a lid",
+                "start_frame": 9062,
+                "stop_frame": 9079
+            },
+            {
+                "narration_text": "Puts the lid on top of the cupboard",
+                "start_frame": 9079,
+                "stop_frame": 9232
+            },
+            {
+                "narration_text": "Opens a bottle",
+                "start_frame": 9232,
+                "stop_frame": 9289
+            },
+            {
+                "narration_text": "Closes the bottle",
+                "start_frame": 9289,
+                "stop_frame": 9318
+            },
+            {
+                "narration_text": "Holds a polythene bag",
+                "start_frame": 9318,
+                "stop_frame": 9430
+            },
+            {
+                "narration_text": "Opens a bottle",
+                "start_frame": 9430,
+                "stop_frame": 9462
+            },
+            {
+                "narration_text": "Puts the lid on top of the cupboard",
+                "start_frame": 9462,
+                "stop_frame": 9714
+            },
+            {
+                "narration_text": "Opens a bottle",
+                "start_frame": 9714,
+                "stop_frame": 10114
+            },
+            {
+                "narration_text": "Wipes the left hand",
+                "start_frame": 10114,
+                "stop_frame": 10164
+            },
+            {
+                "narration_text": "Opens a bottle",
+                "start_frame": 10164,
+                "stop_frame": 10452
+            },
+            {
+                "narration_text": "Dumps the polythene from the bottle",
+                "start_frame": 10452,
+                "stop_frame": 10516
+            },
+            {
+                "narration_text": "Opens polythene bag",
+                "start_frame": 10516,
+                "stop_frame": 10583
+            },
+            {
+                "narration_text": "Holds a spoon",
+                "start_frame": 10583,
+                "stop_frame": 10647
+            },
+            {
+                "narration_text": "Pours unsure in the spoon",
+                "start_frame": 10647,
+                "stop_frame": 10699
+            },
+            {
+                "narration_text": "Pours the unsure in polythene bag",
+                "start_frame": 10699,
+                "stop_frame": 10785
+            },
+            {
+                "narration_text": "Picks a lid",
+                "start_frame": 10785,
+                "stop_frame": 10802
+            },
+            {
+                "narration_text": "Closes a bottle",
+                "start_frame": 10802,
+                "stop_frame": 10866
+            },
+            {
+                "narration_text": "Drops the bottle on top of the cupboard",
+                "start_frame": 10866,
+                "stop_frame": 10900
+            },
+            {
+                "narration_text": "Holds a polythene bag",
+                "start_frame": 10900,
+                "stop_frame": 10942
+            }
+        ]
+    },
+    {
+        "task_goal": "Mixing the food in the polythene bag",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a polythene bag",
+                "start_frame": 10900,
+                "stop_frame": 10942
+            },
+            {
+                "narration_text": "Mixes the food in the polythene bag",
+                "start_frame": 10942,
+                "stop_frame": 11258
+            },
+            {
+                "narration_text": "Touches the polythene",
+                "start_frame": 11258,
+                "stop_frame": 11351
+            }
+        ]
+    },
+    {
+        "task_goal": "Shaking and pressing polythene bags",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Presses the polythene bag",
+                "start_frame": 12197,
+                "stop_frame": 13222
+            },
+            {
+                "narration_text": "Shakes the polythene bag",
+                "start_frame": 13222,
+                "stop_frame": 13308
+            },
+            {
+                "narration_text": "Presses the polythene bag",
+                "start_frame": 13308,
+                "stop_frame": 13440
+            },
+            {
+                "narration_text": "Puts the polythene bag on top of the cupboard",
+                "start_frame": 13440,
+                "stop_frame": 13490
+            },
+            {
+                "narration_text": "Presses the polythene bag",
+                "start_frame": 13490,
+                "stop_frame": 13563
+            },
+            {
+                "narration_text": "Closes the polythene bag",
+                "start_frame": 13563,
+                "stop_frame": 13729
+            },
+            {
+                "narration_text": "Opens the cupboard",
+                "start_frame": 13729,
+                "stop_frame": 13809
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling the fridge and food storage",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pulls fridge crisper",
+                "start_frame": 14357,
+                "stop_frame": 14415
+            },
+            {
+                "narration_text": "Pulls fridge tray",
+                "start_frame": 14415,
+                "stop_frame": 14469
+            },
+            {
+                "narration_text": "Puts the polythene bag in the tray",
+                "start_frame": 14469,
+                "stop_frame": 14520
+            },
+            {
+                "narration_text": "Touches polythene bag",
+                "start_frame": 14520,
+                "stop_frame": 14573
+            },
+            {
+                "narration_text": "Pushes fridge crisper",
+                "start_frame": 14573,
+                "stop_frame": 14616
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 14616,
+                "stop_frame": 14654
+            },
+            {
+                "narration_text": "Puts the tin in the fridge",
+                "start_frame": 14654,
+                "stop_frame": 14693
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 14693,
+                "stop_frame": 14729
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 14729,
+                "stop_frame": 14763
+            },
+            {
+                "narration_text": "Moves a cupboard",
+                "start_frame": 14763,
+                "stop_frame": 14807
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling utensils and pans",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the tin on the sink top",
+                "start_frame": 15397,
+                "stop_frame": 15456
+            },
+            {
+                "narration_text": "Looks at the meat",
+                "start_frame": 15456,
+                "stop_frame": 15499
+            },
+            {
+                "narration_text": "Opens the cupboard",
+                "start_frame": 15499,
+                "stop_frame": 15554
+            },
+            {
+                "narration_text": "Picks a pan",
+                "start_frame": 15554,
+                "stop_frame": 15572
+            },
+            {
+                "narration_text": "Closes the cupboard",
+                "start_frame": 15572,
+                "stop_frame": 15643
+            },
+            {
+                "narration_text": "Puts the pan on the cooker",
+                "start_frame": 15643,
+                "stop_frame": 15800
+            },
+            {
+                "narration_text": "Puts on the cooker",
+                "start_frame": 15800,
+                "stop_frame": 15842
+            }
+        ]
+    },
+    {
+        "task_goal": "Pouring cooking oil",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the cooking oil",
+                "start_frame": 19153,
+                "stop_frame": 19317
+            },
+            {
+                "narration_text": "Pours the cooking oil in the pan",
+                "start_frame": 19317,
+                "stop_frame": 19329
+            },
+            {
+                "narration_text": "Puts the cooking oil on the counter top",
+                "start_frame": 19329,
+                "stop_frame": 19385
+            },
+            {
+                "narration_text": "Closes the cooking oil",
+                "start_frame": 19385,
+                "stop_frame": 19419
+            }
+        ]
+    },
+    {
+        "task_goal": "Frying the meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the pan",
+                "start_frame": 21097,
+                "stop_frame": 21117
+            },
+            {
+                "narration_text": "Fries the meat",
+                "start_frame": 21117,
+                "stop_frame": 21153
+            },
+            {
+                "narration_text": "Picks the meat with grill stick",
+                "start_frame": 21153,
+                "stop_frame": 21179
+            },
+            {
+                "narration_text": "Puts the meat in the pan",
+                "start_frame": 21179,
+                "stop_frame": 21224
+            },
+            {
+                "narration_text": "Fries the meat",
+                "start_frame": 21224,
+                "stop_frame": 21324
+            }
+        ]
+    }
+]

@@ -1,0 +1,1222 @@
+[
+    {
+        "task_goal": "Prepare cooking pot and washing hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Opens the drawer",
+                "start_frame": 98,
+                "stop_frame": 130
+            },
+            {
+                "narration_text": "#C C Opens the rice cooker",
+                "start_frame": 130,
+                "stop_frame": 209
+            },
+            {
+                "narration_text": "#C C Moves toward the sink",
+                "start_frame": 209,
+                "stop_frame": 237
+            },
+            {
+                "narration_text": "#C C Opens the water tap",
+                "start_frame": 237,
+                "stop_frame": 283
+            },
+            {
+                "narration_text": "#C C Washes the hands",
+                "start_frame": 283,
+                "stop_frame": 312
+            },
+            {
+                "narration_text": "#C C Closes the water tap",
+                "start_frame": 312,
+                "stop_frame": 328
+            }
+        ]
+    },
+    {
+        "task_goal": "Open drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Opens the drawer",
+                "start_frame": 98,
+                "stop_frame": 130
+            },
+            {
+                "narration_text": "#C C Opens the rice cooker",
+                "start_frame": 130,
+                "stop_frame": 209
+            }
+        ]
+    },
+    {
+        "task_goal": "Open rice cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Opens the drawer",
+                "start_frame": 98,
+                "stop_frame": 130
+            },
+            {
+                "narration_text": "#C C Opens the rice cooker",
+                "start_frame": 130,
+                "stop_frame": 209
+            },
+            {
+                "narration_text": "#C C Moves toward the sink",
+                "start_frame": 209,
+                "stop_frame": 237
+            }
+        ]
+    },
+    {
+        "task_goal": "Move to sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Opens the rice cooker",
+                "start_frame": 130,
+                "stop_frame": 209
+            },
+            {
+                "narration_text": "#C C Moves toward the sink",
+                "start_frame": 209,
+                "stop_frame": 237
+            },
+            {
+                "narration_text": "#C C Opens the water tap",
+                "start_frame": 237,
+                "stop_frame": 283
+            }
+        ]
+    },
+    {
+        "task_goal": "Open water tap and wash hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Moves toward the sink",
+                "start_frame": 209,
+                "stop_frame": 237
+            },
+            {
+                "narration_text": "#C C Opens the water tap",
+                "start_frame": 237,
+                "stop_frame": 283
+            },
+            {
+                "narration_text": "#C C Washes the hands",
+                "start_frame": 283,
+                "stop_frame": 312
+            },
+            {
+                "narration_text": "#C C Closes the water tap",
+                "start_frame": 312,
+                "stop_frame": 328
+            }
+        ]
+    },
+    {
+        "task_goal": "Close water tap and dry hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Washes the hands",
+                "start_frame": 283,
+                "stop_frame": 312
+            },
+            {
+                "narration_text": "#C C Closes the water tap",
+                "start_frame": 312,
+                "stop_frame": 328
+            },
+            {
+                "narration_text": "#C C Holds the hand towel",
+                "start_frame": 328,
+                "stop_frame": 338
+            },
+            {
+                "narration_text": "#C C Wipes the hands",
+                "start_frame": 338,
+                "stop_frame": 412
+            },
+            {
+                "narration_text": "#C C Opens the drawer",
+                "start_frame": 412,
+                "stop_frame": 498
+            }
+        ]
+    },
+    {
+        "task_goal": "Open drawer and pick cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Wipes the hands",
+                "start_frame": 338,
+                "stop_frame": 412
+            },
+            {
+                "narration_text": "#C C Opens the drawer",
+                "start_frame": 412,
+                "stop_frame": 498
+            },
+            {
+                "narration_text": "#C C Picks the cooking pot",
+                "start_frame": 498,
+                "stop_frame": 521
+            },
+            {
+                "narration_text": "#C C Closes the drawer",
+                "start_frame": 521,
+                "stop_frame": 563
+            },
+            {
+                "narration_text": "#C C Opens the water tap",
+                "start_frame": 563,
+                "stop_frame": 614
+            }
+        ]
+    },
+    {
+        "task_goal": "Fill cooking pot with water at sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Closes the drawer",
+                "start_frame": 521,
+                "stop_frame": 563
+            },
+            {
+                "narration_text": "#C C Opens the water tap",
+                "start_frame": 563,
+                "stop_frame": 614
+            },
+            {
+                "narration_text": "#C C Puts the water in the cooking pot",
+                "start_frame": 614,
+                "stop_frame": 807
+            },
+            {
+                "narration_text": "#C C Holds the water tap",
+                "start_frame": 807,
+                "stop_frame": 935
+            }
+        ]
+    },
+    {
+        "task_goal": "Move towards cooker and place cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Puts the water in the cooking pot",
+                "start_frame": 614,
+                "stop_frame": 807
+            },
+            {
+                "narration_text": "#C C Holds the water tap",
+                "start_frame": 807,
+                "stop_frame": 935
+            },
+            {
+                "narration_text": "#C C Closes the water tap",
+                "start_frame": 935,
+                "stop_frame": 949
+            },
+            {
+                "narration_text": "#C C Moves toward the cooker",
+                "start_frame": 949,
+                "stop_frame": 985
+            },
+            {
+                "narration_text": "#C C Holds the cooking pot",
+                "start_frame": 985,
+                "stop_frame": 1008
+            },
+            {
+                "narration_text": "#C C Puts the cooking pot on the cooker",
+                "start_frame": 1008,
+                "stop_frame": 1097
+            },
+            {
+                "narration_text": "#C C Opens the drawer",
+                "start_frame": 1097,
+                "stop_frame": 1134
+            }
+        ]
+    },
+    {
+        "task_goal": "Prep lid for cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Puts the cooking pot on the cooker",
+                "start_frame": 1008,
+                "stop_frame": 1097
+            },
+            {
+                "narration_text": "#C C Opens the drawer",
+                "start_frame": 1097,
+                "stop_frame": 1134
+            },
+            {
+                "narration_text": "#C C Picks the lid",
+                "start_frame": 1134,
+                "stop_frame": 1161
+            },
+            {
+                "narration_text": "#C C Closes the drawer",
+                "start_frame": 1161,
+                "stop_frame": 1187
+            },
+            {
+                "narration_text": "#C C Holds the lid",
+                "start_frame": 1187,
+                "stop_frame": 1228
+            },
+            {
+                "narration_text": "#C C Opens the water tap",
+                "start_frame": 1228,
+                "stop_frame": 1252
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash lid at sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Holds the lid",
+                "start_frame": 1187,
+                "stop_frame": 1228
+            },
+            {
+                "narration_text": "#C C Opens the water tap",
+                "start_frame": 1228,
+                "stop_frame": 1252
+            },
+            {
+                "narration_text": "#C C Washes the lid",
+                "start_frame": 1252,
+                "stop_frame": 1385
+            },
+            {
+                "narration_text": "#C C Closes the water tap",
+                "start_frame": 1385,
+                "stop_frame": 1416
+            },
+            {
+                "narration_text": "#C C Moves toward the cooker",
+                "start_frame": 1416,
+                "stop_frame": 1440
+            }
+        ]
+    },
+    {
+        "task_goal": "Close cooking pot with lid on cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Closes the water tap",
+                "start_frame": 1385,
+                "stop_frame": 1416
+            },
+            {
+                "narration_text": "#C C Moves toward the cooker",
+                "start_frame": 1416,
+                "stop_frame": 1440
+            },
+            {
+                "narration_text": "#C C Closes the cooking pot with the lid",
+                "start_frame": 1440,
+                "stop_frame": 1507
+            },
+            {
+                "narration_text": "#C C Moves toward the sink",
+                "start_frame": 1507,
+                "stop_frame": 1553
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling hand towel and cleaning up",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Closes the cooking pot with the lid",
+                "start_frame": 1440,
+                "stop_frame": 1507
+            },
+            {
+                "narration_text": "#C C Moves toward the sink",
+                "start_frame": 1507,
+                "stop_frame": 1553
+            },
+            {
+                "narration_text": "#C C Picks the hand towel",
+                "start_frame": 1553,
+                "stop_frame": 1597
+            },
+            {
+                "narration_text": "#C C Wipes the water tap",
+                "start_frame": 1597,
+                "stop_frame": 1980
+            },
+            {
+                "narration_text": "#C C Opens the water tap",
+                "start_frame": 1980,
+                "stop_frame": 2021
+            },
+            {
+                "narration_text": "#C C Washes the hand towel",
+                "start_frame": 2021,
+                "stop_frame": 2193
+            },
+            {
+                "narration_text": "#C C Puts the hand towel beside the sink",
+                "start_frame": 2193,
+                "stop_frame": 2212
+            },
+            {
+                "narration_text": "#C C Washes the hands",
+                "start_frame": 2212,
+                "stop_frame": 2232
+            },
+            {
+                "narration_text": "#C C Closes the water tap",
+                "start_frame": 2232,
+                "stop_frame": 2257
+            },
+            {
+                "narration_text": "#C C Holds the hand towel",
+                "start_frame": 2257,
+                "stop_frame": 2270
+            }
+        ]
+    },
+    {
+        "task_goal": "Move to sink and pick hand towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Closes the cooking pot with the lid",
+                "start_frame": 1440,
+                "stop_frame": 1507
+            },
+            {
+                "narration_text": "#C C Moves toward the sink",
+                "start_frame": 1507,
+                "stop_frame": 1553
+            },
+            {
+                "narration_text": "#C C Picks the hand towel",
+                "start_frame": 1553,
+                "stop_frame": 1597
+            },
+            {
+                "narration_text": "#C C Wipes the water tap",
+                "start_frame": 1597,
+                "stop_frame": 1980
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe areas clean",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Picks the hand towel",
+                "start_frame": 1553,
+                "stop_frame": 1597
+            },
+            {
+                "narration_text": "#C C Wipes the water tap",
+                "start_frame": 1597,
+                "stop_frame": 1980
+            },
+            {
+                "narration_text": "#C C Opens the water tap",
+                "start_frame": 1980,
+                "stop_frame": 2021
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash and place hand towel to dry",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Wipes the water tap",
+                "start_frame": 1597,
+                "stop_frame": 1980
+            },
+            {
+                "narration_text": "#C C Opens the water tap",
+                "start_frame": 1980,
+                "stop_frame": 2021
+            },
+            {
+                "narration_text": "#C C Washes the hand towel",
+                "start_frame": 2021,
+                "stop_frame": 2193
+            },
+            {
+                "narration_text": "#C C Puts the hand towel beside the sink",
+                "start_frame": 2193,
+                "stop_frame": 2212
+            },
+            {
+                "narration_text": "#C C Washes the hands",
+                "start_frame": 2212,
+                "stop_frame": 2232
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash hands again",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Puts the hand towel beside the sink",
+                "start_frame": 2193,
+                "stop_frame": 2212
+            },
+            {
+                "narration_text": "#C C Washes the hands",
+                "start_frame": 2212,
+                "stop_frame": 2232
+            },
+            {
+                "narration_text": "#C C Closes the water tap",
+                "start_frame": 2232,
+                "stop_frame": 2257
+            },
+            {
+                "narration_text": "#C C Holds the hand towel",
+                "start_frame": 2257,
+                "stop_frame": 2270
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash rice at sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Wipes the hands",
+                "start_frame": 3959,
+                "stop_frame": 4028
+            },
+            {
+                "narration_text": "#C C Moves to the sink",
+                "start_frame": 4028,
+                "stop_frame": 4089
+            },
+            {
+                "narration_text": "#C C Picks the hand towel",
+                "start_frame": 4089,
+                "stop_frame": 4148
+            },
+            {
+                "narration_text": "#C C Wipes the counter top",
+                "start_frame": 4148,
+                "stop_frame": 4198
+            },
+            {
+                "narration_text": "#C C Opens the water tap",
+                "start_frame": 4198,
+                "stop_frame": 4228
+            },
+            {
+                "narration_text": "#C C Washes the hand",
+                "start_frame": 4228,
+                "stop_frame": 4262
+            },
+            {
+                "narration_text": "#C C Puts the water into the rice cooker pot",
+                "start_frame": 4262,
+                "stop_frame": 4293
+            },
+            {
+                "narration_text": "#C C Washes the rice",
+                "start_frame": 4293,
+                "stop_frame": 4615
+            },
+            {
+                "narration_text": "#C C Pours the water into the sink",
+                "start_frame": 4615,
+                "stop_frame": 4731
+            },
+            {
+                "narration_text": "#C C Washes the rice",
+                "start_frame": 4731,
+                "stop_frame": 5018
+            },
+            {
+                "narration_text": "#C C Pours the water into the sink",
+                "start_frame": 5018,
+                "stop_frame": 5204
+            },
+            {
+                "narration_text": "#C C Puts the water into the rice cooker pot",
+                "start_frame": 5204,
+                "stop_frame": 5239
+            },
+            {
+                "narration_text": "#C C Washes the rice",
+                "start_frame": 5239,
+                "stop_frame": 5457
+            },
+            {
+                "narration_text": "#C C Pours the water into the sink",
+                "start_frame": 5457,
+                "stop_frame": 5601
+            },
+            {
+                "narration_text": "#C C Puts the water into the rice cooker pot",
+                "start_frame": 5601,
+                "stop_frame": 5627
+            },
+            {
+                "narration_text": "#C C Shakes the rice cooker pot",
+                "start_frame": 5627,
+                "stop_frame": 5655
+            },
+            {
+                "narration_text": "#C C Closes the water tap",
+                "start_frame": 5655,
+                "stop_frame": 5708
+            },
+            {
+                "narration_text": "#C C Puts the rice cooker pot on the counter top",
+                "start_frame": 5708,
+                "stop_frame": 5740
+            },
+            {
+                "narration_text": "#C C Shakes the rice cooker pot",
+                "start_frame": 5740,
+                "stop_frame": 5777
+            }
+        ]
+    },
+    {
+        "task_goal": "Place rice in cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Puts the rice cooker pot on the counter top",
+                "start_frame": 5708,
+                "stop_frame": 5740
+            },
+            {
+                "narration_text": "#C C Shakes the rice cooker pot",
+                "start_frame": 5740,
+                "stop_frame": 5777
+            },
+            {
+                "narration_text": "#C C Picks the rice cooker pot",
+                "start_frame": 5777,
+                "stop_frame": 5799
+            },
+            {
+                "narration_text": "#C C Pours the water into the sink",
+                "start_frame": 5799,
+                "stop_frame": 5865
+            },
+            {
+                "narration_text": "#C C Puts the rice cooker pot on the counter top",
+                "start_frame": 5865,
+                "stop_frame": 5883
+            },
+            {
+                "narration_text": "#C C Moves toward the sink",
+                "start_frame": 5883,
+                "stop_frame": 5901
+            },
+            {
+                "narration_text": "#C C Picks the hand towel",
+                "start_frame": 5901,
+                "stop_frame": 5916
+            },
+            {
+                "narration_text": "#C C Moves toward the rice cooker pot",
+                "start_frame": 5916,
+                "stop_frame": 6022
+            },
+            {
+                "narration_text": "#C C Wipes the rice cooker pot",
+                "start_frame": 6022,
+                "stop_frame": 6138
+            },
+            {
+                "narration_text": "#C C Looks at the rice cooker pot",
+                "start_frame": 6138,
+                "stop_frame": 6225
+            },
+            {
+                "narration_text": "#C C Holds the rice cooker pot",
+                "start_frame": 6225,
+                "stop_frame": 6251
+            },
+            {
+                "narration_text": "#C C Wipes the counter top",
+                "start_frame": 6251,
+                "stop_frame": 6289
+            },
+            {
+                "narration_text": "#C C Looks at the rice cooker",
+                "start_frame": 6289,
+                "stop_frame": 6360
+            },
+            {
+                "narration_text": "#C C Puts the rice cooker pot on the counter top",
+                "start_frame": 6360,
+                "stop_frame": 6411
+            },
+            {
+                "narration_text": "#C C Wipes the rice cooker",
+                "start_frame": 6411,
+                "stop_frame": 6546
+            },
+            {
+                "narration_text": "#C C Picks the rice cooker pot",
+                "start_frame": 6546,
+                "stop_frame": 6567
+            },
+            {
+                "narration_text": "#C C Holds the rice cooker pot",
+                "start_frame": 6567,
+                "stop_frame": 6627
+            },
+            {
+                "narration_text": "#C C Puts the cooking rice pot into the rice cooker",
+                "start_frame": 6627,
+                "stop_frame": 6691
+            },
+            {
+                "narration_text": "#C C Closes the rice cooker",
+                "start_frame": 6691,
+                "stop_frame": 6732
+            },
+            {
+                "narration_text": "#C C Holds the cooker knob",
+                "start_frame": 6732,
+                "stop_frame": 6770
+            }
+        ]
+    },
+    {
+        "task_goal": "Preparing and checking the oven",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Closes the rice cooker",
+                "start_frame": 6691,
+                "stop_frame": 6732
+            },
+            {
+                "narration_text": "#C C Holds the cooker knob",
+                "start_frame": 6732,
+                "stop_frame": 6770
+            },
+            {
+                "narration_text": "#C C Opens the oven",
+                "start_frame": 6770,
+                "stop_frame": 6836
+            },
+            {
+                "narration_text": "#C C Opens the cooking pot",
+                "start_frame": 6836,
+                "stop_frame": 6860
+            },
+            {
+                "narration_text": "#C C Holds the cooking pot",
+                "start_frame": 6860,
+                "stop_frame": 6899
+            },
+            {
+                "narration_text": "#C C Holds the lid",
+                "start_frame": 6899,
+                "stop_frame": 6950
+            },
+            {
+                "narration_text": "#C C Pours the water in the oven",
+                "start_frame": 6950,
+                "stop_frame": 7020
+            },
+            {
+                "narration_text": "#C C Puts the cooking pot on the cooker",
+                "start_frame": 7020,
+                "stop_frame": 7065
+            },
+            {
+                "narration_text": "#C C Closes the cooking pot",
+                "start_frame": 7065,
+                "stop_frame": 7109
+            },
+            {
+                "narration_text": "#C C Walks toward the fridge",
+                "start_frame": 7109,
+                "stop_frame": 7177
+            },
+            {
+                "narration_text": "#C C Opens the fridge drawer",
+                "start_frame": 7177,
+                "stop_frame": 7205
+            }
+        ]
+    },
+    {
+        "task_goal": "Align pot and turn knob",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Closes the rice cooker",
+                "start_frame": 6691,
+                "stop_frame": 6732
+            },
+            {
+                "narration_text": "#C C Holds the cooker knob",
+                "start_frame": 6732,
+                "stop_frame": 6770
+            },
+            {
+                "narration_text": "#C C Opens the oven",
+                "start_frame": 6770,
+                "stop_frame": 6836
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and check oven",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Holds the cooker knob",
+                "start_frame": 6732,
+                "stop_frame": 6770
+            },
+            {
+                "narration_text": "#C C Opens the oven",
+                "start_frame": 6770,
+                "stop_frame": 6836
+            },
+            {
+                "narration_text": "#C C Opens the cooking pot",
+                "start_frame": 6836,
+                "stop_frame": 6860
+            },
+            {
+                "narration_text": "#C C Holds the cooking pot",
+                "start_frame": 6860,
+                "stop_frame": 6899
+            },
+            {
+                "narration_text": "#C C Holds the lid",
+                "start_frame": 6899,
+                "stop_frame": 6950
+            },
+            {
+                "narration_text": "#C C Pours the water in the oven",
+                "start_frame": 6950,
+                "stop_frame": 7020
+            },
+            {
+                "narration_text": "#C C Puts the cooking pot on the cooker",
+                "start_frame": 7020,
+                "stop_frame": 7065
+            },
+            {
+                "narration_text": "#C C Closes the cooking pot",
+                "start_frame": 7065,
+                "stop_frame": 7109
+            },
+            {
+                "narration_text": "#C C Walks toward the fridge",
+                "start_frame": 7109,
+                "stop_frame": 7177
+            },
+            {
+                "narration_text": "#C C Opens the fridge drawer",
+                "start_frame": 7177,
+                "stop_frame": 7205
+            }
+        ]
+    },
+    {
+        "task_goal": "Open fridge and get fish",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Walks toward the fridge",
+                "start_frame": 7109,
+                "stop_frame": 7177
+            },
+            {
+                "narration_text": "#C C Opens the fridge drawer",
+                "start_frame": 7177,
+                "stop_frame": 7205
+            },
+            {
+                "narration_text": "#C C Picks the plastic bag",
+                "start_frame": 7205,
+                "stop_frame": 7234
+            },
+            {
+                "narration_text": "#C C Closes the fridge drawer",
+                "start_frame": 7234,
+                "stop_frame": 7257
+            },
+            {
+                "narration_text": "#C C Holds the plastic bag",
+                "start_frame": 7257,
+                "stop_frame": 7324
+            },
+            {
+                "narration_text": "#C C Opens the fridge drawer",
+                "start_frame": 7324,
+                "stop_frame": 7435
+            },
+            {
+                "narration_text": "#C C Picks the plastic bag",
+                "start_frame": 7435,
+                "stop_frame": 7469
+            },
+            {
+                "narration_text": "#C C Holds the plastic bag",
+                "start_frame": 7469,
+                "stop_frame": 7540
+            },
+            {
+                "narration_text": "#C C Touches the plastic bag",
+                "start_frame": 7540,
+                "stop_frame": 7673
+            },
+            {
+                "narration_text": "#C C Picks the plastic bag",
+                "start_frame": 7673,
+                "stop_frame": 7686
+            },
+            {
+                "narration_text": "#C C Puts the plastic bag in the fridge drawer",
+                "start_frame": 7686,
+                "stop_frame": 7729
+            },
+            {
+                "narration_text": "#C C Closes the fridge drawer",
+                "start_frame": 7729,
+                "stop_frame": 7781
+            },
+            {
+                "narration_text": "#C C Moves to the sink",
+                "start_frame": 7781,
+                "stop_frame": 7890
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut and clean fish",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Closes the fridge drawer",
+                "start_frame": 7729,
+                "stop_frame": 7781
+            },
+            {
+                "narration_text": "#C C Moves to the sink",
+                "start_frame": 7781,
+                "stop_frame": 7890
+            },
+            {
+                "narration_text": "#C C Holds the plastic bag",
+                "start_frame": 7890,
+                "stop_frame": 7907
+            },
+            {
+                "narration_text": "#C C Cuts the plastic bag",
+                "start_frame": 7907,
+                "stop_frame": 7929
+            },
+            {
+                "narration_text": "#C C Puts the knife on the counter top",
+                "start_frame": 7929,
+                "stop_frame": 7992
+            },
+            {
+                "narration_text": "#C C Holds the plastic bag",
+                "start_frame": 7992,
+                "stop_frame": 8113
+            },
+            {
+                "narration_text": "#C C Remove the piece of fish from the plastic bag",
+                "start_frame": 8113,
+                "stop_frame": 8198
+            },
+            {
+                "narration_text": "#C C Holds the piece of fish",
+                "start_frame": 8198,
+                "stop_frame": 8220
+            },
+            {
+                "narration_text": "#C C Puts the plastic bag on the counter top",
+                "start_frame": 8220,
+                "stop_frame": 8259
+            },
+            {
+                "narration_text": "#C C Opens the water tap",
+                "start_frame": 8259,
+                "stop_frame": 8269
+            },
+            {
+                "narration_text": "#C C Washes the piece of fish",
+                "start_frame": 8269,
+                "stop_frame": 8279
+            },
+            {
+                "narration_text": "#C C Close the water tap",
+                "start_frame": 8279,
+                "stop_frame": 8316
+            }
+        ]
+    },
+    {
+        "task_goal": "Place fish in oven",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Washes the piece of fish",
+                "start_frame": 8269,
+                "stop_frame": 8279
+            },
+            {
+                "narration_text": "#C C Close the water tap",
+                "start_frame": 8279,
+                "stop_frame": 8316
+            },
+            {
+                "narration_text": "#C C Walks toward the cooker",
+                "start_frame": 8316,
+                "stop_frame": 8365
+            },
+            {
+                "narration_text": "#C C Puts the piece of fish on the oven",
+                "start_frame": 8365,
+                "stop_frame": 8391
+            },
+            {
+                "narration_text": "#C C Walks toward the sink",
+                "start_frame": 8391,
+                "stop_frame": 8425
+            },
+            {
+                "narration_text": "#C C Picks the hand towel",
+                "start_frame": 8425,
+                "stop_frame": 8443
+            },
+            {
+                "narration_text": "#C C Walks toward the counter top",
+                "start_frame": 8443,
+                "stop_frame": 8491
+            },
+            {
+                "narration_text": "#C C Wipes the plastic bag",
+                "start_frame": 8491,
+                "stop_frame": 8531
+            },
+            {
+                "narration_text": "#C C Picks the piece of fish",
+                "start_frame": 8531,
+                "stop_frame": 8547
+            },
+            {
+                "narration_text": "#C C Holds the piece of fish",
+                "start_frame": 8547,
+                "stop_frame": 8596
+            },
+            {
+                "narration_text": "#C C Opens the water tap",
+                "start_frame": 8596,
+                "stop_frame": 8599
+            },
+            {
+                "narration_text": "#C C Washes the fish",
+                "start_frame": 8599,
+                "stop_frame": 8657
+            },
+            {
+                "narration_text": "#C Closes the water tap",
+                "start_frame": 8657,
+                "stop_frame": 8692
+            },
+            {
+                "narration_text": "#C C Holds the fish",
+                "start_frame": 8692,
+                "stop_frame": 8728
+            },
+            {
+                "narration_text": "#C C Puts the fish in the oven",
+                "start_frame": 8728,
+                "stop_frame": 8761
+            },
+            {
+                "narration_text": "#C C Moves toward the sink",
+                "start_frame": 8761,
+                "stop_frame": 8790
+            },
+            {
+                "narration_text": "#C C Opens the water tap",
+                "start_frame": 8790,
+                "stop_frame": 8829
+            }
+        ]
+    },
+    {
+        "task_goal": "Open fridge and pick additional items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Folds the plastic bag",
+                "start_frame": 11156,
+                "stop_frame": 11292
+            },
+            {
+                "narration_text": "#C C Moves to the cabinet",
+                "start_frame": 11292,
+                "stop_frame": 11335
+            },
+            {
+                "narration_text": "#C C Picks the rubber band",
+                "start_frame": 11335,
+                "stop_frame": 11378
+            },
+            {
+                "narration_text": "#C C Walks toward the fridge",
+                "start_frame": 11378,
+                "stop_frame": 11517
+            },
+            {
+                "narration_text": "#C C Opens the fridge drawer",
+                "start_frame": 11517,
+                "stop_frame": 11549
+            },
+            {
+                "narration_text": "#C C Closes the fridge drawer",
+                "start_frame": 11549,
+                "stop_frame": 11584
+            },
+            {
+                "narration_text": "#C C Opens the fridge drawer",
+                "start_frame": 11584,
+                "stop_frame": 11710
+            },
+            {
+                "narration_text": "#C C Closes the fridge drawer",
+                "start_frame": 11710,
+                "stop_frame": 11753
+            },
+            {
+                "narration_text": "#C C Walks toward the counter top",
+                "start_frame": 11753,
+                "stop_frame": 11860
+            },
+            {
+                "narration_text": "#C C Opens the drawer",
+                "start_frame": 11860,
+                "stop_frame": 11953
+            },
+            {
+                "narration_text": "#C C Picks the cooking pan",
+                "start_frame": 11953,
+                "stop_frame": 11973
+            },
+            {
+                "narration_text": "#C C Holds the cooking pan",
+                "start_frame": 11973,
+                "stop_frame": 12042
+            },
+            {
+                "narration_text": "#C C Picks the cooking pot",
+                "start_frame": 12042,
+                "stop_frame": 12053
+            },
+            {
+                "narration_text": "#C C Puts the cooking pan in the drawer",
+                "start_frame": 12053,
+                "stop_frame": 12134
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash new cooking pot at sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Picks the cooking pot",
+                "start_frame": 12042,
+                "stop_frame": 12053
+            },
+            {
+                "narration_text": "#C C Puts the cooking pan in the drawer",
+                "start_frame": 12053,
+                "stop_frame": 12134
+            },
+            {
+                "narration_text": "#C C Closes the drawer",
+                "start_frame": 12134,
+                "stop_frame": 12204
+            },
+            {
+                "narration_text": "#C C Opens the water tap",
+                "start_frame": 12204,
+                "stop_frame": 12276
+            },
+            {
+                "narration_text": "#C C Puts the water into the cooking pot",
+                "start_frame": 12276,
+                "stop_frame": 12354
+            },
+            {
+                "narration_text": "#C C Holds the cooking pot with hands",
+                "start_frame": 12354,
+                "stop_frame": 12392
+            },
+            {
+                "narration_text": "#C C Turns the cooking pot",
+                "start_frame": 12392,
+                "stop_frame": 12426
+            },
+            {
+                "narration_text": "#C C Pours the water into the sink",
+                "start_frame": 12426,
+                "stop_frame": 12525
+            },
+            {
+                "narration_text": "#C C Closes the water tap",
+                "start_frame": 12525,
+                "stop_frame": 12546
+            },
+            {
+                "narration_text": "#C C Opens the water tap",
+                "start_frame": 12546,
+                "stop_frame": 12552
+            },
+            {
+                "narration_text": "#C C Puts the water into the cooking pot",
+                "start_frame": 12552,
+                "stop_frame": 12922
+            },
+            {
+                "narration_text": "#C C Closes the water tap",
+                "start_frame": 12922,
+                "stop_frame": 12951
+            },
+            {
+                "narration_text": "#C C Moves toward the cooker",
+                "start_frame": 12951,
+                "stop_frame": 13010
+            },
+            {
+                "narration_text": "#C C Puts the cooking pot on the cooker",
+                "start_frame": 13010,
+                "stop_frame": 13074
+            },
+            {
+                "narration_text": "#C C Picks the piece of plastic bag",
+                "start_frame": 13074,
+                "stop_frame": 13083
+            }
+        ]
+    },
+    {
+        "task_goal": "Finalize with chopping board and sauce preparation",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pours the packet of #unsure in the saucepan",
+                "start_frame": 21125,
+                "stop_frame": 21159
+            },
+            {
+                "narration_text": "#C C puts the saucepan lid on the chopping board",
+                "start_frame": 21159,
+                "stop_frame": 21259
+            }
+        ]
+    }
+]

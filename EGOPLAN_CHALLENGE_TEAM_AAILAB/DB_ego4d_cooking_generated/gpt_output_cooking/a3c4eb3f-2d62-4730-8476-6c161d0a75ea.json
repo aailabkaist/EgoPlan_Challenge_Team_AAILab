@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eg1iFnVkMMfIAEKkWy2AZG5Xx8XH",
+    "object": "chat.completion",
+    "created": 1719481698,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare chopped onion for cooking.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Cutting and chopping the onion\",\n      \"start_timestamp\": 22,\n      \"stop_timestamp\": 1911,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cut the onion into two halves\",\n          \"start_timestamp\": 89,\n          \"stop_timestamp\": 192\n        },\n        {\n          \"secondary_subgoal\": \"Chopping half an onion\",\n          \"start_timestamp\": 192,\n          \"stop_timestamp\": 577\n        },\n        {\n          \"secondary_subgoal\": \"Removing stuck piece from the knife\",\n          \"start_timestamp\": 577,\n          \"stop_timestamp\": 622\n        },\n        {\n          \"secondary_subgoal\": \"Continue chopping the onion piece\",\n          \"start_timestamp\": 622,\n          \"stop_timestamp\": 1069\n        },\n        {\n          \"secondary_subgoal\": \"Picking and placing another onion piece on the board\",\n          \"start_timestamp\": 1114,\n          \"stop_timestamp\": 1138\n        },\n        {\n          \"secondary_subgoal\": \"Chopping another onion piece\",\n          \"start_timestamp\": 1138,\n          \"stop_timestamp\": 1737\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finishing the chopping process\",\n      \"start_timestamp\": 1911,\n      \"stop_timestamp\": 2056,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Putting down the knife and preparing to clean\",\n          \"start_timestamp\": 1911,\n          \"stop_timestamp\": 1956\n        },\n        {\n          \"secondary_subgoal\": \"Lifting hands, possibly to wash or clean\",\n          \"start_timestamp\": 1956,\n          \"stop_timestamp\": 2056\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 517,
+        "completion_tokens": 397,
+        "total_tokens": 914
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

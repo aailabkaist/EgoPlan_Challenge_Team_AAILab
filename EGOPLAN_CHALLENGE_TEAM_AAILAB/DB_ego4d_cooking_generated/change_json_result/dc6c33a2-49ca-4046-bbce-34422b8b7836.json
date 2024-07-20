@@ -1,0 +1,174 @@
+{
+    "overall_goal": "Prepare and cook various food items in the kitchen",
+    "clips": [
+        {
+            "subgoal": "Prepare and mix ingredients",
+            "start_timestamp": 0,
+            "stop_timestamp": 2154,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Knead dough and mix ingredients in the bowl",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 276
+                },
+                {
+                    "secondary_subgoal": "Retrieve and put away bottles",
+                    "start_timestamp": 276,
+                    "stop_timestamp": 634
+                },
+                {
+                    "secondary_subgoal": "Move kitchen items and prepare meat mixture",
+                    "start_timestamp": 705,
+                    "stop_timestamp": 2154
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook meat in oil",
+            "start_timestamp": 2154,
+            "stop_timestamp": 2654,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and fry meat pieces",
+                    "start_timestamp": 2154,
+                    "stop_timestamp": 2654
+                }
+            ]
+        },
+        {
+            "subgoal": "Manage kitchen items and cover pots",
+            "start_timestamp": 2765,
+            "stop_timestamp": 3253,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle kitchen containers and pots",
+                    "start_timestamp": 2765,
+                    "stop_timestamp": 3253
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean and wrap meat remains",
+            "start_timestamp": 3213,
+            "stop_timestamp": 3565,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wrap and store meat remains",
+                    "start_timestamp": 3213,
+                    "stop_timestamp": 3512
+                },
+                {
+                    "secondary_subgoal": "Clean the sink area",
+                    "start_timestamp": 3565,
+                    "stop_timestamp": 3565
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash and store utensils",
+            "start_timestamp": 3565,
+            "stop_timestamp": 5808,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and store spoons, knife, and chopping board",
+                    "start_timestamp": 3565,
+                    "stop_timestamp": 5808
+                }
+            ]
+        },
+        {
+            "subgoal": "Fetch and wash kitchen items",
+            "start_timestamp": 5820,
+            "stop_timestamp": 6184,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and dry packet",
+                    "start_timestamp": 5820,
+                    "stop_timestamp": 6162
+                },
+                {
+                    "secondary_subgoal": "Dry hands",
+                    "start_timestamp": 6162,
+                    "stop_timestamp": 6184
+                }
+            ]
+        },
+        {
+            "subgoal": "Fetch water and prepare ingredients",
+            "start_timestamp": 6247,
+            "stop_timestamp": 7677,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fetch water and wipe tap handle",
+                    "start_timestamp": 6247,
+                    "stop_timestamp": 6718
+                },
+                {
+                    "secondary_subgoal": "Prepare ingredients for cooking",
+                    "start_timestamp": 6763,
+                    "stop_timestamp": 7677
+                }
+            ]
+        },
+        {
+            "subgoal": "Manage cooking container and ingredients",
+            "start_timestamp": 7693,
+            "stop_timestamp": 8039,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir meat in dough and handle containers",
+                    "start_timestamp": 7693,
+                    "stop_timestamp": 8039
+                }
+            ]
+        },
+        {
+            "subgoal": "Continue stirring and manage ingredients",
+            "start_timestamp": 8066,
+            "stop_timestamp": 9066,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Control cooker and stir meat",
+                    "start_timestamp": 8066,
+                    "stop_timestamp": 9066
+                }
+            ]
+        },
+        {
+            "subgoal": "Inspect food and mix in flour",
+            "start_timestamp": 9124,
+            "stop_timestamp": 14460,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Inspect meat and mix meat in flour",
+                    "start_timestamp": 9124,
+                    "stop_timestamp": 14460
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook meat",
+            "start_timestamp": 14886,
+            "stop_timestamp": 20706,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir soup and manage cooking items",
+                    "start_timestamp": 14886,
+                    "stop_timestamp": 20706
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish and clean up",
+            "start_timestamp": 20704,
+            "stop_timestamp": 21306,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean up and finish cooking",
+                    "start_timestamp": 20704,
+                    "stop_timestamp": 21306
+                }
+            ]
+        }
+    ]
+}

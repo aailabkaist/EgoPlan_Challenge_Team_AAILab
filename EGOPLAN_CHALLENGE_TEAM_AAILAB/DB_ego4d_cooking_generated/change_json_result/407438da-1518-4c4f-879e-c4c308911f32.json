@@ -1,0 +1,126 @@
+{
+    "overall_goal": "Prepare and clean up after making stew",
+    "clips": [
+        {
+            "subgoal": "Prepare the curd for the stew",
+            "start_timestamp": 0,
+            "stop_timestamp": 382,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add curd to the stew",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 177
+                },
+                {
+                    "secondary_subgoal": "Mix and pour curd into the stew",
+                    "start_timestamp": 177,
+                    "stop_timestamp": 382
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir the stew",
+            "start_timestamp": 382,
+            "stop_timestamp": 1232,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Initial stirring of the stew",
+                    "start_timestamp": 382,
+                    "stop_timestamp": 910
+                },
+                {
+                    "secondary_subgoal": "Reduce pressure and final stirring",
+                    "start_timestamp": 910,
+                    "stop_timestamp": 1232
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean cooking utensils",
+            "start_timestamp": 1232,
+            "stop_timestamp": 1491,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse measuring cup and spatula",
+                    "start_timestamp": 1232,
+                    "stop_timestamp": 1491
+                }
+            ]
+        },
+        {
+            "subgoal": "Add eggs to the stew",
+            "start_timestamp": 1491,
+            "stop_timestamp": 2886,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and beat the egg",
+                    "start_timestamp": 1491,
+                    "stop_timestamp": 2367
+                },
+                {
+                    "secondary_subgoal": "Pour egg into the stew",
+                    "start_timestamp": 2367,
+                    "stop_timestamp": 2886
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir and fetch soup",
+            "start_timestamp": 2886,
+            "stop_timestamp": 3213,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir the stew",
+                    "start_timestamp": 2886,
+                    "stop_timestamp": 2903
+                },
+                {
+                    "secondary_subgoal": "Fetch and pour soup",
+                    "start_timestamp": 2903,
+                    "stop_timestamp": 3213
+                }
+            ]
+        },
+        {
+            "subgoal": "Final stirring of the stew",
+            "start_timestamp": 3213,
+            "stop_timestamp": 5749,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Final stir of the stew",
+                    "start_timestamp": 3213,
+                    "stop_timestamp": 5749
+                }
+            ]
+        },
+        {
+            "subgoal": "Dispose and clean up",
+            "start_timestamp": 5749,
+            "stop_timestamp": 7578,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Dispose plastic bag",
+                    "start_timestamp": 5749,
+                    "stop_timestamp": 6024
+                },
+                {
+                    "secondary_subgoal": "Wash utensils",
+                    "start_timestamp": 6024,
+                    "stop_timestamp": 7578
+                }
+            ]
+        },
+        {
+            "subgoal": "Store cleaned utensils",
+            "start_timestamp": 7578,
+            "stop_timestamp": 9093,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Store utensils in dish dryer",
+                    "start_timestamp": 7578,
+                    "stop_timestamp": 9093
+                }
+            ]
+        }
+    ]
+}

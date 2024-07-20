@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egibv1FcJP9vjD3bV2JGXBmKnsXy",
+    "object": "chat.completion",
+    "created": 1719484357,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cook and eat a meal with broccoli and soup\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare and cook the broccoli\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 6289,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick the broccoli and prepare it for cooking\",\n          \"start_timestamp\": 70,\n          \"stop_timestamp\": 144\n        },\n        {\n          \"secondary_subgoal\": \"Add broccoli to the cooking pot\",\n          \"start_timestamp\": 144,\n          \"stop_timestamp\": 360\n        },\n        {\n          \"secondary_subgoal\": \"Stir the soup and add more broccoli\",\n          \"start_timestamp\": 360,\n          \"stop_timestamp\": 836\n        },\n        {\n          \"secondary_subgoal\": \"Stir the soup again and add the remaining broccoli\",\n          \"start_timestamp\": 839,\n          \"stop_timestamp\": 1741\n        },\n        {\n          \"secondary_subgoal\": \"Stir the broccoli in the cooking pot\",\n          \"start_timestamp\": 4354,\n          \"stop_timestamp\": 4831\n        },\n        {\n          \"secondary_subgoal\": \"Stir soup and handle spices\",\n          \"start_timestamp\": 5107,\n          \"stop_timestamp\": 5535\n        },\n        {\n          \"secondary_subgoal\": \"Touch the gas cooker, stir and cut broccoli\",\n          \"start_timestamp\": 5651,\n          \"stop_timestamp\": 6140\n        },\n        {\n          \"secondary_subgoal\": \"Finish cooking the broccoli\",\n          \"start_timestamp\": 6140,\n          \"stop_timestamp\": 6289\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Wash cooking ware and clean the kitchen\",\n      \"start_timestamp\": 1753,\n      \"stop_timestamp\": 3327,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash the bowl\",\n          \"start_timestamp\": 1753,\n          \"stop_timestamp\": 1995\n        },\n        {\n          \"secondary_subgoal\": \"Rinse and dry the bowl\",\n          \"start_timestamp\": 2146,\n          \"stop_timestamp\": 2613\n        },\n        {\n          \"secondary_subgoal\": \"Wash other items and the sink\",\n          \"start_timestamp\": 2613,\n          \"stop_timestamp\": 3096\n        },\n        {\n          \"secondary_subgoal\": \"Wash hands and wipe them dry\",\n          \"start_timestamp\": 3238,\n          \"stop_timestamp\": 3394\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and eat the soup\",\n      \"start_timestamp\": 3452,\n      \"stop_timestamp\": 3938,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Scoop and pour the soup\",\n          \"start_timestamp\": 3521,\n          \"stop_timestamp\": 3651\n        },\n        {\n          \"secondary_subgoal\": \"Eat the soup and place dish on sink\",\n          \"start_timestamp\": 3651,\n          \"stop_timestamp\": 4000\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Season and finalize the soup\",\n      \"start_timestamp\": 4029,\n      \"stop_timestamp\": 4176,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Add spice to the soup\",\n          \"start_timestamp\": 4029,\n          \"stop_timestamp\": 4080\n        },\n        {\n          \"secondary_subgoal\": \"Stir the soup\",\n          \"start_timestamp\": 4080,\n          \"stop_timestamp\": 4176\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up and finish cooking\",\n      \"start_timestamp\": 4877,\n      \"stop_timestamp\": 6563,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handle spices and finish stirring\",\n          \"start_timestamp\": 4877,\n          \"stop_timestamp\": 5535\n        },\n        {\n          \"secondary_subgoal\": \"Finish cooking and serve the broccoli\",\n          \"start_timestamp\": 6289,\n          \"stop_timestamp\": 6563\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1355,
+        "completion_tokens": 892,
+        "total_tokens": 2247
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

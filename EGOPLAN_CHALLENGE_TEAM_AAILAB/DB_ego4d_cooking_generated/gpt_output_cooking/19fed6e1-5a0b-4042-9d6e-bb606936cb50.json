@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfGmP5MCy0ktDbe4vssb5g6wkr0O",
+    "object": "chat.completion",
+    "created": 1719240460,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a mixture of egg, milk, and bread, and store it in the fridge.\", \n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare ingredients\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 2165,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash hands\",\n          \"start_timestamp\": 95,\n          \"stop_timestamp\": 172\n        },\n        {\n          \"secondary_subgoal\": \"Prepare cooking area\",\n          \"start_timestamp\": 172,\n          \"stop_timestamp\": 530\n        },\n        {\n          \"secondary_subgoal\": \"Collect ingredients (milk, egg, bread)\",\n          \"start_timestamp\": 1229,\n          \"stop_timestamp\": 1993\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and cut bread\",\n      \"start_timestamp\": 1993,\n      \"stop_timestamp\": 4246,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Unwrap bread and cut into slices\",\n          \"start_timestamp\": 3050,\n          \"stop_timestamp\": 4126\n        },\n        {\n          \"secondary_subgoal\": \"Dispose of bread wrapping\",\n          \"start_timestamp\": 4126,\n          \"stop_timestamp\": 4222\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Measure and pour milk\",\n      \"start_timestamp\": 4269,\n      \"stop_timestamp\": 5804,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Measure and pour milk into jug\",\n          \"start_timestamp\": 4992,\n          \"stop_timestamp\": 5539\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare egg\",\n      \"start_timestamp\": 6601,\n      \"stop_timestamp\": 7430,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Break and handle egg\",\n          \"start_timestamp\": 6788,\n          \"stop_timestamp\": 7347\n        },\n        {\n          \"secondary_subgoal\": \"Wash hands after handling egg\",\n          \"start_timestamp\": 7403,\n          \"stop_timestamp\": 7430\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Add sugar to mixture\",\n      \"start_timestamp\": 7731,\n      \"stop_timestamp\": 8392,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Scoop and add sugar to mixture\",\n          \"start_timestamp\": 8125,\n          \"stop_timestamp\": 8392\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Mix ingredients\",\n      \"start_timestamp\": 9035,\n      \"stop_timestamp\": 9779,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir egg, sugar, and milk mixture\",\n          \"start_timestamp\": 9089,\n          \"stop_timestamp\": 9779\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Soak bread in mixture\",\n      \"start_timestamp\": 10672,\n      \"stop_timestamp\": 11878,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Add bread to mixture and stir\",\n          \"start_timestamp\": 10672,\n          \"stop_timestamp\": 11684\n        },\n        {\n          \"secondary_subgoal\": \"Wrap bowl and store in fridge\",\n          \"start_timestamp\": 11717,\n          \"stop_timestamp\": 12562\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3520,
+        "completion_tokens": 749,
+        "total_tokens": 4269
+    },
+    "system_fingerprint": "fp_888385ccad"
+}

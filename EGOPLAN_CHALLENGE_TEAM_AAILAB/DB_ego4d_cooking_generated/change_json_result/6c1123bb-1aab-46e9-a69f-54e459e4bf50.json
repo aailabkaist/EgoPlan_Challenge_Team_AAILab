@@ -1,0 +1,58 @@
+{
+    "overall_goal": "Peel and prepare multiple food ingredients, specifically potatoes, onions, and other items, to prepare a meal including making dough and flatbread.",
+    "clips": [
+        {
+            "subgoal": "Peeling and preparing potatoes",
+            "start_timestamp": 49,
+            "stop_timestamp": 2252,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peeling potatoes",
+                    "start_timestamp": 49,
+                    "stop_timestamp": 2191
+                },
+                {
+                    "secondary_subgoal": "Adjusting the gas cooker flame",
+                    "start_timestamp": 2191,
+                    "stop_timestamp": 2252
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing other food ingredients",
+            "start_timestamp": 4813,
+            "stop_timestamp": 5834,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cutting onions and gathering ingredients",
+                    "start_timestamp": 4814,
+                    "stop_timestamp": 5834
+                }
+            ]
+        },
+        {
+            "subgoal": "Making dough",
+            "start_timestamp": 63885,
+            "stop_timestamp": 86279,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mixing flour and water to make the dough",
+                    "start_timestamp": 81060,
+                    "stop_timestamp": 86279
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing flatbread (roti)",
+            "start_timestamp": 160000,
+            "stop_timestamp": 170931,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rolling the dough",
+                    "start_timestamp": 160000,
+                    "stop_timestamp": 170931
+                }
+            ]
+        }
+    ]
+}

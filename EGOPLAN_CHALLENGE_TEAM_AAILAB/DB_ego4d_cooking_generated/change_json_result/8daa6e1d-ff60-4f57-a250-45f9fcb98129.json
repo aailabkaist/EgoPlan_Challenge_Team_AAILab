@@ -1,0 +1,126 @@
+{
+    "overall_goal": "Prepare and cook food using various ingredients and kitchen tools.",
+    "clips": [
+        {
+            "subgoal": "Prepare garlic.",
+            "start_timestamp": 0,
+            "stop_timestamp": 7407,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare kitchen tools and objects.",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 335
+                },
+                {
+                    "secondary_subgoal": "Stepping towards cooker and opening drawer.",
+                    "start_timestamp": 361,
+                    "stop_timestamp": 402
+                },
+                {
+                    "secondary_subgoal": "Picking and stirring with ladle spoon.",
+                    "start_timestamp": 459,
+                    "stop_timestamp": 731
+                },
+                {
+                    "secondary_subgoal": "Working at the counter with cutting board and cheese.",
+                    "start_timestamp": 778,
+                    "stop_timestamp": 860
+                },
+                {
+                    "secondary_subgoal": "Storing cheese in the fridge.",
+                    "start_timestamp": 947,
+                    "stop_timestamp": 1112
+                },
+                {
+                    "secondary_subgoal": "Handling garlic.",
+                    "start_timestamp": 1195,
+                    "stop_timestamp": 1307
+                },
+                {
+                    "secondary_subgoal": "Peeling and disposing garlic skin.",
+                    "start_timestamp": 1340,
+                    "stop_timestamp": 1864
+                },
+                {
+                    "secondary_subgoal": "Finalizing garlic preparation.",
+                    "start_timestamp": 1915,
+                    "stop_timestamp": 2251
+                },
+                {
+                    "secondary_subgoal": "Cleaning hands and tools.",
+                    "start_timestamp": 2251,
+                    "stop_timestamp": 2385
+                },
+                {
+                    "secondary_subgoal": "Final garlic cutting and collection.",
+                    "start_timestamp": 2385,
+                    "stop_timestamp": 7473
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare potato.",
+            "start_timestamp": 7810,
+            "stop_timestamp": 14932,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Initial handling and unwrapping of potato.",
+                    "start_timestamp": 7810,
+                    "stop_timestamp": 8905
+                },
+                {
+                    "secondary_subgoal": "Cutting and peeling potato.",
+                    "start_timestamp": 9144,
+                    "stop_timestamp": 10364
+                },
+                {
+                    "secondary_subgoal": "Storing peeled potato.",
+                    "start_timestamp": 10418,
+                    "stop_timestamp": 10585
+                },
+                {
+                    "secondary_subgoal": "Final potato preparation.",
+                    "start_timestamp": 10635,
+                    "stop_timestamp": 11563
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the prepared ingredients.",
+            "start_timestamp": 14932,
+            "stop_timestamp": 21032,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Switching on cooker and stirring food.",
+                    "start_timestamp": 14932,
+                    "stop_timestamp": 15475
+                },
+                {
+                    "secondary_subgoal": "Scooping and preparing unsure ingredient.",
+                    "start_timestamp": 15622,
+                    "stop_timestamp": 15897
+                },
+                {
+                    "secondary_subgoal": "Using chopsticks and keeping the unsure ingredient aside.",
+                    "start_timestamp": 15897,
+                    "stop_timestamp": 17608
+                },
+                {
+                    "secondary_subgoal": "Handling towel and oil bottle.",
+                    "start_timestamp": 17735,
+                    "stop_timestamp": 18009
+                },
+                {
+                    "secondary_subgoal": "Cooking and stirring garlic.",
+                    "start_timestamp": 18232,
+                    "stop_timestamp": 20202
+                },
+                {
+                    "secondary_subgoal": "Adding minced meat to the pan.",
+                    "start_timestamp": 20253,
+                    "stop_timestamp": 21032
+                }
+            ]
+        }
+    ]
+}

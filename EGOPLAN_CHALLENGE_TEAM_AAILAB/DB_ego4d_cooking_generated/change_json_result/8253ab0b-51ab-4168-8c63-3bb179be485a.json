@@ -1,0 +1,92 @@
+{
+    "overall_goal": "Cutting and placing mango pieces in a container",
+    "clips": [
+        {
+            "subgoal": "Cutting mango and placing pieces in container",
+            "start_timestamp": 93,
+            "stop_timestamp": 1206,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cutting a mango",
+                    "start_timestamp": 93,
+                    "stop_timestamp": 144
+                },
+                {
+                    "secondary_subgoal": "Putting down knife",
+                    "start_timestamp": 144,
+                    "stop_timestamp": 186
+                },
+                {
+                    "secondary_subgoal": "Placing mango pieces in container",
+                    "start_timestamp": 186,
+                    "stop_timestamp": 322
+                },
+                {
+                    "secondary_subgoal": "Inspecting a mango piece",
+                    "start_timestamp": 322,
+                    "stop_timestamp": 365
+                },
+                {
+                    "secondary_subgoal": "Picking a knife",
+                    "start_timestamp": 365,
+                    "stop_timestamp": 403
+                },
+                {
+                    "secondary_subgoal": "Cutting a mango",
+                    "start_timestamp": 403,
+                    "stop_timestamp": 453
+                },
+                {
+                    "secondary_subgoal": "Placing mango pieces in container",
+                    "start_timestamp": 453,
+                    "stop_timestamp": 487
+                },
+                {
+                    "secondary_subgoal": "Moving container",
+                    "start_timestamp": 487,
+                    "stop_timestamp": 531
+                },
+                {
+                    "secondary_subgoal": "Cutting a mango",
+                    "start_timestamp": 531,
+                    "stop_timestamp": 588
+                },
+                {
+                    "secondary_subgoal": "Moving hands closer to container",
+                    "start_timestamp": 588,
+                    "stop_timestamp": 696
+                },
+                {
+                    "secondary_subgoal": "Turning a mango in hand",
+                    "start_timestamp": 696,
+                    "stop_timestamp": 789
+                },
+                {
+                    "secondary_subgoal": "Cutting a mango",
+                    "start_timestamp": 789,
+                    "stop_timestamp": 1022
+                },
+                {
+                    "secondary_subgoal": "Picking a mango piece",
+                    "start_timestamp": 1022,
+                    "stop_timestamp": 1055
+                },
+                {
+                    "secondary_subgoal": "Placing mango pieces in container",
+                    "start_timestamp": 1055,
+                    "stop_timestamp": 1091
+                },
+                {
+                    "secondary_subgoal": "Picking a mango",
+                    "start_timestamp": 1091,
+                    "stop_timestamp": 1106
+                },
+                {
+                    "secondary_subgoal": "Cutting a mango",
+                    "start_timestamp": 1106,
+                    "stop_timestamp": 1206
+                }
+            ]
+        }
+    ]
+}

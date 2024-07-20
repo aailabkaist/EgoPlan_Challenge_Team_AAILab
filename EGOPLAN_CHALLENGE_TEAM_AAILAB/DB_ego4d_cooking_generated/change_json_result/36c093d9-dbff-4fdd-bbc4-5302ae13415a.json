@@ -1,0 +1,95 @@
+{
+    "overall_goal": "Prepare dough and bake doughnuts using a microwave",
+    "clips": [
+        {
+            "subgoal": "Check doneness of doughnuts",
+            "start_timestamp": 0,
+            "stop_timestamp": 752,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place cellphone and open microwave",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 94
+                },
+                {
+                    "secondary_subgoal": "Bring out tray and prick doughnuts",
+                    "start_timestamp": 94,
+                    "stop_timestamp": 519
+                },
+                {
+                    "secondary_subgoal": "Push back baking tray and close microwave",
+                    "start_timestamp": 519,
+                    "stop_timestamp": 724
+                },
+                {
+                    "secondary_subgoal": "Turn on microwave",
+                    "start_timestamp": 724,
+                    "stop_timestamp": 752
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix ingredients to prepare dough",
+            "start_timestamp": 1813,
+            "stop_timestamp": 4726,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Collect mixing tools and ingredients",
+                    "start_timestamp": 1813,
+                    "stop_timestamp": 2081
+                },
+                {
+                    "secondary_subgoal": "Mix ingredients in the bowl",
+                    "start_timestamp": 2081,
+                    "stop_timestamp": 4726
+                }
+            ]
+        },
+        {
+            "subgoal": "Place dough in a baking tin",
+            "start_timestamp": 4773,
+            "stop_timestamp": 7266,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and fill baking tin",
+                    "start_timestamp": 4773,
+                    "stop_timestamp": 5102
+                },
+                {
+                    "secondary_subgoal": "Scoop dough into baking tin and spread",
+                    "start_timestamp": 5102,
+                    "stop_timestamp": 7266
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash hands",
+            "start_timestamp": 7295,
+            "stop_timestamp": 7558,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and dry hands",
+                    "start_timestamp": 7295,
+                    "stop_timestamp": 7558
+                }
+            ]
+        },
+        {
+            "subgoal": "Bake the dough",
+            "start_timestamp": 7587,
+            "stop_timestamp": 9575,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move tin to and from microwave to adjust contents",
+                    "start_timestamp": 7587,
+                    "stop_timestamp": 9441
+                },
+                {
+                    "secondary_subgoal": "Turn on microwave and handle baking tray",
+                    "start_timestamp": 9441,
+                    "stop_timestamp": 9575
+                }
+            ]
+        }
+    ]
+}

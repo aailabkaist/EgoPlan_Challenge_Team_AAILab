@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehaSMtWadt8aoPS4wqa4vF3c22hn",
+    "object": "chat.completion",
+    "created": 1719487696,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare chopped tomato and green beans for cooking.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare and chop tomatoes.\",\n      \"start_timestamp\": 473,\n      \"stop_timestamp\": 2688,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare knife and wash tomato\",\n          \"start_timestamp\": 473,\n          \"stop_timestamp\": 785\n        },\n        {\n          \"secondary_subgoal\": \"Chop tomato\",\n          \"start_timestamp\": 938,\n          \"stop_timestamp\": 2390\n        },\n        {\n          \"secondary_subgoal\": \"Put chopped tomato in the dish\",\n          \"start_timestamp\": 2390,\n          \"stop_timestamp\": 2688\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Bring and wash more tomatoes from the fridge\",\n      \"start_timestamp\": 2688,\n      \"stop_timestamp\": 3197,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick, wash, and place tomato on chopping board\",\n          \"start_timestamp\": 2688,\n          \"stop_timestamp\": 3201\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Chop more tomatoes\",\n      \"start_timestamp\": 3201,\n      \"stop_timestamp\": 4965,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare knife and wash tomato\",\n          \"start_timestamp\": 3201,\n          \"stop_timestamp\": 3432\n        },\n        {\n          \"secondary_subgoal\": \"Chop tomato\",\n          \"start_timestamp\": 3513,\n          \"stop_timestamp\": 4965\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Put chopped tomato into the dish\",\n      \"start_timestamp\": 4965,\n      \"stop_timestamp\": 5436,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put chopped tomato into dish\",\n          \"start_timestamp\": 4965,\n          \"stop_timestamp\": 5012\n        },\n        {\n          \"secondary_subgoal\": \"Clean and prepare chopping board\",\n          \"start_timestamp\": 5452,\n          \"stop_timestamp\": 5930\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and chop onions\",\n      \"start_timestamp\": 5930,\n      \"stop_timestamp\": 10908,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare onion\",\n          \"start_timestamp\": 5930,\n          \"stop_timestamp\": 8395\n        },\n        {\n          \"secondary_subgoal\": \"Chop onion\",\n          \"start_timestamp\": 8395,\n          \"stop_timestamp\": 10908\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare cooking surface\",\n      \"start_timestamp\": 10908,\n      \"stop_timestamp\": 11614,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Collect beans and clean work area\",\n          \"start_timestamp\": 10908,\n          \"stop_timestamp\": 11415\n        },\n        {\n          \"secondary_subgoal\": \"Prepare cooking pot\",\n          \"start_timestamp\": 11415,\n          \"stop_timestamp\": 11614\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Use recipe for preparation\",\n      \"start_timestamp\": 11614,\n      \"stop_timestamp\": 12414,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Select and manage recipe sachet\",\n          \"start_timestamp\": 11614,\n          \"stop_timestamp\": 12314\n        },\n        {\n          \"secondary_subgoal\": \"Handle step-related actions\",\n          \"start_timestamp\": 12314,\n          \"stop_timestamp\": 12414\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2521,
+        "completion_tokens": 809,
+        "total_tokens": 3330
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

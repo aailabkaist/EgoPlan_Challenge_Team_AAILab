@@ -1,0 +1,42 @@
+{
+    "overall_goal": "Cleaning and maintaining a piece of wood",
+    "clips": [
+        {
+            "subgoal": "Cleaning the piece of wood",
+            "start_timestamp": 0,
+            "stop_timestamp": 8090,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Scrubbing the piece of wood",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 63
+                },
+                {
+                    "secondary_subgoal": "Scrubbing and wiping the piece of wood",
+                    "start_timestamp": 63,
+                    "stop_timestamp": 954
+                },
+                {
+                    "secondary_subgoal": "Rinsing hands and continual scrubbing",
+                    "start_timestamp": 954,
+                    "stop_timestamp": 1703
+                },
+                {
+                    "secondary_subgoal": "Continuous scrubbing while occasionally pushing and looking around",
+                    "start_timestamp": 1703,
+                    "stop_timestamp": 5089
+                },
+                {
+                    "secondary_subgoal": "Brief interaction with man X, followed by continued scrubbing and water addition",
+                    "start_timestamp": 5089,
+                    "stop_timestamp": 8132
+                },
+                {
+                    "secondary_subgoal": "Final scrubbing and preparations",
+                    "start_timestamp": 8132,
+                    "stop_timestamp": 8090
+                }
+            ]
+        }
+    ]
+}

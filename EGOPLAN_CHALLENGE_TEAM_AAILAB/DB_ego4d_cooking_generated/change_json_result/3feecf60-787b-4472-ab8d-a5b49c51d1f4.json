@@ -1,0 +1,91 @@
+{
+    "overall_goal": "Prepare maize and potatoes for cooking",
+    "clips": [
+        {
+            "subgoal": "Prepare maize for cooking",
+            "start_timestamp": 0,
+            "stop_timestamp": 2070,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare maize in the bowl",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 272
+                },
+                {
+                    "secondary_subgoal": "Carry maize bowl inside the house",
+                    "start_timestamp": 272,
+                    "stop_timestamp": 373
+                },
+                {
+                    "secondary_subgoal": "Wash maize in the bowl",
+                    "start_timestamp": 373,
+                    "stop_timestamp": 1361
+                },
+                {
+                    "secondary_subgoal": "Carry maize bowl to the pot",
+                    "start_timestamp": 1361,
+                    "stop_timestamp": 1656
+                },
+                {
+                    "secondary_subgoal": "Transfer maize from bowl to pot",
+                    "start_timestamp": 1656,
+                    "stop_timestamp": 1998
+                },
+                {
+                    "secondary_subgoal": "Modify maize and bowl",
+                    "start_timestamp": 1998,
+                    "stop_timestamp": 2070
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash and prepare bowl and water for potatoes",
+            "start_timestamp": 2070,
+            "stop_timestamp": 2978,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pour water from bowl and return",
+                    "start_timestamp": 2070,
+                    "stop_timestamp": 2422
+                },
+                {
+                    "secondary_subgoal": "Clean bowl while moving",
+                    "start_timestamp": 2422,
+                    "stop_timestamp": 2573
+                },
+                {
+                    "secondary_subgoal": "Fill bowl with water at pump",
+                    "start_timestamp": 2573,
+                    "stop_timestamp": 2978
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cooking setup with potatoes",
+            "start_timestamp": 2978,
+            "stop_timestamp": 4495,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Arrange bowl, vegetables, and potatoes",
+                    "start_timestamp": 2978,
+                    "stop_timestamp": 3421
+                },
+                {
+                    "secondary_subgoal": "Handle and open potatoes pack",
+                    "start_timestamp": 3421,
+                    "stop_timestamp": 3789
+                },
+                {
+                    "secondary_subgoal": "Prepare to peel potatoes",
+                    "start_timestamp": 3789,
+                    "stop_timestamp": 4488
+                },
+                {
+                    "secondary_subgoal": "Peel potato with peeler",
+                    "start_timestamp": 4488,
+                    "stop_timestamp": 4495
+                }
+            ]
+        }
+    ]
+}

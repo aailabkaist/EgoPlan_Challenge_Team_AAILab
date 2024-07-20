@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeCkJq0l4IlvbwR0ZaKFdoveyvIF",
+    "object": "chat.completion",
+    "created": 1719474694,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Shell and separate ground nuts from their shells using a combination of manual and mechanical methods.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Perform initial shelling of ground nuts manually\",\n      \"start_timestamp\": 1,\n      \"stop_timestamp\": 17356,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick up and handle ground nuts and their shells\",\n          \"start_timestamp\": 1,\n          \"stop_timestamp\": 559\n        },\n        {\n          \"secondary_subgoal\": \"Remove ground nuts from their shells manually and put them in the clay pot\",\n          \"start_timestamp\": 559,\n          \"stop_timestamp\": 10264\n        },\n        {\n          \"secondary_subgoal\": \"Stir and move ground nuts and shells in the clay pot to separate them\",\n          \"start_timestamp\": 680,\n          \"stop_timestamp\": 17400\n        },\n        {\n          \"secondary_subgoal\": \"Put ground nuts shells in the winnowing tray\",\n          \"start_timestamp\": 738,\n          \"stop_timestamp\": 10708\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Continue separating ground nuts from shells\",\n      \"start_timestamp\": 7840,\n      \"stop_timestamp\": 17789,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick ground nut shells and nuts from the clay pot and put shells in the winnowing tray\",\n          \"start_timestamp\": 7840,\n          \"stop_timestamp\": 17789\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Use a peanut sheller to break the ground nut shells\",\n      \"start_timestamp\": 17789,\n      \"stop_timestamp\": 17902,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Move ground nut shells into the peanut sheller and operate it\",\n          \"start_timestamp\": 17789,\n          \"stop_timestamp\": 17902\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4375,
+        "completion_tokens": 428,
+        "total_tokens": 4803
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

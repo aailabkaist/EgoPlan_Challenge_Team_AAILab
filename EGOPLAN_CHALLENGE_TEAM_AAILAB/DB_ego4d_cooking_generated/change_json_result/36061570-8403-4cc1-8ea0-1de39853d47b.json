@@ -1,0 +1,93 @@
+{
+    "overall_goal": "Preparing and cooking a meat dish",
+    "clips": [
+        {
+            "subgoal": "Preparing ingredients and utensils",
+            "start_timestamp": 0,
+            "stop_timestamp": 1971,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Activating the cooker",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 178
+                },
+                {
+                    "secondary_subgoal": "Cleaning the chopping board",
+                    "start_timestamp": 201,
+                    "stop_timestamp": 334
+                },
+                {
+                    "secondary_subgoal": "Gathering necessary ingredients from the fridge",
+                    "start_timestamp": 371,
+                    "stop_timestamp": 478
+                },
+                {
+                    "secondary_subgoal": "Handling the meat tray and knife",
+                    "start_timestamp": 478,
+                    "stop_timestamp": 714
+                },
+                {
+                    "secondary_subgoal": "Preparing and slicing the meat",
+                    "start_timestamp": 714,
+                    "stop_timestamp": 1971
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking the meat",
+            "start_timestamp": 1971,
+            "stop_timestamp": 14092,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling the oil and adding meat to the pan",
+                    "start_timestamp": 1971,
+                    "stop_timestamp": 3253
+                },
+                {
+                    "secondary_subgoal": "Handling and using the spatula",
+                    "start_timestamp": 3386,
+                    "stop_timestamp": 4642
+                },
+                {
+                    "secondary_subgoal": "Performing various cooking tasks",
+                    "start_timestamp": 4642,
+                    "stop_timestamp": 14092
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling the cooked meat",
+            "start_timestamp": 14092,
+            "stop_timestamp": 18397,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turning off the cooking heat and cleaning",
+                    "start_timestamp": 14119,
+                    "stop_timestamp": 16056
+                },
+                {
+                    "secondary_subgoal": "Finalizing the meat preparation",
+                    "start_timestamp": 16056,
+                    "stop_timestamp": 18397
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning the cooking area",
+            "start_timestamp": 18397,
+            "stop_timestamp": 21028,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling dishes and utensils",
+                    "start_timestamp": 18397,
+                    "stop_timestamp": 19516
+                },
+                {
+                    "secondary_subgoal": "Final cleaning touches",
+                    "start_timestamp": 19516,
+                    "stop_timestamp": 21028
+                }
+            ]
+        }
+    ]
+}

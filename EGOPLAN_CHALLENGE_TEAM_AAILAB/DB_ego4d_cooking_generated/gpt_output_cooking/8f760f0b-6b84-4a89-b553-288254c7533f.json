@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9deefenMCWpvt0JW19FUqHR6kP75e",
+    "object": "chat.completion",
+    "created": 1719238097,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and transfer food into a cooking pot after chopping and peeling various items.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing cooking space and utensils\",\n      \"start_timestamp\": 58,\n      \"stop_timestamp\": 600,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Setting up the cooking pot\",\n          \"start_timestamp\": 58,\n          \"stop_timestamp\": 179\n        },\n        {\n          \"secondary_subgoal\": \"Placing and adjusting various utensils\",\n          \"start_timestamp\": 179,\n          \"stop_timestamp\": 600\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Draining and transferring food\",\n      \"start_timestamp\": 600,\n      \"stop_timestamp\": 1112,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Placing food in strainer bowl and moving it\",\n          \"start_timestamp\": 600,\n          \"stop_timestamp\": 893\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning the cooking pot and utensils\",\n          \"start_timestamp\": 893,\n          \"stop_timestamp\": 1112\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Chopping and preparing food on the chop board\",\n      \"start_timestamp\": 1112,\n      \"stop_timestamp\": 9759,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Draining and transitioning food on chop board\",\n          \"start_timestamp\": 1112,\n          \"stop_timestamp\": 2044\n        },\n        {\n          \"secondary_subgoal\": \"Chopping and inspecting food\",\n          \"start_timestamp\": 2044,\n          \"stop_timestamp\": 7759\n        },\n        {\n          \"secondary_subgoal\": \"Moving food into the cooking pot\",\n          \"start_timestamp\": 7759,\n          \"stop_timestamp\": 9759\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Peeling and transferring sweet dried plums\",\n      \"start_timestamp\": 9759,\n      \"stop_timestamp\": 15755,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Peeling and smashing sweet dried plums\",\n          \"start_timestamp\": 9759,\n          \"stop_timestamp\": 16155\n        },\n        {\n          \"secondary_subgoal\": \"Using spoon to peel and move sour plums\",\n          \"start_timestamp\": 16155,\n          \"stop_timestamp\": 15755\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final peeling of sour plums and transferring to bowl\",\n      \"start_timestamp\": 15755,\n      \"stop_timestamp\": 21298,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Using knife and spoon to peel and move sour plums\",\n          \"start_timestamp\": 15755,\n          \"stop_timestamp\": 20890\n        },\n        {\n          \"secondary_subgoal\": \"Removing pieces from spoon and placing into bowl\",\n          \"start_timestamp\": 20890,\n          \"stop_timestamp\": 21298\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3754,
+        "completion_tokens": 663,
+        "total_tokens": 4417
+    },
+    "system_fingerprint": "fp_5e6c71d4a8"
+}

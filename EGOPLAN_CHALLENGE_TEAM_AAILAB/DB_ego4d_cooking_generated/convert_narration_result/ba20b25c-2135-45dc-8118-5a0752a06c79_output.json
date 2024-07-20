@@ -1,0 +1,272 @@
+[
+    {
+        "task_goal": "Fry and turn pancake in the skillet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Fries pancake in skillet with slotted turner",
+                "start_frame": 1,
+                "stop_frame": 416
+            },
+            {
+                "narration_text": "Turns pancake in skillet with slotted turner",
+                "start_frame": 416,
+                "stop_frame": 925
+            },
+            {
+                "narration_text": "Shakes skillet",
+                "start_frame": 925,
+                "stop_frame": 953
+            }
+        ]
+    },
+    {
+        "task_goal": "Shake skillet and continue frying pancake",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns pancake in skillet with slotted turner",
+                "start_frame": 416,
+                "stop_frame": 925
+            },
+            {
+                "narration_text": "Shakes skillet",
+                "start_frame": 925,
+                "stop_frame": 953
+            },
+            {
+                "narration_text": "Fries pancake in skillet",
+                "start_frame": 953,
+                "stop_frame": 1815
+            },
+            {
+                "narration_text": "Places slotted turner on skillet",
+                "start_frame": 1815,
+                "stop_frame": 1825
+            }
+        ]
+    },
+    {
+        "task_goal": "Place slotted turner on skillet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Fries pancake in skillet",
+                "start_frame": 953,
+                "stop_frame": 1815
+            },
+            {
+                "narration_text": "Places slotted turner on skillet",
+                "start_frame": 1815,
+                "stop_frame": 1825
+            },
+            {
+                "narration_text": "Walks along countertop",
+                "start_frame": 1825,
+                "stop_frame": 1892
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk along countertop",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places slotted turner on skillet",
+                "start_frame": 1815,
+                "stop_frame": 1825
+            },
+            {
+                "narration_text": "Walks along countertop",
+                "start_frame": 1825,
+                "stop_frame": 1892
+            },
+            {
+                "narration_text": "Picks spoon in bowl inside sink",
+                "start_frame": 1892,
+                "stop_frame": 1911
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinsing and drying bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks bowl in sink",
+                "start_frame": 3130,
+                "stop_frame": 3157
+            },
+            {
+                "narration_text": "Rinses bowl in the sink",
+                "start_frame": 3157,
+                "stop_frame": 3442
+            },
+            {
+                "narration_text": "Turns off sink knob",
+                "start_frame": 3442,
+                "stop_frame": 3462
+            },
+            {
+                "narration_text": "Shakes bowl in sink",
+                "start_frame": 3462,
+                "stop_frame": 3528
+            },
+            {
+                "narration_text": "Places bowl in utensils rack",
+                "start_frame": 3528,
+                "stop_frame": 3602
+            }
+        ]
+    },
+    {
+        "task_goal": "Additional cleaning tasks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places bowl in utensils rack",
+                "start_frame": 3528,
+                "stop_frame": 3602
+            },
+            {
+                "narration_text": "Holds kitchen towel on sink",
+                "start_frame": 3602,
+                "stop_frame": 3603
+            },
+            {
+                "narration_text": "Wipes sink edge with kitchen towel",
+                "start_frame": 3603,
+                "stop_frame": 3694
+            },
+            {
+                "narration_text": "Picks kitchen towel",
+                "start_frame": 3694,
+                "stop_frame": 3726
+            },
+            {
+                "narration_text": "Wipes plate on countertop with the towel",
+                "start_frame": 3726,
+                "stop_frame": 3797
+            },
+            {
+                "narration_text": "Hangs towel back",
+                "start_frame": 3797,
+                "stop_frame": 3870
+            },
+            {
+                "narration_text": "Positions well aluminum bowl in utensils rack",
+                "start_frame": 3870,
+                "stop_frame": 3951
+            }
+        ]
+    },
+    {
+        "task_goal": "Additional cleaning actions",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Hangs towel back",
+                "start_frame": 3797,
+                "stop_frame": 3870
+            },
+            {
+                "narration_text": "Positions well aluminum bowl in utensils rack",
+                "start_frame": 3870,
+                "stop_frame": 3951
+            },
+            {
+                "narration_text": "Steps closer to cooker",
+                "start_frame": 3951,
+                "stop_frame": 3980
+            },
+            {
+                "narration_text": "Picks slotted turner on skillet",
+                "start_frame": 3980,
+                "stop_frame": 4025
+            }
+        ]
+    },
+    {
+        "task_goal": "Spread sauce on pancake",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Melts butter piece round the pancake with the spoon",
+                "start_frame": 7488,
+                "stop_frame": 8942
+            },
+            {
+                "narration_text": "Puts down a spoon in a sink",
+                "start_frame": 8942,
+                "stop_frame": 9025
+            },
+            {
+                "narration_text": "Moves around a kitchen",
+                "start_frame": 9025,
+                "stop_frame": 9050
+            },
+            {
+                "narration_text": "Picks up a mug from a kitchen counter",
+                "start_frame": 9050,
+                "stop_frame": 9072
+            },
+            {
+                "narration_text": "Unwraps a piece of paper from a mug",
+                "start_frame": 9072,
+                "stop_frame": 9271
+            },
+            {
+                "narration_text": "Picks up a spoon from a kitchen counter",
+                "start_frame": 9271,
+                "stop_frame": 9310
+            },
+            {
+                "narration_text": "Scoops sauce from a mug with a spoon",
+                "start_frame": 9310,
+                "stop_frame": 9446
+            },
+            {
+                "narration_text": "Spreads sauce on a pancake with a spoon",
+                "start_frame": 9446,
+                "stop_frame": 9511
+            },
+            {
+                "narration_text": "Scoops sauce from a mug with a spoon",
+                "start_frame": 9511,
+                "stop_frame": 9584
+            },
+            {
+                "narration_text": "Spreads sauce on a pancake with a spoon",
+                "start_frame": 9584,
+                "stop_frame": 9740
+            },
+            {
+                "narration_text": "Puts down a spoon in a sink",
+                "start_frame": 9740,
+                "stop_frame": 9775
+            }
+        ]
+    },
+    {
+        "task_goal": "Scoop and spread sauce",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Scoops sauce from a mug with a spoon",
+                "start_frame": 9310,
+                "stop_frame": 9446
+            },
+            {
+                "narration_text": "Spreads sauce on a pancake with a spoon",
+                "start_frame": 9446,
+                "stop_frame": 9511
+            },
+            {
+                "narration_text": "Scoops sauce from a mug with a spoon",
+                "start_frame": 9511,
+                "stop_frame": 9584
+            },
+            {
+                "narration_text": "Spreads sauce on a pancake with a spoon",
+                "start_frame": 9584,
+                "stop_frame": 9740
+            },
+            {
+                "narration_text": "Puts down a spoon in a sink",
+                "start_frame": 9740,
+                "stop_frame": 9775
+            }
+        ]
+    }
+]

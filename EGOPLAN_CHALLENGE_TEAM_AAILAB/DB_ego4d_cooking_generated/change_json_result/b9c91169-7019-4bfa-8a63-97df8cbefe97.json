@@ -1,0 +1,134 @@
+{
+    "overall_goal": "Preparing and baking dough with various ingredients and steps.",
+    "clips": [
+        {
+            "subgoal": "Prepare the dough",
+            "start_timestamp": 0,
+            "stop_timestamp": 3301,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and adjust the appliance",
+                    "start_timestamp": 68,
+                    "stop_timestamp": 377
+                },
+                {
+                    "secondary_subgoal": "Move to the kitchen counter and start flattening dough",
+                    "start_timestamp": 377,
+                    "stop_timestamp": 580
+                },
+                {
+                    "secondary_subgoal": "Rub flour and prepare dough",
+                    "start_timestamp": 620,
+                    "stop_timestamp": 1507
+                },
+                {
+                    "secondary_subgoal": "Repeat dough preparation steps",
+                    "start_timestamp": 1507,
+                    "stop_timestamp": 28688
+                },
+                {
+                    "secondary_subgoal": "Final adjustments on the dough",
+                    "start_timestamp": 28688,
+                    "stop_timestamp": 3301
+                }
+            ]
+        },
+        {
+            "subgoal": "Add paste to the dough",
+            "start_timestamp": 3647,
+            "stop_timestamp": 7644,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather paste and knife",
+                    "start_timestamp": 3647,
+                    "stop_timestamp": 3949
+                },
+                {
+                    "secondary_subgoal": "Stir and spread the paste",
+                    "start_timestamp": 3949,
+                    "stop_timestamp": 7644
+                }
+            ]
+        },
+        {
+            "subgoal": "Add spices and other ingredients",
+            "start_timestamp": 7644,
+            "stop_timestamp": 10873,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather spices from the cabinet",
+                    "start_timestamp": 7644,
+                    "stop_timestamp": 8038
+                },
+                {
+                    "secondary_subgoal": "Spread spices and adjust",
+                    "start_timestamp": 8038,
+                    "stop_timestamp": 10873
+                }
+            ]
+        },
+        {
+            "subgoal": "Shape and re-roll the dough",
+            "start_timestamp": 10873,
+            "stop_timestamp": 18671,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Roll and shape the dough",
+                    "start_timestamp": 10873,
+                    "stop_timestamp": 11786
+                },
+                {
+                    "secondary_subgoal": "Adjust dough and flatten",
+                    "start_timestamp": 11786,
+                    "stop_timestamp": 18671
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare baking tray and cut dough",
+            "start_timestamp": 18671,
+            "stop_timestamp": 2179,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare tray with paper",
+                    "start_timestamp": 18671,
+                    "stop_timestamp": 19254
+                },
+                {
+                    "secondary_subgoal": "Cutting and adjusting dough",
+                    "start_timestamp": 19254,
+                    "stop_timestamp": 2113
+                }
+            ]
+        },
+        {
+            "subgoal": "Spread cooking oil and prepare oven",
+            "start_timestamp": 2179,
+            "stop_timestamp": 8202,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Spread cooking oil on the dough",
+                    "start_timestamp": 2179,
+                    "stop_timestamp": 7644
+                },
+                {
+                    "secondary_subgoal": "Move dough to oven",
+                    "start_timestamp": 7644,
+                    "stop_timestamp": 8202
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up workspace",
+            "start_timestamp": 8202,
+            "stop_timestamp": 68876,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash dishes and organize",
+                    "start_timestamp": 8202,
+                    "stop_timestamp": 68876
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efc31smpIZXqH2JwqqK5U9YCe24C",
+    "object": "chat.completion",
+    "created": 1719480107,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a dish that involves beetroots and turnips.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare and wash the beetroots.\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 2813,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Pick up and place beetroots on the kitchen top.\", \"start_timestamp\": 0, \"stop_timestamp\": 180},\n        {\"secondary_subgoal\": \"Remove string and take utensils.\", \"start_timestamp\": 549, \"stop_timestamp\": 749},\n        {\"secondary_subgoal\": \"Position beetroots in tray, string in sink, and start washing.\", \"start_timestamp\": 1036, \"stop_timestamp\": 1202},\n        {\"secondary_subgoal\": \"Wash all individual beetroots.\", \"start_timestamp\": 1851, \"stop_timestamp\": 2760},\n        {\"secondary_subgoal\": \"Conclude washing by closing the water tap.\", \"start_timestamp\": 2760, \"stop_timestamp\": 2813}\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare beetroots for cutting.\",\n      \"start_timestamp\": 2909,\n      \"stop_timestamp\": 3837,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Place beetroots on chopping board and get knife.\", \"start_timestamp\": 2909, \"stop_timestamp\": 3334},\n        {\"secondary_subgoal\": \"Cut off beetroot leaves.\", \"start_timestamp\": 3334, \"stop_timestamp\": 3837}\n      ]\n    },\n    {\n      \"subgoal\": \"Chop various ingredients and prepare utensils.\",\n      \"start_timestamp\": 3837,\n      \"stop_timestamp\": 5656,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Rinse, pick knife, chop leaves, and gather pieces.\", \"start_timestamp\": 3837, \"stop_timestamp\": 4903},\n        {\"secondary_subgoal\": \"Manage plastic tin and cardboard items.\", \"start_timestamp\": 4985, \"stop_timestamp\": 5573},\n        {\"secondary_subgoal\": \"Organize workspace by pushing phone aside.\", \"start_timestamp\": 5573, \"stop_timestamp\": 5656}\n      ]\n    },\n    {\n      \"subgoal\": \"Grate beetroots and turnips.\",\n      \"start_timestamp\": 6035,\n      \"stop_timestamp\": 11387,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Manage knife, grater and pick items.\", \"start_timestamp\": 6035, \"stop_timestamp\": 6263},\n        {\"secondary_subgoal\": \"Grate beetroots.\", \"start_timestamp\": 6447, \"stop_timestamp\": 7778},\n        {\"secondary_subgoal\": \"Grate turnips.\", \"start_timestamp\": 8603, \"stop_timestamp\": 11461}\n      ]\n    },\n    {\n      \"subgoal\": \"Cut and wash turnips.\",\n      \"start_timestamp\": 11630,\n      \"stop_timestamp\": 13570,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Peel and chop turnips.\", \"start_timestamp\": 11630, \"stop_timestamp\": 13367},\n        {\"secondary_subgoal\": \"Wash and finish turnip preparation.\", \"start_timestamp\": 13512, \"stop_timestamp\": 13570}\n      ]\n    },\n    {\n      \"subgoal\": \"Organize workspace and set up for mixing.\",\n      \"start_timestamp\": 13621,\n      \"stop_timestamp\": 20948,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Put away beetroots and arrange items.\", \"start_timestamp\": 13621, \"stop_timestamp\": 13760},\n        {\"secondary_subgoal\": \"Manage kitchen tools, bottles and phone.\", \"start_timestamp\": 14026, \"stop_timestamp\": 15660},\n        {\"secondary_subgoal\": \"Prepare granola for mixing.\", \"start_timestamp\": 15667, \"stop_timestamp\": 16870},\n        {\"secondary_subgoal\": \"Operate phone and stir mixture.\", \"start_timestamp\": 17070, \"stop_timestamp\": 17250},\n        {\"secondary_subgoal\": \"Add and mix oil with ingredients.\", \"start_timestamp\": 17250, \"stop_timestamp\": 18608},\n        {\"secondary_subgoal\": \"Open and close fridge, pour oil from bottle.\", \"start_timestamp\": 18721, \"stop_timestamp\": 19371},\n        {\"secondary_subgoal\": \"Mix and arrange mixture, place bowl away.\", \"start_timestamp\": 19371, \"stop_timestamp\": 20948}\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3753,
+        "completion_tokens": 984,
+        "total_tokens": 4737
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

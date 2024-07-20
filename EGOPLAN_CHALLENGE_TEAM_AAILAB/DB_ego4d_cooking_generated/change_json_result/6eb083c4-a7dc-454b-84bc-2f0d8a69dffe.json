@@ -1,0 +1,193 @@
+{
+    "overall_goal": "Preparing and cooking chicken using a deep fryer, and organizing the kitchen space along the way",
+    "clips": [
+        {
+            "subgoal": "Setting up the cooking area and preparing the kitchen for use",
+            "start_timestamp": 0,
+            "stop_timestamp": 2617,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Connecting equipment and organizing the workspace",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 299
+                },
+                {
+                    "secondary_subgoal": "Preparing the deep fryer and cleaning it",
+                    "start_timestamp": 299,
+                    "stop_timestamp": 1579
+                },
+                {
+                    "secondary_subgoal": "Cleaning the counter and discarding dirt",
+                    "start_timestamp": 1579,
+                    "stop_timestamp": 2548
+                }
+            ]
+        },
+        {
+            "subgoal": "Collecting ingredients for the chicken preparation",
+            "start_timestamp": 2548,
+            "stop_timestamp": 3880,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking out plates and containers from the fridge",
+                    "start_timestamp": 2617,
+                    "stop_timestamp": 3719
+                },
+                {
+                    "secondary_subgoal": "Closing the fridge and organizing the trash bin",
+                    "start_timestamp": 3719,
+                    "stop_timestamp": 3880
+                }
+            ]
+        },
+        {
+            "subgoal": "Setting up the cooking supplies and preparing ingredients",
+            "start_timestamp": 3880,
+            "stop_timestamp": 7179,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Organizing bottles and utensils",
+                    "start_timestamp": 3880,
+                    "stop_timestamp": 4956
+                },
+                {
+                    "secondary_subgoal": "Bringing more bottles from the fridge",
+                    "start_timestamp": 4956,
+                    "stop_timestamp": 5220
+                },
+                {
+                    "secondary_subgoal": "Preparing containers and reading their content",
+                    "start_timestamp": 5220,
+                    "stop_timestamp": 5596
+                },
+                {
+                    "secondary_subgoal": "Organizing and arranging supplies",
+                    "start_timestamp": 5596,
+                    "stop_timestamp": 6106
+                },
+                {
+                    "secondary_subgoal": "Preparing flour and unwrapping chicken",
+                    "start_timestamp": 6106,
+                    "stop_timestamp": 7179
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing the chicken for frying",
+            "start_timestamp": 7179,
+            "stop_timestamp": 10875,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Removing jacket and folding clothes",
+                    "start_timestamp": 7179,
+                    "stop_timestamp": 7879
+                },
+                {
+                    "secondary_subgoal": "Mixing chicken and rolling in flour",
+                    "start_timestamp": 7879,
+                    "stop_timestamp": 9004
+                },
+                {
+                    "secondary_subgoal": "Flouring chicken pieces",
+                    "start_timestamp": 9004,
+                    "stop_timestamp": 10337
+                },
+                {
+                    "secondary_subgoal": "Washing hands and cleaning utensils",
+                    "start_timestamp": 10337,
+                    "stop_timestamp": 10875
+                }
+            ]
+        },
+        {
+            "subgoal": "Frying the chicken",
+            "start_timestamp": 10875,
+            "stop_timestamp": 15991,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preparing chicken for frying",
+                    "start_timestamp": 10875,
+                    "stop_timestamp": 12000
+                },
+                {
+                    "secondary_subgoal": "Lowering chicken into oil",
+                    "start_timestamp": 12000,
+                    "stop_timestamp": 12246
+                },
+                {
+                    "secondary_subgoal": "Checking and stirring the frying chicken",
+                    "start_timestamp": 12246,
+                    "stop_timestamp": 15991
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing sauces and condiments",
+            "start_timestamp": 15991,
+            "stop_timestamp": 21959,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preparing and mixing different ingredients",
+                    "start_timestamp": 15991,
+                    "stop_timestamp": 19418
+                },
+                {
+                    "secondary_subgoal": "Chopping ingredients and organizing tins",
+                    "start_timestamp": 19418,
+                    "stop_timestamp": 21821
+                },
+                {
+                    "secondary_subgoal": "Unplugging and organizing tins",
+                    "start_timestamp": 21821,
+                    "stop_timestamp": 21959
+                }
+            ]
+        },
+        {
+            "subgoal": "Reconfiguring the remaining ingredients",
+            "start_timestamp": 21959,
+            "stop_timestamp": 26156,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Scooping flour and powders into tins",
+                    "start_timestamp": 21959,
+                    "stop_timestamp": 22974
+                },
+                {
+                    "secondary_subgoal": "Shaking the deep fryer and organizing",
+                    "start_timestamp": 22974,
+                    "stop_timestamp": 26156
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking the chicken in the oven",
+            "start_timestamp": 26156,
+            "stop_timestamp": 27053,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preparing oven and cooking chicken",
+                    "start_timestamp": 26156,
+                    "stop_timestamp": 27053
+                }
+            ]
+        },
+        {
+            "subgoal": "Final preparation steps",
+            "start_timestamp": 27053,
+            "stop_timestamp": 28859,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring and tasting the paste",
+                    "start_timestamp": 27053,
+                    "stop_timestamp": 28090
+                },
+                {
+                    "secondary_subgoal": "Cleaning up the workspace and rinsing utensils",
+                    "start_timestamp": 28090,
+                    "stop_timestamp": 28859
+                }
+            ]
+        }
+    ]
+}

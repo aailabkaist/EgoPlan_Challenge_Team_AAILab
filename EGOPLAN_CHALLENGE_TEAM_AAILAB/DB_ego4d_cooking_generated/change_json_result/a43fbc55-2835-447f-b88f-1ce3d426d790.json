@@ -1,0 +1,192 @@
+{
+    "overall_goal": "Prepare and cook a meal using various ingredients, including eggs, turnip, and cucumber, and perform necessary kitchen tasks such as cleaning and seasoning.",
+    "clips": [
+        {
+            "subgoal": "Prepare cooking pot with water and start cooking",
+            "start_timestamp": 0,
+            "stop_timestamp": 1941,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjust camera",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 82
+                },
+                {
+                    "secondary_subgoal": "Retrieve packet from fridge",
+                    "start_timestamp": 82,
+                    "stop_timestamp": 385
+                },
+                {
+                    "secondary_subgoal": "Prepare the packet for cooking",
+                    "start_timestamp": 385,
+                    "stop_timestamp": 924
+                },
+                {
+                    "secondary_subgoal": "Prepare cooking pot",
+                    "start_timestamp": 924,
+                    "stop_timestamp": 1545
+                },
+                {
+                    "secondary_subgoal": "Fill pot with water",
+                    "start_timestamp": 1545,
+                    "stop_timestamp": 1650
+                },
+                {
+                    "secondary_subgoal": "Place pot on cooking plate",
+                    "start_timestamp": 1650,
+                    "stop_timestamp": 1748
+                },
+                {
+                    "secondary_subgoal": "Cover pot and start cooking",
+                    "start_timestamp": 1748,
+                    "stop_timestamp": 1856
+                },
+                {
+                    "secondary_subgoal": "Turn on kitchen air ventilator",
+                    "start_timestamp": 1856,
+                    "stop_timestamp": 1941
+                }
+            ]
+        },
+        {
+            "subgoal": "Retrieve eggs and vegetables for preparation",
+            "start_timestamp": 1941,
+            "stop_timestamp": 2800,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve eggs from fridge",
+                    "start_timestamp": 1941,
+                    "stop_timestamp": 2236
+                },
+                {
+                    "secondary_subgoal": "Retrieve cucumber and turnip from drawer",
+                    "start_timestamp": 2236,
+                    "stop_timestamp": 2627
+                },
+                {
+                    "secondary_subgoal": "Prepare eggs for cooking",
+                    "start_timestamp": 2627,
+                    "stop_timestamp": 2800
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and season the eggs",
+            "start_timestamp": 2800,
+            "stop_timestamp": 5794,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare eggs",
+                    "start_timestamp": 2800,
+                    "stop_timestamp": 3176
+                },
+                {
+                    "secondary_subgoal": "Remove egg shells and clean hands",
+                    "start_timestamp": 3176,
+                    "stop_timestamp": 3821
+                },
+                {
+                    "secondary_subgoal": "Season the eggs",
+                    "start_timestamp": 3821,
+                    "stop_timestamp": 4963
+                },
+                {
+                    "secondary_subgoal": "Clean hands and beat the eggs",
+                    "start_timestamp": 4963,
+                    "stop_timestamp": 5400
+                },
+                {
+                    "secondary_subgoal": "Prepare cooking utensils and oil",
+                    "start_timestamp": 5400,
+                    "stop_timestamp": 5794
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the eggs",
+            "start_timestamp": 5794,
+            "stop_timestamp": 9252,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Heat the pan and rub oil",
+                    "start_timestamp": 5794,
+                    "stop_timestamp": 7053
+                },
+                {
+                    "secondary_subgoal": "Pour and cook first portion of eggs",
+                    "start_timestamp": 7053,
+                    "stop_timestamp": 8587
+                },
+                {
+                    "secondary_subgoal": "Cook and roll the remaining eggs",
+                    "start_timestamp": 8587,
+                    "stop_timestamp": 9252
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare vegetables and cut eggs",
+            "start_timestamp": 9252,
+            "stop_timestamp": 18090,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and place cucumber on cutting board",
+                    "start_timestamp": 9252,
+                    "stop_timestamp": 7960
+                },
+                {
+                    "secondary_subgoal": "Prepare turnip",
+                    "start_timestamp": 7960,
+                    "stop_timestamp": 8071
+                },
+                {
+                    "secondary_subgoal": "Cut the eggs into small pieces",
+                    "start_timestamp": 8071,
+                    "stop_timestamp": 8857
+                },
+                {
+                    "secondary_subgoal": "Prepare tomato",
+                    "start_timestamp": 8857,
+                    "stop_timestamp": 10229
+                },
+                {
+                    "secondary_subgoal": "Chop cucumber",
+                    "start_timestamp": 10229,
+                    "stop_timestamp": 14146
+                },
+                {
+                    "secondary_subgoal": "Chop tomato",
+                    "start_timestamp": 14146,
+                    "stop_timestamp": 15466
+                },
+                {
+                    "secondary_subgoal": "Separate and prepare ham",
+                    "start_timestamp": 15466,
+                    "stop_timestamp": 18900
+                },
+                {
+                    "secondary_subgoal": "Further ingredients preparation",
+                    "start_timestamp": 18900,
+                    "stop_timestamp": 18090
+                }
+            ]
+        },
+        {
+            "subgoal": "Final preparation and cooking",
+            "start_timestamp": 18090,
+            "stop_timestamp": 21339,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and cut more packets",
+                    "start_timestamp": 18090,
+                    "stop_timestamp": 20994
+                },
+                {
+                    "secondary_subgoal": "Check cooking pot",
+                    "start_timestamp": 20994,
+                    "stop_timestamp": 21339
+                }
+            ]
+        }
+    ]
+}

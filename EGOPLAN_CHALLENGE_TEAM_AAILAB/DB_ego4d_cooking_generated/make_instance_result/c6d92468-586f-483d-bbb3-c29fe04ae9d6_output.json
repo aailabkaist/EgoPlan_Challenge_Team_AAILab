@@ -1,0 +1,252 @@
+[
+    {
+        "task_goal": "Initial movements and gadget operation",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#O Man A Walks",
+                "start_frame": 13,
+                "stop_frame": 27
+            },
+            {
+                "narration_text": "#O Man B Operates a gadget",
+                "start_frame": 27,
+                "stop_frame": 45
+            },
+            {
+                "narration_text": "#O Man C Sits down on a chair",
+                "start_frame": 45,
+                "stop_frame": 49
+            },
+            {
+                "narration_text": "#O Man D Lifts a gadget with a hand",
+                "start_frame": 49,
+                "stop_frame": 85
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#O Man A Walks",
+                "start_frame": 13,
+                "stop_frame": 27
+            },
+            {
+                "narration_text": "#O Man B Operates a gadget",
+                "start_frame": 27,
+                "stop_frame": 45
+            }
+        ]
+    },
+    {
+        "task_goal": "Operating a gadget",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#O Man A Walks",
+                "start_frame": 13,
+                "stop_frame": 27
+            },
+            {
+                "narration_text": "#O Man B Operates a gadget",
+                "start_frame": 27,
+                "stop_frame": 45
+            },
+            {
+                "narration_text": "#O Man C Sits down on a chair",
+                "start_frame": 45,
+                "stop_frame": 49
+            }
+        ]
+    },
+    {
+        "task_goal": "Sitting down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#O Man B Operates a gadget",
+                "start_frame": 27,
+                "stop_frame": 45
+            },
+            {
+                "narration_text": "#O Man C Sits down on a chair",
+                "start_frame": 45,
+                "stop_frame": 49
+            },
+            {
+                "narration_text": "#O Man D Lifts a gadget with a hand",
+                "start_frame": 49,
+                "stop_frame": 85
+            }
+        ]
+    },
+    {
+        "task_goal": "Interacting and pointing at gadget",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#O Man C Sits down on a chair",
+                "start_frame": 45,
+                "stop_frame": 49
+            },
+            {
+                "narration_text": "#O Man D Lifts a gadget with a hand",
+                "start_frame": 49,
+                "stop_frame": 85
+            },
+            {
+                "narration_text": "#O Man D Points a gadget with a finger",
+                "start_frame": 85,
+                "stop_frame": 124
+            },
+            {
+                "narration_text": "#C C Looks around a room",
+                "start_frame": 124,
+                "stop_frame": 159
+            },
+            {
+                "narration_text": "#O Woman E Holds a gadget",
+                "start_frame": 159,
+                "stop_frame": 202
+            }
+        ]
+    },
+    {
+        "task_goal": "Lifting a gadget",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#O Man C Sits down on a chair",
+                "start_frame": 45,
+                "stop_frame": 49
+            },
+            {
+                "narration_text": "#O Man D Lifts a gadget with a hand",
+                "start_frame": 49,
+                "stop_frame": 85
+            },
+            {
+                "narration_text": "#O Man D Points a gadget with a finger",
+                "start_frame": 85,
+                "stop_frame": 124
+            }
+        ]
+    },
+    {
+        "task_goal": "Pointing a gadget",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#O Man D Lifts a gadget with a hand",
+                "start_frame": 49,
+                "stop_frame": 85
+            },
+            {
+                "narration_text": "#O Man D Points a gadget with a finger",
+                "start_frame": 85,
+                "stop_frame": 124
+            },
+            {
+                "narration_text": "#C C Looks around a room",
+                "start_frame": 124,
+                "stop_frame": 159
+            }
+        ]
+    },
+    {
+        "task_goal": "Looking around a room",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#O Man D Points a gadget with a finger",
+                "start_frame": 85,
+                "stop_frame": 124
+            },
+            {
+                "narration_text": "#C C Looks around a room",
+                "start_frame": 124,
+                "stop_frame": 159
+            },
+            {
+                "narration_text": "#O Woman E Holds a gadget",
+                "start_frame": 159,
+                "stop_frame": 202
+            }
+        ]
+    },
+    {
+        "task_goal": "Women interacting with gadget and room",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Looks around a room",
+                "start_frame": 124,
+                "stop_frame": 159
+            },
+            {
+                "narration_text": "#O Woman E Holds a gadget",
+                "start_frame": 159,
+                "stop_frame": 202
+            },
+            {
+                "narration_text": "#O Woman F Nods her head",
+                "start_frame": 202,
+                "stop_frame": 242
+            },
+            {
+                "narration_text": "#C C Looks around a room",
+                "start_frame": 242,
+                "stop_frame": 342
+            }
+        ]
+    },
+    {
+        "task_goal": "Woman holding a gadget",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C Looks around a room",
+                "start_frame": 124,
+                "stop_frame": 159
+            },
+            {
+                "narration_text": "#O Woman E Holds a gadget",
+                "start_frame": 159,
+                "stop_frame": 202
+            },
+            {
+                "narration_text": "#O Woman F Nods her head",
+                "start_frame": 202,
+                "stop_frame": 242
+            }
+        ]
+    },
+    {
+        "task_goal": "Woman nodding her head",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#O Woman E Holds a gadget",
+                "start_frame": 159,
+                "stop_frame": 202
+            },
+            {
+                "narration_text": "#O Woman F Nods her head",
+                "start_frame": 202,
+                "stop_frame": 242
+            },
+            {
+                "narration_text": "#C C Looks around a room",
+                "start_frame": 242,
+                "stop_frame": 342
+            }
+        ]
+    },
+    {
+        "task_goal": "Looking around a room",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#O Woman F Nods her head",
+                "start_frame": 202,
+                "stop_frame": 242
+            },
+            {
+                "narration_text": "#C C Looks around a room",
+                "start_frame": 242,
+                "stop_frame": 342
+            }
+        ]
+    }
+]

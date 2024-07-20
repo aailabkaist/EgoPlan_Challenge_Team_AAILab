@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eetLyDwO5rLvwN0XUJKwTmYNGeWf",
+    "object": "chat.completion",
+    "created": 1719477335,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook a meal involving broccolis, sausages, and green beans, and clean up the kitchen afterwards\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare broccolis, sausages, and green beans\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 1943,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put broccolis in the frypan\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 194\n        },\n        {\n          \"secondary_subgoal\": \"Pick and put more broccolis and green beans in the cooking pot\",\n          \"start_timestamp\": 194,\n          \"stop_timestamp\": 379,\n          \"sub_clips\": [\n            {\n              \"secondary_subgoal\": \"Pick broccolis and green beans\",\n              \"start_timestamp\": 194,\n              \"stop_timestamp\": 438\n            },\n            {\n              \"secondary_subgoal\": \"Put broccolis and green beans in the cooking pot\",\n              \"start_timestamp\": 240,\n              \"stop_timestamp\": 438\n            }\n          ]\n        },\n        {\n          \"secondary_subgoal\": \"Stir broccolis and green beans in the cooking pot\",\n          \"start_timestamp\": 438,\n          \"stop_timestamp\": 688\n        },\n        {\n          \"secondary_subgoal\": \"Turn on the timer\",\n          \"start_timestamp\": 688,\n          \"stop_timestamp\": 820\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cut and prepare sausages\",\n      \"start_timestamp\": 1023,\n      \"stop_timestamp\": 2095,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick, wash, and put knife on sink\",\n          \"start_timestamp\": 1023,\n          \"stop_timestamp\": 1113\n        },\n        {\n          \"secondary_subgoal\": \"Pick and wash cutting board\",\n          \"start_timestamp\": 1113,\n          \"stop_timestamp\": 1224\n        },\n        {\n          \"secondary_subgoal\": \"Remove sausages from paper\",\n          \"start_timestamp\": 1399,\n          \"stop_timestamp\": 1863\n        },\n        {\n          \"secondary_subgoal\": \"Cut and eat sausages\",\n          \"start_timestamp\": 1509,\n          \"stop_timestamp\": 1852\n        },\n        {\n          \"secondary_subgoal\": \"Turn sausages and cut them further\",\n          \"start_timestamp\": 1943,\n          \"stop_timestamp\": 2403\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean hands, wash and move broccolis, sausages, and green beans to the pan\",\n      \"start_timestamp\": 2521,\n      \"stop_timestamp\": 8290,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash hands\",\n          \"start_timestamp\": 2521,\n          \"stop_timestamp\": 2553\n        },\n        {\n          \"secondary_subgoal\": \"Wash and move broccolis, sausages, and green beans to the pan\",\n          \"start_timestamp\": 2726,\n          \"stop_timestamp\": 3071\n        },\n        {\n          \"secondary_subgoal\": \"Pick chopsticks and stir broccolis\",\n          \"start_timestamp\": 2781,\n          \"stop_timestamp\": 3064\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook broccolis and sausages\",\n      \"start_timestamp\": 3683,\n      \"stop_timestamp\": 7938,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Rinse and stir broccolis and sausages\",\n          \"start_timestamp\": 3730,\n          \"stop_timestamp\": 7798\n        },\n        {\n          \"secondary_subgoal\": \"Regulate gas cooker\",\n          \"start_timestamp\": 7891,\n          \"stop_timestamp\": 7894\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3211,
+        "completion_tokens": 840,
+        "total_tokens": 4051
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

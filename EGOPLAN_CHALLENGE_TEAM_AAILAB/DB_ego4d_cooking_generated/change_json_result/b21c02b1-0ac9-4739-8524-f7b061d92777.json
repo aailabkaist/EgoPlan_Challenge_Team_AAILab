@@ -1,0 +1,158 @@
+{
+    "overall_goal": "Prepare and cook a meal including meat and vegetables using various kitchen utensils and ingredients.",
+    "clips": [
+        {
+            "subgoal": "Gather ingredients from the fridge and place them on the sink",
+            "start_timestamp": "116",
+            "stop_timestamp": "940",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open fridge and get ingredients",
+                    "start_timestamp": "116",
+                    "stop_timestamp": "605"
+                },
+                {
+                    "secondary_subgoal": "Place ingredients on the sink",
+                    "start_timestamp": "642",
+                    "stop_timestamp": "940"
+                }
+            ]
+        },
+        {
+            "subgoal": "Get additional ingredients and kitchenware",
+            "start_timestamp": "940",
+            "stop_timestamp": "1649",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve additional ingredients from the fridge",
+                    "start_timestamp": "940",
+                    "stop_timestamp": "1066"
+                },
+                {
+                    "secondary_subgoal": "Get bowls and other kitchenware from the cabinet",
+                    "start_timestamp": "1066",
+                    "stop_timestamp": "1552"
+                },
+                {
+                    "secondary_subgoal": "Place additional ingredients and kitchenware on the sink",
+                    "start_timestamp": "1552",
+                    "stop_timestamp": "1649"
+                }
+            ]
+        },
+        {
+            "subgoal": "Crack and beat eggs",
+            "start_timestamp": "1645",
+            "stop_timestamp": "2743",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Crack eggs into a mixing bowl",
+                    "start_timestamp": "1645",
+                    "stop_timestamp": "2054"
+                },
+                {
+                    "secondary_subgoal": "Beat eggs using chopsticks",
+                    "start_timestamp": "2409",
+                    "stop_timestamp": "2651"
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare meat",
+            "start_timestamp": "2743",
+            "stop_timestamp": "3917",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and place meat on a cutting board",
+                    "start_timestamp": "2812",
+                    "stop_timestamp": "3740"
+                },
+                {
+                    "secondary_subgoal": "Move the cut meat pieces into a bowl",
+                    "start_timestamp": "3842",
+                    "stop_timestamp": "3917"
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean utensils and area",
+            "start_timestamp": "3917",
+            "stop_timestamp": "6061",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and rinse utensils",
+                    "start_timestamp": "4069",
+                    "stop_timestamp": "4353"
+                },
+                {
+                    "secondary_subgoal": "Clean hands",
+                    "start_timestamp": "5833",
+                    "stop_timestamp": "6047"
+                }
+            ]
+        },
+        {
+            "subgoal": "Add seasonings and mix ingredients",
+            "start_timestamp": "4949",
+            "stop_timestamp": "5815",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add salt to the mix",
+                    "start_timestamp": "5246",
+                    "stop_timestamp": "5276"
+                },
+                {
+                    "secondary_subgoal": "Mix all ingredients together by hand",
+                    "start_timestamp": "5377",
+                    "stop_timestamp": "5815"
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cooking apparatus",
+            "start_timestamp": "6161",
+            "stop_timestamp": "8526",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Setup and operate the gas cooker",
+                    "start_timestamp": "6161",
+                    "stop_timestamp": "8034"
+                },
+                {
+                    "secondary_subgoal": "Cut and prepare onion",
+                    "start_timestamp": "8099",
+                    "stop_timestamp": "8526"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the meat",
+            "start_timestamp": "11737",
+            "stop_timestamp": "20863",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Coat meat in flour",
+                    "start_timestamp": "16670",
+                    "stop_timestamp": "17744"
+                },
+                {
+                    "secondary_subgoal": "Fry the meat in a pan",
+                    "start_timestamp": "18205",
+                    "stop_timestamp": "20863"
+                }
+            ]
+        },
+        {
+            "subgoal": "Complete cooking and clean",
+            "start_timestamp": "20639",
+            "stop_timestamp": "21327",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place and clean cooking tools",
+                    "start_timestamp": "20639",
+                    "stop_timestamp": "21327"
+                }
+            ]
+        }
+    ]
+}

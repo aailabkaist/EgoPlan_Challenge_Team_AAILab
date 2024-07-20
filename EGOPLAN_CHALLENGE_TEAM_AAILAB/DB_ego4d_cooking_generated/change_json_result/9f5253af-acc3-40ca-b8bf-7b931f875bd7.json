@@ -1,0 +1,104 @@
+{
+    "overall_goal": "Clean and organize kitchen utensils and surfaces",
+    "clips": [
+        {
+            "subgoal": "Clean various kitchen utensils",
+            "start_timestamp": 0,
+            "stop_timestamp": 13581,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean cup trays and scrubbers",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 672
+                },
+                {
+                    "secondary_subgoal": "Clean serving dish lid",
+                    "start_timestamp": 672,
+                    "stop_timestamp": 1160
+                },
+                {
+                    "secondary_subgoal": "Clean chopping board",
+                    "start_timestamp": 1192,
+                    "stop_timestamp": 1617
+                },
+                {
+                    "secondary_subgoal": "Clean various containers and bowls",
+                    "start_timestamp": 1617,
+                    "stop_timestamp": 2643
+                },
+                {
+                    "secondary_subgoal": "Rinse and clean more bowls",
+                    "start_timestamp": 2643,
+                    "stop_timestamp": 3623
+                },
+                {
+                    "secondary_subgoal": "Dry and reorganize utensils and trays",
+                    "start_timestamp": 3623,
+                    "stop_timestamp": 4382
+                },
+                {
+                    "secondary_subgoal": "Wipe and clean trays and uncertain objects",
+                    "start_timestamp": 4382,
+                    "stop_timestamp": 5583
+                },
+                {
+                    "secondary_subgoal": "Clean dish lid and other utensils",
+                    "start_timestamp": 5583,
+                    "stop_timestamp": 8235
+                },
+                {
+                    "secondary_subgoal": "Rinse and organize dish lid and utensils",
+                    "start_timestamp": 8235,
+                    "stop_timestamp": 8899
+                },
+                {
+                    "secondary_subgoal": "Dry plates and organize utensils",
+                    "start_timestamp": 8899,
+                    "stop_timestamp": 9882
+                },
+                {
+                    "secondary_subgoal": "Clean trays and bowls",
+                    "start_timestamp": 9882,
+                    "stop_timestamp": 10675
+                },
+                {
+                    "secondary_subgoal": "Clean cans and other containers",
+                    "start_timestamp": 10675,
+                    "stop_timestamp": 11752
+                },
+                {
+                    "secondary_subgoal": "Clean and rinse kitchen towels",
+                    "start_timestamp": 11752,
+                    "stop_timestamp": 12115
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean kitchen countertops and stove area",
+            "start_timestamp": 12115,
+            "stop_timestamp": 17444,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean and organize stove area",
+                    "start_timestamp": 12115,
+                    "stop_timestamp": 14177
+                },
+                {
+                    "secondary_subgoal": "Clean countertops and utensils",
+                    "start_timestamp": 14177,
+                    "stop_timestamp": 16174
+                },
+                {
+                    "secondary_subgoal": "Clean soap rack and faucet",
+                    "start_timestamp": 16174,
+                    "stop_timestamp": 16838
+                },
+                {
+                    "secondary_subgoal": "Wash hands and finalize cleanup",
+                    "start_timestamp": 16838,
+                    "stop_timestamp": 17444
+                }
+            ]
+        }
+    ]
+}

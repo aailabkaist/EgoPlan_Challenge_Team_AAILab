@@ -1,0 +1,1172 @@
+[
+    {
+        "task_goal": "Retrieve and prepare initial ingredients and tools",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves hands",
+                "start_frame": 19,
+                "stop_frame": 50
+            },
+            {
+                "narration_text": "Moves bottle",
+                "start_frame": 50,
+                "stop_frame": 143
+            },
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 143,
+                "stop_frame": 213
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 213,
+                "stop_frame": 276
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 276,
+                "stop_frame": 350
+            },
+            {
+                "narration_text": "Picks eggs",
+                "start_frame": 350,
+                "stop_frame": 455
+            },
+            {
+                "narration_text": "Puts eggs down",
+                "start_frame": 455,
+                "stop_frame": 579
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 579,
+                "stop_frame": 623
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 623,
+                "stop_frame": 869
+            },
+            {
+                "narration_text": "Picks food container",
+                "start_frame": 869,
+                "stop_frame": 954
+            },
+            {
+                "narration_text": "Puts food container down",
+                "start_frame": 954,
+                "stop_frame": 1056
+            },
+            {
+                "narration_text": "Picks spring onions",
+                "start_frame": 1056,
+                "stop_frame": 1071
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 1071,
+                "stop_frame": 1107
+            },
+            {
+                "narration_text": "Puts spring onions down",
+                "start_frame": 1107,
+                "stop_frame": 1294
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick bottle and other objects",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves hands",
+                "start_frame": 19,
+                "stop_frame": 50
+            },
+            {
+                "narration_text": "Moves bottle",
+                "start_frame": 50,
+                "stop_frame": 143
+            },
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 143,
+                "stop_frame": 213
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 213,
+                "stop_frame": 276
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 276,
+                "stop_frame": 350
+            },
+            {
+                "narration_text": "Picks eggs",
+                "start_frame": 350,
+                "stop_frame": 455
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and place eggs",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 276,
+                "stop_frame": 350
+            },
+            {
+                "narration_text": "Picks eggs",
+                "start_frame": 350,
+                "stop_frame": 455
+            },
+            {
+                "narration_text": "Puts eggs down",
+                "start_frame": 455,
+                "stop_frame": 579
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 579,
+                "stop_frame": 623
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and place other objects",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts eggs down",
+                "start_frame": 455,
+                "stop_frame": 579
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 579,
+                "stop_frame": 623
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 623,
+                "stop_frame": 869
+            },
+            {
+                "narration_text": "Picks food container",
+                "start_frame": 869,
+                "stop_frame": 954
+            },
+            {
+                "narration_text": "Puts food container down",
+                "start_frame": 954,
+                "stop_frame": 1056
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and place food container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks food container",
+                "start_frame": 869,
+                "stop_frame": 954
+            },
+            {
+                "narration_text": "Puts food container down",
+                "start_frame": 954,
+                "stop_frame": 1056
+            },
+            {
+                "narration_text": "Picks spring onions",
+                "start_frame": 1056,
+                "stop_frame": 1071
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and place spring onions",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts food container down",
+                "start_frame": 954,
+                "stop_frame": 1056
+            },
+            {
+                "narration_text": "Picks spring onions",
+                "start_frame": 1056,
+                "stop_frame": 1071
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 1071,
+                "stop_frame": 1107
+            },
+            {
+                "narration_text": "Puts spring onions down",
+                "start_frame": 1107,
+                "stop_frame": 1294
+            }
+        ]
+    },
+    {
+        "task_goal": "Close fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 1071,
+                "stop_frame": 1107
+            },
+            {
+                "narration_text": "Puts spring onions down",
+                "start_frame": 1107,
+                "stop_frame": 1294
+            }
+        ]
+    },
+    {
+        "task_goal": "Interact with fridge and drawers",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts spring onions down",
+                "start_frame": 1107,
+                "stop_frame": 1294
+            },
+            {
+                "narration_text": "Opens fridge drawer",
+                "start_frame": 1294,
+                "stop_frame": 1503
+            },
+            {
+                "narration_text": "Checks unsure",
+                "start_frame": 1503,
+                "stop_frame": 1725
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 1725,
+                "stop_frame": 1816
+            },
+            {
+                "narration_text": "Moves cooking lid",
+                "start_frame": 1816,
+                "stop_frame": 1942
+            }
+        ]
+    },
+    {
+        "task_goal": "Open fridge drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts spring onions down",
+                "start_frame": 1107,
+                "stop_frame": 1294
+            },
+            {
+                "narration_text": "Opens fridge drawer",
+                "start_frame": 1294,
+                "stop_frame": 1503
+            },
+            {
+                "narration_text": "Checks unsure",
+                "start_frame": 1503,
+                "stop_frame": 1725
+            }
+        ]
+    },
+    {
+        "task_goal": "Check contents and close drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens fridge drawer",
+                "start_frame": 1294,
+                "stop_frame": 1503
+            },
+            {
+                "narration_text": "Checks unsure",
+                "start_frame": 1503,
+                "stop_frame": 1725
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 1725,
+                "stop_frame": 1816
+            }
+        ]
+    },
+    {
+        "task_goal": "Close fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Checks unsure",
+                "start_frame": 1503,
+                "stop_frame": 1725
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 1725,
+                "stop_frame": 1816
+            },
+            {
+                "narration_text": "Moves cooking lid",
+                "start_frame": 1816,
+                "stop_frame": 1942
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare cooking area and tools",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 1725,
+                "stop_frame": 1816
+            },
+            {
+                "narration_text": "Moves cooking lid",
+                "start_frame": 1816,
+                "stop_frame": 1942
+            },
+            {
+                "narration_text": "Opens kitchen cabinet",
+                "start_frame": 1942,
+                "stop_frame": 2012
+            },
+            {
+                "narration_text": "Picks mini sauce pan",
+                "start_frame": 2012,
+                "stop_frame": 2053
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 2053,
+                "stop_frame": 2093
+            },
+            {
+                "narration_text": "Puts water in mini sauce pan",
+                "start_frame": 2093,
+                "stop_frame": 2147
+            },
+            {
+                "narration_text": "Pours water down",
+                "start_frame": 2147,
+                "stop_frame": 2197
+            },
+            {
+                "narration_text": "Puts water in mini sauce pan",
+                "start_frame": 2197,
+                "stop_frame": 2293
+            },
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 2293,
+                "stop_frame": 2393
+            },
+            {
+                "narration_text": "Moves cooking pan",
+                "start_frame": 2393,
+                "stop_frame": 2444
+            },
+            {
+                "narration_text": "Puts mini sauce pan on gas cooker",
+                "start_frame": 2444,
+                "stop_frame": 2506
+            },
+            {
+                "narration_text": "Puts eggs in mini sauce pan",
+                "start_frame": 2506,
+                "stop_frame": 2632
+            },
+            {
+                "narration_text": "Lights gas cooker",
+                "start_frame": 2632,
+                "stop_frame": 2694
+            },
+            {
+                "narration_text": "Moves mini sauce pan",
+                "start_frame": 2694,
+                "stop_frame": 2727
+            },
+            {
+                "narration_text": "Lights unsure",
+                "start_frame": 2727,
+                "stop_frame": 2813
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 2813,
+                "stop_frame": 2847
+            },
+            {
+                "narration_text": "Puts down unsure",
+                "start_frame": 2847,
+                "stop_frame": 2918
+            },
+            {
+                "narration_text": "Moves unsure",
+                "start_frame": 2918,
+                "stop_frame": 2956
+            }
+        ]
+    },
+    {
+        "task_goal": "Move cooking lid",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 1725,
+                "stop_frame": 1816
+            },
+            {
+                "narration_text": "Moves cooking lid",
+                "start_frame": 1816,
+                "stop_frame": 1942
+            },
+            {
+                "narration_text": "Opens kitchen cabinet",
+                "start_frame": 1942,
+                "stop_frame": 2012
+            }
+        ]
+    },
+    {
+        "task_goal": "Open kitchen cabinet and pick mini saucepan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves cooking lid",
+                "start_frame": 1816,
+                "stop_frame": 1942
+            },
+            {
+                "narration_text": "Opens kitchen cabinet",
+                "start_frame": 1942,
+                "stop_frame": 2012
+            },
+            {
+                "narration_text": "Picks mini sauce pan",
+                "start_frame": 2012,
+                "stop_frame": 2053
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 2053,
+                "stop_frame": 2093
+            }
+        ]
+    },
+    {
+        "task_goal": "Open tap and fill mini saucepan with water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks mini sauce pan",
+                "start_frame": 2012,
+                "stop_frame": 2053
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 2053,
+                "stop_frame": 2093
+            },
+            {
+                "narration_text": "Puts water in mini sauce pan",
+                "start_frame": 2093,
+                "stop_frame": 2147
+            },
+            {
+                "narration_text": "Pours water down",
+                "start_frame": 2147,
+                "stop_frame": 2197
+            },
+            {
+                "narration_text": "Puts water in mini sauce pan",
+                "start_frame": 2197,
+                "stop_frame": 2293
+            },
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 2293,
+                "stop_frame": 2393
+            },
+            {
+                "narration_text": "Moves cooking pan",
+                "start_frame": 2393,
+                "stop_frame": 2444
+            },
+            {
+                "narration_text": "Puts mini sauce pan on gas cooker",
+                "start_frame": 2444,
+                "stop_frame": 2506
+            }
+        ]
+    },
+    {
+        "task_goal": "Place mini saucepan on gas cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves cooking pan",
+                "start_frame": 2393,
+                "stop_frame": 2444
+            },
+            {
+                "narration_text": "Puts mini sauce pan on gas cooker",
+                "start_frame": 2444,
+                "stop_frame": 2506
+            },
+            {
+                "narration_text": "Puts eggs in mini sauce pan",
+                "start_frame": 2506,
+                "stop_frame": 2632
+            },
+            {
+                "narration_text": "Lights gas cooker",
+                "start_frame": 2632,
+                "stop_frame": 2694
+            }
+        ]
+    },
+    {
+        "task_goal": "Light gas cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts eggs in mini sauce pan",
+                "start_frame": 2506,
+                "stop_frame": 2632
+            },
+            {
+                "narration_text": "Lights gas cooker",
+                "start_frame": 2632,
+                "stop_frame": 2694
+            },
+            {
+                "narration_text": "Moves mini sauce pan",
+                "start_frame": 2694,
+                "stop_frame": 2727
+            },
+            {
+                "narration_text": "Lights unsure",
+                "start_frame": 2727,
+                "stop_frame": 2813
+            }
+        ]
+    },
+    {
+        "task_goal": "Move mini saucepan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves mini sauce pan",
+                "start_frame": 2694,
+                "stop_frame": 2727
+            },
+            {
+                "narration_text": "Lights unsure",
+                "start_frame": 2727,
+                "stop_frame": 2813
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 2813,
+                "stop_frame": 2847
+            },
+            {
+                "narration_text": "Puts down unsure",
+                "start_frame": 2847,
+                "stop_frame": 2918
+            },
+            {
+                "narration_text": "Moves unsure",
+                "start_frame": 2918,
+                "stop_frame": 2956
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and handle aluminum paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves unsure",
+                "start_frame": 2918,
+                "stop_frame": 2956
+            },
+            {
+                "narration_text": "Opens unsure",
+                "start_frame": 2956,
+                "stop_frame": 3049
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 3049,
+                "stop_frame": 3267
+            },
+            {
+                "narration_text": "Opens kitchen cabinet",
+                "start_frame": 3267,
+                "stop_frame": 3376
+            },
+            {
+                "narration_text": "Food container",
+                "start_frame": 3376,
+                "stop_frame": 3485
+            },
+            {
+                "narration_text": "Picks container lid",
+                "start_frame": 3485,
+                "stop_frame": 3554
+            }
+        ]
+    },
+    {
+        "task_goal": "Move and place food container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Food container",
+                "start_frame": 3376,
+                "stop_frame": 3485
+            },
+            {
+                "narration_text": "Picks container lid",
+                "start_frame": 3485,
+                "stop_frame": 3554
+            },
+            {
+                "narration_text": "Closes kitchen cabinet",
+                "start_frame": 3554,
+                "stop_frame": 3611
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 3611,
+                "stop_frame": 3635
+            },
+            {
+                "narration_text": "Puts water in container",
+                "start_frame": 3635,
+                "stop_frame": 3649
+            },
+            {
+                "narration_text": "Pours water in kitchen sink",
+                "start_frame": 3649,
+                "stop_frame": 3671
+            },
+            {
+                "narration_text": "Puts water in food container",
+                "start_frame": 3671,
+                "stop_frame": 3753
+            },
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 3753,
+                "stop_frame": 3820
+            },
+            {
+                "narration_text": "Moves container food",
+                "start_frame": 3820,
+                "stop_frame": 3875
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 3875,
+                "stop_frame": 3891
+            },
+            {
+                "narration_text": "Puts water in container food",
+                "start_frame": 3891,
+                "stop_frame": 3897
+            },
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 3897,
+                "stop_frame": 3937
+            },
+            {
+                "narration_text": "Puts food container down",
+                "start_frame": 3937,
+                "stop_frame": 3986
+            },
+            {
+                "narration_text": "Puts lid on container food",
+                "start_frame": 3986,
+                "stop_frame": 4142
+            }
+        ]
+    },
+    {
+        "task_goal": "Cover and place food in fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts food container down",
+                "start_frame": 3937,
+                "stop_frame": 3986
+            },
+            {
+                "narration_text": "Puts lid on container food",
+                "start_frame": 3986,
+                "stop_frame": 4142
+            },
+            {
+                "narration_text": "Opens fridge drawer",
+                "start_frame": 4142,
+                "stop_frame": 4173
+            },
+            {
+                "narration_text": "Moves kitchen towel",
+                "start_frame": 4173,
+                "stop_frame": 4200
+            },
+            {
+                "narration_text": "Puts container food in fridge",
+                "start_frame": 4200,
+                "stop_frame": 4265
+            },
+            {
+                "narration_text": "Move kitchen towel",
+                "start_frame": 4265,
+                "stop_frame": 4321
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 4321,
+                "stop_frame": 4394
+            },
+            {
+                "narration_text": "Moves unsure",
+                "start_frame": 4394,
+                "stop_frame": 4492
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve cucumber from fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 4321,
+                "stop_frame": 4394
+            },
+            {
+                "narration_text": "Moves unsure",
+                "start_frame": 4394,
+                "stop_frame": 4492
+            },
+            {
+                "narration_text": "Opens fridge drawer",
+                "start_frame": 4492,
+                "stop_frame": 4640
+            },
+            {
+                "narration_text": "Picks cucumber",
+                "start_frame": 4640,
+                "stop_frame": 4696
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 4696,
+                "stop_frame": 4787
+            },
+            {
+                "narration_text": "Puts cucumber down",
+                "start_frame": 4787,
+                "stop_frame": 4839
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 4839,
+                "stop_frame": 4872
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash hands and handle chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts cucumber down",
+                "start_frame": 4787,
+                "stop_frame": 4839
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 4839,
+                "stop_frame": 4872
+            },
+            {
+                "narration_text": "Washes hands",
+                "start_frame": 4872,
+                "stop_frame": 4899
+            },
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 4899,
+                "stop_frame": 4932
+            },
+            {
+                "narration_text": "Picks chopping board",
+                "start_frame": 4932,
+                "stop_frame": 4961
+            },
+            {
+                "narration_text": "Puts chopping board down",
+                "start_frame": 4961,
+                "stop_frame": 5022
+            },
+            {
+                "narration_text": "Opens kitchen cabinet",
+                "start_frame": 5022,
+                "stop_frame": 5062
+            },
+            {
+                "narration_text": "Picks knife",
+                "start_frame": 5062,
+                "stop_frame": 5092
+            },
+            {
+                "narration_text": "Puts knife on chopping board",
+                "start_frame": 5092,
+                "stop_frame": 5134
+            },
+            {
+                "narration_text": "Removes zip bag from spring onions",
+                "start_frame": 5134,
+                "stop_frame": 5148
+            },
+            {
+                "narration_text": "Puts zip bag down",
+                "start_frame": 5148,
+                "stop_frame": 5202
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove zip bag from spring onions",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Removes zip bag from spring onions",
+                "start_frame": 5134,
+                "stop_frame": 5148
+            },
+            {
+                "narration_text": "Puts zip bag down",
+                "start_frame": 5148,
+                "stop_frame": 5202
+            },
+            {
+                "narration_text": "Picks knife",
+                "start_frame": 5202,
+                "stop_frame": 5237
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut spring onions",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts zip bag down",
+                "start_frame": 5148,
+                "stop_frame": 5202
+            },
+            {
+                "narration_text": "Picks knife",
+                "start_frame": 5202,
+                "stop_frame": 5237
+            },
+            {
+                "narration_text": "Cuts spring onions",
+                "start_frame": 5237,
+                "stop_frame": 5424
+            },
+            {
+                "narration_text": "Puts knife down",
+                "start_frame": 5424,
+                "stop_frame": 5446
+            },
+            {
+                "narration_text": "Puts spring onion down",
+                "start_frame": 5446,
+                "stop_frame": 5509
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle aluminum transparent paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts knife down",
+                "start_frame": 5424,
+                "stop_frame": 5446
+            },
+            {
+                "narration_text": "Puts spring onion down",
+                "start_frame": 5446,
+                "stop_frame": 5509
+            },
+            {
+                "narration_text": "Picks aluminum transparent paper",
+                "start_frame": 5509,
+                "stop_frame": 5582
+            },
+            {
+                "narration_text": "Plugs aluminum transparent paper",
+                "start_frame": 5582,
+                "stop_frame": 5798
+            },
+            {
+                "narration_text": "Puts box down",
+                "start_frame": 5798,
+                "stop_frame": 5839
+            },
+            {
+                "narration_text": "Plugs aluminum transparent paper",
+                "start_frame": 5839,
+                "stop_frame": 6209
+            },
+            {
+                "narration_text": "Picks box",
+                "start_frame": 6209,
+                "stop_frame": 6233
+            },
+            {
+                "narration_text": "Puts aluminum transparent in box",
+                "start_frame": 6233,
+                "stop_frame": 6316
+            },
+            {
+                "narration_text": "Plugs aluminum transparent paper",
+                "start_frame": 6316,
+                "stop_frame": 6423
+            },
+            {
+                "narration_text": "Puts box down",
+                "start_frame": 6423,
+                "stop_frame": 6484
+            },
+            {
+                "narration_text": "Covers spring onion with aluminum transparent paper",
+                "start_frame": 6484,
+                "stop_frame": 6631
+            },
+            {
+                "narration_text": "Puts spring onion in zip bag",
+                "start_frame": 6631,
+                "stop_frame": 6773
+            },
+            {
+                "narration_text": "Puts it down",
+                "start_frame": 6773,
+                "stop_frame": 6788
+            },
+            {
+                "narration_text": "Picks cucumber",
+                "start_frame": 6788,
+                "stop_frame": 6825
+            },
+            {
+                "narration_text": "Picks spring onion",
+                "start_frame": 6825,
+                "stop_frame": 6841
+            }
+        ]
+    },
+    {
+        "task_goal": "Light gas cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lights gas cooker",
+                "start_frame": 8144,
+                "stop_frame": 8229
+            },
+            {
+                "narration_text": "Opens unsure",
+                "start_frame": 8229,
+                "stop_frame": 8349
+            },
+            {
+                "narration_text": "Puts unsure in chopping board",
+                "start_frame": 8349,
+                "stop_frame": 8369
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and move objects",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens unsure",
+                "start_frame": 8229,
+                "stop_frame": 8349
+            },
+            {
+                "narration_text": "Puts unsure in chopping board",
+                "start_frame": 8349,
+                "stop_frame": 8369
+            },
+            {
+                "narration_text": "Moves unsure",
+                "start_frame": 8369,
+                "stop_frame": 8640
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash and rinse vegetables",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the vegetable",
+                "start_frame": 14466,
+                "stop_frame": 14791
+            },
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 14791,
+                "stop_frame": 14927
+            },
+            {
+                "narration_text": "Rinses the vegetable",
+                "start_frame": 14927,
+                "stop_frame": 15106
+            },
+            {
+                "narration_text": "Drops the vegetable in the dish",
+                "start_frame": 15106,
+                "stop_frame": 15150
+            },
+            {
+                "narration_text": "Folds the paper",
+                "start_frame": 15150,
+                "stop_frame": 15193
+            },
+            {
+                "narration_text": "Puts it in the other paper",
+                "start_frame": 15193,
+                "stop_frame": 15254
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts zucchini on the chopping board",
+                "start_frame": 18284,
+                "stop_frame": 18335
+            },
+            {
+                "narration_text": "Chops zucchini",
+                "start_frame": 18335,
+                "stop_frame": 18524
+            },
+            {
+                "narration_text": "Moves the chopping board",
+                "start_frame": 18524,
+                "stop_frame": 18558
+            },
+            {
+                "narration_text": "Chops zucchini",
+                "start_frame": 18558,
+                "stop_frame": 18707
+            },
+            {
+                "narration_text": "Wipes a knife",
+                "start_frame": 18707,
+                "stop_frame": 18737
+            },
+            {
+                "narration_text": "Picks zucchini",
+                "start_frame": 18737,
+                "stop_frame": 18826
+            },
+            {
+                "narration_text": "Holds zucchini",
+                "start_frame": 18826,
+                "stop_frame": 18916
+            },
+            {
+                "narration_text": "Puts zucchini on the chopping board",
+                "start_frame": 18916,
+                "stop_frame": 18958
+            },
+            {
+                "narration_text": "Holds zucchini",
+                "start_frame": 18958,
+                "stop_frame": 18978
+            },
+            {
+                "narration_text": "Chops zucchini",
+                "start_frame": 18978,
+                "stop_frame": 19266
+            },
+            {
+                "narration_text": "Wipes the knife",
+                "start_frame": 19266,
+                "stop_frame": 19320
+            },
+            {
+                "narration_text": "Puts knife on the chopping board",
+                "start_frame": 19320,
+                "stop_frame": 19338
+            },
+            {
+                "narration_text": "Holds spinach",
+                "start_frame": 19338,
+                "stop_frame": 19415
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 19415,
+                "stop_frame": 19430
+            },
+            {
+                "narration_text": "Washes hands",
+                "start_frame": 19430,
+                "stop_frame": 19452
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 19452,
+                "stop_frame": 19490
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle plastic clips and secure bags",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a plastic clips packet",
+                "start_frame": 20901,
+                "stop_frame": 20926
+            },
+            {
+                "narration_text": "Opens the packet",
+                "start_frame": 20926,
+                "stop_frame": 20991
+            },
+            {
+                "narration_text": "Picks a plastic clip",
+                "start_frame": 20991,
+                "stop_frame": 21010
+            },
+            {
+                "narration_text": "Switches the oven off",
+                "start_frame": 21010,
+                "stop_frame": 21061
+            },
+            {
+                "narration_text": "Closes the packet",
+                "start_frame": 21061,
+                "stop_frame": 21062
+            },
+            {
+                "narration_text": "Puts the packet on the cabinet",
+                "start_frame": 21062,
+                "stop_frame": 21131
+            },
+            {
+                "narration_text": "Closes the polythene bag using a plastic clip",
+                "start_frame": 21131,
+                "stop_frame": 21184
+            },
+            {
+                "narration_text": "Holds a pot handle",
+                "start_frame": 21184,
+                "stop_frame": 21284
+            }
+        ]
+    }
+]

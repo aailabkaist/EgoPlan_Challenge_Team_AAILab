@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egJkqPHsVHOQzkzHnODeQdm8KqmV",
+    "object": "chat.completion",
+    "created": 1719482816,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Prepare a meal involving cooking eggs and another dish (possibly multiple items) using various utensils, ingredients, and maintaining cleanliness in the kitchen.\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Gather and ready utensils and ingredients for cooking\",\n            \"start_timestamp\": 20,\n            \"stop_timestamp\": 389,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Search for and take a bowl\",\n                    \"start_timestamp\": 20,\n                    \"stop_timestamp\": 321\n                },\n                {\n                    \"secondary_subgoal\": \"Prepare to pour liquid by taking the bottle and opening it\",\n                    \"start_timestamp\": 321,\n                    \"stop_timestamp\": 389\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Pour and prepare ingredients for cooking\",\n            \"start_timestamp\": 389,\n            \"stop_timestamp\": 6408,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Prepare the first round of egg cooking, involving pouring liquid into various containers and wiping the pan\",\n                    \"start_timestamp\": 389,\n                    \"stop_timestamp\": 2235\n                },\n                {\n                    \"secondary_subgoal\": \"Adjust the cooker and handle the pan contents\",\n                    \"start_timestamp\": 2235,\n                    \"stop_timestamp\": 2400\n                },\n                {\n                    \"secondary_subgoal\": \"Pour and stir ingredients, involving various bottles and the cooker\",\n                    \"start_timestamp\": 2400,\n                    \"stop_timestamp\": 3006\n                },\n                {\n                    \"secondary_subgoal\": \"Work with the egg mixture in the pan and clean the pan when necessary\",\n                    \"start_timestamp\": 3006,\n                    \"stop_timestamp\": 6408\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Prepare additional ingredients for the meal\",\n            \"start_timestamp\": 6408,\n            \"stop_timestamp\": 8148,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Peel and clean onions for cooking\",\n                    \"start_timestamp\": 6408,\n                    \"stop_timestamp\": 8148\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Perform final preparations and cooking steps\",\n            \"start_timestamp\": 8148,\n            \"stop_timestamp\": 21748,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Deal with egg cooking in the pan and egg rolling\",\n                    \"start_timestamp\": 8148,\n                    \"stop_timestamp\": 16239\n                },\n                {\n                    \"secondary_subgoal\": \"Cook bread and handle utensils\",\n                    \"start_timestamp\": 16849,\n                    \"stop_timestamp\": 17560\n                },\n                {\n                    \"secondary_subgoal\": \"Clean and wash used utensils and dishes\",\n                    \"start_timestamp\": 17560,\n                    \"stop_timestamp\": 18251\n                },\n                {\n                    \"secondary_subgoal\": \"Handle pan and sausages cooking\",\n                    \"start_timestamp\": 18251,\n                    \"stop_timestamp\": 20573\n                },\n                {\n                    \"secondary_subgoal\": \"Final washing of cutting board and knife\",\n                    \"start_timestamp\": 20573,\n                    \"stop_timestamp\": 21128\n                }\n            ]\n        }\n    ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4109,
+        "completion_tokens": 686,
+        "total_tokens": 4795
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

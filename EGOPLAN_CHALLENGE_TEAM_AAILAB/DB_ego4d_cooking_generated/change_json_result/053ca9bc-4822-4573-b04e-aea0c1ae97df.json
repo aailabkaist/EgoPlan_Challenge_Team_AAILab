@@ -1,0 +1,137 @@
+{
+    "overall_goal": "Cleaning the cooking pot and a chopping stick",
+    "clips": [
+        {
+            "subgoal": "Preparing to clean the kitchen items",
+            "start_timestamp": 0,
+            "stop_timestamp": 76,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjusting the camera",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 76
+                }
+            ]
+        },
+        {
+            "subgoal": "Initial cleaning setup",
+            "start_timestamp": 76,
+            "stop_timestamp": 141,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turning on the faucet and placing the cooking pot in the sink",
+                    "start_timestamp": 76,
+                    "stop_timestamp": 94
+                },
+                {
+                    "secondary_subgoal": "Placing the cooking pot into the sink",
+                    "start_timestamp": 94,
+                    "stop_timestamp": 141
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing the sponge for cleaning",
+            "start_timestamp": 141,
+            "stop_timestamp": 328,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking and cleaning the kitchen sponge",
+                    "start_timestamp": 141,
+                    "stop_timestamp": 225
+                },
+                {
+                    "secondary_subgoal": "Applying dishwashing liquid to the sponge",
+                    "start_timestamp": 225,
+                    "stop_timestamp": 307
+                },
+                {
+                    "secondary_subgoal": "Returning the dishwashing liquid",
+                    "start_timestamp": 307,
+                    "stop_timestamp": 328
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning the chopping stick",
+            "start_timestamp": 328,
+            "stop_timestamp": 450,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking and cleaning the chopping stick",
+                    "start_timestamp": 328,
+                    "stop_timestamp": 406
+                },
+                {
+                    "secondary_subgoal": "Cleaning the chopping stick",
+                    "start_timestamp": 406,
+                    "stop_timestamp": 430
+                },
+                {
+                    "secondary_subgoal": "Placing the chopping stick on the sink",
+                    "start_timestamp": 430,
+                    "stop_timestamp": 450
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning the cooking pot",
+            "start_timestamp": 450,
+            "stop_timestamp": 1338,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Initial cleaning of the cooking pot",
+                    "start_timestamp": 450,
+                    "stop_timestamp": 614
+                },
+                {
+                    "secondary_subgoal": "Pouring the water out of the cooking pot",
+                    "start_timestamp": 614,
+                    "stop_timestamp": 846
+                },
+                {
+                    "secondary_subgoal": "Continuing to clean the cooking pot",
+                    "start_timestamp": 846,
+                    "stop_timestamp": 1167
+                },
+                {
+                    "secondary_subgoal": "Pouring water out of the cooking pot again",
+                    "start_timestamp": 1167,
+                    "stop_timestamp": 1188
+                },
+                {
+                    "secondary_subgoal": "Continuing to clean the cooking pot further",
+                    "start_timestamp": 1188,
+                    "stop_timestamp": 1259
+                },
+                {
+                    "secondary_subgoal": "Pouring out water again and final cleaning",
+                    "start_timestamp": 1259,
+                    "stop_timestamp": 1338
+                }
+            ]
+        },
+        {
+            "subgoal": "Finishing up",
+            "start_timestamp": 1338,
+            "stop_timestamp": 1525,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turning off the faucet",
+                    "start_timestamp": 1338,
+                    "stop_timestamp": 1344
+                },
+                {
+                    "secondary_subgoal": "Placing the cooking pot on the countertop",
+                    "start_timestamp": 1344,
+                    "stop_timestamp": 1411
+                },
+                {
+                    "secondary_subgoal": "Standing on the floor",
+                    "start_timestamp": 1411,
+                    "stop_timestamp": 1525
+                }
+            ]
+        }
+    ]
+}

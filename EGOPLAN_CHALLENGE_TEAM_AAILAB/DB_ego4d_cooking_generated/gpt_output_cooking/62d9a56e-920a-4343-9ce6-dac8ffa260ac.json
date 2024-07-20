@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efx6QXGWMtIEpDz3t0ASdSS1lfZQ",
+    "object": "chat.completion",
+    "created": 1719481412,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here’s the task segmented into JSON format with timestamps tied to inferred subgoals and secondary subgoals:\n\n```json\n{\n  \"overall_goal\": \"Prepare and cook seasoned meat using various kitchen activities and utensils.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Cutting the meat\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 823,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Holding the knife\", \"start_timestamp\": 0, \"stop_timestamp\": 57},\n        {\"secondary_subgoal\": \"Cutting the meat\", \"start_timestamp\": 57, \"stop_timestamp\": 777},\n        {\"secondary_subgoal\": \"Putting knife down\", \"start_timestamp\": 777, \"stop_timestamp\": 823}\n      ]\n    },\n    {\n      \"subgoal\": \"Washing hands before further tasks\",\n      \"start_timestamp\": 823,\n      \"stop_timestamp\": 1919,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Shaking hands\", \"start_timestamp\": 823, \"stop_timestamp\": 898},\n        {\"secondary_subgoal\": \"Rinsing hands\", \"start_timestamp\": 1159, \"stop_timestamp\": 1179},\n        {\"secondary_subgoal\": \"Using detergent\", \"start_timestamp\": 1242, \"stop_timestamp\": 1477},\n        {\"secondary_subgoal\": \"Rinsing and drying hands\", \"start_timestamp\": 1511, \"stop_timestamp\": 1919}\n      ]\n    },\n    {\n      \"subgoal\": \"Handling polythene bags\",\n      \"start_timestamp\": 898,\n      \"stop_timestamp\": 3438,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Picking and putting bags down\", \"start_timestamp\": 898, \"stop_timestamp\": 1015},\n        {\"secondary_subgoal\": \"Packing the meat\", \"start_timestamp\": 3241, \"stop_timestamp\": 3438}\n      ]\n    },\n    {\n      \"subgoal\": \"Seasoning and mixing the meat\",\n      \"start_timestamp\": 3451,\n      \"stop_timestamp\": 21179,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Opening taps and rinsing hands\", \"start_timestamp\": 3451, \"stop_timestamp\": 3533},\n        {\"secondary_subgoal\": \"Pressing and applying detergent\", \"start_timestamp\": 3627, \"stop_timestamp\": 3831},\n        {\"secondary_subgoal\": \"Mixing the meat with salts and spices\", \"start_timestamp\": 7392, \"stop_timestamp\": 9062},\n        {\"secondary_subgoal\": \"Rinsing hands\", \"start_timestamp\": 7460, \"stop_timestamp\": 7499},\n        {\"secondary_subgoal\": \"Handling spices and containers\", \"start_timestamp\": 9079, \"stop_timestamp\": 10900},\n        {\"secondary_subgoal\": \"Mixing the food in the polythene bag\", \"start_timestamp\": 10942, \"stop_timestamp\": 11258},\n        {\"secondary_subgoal\": \"Shaking and pressing polythene bags\", \"start_timestamp\": 13222, \"stop_timestamp\": 13729},\n        {\"secondary_subgoal\": \"Handling the fridge and food storage\", \"start_timestamp\": 14415, \"stop_timestamp\": 14763}\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking the seasoned meat\",\n      \"start_timestamp\": 15456,\n      \"stop_timestamp\": 21324,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Handling utensils and pans\", \"start_timestamp\": 15456, \"stop_timestamp\": 15800},\n        {\"secondary_subgoal\": \"Pouring cooking oil\", \"start_timestamp\": 19317, \"stop_timestamp\": 19385},\n        {\"secondary_subgoal\": \"Placing meat in the pan\", \"start_timestamp\": 19955, \"stop_timestamp\": 21117},\n        {\"secondary_subgoal\": \"Frying the meat\", \"start_timestamp\": 21117, \"stop_timestamp\": 21324}\n      ]\n    }\n  ]\n}\n```\n\nThis JSON format should capture the overarching goal, the different subgoals for various stages of the task, and the finer secondary subgoals for detailed task segmentation without visual aids."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3556,
+        "completion_tokens": 898,
+        "total_tokens": 4454
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

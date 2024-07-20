@@ -1,0 +1,121 @@
+{
+    "overall_goal": "Prepare a bun with chopped tomatoes and lettuce",
+    "clips": [
+        {
+            "subgoal": "Chop tomatoes",
+            "start_timestamp": 52,
+            "stop_timestamp": 2338,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and chop first set of tomatoes",
+                    "start_timestamp": 52,
+                    "stop_timestamp": 327
+                },
+                {
+                    "secondary_subgoal": "Put chopped tomatoes in plate and put chopping board down",
+                    "start_timestamp": 327,
+                    "stop_timestamp": 344
+                },
+                {
+                    "secondary_subgoal": "Pick and chop second set of tomatoes",
+                    "start_timestamp": 344,
+                    "stop_timestamp": 1768
+                },
+                {
+                    "secondary_subgoal": "Put chopped tomatoes in plate and put chopping board down",
+                    "start_timestamp": 1768,
+                    "stop_timestamp": 1838
+                },
+                {
+                    "secondary_subgoal": "Pick and chop third set of tomatoes",
+                    "start_timestamp": 1838,
+                    "stop_timestamp": 2159
+                },
+                {
+                    "secondary_subgoal": "Put chopped tomatoes in plate and put chopping board down",
+                    "start_timestamp": 2159,
+                    "stop_timestamp": 2287
+                },
+                {
+                    "secondary_subgoal": "Pick the tomato, bend down, and pour dirt into dustbin",
+                    "start_timestamp": 2287,
+                    "stop_timestamp": 2462
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare chopped tomatoes",
+            "start_timestamp": 2643,
+            "stop_timestamp": 5334,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash hands and pick plate of chopped tomatoes",
+                    "start_timestamp": 2643,
+                    "stop_timestamp": 2730
+                },
+                {
+                    "secondary_subgoal": "Add various ingredients to chopped tomatoes",
+                    "start_timestamp": 2730,
+                    "stop_timestamp": 4395
+                },
+                {
+                    "secondary_subgoal": "Pick, stir, and keep the tongs",
+                    "start_timestamp": 4395,
+                    "stop_timestamp": 4571
+                },
+                {
+                    "secondary_subgoal": "Add more ingredients to chopped tomatoes",
+                    "start_timestamp": 4571,
+                    "stop_timestamp": 5219
+                },
+                {
+                    "secondary_subgoal": "Pass the tongs and stir chopped tomatoes again",
+                    "start_timestamp": 5219,
+                    "stop_timestamp": 5334
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare a bun",
+            "start_timestamp": 5334,
+            "stop_timestamp": 8771,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick tomatoes, lettuce, and other items",
+                    "start_timestamp": 5334,
+                    "stop_timestamp": 6293
+                },
+                {
+                    "secondary_subgoal": "Put buns and wash and dry hands",
+                    "start_timestamp": 6410,
+                    "stop_timestamp": 6807
+                },
+                {
+                    "secondary_subgoal": "Put buns on the table",
+                    "start_timestamp": 6807,
+                    "stop_timestamp": 7458
+                },
+                {
+                    "secondary_subgoal": "Pick items from the floor and table setup",
+                    "start_timestamp": 7458,
+                    "stop_timestamp": 8008
+                },
+                {
+                    "secondary_subgoal": "Cut the bun in half and place on serviette",
+                    "start_timestamp": 8008,
+                    "stop_timestamp": 8203
+                },
+                {
+                    "secondary_subgoal": "Add chopped tomatoes and lettuce to the bun",
+                    "start_timestamp": 8203,
+                    "stop_timestamp": 8671
+                },
+                {
+                    "secondary_subgoal": "Final touches",
+                    "start_timestamp": 8671,
+                    "stop_timestamp": 8771
+                }
+            ]
+        }
+    ]
+}

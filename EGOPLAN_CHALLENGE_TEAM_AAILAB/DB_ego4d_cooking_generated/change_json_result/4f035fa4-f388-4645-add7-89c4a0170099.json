@@ -1,0 +1,63 @@
+{
+    "overall_goal": "Preparing and heating up food and cleaning utensils",
+    "clips": [
+        {
+            "subgoal": "Cleaning utensils and hands",
+            "start_timestamp": 4999,
+            "stop_timestamp": 8084,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Applying soap and rinsing hands and utensils",
+                    "start_timestamp": 4999,
+                    "stop_timestamp": 7639
+                },
+                {
+                    "secondary_subgoal": "Picking cover with clean hands",
+                    "start_timestamp": 7639,
+                    "stop_timestamp": 8084
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing food",
+            "start_timestamp": 10212,
+            "stop_timestamp": 14563,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Closing the microwave and setting up for heating",
+                    "start_timestamp": 13691,
+                    "stop_timestamp": 14563
+                }
+            ]
+        },
+        {
+            "subgoal": "Heating up the food",
+            "start_timestamp": 14563,
+            "stop_timestamp": 18908,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Removing packed food from microwave",
+                    "start_timestamp": 14563,
+                    "stop_timestamp": 18908
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling and cleaning utensils again",
+            "start_timestamp": 18908,
+            "stop_timestamp": 20966,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling the plate, dish lid, and utensils",
+                    "start_timestamp": 18908,
+                    "stop_timestamp": 20074
+                },
+                {
+                    "secondary_subgoal": "Opening the tap to clean the utensils",
+                    "start_timestamp": 20074,
+                    "stop_timestamp": 20966
+                }
+            ]
+        }
+    ]
+}

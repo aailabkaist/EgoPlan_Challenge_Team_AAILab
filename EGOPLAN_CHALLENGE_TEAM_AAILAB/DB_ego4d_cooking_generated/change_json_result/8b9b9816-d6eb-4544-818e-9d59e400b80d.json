@@ -1,0 +1,117 @@
+{
+    "overall_goal": "Preparing a meal using various kitchen utensils and ingredients.",
+    "clips": [
+        {
+            "subgoal": "Gathering utensils and filling bowl with water",
+            "start_timestamp": 21,
+            "stop_timestamp": 336,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening drawer and cabinet to gather utensils",
+                    "start_timestamp": 21,
+                    "stop_timestamp": 226
+                },
+                {
+                    "secondary_subgoal": "Filling bowl with water",
+                    "start_timestamp": 226,
+                    "stop_timestamp": 336
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing and cooking rice",
+            "start_timestamp": 336,
+            "stop_timestamp": 1047,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preparing the rice cooker",
+                    "start_timestamp": 336,
+                    "stop_timestamp": 572
+                },
+                {
+                    "secondary_subgoal": "Cooking the rice",
+                    "start_timestamp": 572,
+                    "stop_timestamp": 1047
+                }
+            ]
+        },
+        {
+            "subgoal": "Gathering ingredients from fridge and organizing them",
+            "start_timestamp": 1047,
+            "stop_timestamp": 2033,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Collecting and organizing vegetables and containers",
+                    "start_timestamp": 1256,
+                    "stop_timestamp": 2033
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing to cook with various ingredients",
+            "start_timestamp": 2033,
+            "stop_timestamp": 2736,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Organizing utensils and ingredients on counter",
+                    "start_timestamp": 2033,
+                    "stop_timestamp": 2277
+                },
+                {
+                    "secondary_subgoal": "Preparing the cooking area and pan",
+                    "start_timestamp": 2305,
+                    "stop_timestamp": 2736
+                }
+            ]
+        },
+        {
+            "subgoal": "Managing multiple cooking activities",
+            "start_timestamp": 2736,
+            "stop_timestamp": 8588,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening, arranging ingredients, and cutting them",
+                    "start_timestamp": 2736,
+                    "stop_timestamp": 3852
+                },
+                {
+                    "secondary_subgoal": "Multiple rounds of peeling, chopping, and cutting",
+                    "start_timestamp": 3852,
+                    "stop_timestamp": 5367
+                },
+                {
+                    "secondary_subgoal": "Grating ingredients and cleaning hands and grater",
+                    "start_timestamp": 5715,
+                    "stop_timestamp": 6056
+                },
+                {
+                    "secondary_subgoal": "Organizing and picking plates, containers, chopsticks",
+                    "start_timestamp": 6056,
+                    "stop_timestamp": 7764
+                },
+                {
+                    "secondary_subgoal": "Cutting and placing cucumber pieces into bowl",
+                    "start_timestamp": 8753,
+                    "stop_timestamp": 9175
+                },
+                {
+                    "secondary_subgoal": "Cleaning and organizing bowls",
+                    "start_timestamp": 9208,
+                    "stop_timestamp": 9585
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning up and final touches",
+            "start_timestamp": 9613,
+            "stop_timestamp": 11687,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning, placing utensils on table, finalizing prep",
+                    "start_timestamp": 9613,
+                    "stop_timestamp": 11687
+                }
+            ]
+        }
+    ]
+}

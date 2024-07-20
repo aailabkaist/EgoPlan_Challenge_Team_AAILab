@@ -1,0 +1,87 @@
+{
+    "overall_goal": "Cook and serve food using different utensils and ingredients.",
+    "clips": [
+        {
+            "subgoal": "Stir and monitor the cooking food.",
+            "start_timestamp": 122,
+            "stop_timestamp": 16355,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir the food with cooking stick.",
+                    "start_timestamp": 122,
+                    "stop_timestamp": 258
+                },
+                {
+                    "secondary_subgoal": "Use fork for stirring the food.",
+                    "start_timestamp": 258,
+                    "stop_timestamp": 297
+                },
+                {
+                    "secondary_subgoal": "Stir the food with cooking stick.",
+                    "start_timestamp": 297,
+                    "stop_timestamp": 1600
+                },
+                {
+                    "secondary_subgoal": "Press cooker buttons for adjustments.",
+                    "start_timestamp": 1600,
+                    "stop_timestamp": 1723
+                },
+                {
+                    "secondary_subgoal": "Stir the food with cooking stick.",
+                    "start_timestamp": 1723,
+                    "stop_timestamp": 2029
+                },
+                {
+                    "secondary_subgoal": "Put down and pick up cooking stick; stir the food.",
+                    "start_timestamp": 2029,
+                    "stop_timestamp": 4355
+                },
+                {
+                    "secondary_subgoal": "Taste the food using fork.",
+                    "start_timestamp": 4588,
+                    "stop_timestamp": 4853
+                },
+                {
+                    "secondary_subgoal": "Add greens and ingredients to the food.",
+                    "start_timestamp": 6862,
+                    "stop_timestamp": 8083
+                },
+                {
+                    "secondary_subgoal": "Stir the food with cooking stick.",
+                    "start_timestamp": 8126,
+                    "stop_timestamp": 8341
+                },
+                {
+                    "secondary_subgoal": "Use fork to remove and stir food.",
+                    "start_timestamp": 9113,
+                    "stop_timestamp": 10295
+                },
+                {
+                    "secondary_subgoal": "Press fire button and open/close drawer.",
+                    "start_timestamp": 10850,
+                    "stop_timestamp": 11254
+                },
+                {
+                    "secondary_subgoal": "Press fire button.",
+                    "start_timestamp": 11465,
+                    "stop_timestamp": 11616
+                },
+                {
+                    "secondary_subgoal": "Stir the food with cooking stick.",
+                    "start_timestamp": 12335,
+                    "stop_timestamp": 12835
+                },
+                {
+                    "secondary_subgoal": "Stir the food and add ingredients.",
+                    "start_timestamp": 12853,
+                    "stop_timestamp": 13077
+                },
+                {
+                    "secondary_subgoal": "Serve the food.",
+                    "start_timestamp": 13887,
+                    "stop_timestamp": 16329
+                }
+            ]
+        }
+    ]
+}

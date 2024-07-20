@@ -1,0 +1,61 @@
+{
+    "overall_goal": "Fold multiple papers and magazines",
+    "clips": [
+        {
+            "subgoal": "Fold multiple sheets of paper",
+            "start_timestamp": 31755,
+            "stop_timestamp": 55558,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fold individual sheets of paper",
+                    "start_timestamp": 31755,
+                    "stop_timestamp": 39036
+                },
+                {
+                    "secondary_subgoal": "Pick and hold folded sheets of paper",
+                    "start_timestamp": 39115,
+                    "stop_timestamp": 40017
+                },
+                {
+                    "secondary_subgoal": "Fold multiple sheets in succession",
+                    "start_timestamp": 41830,
+                    "stop_timestamp": 48048
+                },
+                {
+                    "secondary_subgoal": "Pick and hold folded sheets of paper",
+                    "start_timestamp": 48105,
+                    "stop_timestamp": 49704
+                },
+                {
+                    "secondary_subgoal": "Fold individual sheets of paper",
+                    "start_timestamp": 49704,
+                    "stop_timestamp": 55558
+                }
+            ]
+        },
+        {
+            "subgoal": "Fold and handle magazines",
+            "start_timestamp": 56737,
+            "stop_timestamp": 59922,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fold and handle magazine on the floor",
+                    "start_timestamp": 56737,
+                    "stop_timestamp": 60188
+                }
+            ]
+        },
+        {
+            "subgoal": "Fold magazines again and final action",
+            "start_timestamp": 60220,
+            "stop_timestamp": 63337,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Continuing to fold magazines on the floor",
+                    "start_timestamp": 62413,
+                    "stop_timestamp": 63337
+                }
+            ]
+        }
+    ]
+}

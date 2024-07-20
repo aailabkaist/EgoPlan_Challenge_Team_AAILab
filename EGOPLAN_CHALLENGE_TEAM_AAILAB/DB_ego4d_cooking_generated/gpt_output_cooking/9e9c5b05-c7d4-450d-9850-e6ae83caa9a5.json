@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eh2vqUccAqlCtT4CQe1u8dXkki3I",
+    "object": "chat.completion",
+    "created": 1719485617,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook various foods and clean up afterward.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare cucumber dish\",\n      \"start_timestamp\": 217,\n      \"stop_timestamp\": 1721,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Touch and put aside pepper\", \"start_timestamp\": 217, \"stop_timestamp\": 318},\n        {\"secondary_subgoal\": \"Walk to rack\", \"start_timestamp\": 403, \"stop_timestamp\": 458},\n        {\"secondary_subgoal\": \"Pick and spread cucumber\", \"start_timestamp\": 458, \"stop_timestamp\": 906},\n        {\"secondary_subgoal\": \"Add salt and water\", \"start_timestamp\": 1002, \"stop_timestamp\": 1703},\n        {\"secondary_subgoal\": \"Set up blender\", \"start_timestamp\": 1714, \"stop_timestamp\": 1795},\n        {\"secondary_subgoal\": \"Blend cucumber\", \"start_timestamp\": 1889, \"stop_timestamp\": 3198},\n        {\"secondary_subgoal\": \"Pour and rinse blender\", \"start_timestamp\": 3300, \"stop_timestamp\": 3801},\n        {\"secondary_subgoal\": \"Blend again\", \"start_timestamp\": 3925, \"stop_timestamp\": 4137},\n        {\"secondary_subgoal\": \"Rinse and finalize cucumber dish\", \"start_timestamp\": 4165, \"stop_timestamp\": 4601}\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare vegetable ingredients and spices for cooking\",\n      \"start_timestamp\": 5733,\n      \"stop_timestamp\": 21574,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Fetch water and bring utensils\", \"start_timestamp\": 5733, \"stop_timestamp\": 5861},\n        {\"secondary_subgoal\": \"Wash and prepare vegetables\", \"start_timestamp\": 16858, \"stop_timestamp\": 18904},\n        {\"secondary_subgoal\": \"Clean chopping board and knife\", \"start_timestamp\": 19366, \"stop_timestamp\": 20826},\n        {\"secondary_subgoal\": \"Peel and cut vegetables\", \"start_timestamp\": 22497, \"stop_timestamp\": 23451},\n        {\"secondary_subgoal\": \"Peel, cut, clean bitingly bitter gourd\", \"start_timestamp\": 24118, \"stop_timestamp\": 24287},\n        {\"secondary_subgoal\": \"Peel, cut bitter gourd and courgette\", \"start_timestamp\": 24420, \"stop_timestamp\": 27590}\n      ]\n    },\n    {\n      \"subgoal\": \"Cook pancakes\",\n      \"start_timestamp\": 33690,\n      \"stop_timestamp\": 37782,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Prepare and cook pancake batter\", \"start_timestamp\": 33690, \"stop_timestamp\": 35167},\n        {\"secondary_subgoal\": \"Add flour mixture and cook pancakes\", \"start_timestamp\": 34011, \"stop_timestamp\": 36114}\n      ]\n    },\n    {\n      \"subgoal\": \"Cleanup After Cooking\",\n      \"start_timestamp\": 84002,\n      \"stop_timestamp\": 22346,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Rinse utensils and bowls\", \"start_timestamp\": 68102, \"stop_timestamp\": 51999},\n        {\"secondary_subgoal\": \"Clean up kitchen sink\", \"start_timestamp\": 76813, \"stop_timestamp\": 77088},\n        {\"secondary_subgoal\": \"Clean cooking pots\", \"start_timestamp\": 84188, \"stop_timestamp\": 84636},\n        {\"secondary_subgoal\": \"Organize workspace and closing tasks\", \"start_timestamp\": 77056, \"stop_timestamp\": 100401}\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19342,
+        "completion_tokens": 796,
+        "total_tokens": 20138
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

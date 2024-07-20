@@ -1,0 +1,98 @@
+{
+    "overall_goal": "Wash the utensils in the sink and place them in the rack.",
+    "clips": [
+        {
+            "subgoal": "Prepare for washing dishes",
+            "start_timestamp": 17,
+            "stop_timestamp": 62,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Approach the sink and turn on the water",
+                    "start_timestamp": 17,
+                    "stop_timestamp": 41
+                },
+                {
+                    "secondary_subgoal": "Wash hands before handling dishes",
+                    "start_timestamp": 41,
+                    "stop_timestamp": 62
+                }
+            ]
+        },
+        {
+            "subgoal": "Gather cleaning supplies for dishwashing",
+            "start_timestamp": 62,
+            "stop_timestamp": 225,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up the sponge and soap bottle",
+                    "start_timestamp": 62,
+                    "stop_timestamp": 125
+                },
+                {
+                    "secondary_subgoal": "Pour soap onto the sponge",
+                    "start_timestamp": 125,
+                    "stop_timestamp": 197
+                },
+                {
+                    "secondary_subgoal": "Return the soap bottle",
+                    "start_timestamp": 197,
+                    "stop_timestamp": 225
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash the dishes",
+            "start_timestamp": 225,
+            "stop_timestamp": 1143,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up and scrub the plate",
+                    "start_timestamp": 225,
+                    "stop_timestamp": 425
+                },
+                {
+                    "secondary_subgoal": "Pick up and empty the cup",
+                    "start_timestamp": 425,
+                    "stop_timestamp": 455
+                },
+                {
+                    "secondary_subgoal": "Scrub the cup and wet the sponge again",
+                    "start_timestamp": 455,
+                    "stop_timestamp": 120
+                },
+                {
+                    "secondary_subgoal": "Squeeze and return the sponge, rinse the cup",
+                    "start_timestamp": 120,
+                    "stop_timestamp": 947
+                },
+                {
+                    "secondary_subgoal": "Place the cup in the rack",
+                    "start_timestamp": 947,
+                    "stop_timestamp": 971
+                },
+                {
+                    "secondary_subgoal": "Rinse the plate and place in rack",
+                    "start_timestamp": 971,
+                    "stop_timestamp": 1249
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up and finish washing",
+            "start_timestamp": 1249,
+            "stop_timestamp": 1457,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place remaining items in rack",
+                    "start_timestamp": 1249,
+                    "stop_timestamp": 1279
+                },
+                {
+                    "secondary_subgoal": "Dry hands and face with towel",
+                    "start_timestamp": 1311,
+                    "stop_timestamp": 1457
+                }
+            ]
+        }
+    ]
+}

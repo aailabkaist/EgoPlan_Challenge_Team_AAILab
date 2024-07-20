@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efthHmAlh9dbZWxCSJg83HZheJ2L",
+    "object": "chat.completion",
+    "created": 1719481201,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Mix, knead, and shape dough to prepare it for cooking or baking\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing and mixing ingredients\",\n      \"start_timestamp\": 56,\n      \"stop_timestamp\": 907,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Depositing ingredients on cloth\",\n          \"start_timestamp\": 56,\n          \"stop_timestamp\": 494\n        },\n        {\n          \"secondary_subgoal\": \"Mixing ingredients\",\n          \"start_timestamp\": 554,\n          \"stop_timestamp\": 1077\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Kneading the mixture\",\n      \"start_timestamp\": 1077,\n      \"stop_timestamp\": 27517,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Twisting and depositing mixture\",\n          \"start_timestamp\": 1077,\n          \"stop_timestamp\": 5173\n        },\n        {\n          \"secondary_subgoal\": \"Mixing and pressing mixture\",\n          \"start_timestamp\": 5173,\n          \"stop_timestamp\": 8014\n        },\n        {\n          \"secondary_subgoal\": \"Mixing and twisting the mixture\",\n          \"start_timestamp\": 8014,\n          \"stop_timestamp\": 11513\n        },\n        {\n          \"secondary_subgoal\": \"Twisting and mixing mixture\",\n          \"start_timestamp\": 11513,\n          \"stop_timestamp\": 15795\n        },\n        {\n          \"secondary_subgoal\": \"Depositing, rubbing face, touching dough and twisting\",\n          \"start_timestamp\": 15795,\n          \"stop_timestamp\": 20587\n        },\n        {\n          \"secondary_subgoal\": \"Depositing mixture and receiving bowl of dough\",\n          \"start_timestamp\": 20587,\n          \"stop_timestamp\": 2094\n        },\n        {\n          \"secondary_subgoal\": \"Mixing and kneading dough\",\n          \"start_timestamp\": 2094,\n          \"stop_timestamp\": 27517\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Squeezing, rolling, and shaping dough\",\n      \"start_timestamp\": 27517,\n      \"stop_timestamp\": 103144,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Squeezing, mixing, and shaping the dough\",\n          \"start_timestamp\": 27517,\n          \"stop_timestamp\": 92164\n        },\n        {\n          \"secondary_subgoal\": \"Coiling dough on the sheet\",\n          \"start_timestamp\": 92164,\n          \"stop_timestamp\": 103144\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 11387,
+        "completion_tokens": 561,
+        "total_tokens": 11948
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

@@ -1,0 +1,462 @@
+[
+    {
+        "task_goal": "Prepare the food ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks knife",
+                "start_frame": 24,
+                "stop_frame": 59
+            },
+            {
+                "narration_text": "Peels unsure",
+                "start_frame": 59,
+                "stop_frame": 227
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 227,
+                "stop_frame": 249
+            },
+            {
+                "narration_text": "Puts knife down",
+                "start_frame": 249,
+                "stop_frame": 287
+            },
+            {
+                "narration_text": "Picks bowl",
+                "start_frame": 287,
+                "stop_frame": 333
+            },
+            {
+                "narration_text": "Picks grater",
+                "start_frame": 333,
+                "stop_frame": 413
+            },
+            {
+                "narration_text": "Puts grater and bowl down",
+                "start_frame": 413,
+                "stop_frame": 468
+            },
+            {
+                "narration_text": "Grates unsure",
+                "start_frame": 468,
+                "stop_frame": 1984
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up knife to peel ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks knife",
+                "start_frame": 24,
+                "stop_frame": 59
+            },
+            {
+                "narration_text": "Peels unsure",
+                "start_frame": 59,
+                "stop_frame": 227
+            }
+        ]
+    },
+    {
+        "task_goal": "Peel the ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks knife",
+                "start_frame": 24,
+                "stop_frame": 59
+            },
+            {
+                "narration_text": "Peels unsure",
+                "start_frame": 59,
+                "stop_frame": 227
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 227,
+                "stop_frame": 249
+            }
+        ]
+    },
+    {
+        "task_goal": "Put the knife down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Peels unsure",
+                "start_frame": 59,
+                "stop_frame": 227
+            },
+            {
+                "narration_text": "Puts unsure down",
+                "start_frame": 227,
+                "stop_frame": 249
+            },
+            {
+                "narration_text": "Puts knife down",
+                "start_frame": 249,
+                "stop_frame": 287
+            },
+            {
+                "narration_text": "Picks bowl",
+                "start_frame": 287,
+                "stop_frame": 333
+            }
+        ]
+    },
+    {
+        "task_goal": "Gather bowl and grater for grating",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts knife down",
+                "start_frame": 249,
+                "stop_frame": 287
+            },
+            {
+                "narration_text": "Picks bowl",
+                "start_frame": 287,
+                "stop_frame": 333
+            },
+            {
+                "narration_text": "Picks grater",
+                "start_frame": 333,
+                "stop_frame": 413
+            },
+            {
+                "narration_text": "Puts grater and bowl down",
+                "start_frame": 413,
+                "stop_frame": 468
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare grater and bowl for use",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks grater",
+                "start_frame": 333,
+                "stop_frame": 413
+            },
+            {
+                "narration_text": "Puts grater and bowl down",
+                "start_frame": 413,
+                "stop_frame": 468
+            },
+            {
+                "narration_text": "Grates unsure",
+                "start_frame": 468,
+                "stop_frame": 1984
+            }
+        ]
+    },
+    {
+        "task_goal": "Grate the peeled ingredients and prepare to eat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts grater and bowl down",
+                "start_frame": 413,
+                "stop_frame": 468
+            },
+            {
+                "narration_text": "Grates unsure",
+                "start_frame": 468,
+                "stop_frame": 1984
+            },
+            {
+                "narration_text": "Knocks unsure",
+                "start_frame": 1984,
+                "stop_frame": 2094
+            },
+            {
+                "narration_text": "Eats unsure",
+                "start_frame": 2094,
+                "stop_frame": 2121
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 2121,
+                "stop_frame": 2148
+            }
+        ]
+    },
+    {
+        "task_goal": "Grate the peeled ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts grater and bowl down",
+                "start_frame": 413,
+                "stop_frame": 468
+            },
+            {
+                "narration_text": "Grates unsure",
+                "start_frame": 468,
+                "stop_frame": 1984
+            },
+            {
+                "narration_text": "Knocks unsure",
+                "start_frame": 1984,
+                "stop_frame": 2094
+            }
+        ]
+    },
+    {
+        "task_goal": "Knock off the grater contents and prepare to eat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Grates unsure",
+                "start_frame": 468,
+                "stop_frame": 1984
+            },
+            {
+                "narration_text": "Knocks unsure",
+                "start_frame": 1984,
+                "stop_frame": 2094
+            },
+            {
+                "narration_text": "Eats unsure",
+                "start_frame": 2094,
+                "stop_frame": 2121
+            }
+        ]
+    },
+    {
+        "task_goal": "Eat the prepared food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Knocks unsure",
+                "start_frame": 1984,
+                "stop_frame": 2094
+            },
+            {
+                "narration_text": "Eats unsure",
+                "start_frame": 2094,
+                "stop_frame": 2121
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 2121,
+                "stop_frame": 2148
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash the grater",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Eats unsure",
+                "start_frame": 2094,
+                "stop_frame": 2121
+            },
+            {
+                "narration_text": "Opens tap",
+                "start_frame": 2121,
+                "stop_frame": 2148
+            },
+            {
+                "narration_text": "Washes grater",
+                "start_frame": 2148,
+                "stop_frame": 2213
+            },
+            {
+                "narration_text": "Picks washing sponge",
+                "start_frame": 2213,
+                "stop_frame": 2220
+            },
+            {
+                "narration_text": "Washes grater",
+                "start_frame": 2220,
+                "stop_frame": 2247
+            },
+            {
+                "narration_text": "Puts grater down",
+                "start_frame": 2247,
+                "stop_frame": 2279
+            },
+            {
+                "narration_text": "Picks washing soup",
+                "start_frame": 2279,
+                "stop_frame": 2288
+            },
+            {
+                "narration_text": "Puts in sponge",
+                "start_frame": 2288,
+                "stop_frame": 2313
+            },
+            {
+                "narration_text": "Puts down washing soup",
+                "start_frame": 2313,
+                "stop_frame": 2326
+            },
+            {
+                "narration_text": "Picks grater",
+                "start_frame": 2326,
+                "stop_frame": 2335
+            },
+            {
+                "narration_text": "Washes grater",
+                "start_frame": 2335,
+                "stop_frame": 2387
+            },
+            {
+                "narration_text": "Puts washing sponge down",
+                "start_frame": 2387,
+                "stop_frame": 2413
+            },
+            {
+                "narration_text": "Washes grater",
+                "start_frame": 2413,
+                "stop_frame": 2494
+            },
+            {
+                "narration_text": "Picks washing sponge",
+                "start_frame": 2494,
+                "stop_frame": 2501
+            },
+            {
+                "narration_text": "Washes grater",
+                "start_frame": 2501,
+                "stop_frame": 2518
+            },
+            {
+                "narration_text": "Puts washing sponge down",
+                "start_frame": 2518,
+                "stop_frame": 2540
+            },
+            {
+                "narration_text": "Washes grater",
+                "start_frame": 2540,
+                "stop_frame": 2584
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 2584,
+                "stop_frame": 2640
+            }
+        ]
+    },
+    {
+        "task_goal": "Further clean the grater with sponge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes grater",
+                "start_frame": 2540,
+                "stop_frame": 2584
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 2584,
+                "stop_frame": 2640
+            },
+            {
+                "narration_text": "Puts in nylon paper",
+                "start_frame": 2640,
+                "stop_frame": 2671
+            },
+            {
+                "narration_text": "Washes grater",
+                "start_frame": 2671,
+                "stop_frame": 2716
+            },
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 2716,
+                "stop_frame": 2743
+            },
+            {
+                "narration_text": "Puts it down",
+                "start_frame": 2743,
+                "stop_frame": 2769
+            }
+        ]
+    },
+    {
+        "task_goal": "Dry and put away the cleaned grater",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes tap",
+                "start_frame": 2716,
+                "stop_frame": 2743
+            },
+            {
+                "narration_text": "Puts it down",
+                "start_frame": 2743,
+                "stop_frame": 2769
+            },
+            {
+                "narration_text": "Wipes hands with kitchen towel",
+                "start_frame": 2769,
+                "stop_frame": 2808
+            },
+            {
+                "narration_text": "Holds spoon",
+                "start_frame": 2808,
+                "stop_frame": 2830
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean hands with kitchen towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Wipes hands with kitchen towel",
+                "start_frame": 2769,
+                "stop_frame": 2808
+            },
+            {
+                "narration_text": "Holds spoon",
+                "start_frame": 2808,
+                "stop_frame": 2830
+            },
+            {
+                "narration_text": "Holds cooking pan",
+                "start_frame": 2830,
+                "stop_frame": 2830
+            },
+            {
+                "narration_text": "Stirs unsure",
+                "start_frame": 2830,
+                "stop_frame": 3039
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir the food in the cooking pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds spoon",
+                "start_frame": 2808,
+                "stop_frame": 2830
+            },
+            {
+                "narration_text": "Holds cooking pan",
+                "start_frame": 2830,
+                "stop_frame": 2830
+            },
+            {
+                "narration_text": "Stirs unsure",
+                "start_frame": 2830,
+                "stop_frame": 3039
+            },
+            {
+                "narration_text": "Moves",
+                "start_frame": 3039,
+                "stop_frame": 3139
+            }
+        ]
+    },
+    {
+        "task_goal": "Move within the kitchen",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs unsure",
+                "start_frame": 2830,
+                "stop_frame": 3039
+            },
+            {
+                "narration_text": "Moves",
+                "start_frame": 3039,
+                "stop_frame": 3139
+            }
+        ]
+    }
+]

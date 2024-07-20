@@ -1,0 +1,126 @@
+{
+    "overall_goal": "Prepare a meal by chopping onions, mixing them with spices and oil, and cooking meat with those ingredients.",
+    "clips": [
+        {
+            "subgoal": "Prepare onions for cooking",
+            "start_timestamp": 0,
+            "stop_timestamp": 3517,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather and prepare the chopping setup",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 213
+                },
+                {
+                    "secondary_subgoal": "Retrieve and peel the onions",
+                    "start_timestamp": 213,
+                    "stop_timestamp": 525
+                },
+                {
+                    "secondary_subgoal": "Wash the onions",
+                    "start_timestamp": 525,
+                    "stop_timestamp": 757
+                },
+                {
+                    "secondary_subgoal": "Place onions on chopping board",
+                    "start_timestamp": 757,
+                    "stop_timestamp": 799
+                },
+                {
+                    "secondary_subgoal": "Retrieve chopping knife",
+                    "start_timestamp": 799,
+                    "stop_timestamp": 1015
+                },
+                {
+                    "secondary_subgoal": "Chop onions",
+                    "start_timestamp": 1015,
+                    "stop_timestamp": 4167
+                },
+                {
+                    "secondary_subgoal": "Turn chopping board and place knife on it",
+                    "start_timestamp": 4167,
+                    "stop_timestamp": 4250
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare spices",
+            "start_timestamp": 4250,
+            "stop_timestamp": 10118,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather spices and tastes it",
+                    "start_timestamp": 4250,
+                    "stop_timestamp": 5027
+                },
+                {
+                    "secondary_subgoal": "Move bottle and wash hands",
+                    "start_timestamp": 5102,
+                    "stop_timestamp": 5405
+                },
+                {
+                    "secondary_subgoal": "Prepare cooking utensils and salt",
+                    "start_timestamp": 5405,
+                    "stop_timestamp": 7920
+                },
+                {
+                    "secondary_subgoal": "Prepare spice sachet and spoon",
+                    "start_timestamp": 8005,
+                    "stop_timestamp": 8866
+                },
+                {
+                    "secondary_subgoal": "Add oil to mix and stir onions",
+                    "start_timestamp": 8915,
+                    "stop_timestamp": 9431
+                },
+                {
+                    "secondary_subgoal": "Clean up workspace",
+                    "start_timestamp": 9475,
+                    "stop_timestamp": 9503
+                },
+                {
+                    "secondary_subgoal": "Manage the fridge and add more spices",
+                    "start_timestamp": 9503,
+                    "stop_timestamp": 10179
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the prepared ingredients",
+            "start_timestamp": 10179,
+            "stop_timestamp": 21339,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare the cooker and start cooking",
+                    "start_timestamp": 10179,
+                    "stop_timestamp": 11218
+                },
+                {
+                    "secondary_subgoal": "Add oil to pan",
+                    "start_timestamp": 11703,
+                    "stop_timestamp": 11989
+                },
+                {
+                    "secondary_subgoal": "Read the meat sachet",
+                    "start_timestamp": 12145,
+                    "stop_timestamp": 12534
+                },
+                {
+                    "secondary_subgoal": "Prepare the meat by removing fatty layers",
+                    "start_timestamp": 12673,
+                    "stop_timestamp": 16137
+                },
+                {
+                    "secondary_subgoal": "Turn the meat on the cooker with chopsticks",
+                    "start_timestamp": 16137,
+                    "stop_timestamp": 20823
+                },
+                {
+                    "secondary_subgoal": "Operate phone and finish cooking",
+                    "start_timestamp": 20823,
+                    "stop_timestamp": 21339
+                }
+            ]
+        }
+    ]
+}

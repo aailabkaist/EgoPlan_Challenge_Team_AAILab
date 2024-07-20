@@ -1,0 +1,119 @@
+{
+    "overall_goal": "Prepare banana slices and place them on a plate",
+    "clips": [
+        {
+            "subgoal": "Cut the first banana",
+            "start_timestamp": 0,
+            "stop_timestamp": 147,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take the banana and knife",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 35
+                },
+                {
+                    "secondary_subgoal": "Cut the banana",
+                    "start_timestamp": 35,
+                    "stop_timestamp": 135
+                },
+                {
+                    "secondary_subgoal": "Push pieces aside and place knife",
+                    "start_timestamp": 135,
+                    "stop_timestamp": 147
+                }
+            ]
+        },
+        {
+            "subgoal": "Peel multiple bananas",
+            "start_timestamp": 164,
+            "stop_timestamp": 2262,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take and use banana peeler",
+                    "start_timestamp": 164,
+                    "stop_timestamp": 2262
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut peeled bananas",
+            "start_timestamp": 2311,
+            "stop_timestamp": 4727,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and place pieces in the plate",
+                    "start_timestamp": 2311,
+                    "stop_timestamp": 4697
+                },
+                {
+                    "secondary_subgoal": "Place knife on the chopping board",
+                    "start_timestamp": 4697,
+                    "stop_timestamp": 4727
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut another banana",
+            "start_timestamp": 4778,
+            "stop_timestamp": 5037,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take the banana and knife",
+                    "start_timestamp": 4778,
+                    "stop_timestamp": 4818
+                },
+                {
+                    "secondary_subgoal": "Cut the banana",
+                    "start_timestamp": 4818,
+                    "stop_timestamp": 5011
+                },
+                {
+                    "secondary_subgoal": "Place knife on the chopping board",
+                    "start_timestamp": 5011,
+                    "stop_timestamp": 5037
+                }
+            ]
+        },
+        {
+            "subgoal": "Peel more bananas",
+            "start_timestamp": 5101,
+            "stop_timestamp": 6941,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel the bananas and place peels on the board",
+                    "start_timestamp": 5101,
+                    "stop_timestamp": 6941
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut peeled bananas into slices",
+            "start_timestamp": 6998,
+            "stop_timestamp": 8549,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and place slices in the plate",
+                    "start_timestamp": 6998,
+                    "stop_timestamp": 8469
+                },
+                {
+                    "secondary_subgoal": "Point at banana with knife and place knife",
+                    "start_timestamp": 8469,
+                    "stop_timestamp": 8549
+                }
+            ]
+        },
+        {
+            "subgoal": "Adjust the camera",
+            "start_timestamp": 8887,
+            "stop_timestamp": 8987,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjust camera",
+                    "start_timestamp": 8887,
+                    "stop_timestamp": 8987
+                }
+            ]
+        }
+    ]
+}

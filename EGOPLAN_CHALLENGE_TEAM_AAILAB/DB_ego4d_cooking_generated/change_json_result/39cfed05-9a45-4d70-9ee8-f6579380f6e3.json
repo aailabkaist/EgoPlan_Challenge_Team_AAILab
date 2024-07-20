@@ -1,0 +1,127 @@
+{
+    "overall_goal": "Prepare and cook a meal",
+    "clips": [
+        {
+            "subgoal": "Gather water for tea",
+            "start_timestamp": 0,
+            "stop_timestamp": 822,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Interact with the phone",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 140
+                },
+                {
+                    "secondary_subgoal": "Prepare kettle and fetch water",
+                    "start_timestamp": 140,
+                    "stop_timestamp": 725
+                },
+                {
+                    "secondary_subgoal": "Start heating water",
+                    "start_timestamp": 725,
+                    "stop_timestamp": 822
+                }
+            ]
+        },
+        {
+            "subgoal": "Store and fetch ingredients",
+            "start_timestamp": 822,
+            "stop_timestamp": 1411,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Manage jug in cardboard",
+                    "start_timestamp": 822,
+                    "stop_timestamp": 1219
+                },
+                {
+                    "secondary_subgoal": "Fetch another jug from shelf",
+                    "start_timestamp": 1307,
+                    "stop_timestamp": 1411
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare spices and herbs",
+            "start_timestamp": 1411,
+            "stop_timestamp": 4750,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Manage jug and spices",
+                    "start_timestamp": 1411,
+                    "stop_timestamp": 2012
+                },
+                {
+                    "secondary_subgoal": "Fetch container from cardboard and add spices to jug",
+                    "start_timestamp": 2067,
+                    "stop_timestamp": 2294
+                },
+                {
+                    "secondary_subgoal": "Pluck and wash leaves",
+                    "start_timestamp": 2470,
+                    "stop_timestamp": 3387
+                },
+                {
+                    "secondary_subgoal": "Add leaves to jug and fetch spices",
+                    "start_timestamp": 3508,
+                    "stop_timestamp": 4534
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cooking area and ingredients",
+            "start_timestamp": 4750,
+            "stop_timestamp": 6673,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather items like bowl",
+                    "start_timestamp": 4750,
+                    "stop_timestamp": 5569
+                },
+                {
+                    "secondary_subgoal": "Turn on gas cooker and prepare cooking oil",
+                    "start_timestamp": 5782,
+                    "stop_timestamp": 6673
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook meat",
+            "start_timestamp": 6673,
+            "stop_timestamp": 10158,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash meat and hands",
+                    "start_timestamp": 6673,
+                    "stop_timestamp": 7307
+                },
+                {
+                    "secondary_subgoal": "Cook and season meat",
+                    "start_timestamp": 7387,
+                    "stop_timestamp": 10108
+                },
+                {
+                    "secondary_subgoal": "Regulate gas and walk around",
+                    "start_timestamp": 10108,
+                    "stop_timestamp": 10158
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve tea",
+            "start_timestamp": 10158,
+            "stop_timestamp": 10901,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pour water into cup",
+                    "start_timestamp": 10221,
+                    "stop_timestamp": 10494
+                },
+                {
+                    "secondary_subgoal": "Close cup and pick phone",
+                    "start_timestamp": 10494,
+                    "stop_timestamp": 10901
+                }
+            ]
+        }
+    ]
+}

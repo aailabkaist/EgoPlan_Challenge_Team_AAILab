@@ -1,0 +1,178 @@
+{
+    "overall_goal": "Cooking a meal involving vegetables, meat, and rice.",
+    "clips": [
+        {
+            "subgoal": "Washing hands for cleanliness before handling food.",
+            "start_timestamp": 0,
+            "stop_timestamp": 899,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjusting the camera",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 54
+                },
+                {
+                    "secondary_subgoal": "Opening the tap to get water",
+                    "start_timestamp": 54,
+                    "stop_timestamp": 84
+                },
+                {
+                    "secondary_subgoal": "Washing hands",
+                    "start_timestamp": 84,
+                    "stop_timestamp": 189
+                },
+                {
+                    "secondary_subgoal": "Closing the tap after washing hands",
+                    "start_timestamp": 189,
+                    "stop_timestamp": 217
+                },
+                {
+                    "secondary_subgoal": "Taking the soap",
+                    "start_timestamp": 217,
+                    "stop_timestamp": 263
+                },
+                {
+                    "secondary_subgoal": "Rubbing soap on hands",
+                    "start_timestamp": 263,
+                    "stop_timestamp": 382
+                },
+                {
+                    "secondary_subgoal": "Putting down the soap",
+                    "start_timestamp": 382,
+                    "stop_timestamp": 415
+                },
+                {
+                    "secondary_subgoal": "Rubbing hands together to clean",
+                    "start_timestamp": 415,
+                    "stop_timestamp": 558
+                },
+                {
+                    "secondary_subgoal": "Opening the tap again",
+                    "start_timestamp": 558,
+                    "stop_timestamp": 588
+                },
+                {
+                    "secondary_subgoal": "Cleaning hands with water",
+                    "start_timestamp": 588,
+                    "stop_timestamp": 806
+                },
+                {
+                    "secondary_subgoal": "Closing the tap",
+                    "start_timestamp": 806,
+                    "stop_timestamp": 863
+                },
+                {
+                    "secondary_subgoal": "Shaking hands to dry them",
+                    "start_timestamp": 863,
+                    "stop_timestamp": 899
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing cooking ingredients",
+            "start_timestamp": 899,
+            "stop_timestamp": 9260,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wiping hands on towel",
+                    "start_timestamp": 899,
+                    "stop_timestamp": 1019
+                },
+                {
+                    "secondary_subgoal": "Taking and placing the tray",
+                    "start_timestamp": 1019,
+                    "stop_timestamp": 1182
+                },
+                {
+                    "secondary_subgoal": "Taking vegetables from fridge and drawer",
+                    "start_timestamp": 1182,
+                    "stop_timestamp": 1704
+                },
+                {
+                    "secondary_subgoal": "Cleaning the cooking pot",
+                    "start_timestamp": 1864,
+                    "stop_timestamp": 1920
+                },
+                {
+                    "secondary_subgoal": "Filling the cooking pot with water",
+                    "start_timestamp": 1979,
+                    "stop_timestamp": 2011
+                },
+                {
+                    "secondary_subgoal": "Putting the pot on the cooking plate and turning on heat",
+                    "start_timestamp": 2011,
+                    "stop_timestamp": 2327
+                },
+                {
+                    "secondary_subgoal": "Preparing the bowls and other utensils",
+                    "start_timestamp": 2475,
+                    "stop_timestamp": 2930
+                },
+                {
+                    "secondary_subgoal": "Handling and preparing French beans",
+                    "start_timestamp": 2930,
+                    "stop_timestamp": 5272
+                },
+                {
+                    "secondary_subgoal": "Preparing to boil water and mixing with cooked ingredients",
+                    "start_timestamp": 5668,
+                    "stop_timestamp": 7058
+                },
+                {
+                    "secondary_subgoal": "Handling other ingredients and condiments",
+                    "start_timestamp": 7213,
+                    "stop_timestamp": 8252
+                },
+                {
+                    "secondary_subgoal": "Handling the cabbage",
+                    "start_timestamp": 8561,
+                    "stop_timestamp": 10403
+                },
+                {
+                    "secondary_subgoal": "Rinsing and preparing cabbage",
+                    "start_timestamp": 10403,
+                    "stop_timestamp": 11163
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking meat and mixing it with vegetables",
+            "start_timestamp": 11528,
+            "stop_timestamp": 17082,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening and handling the nylon paper",
+                    "start_timestamp": 11528,
+                    "stop_timestamp": 12493
+                },
+                {
+                    "secondary_subgoal": "Turning on the gas and stirring meat in the pan",
+                    "start_timestamp": 12662,
+                    "stop_timestamp": 16943
+                }
+            ]
+        },
+        {
+            "subgoal": "Final preparations and serving",
+            "start_timestamp": 18600,
+            "stop_timestamp": 21307,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling the rice cooker",
+                    "start_timestamp": 18600,
+                    "stop_timestamp": 20130
+                },
+                {
+                    "secondary_subgoal": "Preparing the serving bowl and plate",
+                    "start_timestamp": 20493,
+                    "stop_timestamp": 21019
+                },
+                {
+                    "secondary_subgoal": "Scooping rice into serving bowl",
+                    "start_timestamp": 21033,
+                    "stop_timestamp": 21307
+                }
+            ]
+        }
+    ]
+}

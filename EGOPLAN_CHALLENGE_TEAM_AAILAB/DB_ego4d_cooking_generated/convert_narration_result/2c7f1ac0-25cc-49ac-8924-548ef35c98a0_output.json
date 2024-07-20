@@ -1,0 +1,422 @@
+[
+    {
+        "task_goal": "Prepare initial mixture in the pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the turner",
+                "start_frame": 1,
+                "stop_frame": 47
+            },
+            {
+                "narration_text": "Holds the turner straight in the pot",
+                "start_frame": 47,
+                "stop_frame": 74
+            },
+            {
+                "narration_text": "Mixes the ingredients in the oil with the turner",
+                "start_frame": 74,
+                "stop_frame": 152
+            },
+            {
+                "narration_text": "Person x picks up the lid",
+                "start_frame": 152,
+                "stop_frame": 200
+            },
+            {
+                "narration_text": "Mixes the ingredients in the oil with the turner",
+                "start_frame": 200,
+                "stop_frame": 253
+            },
+            {
+                "narration_text": "Person x puts the plate with food on the stov",
+                "start_frame": 253,
+                "stop_frame": 346
+            },
+            {
+                "narration_text": "Picks up the plate with food",
+                "start_frame": 346,
+                "stop_frame": 393
+            },
+            {
+                "narration_text": "Pours the food in the pot",
+                "start_frame": 393,
+                "stop_frame": 471
+            },
+            {
+                "narration_text": "Puts the plate on the stove",
+                "start_frame": 471,
+                "stop_frame": 532
+            },
+            {
+                "narration_text": "Mixes the food in the pot with the turner",
+                "start_frame": 532,
+                "stop_frame": 686
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold and start mixing ingredients.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the turner",
+                "start_frame": 1,
+                "stop_frame": 47
+            },
+            {
+                "narration_text": "Holds the turner straight in the pot",
+                "start_frame": 47,
+                "stop_frame": 74
+            },
+            {
+                "narration_text": "Mixes the ingredients in the oil with the turner",
+                "start_frame": 74,
+                "stop_frame": 152
+            },
+            {
+                "narration_text": "Person x picks up the lid",
+                "start_frame": 152,
+                "stop_frame": 200
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up and handle the lid.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Mixes the ingredients in the oil with the turner",
+                "start_frame": 74,
+                "stop_frame": 152
+            },
+            {
+                "narration_text": "Person x picks up the lid",
+                "start_frame": 152,
+                "stop_frame": 200
+            },
+            {
+                "narration_text": "Mixes the ingredients in the oil with the turner",
+                "start_frame": 200,
+                "stop_frame": 253
+            }
+        ]
+    },
+    {
+        "task_goal": "Continue mixing ingredients in the pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Person x picks up the lid",
+                "start_frame": 152,
+                "stop_frame": 200
+            },
+            {
+                "narration_text": "Mixes the ingredients in the oil with the turner",
+                "start_frame": 200,
+                "stop_frame": 253
+            },
+            {
+                "narration_text": "Person x puts the plate with food on the stov",
+                "start_frame": 253,
+                "stop_frame": 346
+            }
+        ]
+    },
+    {
+        "task_goal": "Place and prepare additional ingredients.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Mixes the ingredients in the oil with the turner",
+                "start_frame": 200,
+                "stop_frame": 253
+            },
+            {
+                "narration_text": "Person x puts the plate with food on the stov",
+                "start_frame": 253,
+                "stop_frame": 346
+            },
+            {
+                "narration_text": "Picks up the plate with food",
+                "start_frame": 346,
+                "stop_frame": 393
+            },
+            {
+                "narration_text": "Pours the food in the pot",
+                "start_frame": 393,
+                "stop_frame": 471
+            },
+            {
+                "narration_text": "Puts the plate on the stove",
+                "start_frame": 471,
+                "stop_frame": 532
+            },
+            {
+                "narration_text": "Mixes the food in the pot with the turner",
+                "start_frame": 532,
+                "stop_frame": 686
+            }
+        ]
+    },
+    {
+        "task_goal": "Continuously mix food in the pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the plate on the stove",
+                "start_frame": 471,
+                "stop_frame": 532
+            },
+            {
+                "narration_text": "Mixes the food in the pot with the turner",
+                "start_frame": 532,
+                "stop_frame": 686
+            },
+            {
+                "narration_text": "Person x puts the ingredients on the plate",
+                "start_frame": 686,
+                "stop_frame": 704
+            },
+            {
+                "narration_text": "Mixes the food in the pot with the turner",
+                "start_frame": 704,
+                "stop_frame": 846
+            },
+            {
+                "narration_text": "Person x puts the ingredients on the plate",
+                "start_frame": 846,
+                "stop_frame": 866
+            },
+            {
+                "narration_text": "Mixes the food in the pot with the turner",
+                "start_frame": 866,
+                "stop_frame": 4143
+            }
+        ]
+    },
+    {
+        "task_goal": "Interact with additional person and manipulate leaves for cooking.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Mixes leaves in the cooking pot",
+                "start_frame": 10430,
+                "stop_frame": 10609
+            },
+            {
+                "narration_text": "Puts a plate on a cooker",
+                "start_frame": 10609,
+                "stop_frame": 10666
+            },
+            {
+                "narration_text": "Takes a leaf in a plate",
+                "start_frame": 10666,
+                "stop_frame": 10688
+            },
+            {
+                "narration_text": "Puts a leaf in a cooking pot",
+                "start_frame": 10688,
+                "stop_frame": 10712
+            },
+            {
+                "narration_text": "Mixes leaves in the cooking pot",
+                "start_frame": 10712,
+                "stop_frame": 11097
+            },
+            {
+                "narration_text": "Interacts with x",
+                "start_frame": 11097,
+                "stop_frame": 11819
+            },
+            {
+                "narration_text": "Puts cooked leaves together in a cooking pot",
+                "start_frame": 11819,
+                "stop_frame": 11903
+            },
+            {
+                "narration_text": "Interacts with x",
+                "start_frame": 11903,
+                "stop_frame": 11962
+            },
+            {
+                "narration_text": "Looks in a cooking pot",
+                "start_frame": 11962,
+                "stop_frame": 12008
+            },
+            {
+                "narration_text": "Mixes the garlic in a cooking pot",
+                "start_frame": 12008,
+                "stop_frame": 12339
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix different ingredients like garlic and beans in the pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Looks in a cooking pot",
+                "start_frame": 11962,
+                "stop_frame": 12008
+            },
+            {
+                "narration_text": "Mixes the garlic in a cooking pot",
+                "start_frame": 12008,
+                "stop_frame": 12339
+            },
+            {
+                "narration_text": "Stops mixing garlic",
+                "start_frame": 12339,
+                "stop_frame": 12364
+            },
+            {
+                "narration_text": "Looks",
+                "start_frame": 12364,
+                "stop_frame": 12426
+            },
+            {
+                "narration_text": "Puts beans together",
+                "start_frame": 12426,
+                "stop_frame": 12606
+            },
+            {
+                "narration_text": "Mixes the garlic in a cooking pot",
+                "start_frame": 12606,
+                "stop_frame": 12652
+            },
+            {
+                "narration_text": "Stops mixing garlic",
+                "start_frame": 12652,
+                "stop_frame": 12665
+            },
+            {
+                "narration_text": "Looks in the cooking pot",
+                "start_frame": 12665,
+                "stop_frame": 12789
+            },
+            {
+                "narration_text": "Mixes the garlic with spaces",
+                "start_frame": 12789,
+                "stop_frame": 13312
+            },
+            {
+                "narration_text": "Separates beans from the garlic",
+                "start_frame": 13312,
+                "stop_frame": 13388
+            },
+            {
+                "narration_text": "Mixes the garlic with spaces",
+                "start_frame": 13388,
+                "stop_frame": 13875
+            },
+            {
+                "narration_text": "Stops mixing garlic",
+                "start_frame": 13875,
+                "stop_frame": 13889
+            },
+            {
+                "narration_text": "Puts a cooking spoon in a cooking pot",
+                "start_frame": 13889,
+                "stop_frame": 13902
+            },
+            {
+                "narration_text": "Looks around",
+                "start_frame": 13902,
+                "stop_frame": 13977
+            },
+            {
+                "narration_text": "Moves a tray with food",
+                "start_frame": 13977,
+                "stop_frame": 14037
+            },
+            {
+                "narration_text": "Takes food on a tray with the right hand",
+                "start_frame": 14037,
+                "stop_frame": 14063
+            },
+            {
+                "narration_text": "Puts the food in a cooking pot",
+                "start_frame": 14063,
+                "stop_frame": 14142
+            },
+            {
+                "narration_text": "Turns a tray",
+                "start_frame": 14142,
+                "stop_frame": 14166
+            },
+            {
+                "narration_text": "Holds a cooking spoon",
+                "start_frame": 14166,
+                "stop_frame": 14223
+            }
+        ]
+    },
+    {
+        "task_goal": "Get assistance from lady x for seasoning.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the cooking spoon from the cooking pot.",
+                "start_frame": 28360,
+                "stop_frame": 28386
+            },
+            {
+                "narration_text": "Stirs food in the cooking pot with a cooking spoon.",
+                "start_frame": 28386,
+                "stop_frame": 28478
+            },
+            {
+                "narration_text": "Lady x sprinkles salt on the food.",
+                "start_frame": 28478,
+                "stop_frame": 28564
+            },
+            {
+                "narration_text": "Stirs food in the cooking pot with a cooking spoon.",
+                "start_frame": 28564,
+                "stop_frame": 28808
+            },
+            {
+                "narration_text": "Lady x sprinkles salt on the food.",
+                "start_frame": 28808,
+                "stop_frame": 28837
+            },
+            {
+                "narration_text": "Stirs food in the cooking pot with a cooking spoon.",
+                "start_frame": 28837,
+                "stop_frame": 28984
+            },
+            {
+                "narration_text": "Lady x sprinkles salt on the food.",
+                "start_frame": 28984,
+                "stop_frame": 29012
+            },
+            {
+                "narration_text": "Stirs food in the cooking pot with a cooking spoon.",
+                "start_frame": 29012,
+                "stop_frame": 29430
+            }
+        ]
+    },
+    {
+        "task_goal": "Final adjustments and camera setup.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lady x sprinkles salt on the food.",
+                "start_frame": 28984,
+                "stop_frame": 29012
+            },
+            {
+                "narration_text": "Stirs food in the cooking pot with a cooking spoon.",
+                "start_frame": 29012,
+                "stop_frame": 29430
+            },
+            {
+                "narration_text": "Puts the cooking spoon in the cooking pot.",
+                "start_frame": 29430,
+                "stop_frame": 29443
+            },
+            {
+                "narration_text": "Looks around.",
+                "start_frame": 29443,
+                "stop_frame": 29511
+            },
+            {
+                "narration_text": "Adjusts the camera.",
+                "start_frame": 29511,
+                "stop_frame": 29611
+            }
+        ]
+    }
+]

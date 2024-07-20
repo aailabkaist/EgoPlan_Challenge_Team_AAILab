@@ -1,0 +1,105 @@
+{
+    "overall_goal": "Cleaning and tidying up the kitchen",
+    "clips": [
+        {
+            "subgoal": "Mixing and washing hands",
+            "start_timestamp": 0,
+            "stop_timestamp": 249,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mixing food",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 108
+                },
+                {
+                    "secondary_subgoal": "Washing hands",
+                    "start_timestamp": 137,
+                    "stop_timestamp": 225
+                },
+                {
+                    "secondary_subgoal": "Handling sponge",
+                    "start_timestamp": 225,
+                    "stop_timestamp": 249
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning sink area",
+            "start_timestamp": 249,
+            "stop_timestamp": 581,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling plastic bag",
+                    "start_timestamp": 277,
+                    "stop_timestamp": 437
+                },
+                {
+                    "secondary_subgoal": "Handling plastic container and drawer",
+                    "start_timestamp": 437,
+                    "stop_timestamp": 910
+                },
+                {
+                    "secondary_subgoal": "Handling bottle and fridge",
+                    "start_timestamp": 1029,
+                    "stop_timestamp": 1323
+                },
+                {
+                    "secondary_subgoal": "Handling cabinet and tray",
+                    "start_timestamp": 1323,
+                    "stop_timestamp": 1769
+                }
+            ]
+        },
+        {
+            "subgoal": "Tidying up shelves",
+            "start_timestamp": 1769,
+            "stop_timestamp": 2793,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling storage box",
+                    "start_timestamp": 1769,
+                    "stop_timestamp": 2678
+                },
+                {
+                    "secondary_subgoal": "Washing hands",
+                    "start_timestamp": 2704,
+                    "stop_timestamp": 2793
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning various kitchen tools",
+            "start_timestamp": 2793,
+            "stop_timestamp": 6501,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling sponge, scissors, and cutting board",
+                    "start_timestamp": 2793,
+                    "stop_timestamp": 5443
+                },
+                {
+                    "secondary_subgoal": "Rinsing and drying various kitchen tools",
+                    "start_timestamp": 5443,
+                    "stop_timestamp": 6501
+                }
+            ]
+        },
+        {
+            "subgoal": "Finishing touches and tidying up",
+            "start_timestamp": 6501,
+            "stop_timestamp": 10227,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinsing and drying additional kitchen tools",
+                    "start_timestamp": 6501,
+                    "stop_timestamp": 9752
+                },
+                {
+                    "secondary_subgoal": "Wiping and organizing kitchen surfaces",
+                    "start_timestamp": 9752,
+                    "stop_timestamp": 10227
+                }
+            ]
+        }
+    ]
+}

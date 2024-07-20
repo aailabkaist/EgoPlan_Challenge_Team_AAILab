@@ -1,0 +1,188 @@
+{
+    "overall_goal": "Prepare and serve food, specifically pastries and vegetables",
+    "clips": [
+        {
+            "subgoal": "Initial preparation of the cooking area and tools",
+            "start_timestamp": 69,
+            "stop_timestamp": 1794,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk to the cooking area and get tools",
+                    "start_timestamp": 69,
+                    "stop_timestamp": 239
+                },
+                {
+                    "secondary_subgoal": "Initial setup and washing",
+                    "start_timestamp": 239,
+                    "stop_timestamp": 607
+                },
+                {
+                    "secondary_subgoal": "Setting up the pan and washing hands",
+                    "start_timestamp": 607,
+                    "stop_timestamp": 1716
+                },
+                {
+                    "secondary_subgoal": "Drying hands and prepping ingredients",
+                    "start_timestamp": 1716,
+                    "stop_timestamp": 1794
+                }
+            ]
+        },
+        {
+            "subgoal": "Pan preparation and dough cooking",
+            "start_timestamp": 1794,
+            "stop_timestamp": 4552,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add oil and prepare dough for cooking",
+                    "start_timestamp": 1794,
+                    "stop_timestamp": 2661
+                },
+                {
+                    "secondary_subgoal": "Cook and turn the dough",
+                    "start_timestamp": 2661,
+                    "stop_timestamp": 4552
+                }
+            ]
+        },
+        {
+            "subgoal": "Fetching vegetables, cleaning, and prepping them",
+            "start_timestamp": 4552,
+            "stop_timestamp": 8515,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fetching the vegetables",
+                    "start_timestamp": 4552,
+                    "stop_timestamp": 7349
+                },
+                {
+                    "secondary_subgoal": "Cleaning and drying the vegetables",
+                    "start_timestamp": 7349,
+                    "stop_timestamp": 8471
+                },
+                {
+                    "secondary_subgoal": "Prepping the vegetables for cooking",
+                    "start_timestamp": 8471,
+                    "stop_timestamp": 8515
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking and preparing beefsteak plant",
+            "start_timestamp": 8515,
+            "stop_timestamp": 11487,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turning and checking on the pastry",
+                    "start_timestamp": 8515,
+                    "stop_timestamp": 9419
+                },
+                {
+                    "secondary_subgoal": "Preparing the beefsteak plant",
+                    "start_timestamp": 9419,
+                    "stop_timestamp": 11266
+                },
+                {
+                    "secondary_subgoal": "Washing hands and finalizing the beefsteak plant prep",
+                    "start_timestamp": 11266,
+                    "stop_timestamp": 11487
+                }
+            ]
+        },
+        {
+            "subgoal": "Organizing the kitchen and preparing the dining table",
+            "start_timestamp": 11487,
+            "stop_timestamp": 13071,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Checking on pastry, moving to dining table, and clearing the kitchen",
+                    "start_timestamp": 11487,
+                    "stop_timestamp": 12043
+                },
+                {
+                    "secondary_subgoal": "Clearing the cooking table and organizing",
+                    "start_timestamp": 12043,
+                    "stop_timestamp": 12688
+                },
+                {
+                    "secondary_subgoal": "Finalizing beefsteak plant and clearing tools",
+                    "start_timestamp": 12688,
+                    "stop_timestamp": 13071
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning the cutting board and knife",
+            "start_timestamp": 13071,
+            "stop_timestamp": 14494,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing the cutting board and knife",
+                    "start_timestamp": 13071,
+                    "stop_timestamp": 14201
+                },
+                {
+                    "secondary_subgoal": "Drying hands and clearing cutting tools",
+                    "start_timestamp": 14201,
+                    "stop_timestamp": 14494
+                }
+            ]
+        },
+        {
+            "subgoal": "Finalizing pastry preparation and organizing",
+            "start_timestamp": 14494,
+            "stop_timestamp": 15728,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Checking and flipping the pastry",
+                    "start_timestamp": 14494,
+                    "stop_timestamp": 14953
+                },
+                {
+                    "secondary_subgoal": "Looking around and organizing the kitchen",
+                    "start_timestamp": 14953,
+                    "stop_timestamp": 15728
+                }
+            ]
+        },
+        {
+            "subgoal": "Finalizing kitchen organization and setting table",
+            "start_timestamp": 15728,
+            "stop_timestamp": 19644,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Organize kitchen items including cookware",
+                    "start_timestamp": 15728,
+                    "stop_timestamp": 17152
+                },
+                {
+                    "secondary_subgoal": "Finish clearing and organizing the kitchen, inspecting cooking process",
+                    "start_timestamp": 17152,
+                    "stop_timestamp": 19644
+                }
+            ]
+        },
+        {
+            "subgoal": "Serving the food",
+            "start_timestamp": 19644,
+            "stop_timestamp": 21248,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Final checks and transferring food to serving dishes",
+                    "start_timestamp": 19644,
+                    "stop_timestamp": 20440
+                },
+                {
+                    "secondary_subgoal": "Baking or reheating in the oven",
+                    "start_timestamp": 20440,
+                    "stop_timestamp": 20994
+                },
+                {
+                    "secondary_subgoal": "Serving the prepared dishes on the dining table",
+                    "start_timestamp": 20994,
+                    "stop_timestamp": 21248
+                }
+            ]
+        }
+    ]
+}

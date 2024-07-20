@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeiBATYJ4Q9t7Ym7lzp1kDxHbSkI",
+    "object": "chat.completion",
+    "created": 1719476643,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Heat something in the microwave and possibly retrieve or interact with another item from the fridge while being occasionally engaged with the phone\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Heat an item in the microwave\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 404,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare the microwave\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 93\n        },\n        {\n          \"secondary_subgoal\": \"Place an item in the microwave\",\n          \"start_timestamp\": 93,\n          \"stop_timestamp\": 187\n        },\n        {\n          \"secondary_subgoal\": \"Close the microwave\",\n          \"start_timestamp\": 187,\n          \"stop_timestamp\": 359\n        },\n        {\n          \"secondary_subgoal\": \"Start the microwave\",\n          \"start_timestamp\": 359,\n          \"stop_timestamp\": 404\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Interact with another item possibly taken from the fridge\",\n      \"start_timestamp\": 404,\n      \"stop_timestamp\": 681,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick up an item from the fridge\",\n          \"start_timestamp\": 512,\n          \"stop_timestamp\": 538\n        },\n        {\n          \"secondary_subgoal\": \"Interact with the item\",\n          \"start_timestamp\": 538,\n          \"stop_timestamp\": 656\n        },\n        {\n          \"secondary_subgoal\": \"Place the item back on the fridge\",\n          \"start_timestamp\": 656,\n          \"stop_timestamp\": 681\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Walk towards and interact with the phone\",\n      \"start_timestamp\": 681,\n      \"stop_timestamp\": 906,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Walk on the floor\",\n          \"start_timestamp\": 735,\n          \"stop_timestamp\": 806\n        },\n        {\n          \"secondary_subgoal\": \"Pick up the phone\",\n          \"start_timestamp\": 806,\n          \"stop_timestamp\": 906\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 524,
+        "completion_tokens": 466,
+        "total_tokens": 990
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

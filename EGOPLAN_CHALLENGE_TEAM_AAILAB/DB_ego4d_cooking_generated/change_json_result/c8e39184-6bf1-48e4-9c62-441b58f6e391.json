@@ -1,0 +1,194 @@
+{
+    "overall_goal": "Prepare vegetables and other ingredients for cooking.",
+    "clips": [
+        {
+            "subgoal": "Prepare vegetables for washing or cutting.",
+            "start_timestamp": 37,
+            "stop_timestamp": 866,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Collect and organize initial vegetables.",
+                    "start_timestamp": 37,
+                    "stop_timestamp": 196
+                },
+                {
+                    "secondary_subgoal": "Unpack and organize vegetables for cutting.",
+                    "start_timestamp": 196,
+                    "stop_timestamp": 476
+                },
+                {
+                    "secondary_subgoal": "Prepare to cut vegetables.",
+                    "start_timestamp": 476,
+                    "stop_timestamp": 866
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut and rinse vegetables.",
+            "start_timestamp": 866,
+            "stop_timestamp": 1083,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and rinse cabbage.",
+                    "start_timestamp": 866,
+                    "stop_timestamp": 1083
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize pasta, onions, and other vegetables.",
+            "start_timestamp": 1083,
+            "stop_timestamp": 2581,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Organize pasta and onions.",
+                    "start_timestamp": 1083,
+                    "stop_timestamp": 1472
+                },
+                {
+                    "secondary_subgoal": "Unpack onions and spring onions.",
+                    "start_timestamp": 1472,
+                    "stop_timestamp": 2581
+                }
+            ]
+        },
+        {
+            "subgoal": "Store and pack leftover vegetables.",
+            "start_timestamp": 2581,
+            "stop_timestamp": 3823,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pack remaining onions.",
+                    "start_timestamp": 2581,
+                    "stop_timestamp": 3214
+                },
+                {
+                    "secondary_subgoal": "Store spring onions and other vegetables.",
+                    "start_timestamp": 3214,
+                    "stop_timestamp": 3823
+                }
+            ]
+        },
+        {
+            "subgoal": "Dispose of packaging materials.",
+            "start_timestamp": 3823,
+            "stop_timestamp": 4108,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Dispose of vegetable and pasta packets.",
+                    "start_timestamp": 3823,
+                    "stop_timestamp": 4108
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut and arrange vegetables in tin containers.",
+            "start_timestamp": 4108,
+            "stop_timestamp": 4939,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut the vegetables and store them in the tin containers.",
+                    "start_timestamp": 4108,
+                    "stop_timestamp": 4939
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean cutlery and chopping board.",
+            "start_timestamp": 4939,
+            "stop_timestamp": 5627,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean cutting board and knife.",
+                    "start_timestamp": 4939,
+                    "stop_timestamp": 5087
+                },
+                {
+                    "secondary_subgoal": "Organize cutlery and items in the drawer.",
+                    "start_timestamp": 5087,
+                    "stop_timestamp": 5627
+                }
+            ]
+        },
+        {
+            "subgoal": "Unpack and cut carrots.",
+            "start_timestamp": 5627,
+            "stop_timestamp": 6501,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Unpack and place carrots for cutting.",
+                    "start_timestamp": 5627,
+                    "stop_timestamp": 6017
+                },
+                {
+                    "secondary_subgoal": "Cut and store the carrots.",
+                    "start_timestamp": 6017,
+                    "stop_timestamp": 6501
+                }
+            ]
+        },
+        {
+            "subgoal": "Rinse and prepare pasta and spring onions.",
+            "start_timestamp": 6501,
+            "stop_timestamp": 9072,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse and prepare pasta.",
+                    "start_timestamp": 6501,
+                    "stop_timestamp": 7109
+                },
+                {
+                    "secondary_subgoal": "Prepare and cut spring onions.",
+                    "start_timestamp": 7109,
+                    "stop_timestamp": 9072
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize kitchen and clean utensils.",
+            "start_timestamp": 9072,
+            "stop_timestamp": 12337,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wipe and clean utensiles while disposing waste papers.",
+                    "start_timestamp": 9072,
+                    "stop_timestamp": 9570
+                },
+                {
+                    "secondary_subgoal": "Reorganize chopping board, sponge and knife.",
+                    "start_timestamp": 9570,
+                    "stop_timestamp": 10426
+                },
+                {
+                    "secondary_subgoal": "Rinse and wash remaining utensils.",
+                    "start_timestamp": 10426,
+                    "stop_timestamp": 12337
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and store sufuria.",
+            "start_timestamp": 12337,
+            "stop_timestamp": 13470,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Unpack and store sufuria.",
+                    "start_timestamp": 12337,
+                    "stop_timestamp": 13470
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish cutting vegetables and storing them.",
+            "start_timestamp": 13470,
+            "stop_timestamp": 21259,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Finish cutting vegetables and storing them.",
+                    "start_timestamp": 13470,
+                    "stop_timestamp": 21259
+                }
+            ]
+        }
+    ]
+}

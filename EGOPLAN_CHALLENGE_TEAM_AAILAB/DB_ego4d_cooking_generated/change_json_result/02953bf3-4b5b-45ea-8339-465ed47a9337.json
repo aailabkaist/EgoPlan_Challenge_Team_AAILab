@@ -1,0 +1,52 @@
+{
+    "overall_goal": "Prepare the bell pepper by chopping it and placing it into a bowl.",
+    "clips": [
+        {
+            "subgoal": "Chop the bell pepper and transfer it into the bowl",
+            "start_timestamp": 11,
+            "stop_timestamp": 1301,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Chop the bell pepper",
+                    "start_timestamp": 11,
+                    "stop_timestamp": 154
+                },
+                {
+                    "secondary_subgoal": "Put the chopped bell pepper in a bowl",
+                    "start_timestamp": 154,
+                    "stop_timestamp": 180
+                },
+                {
+                    "secondary_subgoal": "Touch the bell pepper",
+                    "start_timestamp": 180,
+                    "stop_timestamp": 269
+                },
+                {
+                    "secondary_subgoal": "Chop the bell pepper",
+                    "start_timestamp": 269,
+                    "stop_timestamp": 622
+                },
+                {
+                    "secondary_subgoal": "Look around",
+                    "start_timestamp": 622,
+                    "stop_timestamp": 816
+                },
+                {
+                    "secondary_subgoal": "Chop the bell pepper",
+                    "start_timestamp": 816,
+                    "stop_timestamp": 1111
+                },
+                {
+                    "secondary_subgoal": "Look around",
+                    "start_timestamp": 1111,
+                    "stop_timestamp": 1201
+                },
+                {
+                    "secondary_subgoal": "Chop the bell pepper",
+                    "start_timestamp": 1201,
+                    "stop_timestamp": 1301
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,243 @@
+{
+    "overall_goal": "Prepare and serve food using various utensils and cookware in the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Prepare ingredients and cook food",
+            "start_timestamp": 0,
+            "stop_timestamp": 1406,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve spoon from the kitchen table",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 62
+                },
+                {
+                    "secondary_subgoal": "Cook food",
+                    "start_timestamp": 62,
+                    "stop_timestamp": 335
+                },
+                {
+                    "secondary_subgoal": "Use spoon for cooking",
+                    "start_timestamp": 335,
+                    "stop_timestamp": 410
+                },
+                {
+                    "secondary_subgoal": "Place spoon back on the kitchen table",
+                    "start_timestamp": 410,
+                    "stop_timestamp": 449
+                },
+                {
+                    "secondary_subgoal": "Roll tissue",
+                    "start_timestamp": 449,
+                    "stop_timestamp": 530
+                },
+                {
+                    "secondary_subgoal": "Retrieve spoon and clean kitchen table",
+                    "start_timestamp": 530,
+                    "stop_timestamp": 645
+                },
+                {
+                    "secondary_subgoal": "Place spoon on kitchen table",
+                    "start_timestamp": 645,
+                    "stop_timestamp": 701
+                },
+                {
+                    "secondary_subgoal": "Move around kitchen",
+                    "start_timestamp": 701,
+                    "stop_timestamp": 736
+                },
+                {
+                    "secondary_subgoal": "Retrieve cooking spoon and cook",
+                    "start_timestamp": 736,
+                    "stop_timestamp": 1191
+                },
+                {
+                    "secondary_subgoal": "Pick spaghetti from spoon",
+                    "start_timestamp": 1191,
+                    "stop_timestamp": 1242
+                },
+                {
+                    "secondary_subgoal": "Place spoon back on kitchen table",
+                    "start_timestamp": 1242,
+                    "stop_timestamp": 1268
+                },
+                {
+                    "secondary_subgoal": "Eat spaghetti",
+                    "start_timestamp": 1268,
+                    "stop_timestamp": 1381
+                },
+                {
+                    "secondary_subgoal": "Turn off the cooker",
+                    "start_timestamp": 1381,
+                    "stop_timestamp": 1406
+                }
+            ]
+        },
+        {
+            "subgoal": "Scoop and transfer spaghetti",
+            "start_timestamp": 1406,
+            "stop_timestamp": 2378,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take cooking pot and spoon",
+                    "start_timestamp": 1549,
+                    "stop_timestamp": 1724
+                },
+                {
+                    "secondary_subgoal": "Scoop spaghetti to cooking pan",
+                    "start_timestamp": 1724,
+                    "stop_timestamp": 1789
+                },
+                {
+                    "secondary_subgoal": "Scoop more spaghetti to cooking pan",
+                    "start_timestamp": 1789,
+                    "stop_timestamp": 1883
+                },
+                {
+                    "secondary_subgoal": "Scoop more spaghetti to cooking pan",
+                    "start_timestamp": 1883,
+                    "stop_timestamp": 2064
+                },
+                {
+                    "secondary_subgoal": "Place spoon on cooking pan",
+                    "start_timestamp": 2064,
+                    "stop_timestamp": 2363
+                },
+                {
+                    "secondary_subgoal": "Place cooking pot back on cooker",
+                    "start_timestamp": 2363,
+                    "stop_timestamp": 2378
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and serve food",
+            "start_timestamp": 2378,
+            "stop_timestamp": 6980,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put cooking spoon on cooking pot",
+                    "start_timestamp": 2378,
+                    "stop_timestamp": 2450
+                },
+                {
+                    "secondary_subgoal": "Retrieve spoon and remove tissue",
+                    "start_timestamp": 2450,
+                    "stop_timestamp": 2519
+                },
+                {
+                    "secondary_subgoal": "Stir food",
+                    "start_timestamp": 2519,
+                    "stop_timestamp": 3515
+                },
+                {
+                    "secondary_subgoal": "Open and close the oven",
+                    "start_timestamp": 3515,
+                    "stop_timestamp": 3589
+                },
+                {
+                    "secondary_subgoal": "Move around the kitchen",
+                    "start_timestamp": 3589,
+                    "stop_timestamp": 3738
+                },
+                {
+                    "secondary_subgoal": "Stir the food and place spoon on table",
+                    "start_timestamp": 3738,
+                    "stop_timestamp": 4235
+                },
+                {
+                    "secondary_subgoal": "Pick plate and serve food",
+                    "start_timestamp": 4235,
+                    "stop_timestamp": 4621
+                },
+                {
+                    "secondary_subgoal": "Pick plate and serve more food",
+                    "start_timestamp": 4621,
+                    "stop_timestamp": 4944
+                },
+                {
+                    "secondary_subgoal": "Pick bowl and serve food",
+                    "start_timestamp": 5011,
+                    "stop_timestamp": 5214
+                },
+                {
+                    "secondary_subgoal": "Place bowl on table",
+                    "start_timestamp": 5214,
+                    "stop_timestamp": 5526
+                },
+                {
+                    "secondary_subgoal": "Pick plate and add food",
+                    "start_timestamp": 5610,
+                    "stop_timestamp": 6057
+                },
+                {
+                    "secondary_subgoal": "Pick bowl and add food",
+                    "start_timestamp": 6354,
+                    "stop_timestamp": 6719
+                },
+                {
+                    "secondary_subgoal": "Pick bowl and add more food",
+                    "start_timestamp": 6849,
+                    "stop_timestamp": 6980
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up and finalize preparation",
+            "start_timestamp": 6980,
+            "stop_timestamp": 9090,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put cooking spoon back on frying pan",
+                    "start_timestamp": 7590,
+                    "stop_timestamp": 7624
+                },
+                {
+                    "secondary_subgoal": "Retrieve tea spoon and throw tissue",
+                    "start_timestamp": 7720,
+                    "stop_timestamp": 7756
+                },
+                {
+                    "secondary_subgoal": "Move around the kitchen",
+                    "start_timestamp": 7756,
+                    "stop_timestamp": 7840
+                },
+                {
+                    "secondary_subgoal": "Put tea spoon on table",
+                    "start_timestamp": 7840,
+                    "stop_timestamp": 7928
+                },
+                {
+                    "secondary_subgoal": "Take cooking pot and pour hot water in sink",
+                    "start_timestamp": 8004,
+                    "stop_timestamp": 8111
+                },
+                {
+                    "secondary_subgoal": "Move around and fold towel",
+                    "start_timestamp": 8205,
+                    "stop_timestamp": 8255
+                },
+                {
+                    "secondary_subgoal": "Retrieve and place tray on cooker",
+                    "start_timestamp": 8307,
+                    "stop_timestamp": 8524
+                },
+                {
+                    "secondary_subgoal": "Pick and place items on plate",
+                    "start_timestamp": 8638,
+                    "stop_timestamp": 8942
+                },
+                {
+                    "secondary_subgoal": "Place plate on kitchen table",
+                    "start_timestamp": 8942,
+                    "stop_timestamp": 8990
+                },
+                {
+                    "secondary_subgoal": "Wipe hands on towel",
+                    "start_timestamp": 8990,
+                    "stop_timestamp": 9090
+                }
+            ]
+        }
+    ]
+}

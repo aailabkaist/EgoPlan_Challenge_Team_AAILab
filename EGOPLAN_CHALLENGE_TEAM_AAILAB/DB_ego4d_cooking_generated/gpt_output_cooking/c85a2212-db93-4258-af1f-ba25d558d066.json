@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eemJ6YpRBbZ1WlB2x6qsATUlXHgq",
+    "object": "chat.completion",
+    "created": 1719476899,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing and plating food items.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Categorizing and preparing food items.\",\n      \"start_timestamp\": 9491,\n      \"stop_timestamp\": 9824,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Categorizing food.\",\n          \"start_timestamp\": 9491,\n          \"stop_timestamp\": 9660\n        },\n        {\n          \"secondary_subgoal\": \"Handling and manipulating food.\",\n          \"start_timestamp\": 9660,\n          \"stop_timestamp\": 9824\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handling and rolling food items.\",\n      \"start_timestamp\": 9824,\n      \"stop_timestamp\": 10733,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Looking around the room and handling food.\",\n          \"start_timestamp\": 9824,\n          \"stop_timestamp\": 9950\n        },\n        {\n          \"secondary_subgoal\": \"Rolling food on hands.\",\n          \"start_timestamp\": 9950,\n          \"stop_timestamp\": 10718\n        },\n        {\n          \"secondary_subgoal\": \"Placing food on plate.\",\n          \"start_timestamp\": 10718,\n          \"stop_timestamp\": 10733\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handpicking and plating food items.\",\n      \"start_timestamp\": 10733,\n      \"stop_timestamp\": 14281,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handpicking food.\",\n          \"start_timestamp\": 10733,\n          \"stop_timestamp\": 11741\n        },\n        {\n          \"secondary_subgoal\": \"Rolling food using the hands.\",\n          \"start_timestamp\": 11741,\n          \"stop_timestamp\": 12188\n        },\n        {\n          \"secondary_subgoal\": \"Placing food on plate.\",\n          \"start_timestamp\": 12188,\n          \"stop_timestamp\": 13600\n        },\n        {\n          \"secondary_subgoal\": \"Picking and transitioning food between plates.\",\n          \"start_timestamp\": 13600,\n          \"stop_timestamp\": 14181\n        },\n        {\n          \"secondary_subgoal\": \"Handling food with a spoon.\",\n          \"start_timestamp\": 14181,\n          \"stop_timestamp\": 14281\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 680,
+        "completion_tokens": 505,
+        "total_tokens": 1185
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

@@ -1,0 +1,827 @@
+[
+    {
+        "task_goal": "Gather water for tea",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stares at the phone",
+                "start_frame": 1,
+                "stop_frame": 64
+            },
+            {
+                "narration_text": "Pushes the phone aside",
+                "start_frame": 64,
+                "stop_frame": 140
+            },
+            {
+                "narration_text": "Picks up the kettle",
+                "start_frame": 140,
+                "stop_frame": 232
+            },
+            {
+                "narration_text": "Opens the water tap",
+                "start_frame": 232,
+                "stop_frame": 345
+            },
+            {
+                "narration_text": "Fetches water with the kettle",
+                "start_frame": 345,
+                "stop_frame": 623
+            },
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 623,
+                "stop_frame": 725
+            },
+            {
+                "narration_text": "Cc drops the kettle on the table",
+                "start_frame": 725,
+                "stop_frame": 783
+            },
+            {
+                "narration_text": "Turns on an electric kettle",
+                "start_frame": 783,
+                "stop_frame": 822
+            },
+            {
+                "narration_text": "Opens the cardboard",
+                "start_frame": 822,
+                "stop_frame": 898
+            }
+        ]
+    },
+    {
+        "task_goal": "Interact with the phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stares at the phone",
+                "start_frame": 1,
+                "stop_frame": 64
+            },
+            {
+                "narration_text": "Pushes the phone aside",
+                "start_frame": 64,
+                "stop_frame": 140
+            },
+            {
+                "narration_text": "Picks up the kettle",
+                "start_frame": 140,
+                "stop_frame": 232
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare kettle and fetch water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pushes the phone aside",
+                "start_frame": 64,
+                "stop_frame": 140
+            },
+            {
+                "narration_text": "Picks up the kettle",
+                "start_frame": 140,
+                "stop_frame": 232
+            },
+            {
+                "narration_text": "Opens the water tap",
+                "start_frame": 232,
+                "stop_frame": 345
+            },
+            {
+                "narration_text": "Fetches water with the kettle",
+                "start_frame": 345,
+                "stop_frame": 623
+            },
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 623,
+                "stop_frame": 725
+            },
+            {
+                "narration_text": "Cc drops the kettle on the table",
+                "start_frame": 725,
+                "stop_frame": 783
+            }
+        ]
+    },
+    {
+        "task_goal": "Start heating water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 623,
+                "stop_frame": 725
+            },
+            {
+                "narration_text": "Cc drops the kettle on the table",
+                "start_frame": 725,
+                "stop_frame": 783
+            },
+            {
+                "narration_text": "Turns on an electric kettle",
+                "start_frame": 783,
+                "stop_frame": 822
+            },
+            {
+                "narration_text": "Opens the cardboard",
+                "start_frame": 822,
+                "stop_frame": 898
+            }
+        ]
+    },
+    {
+        "task_goal": "Store and fetch ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns on an electric kettle",
+                "start_frame": 783,
+                "stop_frame": 822
+            },
+            {
+                "narration_text": "Opens the cardboard",
+                "start_frame": 822,
+                "stop_frame": 898
+            },
+            {
+                "narration_text": "Cc picks the jug from the cardboard",
+                "start_frame": 898,
+                "stop_frame": 1024
+            },
+            {
+                "narration_text": "Puts the jug in the cardboard",
+                "start_frame": 1024,
+                "stop_frame": 1139
+            },
+            {
+                "narration_text": "Closes the cardboard",
+                "start_frame": 1139,
+                "stop_frame": 1219
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 1219,
+                "stop_frame": 1307
+            },
+            {
+                "narration_text": "Cc picks the jug from the shelf",
+                "start_frame": 1307,
+                "stop_frame": 1373
+            },
+            {
+                "narration_text": "Drops the jug on the kitchen top",
+                "start_frame": 1373,
+                "stop_frame": 1411
+            },
+            {
+                "narration_text": "Opens the jug",
+                "start_frame": 1411,
+                "stop_frame": 1537
+            }
+        ]
+    },
+    {
+        "task_goal": "Manage jug in cardboard",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns on an electric kettle",
+                "start_frame": 783,
+                "stop_frame": 822
+            },
+            {
+                "narration_text": "Opens the cardboard",
+                "start_frame": 822,
+                "stop_frame": 898
+            },
+            {
+                "narration_text": "Cc picks the jug from the cardboard",
+                "start_frame": 898,
+                "stop_frame": 1024
+            },
+            {
+                "narration_text": "Puts the jug in the cardboard",
+                "start_frame": 1024,
+                "stop_frame": 1139
+            },
+            {
+                "narration_text": "Closes the cardboard",
+                "start_frame": 1139,
+                "stop_frame": 1219
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 1219,
+                "stop_frame": 1307
+            }
+        ]
+    },
+    {
+        "task_goal": "Fetch another jug from shelf",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 1219,
+                "stop_frame": 1307
+            },
+            {
+                "narration_text": "Cc picks the jug from the shelf",
+                "start_frame": 1307,
+                "stop_frame": 1373
+            },
+            {
+                "narration_text": "Drops the jug on the kitchen top",
+                "start_frame": 1373,
+                "stop_frame": 1411
+            },
+            {
+                "narration_text": "Opens the jug",
+                "start_frame": 1411,
+                "stop_frame": 1537
+            }
+        ]
+    },
+    {
+        "task_goal": "Manage jug and spices",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Drops the jug on the kitchen top",
+                "start_frame": 1373,
+                "stop_frame": 1411
+            },
+            {
+                "narration_text": "Opens the jug",
+                "start_frame": 1411,
+                "stop_frame": 1537
+            },
+            {
+                "narration_text": "Opens the cardboard",
+                "start_frame": 1537,
+                "stop_frame": 1641
+            },
+            {
+                "narration_text": "Cc picks the spoon from the cardboard",
+                "start_frame": 1641,
+                "stop_frame": 1752
+            },
+            {
+                "narration_text": "Scoops unsure from the container",
+                "start_frame": 1752,
+                "stop_frame": 1869
+            },
+            {
+                "narration_text": "Puts unsure in the container",
+                "start_frame": 1869,
+                "stop_frame": 1923
+            },
+            {
+                "narration_text": "Cc drops the spoon on the kitchen top",
+                "start_frame": 1923,
+                "stop_frame": 1959
+            },
+            {
+                "narration_text": "Closes the container",
+                "start_frame": 1959,
+                "stop_frame": 2012
+            },
+            {
+                "narration_text": "Opens the cardboard",
+                "start_frame": 2012,
+                "stop_frame": 2067
+            }
+        ]
+    },
+    {
+        "task_goal": "Fetch container from cardboard and add spices to jug",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the cardboard",
+                "start_frame": 2012,
+                "stop_frame": 2067
+            },
+            {
+                "narration_text": "Puts the container in the card board",
+                "start_frame": 2067,
+                "stop_frame": 2211
+            },
+            {
+                "narration_text": "Closes the cardboard",
+                "start_frame": 2211,
+                "stop_frame": 2294
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 2294,
+                "stop_frame": 2470
+            }
+        ]
+    },
+    {
+        "task_goal": "Pluck and wash leaves",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 2294,
+                "stop_frame": 2470
+            },
+            {
+                "narration_text": "Plucks the leaves from the container",
+                "start_frame": 2470,
+                "stop_frame": 3005
+            },
+            {
+                "narration_text": "Cc opens the water tap",
+                "start_frame": 3005,
+                "stop_frame": 3049
+            },
+            {
+                "narration_text": "Washes the leaves",
+                "start_frame": 3049,
+                "stop_frame": 3202
+            },
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 3202,
+                "stop_frame": 3387
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 3387,
+                "stop_frame": 3508
+            }
+        ]
+    },
+    {
+        "task_goal": "Add leaves to jug and fetch spices",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 3387,
+                "stop_frame": 3508
+            },
+            {
+                "narration_text": "Puts the leaves in the jug",
+                "start_frame": 3508,
+                "stop_frame": 3669
+            },
+            {
+                "narration_text": "Opens the cardboard",
+                "start_frame": 3669,
+                "stop_frame": 3860
+            },
+            {
+                "narration_text": "Picks the bottle from the cardboard",
+                "start_frame": 3860,
+                "stop_frame": 3970
+            },
+            {
+                "narration_text": "Picks the spoon from the cardboard",
+                "start_frame": 3970,
+                "stop_frame": 4054
+            },
+            {
+                "narration_text": "Scoops the spices from the bottle",
+                "start_frame": 4054,
+                "stop_frame": 4194
+            },
+            {
+                "narration_text": "Puts the spices in the jug",
+                "start_frame": 4194,
+                "stop_frame": 4264
+            },
+            {
+                "narration_text": "Closes the bottle",
+                "start_frame": 4264,
+                "stop_frame": 4354
+            },
+            {
+                "narration_text": "Puts the bottle in the cardboard",
+                "start_frame": 4354,
+                "stop_frame": 4534
+            },
+            {
+                "narration_text": "Closes the cardboard",
+                "start_frame": 4534,
+                "stop_frame": 4661
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare cooking area and ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 4661,
+                "stop_frame": 4750
+            },
+            {
+                "narration_text": "Picks up the packet",
+                "start_frame": 4750,
+                "stop_frame": 4786
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 4786,
+                "stop_frame": 4956
+            },
+            {
+                "narration_text": "Cc picks the bowl from the shelf",
+                "start_frame": 4956,
+                "stop_frame": 5066
+            },
+            {
+                "narration_text": "Puts the bowl on the kitchen top",
+                "start_frame": 5066,
+                "stop_frame": 5270
+            },
+            {
+                "narration_text": "Opens the packet",
+                "start_frame": 5270,
+                "stop_frame": 5416
+            },
+            {
+                "narration_text": "Closes the packet",
+                "start_frame": 5416,
+                "stop_frame": 5479
+            },
+            {
+                "narration_text": "Puts the packet in the box",
+                "start_frame": 5479,
+                "stop_frame": 5569
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 5569,
+                "stop_frame": 5782
+            },
+            {
+                "narration_text": "Turns on the gas cooker",
+                "start_frame": 5782,
+                "stop_frame": 6073
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 6073,
+                "stop_frame": 6189
+            },
+            {
+                "narration_text": "Picks the bottle from the box",
+                "start_frame": 6189,
+                "stop_frame": 6274
+            },
+            {
+                "narration_text": "Pours the cooking oil in the frying pan",
+                "start_frame": 6274,
+                "stop_frame": 6357
+            },
+            {
+                "narration_text": "Closes the bottle",
+                "start_frame": 6357,
+                "stop_frame": 6426
+            },
+            {
+                "narration_text": "Puts the bottle in the box",
+                "start_frame": 6426,
+                "stop_frame": 6571
+            },
+            {
+                "narration_text": "Cc picks up the meat",
+                "start_frame": 6571,
+                "stop_frame": 6673
+            },
+            {
+                "narration_text": "Opens the water tap",
+                "start_frame": 6673,
+                "stop_frame": 6721
+            }
+        ]
+    },
+    {
+        "task_goal": "Gather items like bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 4661,
+                "stop_frame": 4750
+            },
+            {
+                "narration_text": "Picks up the packet",
+                "start_frame": 4750,
+                "stop_frame": 4786
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 4786,
+                "stop_frame": 4956
+            },
+            {
+                "narration_text": "Cc picks the bowl from the shelf",
+                "start_frame": 4956,
+                "stop_frame": 5066
+            },
+            {
+                "narration_text": "Puts the bowl on the kitchen top",
+                "start_frame": 5066,
+                "stop_frame": 5270
+            },
+            {
+                "narration_text": "Opens the packet",
+                "start_frame": 5270,
+                "stop_frame": 5416
+            },
+            {
+                "narration_text": "Closes the packet",
+                "start_frame": 5416,
+                "stop_frame": 5479
+            },
+            {
+                "narration_text": "Puts the packet in the box",
+                "start_frame": 5479,
+                "stop_frame": 5569
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 5569,
+                "stop_frame": 5782
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn on gas cooker and prepare cooking oil",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 5569,
+                "stop_frame": 5782
+            },
+            {
+                "narration_text": "Turns on the gas cooker",
+                "start_frame": 5782,
+                "stop_frame": 6073
+            },
+            {
+                "narration_text": "Walks around the room",
+                "start_frame": 6073,
+                "stop_frame": 6189
+            },
+            {
+                "narration_text": "Picks the bottle from the box",
+                "start_frame": 6189,
+                "stop_frame": 6274
+            },
+            {
+                "narration_text": "Pours the cooking oil in the frying pan",
+                "start_frame": 6274,
+                "stop_frame": 6357
+            },
+            {
+                "narration_text": "Closes the bottle",
+                "start_frame": 6357,
+                "stop_frame": 6426
+            },
+            {
+                "narration_text": "Puts the bottle in the box",
+                "start_frame": 6426,
+                "stop_frame": 6571
+            },
+            {
+                "narration_text": "Cc picks up the meat",
+                "start_frame": 6571,
+                "stop_frame": 6673
+            },
+            {
+                "narration_text": "Opens the water tap",
+                "start_frame": 6673,
+                "stop_frame": 6721
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash meat and hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cc picks up the meat",
+                "start_frame": 6571,
+                "stop_frame": 6673
+            },
+            {
+                "narration_text": "Opens the water tap",
+                "start_frame": 6673,
+                "stop_frame": 6721
+            },
+            {
+                "narration_text": "Washes the meat",
+                "start_frame": 6721,
+                "stop_frame": 6926
+            },
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 6926,
+                "stop_frame": 7147
+            },
+            {
+                "narration_text": "Rinses the hands",
+                "start_frame": 7147,
+                "stop_frame": 7190
+            },
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 7190,
+                "stop_frame": 7307
+            },
+            {
+                "narration_text": "Regulates the gas",
+                "start_frame": 7307,
+                "stop_frame": 7387
+            }
+        ]
+    },
+    {
+        "task_goal": "Cook and season meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Regulates the gas",
+                "start_frame": 7307,
+                "stop_frame": 7387
+            },
+            {
+                "narration_text": "Puts meat in the frying pan",
+                "start_frame": 7387,
+                "stop_frame": 7949
+            },
+            {
+                "narration_text": "Drops the tray on the kitchen top",
+                "start_frame": 7949,
+                "stop_frame": 8014
+            },
+            {
+                "narration_text": "Stirs unsure in the frying pan",
+                "start_frame": 8014,
+                "stop_frame": 8312
+            },
+            {
+                "narration_text": "Closes the frying pan",
+                "start_frame": 8312,
+                "stop_frame": 8366
+            },
+            {
+                "narration_text": "Picks the flat spoon from the utensil rack",
+                "start_frame": 8366,
+                "stop_frame": 8460
+            },
+            {
+                "narration_text": "Stirs the meat in the frying pan",
+                "start_frame": 8460,
+                "stop_frame": 8670
+            },
+            {
+                "narration_text": "Picks the bottle from the shelf",
+                "start_frame": 8670,
+                "stop_frame": 8718
+            },
+            {
+                "narration_text": "Adds unsure in the frying pan",
+                "start_frame": 8718,
+                "stop_frame": 8995
+            },
+            {
+                "narration_text": "Puts the bottle on the shelf",
+                "start_frame": 8995,
+                "stop_frame": 9083
+            },
+            {
+                "narration_text": "Picks the bottle from the shelf",
+                "start_frame": 9083,
+                "stop_frame": 9137
+            },
+            {
+                "narration_text": "Opens the bottle",
+                "start_frame": 9137,
+                "stop_frame": 9180
+            },
+            {
+                "narration_text": "Adds the spices on the meat",
+                "start_frame": 9180,
+                "stop_frame": 9271
+            },
+            {
+                "narration_text": "Puts the bottle on the shelf",
+                "start_frame": 9271,
+                "stop_frame": 9337
+            },
+            {
+                "narration_text": "Stirs meat in the frying pan",
+                "start_frame": 9337,
+                "stop_frame": 10005
+            },
+            {
+                "narration_text": "Regulates the gas cooker",
+                "start_frame": 10005,
+                "stop_frame": 10108
+            },
+            {
+                "narration_text": "Cc walks around the room",
+                "start_frame": 10108,
+                "stop_frame": 10158
+            }
+        ]
+    },
+    {
+        "task_goal": "Regulate gas and walk around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Regulates the gas cooker",
+                "start_frame": 10005,
+                "stop_frame": 10108
+            },
+            {
+                "narration_text": "Cc walks around the room",
+                "start_frame": 10108,
+                "stop_frame": 10158
+            },
+            {
+                "narration_text": "Picks up an electric kettle",
+                "start_frame": 10158,
+                "stop_frame": 10221
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve tea",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cc walks around the room",
+                "start_frame": 10108,
+                "stop_frame": 10158
+            },
+            {
+                "narration_text": "Picks up an electric kettle",
+                "start_frame": 10158,
+                "stop_frame": 10221
+            },
+            {
+                "narration_text": "Pours water in the cup",
+                "start_frame": 10221,
+                "stop_frame": 10429
+            },
+            {
+                "narration_text": "Drops the electric kettle on the table",
+                "start_frame": 10429,
+                "stop_frame": 10494
+            },
+            {
+                "narration_text": "Closes the cup",
+                "start_frame": 10494,
+                "stop_frame": 10801
+            },
+            {
+                "narration_text": "Picks the phone from the table",
+                "start_frame": 10801,
+                "stop_frame": 10901
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour water into cup",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up an electric kettle",
+                "start_frame": 10158,
+                "stop_frame": 10221
+            },
+            {
+                "narration_text": "Pours water in the cup",
+                "start_frame": 10221,
+                "stop_frame": 10429
+            },
+            {
+                "narration_text": "Drops the electric kettle on the table",
+                "start_frame": 10429,
+                "stop_frame": 10494
+            },
+            {
+                "narration_text": "Closes the cup",
+                "start_frame": 10494,
+                "stop_frame": 10801
+            }
+        ]
+    },
+    {
+        "task_goal": "Close cup and pick phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Drops the electric kettle on the table",
+                "start_frame": 10429,
+                "stop_frame": 10494
+            },
+            {
+                "narration_text": "Closes the cup",
+                "start_frame": 10494,
+                "stop_frame": 10801
+            },
+            {
+                "narration_text": "Picks the phone from the table",
+                "start_frame": 10801,
+                "stop_frame": 10901
+            }
+        ]
+    }
+]

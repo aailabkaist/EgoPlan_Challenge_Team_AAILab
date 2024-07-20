@@ -1,0 +1,118 @@
+{
+    "overall_goal": "Clean and prepare food and utensils after cooking pasta.",
+    "clips": [
+        {
+            "subgoal": "Stir and transfer pasta into a strainer.",
+            "start_timestamp": 0,
+            "stop_timestamp": 2430,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir pasta using chopsticks.",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 1457
+                },
+                {
+                    "secondary_subgoal": "Tap chopsticks on the cooking pot and set them down.",
+                    "start_timestamp": 1457,
+                    "stop_timestamp": 1636
+                },
+                {
+                    "secondary_subgoal": "Look at the cooking plate and resume stirring pasta.",
+                    "start_timestamp": 1636,
+                    "stop_timestamp": 2024
+                },
+                {
+                    "secondary_subgoal": "Turn off heat and set down chopsticks.",
+                    "start_timestamp": 2024,
+                    "stop_timestamp": 2133
+                },
+                {
+                    "secondary_subgoal": "Transfer pasta to bowl strainer.",
+                    "start_timestamp": 2133,
+                    "stop_timestamp": 2430
+                }
+            ]
+        },
+        {
+            "subgoal": "Run water over the pasta to cool it down.",
+            "start_timestamp": 2430,
+            "stop_timestamp": 4840,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open tap and pour water into cooking pot.",
+                    "start_timestamp": 2430,
+                    "stop_timestamp": 2552
+                },
+                {
+                    "secondary_subgoal": "Rotate and open tap, run cold water over pasta and shake strainer.",
+                    "start_timestamp": 2552,
+                    "stop_timestamp": 3218
+                },
+                {
+                    "secondary_subgoal": "Rotate tap, turn pasta, and continue running water over pasta.",
+                    "start_timestamp": 3218,
+                    "stop_timestamp": 4442
+                },
+                {
+                    "secondary_subgoal": "Close tap and shake strainer.",
+                    "start_timestamp": 4442,
+                    "stop_timestamp": 4840
+                }
+            ]
+        },
+        {
+            "subgoal": "Plate the pasta and other ingredients.",
+            "start_timestamp": 4840,
+            "stop_timestamp": 8822,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put down chopsticks, pick up pasta, plate it, and put strainer down.",
+                    "start_timestamp": 4840,
+                    "stop_timestamp": 5794
+                },
+                {
+                    "secondary_subgoal": "Rotate tap, wash and dry chopsticks, pick and place various ingredients on the plate.",
+                    "start_timestamp": 5794,
+                    "stop_timestamp": 7382
+                },
+                {
+                    "secondary_subgoal": "Handle the can and pour stew on plate.",
+                    "start_timestamp": 7382,
+                    "stop_timestamp": 8098
+                },
+                {
+                    "secondary_subgoal": "Remove stew leftovers from packet, put packet in trash, take dishes, and put certain dishes in the fridge.",
+                    "start_timestamp": 8098,
+                    "stop_timestamp": 8822
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean utensils and work area.",
+            "start_timestamp": 8822,
+            "stop_timestamp": 13574,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Push plate of food, pick and rinse sieve, and wash it with scraper.",
+                    "start_timestamp": 8822,
+                    "stop_timestamp": 11757
+                },
+                {
+                    "secondary_subgoal": "Clean chopsticks, open knob, rinse chopstick, and wash and rinse pan.",
+                    "start_timestamp": 11757,
+                    "stop_timestamp": 12776
+                },
+                {
+                    "secondary_subgoal": "Turn tap, push plate of food, put pan on gas, wipe sink table, handle and push plate of food.",
+                    "start_timestamp": 12776,
+                    "stop_timestamp": 13405
+                },
+                {
+                    "secondary_subgoal": "Touch clothes and raise hand up.",
+                    "start_timestamp": 13405,
+                    "stop_timestamp": 13574
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,297 @@
+[
+    {
+        "task_goal": "C cooks in the pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cooks #unsure",
+                "start_frame": 15,
+                "stop_frame": 27
+            },
+            {
+                "narration_text": "#C C stirs #unsure",
+                "start_frame": 27,
+                "stop_frame": 34
+            },
+            {
+                "narration_text": "#C C holds the pan",
+                "start_frame": 34,
+                "stop_frame": 1913
+            },
+            {
+                "narration_text": "#C C takes the plate",
+                "start_frame": 1913,
+                "stop_frame": 1945
+            },
+            {
+                "narration_text": "#C C puts the plate on the sink",
+                "start_frame": 1945,
+                "stop_frame": 2135
+            },
+            {
+                "narration_text": "#C C serves #unsure",
+                "start_frame": 2135,
+                "stop_frame": 4535
+            }
+        ]
+    },
+    {
+        "task_goal": "C cooks in the pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cooks #unsure",
+                "start_frame": 15,
+                "stop_frame": 27
+            },
+            {
+                "narration_text": "#C C stirs #unsure",
+                "start_frame": 27,
+                "stop_frame": 34
+            }
+        ]
+    },
+    {
+        "task_goal": "C stirs the contents of the pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cooks #unsure",
+                "start_frame": 15,
+                "stop_frame": 27
+            },
+            {
+                "narration_text": "#C C stirs #unsure",
+                "start_frame": 27,
+                "stop_frame": 34
+            },
+            {
+                "narration_text": "#C C holds the pan",
+                "start_frame": 34,
+                "stop_frame": 1913
+            },
+            {
+                "narration_text": "#C C takes the plate",
+                "start_frame": 1913,
+                "stop_frame": 1945
+            }
+        ]
+    },
+    {
+        "task_goal": "C takes a plate to serve the dish.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds the pan",
+                "start_frame": 34,
+                "stop_frame": 1913
+            },
+            {
+                "narration_text": "#C C takes the plate",
+                "start_frame": 1913,
+                "stop_frame": 1945
+            },
+            {
+                "narration_text": "#C C puts the plate on the sink",
+                "start_frame": 1945,
+                "stop_frame": 2135
+            }
+        ]
+    },
+    {
+        "task_goal": "C puts the plate on the sink.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes the plate",
+                "start_frame": 1913,
+                "stop_frame": 1945
+            },
+            {
+                "narration_text": "#C C puts the plate on the sink",
+                "start_frame": 1945,
+                "stop_frame": 2135
+            },
+            {
+                "narration_text": "#C C serves #unsure",
+                "start_frame": 2135,
+                "stop_frame": 4535
+            }
+        ]
+    },
+    {
+        "task_goal": "C serves the dish.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the plate on the sink",
+                "start_frame": 1945,
+                "stop_frame": 2135
+            },
+            {
+                "narration_text": "#C C serves #unsure",
+                "start_frame": 2135,
+                "stop_frame": 4535
+            },
+            {
+                "narration_text": "#C C puts together #unsure",
+                "start_frame": 4535,
+                "stop_frame": 4660
+            },
+            {
+                "narration_text": "#C C takes the lid",
+                "start_frame": 4660,
+                "stop_frame": 4703
+            },
+            {
+                "narration_text": "#C C puts the spoon in the pan",
+                "start_frame": 4703,
+                "stop_frame": 4715
+            },
+            {
+                "narration_text": "#C C covers the pan",
+                "start_frame": 4715,
+                "stop_frame": 4728
+            },
+            {
+                "narration_text": "#C C moves the plate",
+                "start_frame": 4728,
+                "stop_frame": 4740
+            },
+            {
+                "narration_text": "#C C raises his hand",
+                "start_frame": 4740,
+                "stop_frame": 4840
+            }
+        ]
+    },
+    {
+        "task_goal": "C serves the dish.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the plate on the sink",
+                "start_frame": 1945,
+                "stop_frame": 2135
+            },
+            {
+                "narration_text": "#C C serves #unsure",
+                "start_frame": 2135,
+                "stop_frame": 4535
+            },
+            {
+                "narration_text": "#C C puts together #unsure",
+                "start_frame": 4535,
+                "stop_frame": 4660
+            }
+        ]
+    },
+    {
+        "task_goal": "C puts together the served dish.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C serves #unsure",
+                "start_frame": 2135,
+                "stop_frame": 4535
+            },
+            {
+                "narration_text": "#C C puts together #unsure",
+                "start_frame": 4535,
+                "stop_frame": 4660
+            },
+            {
+                "narration_text": "#C C takes the lid",
+                "start_frame": 4660,
+                "stop_frame": 4703
+            }
+        ]
+    },
+    {
+        "task_goal": "C takes the lid to cover the pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts together #unsure",
+                "start_frame": 4535,
+                "stop_frame": 4660
+            },
+            {
+                "narration_text": "#C C takes the lid",
+                "start_frame": 4660,
+                "stop_frame": 4703
+            },
+            {
+                "narration_text": "#C C puts the spoon in the pan",
+                "start_frame": 4703,
+                "stop_frame": 4715
+            }
+        ]
+    },
+    {
+        "task_goal": "C puts the spoon in the pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes the lid",
+                "start_frame": 4660,
+                "stop_frame": 4703
+            },
+            {
+                "narration_text": "#C C puts the spoon in the pan",
+                "start_frame": 4703,
+                "stop_frame": 4715
+            },
+            {
+                "narration_text": "#C C covers the pan",
+                "start_frame": 4715,
+                "stop_frame": 4728
+            }
+        ]
+    },
+    {
+        "task_goal": "C covers the pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the spoon in the pan",
+                "start_frame": 4703,
+                "stop_frame": 4715
+            },
+            {
+                "narration_text": "#C C covers the pan",
+                "start_frame": 4715,
+                "stop_frame": 4728
+            },
+            {
+                "narration_text": "#C C moves the plate",
+                "start_frame": 4728,
+                "stop_frame": 4740
+            }
+        ]
+    },
+    {
+        "task_goal": "C moves the plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C covers the pan",
+                "start_frame": 4715,
+                "stop_frame": 4728
+            },
+            {
+                "narration_text": "#C C moves the plate",
+                "start_frame": 4728,
+                "stop_frame": 4740
+            },
+            {
+                "narration_text": "#C C raises his hand",
+                "start_frame": 4740,
+                "stop_frame": 4840
+            }
+        ]
+    },
+    {
+        "task_goal": "C raises his hand.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves the plate",
+                "start_frame": 4728,
+                "stop_frame": 4740
+            },
+            {
+                "narration_text": "#C C raises his hand",
+                "start_frame": 4740,
+                "stop_frame": 4840
+            }
+        ]
+    }
+]

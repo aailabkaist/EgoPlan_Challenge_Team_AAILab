@@ -1,0 +1,56 @@
+{
+    "overall_goal": "Serving food from a pan into multiple bowls on the kitchen worktop.",
+    "clips": [
+        {
+            "subgoal": "Setting up the bowls and preparing the pan",
+            "start_timestamp": 49,
+            "stop_timestamp": 391,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Placing a serving bowl on the worktop",
+                    "start_timestamp": 49,
+                    "stop_timestamp": 153
+                },
+                {
+                    "secondary_subgoal": "Preparing the pan by removing the lid",
+                    "start_timestamp": 153,
+                    "stop_timestamp": 391
+                }
+            ]
+        },
+        {
+            "subgoal": "Serving food from the pan into bowls",
+            "start_timestamp": 391,
+            "stop_timestamp": 1806,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Using a spoon to scoop and serve food into a bowl",
+                    "start_timestamp": 391,
+                    "stop_timestamp": 1071
+                },
+                {
+                    "secondary_subgoal": "Repeating the process of scooping food to serve in multiple bowls",
+                    "start_timestamp": 1071,
+                    "stop_timestamp": 1721
+                },
+                {
+                    "secondary_subgoal": "Final adjustments and placing the bowl back on the kitchen worktop",
+                    "start_timestamp": 1721,
+                    "stop_timestamp": 1806
+                }
+            ]
+        },
+        {
+            "subgoal": "Putting the spoon back into the pan",
+            "start_timestamp": 1806,
+            "stop_timestamp": 1839,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Putting the spoon in the pan",
+                    "start_timestamp": 1806,
+                    "stop_timestamp": 1839
+                }
+            ]
+        }
+    ]
+}

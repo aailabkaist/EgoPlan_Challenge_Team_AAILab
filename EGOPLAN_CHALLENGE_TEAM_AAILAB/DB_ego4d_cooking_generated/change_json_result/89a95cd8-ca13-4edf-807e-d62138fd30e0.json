@@ -1,0 +1,115 @@
+{
+    "overall_goal": "Prepare and cook dough-based food items (e.g., tortillas or roti) and perform associated kitchen tasks.",
+    "clips": [
+        {
+            "subgoal": "Prepare dough",
+            "start_timestamp": 93,
+            "stop_timestamp": 6448,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Light the cooker",
+                    "start_timestamp": 119,
+                    "stop_timestamp": 174
+                },
+                {
+                    "secondary_subgoal": "Pour salt into cooking pot",
+                    "start_timestamp": 412,
+                    "stop_timestamp": 634
+                },
+                {
+                    "secondary_subgoal": "Prepare flour and stir",
+                    "start_timestamp": 634,
+                    "stop_timestamp": 2220
+                },
+                {
+                    "secondary_subgoal": "Add hot water and knead dough",
+                    "start_timestamp": 2220,
+                    "stop_timestamp": 6770
+                }
+            ]
+        },
+        {
+            "subgoal": "Chop vegetables and prepare ingredients",
+            "start_timestamp": 6828,
+            "stop_timestamp": 14008,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and cover containers",
+                    "start_timestamp": 6828,
+                    "stop_timestamp": 7106
+                },
+                {
+                    "secondary_subgoal": "Pick onions",
+                    "start_timestamp": 7358,
+                    "stop_timestamp": 7491
+                },
+                {
+                    "secondary_subgoal": "Move and clean area",
+                    "start_timestamp": 7651,
+                    "stop_timestamp": 8130
+                },
+                {
+                    "secondary_subgoal": "Chop onions",
+                    "start_timestamp": 8801,
+                    "stop_timestamp": 8829
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook and prepare food",
+            "start_timestamp": 16808,
+            "stop_timestamp": 37632,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pour oil in pan and prepare vegetables",
+                    "start_timestamp": 17137,
+                    "stop_timestamp": 17621
+                },
+                {
+                    "secondary_subgoal": "Stir food and mix ingredients",
+                    "start_timestamp": 37290,
+                    "stop_timestamp": 37926
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and roll dough",
+            "start_timestamp": 43875,
+            "stop_timestamp": 59075,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle dough and roll it",
+                    "start_timestamp": 43875,
+                    "stop_timestamp": 44705
+                },
+                {
+                    "secondary_subgoal": "Mix flour and roll dough",
+                    "start_timestamp": 47029,
+                    "stop_timestamp": 49619
+                },
+                {
+                    "secondary_subgoal": "Rotate and roll dough",
+                    "start_timestamp": 49019,
+                    "stop_timestamp": 53720
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook tortillas/roti",
+            "start_timestamp": 70994,
+            "stop_timestamp": 89497,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place dough in pan and cook",
+                    "start_timestamp": 72580,
+                    "stop_timestamp": 89408
+                },
+                {
+                    "secondary_subgoal": "Adjust tortillas in the pan",
+                    "start_timestamp": 82935,
+                    "stop_timestamp": 87123
+                }
+            ]
+        }
+    ]
+}

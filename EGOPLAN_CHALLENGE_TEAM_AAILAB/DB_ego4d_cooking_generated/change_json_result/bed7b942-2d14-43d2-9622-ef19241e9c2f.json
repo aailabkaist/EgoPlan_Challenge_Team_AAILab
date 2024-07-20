@@ -1,0 +1,93 @@
+{
+    "overall_goal": "Prepare and serve food into bowls",
+    "clips": [
+        {
+            "subgoal": "Open oven and take out the bowl",
+            "start_timestamp": 0,
+            "stop_timestamp": 852,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk to the sink",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 177
+                },
+                {
+                    "secondary_subgoal": "Pick a glove",
+                    "start_timestamp": 177,
+                    "stop_timestamp": 230
+                },
+                {
+                    "secondary_subgoal": "Open the oven",
+                    "start_timestamp": 230,
+                    "stop_timestamp": 369
+                },
+                {
+                    "secondary_subgoal": "Pull a bowl out and place it on the counter",
+                    "start_timestamp": 369,
+                    "stop_timestamp": 852
+                }
+            ]
+        },
+        {
+            "subgoal": "Close the oven and return the glove",
+            "start_timestamp": 852,
+            "stop_timestamp": 1135,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Close the oven and remove the glove",
+                    "start_timestamp": 852,
+                    "stop_timestamp": 957
+                },
+                {
+                    "secondary_subgoal": "Hang the glove",
+                    "start_timestamp": 957,
+                    "stop_timestamp": 1023
+                },
+                {
+                    "secondary_subgoal": "Walk to the counter",
+                    "start_timestamp": 1023,
+                    "stop_timestamp": 1135
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir and serve food into bowls",
+            "start_timestamp": 1135,
+            "stop_timestamp": 2710,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir food",
+                    "start_timestamp": 1135,
+                    "stop_timestamp": 1541
+                },
+                {
+                    "secondary_subgoal": "Pick bowls from a rack and place on the counter",
+                    "start_timestamp": 1541,
+                    "stop_timestamp": 1577
+                },
+                {
+                    "secondary_subgoal": "Serve food into bowls with spoon and pour soup",
+                    "start_timestamp": 1577,
+                    "stop_timestamp": 2635
+                },
+                {
+                    "secondary_subgoal": "Put down the pot and spoon",
+                    "start_timestamp": 2635,
+                    "stop_timestamp": 2710
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish and clean up",
+            "start_timestamp": 2710,
+            "stop_timestamp": 2810,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Lift hands",
+                    "start_timestamp": 2710,
+                    "stop_timestamp": 2810
+                }
+            ]
+        }
+    ]
+}

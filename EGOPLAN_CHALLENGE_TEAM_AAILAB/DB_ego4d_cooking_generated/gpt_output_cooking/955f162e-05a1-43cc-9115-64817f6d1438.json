@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgwY9LLpRuYkcCxx286U2LaJh52T",
+    "object": "chat.completion",
+    "created": 1719246894,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Clean the kitchen dishes and sink\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare to wash dishes\",\n      \"start_timestamp\": 25,\n      \"stop_timestamp\": 899,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turn on the tap\",\n          \"start_timestamp\": 564,\n          \"stop_timestamp\": 628\n        },\n        {\n          \"secondary_subgoal\": \"Gather cleaning supplies\",\n          \"start_timestamp\": 734,\n          \"stop_timestamp\": 899\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Wash dishes\",\n      \"start_timestamp\": 1026,\n      \"stop_timestamp\": 3537,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash the plate\",\n          \"start_timestamp\": 1026,\n          \"stop_timestamp\": 1235\n        },\n        {\n          \"secondary_subgoal\": \"Wash and place chopsticks on rack\",\n          \"start_timestamp\": 1306,\n          \"stop_timestamp\": 1502\n        },\n        {\n          \"secondary_subgoal\": \"Wash and place plate on sink\",\n          \"start_timestamp\": 1526,\n          \"stop_timestamp\": 1702\n        },\n        {\n          \"secondary_subgoal\": \"Wash and place dish on rack\",\n          \"start_timestamp\": 1768,\n          \"stop_timestamp\": 3537\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean and dry sink\",\n      \"start_timestamp\": 3621,\n      \"stop_timestamp\": 4994,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Scrub the sink\",\n          \"start_timestamp\": 3621,\n          \"stop_timestamp\": 4922\n        },\n        {\n          \"secondary_subgoal\": \"Put the wiping cloth on the rack\",\n          \"start_timestamp\": 4922,\n          \"stop_timestamp\": 4994\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up\",\n      \"start_timestamp\": 5061,\n      \"stop_timestamp\": 5500,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wipe hands with tissue\",\n          \"start_timestamp\": 5061,\n          \"stop_timestamp\": 5101\n        },\n        {\n          \"secondary_subgoal\": \"Wipe the sink\",\n          \"start_timestamp\": 5101,\n          \"stop_timestamp\": 5474\n        },\n        {\n          \"secondary_subgoal\": \"Dispose of tissue in paper bag\",\n          \"start_timestamp\": 5474,\n          \"stop_timestamp\": 5500\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 931,
+        "completion_tokens": 569,
+        "total_tokens": 1500
+    },
+    "system_fingerprint": "fp_5e6c71d4a8"
+}

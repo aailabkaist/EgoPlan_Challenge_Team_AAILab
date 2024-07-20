@@ -1,0 +1,861 @@
+[
+    {
+        "task_goal": "Washing hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 12,
+                "stop_frame": 61
+            },
+            {
+                "narration_text": "#C C washes the hands",
+                "start_frame": 61,
+                "stop_frame": 106
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 106,
+                "stop_frame": 204
+            },
+            {
+                "narration_text": "#C C opens the door",
+                "start_frame": 204,
+                "stop_frame": 340
+            }
+        ]
+    },
+    {
+        "task_goal": "Open tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 12,
+                "stop_frame": 61
+            },
+            {
+                "narration_text": "#C C washes the hands",
+                "start_frame": 61,
+                "stop_frame": 106
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 12,
+                "stop_frame": 61
+            },
+            {
+                "narration_text": "#C C washes the hands",
+                "start_frame": 61,
+                "stop_frame": 106
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 106,
+                "stop_frame": 204
+            }
+        ]
+    },
+    {
+        "task_goal": "Close tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C washes the hands",
+                "start_frame": 61,
+                "stop_frame": 106
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 106,
+                "stop_frame": 204
+            },
+            {
+                "narration_text": "#C C opens the door",
+                "start_frame": 204,
+                "stop_frame": 340
+            }
+        ]
+    },
+    {
+        "task_goal": "Gathering ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 106,
+                "stop_frame": 204
+            },
+            {
+                "narration_text": "#C C opens the door",
+                "start_frame": 204,
+                "stop_frame": 340
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 340,
+                "stop_frame": 487
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 487,
+                "stop_frame": 548
+            },
+            {
+                "narration_text": "#C C picks the #unsure",
+                "start_frame": 548,
+                "stop_frame": 830
+            },
+            {
+                "narration_text": "#C C closes the drawer",
+                "start_frame": 830,
+                "stop_frame": 880
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 880,
+                "stop_frame": 916
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 916,
+                "stop_frame": 944
+            },
+            {
+                "narration_text": "#C C picks the shopping bag",
+                "start_frame": 944,
+                "stop_frame": 994
+            },
+            {
+                "narration_text": "#C C opens the shopping bag",
+                "start_frame": 994,
+                "stop_frame": 1035
+            },
+            {
+                "narration_text": "#C C picks the cabbage",
+                "start_frame": 1035,
+                "stop_frame": 1089
+            },
+            {
+                "narration_text": "#C C drops the shopping bag",
+                "start_frame": 1089,
+                "stop_frame": 1116
+            },
+            {
+                "narration_text": "#C C picks the shopping bag",
+                "start_frame": 1116,
+                "stop_frame": 1153
+            },
+            {
+                "narration_text": "#C C drops the shopping bag",
+                "start_frame": 1153,
+                "stop_frame": 1168
+            },
+            {
+                "narration_text": "#C C closes the drawer",
+                "start_frame": 1168,
+                "stop_frame": 1202
+            },
+            {
+                "narration_text": "#C C drops the cabbage",
+                "start_frame": 1202,
+                "stop_frame": 1406
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and close fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the door",
+                "start_frame": 204,
+                "stop_frame": 340
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 340,
+                "stop_frame": 487
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 487,
+                "stop_frame": 548
+            },
+            {
+                "narration_text": "#C C picks the #unsure",
+                "start_frame": 548,
+                "stop_frame": 830
+            },
+            {
+                "narration_text": "#C C closes the drawer",
+                "start_frame": 830,
+                "stop_frame": 880
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 880,
+                "stop_frame": 916
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 916,
+                "stop_frame": 944
+            }
+        ]
+    },
+    {
+        "task_goal": "Open drawer, pick and drop shopping bag and ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 880,
+                "stop_frame": 916
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 916,
+                "stop_frame": 944
+            },
+            {
+                "narration_text": "#C C picks the shopping bag",
+                "start_frame": 944,
+                "stop_frame": 994
+            },
+            {
+                "narration_text": "#C C opens the shopping bag",
+                "start_frame": 994,
+                "stop_frame": 1035
+            },
+            {
+                "narration_text": "#C C picks the cabbage",
+                "start_frame": 1035,
+                "stop_frame": 1089
+            },
+            {
+                "narration_text": "#C C drops the shopping bag",
+                "start_frame": 1089,
+                "stop_frame": 1116
+            },
+            {
+                "narration_text": "#C C picks the shopping bag",
+                "start_frame": 1116,
+                "stop_frame": 1153
+            },
+            {
+                "narration_text": "#C C drops the shopping bag",
+                "start_frame": 1153,
+                "stop_frame": 1168
+            },
+            {
+                "narration_text": "#C C closes the drawer",
+                "start_frame": 1168,
+                "stop_frame": 1202
+            },
+            {
+                "narration_text": "#C C drops the cabbage",
+                "start_frame": 1202,
+                "stop_frame": 1406
+            },
+            {
+                "narration_text": "#C C picks the bowl",
+                "start_frame": 1406,
+                "stop_frame": 1437
+            },
+            {
+                "narration_text": "#C C drops the bowl",
+                "start_frame": 1437,
+                "stop_frame": 1523
+            }
+        ]
+    },
+    {
+        "task_goal": "Move items and collect cabbage",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the bowl",
+                "start_frame": 1406,
+                "stop_frame": 1437
+            },
+            {
+                "narration_text": "#C C drops the bowl",
+                "start_frame": 1437,
+                "stop_frame": 1523
+            },
+            {
+                "narration_text": "#C C moves the packed meat",
+                "start_frame": 1523,
+                "stop_frame": 1543
+            },
+            {
+                "narration_text": "#C C picks the chopping board",
+                "start_frame": 1543,
+                "stop_frame": 1586
+            },
+            {
+                "narration_text": "#C C drops the chopping board",
+                "start_frame": 1586,
+                "stop_frame": 1724
+            },
+            {
+                "narration_text": "#C C picks the knife",
+                "start_frame": 1724,
+                "stop_frame": 1789
+            },
+            {
+                "narration_text": "#C C drops the fire",
+                "start_frame": 1789,
+                "stop_frame": 1809
+            },
+            {
+                "narration_text": "#C C picks the cabbage",
+                "start_frame": 1809,
+                "stop_frame": 1910
+            },
+            {
+                "narration_text": "#C C drops the paper",
+                "start_frame": 1910,
+                "stop_frame": 2008
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash cabbage",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the cabbage",
+                "start_frame": 1809,
+                "stop_frame": 1910
+            },
+            {
+                "narration_text": "#C C drops the paper",
+                "start_frame": 1910,
+                "stop_frame": 2008
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 2008,
+                "stop_frame": 2156
+            },
+            {
+                "narration_text": "#C C washes the cabbage",
+                "start_frame": 2156,
+                "stop_frame": 2262
+            },
+            {
+                "narration_text": "#C C peels the cabbage",
+                "start_frame": 2262,
+                "stop_frame": 2273
+            },
+            {
+                "narration_text": "#C C drops the cabbage",
+                "start_frame": 2273,
+                "stop_frame": 2326
+            },
+            {
+                "narration_text": "#C C peels the cabbages",
+                "start_frame": 2326,
+                "stop_frame": 2381
+            }
+        ]
+    },
+    {
+        "task_goal": "Peel cabbage multiple times",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C drops the cabbage",
+                "start_frame": 2273,
+                "stop_frame": 2326
+            },
+            {
+                "narration_text": "#C C peels the cabbages",
+                "start_frame": 2326,
+                "stop_frame": 2381
+            },
+            {
+                "narration_text": "#C C drops the cabbage",
+                "start_frame": 2381,
+                "stop_frame": 2421
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 2421,
+                "stop_frame": 2472
+            },
+            {
+                "narration_text": "#C C peels the cabbages",
+                "start_frame": 2472,
+                "stop_frame": 2500
+            },
+            {
+                "narration_text": "#C C drops the cabbages",
+                "start_frame": 2500,
+                "stop_frame": 2579
+            },
+            {
+                "narration_text": "#C C peels the cabbages",
+                "start_frame": 2579,
+                "stop_frame": 2609
+            },
+            {
+                "narration_text": "#C C drops the cabbages",
+                "start_frame": 2609,
+                "stop_frame": 2669
+            },
+            {
+                "narration_text": "#C C peels the cabbages",
+                "start_frame": 2669,
+                "stop_frame": 2694
+            },
+            {
+                "narration_text": "#C C drops the cabbages",
+                "start_frame": 2694,
+                "stop_frame": 2754
+            },
+            {
+                "narration_text": "#C C drops the cabbages",
+                "start_frame": 2754,
+                "stop_frame": 2782
+            },
+            {
+                "narration_text": "#C C washes the cabbages",
+                "start_frame": 2782,
+                "stop_frame": 2948
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash cabbage",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C drops the cabbages",
+                "start_frame": 2754,
+                "stop_frame": 2782
+            },
+            {
+                "narration_text": "#C C washes the cabbages",
+                "start_frame": 2782,
+                "stop_frame": 2948
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 2948,
+                "stop_frame": 3036
+            },
+            {
+                "narration_text": "#C C closes the drawer",
+                "start_frame": 3036,
+                "stop_frame": 3073
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and close drawers, pick items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 2948,
+                "stop_frame": 3036
+            },
+            {
+                "narration_text": "#C C closes the drawer",
+                "start_frame": 3036,
+                "stop_frame": 3073
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 3073,
+                "stop_frame": 3107
+            },
+            {
+                "narration_text": "#C C closes the drawer",
+                "start_frame": 3107,
+                "stop_frame": 3222
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 3222,
+                "stop_frame": 3259
+            },
+            {
+                "narration_text": "#C C closes the drawer",
+                "start_frame": 3259,
+                "stop_frame": 3291
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 3291,
+                "stop_frame": 3411
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 3411,
+                "stop_frame": 3462
+            },
+            {
+                "narration_text": "#C C picks the pan",
+                "start_frame": 3462,
+                "stop_frame": 3528
+            }
+        ]
+    },
+    {
+        "task_goal": "Select cooking utensils and prepare meat",
+        "task_progress_metadata": []
+    },
+    {
+        "task_goal": "Wash hands and pour cooking oil",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 4463,
+                "stop_frame": 4480
+            },
+            {
+                "narration_text": "#C C washes the hands",
+                "start_frame": 4480,
+                "stop_frame": 4510
+            },
+            {
+                "narration_text": "#C C closes the tap",
+                "start_frame": 4510,
+                "stop_frame": 4600
+            },
+            {
+                "narration_text": "#C C picks the cooking oil",
+                "start_frame": 4600,
+                "stop_frame": 4685
+            },
+            {
+                "narration_text": "#C C opens the cooking oil",
+                "start_frame": 4685,
+                "stop_frame": 4706
+            },
+            {
+                "narration_text": "#C C pours the cooking oil",
+                "start_frame": 4706,
+                "stop_frame": 4767
+            },
+            {
+                "narration_text": "#C C closes the cooking oil",
+                "start_frame": 4767,
+                "stop_frame": 4806
+            },
+            {
+                "narration_text": "#C C drops the cooking oil",
+                "start_frame": 4806,
+                "stop_frame": 4860
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 4860,
+                "stop_frame": 5048
+            }
+        ]
+    },
+    {
+        "task_goal": "Get more items from fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C drops the cooking oil",
+                "start_frame": 4806,
+                "stop_frame": 4860
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 4860,
+                "stop_frame": 5048
+            },
+            {
+                "narration_text": "#C C picks the #unsure",
+                "start_frame": 5048,
+                "stop_frame": 5137
+            },
+            {
+                "narration_text": "#C C pours the #unsure",
+                "start_frame": 5137,
+                "stop_frame": 5226
+            },
+            {
+                "narration_text": "#C C covers the #unsure",
+                "start_frame": 5226,
+                "stop_frame": 5286
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir food and regulate fire",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pours the #unsure",
+                "start_frame": 5137,
+                "stop_frame": 5226
+            },
+            {
+                "narration_text": "#C C covers the #unsure",
+                "start_frame": 5226,
+                "stop_frame": 5286
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 5286,
+                "stop_frame": 5300
+            },
+            {
+                "narration_text": "#C C drops the #unsure",
+                "start_frame": 5300,
+                "stop_frame": 5416
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 5416,
+                "stop_frame": 5471
+            },
+            {
+                "narration_text": "#C C picks the chop sticks",
+                "start_frame": 5471,
+                "stop_frame": 5522
+            },
+            {
+                "narration_text": "#C C drops the chopsticks",
+                "start_frame": 5522,
+                "stop_frame": 5585
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 5585,
+                "stop_frame": 5627
+            },
+            {
+                "narration_text": "#C C regulates the fire",
+                "start_frame": 5627,
+                "stop_frame": 5661
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 5661,
+                "stop_frame": 5963
+            },
+            {
+                "narration_text": "#C C drops the chop sticks",
+                "start_frame": 5963,
+                "stop_frame": 6003
+            },
+            {
+                "narration_text": "#C C picks the cabbages",
+                "start_frame": 6003,
+                "stop_frame": 6210
+            },
+            {
+                "narration_text": "#C C drops the cabbages",
+                "start_frame": 6210,
+                "stop_frame": 6467
+            }
+        ]
+    },
+    {
+        "task_goal": "Add oil and other ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stirs the food with a chopping stick",
+                "start_frame": 13046,
+                "stop_frame": 13191
+            },
+            {
+                "narration_text": "#C C puts the pan lid in the sink",
+                "start_frame": 13191,
+                "stop_frame": 13283
+            },
+            {
+                "narration_text": "#C C opens the kitchen cabinet",
+                "start_frame": 13283,
+                "stop_frame": 13370
+            },
+            {
+                "narration_text": "#C C picks the Cooking oil in the kitchen cabinet",
+                "start_frame": 13370,
+                "stop_frame": 13407
+            },
+            {
+                "narration_text": "#C C adds the Cooking oil in the food",
+                "start_frame": 13407,
+                "stop_frame": 13504
+            },
+            {
+                "narration_text": "#C C puts the cooking oil in the kitchen drawer",
+                "start_frame": 13504,
+                "stop_frame": 13545
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 13545,
+                "stop_frame": 13586
+            },
+            {
+                "narration_text": "#C C picks #unsure in the fridge",
+                "start_frame": 13586,
+                "stop_frame": 13619
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 13619,
+                "stop_frame": 13664
+            },
+            {
+                "narration_text": "#C C adds #unsure in the food",
+                "start_frame": 13664,
+                "stop_frame": 13734
+            },
+            {
+                "narration_text": "#C C stirs the food with a chopping stick",
+                "start_frame": 13734,
+                "stop_frame": 13763
+            },
+            {
+                "narration_text": "#C C puts #unsure on the countertop",
+                "start_frame": 13763,
+                "stop_frame": 13792
+            },
+            {
+                "narration_text": "#C C stirs the food with a chopping stick",
+                "start_frame": 13792,
+                "stop_frame": 14306
+            },
+            {
+                "narration_text": "#C C opens the kitchen cabinet",
+                "start_frame": 14306,
+                "stop_frame": 14368
+            },
+            {
+                "narration_text": "#C C picks the bowl in the kitchen cabinet",
+                "start_frame": 14368,
+                "stop_frame": 14400
+            },
+            {
+                "narration_text": "#C C closes the kitchen cabinet",
+                "start_frame": 14400,
+                "stop_frame": 14446
+            },
+            {
+                "narration_text": "#C C puts the bowl on the countertop",
+                "start_frame": 14446,
+                "stop_frame": 14497
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C serves the food with a chopping stick",
+                "start_frame": 15034,
+                "stop_frame": 15288
+            },
+            {
+                "narration_text": "#C C puts the pan on the cooking gas",
+                "start_frame": 15288,
+                "stop_frame": 15320
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing utensils and kitchen tools",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts #unsure on the countertop",
+                "start_frame": 15671,
+                "stop_frame": 15744
+            },
+            {
+                "narration_text": "#C C holds the water tap handle",
+                "start_frame": 15744,
+                "stop_frame": 15782
+            },
+            {
+                "narration_text": "#C C holds the pan lid in the sink",
+                "start_frame": 15782,
+                "stop_frame": 15817
+            },
+            {
+                "narration_text": "#C C switches on the water tap handle",
+                "start_frame": 15817,
+                "stop_frame": 15826
+            },
+            {
+                "narration_text": "#C C washes the pan lid in the sink",
+                "start_frame": 15826,
+                "stop_frame": 15928
+            },
+            {
+                "narration_text": "#C C puts the pan lid in the sink",
+                "start_frame": 15928,
+                "stop_frame": 16003
+            },
+            {
+                "narration_text": "#C C puts #unsure on the laptop",
+                "start_frame": 16003,
+                "stop_frame": 16052
+            },
+            {
+                "narration_text": "#C C picks dish soap on the sink",
+                "start_frame": 16052,
+                "stop_frame": 16093
+            },
+            {
+                "narration_text": "#C C puts the dish soap on the sponge",
+                "start_frame": 16093,
+                "stop_frame": 16166
+            },
+            {
+                "narration_text": "#C C puts dish soap on the sink",
+                "start_frame": 16166,
+                "stop_frame": 16179
+            },
+            {
+                "narration_text": "#C C washes the pan lid in the sink",
+                "start_frame": 16179,
+                "stop_frame": 16441
+            },
+            {
+                "narration_text": "#C C washes the bowl in the sink",
+                "start_frame": 16441,
+                "stop_frame": 16485
+            },
+            {
+                "narration_text": "#C C puts the bowl in the sink",
+                "start_frame": 16485,
+                "stop_frame": 16497
+            },
+            {
+                "narration_text": "#C C washes the bowl in the sink",
+                "start_frame": 16497,
+                "stop_frame": 16643
+            },
+            {
+                "narration_text": "#C C switches on the water tap handle",
+                "start_frame": 16643,
+                "stop_frame": 16650
+            },
+            {
+                "narration_text": "#C C rinses the stainless bowl",
+                "start_frame": 16650,
+                "stop_frame": 16933
+            },
+            {
+                "narration_text": "#C C closes the tap water",
+                "start_frame": 16933,
+                "stop_frame": 17016
+            },
+            {
+                "narration_text": "#C C places the stainless bowl on the kitchen top surface",
+                "start_frame": 17016,
+                "stop_frame": 17034
+            },
+            {
+                "narration_text": "#C C picks the stainless bowl",
+                "start_frame": 17034,
+                "stop_frame": 17050
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+{
+    "overall_goal": "Preparing and cleaning fish for cooking",
+    "clips": [
+        {
+            "subgoal": "Cutting and cleaning silver cyprinid fish",
+            "start_timestamp": 0,
+            "stop_timestamp": 8582,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cutting and processing silver cyprinid fish",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 8582
+                }
+            ]
+        },
+        {
+            "subgoal": "Cutting and cleaning sardines",
+            "start_timestamp": 8675,
+            "stop_timestamp": 16691,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cutting and processing sardines",
+                    "start_timestamp": 8675,
+                    "stop_timestamp": 16691
+                }
+            ]
+        },
+        {
+            "subgoal": "Cutting and cleaning larger fish",
+            "start_timestamp": 16691,
+            "stop_timestamp": 22667,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cutting and processing larger fish",
+                    "start_timestamp": 16691,
+                    "stop_timestamp": 22667
+                }
+            ]
+        },
+        {
+            "subgoal": "Final cleaning and organization",
+            "start_timestamp": 22706,
+            "stop_timestamp": 36343,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning fish and utensils",
+                    "start_timestamp": 22706,
+                    "stop_timestamp": 35590
+                },
+                {
+                    "secondary_subgoal": "Walking inside house and organizing utensils",
+                    "start_timestamp": 35590,
+                    "stop_timestamp": 36343
+                }
+            ]
+        }
+    ]
+}

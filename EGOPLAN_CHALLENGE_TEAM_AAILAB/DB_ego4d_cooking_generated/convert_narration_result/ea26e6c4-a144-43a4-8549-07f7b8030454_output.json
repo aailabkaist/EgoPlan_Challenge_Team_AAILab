@@ -1,0 +1,842 @@
+[
+    {
+        "task_goal": "Pick and open the drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Hangs the colander",
+                "start_frame": 1,
+                "stop_frame": 52
+            },
+            {
+                "narration_text": "Picks the chopsticks",
+                "start_frame": 52,
+                "stop_frame": 132
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 132,
+                "stop_frame": 155
+            },
+            {
+                "narration_text": "Puts the chopsticks in the drawer",
+                "start_frame": 155,
+                "stop_frame": 216
+            }
+        ]
+    },
+    {
+        "task_goal": "Put chopsticks in the drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 132,
+                "stop_frame": 155
+            },
+            {
+                "narration_text": "Puts the chopsticks in the drawer",
+                "start_frame": 155,
+                "stop_frame": 216
+            },
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 216,
+                "stop_frame": 285
+            }
+        ]
+    },
+    {
+        "task_goal": "Organize bowls and glass in the cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the chopsticks in the drawer",
+                "start_frame": 155,
+                "stop_frame": 216
+            },
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 216,
+                "stop_frame": 285
+            },
+            {
+                "narration_text": "Picks the chopstick",
+                "start_frame": 285,
+                "stop_frame": 353
+            },
+            {
+                "narration_text": "Picks the glass",
+                "start_frame": 353,
+                "stop_frame": 415
+            },
+            {
+                "narration_text": "Puts the glass in the cabinet",
+                "start_frame": 415,
+                "stop_frame": 491
+            },
+            {
+                "narration_text": "Picks the bowl",
+                "start_frame": 491,
+                "stop_frame": 538
+            },
+            {
+                "narration_text": "Picks the bowl",
+                "start_frame": 538,
+                "stop_frame": 552
+            },
+            {
+                "narration_text": "Puts the bowls on the washing machine",
+                "start_frame": 552,
+                "stop_frame": 596
+            },
+            {
+                "narration_text": "Pics the cutleries",
+                "start_frame": 596,
+                "stop_frame": 639
+            },
+            {
+                "narration_text": "Moves to the drawer",
+                "start_frame": 639,
+                "stop_frame": 709
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and open the cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the chopsticks in the drawer",
+                "start_frame": 155,
+                "stop_frame": 216
+            },
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 216,
+                "stop_frame": 285
+            },
+            {
+                "narration_text": "Picks the chopstick",
+                "start_frame": 285,
+                "stop_frame": 353
+            },
+            {
+                "narration_text": "Picks the glass",
+                "start_frame": 353,
+                "stop_frame": 415
+            }
+        ]
+    },
+    {
+        "task_goal": "Put the glass in the cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the chopstick",
+                "start_frame": 285,
+                "stop_frame": 353
+            },
+            {
+                "narration_text": "Picks the glass",
+                "start_frame": 353,
+                "stop_frame": 415
+            },
+            {
+                "narration_text": "Puts the glass in the cabinet",
+                "start_frame": 415,
+                "stop_frame": 491
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and put the bowl on the washing machine",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the glass in the cabinet",
+                "start_frame": 415,
+                "stop_frame": 491
+            },
+            {
+                "narration_text": "Picks the bowl",
+                "start_frame": 491,
+                "stop_frame": 538
+            },
+            {
+                "narration_text": "Picks the bowl",
+                "start_frame": 538,
+                "stop_frame": 552
+            },
+            {
+                "narration_text": "Puts the bowls on the washing machine",
+                "start_frame": 552,
+                "stop_frame": 596
+            },
+            {
+                "narration_text": "Pics the cutleries",
+                "start_frame": 596,
+                "stop_frame": 639
+            }
+        ]
+    },
+    {
+        "task_goal": "Store cutleries in the drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pics the cutleries",
+                "start_frame": 596,
+                "stop_frame": 639
+            },
+            {
+                "narration_text": "Moves to the drawer",
+                "start_frame": 639,
+                "stop_frame": 709
+            },
+            {
+                "narration_text": "Pulls the drawer",
+                "start_frame": 709,
+                "stop_frame": 752
+            },
+            {
+                "narration_text": "Puts the stick unsure in the drawer",
+                "start_frame": 752,
+                "stop_frame": 803
+            },
+            {
+                "narration_text": "Puts the chopsticks in the drawer",
+                "start_frame": 803,
+                "stop_frame": 841
+            },
+            {
+                "narration_text": "Puts the scissors in the drawer",
+                "start_frame": 841,
+                "stop_frame": 870
+            },
+            {
+                "narration_text": "Puts the spoons in the drawer",
+                "start_frame": 870,
+                "stop_frame": 968
+            },
+            {
+                "narration_text": "Picks the scoop",
+                "start_frame": 968,
+                "stop_frame": 978
+            },
+            {
+                "narration_text": "Drops the scoop",
+                "start_frame": 978,
+                "stop_frame": 998
+            },
+            {
+                "narration_text": "Picks the scoop",
+                "start_frame": 998,
+                "stop_frame": 1009
+            },
+            {
+                "narration_text": "Drops the scoop",
+                "start_frame": 1009,
+                "stop_frame": 1031
+            },
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 1031,
+                "stop_frame": 1063
+            },
+            {
+                "narration_text": "Moves to the washing machine",
+                "start_frame": 1063,
+                "stop_frame": 1119
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and open the drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pics the cutleries",
+                "start_frame": 596,
+                "stop_frame": 639
+            },
+            {
+                "narration_text": "Moves to the drawer",
+                "start_frame": 639,
+                "stop_frame": 709
+            },
+            {
+                "narration_text": "Pulls the drawer",
+                "start_frame": 709,
+                "stop_frame": 752
+            }
+        ]
+    },
+    {
+        "task_goal": "Put cutleries in the drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves to the drawer",
+                "start_frame": 639,
+                "stop_frame": 709
+            },
+            {
+                "narration_text": "Pulls the drawer",
+                "start_frame": 709,
+                "stop_frame": 752
+            },
+            {
+                "narration_text": "Puts the stick unsure in the drawer",
+                "start_frame": 752,
+                "stop_frame": 803
+            },
+            {
+                "narration_text": "Puts the chopsticks in the drawer",
+                "start_frame": 803,
+                "stop_frame": 841
+            },
+            {
+                "narration_text": "Puts the scissors in the drawer",
+                "start_frame": 841,
+                "stop_frame": 870
+            },
+            {
+                "narration_text": "Puts the spoons in the drawer",
+                "start_frame": 870,
+                "stop_frame": 968
+            },
+            {
+                "narration_text": "Picks the scoop",
+                "start_frame": 968,
+                "stop_frame": 978
+            }
+        ]
+    },
+    {
+        "task_goal": "Organize dishes and mugs in the cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the dish",
+                "start_frame": 1119,
+                "stop_frame": 1142
+            },
+            {
+                "narration_text": "Picks the mug",
+                "start_frame": 1142,
+                "stop_frame": 1152
+            },
+            {
+                "narration_text": "Moves to the cabinet",
+                "start_frame": 1152,
+                "stop_frame": 1181
+            },
+            {
+                "narration_text": "Puts the mug in the cabinet",
+                "start_frame": 1181,
+                "stop_frame": 1239
+            },
+            {
+                "narration_text": "Puts the dish in the cabinet",
+                "start_frame": 1239,
+                "stop_frame": 1322
+            },
+            {
+                "narration_text": "Picks the bowl",
+                "start_frame": 1322,
+                "stop_frame": 1347
+            },
+            {
+                "narration_text": "Picks the mug lid",
+                "start_frame": 1347,
+                "stop_frame": 1370
+            },
+            {
+                "narration_text": "Moves to the cabinet",
+                "start_frame": 1370,
+                "stop_frame": 1388
+            },
+            {
+                "narration_text": "Puts the bowl in the cabinet",
+                "start_frame": 1388,
+                "stop_frame": 1414
+            },
+            {
+                "narration_text": "Puts the mug lid in the cabinet",
+                "start_frame": 1414,
+                "stop_frame": 1444
+            },
+            {
+                "narration_text": "Moves to the machine",
+                "start_frame": 1444,
+                "stop_frame": 1472
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and open the cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the dish",
+                "start_frame": 1119,
+                "stop_frame": 1142
+            },
+            {
+                "narration_text": "Picks the mug",
+                "start_frame": 1142,
+                "stop_frame": 1152
+            },
+            {
+                "narration_text": "Moves to the cabinet",
+                "start_frame": 1152,
+                "stop_frame": 1181
+            },
+            {
+                "narration_text": "Puts the mug in the cabinet",
+                "start_frame": 1181,
+                "stop_frame": 1239
+            },
+            {
+                "narration_text": "Puts the dish in the cabinet",
+                "start_frame": 1239,
+                "stop_frame": 1322
+            }
+        ]
+    },
+    {
+        "task_goal": "Put dishes and lids in the cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the mug in the cabinet",
+                "start_frame": 1181,
+                "stop_frame": 1239
+            },
+            {
+                "narration_text": "Puts the dish in the cabinet",
+                "start_frame": 1239,
+                "stop_frame": 1322
+            },
+            {
+                "narration_text": "Picks the bowl",
+                "start_frame": 1322,
+                "stop_frame": 1347
+            },
+            {
+                "narration_text": "Picks the mug lid",
+                "start_frame": 1347,
+                "stop_frame": 1370
+            },
+            {
+                "narration_text": "Moves to the cabinet",
+                "start_frame": 1370,
+                "stop_frame": 1388
+            },
+            {
+                "narration_text": "Puts the bowl in the cabinet",
+                "start_frame": 1388,
+                "stop_frame": 1414
+            },
+            {
+                "narration_text": "Puts the mug lid in the cabinet",
+                "start_frame": 1414,
+                "stop_frame": 1444
+            },
+            {
+                "narration_text": "Moves to the machine",
+                "start_frame": 1444,
+                "stop_frame": 1472
+            }
+        ]
+    },
+    {
+        "task_goal": "Graze and rinse kitchen tools",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the water tap",
+                "start_frame": 1971,
+                "stop_frame": 2010
+            },
+            {
+                "narration_text": "Rinses the presser",
+                "start_frame": 2010,
+                "stop_frame": 2071
+            },
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 2071,
+                "stop_frame": 2111
+            },
+            {
+                "narration_text": "Lifts the tray",
+                "start_frame": 2111,
+                "stop_frame": 2117
+            },
+            {
+                "narration_text": "Puts the presser in the machine",
+                "start_frame": 2117,
+                "stop_frame": 2165
+            },
+            {
+                "narration_text": "Picks the bottle",
+                "start_frame": 2165,
+                "stop_frame": 2196
+            },
+            {
+                "narration_text": "Picks the glass",
+                "start_frame": 2196,
+                "stop_frame": 2250
+            },
+            {
+                "narration_text": "Puts the bottle in the machine",
+                "start_frame": 2250,
+                "stop_frame": 2355
+            },
+            {
+                "narration_text": "Puts the glass in the machine",
+                "start_frame": 2355,
+                "stop_frame": 2391
+            },
+            {
+                "narration_text": "Picks the chopping stick",
+                "start_frame": 2391,
+                "stop_frame": 2398
+            },
+            {
+                "narration_text": "Drops the chopping stick",
+                "start_frame": 2398,
+                "stop_frame": 2417
+            },
+            {
+                "narration_text": "Picks the bowl",
+                "start_frame": 2417,
+                "stop_frame": 2420
+            },
+            {
+                "narration_text": "Pours the water from the bowl",
+                "start_frame": 2420,
+                "stop_frame": 2455
+            },
+            {
+                "narration_text": "Drops the bowl",
+                "start_frame": 2455,
+                "stop_frame": 2473
+            },
+            {
+                "narration_text": "Picks the spoon",
+                "start_frame": 2473,
+                "stop_frame": 2519
+            },
+            {
+                "narration_text": "Picks the chopstick",
+                "start_frame": 2519,
+                "stop_frame": 2574
+            },
+            {
+                "narration_text": "Picks the spoon",
+                "start_frame": 2574,
+                "stop_frame": 2612
+            },
+            {
+                "narration_text": "Puts the spoon in the machine",
+                "start_frame": 2612,
+                "stop_frame": 2698
+            },
+            {
+                "narration_text": "Puts the chopstick in the machine",
+                "start_frame": 2698,
+                "stop_frame": 2831
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse the presser",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rinses the presser",
+                "start_frame": 2010,
+                "stop_frame": 2071
+            },
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 2071,
+                "stop_frame": 2111
+            },
+            {
+                "narration_text": "Lifts the tray",
+                "start_frame": 2111,
+                "stop_frame": 2117
+            }
+        ]
+    },
+    {
+        "task_goal": "Put tools in the machine",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the presser in the machine",
+                "start_frame": 2117,
+                "stop_frame": 2165
+            },
+            {
+                "narration_text": "Picks the bottle",
+                "start_frame": 2165,
+                "stop_frame": 2196
+            },
+            {
+                "narration_text": "Picks the glass",
+                "start_frame": 2196,
+                "stop_frame": 2250
+            },
+            {
+                "narration_text": "Puts the bottle in the machine",
+                "start_frame": 2250,
+                "stop_frame": 2355
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and rinse kitchen tools",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves to the counter",
+                "start_frame": 3605,
+                "stop_frame": 3666
+            },
+            {
+                "narration_text": "Picks the bowl",
+                "start_frame": 3666,
+                "stop_frame": 3695
+            },
+            {
+                "narration_text": "Moves to the machine",
+                "start_frame": 3695,
+                "stop_frame": 3714
+            },
+            {
+                "narration_text": "Puts the bowl in the machine",
+                "start_frame": 3714,
+                "stop_frame": 3765
+            },
+            {
+                "narration_text": "Moves to the counter",
+                "start_frame": 3765,
+                "stop_frame": 3815
+            }
+        ]
+    },
+    {
+        "task_goal": "Organize chopping board and jars",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves to the counter",
+                "start_frame": 3765,
+                "stop_frame": 3815
+            },
+            {
+                "narration_text": "Picks the chopping board",
+                "start_frame": 3815,
+                "stop_frame": 3871
+            },
+            {
+                "narration_text": "Puts the chopping board in the sink",
+                "start_frame": 3871,
+                "stop_frame": 3908
+            },
+            {
+                "narration_text": "Picks the lid",
+                "start_frame": 3908,
+                "stop_frame": 3927
+            },
+            {
+                "narration_text": "Picks the jar lid",
+                "start_frame": 3927,
+                "stop_frame": 3961
+            },
+            {
+                "narration_text": "Closes the jar",
+                "start_frame": 3961,
+                "stop_frame": 4104
+            },
+            {
+                "narration_text": "Picks the bottle",
+                "start_frame": 4104,
+                "stop_frame": 4115
+            },
+            {
+                "narration_text": "Moves to the fridge",
+                "start_frame": 4115,
+                "stop_frame": 4147
+            },
+            {
+                "narration_text": "Opens the fridge",
+                "start_frame": 4147,
+                "stop_frame": 4178
+            },
+            {
+                "narration_text": "Puts the bottle in the fridge",
+                "start_frame": 4178,
+                "stop_frame": 4201
+            },
+            {
+                "narration_text": "Puts the jar in the fridge",
+                "start_frame": 4201,
+                "stop_frame": 4237
+            },
+            {
+                "narration_text": "Closes the fridge",
+                "start_frame": 4237,
+                "stop_frame": 4261
+            },
+            {
+                "narration_text": "Moves to the counter",
+                "start_frame": 4261,
+                "stop_frame": 4283
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash chopping board and plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the sponge",
+                "start_frame": 4383,
+                "stop_frame": 4471
+            },
+            {
+                "narration_text": "Picks the chopping board",
+                "start_frame": 4471,
+                "stop_frame": 4488
+            },
+            {
+                "narration_text": "Washes the chopping board",
+                "start_frame": 4488,
+                "stop_frame": 4592
+            },
+            {
+                "narration_text": "Drops the sponge",
+                "start_frame": 4592,
+                "stop_frame": 4608
+            },
+            {
+                "narration_text": "Rinses the chopping board",
+                "start_frame": 4608,
+                "stop_frame": 4760
+            },
+            {
+                "narration_text": "Puts the chopping board in the stand",
+                "start_frame": 4760,
+                "stop_frame": 4796
+            },
+            {
+                "narration_text": "Picks the plate",
+                "start_frame": 4796,
+                "stop_frame": 4801
+            },
+            {
+                "narration_text": "Pours the water from the plate",
+                "start_frame": 4801,
+                "stop_frame": 4821
+            },
+            {
+                "narration_text": "Picks the sponge",
+                "start_frame": 4821,
+                "stop_frame": 4844
+            },
+            {
+                "narration_text": "Washes the plate",
+                "start_frame": 4844,
+                "stop_frame": 4927
+            },
+            {
+                "narration_text": "Drops the sponge",
+                "start_frame": 4927,
+                "stop_frame": 4940
+            },
+            {
+                "narration_text": "Rinses the plate",
+                "start_frame": 4940,
+                "stop_frame": 5065
+            },
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 5065,
+                "stop_frame": 5086
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the knives in the machine",
+                "start_frame": 5189,
+                "stop_frame": 5232
+            },
+            {
+                "narration_text": "Picks the cooking stick",
+                "start_frame": 5232,
+                "stop_frame": 5246
+            },
+            {
+                "narration_text": "Picks the chopsticks",
+                "start_frame": 5246,
+                "stop_frame": 5263
+            },
+            {
+                "narration_text": "Knocks the cooking stick on the sink",
+                "start_frame": 5263,
+                "stop_frame": 5296
+            },
+            {
+                "narration_text": "Puts the chopstick on the machine",
+                "start_frame": 5296,
+                "stop_frame": 5308
+            },
+            {
+                "narration_text": "Puts the cooking stick in the machine",
+                "start_frame": 5308,
+                "stop_frame": 5344
+            },
+            {
+                "narration_text": "Picks a metal unsure",
+                "start_frame": 5344,
+                "stop_frame": 5355
+            },
+            {
+                "narration_text": "Drops the metal unsure in the sink",
+                "start_frame": 5355,
+                "stop_frame": 5375
+            },
+            {
+                "narration_text": "Moves the dirt in the sink",
+                "start_frame": 5375,
+                "stop_frame": 5423
+            },
+            {
+                "narration_text": "Picks the sink cover",
+                "start_frame": 5423,
+                "stop_frame": 5436
+            },
+            {
+                "narration_text": "Drops the sink cover",
+                "start_frame": 5436,
+                "stop_frame": 5480
+            },
+            {
+                "narration_text": "Picks the sink cover",
+                "start_frame": 5480,
+                "stop_frame": 5523
+            },
+            {
+                "narration_text": "Pours the dirt into the paper",
+                "start_frame": 5523,
+                "stop_frame": 5584
+            },
+            {
+                "narration_text": "Drops the sink cover into the sink",
+                "start_frame": 5584,
+                "stop_frame": 5621
+            },
+            {
+                "narration_text": "Picks the dirt from the sink cover",
+                "start_frame": 5621,
+                "stop_frame": 5677
+            },
+            {
+                "narration_text": "Throws the dirt into the paper bin",
+                "start_frame": 5677,
+                "stop_frame": 5718
+            }
+        ]
+    }
+]

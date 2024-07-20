@@ -1,0 +1,73 @@
+{
+    "overall_goal": "C is preparing and cooking peas.",
+    "clips": [
+        {
+            "subgoal": "Preparation and rinsing peas",
+            "start_timestamp": 25,
+            "stop_timestamp": 1193,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Placing the peas bag on the worktop and opening the bag",
+                    "start_timestamp": 25,
+                    "stop_timestamp": 143
+                },
+                {
+                    "secondary_subgoal": "Gathering and rinsing peas",
+                    "start_timestamp": 143,
+                    "stop_timestamp": 1193
+                }
+            ]
+        },
+        {
+            "subgoal": "Washing and sorting peas",
+            "start_timestamp": 1193,
+            "stop_timestamp": 2146,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinsing hands and scrubbing peas",
+                    "start_timestamp": 1193,
+                    "stop_timestamp": 564
+                },
+                {
+                    "secondary_subgoal": "Rinsing peas and pea pods",
+                    "start_timestamp": 564,
+                    "stop_timestamp": 2146
+                }
+            ]
+        },
+        {
+            "subgoal": "Sorting and discarding peapods",
+            "start_timestamp": 2146,
+            "stop_timestamp": 3979,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Sorting peapods into the basin",
+                    "start_timestamp": 2146,
+                    "stop_timestamp": 3200
+                },
+                {
+                    "secondary_subgoal": "Adding other ingredients to peas",
+                    "start_timestamp": 3200,
+                    "stop_timestamp": 3979
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking peas",
+            "start_timestamp": 3979,
+            "stop_timestamp": 5912,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Filling and boiling water",
+                    "start_timestamp": 4971,
+                    "stop_timestamp": 5337
+                },
+                {
+                    "secondary_subgoal": "Handling camera and completing preparations",
+                    "start_timestamp": 5337,
+                    "stop_timestamp": 5912
+                }
+            ]
+        }
+    ]
+}

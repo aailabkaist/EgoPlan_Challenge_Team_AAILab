@@ -1,0 +1,842 @@
+[
+    {
+        "task_goal": "Clean hands and prepare cookware",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the knob",
+                "start_frame": 36,
+                "stop_frame": 81
+            },
+            {
+                "narration_text": "#C C washes hand",
+                "start_frame": 81,
+                "stop_frame": 103
+            },
+            {
+                "narration_text": "#C C takes a soap",
+                "start_frame": 103,
+                "stop_frame": 235
+            },
+            {
+                "narration_text": "#C C washes hand",
+                "start_frame": 235,
+                "stop_frame": 340
+            },
+            {
+                "narration_text": "#C C closes the knob",
+                "start_frame": 340,
+                "stop_frame": 348
+            },
+            {
+                "narration_text": "#C C dries hand",
+                "start_frame": 348,
+                "stop_frame": 397
+            },
+            {
+                "narration_text": "#C C dries hand with a towel",
+                "start_frame": 397,
+                "stop_frame": 489
+            }
+        ]
+    },
+    {
+        "task_goal": "Open tap and wash hands with soap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the knob",
+                "start_frame": 36,
+                "stop_frame": 81
+            },
+            {
+                "narration_text": "#C C washes hand",
+                "start_frame": 81,
+                "stop_frame": 103
+            },
+            {
+                "narration_text": "#C C takes a soap",
+                "start_frame": 103,
+                "stop_frame": 235
+            },
+            {
+                "narration_text": "#C C washes hand",
+                "start_frame": 235,
+                "stop_frame": 340
+            },
+            {
+                "narration_text": "#C C closes the knob",
+                "start_frame": 340,
+                "stop_frame": 348
+            },
+            {
+                "narration_text": "#C C dries hand",
+                "start_frame": 348,
+                "stop_frame": 397
+            }
+        ]
+    },
+    {
+        "task_goal": "Dry hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the knob",
+                "start_frame": 340,
+                "stop_frame": 348
+            },
+            {
+                "narration_text": "#C C dries hand",
+                "start_frame": 348,
+                "stop_frame": 397
+            },
+            {
+                "narration_text": "#C C dries hand with a towel",
+                "start_frame": 397,
+                "stop_frame": 489
+            }
+        ]
+    },
+    {
+        "task_goal": "Fill cookware with water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C dries hand with a towel",
+                "start_frame": 397,
+                "stop_frame": 489
+            },
+            {
+                "narration_text": "#C C picks a cookware",
+                "start_frame": 489,
+                "stop_frame": 545
+            },
+            {
+                "narration_text": "#C C opens a tap",
+                "start_frame": 545,
+                "stop_frame": 603
+            },
+            {
+                "narration_text": "#C C fills cookware with water",
+                "start_frame": 603,
+                "stop_frame": 871
+            },
+            {
+                "narration_text": "#C C holds a tap",
+                "start_frame": 871,
+                "stop_frame": 946
+            },
+            {
+                "narration_text": "#C C closes the knob",
+                "start_frame": 946,
+                "stop_frame": 980
+            },
+            {
+                "narration_text": "#C C carries the cookware",
+                "start_frame": 980,
+                "stop_frame": 1055
+            },
+            {
+                "narration_text": "#C C puts cookware on a gas",
+                "start_frame": 1055,
+                "stop_frame": 1088
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick cookware and fill it with water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C dries hand with a towel",
+                "start_frame": 397,
+                "stop_frame": 489
+            },
+            {
+                "narration_text": "#C C picks a cookware",
+                "start_frame": 489,
+                "stop_frame": 545
+            },
+            {
+                "narration_text": "#C C opens a tap",
+                "start_frame": 545,
+                "stop_frame": 603
+            },
+            {
+                "narration_text": "#C C fills cookware with water",
+                "start_frame": 603,
+                "stop_frame": 871
+            },
+            {
+                "narration_text": "#C C holds a tap",
+                "start_frame": 871,
+                "stop_frame": 946
+            },
+            {
+                "narration_text": "#C C closes the knob",
+                "start_frame": 946,
+                "stop_frame": 980
+            }
+        ]
+    },
+    {
+        "task_goal": "Carry cookware to gas and turn on gas",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the knob",
+                "start_frame": 946,
+                "stop_frame": 980
+            },
+            {
+                "narration_text": "#C C carries the cookware",
+                "start_frame": 980,
+                "stop_frame": 1055
+            },
+            {
+                "narration_text": "#C C puts cookware on a gas",
+                "start_frame": 1055,
+                "stop_frame": 1088
+            },
+            {
+                "narration_text": "#C C turns gas on",
+                "start_frame": 1088,
+                "stop_frame": 1133
+            },
+            {
+                "narration_text": "#C C turns air conditioner on",
+                "start_frame": 1133,
+                "stop_frame": 1227
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn on air conditioner",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns gas on",
+                "start_frame": 1088,
+                "stop_frame": 1133
+            },
+            {
+                "narration_text": "#C C turns air conditioner on",
+                "start_frame": 1133,
+                "stop_frame": 1227
+            },
+            {
+                "narration_text": "#C C pushes nylon of celery away",
+                "start_frame": 1227,
+                "stop_frame": 1246
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare celery for washing",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns air conditioner on",
+                "start_frame": 1133,
+                "stop_frame": 1227
+            },
+            {
+                "narration_text": "#C C pushes nylon of celery away",
+                "start_frame": 1227,
+                "stop_frame": 1246
+            },
+            {
+                "narration_text": "#C C touches cookware",
+                "start_frame": 1246,
+                "stop_frame": 1362
+            },
+            {
+                "narration_text": "#C C opens nylon paper of celery",
+                "start_frame": 1362,
+                "stop_frame": 1581
+            },
+            {
+                "narration_text": "#C C dials phone",
+                "start_frame": 1581,
+                "stop_frame": 1688
+            },
+            {
+                "narration_text": "#C C picks a chopping board",
+                "start_frame": 1688,
+                "stop_frame": 1757
+            },
+            {
+                "narration_text": "#C C puts chopping board on the sink table",
+                "start_frame": 1757,
+                "stop_frame": 1791
+            },
+            {
+                "narration_text": "#C C removes celery from nylon paper",
+                "start_frame": 1791,
+                "stop_frame": 2312
+            },
+            {
+                "narration_text": "#C C folds a nylon paper",
+                "start_frame": 2312,
+                "stop_frame": 2367
+            },
+            {
+                "narration_text": "#C C puts nylon paper in the dust bin",
+                "start_frame": 2367,
+                "stop_frame": 2418
+            },
+            {
+                "narration_text": "#C C pushes phone way",
+                "start_frame": 2418,
+                "stop_frame": 2443
+            },
+            {
+                "narration_text": "#C C arranges celery in the hand",
+                "start_frame": 2443,
+                "stop_frame": 3123
+            }
+        ]
+    },
+    {
+        "task_goal": "Push nylon of celery away and open nylon paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns air conditioner on",
+                "start_frame": 1133,
+                "stop_frame": 1227
+            },
+            {
+                "narration_text": "#C C pushes nylon of celery away",
+                "start_frame": 1227,
+                "stop_frame": 1246
+            },
+            {
+                "narration_text": "#C C touches cookware",
+                "start_frame": 1246,
+                "stop_frame": 1362
+            },
+            {
+                "narration_text": "#C C opens nylon paper of celery",
+                "start_frame": 1362,
+                "stop_frame": 1581
+            },
+            {
+                "narration_text": "#C C dials phone",
+                "start_frame": 1581,
+                "stop_frame": 1688
+            },
+            {
+                "narration_text": "#C C picks a chopping board",
+                "start_frame": 1688,
+                "stop_frame": 1757
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and place chopping board on the sink table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C dials phone",
+                "start_frame": 1581,
+                "stop_frame": 1688
+            },
+            {
+                "narration_text": "#C C picks a chopping board",
+                "start_frame": 1688,
+                "stop_frame": 1757
+            },
+            {
+                "narration_text": "#C C puts chopping board on the sink table",
+                "start_frame": 1757,
+                "stop_frame": 1791
+            },
+            {
+                "narration_text": "#C C removes celery from nylon paper",
+                "start_frame": 1791,
+                "stop_frame": 2312
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove celery from nylon paper and discard paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts chopping board on the sink table",
+                "start_frame": 1757,
+                "stop_frame": 1791
+            },
+            {
+                "narration_text": "#C C removes celery from nylon paper",
+                "start_frame": 1791,
+                "stop_frame": 2312
+            },
+            {
+                "narration_text": "#C C folds a nylon paper",
+                "start_frame": 2312,
+                "stop_frame": 2367
+            },
+            {
+                "narration_text": "#C C puts nylon paper in the dust bin",
+                "start_frame": 2367,
+                "stop_frame": 2418
+            },
+            {
+                "narration_text": "#C C pushes phone way",
+                "start_frame": 2418,
+                "stop_frame": 2443
+            },
+            {
+                "narration_text": "#C C arranges celery in the hand",
+                "start_frame": 2443,
+                "stop_frame": 3123
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash and dry celery",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pushes phone way",
+                "start_frame": 2418,
+                "stop_frame": 2443
+            },
+            {
+                "narration_text": "#C C arranges celery in the hand",
+                "start_frame": 2443,
+                "stop_frame": 3123
+            },
+            {
+                "narration_text": "#C C puts a side greens",
+                "start_frame": 3123,
+                "stop_frame": 3199
+            },
+            {
+                "narration_text": "#C C opens knobs",
+                "start_frame": 3199,
+                "stop_frame": 3223
+            },
+            {
+                "narration_text": "#C C washes celery",
+                "start_frame": 3223,
+                "stop_frame": 3443
+            },
+            {
+                "narration_text": "#C C closes the knob",
+                "start_frame": 3443,
+                "stop_frame": 3467
+            },
+            {
+                "narration_text": "#C C dries celery",
+                "start_frame": 3467,
+                "stop_frame": 3843
+            },
+            {
+                "narration_text": "#C C puts on a chopping board",
+                "start_frame": 3843,
+                "stop_frame": 3861
+            },
+            {
+                "narration_text": "#C C dries hand",
+                "start_frame": 3861,
+                "stop_frame": 3901
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 3901,
+                "stop_frame": 3967
+            },
+            {
+                "narration_text": "#C C arranges the celery",
+                "start_frame": 3967,
+                "stop_frame": 4074
+            }
+        ]
+    },
+    {
+        "task_goal": "Arrange celery and wash it",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pushes phone way",
+                "start_frame": 2418,
+                "stop_frame": 2443
+            },
+            {
+                "narration_text": "#C C arranges celery in the hand",
+                "start_frame": 2443,
+                "stop_frame": 3123
+            },
+            {
+                "narration_text": "#C C puts a side greens",
+                "start_frame": 3123,
+                "stop_frame": 3199
+            },
+            {
+                "narration_text": "#C C opens knobs",
+                "start_frame": 3199,
+                "stop_frame": 3223
+            },
+            {
+                "narration_text": "#C C washes celery",
+                "start_frame": 3223,
+                "stop_frame": 3443
+            },
+            {
+                "narration_text": "#C C closes the knob",
+                "start_frame": 3443,
+                "stop_frame": 3467
+            }
+        ]
+    },
+    {
+        "task_goal": "Dry celery and hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the knob",
+                "start_frame": 3443,
+                "stop_frame": 3467
+            },
+            {
+                "narration_text": "#C C dries celery",
+                "start_frame": 3467,
+                "stop_frame": 3843
+            },
+            {
+                "narration_text": "#C C puts on a chopping board",
+                "start_frame": 3843,
+                "stop_frame": 3861
+            },
+            {
+                "narration_text": "#C C dries hand",
+                "start_frame": 3861,
+                "stop_frame": 3901
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 3901,
+                "stop_frame": 3967
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare to cut celery",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C dries hand",
+                "start_frame": 3861,
+                "stop_frame": 3901
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 3901,
+                "stop_frame": 3967
+            },
+            {
+                "narration_text": "#C C arranges the celery",
+                "start_frame": 3967,
+                "stop_frame": 4074
+            },
+            {
+                "narration_text": "#C C opens the carboard",
+                "start_frame": 4074,
+                "stop_frame": 4093
+            },
+            {
+                "narration_text": "#C C picks a knife",
+                "start_frame": 4093,
+                "stop_frame": 4112
+            },
+            {
+                "narration_text": "#C C closes the carboard",
+                "start_frame": 4112,
+                "stop_frame": 4165
+            },
+            {
+                "narration_text": "#C C holds celery",
+                "start_frame": 4165,
+                "stop_frame": 4284
+            },
+            {
+                "narration_text": "#C C cuts the celery",
+                "start_frame": 4284,
+                "stop_frame": 4841
+            }
+        ]
+    },
+    {
+        "task_goal": "Look for knife and get ready to cut",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C dries hand",
+                "start_frame": 3861,
+                "stop_frame": 3901
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 3901,
+                "stop_frame": 3967
+            },
+            {
+                "narration_text": "#C C arranges the celery",
+                "start_frame": 3967,
+                "stop_frame": 4074
+            },
+            {
+                "narration_text": "#C C opens the carboard",
+                "start_frame": 4074,
+                "stop_frame": 4093
+            },
+            {
+                "narration_text": "#C C picks a knife",
+                "start_frame": 4093,
+                "stop_frame": 4112
+            },
+            {
+                "narration_text": "#C C closes the carboard",
+                "start_frame": 4112,
+                "stop_frame": 4165
+            },
+            {
+                "narration_text": "#C C holds celery",
+                "start_frame": 4165,
+                "stop_frame": 4284
+            },
+            {
+                "narration_text": "#C C cuts the celery",
+                "start_frame": 4284,
+                "stop_frame": 4841
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut celery",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds celery",
+                "start_frame": 4165,
+                "stop_frame": 4284
+            },
+            {
+                "narration_text": "#C C cuts the celery",
+                "start_frame": 4284,
+                "stop_frame": 4841
+            },
+            {
+                "narration_text": "#C C puts knife down",
+                "start_frame": 4841,
+                "stop_frame": 4900
+            },
+            {
+                "narration_text": "#C C opens the carboard",
+                "start_frame": 4900,
+                "stop_frame": 5052
+            },
+            {
+                "narration_text": "#C C removes cookware",
+                "start_frame": 5052,
+                "stop_frame": 5179
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut celery and put down knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C holds celery",
+                "start_frame": 4165,
+                "stop_frame": 4284
+            },
+            {
+                "narration_text": "#C C cuts the celery",
+                "start_frame": 4284,
+                "stop_frame": 4841
+            },
+            {
+                "narration_text": "#C C puts knife down",
+                "start_frame": 4841,
+                "stop_frame": 4900
+            },
+            {
+                "narration_text": "#C C opens the carboard",
+                "start_frame": 4900,
+                "stop_frame": 5052
+            },
+            {
+                "narration_text": "#C C removes cookware",
+                "start_frame": 5052,
+                "stop_frame": 5179
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove and return cookware, pick sieve",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the carboard",
+                "start_frame": 4900,
+                "stop_frame": 5052
+            },
+            {
+                "narration_text": "#C C removes cookware",
+                "start_frame": 5052,
+                "stop_frame": 5179
+            },
+            {
+                "narration_text": "#C C picks a sieve",
+                "start_frame": 5179,
+                "stop_frame": 5222
+            },
+            {
+                "narration_text": "#C C returns cookware",
+                "start_frame": 5222,
+                "stop_frame": 5306
+            },
+            {
+                "narration_text": "#C C closes the carboard",
+                "start_frame": 5306,
+                "stop_frame": 5327
+            }
+        ]
+    },
+    {
+        "task_goal": "Dry hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C dries hand",
+                "start_frame": 7506,
+                "stop_frame": 7581
+            },
+            {
+                "narration_text": "#C C walks in a room",
+                "start_frame": 7581,
+                "stop_frame": 7695
+            },
+            {
+                "narration_text": "#C C holds a box",
+                "start_frame": 7695,
+                "stop_frame": 7753
+            }
+        ]
+    },
+    {
+        "task_goal": "Store things and finish up",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in a room",
+                "start_frame": 7581,
+                "stop_frame": 7695
+            },
+            {
+                "narration_text": "#C C holds a box",
+                "start_frame": 7695,
+                "stop_frame": 7753
+            },
+            {
+                "narration_text": "#C C returns a box",
+                "start_frame": 7753,
+                "stop_frame": 7805
+            },
+            {
+                "narration_text": "#C C walks in a room",
+                "start_frame": 7805,
+                "stop_frame": 7894
+            },
+            {
+                "narration_text": "#C C opens a carboard",
+                "start_frame": 7894,
+                "stop_frame": 7942
+            },
+            {
+                "narration_text": "#C C closes a carboard",
+                "start_frame": 7942,
+                "stop_frame": 7986
+            },
+            {
+                "narration_text": "#C C opens a carboard",
+                "start_frame": 7986,
+                "stop_frame": 8017
+            },
+            {
+                "narration_text": "#C C closes a carboard",
+                "start_frame": 8017,
+                "stop_frame": 8056
+            },
+            {
+                "narration_text": "#C C opens a carboard",
+                "start_frame": 8056,
+                "stop_frame": 8132
+            },
+            {
+                "narration_text": "#C C closes a carboard",
+                "start_frame": 8132,
+                "stop_frame": 8270
+            },
+            {
+                "narration_text": "#C C raises hand up",
+                "start_frame": 8270,
+                "stop_frame": 8370
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk and hold box",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in a room",
+                "start_frame": 7581,
+                "stop_frame": 7695
+            },
+            {
+                "narration_text": "#C C holds a box",
+                "start_frame": 7695,
+                "stop_frame": 7753
+            },
+            {
+                "narration_text": "#C C returns a box",
+                "start_frame": 7753,
+                "stop_frame": 7805
+            },
+            {
+                "narration_text": "#C C walks in a room",
+                "start_frame": 7805,
+                "stop_frame": 7894
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and close carboard",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in a room",
+                "start_frame": 7805,
+                "stop_frame": 7894
+            },
+            {
+                "narration_text": "#C C opens a carboard",
+                "start_frame": 7894,
+                "stop_frame": 7942
+            },
+            {
+                "narration_text": "#C C closes a carboard",
+                "start_frame": 7942,
+                "stop_frame": 7986
+            },
+            {
+                "narration_text": "#C C opens a carboard",
+                "start_frame": 7986,
+                "stop_frame": 8017
+            },
+            {
+                "narration_text": "#C C closes a carboard",
+                "start_frame": 8017,
+                "stop_frame": 8056
+            },
+            {
+                "narration_text": "#C C opens a carboard",
+                "start_frame": 8056,
+                "stop_frame": 8132
+            },
+            {
+                "narration_text": "#C C closes a carboard",
+                "start_frame": 8132,
+                "stop_frame": 8270
+            },
+            {
+                "narration_text": "#C C raises hand up",
+                "start_frame": 8270,
+                "stop_frame": 8370
+            }
+        ]
+    }
+]

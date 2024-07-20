@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egSTjCkLGYFOlxhBFDGptLGSSzxp",
+    "object": "chat.completion",
+    "created": 1719483357,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cooking an unspecified dish and transferring it into a serving bowl.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing and seasoning spices in the serving bowl.\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 29,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stirring spices in the serving bowl.\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 17\n        },\n        {\n          \"secondary_subgoal\": \"Moving the serving bowl of spices.\",\n          \"start_timestamp\": 17,\n          \"stop_timestamp\": 29\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking the dish in the cooking pan.\",\n      \"start_timestamp\": 29,\n      \"stop_timestamp\": 2525,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stirring the spices in the serving bowl before adding to the cooking pan.\",\n          \"start_timestamp\": 29,\n          \"stop_timestamp\": 265\n        },\n        {\n          \"secondary_subgoal\": \"Moving and peparing the spices in the cooking pan.\",\n          \"start_timestamp\": 265,\n          \"stop_timestamp\": 273\n        },\n        {\n          \"secondary_subgoal\": \"Turning on the cooker.\",\n          \"start_timestamp\": 317,\n          \"stop_timestamp\": 384\n        },\n        {\n          \"secondary_subgoal\": \"Continuously stirring the contents in the cooking pan.\",\n          \"start_timestamp\": 384,\n          \"stop_timestamp\": 1644\n        },\n        {\n          \"secondary_subgoal\": \"Person X walking in and out of the kitchen, and interactions.\",\n          \"start_timestamp\": 1644,\n          \"stop_timestamp\": 1923\n        },\n        {\n          \"secondary_subgoal\": \"Continuing to stir the contents in the cooking pan.\",\n          \"start_timestamp\": 1923,\n          \"stop_timestamp\": 2525\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Transferring the cooked contents from the cooking pan to the serving bowl.\",\n      \"start_timestamp\": 2525,\n      \"stop_timestamp\": 3749,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Turning off the cooker and putting away the chopping sticks.\",\n          \"start_timestamp\": 2525,\n          \"stop_timestamp\": 2580\n        },\n        {\n          \"secondary_subgoal\": \"Preparing the serving bowl and serving spoon.\",\n          \"start_timestamp\": 2580,\n          \"stop_timestamp\": 2654\n        },\n        {\n          \"secondary_subgoal\": \"Scooping the cooked contents into the serving bowl.\",\n          \"start_timestamp\": 2708,\n          \"stop_timestamp\": 3724\n        },\n        {\n          \"secondary_subgoal\": \"Finalizing the transfer, placing the serving bowl in the sink.\",\n          \"start_timestamp\": 3724,\n          \"stop_timestamp\": 3749\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finishing up and setting up the camera.\",\n      \"start_timestamp\": 3749,\n      \"stop_timestamp\": 3849,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Setting up the camera.\",\n          \"start_timestamp\": 3749,\n          \"stop_timestamp\": 3849\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1636,
+        "completion_tokens": 712,
+        "total_tokens": 2348
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

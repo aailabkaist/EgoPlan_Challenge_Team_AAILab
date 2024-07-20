@@ -1,0 +1,657 @@
+[
+    {
+        "task_goal": "Clean hands and prepare utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c puts knife in the sink",
+                "start_frame": 124,
+                "stop_frame": 148
+            },
+            {
+                "narration_text": "#c c opens tap",
+                "start_frame": 148,
+                "stop_frame": 161
+            },
+            {
+                "narration_text": "#c c rinses hands",
+                "start_frame": 161,
+                "stop_frame": 222
+            },
+            {
+                "narration_text": "#c c closes tap",
+                "start_frame": 222,
+                "stop_frame": 244
+            },
+            {
+                "narration_text": "#c c drys hands with towel",
+                "start_frame": 244,
+                "stop_frame": 315
+            },
+            {
+                "narration_text": "#c c picks chopsticks",
+                "start_frame": 315,
+                "stop_frame": 355
+            }
+        ]
+    },
+    {
+        "task_goal": "Put knife in the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c puts knife in the sink",
+                "start_frame": 124,
+                "stop_frame": 148
+            },
+            {
+                "narration_text": "#c c opens tap",
+                "start_frame": 148,
+                "stop_frame": 161
+            }
+        ]
+    },
+    {
+        "task_goal": "Open tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c puts knife in the sink",
+                "start_frame": 124,
+                "stop_frame": 148
+            },
+            {
+                "narration_text": "#c c opens tap",
+                "start_frame": 148,
+                "stop_frame": 161
+            },
+            {
+                "narration_text": "#c c rinses hands",
+                "start_frame": 161,
+                "stop_frame": 222
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c opens tap",
+                "start_frame": 148,
+                "stop_frame": 161
+            },
+            {
+                "narration_text": "#c c rinses hands",
+                "start_frame": 161,
+                "stop_frame": 222
+            },
+            {
+                "narration_text": "#c c closes tap",
+                "start_frame": 222,
+                "stop_frame": 244
+            }
+        ]
+    },
+    {
+        "task_goal": "Close tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c rinses hands",
+                "start_frame": 161,
+                "stop_frame": 222
+            },
+            {
+                "narration_text": "#c c closes tap",
+                "start_frame": 222,
+                "stop_frame": 244
+            },
+            {
+                "narration_text": "#c c drys hands with towel",
+                "start_frame": 244,
+                "stop_frame": 315
+            }
+        ]
+    },
+    {
+        "task_goal": "Dry hands with towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c closes tap",
+                "start_frame": 222,
+                "stop_frame": 244
+            },
+            {
+                "narration_text": "#c c drys hands with towel",
+                "start_frame": 244,
+                "stop_frame": 315
+            },
+            {
+                "narration_text": "#c c picks chopsticks",
+                "start_frame": 315,
+                "stop_frame": 355
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick chopsticks and stir food on the pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c drys hands with towel",
+                "start_frame": 244,
+                "stop_frame": 315
+            },
+            {
+                "narration_text": "#c c picks chopsticks",
+                "start_frame": 315,
+                "stop_frame": 355
+            },
+            {
+                "narration_text": "#c c stirs food on pan",
+                "start_frame": 355,
+                "stop_frame": 1626
+            },
+            {
+                "narration_text": "#c c puts chopsticks on the table",
+                "start_frame": 1626,
+                "stop_frame": 1712
+            }
+        ]
+    },
+    {
+        "task_goal": "Put chopsticks on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c stirs food on pan",
+                "start_frame": 355,
+                "stop_frame": 1626
+            },
+            {
+                "narration_text": "#c c puts chopsticks on the table",
+                "start_frame": 1626,
+                "stop_frame": 1712
+            },
+            {
+                "narration_text": "#c c opens cabinet",
+                "start_frame": 1712,
+                "stop_frame": 1748
+            }
+        ]
+    },
+    {
+        "task_goal": "Open cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c puts chopsticks on the table",
+                "start_frame": 1626,
+                "stop_frame": 1712
+            },
+            {
+                "narration_text": "#c c opens cabinet",
+                "start_frame": 1712,
+                "stop_frame": 1748
+            },
+            {
+                "narration_text": "#c c takes plate",
+                "start_frame": 1748,
+                "stop_frame": 1784
+            }
+        ]
+    },
+    {
+        "task_goal": "Take plate and close cabinet",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c opens cabinet",
+                "start_frame": 1712,
+                "stop_frame": 1748
+            },
+            {
+                "narration_text": "#c c takes plate",
+                "start_frame": 1748,
+                "stop_frame": 1784
+            },
+            {
+                "narration_text": "#c c closes cabinet",
+                "start_frame": 1784,
+                "stop_frame": 1848
+            },
+            {
+                "narration_text": "#c c picks spoon",
+                "start_frame": 1848,
+                "stop_frame": 1916
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick spoon and rinse it",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c picks spoon",
+                "start_frame": 1848,
+                "stop_frame": 1916
+            },
+            {
+                "narration_text": "#c c rinses spoon",
+                "start_frame": 1916,
+                "stop_frame": 1966
+            },
+            {
+                "narration_text": "#c c scoops #unsure",
+                "start_frame": 1966,
+                "stop_frame": 2031
+            }
+        ]
+    },
+    {
+        "task_goal": "Scoop and put it on the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c rinses spoon",
+                "start_frame": 1916,
+                "stop_frame": 1966
+            },
+            {
+                "narration_text": "#c c scoops #unsure",
+                "start_frame": 1966,
+                "stop_frame": 2031
+            },
+            {
+                "narration_text": "#c c puts #unsure in the palte",
+                "start_frame": 2031,
+                "stop_frame": 2846
+            },
+            {
+                "narration_text": "#c c puts plate on table",
+                "start_frame": 2846,
+                "stop_frame": 2855
+            }
+        ]
+    },
+    {
+        "task_goal": "Put plate on table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c puts #unsure in the palte",
+                "start_frame": 2031,
+                "stop_frame": 2846
+            },
+            {
+                "narration_text": "#c c puts plate on table",
+                "start_frame": 2846,
+                "stop_frame": 2855
+            },
+            {
+                "narration_text": "#c c picks chopsticks",
+                "start_frame": 2855,
+                "stop_frame": 2898
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse hands and close tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#c c closes tap",
+                "start_frame": 7324,
+                "stop_frame": 7375
+            },
+            {
+                "narration_text": "#c c stirs food",
+                "start_frame": 7375,
+                "stop_frame": 8398
+            },
+            {
+                "narration_text": "#c c puts chopsticks on table",
+                "start_frame": 8398,
+                "stop_frame": 8449
+            }
+        ]
+    },
+    {
+        "task_goal": "Add spices on the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes a bowl",
+                "start_frame": 10578,
+                "stop_frame": 10625
+            },
+            {
+                "narration_text": "#C C adds spices on the food",
+                "start_frame": 10625,
+                "stop_frame": 10715
+            },
+            {
+                "narration_text": "#C C puts down the bowl",
+                "start_frame": 10715,
+                "stop_frame": 10770
+            },
+            {
+                "narration_text": "#C C takes a serving spoon",
+                "start_frame": 10770,
+                "stop_frame": 10811
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 10811,
+                "stop_frame": 11726
+            },
+            {
+                "narration_text": "#C C puts down the serving spoon",
+                "start_frame": 11726,
+                "stop_frame": 11763
+            },
+            {
+                "narration_text": "#C C picks duty from the floor",
+                "start_frame": 11763,
+                "stop_frame": 11824
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 11824,
+                "stop_frame": 11841
+            },
+            {
+                "narration_text": "#C C cleans the hand",
+                "start_frame": 11841,
+                "stop_frame": 11889
+            },
+            {
+                "narration_text": "#C C walks around the room",
+                "start_frame": 11889,
+                "stop_frame": 11923
+            },
+            {
+                "narration_text": "#C C takes a spices bottle",
+                "start_frame": 11923,
+                "stop_frame": 11967
+            },
+            {
+                "narration_text": "#C C adds spice on the food",
+                "start_frame": 11967,
+                "stop_frame": 12051
+            },
+            {
+                "narration_text": "#C C puts down the spice bottle",
+                "start_frame": 12051,
+                "stop_frame": 12107
+            },
+            {
+                "narration_text": "#C C takes a serving spoon",
+                "start_frame": 12107,
+                "stop_frame": 12130
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 12130,
+                "stop_frame": 12938
+            },
+            {
+                "narration_text": "#C C takes a spice bottle",
+                "start_frame": 12938,
+                "stop_frame": 13008
+            },
+            {
+                "narration_text": "#C C opens the spice bottle",
+                "start_frame": 13008,
+                "stop_frame": 13046
+            },
+            {
+                "narration_text": "#C C adds spice on the food",
+                "start_frame": 13046,
+                "stop_frame": 13132
+            },
+            {
+                "narration_text": "#C C puts down the spice bottle",
+                "start_frame": 13132,
+                "stop_frame": 13175
+            }
+        ]
+    },
+    {
+        "task_goal": "Put down the spice bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C adds spice on the food",
+                "start_frame": 13046,
+                "stop_frame": 13132
+            },
+            {
+                "narration_text": "#C C puts down the spice bottle",
+                "start_frame": 13132,
+                "stop_frame": 13175
+            },
+            {
+                "narration_text": "#C C stirs the food",
+                "start_frame": 13175,
+                "stop_frame": 13781
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean up kitchen and put utensils away",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C presses the cooker button",
+                "start_frame": 20185,
+                "stop_frame": 20254
+            },
+            {
+                "narration_text": "#C C takes the knife",
+                "start_frame": 20254,
+                "stop_frame": 20280
+            },
+            {
+                "narration_text": "#C C takes the sponge",
+                "start_frame": 20280,
+                "stop_frame": 20303
+            },
+            {
+                "narration_text": "#C C cleans the knife",
+                "start_frame": 20303,
+                "stop_frame": 20442
+            },
+            {
+                "narration_text": "#C C cleans the potate peeler",
+                "start_frame": 20442,
+                "stop_frame": 20532
+            },
+            {
+                "narration_text": "#C C takes the chopping board",
+                "start_frame": 20532,
+                "stop_frame": 20599
+            },
+            {
+                "narration_text": "#C C cleans the chopping board",
+                "start_frame": 20599,
+                "stop_frame": 20626
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 20626,
+                "stop_frame": 20659
+            },
+            {
+                "narration_text": "#C C cleans the chopping board",
+                "start_frame": 20659,
+                "stop_frame": 20782
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 20782,
+                "stop_frame": 20849
+            },
+            {
+                "narration_text": "#C C cleans the sponge",
+                "start_frame": 20849,
+                "stop_frame": 20859
+            },
+            {
+                "narration_text": "#C C puts away the sponge",
+                "start_frame": 20859,
+                "stop_frame": 20882
+            },
+            {
+                "narration_text": "#C C cleans the knife",
+                "start_frame": 20882,
+                "stop_frame": 20973
+            },
+            {
+                "narration_text": "#C C puts away the knife",
+                "start_frame": 20973,
+                "stop_frame": 21038
+            },
+            {
+                "narration_text": "#C C cleans the potate peeler",
+                "start_frame": 21038,
+                "stop_frame": 21133
+            },
+            {
+                "narration_text": "#C C puts away the potate peeler",
+                "start_frame": 21133,
+                "stop_frame": 21180
+            },
+            {
+                "narration_text": "#C C cleans the chopping board",
+                "start_frame": 21180,
+                "stop_frame": 21280
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean the knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cleans the knife",
+                "start_frame": 20303,
+                "stop_frame": 20442
+            },
+            {
+                "narration_text": "#C C cleans the potate peeler",
+                "start_frame": 20442,
+                "stop_frame": 20532
+            },
+            {
+                "narration_text": "#C C takes the chopping board",
+                "start_frame": 20532,
+                "stop_frame": 20599
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean and put away the potato peeler",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cleans the potate peeler",
+                "start_frame": 20442,
+                "stop_frame": 20532
+            },
+            {
+                "narration_text": "#C C takes the chopping board",
+                "start_frame": 20532,
+                "stop_frame": 20599
+            },
+            {
+                "narration_text": "#C C cleans the chopping board",
+                "start_frame": 20599,
+                "stop_frame": 20626
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 20626,
+                "stop_frame": 20659
+            },
+            {
+                "narration_text": "#C C cleans the chopping board",
+                "start_frame": 20659,
+                "stop_frame": 20782
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 20782,
+                "stop_frame": 20849
+            },
+            {
+                "narration_text": "#C C cleans the sponge",
+                "start_frame": 20849,
+                "stop_frame": 20859
+            },
+            {
+                "narration_text": "#C C puts away the sponge",
+                "start_frame": 20859,
+                "stop_frame": 20882
+            },
+            {
+                "narration_text": "#C C cleans the knife",
+                "start_frame": 20882,
+                "stop_frame": 20973
+            },
+            {
+                "narration_text": "#C C puts away the knife",
+                "start_frame": 20973,
+                "stop_frame": 21038
+            },
+            {
+                "narration_text": "#C C cleans the potate peeler",
+                "start_frame": 21038,
+                "stop_frame": 21133
+            },
+            {
+                "narration_text": "#C C puts away the potate peeler",
+                "start_frame": 21133,
+                "stop_frame": 21180
+            },
+            {
+                "narration_text": "#C C cleans the chopping board",
+                "start_frame": 21180,
+                "stop_frame": 21280
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean the chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cleans the chopping board",
+                "start_frame": 20659,
+                "stop_frame": 20782
+            },
+            {
+                "narration_text": "#C C opens the tap",
+                "start_frame": 20782,
+                "stop_frame": 20849
+            },
+            {
+                "narration_text": "#C C cleans the sponge",
+                "start_frame": 20849,
+                "stop_frame": 20859
+            },
+            {
+                "narration_text": "#C C puts away the sponge",
+                "start_frame": 20859,
+                "stop_frame": 20882
+            },
+            {
+                "narration_text": "#C C cleans the knife",
+                "start_frame": 20882,
+                "stop_frame": 20973
+            },
+            {
+                "narration_text": "#C C puts away the knife",
+                "start_frame": 20973,
+                "stop_frame": 21038
+            },
+            {
+                "narration_text": "#C C cleans the potate peeler",
+                "start_frame": 21038,
+                "stop_frame": 21133
+            },
+            {
+                "narration_text": "#C C puts away the potate peeler",
+                "start_frame": 21133,
+                "stop_frame": 21180
+            },
+            {
+                "narration_text": "#C C cleans the chopping board",
+                "start_frame": 21180,
+                "stop_frame": 21280
+            }
+        ]
+    }
+]

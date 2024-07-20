@@ -1,0 +1,146 @@
+{
+    "overall_goal": "Prepare and cook a meal using various ingredients and kitchen tools.",
+    "clips": [
+        {
+            "subgoal": "Clean and dry the cutting board.",
+            "start_timestamp": 20,
+            "stop_timestamp": 1276,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash the cutting board with water and sponge.",
+                    "start_timestamp": 20,
+                    "stop_timestamp": 931
+                },
+                {
+                    "secondary_subgoal": "Dry the cutting board with kitchen tissue.",
+                    "start_timestamp": 960,
+                    "stop_timestamp": 1276
+                }
+            ]
+        },
+        {
+            "subgoal": "Dispose of used kitchen tissue and prepare disinfectant.",
+            "start_timestamp": 1279,
+            "stop_timestamp": 1627,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Throw used kitchen tissue in paper and get fresh kitchen tissue.",
+                    "start_timestamp": 1279,
+                    "stop_timestamp": 1478
+                },
+                {
+                    "secondary_subgoal": "Get and use disinfectant to clean the fridge.",
+                    "start_timestamp": 1479,
+                    "stop_timestamp": 1627
+                }
+            ]
+        },
+        {
+            "subgoal": "Retrieve items from the fridge and handle them.",
+            "start_timestamp": 1627,
+            "stop_timestamp": 2299,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and place back items in the fridge.",
+                    "start_timestamp": 1627,
+                    "stop_timestamp": 2299
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash hands and use various kitchen tools.",
+            "start_timestamp": 2386,
+            "stop_timestamp": 2587,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open tap and wash hands.",
+                    "start_timestamp": 2386,
+                    "stop_timestamp": 2505
+                },
+                {
+                    "secondary_subgoal": "Hold chopsticks and handle the cooking pan.",
+                    "start_timestamp": 2553,
+                    "stop_timestamp": 2587
+                }
+            ]
+        },
+        {
+            "subgoal": "Scatter and heat the macaroni.",
+            "start_timestamp": 2587,
+            "stop_timestamp": 7130,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Scatter macaroni with chopsticks.",
+                    "start_timestamp": 2587,
+                    "stop_timestamp": 7475
+                },
+                {
+                    "secondary_subgoal": "Scatter macaroni and monitor it.",
+                    "start_timestamp": 7475,
+                    "stop_timestamp": 8791
+                },
+                {
+                    "secondary_subgoal": "Adjust heat of the cooker and pour eggs into the fried potatoes.",
+                    "start_timestamp": 8791,
+                    "stop_timestamp": 9455
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean and wash kitchen utensils.",
+            "start_timestamp": 9455,
+            "stop_timestamp": 10769,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean and wash the fork.",
+                    "start_timestamp": 9455,
+                    "stop_timestamp": 9939
+                },
+                {
+                    "secondary_subgoal": "Wash hands and cooking stick.",
+                    "start_timestamp": 10152,
+                    "stop_timestamp": 11069
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle food items and utensils with the hot pot.",
+            "start_timestamp": 11069,
+            "stop_timestamp": 12755,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Scoop items from the hot pot.",
+                    "start_timestamp": 11069,
+                    "stop_timestamp": 12680
+                },
+                {
+                    "secondary_subgoal": "Put the pot in the sink and wash it.",
+                    "start_timestamp": 12706,
+                    "stop_timestamp": 12755
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up the kitchen and finish cooking.",
+            "start_timestamp": 12755,
+            "stop_timestamp": 16327,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean and wash utensils.",
+                    "start_timestamp": 12755,
+                    "stop_timestamp": 14160
+                },
+                {
+                    "secondary_subgoal": "Handle serving spoon and food items.",
+                    "start_timestamp": 14417,
+                    "stop_timestamp": 16112
+                },
+                {
+                    "secondary_subgoal": "Finish up the cooking process.",
+                    "start_timestamp": 16112,
+                    "stop_timestamp": 16327
+                }
+            ]
+        }
+    ]
+}

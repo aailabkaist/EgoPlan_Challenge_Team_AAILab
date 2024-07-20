@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeiRgWwCI56aBIfYrKq2fHMmd4c8",
+    "object": "chat.completion",
+    "created": 1719476659,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"C crackers nuts to eventually place the edible parts into a bowl while discarding the shells.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Cracking and removing nut shells using a nut cracker\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 16759,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Preparing to crack the nut\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 53\n        },\n        {\n          \"secondary_subgoal\": \"Cracking and removing the nut shell\",\n          \"start_timestamp\": 53,\n          \"stop_timestamp\": 16759\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cracking and removing nut shells using a nut splitter\",\n      \"start_timestamp\": 16759,\n      \"stop_timestamp\": 22517,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cracking and removing the nut shell\",\n          \"start_timestamp\": 16759,\n          \"stop_timestamp\": 22448\n        },\n        {\n          \"secondary_subgoal\": \"Stretching fingers and switching to another nut\",\n          \"start_timestamp\": 22448,\n          \"stop_timestamp\": 22517\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning the workspace and organizing the nuts\",\n      \"start_timestamp\": 22517,\n      \"stop_timestamp\": 23777,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Tapping and positioning the woven bowl while cleaning\",\n          \"start_timestamp\": 22517,\n          \"stop_timestamp\": 23383\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning hands and workspace\",\n          \"start_timestamp\": 23383,\n          \"stop_timestamp\": 23777\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cracking and removing nut shells, organizing the nuts into a bowl\",\n      \"start_timestamp\": 23777,\n      \"stop_timestamp\": 31947,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cracking and removing nut shells\",\n          \"start_timestamp\": 23777,\n          \"stop_timestamp\": 25887\n        },\n        {\n          \"secondary_subgoal\": \"Removing husks and dropping them in the bowl\",\n          \"start_timestamp\": 25887,\n          \"stop_timestamp\": 31947\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6502,
+        "completion_tokens": 520,
+        "total_tokens": 7022
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

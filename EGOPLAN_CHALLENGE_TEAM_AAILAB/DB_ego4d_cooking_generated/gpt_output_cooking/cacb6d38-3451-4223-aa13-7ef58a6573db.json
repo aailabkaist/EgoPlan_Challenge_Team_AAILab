@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehkO3iawdVI9SmdxgN6ocYEw7NLZ",
+    "object": "chat.completion",
+    "created": 1719488312,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing a meal involving chopping, grating, mixing, and cooking various ingredients.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing the workspace and cleaning/peeling ingredients\",\n      \"start_timestamp\": 16,\n      \"stop_timestamp\": 1146,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Getting and unfolding a polythene bag\",\n          \"start_timestamp\": 192,\n          \"stop_timestamp\": 249\n        },\n        {\n          \"secondary_subgoal\": \"Removing upper parts of the ingredient\",\n          \"start_timestamp\": 545,\n          \"stop_timestamp\": 1146\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Gathering tools for chopping\",\n      \"start_timestamp\": 1196,\n      \"stop_timestamp\": 1896,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Getting bowls\",\n          \"start_timestamp\": 1196,\n          \"stop_timestamp\": 1639\n        },\n        {\n          \"secondary_subgoal\": \"Getting a knife\",\n          \"start_timestamp\": 1680,\n          \"stop_timestamp\": 1896\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Chopping ingredients\",\n      \"start_timestamp\": 1896,\n      \"stop_timestamp\": 2926,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Initial chopping\",\n          \"start_timestamp\": 1896,\n          \"stop_timestamp\": 2549\n        },\n        {\n          \"secondary_subgoal\": \"Final chopping and placement\",\n          \"start_timestamp\": 2549,\n          \"stop_timestamp\": 2926\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Grating ingredients\",\n      \"start_timestamp\": 6750,\n      \"stop_timestamp\": 8651,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Grating with grater\",\n          \"start_timestamp\": 7391,\n          \"stop_timestamp\": 8245\n        },\n        {\n          \"secondary_subgoal\": \"Final grating and pouring\",\n          \"start_timestamp\": 8417,\n          \"stop_timestamp\": 8651\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking ingredients\",\n      \"start_timestamp\": 9200,\n      \"stop_timestamp\": 14052,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Preparing mixture\",\n          \"start_timestamp\": 9880,\n          \"stop_timestamp\": 10298\n        },\n        {\n          \"secondary_subgoal\": \"Cooking on the stove\",\n          \"start_timestamp\": 14052,\n          \"stop_timestamp\": 16174\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Unsealing and using various ingredients\",\n      \"start_timestamp\": 16224,\n      \"stop_timestamp\": 17159,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Getting items from the fridge\",\n          \"start_timestamp\": 16224,\n          \"stop_timestamp\": 16324\n        },\n        {\n          \"secondary_subgoal\": \"Using various ingredients\",\n          \"start_timestamp\": 16790,\n          \"stop_timestamp\": 16998\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Mixing and combining ingredients\",\n      \"start_timestamp\": 18268,\n      \"stop_timestamp\": 21137,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Mixing with spoon\",\n          \"start_timestamp\": 18268,\n          \"stop_timestamp\": 18830\n        },\n        {\n          \"secondary_subgoal\": \"Combining in bowl\",\n          \"start_timestamp\": 19288,\n          \"stop_timestamp\": 21137\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 5450,
+        "completion_tokens": 808,
+        "total_tokens": 6258
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

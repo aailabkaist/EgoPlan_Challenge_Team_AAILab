@@ -1,0 +1,96 @@
+{
+    "overall_goal": "Cook a meal, including preparations and mixing of ingredients in a cooking pot and serving onto a plate with rice and stew.",
+    "clips": [
+        {
+            "subgoal": "Prepare kitchen equipment and ingredients",
+            "start_timestamp": 0,
+            "stop_timestamp": 1510,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put on kitchen glove and adjust electric cooker",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 313
+                },
+                {
+                    "secondary_subgoal": "Open and handle various ingredients",
+                    "start_timestamp": 313,
+                    "stop_timestamp": 1335
+                },
+                {
+                    "secondary_subgoal": "Cut and place ingredients into the cooking pot",
+                    "start_timestamp": 1335,
+                    "stop_timestamp": 1510
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir ingredients in the cooking pot",
+            "start_timestamp": 1510,
+            "stop_timestamp": 9050,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick a serving spoon and stir ingredients",
+                    "start_timestamp": 1510,
+                    "stop_timestamp": 2056
+                },
+                {
+                    "secondary_subgoal": "Stir ingredients with serving spoon and chopsticks",
+                    "start_timestamp": 2056,
+                    "stop_timestamp": 3242
+                },
+                {
+                    "secondary_subgoal": "Press electric cooker and continue stirring",
+                    "start_timestamp": 3242,
+                    "stop_timestamp": 5175
+                },
+                {
+                    "secondary_subgoal": "Continue stirring and turning food in the pot",
+                    "start_timestamp": 5175,
+                    "stop_timestamp": 6672
+                },
+                {
+                    "secondary_subgoal": "Continue stirring and adding water",
+                    "start_timestamp": 6672,
+                    "stop_timestamp": 7728
+                },
+                {
+                    "secondary_subgoal": "Stir and pour water into cooking pot",
+                    "start_timestamp": 7728,
+                    "stop_timestamp": 8976
+                },
+                {
+                    "secondary_subgoal": "Remove food remnants and clean up",
+                    "start_timestamp": 8976,
+                    "stop_timestamp": 9050
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare serving plate and scoop rice and stew",
+            "start_timestamp": 9050,
+            "stop_timestamp": 11870,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Get serving plate and utensils, scoop rice",
+                    "start_timestamp": 9050,
+                    "stop_timestamp": 10191
+                },
+                {
+                    "secondary_subgoal": "Scoop and place rice onto plate",
+                    "start_timestamp": 10191,
+                    "stop_timestamp": 10354
+                },
+                {
+                    "secondary_subgoal": "Scoop and place stew onto rice",
+                    "start_timestamp": 10354,
+                    "stop_timestamp": 11770
+                },
+                {
+                    "secondary_subgoal": "Spread and finalize serving",
+                    "start_timestamp": 11770,
+                    "stop_timestamp": 11870
+                }
+            ]
+        }
+    ]
+}

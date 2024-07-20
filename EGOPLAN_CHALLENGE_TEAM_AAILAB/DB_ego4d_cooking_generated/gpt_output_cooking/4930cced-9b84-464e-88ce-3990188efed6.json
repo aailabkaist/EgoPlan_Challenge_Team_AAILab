@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeaOSjmJPipFdHdS84p5eHHtQHYk",
+    "object": "chat.completion",
+    "created": 1719476160,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook a meal in the kitchen.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare ingredients for cooking\",\n      \"start_timestamp\": 115,\n      \"stop_timestamp\": 3412,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gather and organize kitchen area\",\n          \"start_timestamp\": 115,\n          \"stop_timestamp\": 273\n        },\n        {\n          \"secondary_subgoal\": \"Look around the kitchen\",\n          \"start_timestamp\": 273,\n          \"stop_timestamp\": 447\n        },\n        {\n          \"secondary_subgoal\": \"Pick and prepare initial ingredients\",\n          \"start_timestamp\": 447,\n          \"stop_timestamp\": 918\n        },\n        {\n          \"secondary_subgoal\": \"Look around the kitchen\",\n          \"start_timestamp\": 918,\n          \"stop_timestamp\": 1125\n        },\n        {\n          \"secondary_subgoal\": \"Open doors and cabinets to find ingredients\",\n          \"start_timestamp\": 1125,\n          \"stop_timestamp\": 1463\n        },\n        {\n          \"secondary_subgoal\": \"Handle and organize tins and containers\",\n          \"start_timestamp\": 1463,\n          \"stop_timestamp\": 2369\n        },\n        {\n          \"secondary_subgoal\": \"Tie hair and continue looking around\",\n          \"start_timestamp\": 2369,\n          \"stop_timestamp\": 3047\n        },\n        {\n          \"secondary_subgoal\": \"Pick up and organize further kitchen items\",\n          \"start_timestamp\": 3047,\n          \"stop_timestamp\": 3412\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare cooking space and utensils\",\n      \"start_timestamp\": 3412,\n      \"stop_timestamp\": 8040,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash and prepare potatoes\",\n          \"start_timestamp\": 3412,\n          \"stop_timestamp\": 8027\n        },\n        {\n          \"secondary_subgoal\": \"Chop and organize cooking ingredients\",\n          \"start_timestamp\": 8027,\n          \"stop_timestamp\": 8040\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook the prepared ingredients\",\n      \"start_timestamp\": 8040,\n      \"stop_timestamp\": 18800,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Chop and cook potatoes\",\n          \"start_timestamp\": 8040,\n          \"stop_timestamp\": 8573\n        },\n        {\n          \"secondary_subgoal\": \"Interact with the cooking process\",\n          \"start_timestamp\": 8573,\n          \"stop_timestamp\": 18800\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean kitchen tools and utensils\",\n      \"start_timestamp\": 18800,\n      \"stop_timestamp\": 26600,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash and clean kitchen tools\",\n          \"start_timestamp\": 18800,\n          \"stop_timestamp\": 25291\n        },\n        {\n          \"secondary_subgoal\": \"Look around and organize kitchen space\",\n          \"start_timestamp\": 25291,\n          \"stop_timestamp\": 26600\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Reorganize and complete food preparation\",\n      \"start_timestamp\": 26600,\n      \"stop_timestamp\": 54021,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Reorganize and store kitchen items\",\n          \"start_timestamp\": 26600,\n          \"stop_timestamp\": 36741\n        },\n        {\n          \"secondary_subgoal\": \"Cook and adjust the food preparation\",\n          \"start_timestamp\": 36741,\n          \"stop_timestamp\": 54021\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 5152,
+        "completion_tokens": 803,
+        "total_tokens": 5955
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

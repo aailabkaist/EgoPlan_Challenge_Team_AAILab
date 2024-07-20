@@ -1,0 +1,111 @@
+{
+    "overall_goal": "Prepare and cook a meal using cabbage and other ingredients",
+    "clips": [
+        {
+            "subgoal": "Prepare and cut cabbage",
+            "start_timestamp": "35",
+            "stop_timestamp": "11075",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and place pieces of cabbage",
+                    "start_timestamp": "35",
+                    "stop_timestamp": "65"
+                },
+                {
+                    "secondary_subgoal": "Pick and cut cabbage with knife",
+                    "start_timestamp": "65",
+                    "stop_timestamp": "376"
+                },
+                {
+                    "secondary_subgoal": "Put cut cabbage in container",
+                    "start_timestamp": "376",
+                    "stop_timestamp": "412"
+                },
+                {
+                    "secondary_subgoal": "Continue picking, cutting, and placing cabbage in container",
+                    "start_timestamp": "412",
+                    "stop_timestamp": "1138"
+                },
+                {
+                    "secondary_subgoal": "Hold and cut cabbage",
+                    "start_timestamp": "1138",
+                    "stop_timestamp": "1360"
+                },
+                {
+                    "secondary_subgoal": "Handle and place pieces of cabbage in container",
+                    "start_timestamp": "1360",
+                    "stop_timestamp": "1407"
+                },
+                {
+                    "secondary_subgoal": "Continue cutting and placing cabbage",
+                    "start_timestamp": "1407",
+                    "stop_timestamp": "14219"
+                },
+                {
+                    "secondary_subgoal": "Move, cut, and peel cabbage",
+                    "start_timestamp": "14219",
+                    "stop_timestamp": "15264"
+                },
+                {
+                    "secondary_subgoal": "Handle phone while preparing cabbage",
+                    "start_timestamp": "15264",
+                    "stop_timestamp": "21244"
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle phone and other kitchen tools while preparing onions and food",
+            "start_timestamp": "21244",
+            "stop_timestamp": "43000",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Dialing phone and handling ingredients/utensils",
+                    "start_timestamp": "21244",
+                    "stop_timestamp": "21949"
+                },
+                {
+                    "secondary_subgoal": "Mix and place food ingredients with spoon",
+                    "start_timestamp": "21949",
+                    "stop_timestamp": "22695"
+                },
+                {
+                    "secondary_subgoal": "Move around the room handling plants and outside space",
+                    "start_timestamp": "22695",
+                    "stop_timestamp": "23718"
+                },
+                {
+                    "secondary_subgoal": "Wash and cut leaves, mix with food",
+                    "start_timestamp": "23718",
+                    "stop_timestamp": "30548"
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing and cutting onions mixing with other ingredients",
+            "start_timestamp": "30548",
+            "stop_timestamp": "43997",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel, cut and mix onions with food",
+                    "start_timestamp": "30548",
+                    "stop_timestamp": "35612"
+                },
+                {
+                    "secondary_subgoal": "Open fridge, handle butter, mix with food",
+                    "start_timestamp": "35612",
+                    "stop_timestamp": "40393"
+                },
+                {
+                    "secondary_subgoal": "Cut and mix more ingredients with food",
+                    "start_timestamp": "40393",
+                    "stop_timestamp": "43000"
+                },
+                {
+                    "secondary_subgoal": "Find and handle additional ingredients, mix in food",
+                    "start_timestamp": "43000",
+                    "stop_timestamp": "43997"
+                }
+            ]
+        }
+    ]
+}

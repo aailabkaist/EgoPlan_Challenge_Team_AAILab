@@ -1,0 +1,1047 @@
+[
+    {
+        "task_goal": "Fetch first batch of water.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens a faucet",
+                "start_frame": 13,
+                "stop_frame": 32
+            },
+            {
+                "narration_text": "#C C fetches water with a cup",
+                "start_frame": 32,
+                "stop_frame": 65
+            },
+            {
+                "narration_text": "#C C closes a faucet",
+                "start_frame": 65,
+                "stop_frame": 91
+            }
+        ]
+    },
+    {
+        "task_goal": "Close faucet and walk around the kitchen.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C fetches water with a cup",
+                "start_frame": 32,
+                "stop_frame": 65
+            },
+            {
+                "narration_text": "#C C closes a faucet",
+                "start_frame": 65,
+                "stop_frame": 91
+            },
+            {
+                "narration_text": "#C C walks around the kitchen",
+                "start_frame": 91,
+                "stop_frame": 141
+            },
+            {
+                "narration_text": "#C C puts water in the cooking pot",
+                "start_frame": 141,
+                "stop_frame": 193
+            }
+        ]
+    },
+    {
+        "task_goal": "Put water in the cooking pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around the kitchen",
+                "start_frame": 91,
+                "stop_frame": 141
+            },
+            {
+                "narration_text": "#C C puts water in the cooking pot",
+                "start_frame": 141,
+                "stop_frame": 193
+            },
+            {
+                "narration_text": "#C C walks around the kitchen",
+                "start_frame": 193,
+                "stop_frame": 215
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk around the kitchen.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts water in the cooking pot",
+                "start_frame": 141,
+                "stop_frame": 193
+            },
+            {
+                "narration_text": "#C C walks around the kitchen",
+                "start_frame": 193,
+                "stop_frame": 215
+            },
+            {
+                "narration_text": "#C C looks around the kitchen",
+                "start_frame": 215,
+                "stop_frame": 239
+            },
+            {
+                "narration_text": "#C C turns off the gas cooker",
+                "start_frame": 239,
+                "stop_frame": 278
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn off the gas cooker.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks around the kitchen",
+                "start_frame": 215,
+                "stop_frame": 239
+            },
+            {
+                "narration_text": "#C C turns off the gas cooker",
+                "start_frame": 239,
+                "stop_frame": 278
+            },
+            {
+                "narration_text": "#C C opens a faucet",
+                "start_frame": 278,
+                "stop_frame": 295
+            }
+        ]
+    },
+    {
+        "task_goal": "Fetch second batch of water.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C turns off the gas cooker",
+                "start_frame": 239,
+                "stop_frame": 278
+            },
+            {
+                "narration_text": "#C C opens a faucet",
+                "start_frame": 278,
+                "stop_frame": 295
+            },
+            {
+                "narration_text": "#C C fetches water with a cup",
+                "start_frame": 295,
+                "stop_frame": 337
+            },
+            {
+                "narration_text": "#C C closes a faucet",
+                "start_frame": 337,
+                "stop_frame": 369
+            }
+        ]
+    },
+    {
+        "task_goal": "Close faucet and walk around the kitchen.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C fetches water with a cup",
+                "start_frame": 295,
+                "stop_frame": 337
+            },
+            {
+                "narration_text": "#C C closes a faucet",
+                "start_frame": 337,
+                "stop_frame": 369
+            },
+            {
+                "narration_text": "#C C walks around the kitchen",
+                "start_frame": 369,
+                "stop_frame": 408
+            },
+            {
+                "narration_text": "#C C puts water in the cooking pot",
+                "start_frame": 408,
+                "stop_frame": 453
+            }
+        ]
+    },
+    {
+        "task_goal": "Put water in the cooking pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around the kitchen",
+                "start_frame": 369,
+                "stop_frame": 408
+            },
+            {
+                "narration_text": "#C C puts water in the cooking pot",
+                "start_frame": 408,
+                "stop_frame": 453
+            },
+            {
+                "narration_text": "#C C moves around the kitchen",
+                "start_frame": 453,
+                "stop_frame": 481
+            }
+        ]
+    },
+    {
+        "task_goal": "Move around the kitchen.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts water in the cooking pot",
+                "start_frame": 408,
+                "stop_frame": 453
+            },
+            {
+                "narration_text": "#C C moves around the kitchen",
+                "start_frame": 453,
+                "stop_frame": 481
+            },
+            {
+                "narration_text": "#C C opens a faucet",
+                "start_frame": 481,
+                "stop_frame": 499
+            },
+            {
+                "narration_text": "#C C fetches water with a cup",
+                "start_frame": 499,
+                "stop_frame": 533
+            },
+            {
+                "narration_text": "#C C closes a faucet",
+                "start_frame": 533,
+                "stop_frame": 553
+            }
+        ]
+    },
+    {
+        "task_goal": "Fetch third batch of water.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C fetches water with a cup",
+                "start_frame": 499,
+                "stop_frame": 533
+            },
+            {
+                "narration_text": "#C C closes a faucet",
+                "start_frame": 533,
+                "stop_frame": 553
+            },
+            {
+                "narration_text": "#C C moves around the kitchen",
+                "start_frame": 553,
+                "stop_frame": 601
+            }
+        ]
+    },
+    {
+        "task_goal": "Close faucet and move around the kitchen.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes a faucet",
+                "start_frame": 533,
+                "stop_frame": 553
+            },
+            {
+                "narration_text": "#C C moves around the kitchen",
+                "start_frame": 553,
+                "stop_frame": 601
+            },
+            {
+                "narration_text": "#C C puts water in the cooking pot",
+                "start_frame": 601,
+                "stop_frame": 635
+            }
+        ]
+    },
+    {
+        "task_goal": "Put water in the cooking pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves around the kitchen",
+                "start_frame": 553,
+                "stop_frame": 601
+            },
+            {
+                "narration_text": "#C C puts water in the cooking pot",
+                "start_frame": 601,
+                "stop_frame": 635
+            },
+            {
+                "narration_text": "#C C moves around the kitchen",
+                "start_frame": 635,
+                "stop_frame": 666
+            }
+        ]
+    },
+    {
+        "task_goal": "Move around the kitchen.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts water in the cooking pot",
+                "start_frame": 601,
+                "stop_frame": 635
+            },
+            {
+                "narration_text": "#C C moves around the kitchen",
+                "start_frame": 635,
+                "stop_frame": 666
+            },
+            {
+                "narration_text": "#C C opens a faucet",
+                "start_frame": 666,
+                "stop_frame": 682
+            },
+            {
+                "narration_text": "#C C fetches water with a cup",
+                "start_frame": 682,
+                "stop_frame": 717
+            }
+        ]
+    },
+    {
+        "task_goal": "Fetch fourth batch of water.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens a faucet",
+                "start_frame": 666,
+                "stop_frame": 682
+            },
+            {
+                "narration_text": "#C C fetches water with a cup",
+                "start_frame": 682,
+                "stop_frame": 717
+            },
+            {
+                "narration_text": "#C C closes a faucet",
+                "start_frame": 717,
+                "stop_frame": 738
+            }
+        ]
+    },
+    {
+        "task_goal": "Close faucet and move around the kitchen.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C fetches water with a cup",
+                "start_frame": 682,
+                "stop_frame": 717
+            },
+            {
+                "narration_text": "#C C closes a faucet",
+                "start_frame": 717,
+                "stop_frame": 738
+            },
+            {
+                "narration_text": "#C C moves around the kitchen",
+                "start_frame": 738,
+                "stop_frame": 772
+            }
+        ]
+    },
+    {
+        "task_goal": "Put water in the cooking pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes a faucet",
+                "start_frame": 717,
+                "stop_frame": 738
+            },
+            {
+                "narration_text": "#C C moves around the kitchen",
+                "start_frame": 738,
+                "stop_frame": 772
+            },
+            {
+                "narration_text": "#C C puts water in the cooking pot",
+                "start_frame": 772,
+                "stop_frame": 803
+            }
+        ]
+    },
+    {
+        "task_goal": "Move around the kitchen.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves around the kitchen",
+                "start_frame": 738,
+                "stop_frame": 772
+            },
+            {
+                "narration_text": "#C C puts water in the cooking pot",
+                "start_frame": 772,
+                "stop_frame": 803
+            },
+            {
+                "narration_text": "#C C moves around the kitchen",
+                "start_frame": 803,
+                "stop_frame": 837
+            },
+            {
+                "narration_text": "#C C opens a faucet",
+                "start_frame": 837,
+                "stop_frame": 848
+            }
+        ]
+    },
+    {
+        "task_goal": "Fetch final batch of water.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves around the kitchen",
+                "start_frame": 803,
+                "stop_frame": 837
+            },
+            {
+                "narration_text": "#C C opens a faucet",
+                "start_frame": 837,
+                "stop_frame": 848
+            },
+            {
+                "narration_text": "#C C fetches water with a cup",
+                "start_frame": 848,
+                "stop_frame": 873
+            },
+            {
+                "narration_text": "#C C closes a faucet",
+                "start_frame": 873,
+                "stop_frame": 902
+            }
+        ]
+    },
+    {
+        "task_goal": "Close faucet and move around the kitchen.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C fetches water with a cup",
+                "start_frame": 848,
+                "stop_frame": 873
+            },
+            {
+                "narration_text": "#C C closes a faucet",
+                "start_frame": 873,
+                "stop_frame": 902
+            },
+            {
+                "narration_text": "#C C moves around the kitchen",
+                "start_frame": 902,
+                "stop_frame": 937
+            }
+        ]
+    },
+    {
+        "task_goal": "Put water in the cooking pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes a faucet",
+                "start_frame": 873,
+                "stop_frame": 902
+            },
+            {
+                "narration_text": "#C C moves around the kitchen",
+                "start_frame": 902,
+                "stop_frame": 937
+            },
+            {
+                "narration_text": "#C C puts water in the cooking pot",
+                "start_frame": 937,
+                "stop_frame": 993
+            }
+        ]
+    },
+    {
+        "task_goal": "Put the cup on the countertop.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts water in the cooking pot",
+                "start_frame": 937,
+                "stop_frame": 993
+            },
+            {
+                "narration_text": "#C C puts the cup on the countertop",
+                "start_frame": 993,
+                "stop_frame": 1031
+            },
+            {
+                "narration_text": "#C C picks a wooden flat spoon in the cooking pot",
+                "start_frame": 1031,
+                "stop_frame": 1047
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare physical cooking setup and initial steps of cooking.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the cup on the countertop",
+                "start_frame": 993,
+                "stop_frame": 1031
+            },
+            {
+                "narration_text": "#C C picks a wooden flat spoon in the cooking pot",
+                "start_frame": 1031,
+                "stop_frame": 1047
+            },
+            {
+                "narration_text": "#C C scoops #unsure in the cooking pot with a flat spoon",
+                "start_frame": 1047,
+                "stop_frame": 1085
+            },
+            {
+                "narration_text": "#C C stirs #unsure in the cooking pot with a flat spoon",
+                "start_frame": 1085,
+                "stop_frame": 1334
+            },
+            {
+                "narration_text": "#C C hits the cooking pot with a flat spoon",
+                "start_frame": 1334,
+                "stop_frame": 1431
+            },
+            {
+                "narration_text": "#C C puts the flat spoon on the cup",
+                "start_frame": 1431,
+                "stop_frame": 1475
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick wooden flat spoon and stir the cooking pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the cup on the countertop",
+                "start_frame": 993,
+                "stop_frame": 1031
+            },
+            {
+                "narration_text": "#C C picks a wooden flat spoon in the cooking pot",
+                "start_frame": 1031,
+                "stop_frame": 1047
+            },
+            {
+                "narration_text": "#C C scoops #unsure in the cooking pot with a flat spoon",
+                "start_frame": 1047,
+                "stop_frame": 1085
+            },
+            {
+                "narration_text": "#C C stirs #unsure in the cooking pot with a flat spoon",
+                "start_frame": 1085,
+                "stop_frame": 1334
+            }
+        ]
+    },
+    {
+        "task_goal": "Hit the cooking pot with flat spoon.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stirs #unsure in the cooking pot with a flat spoon",
+                "start_frame": 1085,
+                "stop_frame": 1334
+            },
+            {
+                "narration_text": "#C C hits the cooking pot with a flat spoon",
+                "start_frame": 1334,
+                "stop_frame": 1431
+            },
+            {
+                "narration_text": "#C C puts the flat spoon on the cup",
+                "start_frame": 1431,
+                "stop_frame": 1475
+            }
+        ]
+    },
+    {
+        "task_goal": "Put the flat spoon on the cup.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C hits the cooking pot with a flat spoon",
+                "start_frame": 1334,
+                "stop_frame": 1431
+            },
+            {
+                "narration_text": "#C C puts the flat spoon on the cup",
+                "start_frame": 1431,
+                "stop_frame": 1475
+            },
+            {
+                "narration_text": "#C C picks a plastic paper on the countertop",
+                "start_frame": 1475,
+                "stop_frame": 1496
+            }
+        ]
+    },
+    {
+        "task_goal": "Straighten, fold, and put plastic paper in woven bag.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the flat spoon on the cup",
+                "start_frame": 1431,
+                "stop_frame": 1475
+            },
+            {
+                "narration_text": "#C C picks a plastic paper on the countertop",
+                "start_frame": 1475,
+                "stop_frame": 1496
+            },
+            {
+                "narration_text": "#C C straightens a plastic paper",
+                "start_frame": 1496,
+                "stop_frame": 1571
+            },
+            {
+                "narration_text": "#C C folds a plastic paper",
+                "start_frame": 1571,
+                "stop_frame": 1622
+            },
+            {
+                "narration_text": "#C C puts a plastic paper in a woven back",
+                "start_frame": 1622,
+                "stop_frame": 1630
+            },
+            {
+                "narration_text": "#C C turns around",
+                "start_frame": 1630,
+                "stop_frame": 1664
+            },
+            {
+                "narration_text": "#C C picks a box of #unsure on the countertop",
+                "start_frame": 1664,
+                "stop_frame": 1682
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and place box of unsures around.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a box of #unsure on the countertop",
+                "start_frame": 1664,
+                "stop_frame": 1682
+            },
+            {
+                "narration_text": "#C C turns around",
+                "start_frame": 1682,
+                "stop_frame": 1717
+            },
+            {
+                "narration_text": "#C C puts a box of #unsure in a corner",
+                "start_frame": 1717,
+                "stop_frame": 1751
+            },
+            {
+                "narration_text": "#C C turns around",
+                "start_frame": 1751,
+                "stop_frame": 1766
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk around house and put plastic paper in dustbin.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts a box of #unsure in a corner",
+                "start_frame": 1717,
+                "stop_frame": 1751
+            },
+            {
+                "narration_text": "#C C turns around",
+                "start_frame": 1751,
+                "stop_frame": 1766
+            },
+            {
+                "narration_text": "#C C walks around the house",
+                "start_frame": 1766,
+                "stop_frame": 1805
+            },
+            {
+                "narration_text": "#C C moves a knife on the chopping board",
+                "start_frame": 1805,
+                "stop_frame": 1827
+            },
+            {
+                "narration_text": "#C C picks a plastic paper on the countertop",
+                "start_frame": 1827,
+                "stop_frame": 1851
+            },
+            {
+                "narration_text": "#C C folds a plastic paper",
+                "start_frame": 1851,
+                "stop_frame": 1873
+            },
+            {
+                "narration_text": "#C C turns around",
+                "start_frame": 1873,
+                "stop_frame": 1914
+            },
+            {
+                "narration_text": "#C C opens a dustbin container",
+                "start_frame": 1914,
+                "stop_frame": 1931
+            },
+            {
+                "narration_text": "#C C puts a plastic paper in the dustbin",
+                "start_frame": 1931,
+                "stop_frame": 1942
+            },
+            {
+                "narration_text": "#C C closes a dustbin container",
+                "start_frame": 1942,
+                "stop_frame": 1943
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick pack of unsure and move chopping board.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around the house",
+                "start_frame": 1953,
+                "stop_frame": 1979
+            },
+            {
+                "narration_text": "#C C picks a pack of #unsure on the chopping board",
+                "start_frame": 1979,
+                "stop_frame": 2005
+            },
+            {
+                "narration_text": "#C C puts a pack of #unsure on the countertop",
+                "start_frame": 2005,
+                "stop_frame": 2009
+            },
+            {
+                "narration_text": "#C C moves chopping board on the countertop",
+                "start_frame": 2009,
+                "stop_frame": 2034
+            },
+            {
+                "narration_text": "#C C picks a knife on the chopping board",
+                "start_frame": 2034,
+                "stop_frame": 2083
+            },
+            {
+                "narration_text": "#C C looks around the house",
+                "start_frame": 2083,
+                "stop_frame": 2142
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick knife, chopping board, and other items around the house.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks a knife on the chopping board",
+                "start_frame": 2034,
+                "stop_frame": 2083
+            },
+            {
+                "narration_text": "#C C looks around the house",
+                "start_frame": 2083,
+                "stop_frame": 2142
+            },
+            {
+                "narration_text": "#C C puts a knife on the chopping board",
+                "start_frame": 2142,
+                "stop_frame": 2150
+            },
+            {
+                "narration_text": "#C C turns around",
+                "start_frame": 2150,
+                "stop_frame": 2162
+            },
+            {
+                "narration_text": "#C C walks around the house",
+                "start_frame": 2162,
+                "stop_frame": 2208
+            },
+            {
+                "narration_text": "#C C picks eggplants in a nylon paper on the table",
+                "start_frame": 2208,
+                "stop_frame": 2244
+            },
+            {
+                "narration_text": "#C C unwraps eggplants in a nylon paper",
+                "start_frame": 2244,
+                "stop_frame": 2403
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare the capsicum.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks in the room.",
+                "start_frame": 11707,
+                "stop_frame": 11767
+            },
+            {
+                "narration_text": "#C C picks capsicum.",
+                "start_frame": 11767,
+                "stop_frame": 11800
+            },
+            {
+                "narration_text": "#C C opens the paper on the capsicum",
+                "start_frame": 11800,
+                "stop_frame": 11925
+            },
+            {
+                "narration_text": "#C C places the paper beside the chopping board.",
+                "start_frame": 11925,
+                "stop_frame": 11967
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean and cut capsicum.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the tap.",
+                "start_frame": 11967,
+                "stop_frame": 11991
+            },
+            {
+                "narration_text": "#C C cleans the capsicum.",
+                "start_frame": 11991,
+                "stop_frame": 12104
+            },
+            {
+                "narration_text": "#C C picks the knife from the chopping board.",
+                "start_frame": 12104,
+                "stop_frame": 12142
+            },
+            {
+                "narration_text": "#C C cleans the knife.",
+                "start_frame": 12142,
+                "stop_frame": 12197
+            },
+            {
+                "narration_text": "#C C closes the tap.",
+                "start_frame": 12197,
+                "stop_frame": 12251
+            },
+            {
+                "narration_text": "#C C places the capsicum on the chopping board.",
+                "start_frame": 12251,
+                "stop_frame": 12311
+            },
+            {
+                "narration_text": "#C C cuts the capsicum.",
+                "start_frame": 12311,
+                "stop_frame": 12361
+            },
+            {
+                "narration_text": "#C C places the knife on the chopping board.",
+                "start_frame": 12361,
+                "stop_frame": 12378
+            },
+            {
+                "narration_text": "#C C holds the capsicum.",
+                "start_frame": 12378,
+                "stop_frame": 12423
+            },
+            {
+                "narration_text": "#C C places half of the capsicum on the paper.",
+                "start_frame": 12423,
+                "stop_frame": 12470
+            },
+            {
+                "narration_text": "#C C removes the inner part of the capsicum.",
+                "start_frame": 12470,
+                "stop_frame": 12526
+            },
+            {
+                "narration_text": "#C C drops the inner part of the capsicum in the sink.",
+                "start_frame": 12526,
+                "stop_frame": 12541
+            },
+            {
+                "narration_text": "#C C removes the stalk of the capsicum.",
+                "start_frame": 12541,
+                "stop_frame": 12560
+            },
+            {
+                "narration_text": "#C C drops the stalk of the capsicum in the sink.",
+                "start_frame": 12560,
+                "stop_frame": 12604
+            },
+            {
+                "narration_text": "#C C removes the inner parts of the capsicum.",
+                "start_frame": 12604,
+                "stop_frame": 12690
+            },
+            {
+                "narration_text": "#C C throws the inner parts of the capsicum in the sink.",
+                "start_frame": 12690,
+                "stop_frame": 12715
+            },
+            {
+                "narration_text": "#C C removes the inner parts of the capsicum.",
+                "start_frame": 12715,
+                "stop_frame": 12728
+            },
+            {
+                "narration_text": "#C C throws the inner parts of the capsicum in the sink.",
+                "start_frame": 12728,
+                "stop_frame": 12755
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut inner parts of the capsicum.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C removes the inner parts of the capsicum.",
+                "start_frame": 12715,
+                "stop_frame": 12728
+            },
+            {
+                "narration_text": "#C C throws the inner parts of the capsicum in the sink.",
+                "start_frame": 12728,
+                "stop_frame": 12755
+            },
+            {
+                "narration_text": "#C C picks the knife from the chopping board.",
+                "start_frame": 12755,
+                "stop_frame": 12760
+            },
+            {
+                "narration_text": "#C C places the capsicum on the chopping board",
+                "start_frame": 12760,
+                "stop_frame": 12782
+            },
+            {
+                "narration_text": "#C C cuts the capsicum.",
+                "start_frame": 12782,
+                "stop_frame": 13401
+            },
+            {
+                "narration_text": "#C C brings together the cut capsicum.",
+                "start_frame": 13401,
+                "stop_frame": 13439
+            }
+        ]
+    },
+    {
+        "task_goal": "Unwrap and clean cucumber.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in the room.",
+                "start_frame": 13544,
+                "stop_frame": 13606
+            },
+            {
+                "narration_text": "#C C picks cucumber from the table.",
+                "start_frame": 13606,
+                "stop_frame": 13662
+            },
+            {
+                "narration_text": "#C C picks the knife from the chopping board.",
+                "start_frame": 13662,
+                "stop_frame": 13710
+            },
+            {
+                "narration_text": "#C C cuts the paper on the cucumber.",
+                "start_frame": 13710,
+                "stop_frame": 13733
+            },
+            {
+                "narration_text": "#C C places the knife on the chopping board.",
+                "start_frame": 13733,
+                "stop_frame": 13746
+            },
+            {
+                "narration_text": "#C C removes the paper from the cucumber.",
+                "start_frame": 13746,
+                "stop_frame": 13818
+            },
+            {
+                "narration_text": "#C C drops the paper beside the capsicum.",
+                "start_frame": 13818,
+                "stop_frame": 13857
+            },
+            {
+                "narration_text": "#C C opens the tap.",
+                "start_frame": 13857,
+                "stop_frame": 13877
+            },
+            {
+                "narration_text": "#C C cleans the cucumber.",
+                "start_frame": 13877,
+                "stop_frame": 13991
+            },
+            {
+                "narration_text": "#C C closes the tap.",
+                "start_frame": 13991,
+                "stop_frame": 14012
+            },
+            {
+                "narration_text": "#C C picks the knife from the chopping board.",
+                "start_frame": 14012,
+                "stop_frame": 14038
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut and prepare cucumber.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the knife from the chopping board.",
+                "start_frame": 14012,
+                "stop_frame": 14038
+            },
+            {
+                "narration_text": "#C C cuts the stalk of the cucumber.",
+                "start_frame": 14038,
+                "stop_frame": 14073
+            },
+            {
+                "narration_text": "#C C holds the stalk of the cucumber.",
+                "start_frame": 14073,
+                "stop_frame": 14078
+            },
+            {
+                "narration_text": "#C C throws the stalk of the cucumber in the sink.",
+                "start_frame": 14078,
+                "stop_frame": 14119
+            },
+            {
+                "narration_text": "#C C cuts the cucumber.",
+                "start_frame": 14119,
+                "stop_frame": 14931
+            },
+            {
+                "narration_text": "#C C throws the cut off part of the cucumber.",
+                "start_frame": 14931,
+                "stop_frame": 14978
+            },
+            {
+                "narration_text": "#C C cuts the cucumber.",
+                "start_frame": 14978,
+                "stop_frame": 15011
+            },
+            {
+                "narration_text": "#C C brings together the cut cucumber.",
+                "start_frame": 15011,
+                "stop_frame": 15087
+            },
+            {
+                "narration_text": "#C C places the knife on the chopping board.",
+                "start_frame": 15087,
+                "stop_frame": 15109
+            }
+        ]
+    },
+    {
+        "task_goal": "Place knife on chopping board.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places the knife on the chopping board.",
+                "start_frame": 15087,
+                "stop_frame": 15109
+            },
+            {
+                "narration_text": "#C C walks in the room.",
+                "start_frame": 15109,
+                "stop_frame": 15173
+            },
+            {
+                "narration_text": "#C C picks pumpkin from the table.",
+                "start_frame": 15173,
+                "stop_frame": 15218
+            }
+        ]
+    }
+]

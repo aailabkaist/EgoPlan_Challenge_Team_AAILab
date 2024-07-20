@@ -1,0 +1,92 @@
+{
+    "overall_goal": "Cook and prepare several dishes including rice, soup, and sugar syrup",
+    "clips": [
+        {
+            "subgoal": "Prepare and cook the rice and stew",
+            "start_timestamp": 0,
+            "stop_timestamp": 24507,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Initial setup and cooking preparation",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 428
+                },
+                {
+                    "secondary_subgoal": "Cook and stir rice",
+                    "start_timestamp": 428,
+                    "stop_timestamp": 90846
+                },
+                {
+                    "secondary_subgoal": "Variety of miscellaneous actions including stirring and adjusting pots",
+                    "start_timestamp": 90846,
+                    "stop_timestamp": 90903
+                },
+                {
+                    "secondary_subgoal": "Finalize and serve rice",
+                    "start_timestamp": 90903,
+                    "stop_timestamp": 24507
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir and adjust soup",
+            "start_timestamp": 24507,
+            "stop_timestamp": 68626,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir and adjust the cooking soup",
+                    "start_timestamp": 24507,
+                    "stop_timestamp": 69028
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare mixture with the soup",
+            "start_timestamp": 69028,
+            "stop_timestamp": 109240,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mix soup and prepare paste",
+                    "start_timestamp": 69028,
+                    "stop_timestamp": 109240
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook and mold rice balls",
+            "start_timestamp": 109240,
+            "stop_timestamp": 134699,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mold rice balls with stirred mixture",
+                    "start_timestamp": 109240,
+                    "stop_timestamp": 134699
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook sugar syrup",
+            "start_timestamp": 134699,
+            "stop_timestamp": 158619,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cook sugar syrup and perform cleaning tasks",
+                    "start_timestamp": 134699,
+                    "stop_timestamp": 158619
+                }
+            ]
+        },
+        {
+            "subgoal": "Miscellaneous kitchen tasks",
+            "start_timestamp": 158619,
+            "stop_timestamp": 159240,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Final adjustments and clean-up",
+                    "start_timestamp": 158619,
+                    "stop_timestamp": 159240
+                }
+            ]
+        }
+    ]
+}

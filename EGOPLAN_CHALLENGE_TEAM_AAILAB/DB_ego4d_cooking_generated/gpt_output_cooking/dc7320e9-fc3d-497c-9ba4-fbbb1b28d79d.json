@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehjYgGmS8Gwi3DEeut4nAb2kRsrk",
+    "object": "chat.completion",
+    "created": 1719488260,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and serve food, and clean up afterwards\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Wash hands\",\n      \"start_timestamp\": 58,\n      \"stop_timestamp\": 446,\n      \"sub_clips\": [\n        { \"secondary_subgoal\": \"Turn on tap\", \"start_timestamp\": 58, \"stop_timestamp\": 85 },\n        { \"secondary_subgoal\": \"Put detergent in hand\", \"start_timestamp\": 85, \"stop_timestamp\": 104 },\n        { \"secondary_subgoal\": \"Smear detergent on hands\", \"start_timestamp\": 104, \"stop_timestamp\": 232 },\n        { \"secondary_subgoal\": \"Wash hands\", \"start_timestamp\": 232, \"stop_timestamp\": 368 },\n        { \"secondary_subgoal\": \"Turn off tap\", \"start_timestamp\": 368, \"stop_timestamp\": 446 }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare cooking materials\",\n      \"start_timestamp\": 446,\n      \"stop_timestamp\": 1157,\n      \"sub_clips\": [\n        { \"secondary_subgoal\": \"Gather utensils\", \"start_timestamp\": 446, \"stop_timestamp\": 868 },\n        { \"secondary_subgoal\": \"Start prep of ingredients\", \"start_timestamp\": 868, \"stop_timestamp\": 1157 }\n      ]\n    },\n    {\n      \"subgoal\": \"Work with polythene, flour, and water\",\n      \"start_timestamp\": 1157,\n      \"stop_timestamp\": 2483,\n      \"sub_clips\": [\n        { \"secondary_subgoal\": \"Manipulate flour and water\", \"start_timestamp\": 1157, \"stop_timestamp\": 1243 },\n        { \"secondary_subgoal\": \"Work with nylon papers and scissors\", \"start_timestamp\": 1243, \"stop_timestamp\": 1732 },\n        { \"secondary_subgoal\": \"Handle polythene bag and flour\", \"start_timestamp\": 1732, \"stop_timestamp\": 2384 },\n        { \"secondary_subgoal\": \"Stir and mix ingredients\", \"start_timestamp\": 2384, \"stop_timestamp\": 2483 }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and wrap food\",\n      \"start_timestamp\": 2483,\n      \"stop_timestamp\": 17497,\n      \"sub_clips\": [\n        { \"secondary_subgoal\": \"Initial food prep\", \"start_timestamp\": 2483, \"stop_timestamp\": 5438 },\n        { \"secondary_subgoal\": \"Wrap the food\", \"start_timestamp\": 5438, \"stop_timestamp\": 12023 },\n        { \"secondary_subgoal\": \"Final food serving\", \"start_timestamp\": 12023, \"stop_timestamp\": 17497 }\n      ]\n    },\n    {\n      \"subgoal\": \"Handle the dough\",\n      \"start_timestamp\": 17497,\n      \"stop_timestamp\": 20795,\n      \"sub_clips\": [\n        { \"secondary_subgoal\": \"Add oil and fold dough\", \"start_timestamp\": 17497, \"stop_timestamp\": 20532 },\n        { \"secondary_subgoal\": \"Handle side plate and clean up\", \"start_timestamp\": 20532, \"stop_timestamp\": 20795 }\n      ]\n    },\n    {\n      \"subgoal\": \"Final clean-up\",\n      \"start_timestamp\": 20795,\n      \"stop_timestamp\": 21096,\n      \"sub_clips\": [\n        { \"secondary_subgoal\": \"Throw away polythene paper\", \"start_timestamp\": 20795, \"stop_timestamp\": 20821 },\n        { \"secondary_subgoal\": \"Wash hands and side plate\", \"start_timestamp\": 20821, \"stop_timestamp\": 21096 }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3185,
+        "completion_tokens": 793,
+        "total_tokens": 3978
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

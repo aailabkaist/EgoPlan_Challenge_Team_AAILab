@@ -1,0 +1,382 @@
+[
+    {
+        "task_goal": "Operate mobile phone",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Operates a phone.",
+                "start_frame": 38,
+                "stop_frame": 82
+            },
+            {
+                "narration_text": "Moves around.",
+                "start_frame": 82,
+                "stop_frame": 184
+            }
+        ]
+    },
+    {
+        "task_goal": "Move around the kitchen",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Operates a phone.",
+                "start_frame": 38,
+                "stop_frame": 82
+            },
+            {
+                "narration_text": "Moves around.",
+                "start_frame": 82,
+                "stop_frame": 184
+            },
+            {
+                "narration_text": "Interacts with a person x.",
+                "start_frame": 184,
+                "stop_frame": 398
+            }
+        ]
+    },
+    {
+        "task_goal": "Interact with person x",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves around.",
+                "start_frame": 82,
+                "stop_frame": 184
+            },
+            {
+                "narration_text": "Interacts with a person x.",
+                "start_frame": 184,
+                "stop_frame": 398
+            },
+            {
+                "narration_text": "Person x moves a phone on the counter top.",
+                "start_frame": 398,
+                "stop_frame": 498
+            }
+        ]
+    },
+    {
+        "task_goal": "Open kitchen storage and fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Interacts with a person x.",
+                "start_frame": 184,
+                "stop_frame": 398
+            },
+            {
+                "narration_text": "Person x moves a phone on the counter top.",
+                "start_frame": 398,
+                "stop_frame": 498
+            },
+            {
+                "narration_text": "Person x opens a kitchen storage.",
+                "start_frame": 498,
+                "stop_frame": 564
+            },
+            {
+                "narration_text": "Opens the fridge.",
+                "start_frame": 564,
+                "stop_frame": 711
+            },
+            {
+                "narration_text": "Collects a container.",
+                "start_frame": 711,
+                "stop_frame": 823
+            }
+        ]
+    },
+    {
+        "task_goal": "Collect container and vegetables",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the fridge.",
+                "start_frame": 564,
+                "stop_frame": 711
+            },
+            {
+                "narration_text": "Collects a container.",
+                "start_frame": 711,
+                "stop_frame": 823
+            },
+            {
+                "narration_text": "Person x adjusts the cooker.",
+                "start_frame": 823,
+                "stop_frame": 878
+            },
+            {
+                "narration_text": "Person x closes the kitchen storage.",
+                "start_frame": 878,
+                "stop_frame": 927
+            },
+            {
+                "narration_text": "Holds a carrot.",
+                "start_frame": 927,
+                "stop_frame": 1059
+            },
+            {
+                "narration_text": "Drops the carrot in the container.",
+                "start_frame": 1059,
+                "stop_frame": 1090
+            }
+        ]
+    },
+    {
+        "task_goal": "Put items in container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a carrot.",
+                "start_frame": 927,
+                "stop_frame": 1059
+            },
+            {
+                "narration_text": "Drops the carrot in the container.",
+                "start_frame": 1059,
+                "stop_frame": 1090
+            },
+            {
+                "narration_text": "Person x moves the phone on the counter top.",
+                "start_frame": 1090,
+                "stop_frame": 1110
+            }
+        ]
+    },
+    {
+        "task_goal": "Place container on counter",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Person x moves the phone on the counter top.",
+                "start_frame": 1090,
+                "stop_frame": 1110
+            },
+            {
+                "narration_text": "Puts the container on the counter top.",
+                "start_frame": 1110,
+                "stop_frame": 1214
+            },
+            {
+                "narration_text": "Holds vegetables in a nylon paper.",
+                "start_frame": 1214,
+                "stop_frame": 1250
+            }
+        ]
+    },
+    {
+        "task_goal": "Collect a jar and put in fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds vegetables in a nylon paper.",
+                "start_frame": 1214,
+                "stop_frame": 1250
+            },
+            {
+                "narration_text": "Holds a jar.",
+                "start_frame": 1250,
+                "stop_frame": 1307
+            },
+            {
+                "narration_text": "Puts the jar in the fridge.",
+                "start_frame": 1307,
+                "stop_frame": 1366
+            },
+            {
+                "narration_text": "Drops the vegetables on the counter top.",
+                "start_frame": 1366,
+                "stop_frame": 1445
+            }
+        ]
+    },
+    {
+        "task_goal": "Organize fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Drops the vegetables on the counter top.",
+                "start_frame": 1366,
+                "stop_frame": 1445
+            },
+            {
+                "narration_text": "Arranges items in the fridge.",
+                "start_frame": 1445,
+                "stop_frame": 1620
+            },
+            {
+                "narration_text": "Closes the fridge.",
+                "start_frame": 1620,
+                "stop_frame": 1644
+            }
+        ]
+    },
+    {
+        "task_goal": "Collect and handle onions",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens a kitchen storage.",
+                "start_frame": 1644,
+                "stop_frame": 1685
+            },
+            {
+                "narration_text": "Collects onions.",
+                "start_frame": 1685,
+                "stop_frame": 1757
+            },
+            {
+                "narration_text": "Person x does unsure",
+                "start_frame": 1757,
+                "stop_frame": 1875
+            },
+            {
+                "narration_text": "Person x pours oil in a cooking pot.",
+                "start_frame": 1875,
+                "stop_frame": 1970
+            },
+            {
+                "narration_text": "Puts an onion on the counter top.",
+                "start_frame": 1970,
+                "stop_frame": 2028
+            },
+            {
+                "narration_text": "Person x sorts the container.",
+                "start_frame": 2028,
+                "stop_frame": 2112
+            }
+        ]
+    },
+    {
+        "task_goal": "Throw trash and move around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves around.",
+                "start_frame": 2314,
+                "stop_frame": 2352
+            },
+            {
+                "narration_text": "Throws trash in the trash bin.",
+                "start_frame": 2352,
+                "stop_frame": 2412
+            },
+            {
+                "narration_text": "Moves around.",
+                "start_frame": 2412,
+                "stop_frame": 2451
+            },
+            {
+                "narration_text": "Person x holds a knife.",
+                "start_frame": 2451,
+                "stop_frame": 2564
+            }
+        ]
+    },
+    {
+        "task_goal": "Peel and cut carrots",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves around.",
+                "start_frame": 2412,
+                "stop_frame": 2451
+            },
+            {
+                "narration_text": "Person x holds a knife.",
+                "start_frame": 2451,
+                "stop_frame": 2564
+            },
+            {
+                "narration_text": "Takes a peeler.",
+                "start_frame": 2564,
+                "stop_frame": 2589
+            },
+            {
+                "narration_text": "Arranges utensils on the sink.",
+                "start_frame": 2589,
+                "stop_frame": 2757
+            },
+            {
+                "narration_text": "Takes the peeler.",
+                "start_frame": 2757,
+                "stop_frame": 2843
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle onions and carrots",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts a piece of carrot on the counter top.",
+                "start_frame": 3088,
+                "stop_frame": 3156
+            },
+            {
+                "narration_text": "Person x does unsure",
+                "start_frame": 3156,
+                "stop_frame": 3247
+            },
+            {
+                "narration_text": "Peels the carrot.",
+                "start_frame": 3247,
+                "stop_frame": 3335
+            },
+            {
+                "narration_text": "Person x sorts cooking pots.",
+                "start_frame": 3335,
+                "stop_frame": 3554
+            },
+            {
+                "narration_text": "Person x closes the kitchen storage.",
+                "start_frame": 3554,
+                "stop_frame": 3647
+            },
+            {
+                "narration_text": "Person x operates the cooker.",
+                "start_frame": 3647,
+                "stop_frame": 3673
+            },
+            {
+                "narration_text": "Person x prepares an onion.",
+                "start_frame": 3673,
+                "stop_frame": 3780
+            },
+            {
+                "narration_text": "Person x drops the onion in the cooking pot.",
+                "start_frame": 3780,
+                "stop_frame": 3815
+            },
+            {
+                "narration_text": "Person x drops another onion in the cooking pot.",
+                "start_frame": 3815,
+                "stop_frame": 3852
+            },
+            {
+                "narration_text": "Person x takes a knife.",
+                "start_frame": 3852,
+                "stop_frame": 3905
+            },
+            {
+                "narration_text": "Person x peels an onion.",
+                "start_frame": 3905,
+                "stop_frame": 4057
+            },
+            {
+                "narration_text": "Person x takes the knife.",
+                "start_frame": 4057,
+                "stop_frame": 4128
+            }
+        ]
+    },
+    {
+        "task_goal": "Look around and blend food",
+        "task_progress_metadata": []
+    },
+    {
+        "task_goal": "Operate the blender",
+        "task_progress_metadata": []
+    },
+    {
+        "task_goal": "Handle cooking pots and additives",
+        "task_progress_metadata": []
+    },
+    {
+        "task_goal": "Wash utensils",
+        "task_progress_metadata": []
+    },
+    {
+        "task_goal": "Move and clean around",
+        "task_progress_metadata": []
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9deZGMHlHRNAECWAnBQyAI9IqWbGh",
+    "object": "chat.completion",
+    "created": 1719237762,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal involving cleaning and cutting green peppers and cooking them with meat and sauce.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare green peppers\",\n      \"start_timestamp\": 59,\n      \"stop_timestamp\": 10548,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Get green peppers from fridge\",\n          \"start_timestamp\": 59,\n          \"stop_timestamp\": 1022\n        },\n        {\n          \"secondary_subgoal\": \"Wash and cut green peppers\",\n          \"start_timestamp\": 1022,\n          \"stop_timestamp\": 1954\n        },\n        {\n          \"secondary_subgoal\": \"Clean green peppers again\",\n          \"start_timestamp\": 2435,\n          \"stop_timestamp\": 4855\n        },\n        {\n          \"secondary_subgoal\": \"Continue cutting green peppers\",\n          \"start_timestamp\": 4855,\n          \"stop_timestamp\": 7935\n        },\n        {\n          \"secondary_subgoal\": \"Prepare foil for storing green peppers\",\n          \"start_timestamp\": 8036,\n          \"stop_timestamp\": 9060\n        },\n        {\n          \"secondary_subgoal\": \"Store green peppers in fridge\",\n          \"start_timestamp\": 10095,\n          \"stop_timestamp\": 10548\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare meat\",\n      \"start_timestamp\": 10548,\n      \"stop_timestamp\": 11948,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Store meat in fridge\",\n          \"start_timestamp\": 10548,\n          \"stop_timestamp\": 11237\n        },\n        {\n          \"secondary_subgoal\": \"Open meat tray\",\n          \"start_timestamp\": 11666,\n          \"stop_timestamp\": 11726\n        },\n        {\n          \"secondary_subgoal\": \"Dispose of sachet and close dustbin\",\n          \"start_timestamp\": 11726,\n          \"stop_timestamp\": 11948\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare cooking utensils\",\n      \"start_timestamp\": 12062,\n      \"stop_timestamp\": 14327,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Get pan and clean it\",\n          \"start_timestamp\": 12432,\n          \"stop_timestamp\": 13610\n        },\n        {\n          \"secondary_subgoal\": \"Clean pan\",\n          \"start_timestamp\": 13610,\n          \"stop_timestamp\": 14327\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook the meal\",\n      \"start_timestamp\": 14494,\n      \"stop_timestamp\": 21298,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare to cook\",\n          \"start_timestamp\": 14494,\n          \"stop_timestamp\": 15412\n        },\n        {\n          \"secondary_subgoal\": \"Cook green peppers in pan\",\n          \"start_timestamp\": 15464,\n          \"stop_timestamp\": 19728\n        },\n        {\n          \"secondary_subgoal\": \"Add sauce and stir\",\n          \"start_timestamp\": 20237,\n          \"stop_timestamp\": 21298\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2092,
+        "completion_tokens": 680,
+        "total_tokens": 2772
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

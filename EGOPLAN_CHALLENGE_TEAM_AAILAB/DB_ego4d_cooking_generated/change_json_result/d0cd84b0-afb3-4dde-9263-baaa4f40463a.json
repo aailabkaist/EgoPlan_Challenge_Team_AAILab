@@ -1,0 +1,128 @@
+{
+    "overall_goal": "Prepare and cook a meal in the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Fill the jug with water and prepare the rice.",
+            "start_timestamp": 14,
+            "stop_timestamp": 809,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fill a jug with water.",
+                    "start_timestamp": 14,
+                    "stop_timestamp": 280
+                },
+                {
+                    "secondary_subgoal": "Add water and rice to the cooking pot.",
+                    "start_timestamp": 280,
+                    "stop_timestamp": 809
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the cooking pot and the cooker.",
+            "start_timestamp": 809,
+            "stop_timestamp": 1185,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjust the cooking pot and cooker.",
+                    "start_timestamp": 809,
+                    "stop_timestamp": 878
+                }
+            ]
+        },
+        {
+            "subgoal": "Interaction and survey the kitchen.",
+            "start_timestamp": 878,
+            "stop_timestamp": 1956,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look around the kitchen and converse with a man.",
+                    "start_timestamp": 878,
+                    "stop_timestamp": 1956
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare the workspace and materials for cooking.",
+            "start_timestamp": 1956,
+            "stop_timestamp": 3336,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Collect necessary kitchen items from various locations.",
+                    "start_timestamp": 1956,
+                    "stop_timestamp": 3336
+                }
+            ]
+        },
+        {
+            "subgoal": "Cut and prepare the meat.",
+            "start_timestamp": 3336,
+            "stop_timestamp": 8030,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut the meat into pieces.",
+                    "start_timestamp": 3336,
+                    "stop_timestamp": 7326
+                },
+                {
+                    "secondary_subgoal": "Put the meat into a container.",
+                    "start_timestamp": 7326,
+                    "stop_timestamp": 8030
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up the workspace.",
+            "start_timestamp": 8031,
+            "stop_timestamp": 11860,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean and organize kitchen items.",
+                    "start_timestamp": 8031,
+                    "stop_timestamp": 11860
+                }
+            ]
+        },
+        {
+            "subgoal": "Heat up the rice.",
+            "start_timestamp": 11860,
+            "stop_timestamp": 11950,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Operate the microwave.",
+                    "start_timestamp": 11860,
+                    "stop_timestamp": 11950
+                }
+            ]
+        },
+        {
+            "subgoal": "Continue cooking and stirring the food in the cooking pot.",
+            "start_timestamp": 11950,
+            "stop_timestamp": 23204,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare and stir the food in the cooking pot.",
+                    "start_timestamp": 11950,
+                    "stop_timestamp": 21935
+                },
+                {
+                    "secondary_subgoal": "Clean up and wipe the counter top.",
+                    "start_timestamp": 21935,
+                    "stop_timestamp": 23204
+                }
+            ]
+        },
+        {
+            "subgoal": "Final cleaning and organization.",
+            "start_timestamp": 23204,
+            "stop_timestamp": 22437,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean and organize the remaining items.",
+                    "start_timestamp": 23204,
+                    "stop_timestamp": 22437
+                }
+            ]
+        }
+    ]
+}

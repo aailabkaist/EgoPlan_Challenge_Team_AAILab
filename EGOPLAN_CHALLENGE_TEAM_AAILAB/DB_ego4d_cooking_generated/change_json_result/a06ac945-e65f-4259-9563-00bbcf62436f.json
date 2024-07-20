@@ -1,0 +1,100 @@
+{
+    "overall_goal": "Prepare a meal involving bread, vegetables, and meat while cleaning and organizing the kitchen area.",
+    "clips": [
+        {
+            "subgoal": "Fetch water and prepare the workspace",
+            "start_timestamp": "49",
+            "stop_timestamp": "2212",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fetch water from the fridge dispenser",
+                    "start_timestamp": "49",
+                    "stop_timestamp": "564"
+                },
+                {
+                    "secondary_subgoal": "Prepare the workspace by washing the chopping board",
+                    "start_timestamp": "1004",
+                    "stop_timestamp": "1758"
+                },
+                {
+                    "secondary_subgoal": "Place the clean chopping board on the table",
+                    "start_timestamp": "2212",
+                    "stop_timestamp": "2237"
+                }
+            ]
+        },
+        {
+            "subgoal": "Gather ingredients from the fridge",
+            "start_timestamp": "2439",
+            "stop_timestamp": "6512",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open the fridge and pick various items",
+                    "start_timestamp": "2439",
+                    "stop_timestamp": "5420"
+                },
+                {
+                    "secondary_subgoal": "Place selected items on the table",
+                    "start_timestamp": "5420",
+                    "stop_timestamp": "6512"
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook the meal",
+            "start_timestamp": "6677",
+            "stop_timestamp": "11511",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare bread and vegetables",
+                    "start_timestamp": "6677",
+                    "stop_timestamp": "8060"
+                },
+                {
+                    "secondary_subgoal": "Chop vegetables and open tin contents",
+                    "start_timestamp": "8060",
+                    "stop_timestamp": "9434"
+                },
+                {
+                    "secondary_subgoal": "Cook meal on stove",
+                    "start_timestamp": "9434",
+                    "stop_timestamp": "11511"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning up and conversing",
+            "start_timestamp": "11744",
+            "stop_timestamp": "16408",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean utensils and organize kitchen",
+                    "start_timestamp": "11744",
+                    "stop_timestamp": "14743"
+                },
+                {
+                    "secondary_subgoal": "Converse with person P and manage kitchen tasks",
+                    "start_timestamp": "14743",
+                    "stop_timestamp": "16408"
+                }
+            ]
+        },
+        {
+            "subgoal": "Final cleaning and organizing",
+            "start_timestamp": "17144",
+            "stop_timestamp": "26386",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Dispose of waste and clean counters",
+                    "start_timestamp": "17144",
+                    "stop_timestamp": "18255"
+                },
+                {
+                    "secondary_subgoal": "Organize utensils and wipe surfaces",
+                    "start_timestamp": "18255",
+                    "stop_timestamp": "26386"
+                }
+            ]
+        }
+    ]
+}

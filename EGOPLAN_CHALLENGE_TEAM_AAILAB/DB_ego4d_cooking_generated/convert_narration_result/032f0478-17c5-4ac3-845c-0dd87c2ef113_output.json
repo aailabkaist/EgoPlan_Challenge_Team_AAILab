@@ -1,0 +1,812 @@
+[
+    {
+        "task_goal": "Serve and arrange food items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Serves soup",
+                "start_frame": 1,
+                "stop_frame": 195
+            },
+            {
+                "narration_text": "Puts the cooking pot on the sink",
+                "start_frame": 195,
+                "stop_frame": 253
+            },
+            {
+                "narration_text": "Pours water from the tap to the cooking pot",
+                "start_frame": 253,
+                "stop_frame": 378
+            },
+            {
+                "narration_text": "Hangs the hand cloth",
+                "start_frame": 378,
+                "stop_frame": 556
+            },
+            {
+                "narration_text": "Moves around the kitchen",
+                "start_frame": 556,
+                "stop_frame": 615
+            },
+            {
+                "narration_text": "Opens the shelve",
+                "start_frame": 615,
+                "stop_frame": 707
+            },
+            {
+                "narration_text": "Puts lids on the back on the shelve",
+                "start_frame": 707,
+                "stop_frame": 996
+            },
+            {
+                "narration_text": "Closes the shelve",
+                "start_frame": 996,
+                "stop_frame": 1050
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve soup",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Serves soup",
+                "start_frame": 1,
+                "stop_frame": 195
+            },
+            {
+                "narration_text": "Puts the cooking pot on the sink",
+                "start_frame": 195,
+                "stop_frame": 253
+            }
+        ]
+    },
+    {
+        "task_goal": "Put cooking pot on sink and fill with water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Serves soup",
+                "start_frame": 1,
+                "stop_frame": 195
+            },
+            {
+                "narration_text": "Puts the cooking pot on the sink",
+                "start_frame": 195,
+                "stop_frame": 253
+            },
+            {
+                "narration_text": "Pours water from the tap to the cooking pot",
+                "start_frame": 253,
+                "stop_frame": 378
+            },
+            {
+                "narration_text": "Hangs the hand cloth",
+                "start_frame": 378,
+                "stop_frame": 556
+            }
+        ]
+    },
+    {
+        "task_goal": "Hang hand cloth",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours water from the tap to the cooking pot",
+                "start_frame": 253,
+                "stop_frame": 378
+            },
+            {
+                "narration_text": "Hangs the hand cloth",
+                "start_frame": 378,
+                "stop_frame": 556
+            },
+            {
+                "narration_text": "Moves around the kitchen",
+                "start_frame": 556,
+                "stop_frame": 615
+            }
+        ]
+    },
+    {
+        "task_goal": "Arrange lids on the shelf",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves around the kitchen",
+                "start_frame": 556,
+                "stop_frame": 615
+            },
+            {
+                "narration_text": "Opens the shelve",
+                "start_frame": 615,
+                "stop_frame": 707
+            },
+            {
+                "narration_text": "Puts lids on the back on the shelve",
+                "start_frame": 707,
+                "stop_frame": 996
+            },
+            {
+                "narration_text": "Closes the shelve",
+                "start_frame": 996,
+                "stop_frame": 1050
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve food and soup",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the shelve",
+                "start_frame": 996,
+                "stop_frame": 1050
+            },
+            {
+                "narration_text": "Picks the chopping stick",
+                "start_frame": 1050,
+                "stop_frame": 1151
+            },
+            {
+                "narration_text": "Serves food in the plate",
+                "start_frame": 1151,
+                "stop_frame": 1692
+            },
+            {
+                "narration_text": "Puts the food down",
+                "start_frame": 1692,
+                "stop_frame": 1791
+            },
+            {
+                "narration_text": "Picks cooking pot holder",
+                "start_frame": 1791,
+                "stop_frame": 1871
+            },
+            {
+                "narration_text": "Carries the cooking pot",
+                "start_frame": 1871,
+                "stop_frame": 2003
+            },
+            {
+                "narration_text": "Pours soup",
+                "start_frame": 2003,
+                "stop_frame": 2140
+            },
+            {
+                "narration_text": "Spreads the food in the bowl",
+                "start_frame": 2140,
+                "stop_frame": 2167
+            },
+            {
+                "narration_text": "Puts the cooking pot in the sink",
+                "start_frame": 2167,
+                "stop_frame": 2265
+            },
+            {
+                "narration_text": "Places the cooking pot holder down",
+                "start_frame": 2265,
+                "stop_frame": 2306
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and serve food in plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the shelve",
+                "start_frame": 996,
+                "stop_frame": 1050
+            },
+            {
+                "narration_text": "Picks the chopping stick",
+                "start_frame": 1050,
+                "stop_frame": 1151
+            },
+            {
+                "narration_text": "Serves food in the plate",
+                "start_frame": 1151,
+                "stop_frame": 1692
+            },
+            {
+                "narration_text": "Puts the food down",
+                "start_frame": 1692,
+                "stop_frame": 1791
+            }
+        ]
+    },
+    {
+        "task_goal": "Put food down and pick cooking pot holder",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the food down",
+                "start_frame": 1692,
+                "stop_frame": 1791
+            },
+            {
+                "narration_text": "Picks cooking pot holder",
+                "start_frame": 1791,
+                "stop_frame": 1871
+            },
+            {
+                "narration_text": "Carries the cooking pot",
+                "start_frame": 1871,
+                "stop_frame": 2003
+            }
+        ]
+    },
+    {
+        "task_goal": "Carry and pour soup, spread food in bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Carries the cooking pot",
+                "start_frame": 1871,
+                "stop_frame": 2003
+            },
+            {
+                "narration_text": "Pours soup",
+                "start_frame": 2003,
+                "stop_frame": 2140
+            },
+            {
+                "narration_text": "Spreads the food in the bowl",
+                "start_frame": 2140,
+                "stop_frame": 2167
+            },
+            {
+                "narration_text": "Puts the cooking pot in the sink",
+                "start_frame": 2167,
+                "stop_frame": 2265
+            }
+        ]
+    },
+    {
+        "task_goal": "Put cooking pot in sink and cooking pot holder down",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the cooking pot in the sink",
+                "start_frame": 2167,
+                "stop_frame": 2265
+            },
+            {
+                "narration_text": "Places the cooking pot holder down",
+                "start_frame": 2265,
+                "stop_frame": 2306
+            },
+            {
+                "narration_text": "Moves around the room",
+                "start_frame": 2306,
+                "stop_frame": 2337
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean the kitchen area",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the cooking pot holder down",
+                "start_frame": 2265,
+                "stop_frame": 2306
+            },
+            {
+                "narration_text": "Moves around the room",
+                "start_frame": 2306,
+                "stop_frame": 2337
+            },
+            {
+                "narration_text": "Spreads the food in the bowl",
+                "start_frame": 2337,
+                "stop_frame": 2442
+            },
+            {
+                "narration_text": "Fits the lid",
+                "start_frame": 2442,
+                "stop_frame": 2523
+            },
+            {
+                "narration_text": "Moves the bowl",
+                "start_frame": 2523,
+                "stop_frame": 2602
+            },
+            {
+                "narration_text": "Puts the bowl in the sink",
+                "start_frame": 2602,
+                "stop_frame": 2639
+            },
+            {
+                "narration_text": "Wipes the kitchen area",
+                "start_frame": 2639,
+                "stop_frame": 3125
+            },
+            {
+                "narration_text": "Moves around",
+                "start_frame": 3125,
+                "stop_frame": 3336
+            },
+            {
+                "narration_text": "Picks a chopping board",
+                "start_frame": 3336,
+                "stop_frame": 3459
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 3459,
+                "stop_frame": 3524
+            },
+            {
+                "narration_text": "Picks scissors",
+                "start_frame": 3524,
+                "stop_frame": 3555
+            },
+            {
+                "narration_text": "Moves around",
+                "start_frame": 3555,
+                "stop_frame": 3596
+            },
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 3596,
+                "stop_frame": 3659
+            },
+            {
+                "narration_text": "Picks a knife",
+                "start_frame": 3659,
+                "stop_frame": 9340
+            }
+        ]
+    },
+    {
+        "task_goal": "Spread food in the bowl, fit lid, and move bowl to sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves around the room",
+                "start_frame": 2306,
+                "stop_frame": 2337
+            },
+            {
+                "narration_text": "Spreads the food in the bowl",
+                "start_frame": 2337,
+                "stop_frame": 2442
+            },
+            {
+                "narration_text": "Fits the lid",
+                "start_frame": 2442,
+                "stop_frame": 2523
+            },
+            {
+                "narration_text": "Moves the bowl",
+                "start_frame": 2523,
+                "stop_frame": 2602
+            },
+            {
+                "narration_text": "Puts the bowl in the sink",
+                "start_frame": 2602,
+                "stop_frame": 2639
+            },
+            {
+                "narration_text": "Wipes the kitchen area",
+                "start_frame": 2639,
+                "stop_frame": 3125
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe and clean kitchen area",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the bowl in the sink",
+                "start_frame": 2602,
+                "stop_frame": 2639
+            },
+            {
+                "narration_text": "Wipes the kitchen area",
+                "start_frame": 2639,
+                "stop_frame": 3125
+            },
+            {
+                "narration_text": "Moves around",
+                "start_frame": 3125,
+                "stop_frame": 3336
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick chopping board, and items for cleaning",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves around",
+                "start_frame": 3125,
+                "stop_frame": 3336
+            },
+            {
+                "narration_text": "Picks a chopping board",
+                "start_frame": 3336,
+                "stop_frame": 3459
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 3459,
+                "stop_frame": 3524
+            },
+            {
+                "narration_text": "Picks scissors",
+                "start_frame": 3524,
+                "stop_frame": 3555
+            },
+            {
+                "narration_text": "Moves around",
+                "start_frame": 3555,
+                "stop_frame": 3596
+            },
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 3596,
+                "stop_frame": 3659
+            },
+            {
+                "narration_text": "Picks a knife",
+                "start_frame": 3659,
+                "stop_frame": 9340
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick knife, placing and moving utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the cabinet",
+                "start_frame": 3596,
+                "stop_frame": 3659
+            },
+            {
+                "narration_text": "Picks a knife",
+                "start_frame": 3659,
+                "stop_frame": 9340
+            },
+            {
+                "narration_text": "Puts the knife in the sink",
+                "start_frame": 9340,
+                "stop_frame": 9427
+            },
+            {
+                "narration_text": "Picks picking spoon",
+                "start_frame": 9427,
+                "stop_frame": 9528
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash and place utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours soap",
+                "start_frame": 11933,
+                "stop_frame": 11962
+            },
+            {
+                "narration_text": "Washes utensils",
+                "start_frame": 11962,
+                "stop_frame": 13321
+            },
+            {
+                "narration_text": "Puts the tin near the sink",
+                "start_frame": 13321,
+                "stop_frame": 13417
+            },
+            {
+                "narration_text": "Washes utensils",
+                "start_frame": 13417,
+                "stop_frame": 13538
+            },
+            {
+                "narration_text": "Puts chopping sticks on the tin",
+                "start_frame": 13538,
+                "stop_frame": 13576
+            },
+            {
+                "narration_text": "Washes utensils",
+                "start_frame": 13576,
+                "stop_frame": 13803
+            },
+            {
+                "narration_text": "Puts the chopping board near the sink",
+                "start_frame": 13803,
+                "stop_frame": 13862
+            },
+            {
+                "narration_text": "Washes utensils",
+                "start_frame": 13862,
+                "stop_frame": 13961
+            },
+            {
+                "narration_text": "Puts the spoon in a cup",
+                "start_frame": 13961,
+                "stop_frame": 14038
+            },
+            {
+                "narration_text": "Washes utensils",
+                "start_frame": 14038,
+                "stop_frame": 14253
+            },
+            {
+                "narration_text": "Puts the knife near the sink",
+                "start_frame": 14253,
+                "stop_frame": 14289
+            },
+            {
+                "narration_text": "Washes utensils",
+                "start_frame": 14289,
+                "stop_frame": 14519
+            },
+            {
+                "narration_text": "Puts the spoon in a cup",
+                "start_frame": 14519,
+                "stop_frame": 14575
+            },
+            {
+                "narration_text": "Washes utensils",
+                "start_frame": 14575,
+                "stop_frame": 14715
+            },
+            {
+                "narration_text": "Puts the cup near the sink",
+                "start_frame": 14715,
+                "stop_frame": 14759
+            },
+            {
+                "narration_text": "Washes utensils",
+                "start_frame": 14759,
+                "stop_frame": 15022
+            },
+            {
+                "narration_text": "Puts the cooking pot on another tin",
+                "start_frame": 15022,
+                "stop_frame": 15110
+            }
+        ]
+    },
+    {
+        "task_goal": "Put items like pot on tin, wipe hands, and kitchen area",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the cooking pot on another tin",
+                "start_frame": 15022,
+                "stop_frame": 15110
+            },
+            {
+                "narration_text": "Wipes hands",
+                "start_frame": 15110,
+                "stop_frame": 15195
+            },
+            {
+                "narration_text": "Wipes the kitchen area",
+                "start_frame": 15195,
+                "stop_frame": 15304
+            },
+            {
+                "narration_text": "Picks a trays",
+                "start_frame": 15304,
+                "stop_frame": 15447
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick trays and plates",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Wipes the kitchen area",
+                "start_frame": 15195,
+                "stop_frame": 15304
+            },
+            {
+                "narration_text": "Picks a trays",
+                "start_frame": 15304,
+                "stop_frame": 15447
+            },
+            {
+                "narration_text": "Put trays on the surface",
+                "start_frame": 15447,
+                "stop_frame": 15496
+            },
+            {
+                "narration_text": "Wipes the tray",
+                "start_frame": 15496,
+                "stop_frame": 15685
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe and arrange trays and plates on surface",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Put trays on the surface",
+                "start_frame": 15447,
+                "stop_frame": 15496
+            },
+            {
+                "narration_text": "Wipes the tray",
+                "start_frame": 15496,
+                "stop_frame": 15685
+            },
+            {
+                "narration_text": "Puts the tray down",
+                "start_frame": 15685,
+                "stop_frame": 15733
+            },
+            {
+                "narration_text": "Puts stick in the drawer",
+                "start_frame": 15733,
+                "stop_frame": 15815
+            },
+            {
+                "narration_text": "Puts plates on the tray",
+                "start_frame": 15815,
+                "stop_frame": 16669
+            }
+        ]
+    },
+    {
+        "task_goal": "Wrap up and close",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a trays",
+                "start_frame": 15304,
+                "stop_frame": 15447
+            },
+            {
+                "narration_text": "Put trays on the surface",
+                "start_frame": 15447,
+                "stop_frame": 15496
+            },
+            {
+                "narration_text": "Wipes the tray",
+                "start_frame": 15496,
+                "stop_frame": 15685
+            },
+            {
+                "narration_text": "Puts the tray down",
+                "start_frame": 15685,
+                "stop_frame": 15733
+            },
+            {
+                "narration_text": "Puts stick in the drawer",
+                "start_frame": 15733,
+                "stop_frame": 15815
+            },
+            {
+                "narration_text": "Puts plates on the tray",
+                "start_frame": 15815,
+                "stop_frame": 16669
+            },
+            {
+                "narration_text": "Carries a bowl to the tray",
+                "start_frame": 16669,
+                "stop_frame": 16751
+            },
+            {
+                "narration_text": "Moves the tray",
+                "start_frame": 16751,
+                "stop_frame": 16796
+            },
+            {
+                "narration_text": "Picks chopping sticks",
+                "start_frame": 16796,
+                "stop_frame": 16819
+            },
+            {
+                "narration_text": "Picks chopping sticks",
+                "start_frame": 16819,
+                "stop_frame": 16947
+            },
+            {
+                "narration_text": "Places the chopping sticks on the tray",
+                "start_frame": 16947,
+                "stop_frame": 17060
+            },
+            {
+                "narration_text": "Picks chopping sticks",
+                "start_frame": 17060,
+                "stop_frame": 17121
+            },
+            {
+                "narration_text": "Places the chopping sticks on the tray",
+                "start_frame": 17121,
+                "stop_frame": 17190
+            },
+            {
+                "narration_text": "Takes the pan to the sink",
+                "start_frame": 17190,
+                "stop_frame": 17278
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 17278,
+                "stop_frame": 17398
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 17398,
+                "stop_frame": 17421
+            },
+            {
+                "narration_text": "Adjusts the camera",
+                "start_frame": 17421,
+                "stop_frame": 17521
+            }
+        ]
+    },
+    {
+        "task_goal": "Move and place traces and utensils, cleanup",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts plates on the tray",
+                "start_frame": 15815,
+                "stop_frame": 16669
+            },
+            {
+                "narration_text": "Carries a bowl to the tray",
+                "start_frame": 16669,
+                "stop_frame": 16751
+            },
+            {
+                "narration_text": "Moves the tray",
+                "start_frame": 16751,
+                "stop_frame": 16796
+            },
+            {
+                "narration_text": "Picks chopping sticks",
+                "start_frame": 16796,
+                "stop_frame": 16819
+            },
+            {
+                "narration_text": "Picks chopping sticks",
+                "start_frame": 16819,
+                "stop_frame": 16947
+            },
+            {
+                "narration_text": "Places the chopping sticks on the tray",
+                "start_frame": 16947,
+                "stop_frame": 17060
+            },
+            {
+                "narration_text": "Picks chopping sticks",
+                "start_frame": 17060,
+                "stop_frame": 17121
+            },
+            {
+                "narration_text": "Places the chopping sticks on the tray",
+                "start_frame": 17121,
+                "stop_frame": 17190
+            },
+            {
+                "narration_text": "Takes the pan to the sink",
+                "start_frame": 17190,
+                "stop_frame": 17278
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 17278,
+                "stop_frame": 17398
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and close tap, adjust camera",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the pan to the sink",
+                "start_frame": 17190,
+                "stop_frame": 17278
+            },
+            {
+                "narration_text": "Opens the tap",
+                "start_frame": 17278,
+                "stop_frame": 17398
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 17398,
+                "stop_frame": 17421
+            },
+            {
+                "narration_text": "Adjusts the camera",
+                "start_frame": 17421,
+                "stop_frame": 17521
+            }
+        ]
+    }
+]

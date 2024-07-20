@@ -1,0 +1,761 @@
+[
+    {
+        "task_goal": "Turn on the cooker.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks around.",
+                "start_frame": 1,
+                "stop_frame": 381
+            },
+            {
+                "narration_text": "#C C moves around.",
+                "start_frame": 381,
+                "stop_frame": 481
+            },
+            {
+                "narration_text": "#C C switches on the cooker.",
+                "start_frame": 481,
+                "stop_frame": 537
+            },
+            {
+                "narration_text": "#C C opens the cabinet.",
+                "start_frame": 537,
+                "stop_frame": 643
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve plastic tin and seeds from the cabinet.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C switches on the cooker.",
+                "start_frame": 481,
+                "stop_frame": 537
+            },
+            {
+                "narration_text": "#C C opens the cabinet.",
+                "start_frame": 537,
+                "stop_frame": 643
+            },
+            {
+                "narration_text": "#C C picks the plastic tin.",
+                "start_frame": 643,
+                "stop_frame": 710
+            },
+            {
+                "narration_text": "#C C puts the plastic tin down.",
+                "start_frame": 710,
+                "stop_frame": 742
+            },
+            {
+                "narration_text": "#C C closes the cabinet.",
+                "start_frame": 742,
+                "stop_frame": 776
+            },
+            {
+                "narration_text": "#C C opens the plastic tin.",
+                "start_frame": 776,
+                "stop_frame": 808
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare seeds from the plastic tin.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the cabinet.",
+                "start_frame": 742,
+                "stop_frame": 776
+            },
+            {
+                "narration_text": "#C C opens the plastic tin.",
+                "start_frame": 776,
+                "stop_frame": 808
+            },
+            {
+                "narration_text": "#C C picks the packed seeds.",
+                "start_frame": 808,
+                "stop_frame": 889
+            },
+            {
+                "narration_text": "#C C picks the seed.",
+                "start_frame": 889,
+                "stop_frame": 892
+            },
+            {
+                "narration_text": "#C C eats the seed.",
+                "start_frame": 892,
+                "stop_frame": 904
+            },
+            {
+                "narration_text": "#C C puts down the packed seeds.",
+                "start_frame": 904,
+                "stop_frame": 1700
+            },
+            {
+                "narration_text": "#C C picks the chopping board.",
+                "start_frame": 1700,
+                "stop_frame": 1758
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare chopping board and knife for seed preparation.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts down the packed seeds.",
+                "start_frame": 904,
+                "stop_frame": 1700
+            },
+            {
+                "narration_text": "#C C picks the chopping board.",
+                "start_frame": 1700,
+                "stop_frame": 1758
+            },
+            {
+                "narration_text": "#C C puts the chopping board on the table.",
+                "start_frame": 1758,
+                "stop_frame": 1821
+            },
+            {
+                "narration_text": "#C C pulls the cabinet shelf.",
+                "start_frame": 1821,
+                "stop_frame": 1975
+            },
+            {
+                "narration_text": "#C C picks the kitchen knife.",
+                "start_frame": 1975,
+                "stop_frame": 2010
+            },
+            {
+                "narration_text": "#C C puts the kitchen knife on the chopping board.",
+                "start_frame": 2010,
+                "stop_frame": 2217
+            },
+            {
+                "narration_text": "#C C opens the pumpkin seeds package.",
+                "start_frame": 2217,
+                "stop_frame": 2373
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare and cut seeds on the chopping board with the knife.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the kitchen knife on the chopping board.",
+                "start_frame": 2010,
+                "stop_frame": 2217
+            },
+            {
+                "narration_text": "#C C opens the pumpkin seeds package.",
+                "start_frame": 2217,
+                "stop_frame": 2373
+            },
+            {
+                "narration_text": "#C C puts the pumpkin seeds on the chopping board.",
+                "start_frame": 2373,
+                "stop_frame": 2435
+            },
+            {
+                "narration_text": "#C C picks the sunflower seeds.",
+                "start_frame": 2435,
+                "stop_frame": 2448
+            },
+            {
+                "narration_text": "#C C opens the sunflower seeds.",
+                "start_frame": 2448,
+                "stop_frame": 2687
+            },
+            {
+                "narration_text": "#C C pours the sunflower seeds on the chopping board.",
+                "start_frame": 2687,
+                "stop_frame": 3252
+            },
+            {
+                "narration_text": "#C C cuts the pumpkin and sunflower seeds with the kitchen knife over the chopping board.",
+                "start_frame": 3252,
+                "stop_frame": 3534
+            },
+            {
+                "narration_text": "#C C gathers the seeds together",
+                "start_frame": 3534,
+                "stop_frame": 5505
+            },
+            {
+                "narration_text": "#C C picks the plate.",
+                "start_frame": 5505,
+                "stop_frame": 5525
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour seeds into a plate.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C gathers the seeds together",
+                "start_frame": 3534,
+                "stop_frame": 5505
+            },
+            {
+                "narration_text": "#C C picks the plate.",
+                "start_frame": 5505,
+                "stop_frame": 5525
+            },
+            {
+                "narration_text": "#C C puts the plate on the table.",
+                "start_frame": 5525,
+                "stop_frame": 5596
+            },
+            {
+                "narration_text": "#C C pours the cut seeds into the plate from the chopping board.",
+                "start_frame": 5596,
+                "stop_frame": 5914
+            },
+            {
+                "narration_text": "#C C picks the mole grains.",
+                "start_frame": 5914,
+                "stop_frame": 5941
+            }
+        ]
+    },
+    {
+        "task_goal": "Add mole grains to the plate of seeds.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pours the cut seeds into the plate from the chopping board.",
+                "start_frame": 5596,
+                "stop_frame": 5914
+            },
+            {
+                "narration_text": "#C C picks the mole grains.",
+                "start_frame": 5914,
+                "stop_frame": 5941
+            },
+            {
+                "narration_text": "#C C opens the packed mole grains.",
+                "start_frame": 5941,
+                "stop_frame": 6248
+            },
+            {
+                "narration_text": "#C C pours the mole grains into the plate of crushed pumpkin and sunflower seeds.",
+                "start_frame": 6248,
+                "stop_frame": 6433
+            },
+            {
+                "narration_text": "#C C covers the mole grains.",
+                "start_frame": 6433,
+                "stop_frame": 6595
+            },
+            {
+                "narration_text": "#C C inserts the mole grains into the plastic tin.",
+                "start_frame": 6595,
+                "stop_frame": 6657
+            },
+            {
+                "narration_text": "#C C inserts the sunflower seeds into the plastic tin.",
+                "start_frame": 6657,
+                "stop_frame": 6796
+            }
+        ]
+    },
+    {
+        "task_goal": "Insert sunflower seeds and mole grains into the plastic tin.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C inserts the mole grains into the plastic tin.",
+                "start_frame": 6595,
+                "stop_frame": 6657
+            },
+            {
+                "narration_text": "#C C inserts the sunflower seeds into the plastic tin.",
+                "start_frame": 6657,
+                "stop_frame": 6796
+            },
+            {
+                "narration_text": "#C C inserts the pumpkin seeds into the plastic tin.",
+                "start_frame": 6796,
+                "stop_frame": 6948
+            },
+            {
+                "narration_text": "#C C picks the Royco.",
+                "start_frame": 6948,
+                "stop_frame": 6977
+            },
+            {
+                "narration_text": "#C C opens the Royco",
+                "start_frame": 6977,
+                "stop_frame": 7097
+            },
+            {
+                "narration_text": "#C C pours the Royco.",
+                "start_frame": 7097,
+                "stop_frame": 7126
+            },
+            {
+                "narration_text": "#C C mixes the Royco with crushed pumpkin and sunflower seeds in the plate.",
+                "start_frame": 7126,
+                "stop_frame": 7140
+            },
+            {
+                "narration_text": "#C C puts down the Royco.",
+                "start_frame": 7140,
+                "stop_frame": 7367
+            }
+        ]
+    },
+    {
+        "task_goal": "Insert mixed food into the oven.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the food on the baking and greaseproof paper.",
+                "start_frame": 23455,
+                "stop_frame": 23510
+            },
+            {
+                "narration_text": "#C C inserts the food into the oven.",
+                "start_frame": 23510,
+                "stop_frame": 23572
+            },
+            {
+                "narration_text": "#C C closes the oven.",
+                "start_frame": 23572,
+                "stop_frame": 23619
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean dishes and utensils used in food preparation.",
+        "task_progress_metadata": []
+    },
+    {
+        "task_goal": "Prepare cabbage.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C inserts the wiped plate into the sink.",
+                "start_frame": 22747,
+                "stop_frame": 23342
+            },
+            {
+                "narration_text": "#C C rinses the plates in the sink with water.",
+                "start_frame": 23342,
+                "stop_frame": 23455
+            },
+            {
+                "narration_text": "#C C picks the food on the baking and greaseproof paper.",
+                "start_frame": 23455,
+                "stop_frame": 23510
+            },
+            {
+                "narration_text": "#C C inserts the food into the oven.",
+                "start_frame": 23510,
+                "stop_frame": 23572
+            },
+            {
+                "narration_text": "#C C closes the oven.",
+                "start_frame": 23572,
+                "stop_frame": 23619
+            },
+            {
+                "narration_text": "#C C picks the cabbage.",
+                "start_frame": 23619,
+                "stop_frame": 23757
+            },
+            {
+                "narration_text": "#C C picks the kitchen knife",
+                "start_frame": 23757,
+                "stop_frame": 23789
+            },
+            {
+                "narration_text": "#C C removes the cabbage package polythene with the kitchen knife.",
+                "start_frame": 23789,
+                "stop_frame": 24035
+            },
+            {
+                "narration_text": "#C C cuts the cabbage with the kitchen knife over the chopping board.",
+                "start_frame": 24035,
+                "stop_frame": 25812
+            },
+            {
+                "narration_text": "#C C moves around.",
+                "start_frame": 25812,
+                "stop_frame": 25850
+            },
+            {
+                "narration_text": "#C C opens the dustbin.",
+                "start_frame": 25850,
+                "stop_frame": 25866
+            },
+            {
+                "narration_text": "#C C throws the cut out cabbage into the dustbin.",
+                "start_frame": 25866,
+                "stop_frame": 25980
+            },
+            {
+                "narration_text": "#C C covers the plastic tin.",
+                "start_frame": 25980,
+                "stop_frame": 26071
+            },
+            {
+                "narration_text": "#C C picks the plastic tin",
+                "start_frame": 26071,
+                "stop_frame": 26153
+            },
+            {
+                "narration_text": "#C C opens the cabinet door.",
+                "start_frame": 26153,
+                "stop_frame": 26178
+            },
+            {
+                "narration_text": "#C C inserts the food in the plastic tin into the cabinet shelf.",
+                "start_frame": 26178,
+                "stop_frame": 26371
+            },
+            {
+                "narration_text": "#C C picks the bottle of salad.",
+                "start_frame": 26371,
+                "stop_frame": 26584
+            },
+            {
+                "narration_text": "#C C puts down the bottle of salad.",
+                "start_frame": 26584,
+                "stop_frame": 27455
+            },
+            {
+                "narration_text": "#C C opens the fridge.",
+                "start_frame": 27455,
+                "stop_frame": 27562
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare cabbage and insert into the oven.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C inserts the wiped plate into the sink.",
+                "start_frame": 22747,
+                "stop_frame": 23342
+            },
+            {
+                "narration_text": "#C C rinses the plates in the sink with water.",
+                "start_frame": 23342,
+                "stop_frame": 23455
+            },
+            {
+                "narration_text": "#C C picks the food on the baking and greaseproof paper.",
+                "start_frame": 23455,
+                "stop_frame": 23510
+            },
+            {
+                "narration_text": "#C C inserts the food into the oven.",
+                "start_frame": 23510,
+                "stop_frame": 23572
+            },
+            {
+                "narration_text": "#C C closes the oven.",
+                "start_frame": 23572,
+                "stop_frame": 23619
+            },
+            {
+                "narration_text": "#C C picks the cabbage.",
+                "start_frame": 23619,
+                "stop_frame": 23757
+            },
+            {
+                "narration_text": "#C C picks the kitchen knife",
+                "start_frame": 23757,
+                "stop_frame": 23789
+            },
+            {
+                "narration_text": "#C C removes the cabbage package polythene with the kitchen knife.",
+                "start_frame": 23789,
+                "stop_frame": 24035
+            },
+            {
+                "narration_text": "#C C cuts the cabbage with the kitchen knife over the chopping board.",
+                "start_frame": 24035,
+                "stop_frame": 25812
+            },
+            {
+                "narration_text": "#C C moves around.",
+                "start_frame": 25812,
+                "stop_frame": 25850
+            },
+            {
+                "narration_text": "#C C opens the dustbin.",
+                "start_frame": 25850,
+                "stop_frame": 25866
+            },
+            {
+                "narration_text": "#C C throws the cut out cabbage into the dustbin.",
+                "start_frame": 25866,
+                "stop_frame": 25980
+            }
+        ]
+    },
+    {
+        "task_goal": "Cover tin and move food to the fridge.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the dustbin.",
+                "start_frame": 25850,
+                "stop_frame": 25866
+            },
+            {
+                "narration_text": "#C C throws the cut out cabbage into the dustbin.",
+                "start_frame": 25866,
+                "stop_frame": 25980
+            },
+            {
+                "narration_text": "#C C covers the plastic tin.",
+                "start_frame": 25980,
+                "stop_frame": 26071
+            },
+            {
+                "narration_text": "#C C picks the plastic tin",
+                "start_frame": 26071,
+                "stop_frame": 26153
+            },
+            {
+                "narration_text": "#C C opens the cabinet door.",
+                "start_frame": 26153,
+                "stop_frame": 26178
+            },
+            {
+                "narration_text": "#C C inserts the food in the plastic tin into the cabinet shelf.",
+                "start_frame": 26178,
+                "stop_frame": 26371
+            },
+            {
+                "narration_text": "#C C picks the bottle of salad.",
+                "start_frame": 26371,
+                "stop_frame": 26584
+            },
+            {
+                "narration_text": "#C C puts down the bottle of salad.",
+                "start_frame": 26584,
+                "stop_frame": 27455
+            },
+            {
+                "narration_text": "#C C opens the fridge.",
+                "start_frame": 27455,
+                "stop_frame": 27562
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare onions and finalize cooking.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts down the bottle of salad.",
+                "start_frame": 26584,
+                "stop_frame": 27455
+            },
+            {
+                "narration_text": "#C C opens the fridge.",
+                "start_frame": 27455,
+                "stop_frame": 27562
+            },
+            {
+                "narration_text": "#C C inserts the cabbage into the fridge.",
+                "start_frame": 27562,
+                "stop_frame": 27718
+            },
+            {
+                "narration_text": "#C C picks the onions.",
+                "start_frame": 27718,
+                "stop_frame": 27805
+            },
+            {
+                "narration_text": "#C C closes the fridge.",
+                "start_frame": 27805,
+                "stop_frame": 28030
+            },
+            {
+                "narration_text": "#C C picks the kitchen knife",
+                "start_frame": 28030,
+                "stop_frame": 28048
+            },
+            {
+                "narration_text": "#C C cuts the onions.",
+                "start_frame": 28048,
+                "stop_frame": 28477
+            },
+            {
+                "narration_text": "#C C piles the onions.",
+                "start_frame": 28477,
+                "stop_frame": 28768
+            },
+            {
+                "narration_text": "#C C throws the onion piles into the dustbin",
+                "start_frame": 28768,
+                "stop_frame": 28864
+            },
+            {
+                "narration_text": "#C C rinses the plates in the sink with cloth in water",
+                "start_frame": 28864,
+                "stop_frame": 29822
+            },
+            {
+                "narration_text": "#C C rinses the glass board with the clothe in water.",
+                "start_frame": 29822,
+                "stop_frame": 30112
+            },
+            {
+                "narration_text": "#C C puts the glass chopping board on the table.",
+                "start_frame": 30112,
+                "stop_frame": 30242
+            },
+            {
+                "narration_text": "#C C rinses the knife with the clothe in the sink.",
+                "start_frame": 30242,
+                "stop_frame": 30321
+            },
+            {
+                "narration_text": "#C C rinses the scissor with the clothe.",
+                "start_frame": 30321,
+                "stop_frame": 30471
+            },
+            {
+                "narration_text": "#C C rinses the fork",
+                "start_frame": 30471,
+                "stop_frame": 31227
+            },
+            {
+                "narration_text": "#C C picks the pressure cooker.",
+                "start_frame": 31227,
+                "stop_frame": 31342
+            },
+            {
+                "narration_text": "#C C puts the pressure cooker on the table",
+                "start_frame": 31342,
+                "stop_frame": 31621
+            },
+            {
+                "narration_text": "#C C opens the pressure cooker.",
+                "start_frame": 31621,
+                "stop_frame": 31849
+            },
+            {
+                "narration_text": "#C C puts the cabbage on the pressure cooker food holder.",
+                "start_frame": 31849,
+                "stop_frame": 31949
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare onions for cooking.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts down the bottle of salad.",
+                "start_frame": 26584,
+                "stop_frame": 27455
+            },
+            {
+                "narration_text": "#C C opens the fridge.",
+                "start_frame": 27455,
+                "stop_frame": 27562
+            },
+            {
+                "narration_text": "#C C inserts the cabbage into the fridge.",
+                "start_frame": 27562,
+                "stop_frame": 27718
+            },
+            {
+                "narration_text": "#C C picks the onions.",
+                "start_frame": 27718,
+                "stop_frame": 27805
+            },
+            {
+                "narration_text": "#C C closes the fridge.",
+                "start_frame": 27805,
+                "stop_frame": 28030
+            },
+            {
+                "narration_text": "#C C picks the kitchen knife",
+                "start_frame": 28030,
+                "stop_frame": 28048
+            },
+            {
+                "narration_text": "#C C cuts the onions.",
+                "start_frame": 28048,
+                "stop_frame": 28477
+            },
+            {
+                "narration_text": "#C C piles the onions.",
+                "start_frame": 28477,
+                "stop_frame": 28768
+            },
+            {
+                "narration_text": "#C C throws the onion piles into the dustbin",
+                "start_frame": 28768,
+                "stop_frame": 28864
+            },
+            {
+                "narration_text": "#C C rinses the plates in the sink with cloth in water",
+                "start_frame": 28864,
+                "stop_frame": 29822
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean and prepare pressure cooker for final cooking.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C throws the onion piles into the dustbin",
+                "start_frame": 28768,
+                "stop_frame": 28864
+            },
+            {
+                "narration_text": "#C C rinses the plates in the sink with cloth in water",
+                "start_frame": 28864,
+                "stop_frame": 29822
+            },
+            {
+                "narration_text": "#C C rinses the glass board with the clothe in water.",
+                "start_frame": 29822,
+                "stop_frame": 30112
+            },
+            {
+                "narration_text": "#C C puts the glass chopping board on the table.",
+                "start_frame": 30112,
+                "stop_frame": 30242
+            },
+            {
+                "narration_text": "#C C rinses the knife with the clothe in the sink.",
+                "start_frame": 30242,
+                "stop_frame": 30321
+            },
+            {
+                "narration_text": "#C C rinses the scissor with the clothe.",
+                "start_frame": 30321,
+                "stop_frame": 30471
+            },
+            {
+                "narration_text": "#C C rinses the fork",
+                "start_frame": 30471,
+                "stop_frame": 31227
+            },
+            {
+                "narration_text": "#C C picks the pressure cooker.",
+                "start_frame": 31227,
+                "stop_frame": 31342
+            },
+            {
+                "narration_text": "#C C puts the pressure cooker on the table",
+                "start_frame": 31342,
+                "stop_frame": 31621
+            },
+            {
+                "narration_text": "#C C opens the pressure cooker.",
+                "start_frame": 31621,
+                "stop_frame": 31849
+            },
+            {
+                "narration_text": "#C C puts the cabbage on the pressure cooker food holder.",
+                "start_frame": 31849,
+                "stop_frame": 31949
+            }
+        ]
+    }
+]

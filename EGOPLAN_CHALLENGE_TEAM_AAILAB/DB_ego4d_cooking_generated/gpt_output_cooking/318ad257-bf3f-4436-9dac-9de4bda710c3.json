@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9een3sRF8XJ6c4QbDiRF5pgO1xzvp",
+    "object": "chat.completion",
+    "created": 1719476945,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing stuffed capsicums with minced meat and other ingredients\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Washing hands and preparing the cooking area\",\n      \"start_timestamp\": 45,\n      \"stop_timestamp\": 914,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Washing hands\", \"start_timestamp\": 45, \"stop_timestamp\": 444},\n        {\"secondary_subgoal\": \"Preparing chopping board\", \"start_timestamp\": 444, \"stop_timestamp\": 914}\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning and preparing squid\",\n      \"start_timestamp\": 914,\n      \"stop_timestamp\": 12425,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Cleaning the squid\", \"start_timestamp\": 1170, \"stop_timestamp\": 3030},\n        {\"secondary_subgoal\": \"Chopping the squid\", \"start_timestamp\": 3030, \"stop_timestamp\": 10054},\n        {\"secondary_subgoal\": \"Final clean-up of squid\", \"start_timestamp\": 10054, \"stop_timestamp\": 12425}\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing boneless fish\",\n      \"start_timestamp\": 12425,\n      \"stop_timestamp\": 13161,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Cutting the boneless fish\", \"start_timestamp\": 12425, \"stop_timestamp\": 12591},\n        {\"secondary_subgoal\": \"Storing the fish\", \"start_timestamp\": 12591, \"stop_timestamp\": 13161}\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning the workspace\",\n      \"start_timestamp\": 13161,\n      \"stop_timestamp\": 14655,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Cleaning the chopping board and knife\", \"start_timestamp\": 13749, \"stop_timestamp\": 14245},\n        {\"secondary_subgoal\": \"Preparing green peppers\", \"start_timestamp\": 13749, \"stop_timestamp\": 14655}\n      ]\n    },\n    {\n      \"subgoal\": \"Stuffing capsicums with minced meat\",\n      \"start_timestamp\": 14655,\n      \"stop_timestamp\": 21211,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Preparing capsicum\", \"start_timestamp\": 14655, \"stop_timestamp\": 16610},\n        {\"secondary_subgoal\": \"Sprinkling powder on capsicum pieces\", \"start_timestamp\": 16610, \"stop_timestamp\": 17093},\n        {\"secondary_subgoal\": \"Stuffing capsicums with minced meat\", \"start_timestamp\": 17093, \"stop_timestamp\": 19807},\n        {\"secondary_subgoal\": \"Cleaning up after meat stuffing\", \"start_timestamp\": 19807, \"stop_timestamp\": 21090},\n        {\"secondary_subgoal\": \"Final checks and seasoning\", \"start_timestamp\": 21090, \"stop_timestamp\": 21211}\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4861,
+        "completion_tokens": 642,
+        "total_tokens": 5503
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

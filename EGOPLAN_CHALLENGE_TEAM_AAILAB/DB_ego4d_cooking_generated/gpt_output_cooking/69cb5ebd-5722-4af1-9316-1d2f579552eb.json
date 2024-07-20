@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9deXzRC3L5U5FdOx5zwgazzoEMruP",
+    "object": "chat.completion",
+    "created": 1719237683,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook a meal involving chopping and cooking vegetables and cleaning up after preparation\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare carrots\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 3550,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Chop carrots\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 835\n        },\n        {\n          \"secondary_subgoal\": \"Chop carrots\",\n          \"start_timestamp\": 1165,\n          \"stop_timestamp\": 3536\n        },\n        {\n          \"secondary_subgoal\": \"Put chopped carrots in frying pan\",\n          \"start_timestamp\": 3235,\n          \"stop_timestamp\": 3536\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare onion\",\n      \"start_timestamp\": 3550,\n      \"stop_timestamp\": 6040,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Peel and chop onion\",\n          \"start_timestamp\": 3550,\n          \"stop_timestamp\": 5728\n        },\n        {\n          \"secondary_subgoal\": \"Put chopped onion in frying pan\",\n          \"start_timestamp\": 5728,\n          \"stop_timestamp\": 6013\n        },\n        {\n          \"secondary_subgoal\": \"Clean knife and chopping board\",\n          \"start_timestamp\": 6028,\n          \"stop_timestamp\": 6040\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare cabbage\",\n      \"start_timestamp\": 6040,\n      \"stop_timestamp\": 12672,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Separate and rinse cabbage\",\n          \"start_timestamp\": 6346,\n          \"stop_timestamp\": 8637\n        },\n        {\n          \"secondary_subgoal\": \"Chop cabbage\",\n          \"start_timestamp\": 9019,\n          \"stop_timestamp\": 10422\n        },\n        {\n          \"secondary_subgoal\": \"Put cabbage in saucepan\",\n          \"start_timestamp\": 9469,\n          \"stop_timestamp\": 10422\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Add seasoning and additional ingredients\",\n      \"start_timestamp\": 10422,\n      \"stop_timestamp\": 19849,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Add seasoning from sachet\",\n          \"start_timestamp\": 10422,\n          \"stop_timestamp\": 12067\n        },\n        {\n          \"secondary_subgoal\": \"Add another ingredient and stir\",\n          \"start_timestamp\": 12067,\n          \"stop_timestamp\": 16649\n        },\n        {\n          \"secondary_subgoal\": \"Taste and adjust flavor\",\n          \"start_timestamp\": 17434,\n          \"stop_timestamp\": 17535\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up and tidy cooking area\",\n      \"start_timestamp\": 19849,\n      \"stop_timestamp\": 20471,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wipe and clean surface\",\n          \"start_timestamp\": 19849,\n          \"stop_timestamp\": 20371\n        },\n        {\n          \"secondary_subgoal\": \"Hang table cloth and finish\",\n          \"start_timestamp\": 20371,\n          \"stop_timestamp\": 20471\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4523,
+        "completion_tokens": 722,
+        "total_tokens": 5245
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

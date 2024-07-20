@@ -1,0 +1,159 @@
+{
+    "overall_goal": "Prepare a meal that involves cooking eggs, preparing sausages, and making a salad from various vegetables including lettuce, cucumber, avocado, and tomato.",
+    "clips": [
+        {
+            "subgoal": "Cook the egg",
+            "start_timestamp": 0,
+            "stop_timestamp": 905,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn the egg in the pan",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 587
+                },
+                {
+                    "secondary_subgoal": "Remove the spoon from the pan",
+                    "start_timestamp": 587,
+                    "stop_timestamp": 619
+                },
+                {
+                    "secondary_subgoal": "Hold the cooker button",
+                    "start_timestamp": 619,
+                    "stop_timestamp": 650
+                },
+                {
+                    "secondary_subgoal": "Put the spoon in the pan",
+                    "start_timestamp": 650,
+                    "stop_timestamp": 675
+                },
+                {
+                    "secondary_subgoal": "Turn and press the egg with a spoon",
+                    "start_timestamp": 675,
+                    "stop_timestamp": 875
+                },
+                {
+                    "secondary_subgoal": "Remove the spoon from the pan",
+                    "start_timestamp": 875,
+                    "stop_timestamp": 905
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare sausages",
+            "start_timestamp": 979,
+            "stop_timestamp": 1789,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put the spoon on the cutting board and pick chopsticks",
+                    "start_timestamp": 979,
+                    "stop_timestamp": 1021
+                },
+                {
+                    "secondary_subgoal": "Put chopsticks in a bowl",
+                    "start_timestamp": 1021,
+                    "stop_timestamp": 1076
+                },
+                {
+                    "secondary_subgoal": "Pick and remove sausages from wrapper",
+                    "start_timestamp": 1076,
+                    "stop_timestamp": 1564
+                },
+                {
+                    "secondary_subgoal": "Put sausages on the cutting board and folds the wrapper",
+                    "start_timestamp": 1564,
+                    "stop_timestamp": 1615
+                },
+                {
+                    "secondary_subgoal": "Walk to fridge, open it, and put sausage in",
+                    "start_timestamp": 1615,
+                    "stop_timestamp": 1733
+                },
+                {
+                    "secondary_subgoal": "Close fridge and walk away",
+                    "start_timestamp": 1733,
+                    "stop_timestamp": 1789
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare lettuce",
+            "start_timestamp": 3074,
+            "stop_timestamp": 5500,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and cut lettuce by hand, and place in bowl",
+                    "start_timestamp": 3074,
+                    "stop_timestamp": 4719
+                },
+                {
+                    "secondary_subgoal": "Dry and cut lettuce repeatedly",
+                    "start_timestamp": 4719,
+                    "stop_timestamp": 5500
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cucumber",
+            "start_timestamp": 7488,
+            "stop_timestamp": 14501,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put cucumber on cutting board",
+                    "start_timestamp": 7488,
+                    "stop_timestamp": 7510
+                },
+                {
+                    "secondary_subgoal": "Cut and place pieces of cucumber in bowl",
+                    "start_timestamp": 7510,
+                    "stop_timestamp": 14501
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare tomato",
+            "start_timestamp": 7275,
+            "stop_timestamp": 7760,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put tomato on cutting board and cut",
+                    "start_timestamp": 7275,
+                    "stop_timestamp": 7760
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare avocado",
+            "start_timestamp": 17770,
+            "stop_timestamp": 19512,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut avocado and peel skin with knife",
+                    "start_timestamp": 17770,
+                    "stop_timestamp": 19281
+                },
+                {
+                    "secondary_subgoal": "Put avocado pieces in bowl",
+                    "start_timestamp": 19281,
+                    "stop_timestamp": 19512
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish the preparation",
+            "start_timestamp": 19575,
+            "stop_timestamp": 21240,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Scoop and place final ingredients in bowl and clean hands",
+                    "start_timestamp": 19575,
+                    "stop_timestamp": 20279
+                },
+                {
+                    "secondary_subgoal": "Open and cut packet of mustard with knife",
+                    "start_timestamp": 20279,
+                    "stop_timestamp": 21240
+                }
+            ]
+        }
+    ]
+}

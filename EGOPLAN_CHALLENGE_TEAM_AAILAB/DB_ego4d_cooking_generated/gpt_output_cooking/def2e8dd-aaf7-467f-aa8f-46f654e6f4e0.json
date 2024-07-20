@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgo1nOcn0EvuTv417xL0f51NNkxC",
+    "object": "chat.completion",
+    "created": 1719246365,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Organizing and cleaning the kitchen\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Organize the pantry and fridge\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 1100,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick ingredients from the counter\",\n          \"start_timestamp\": 70,\n          \"stop_timestamp\": 869\n        },\n        {\n          \"secondary_subgoal\": \"Arrange ingredients in the fridge\",\n          \"start_timestamp\": 869,\n          \"stop_timestamp\": 1004\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook food and serve it\",\n      \"start_timestamp\": 1004,\n      \"stop_timestamp\": 3933,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and arrange utensils\",\n          \"start_timestamp\": 1236,\n          \"stop_timestamp\": 1450\n        },\n        {\n          \"secondary_subgoal\": \"Serve food in the tin\",\n          \"start_timestamp\": 1667,\n          \"stop_timestamp\": 3351\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Wash dishes\",\n      \"start_timestamp\": 4926,\n      \"stop_timestamp\": 46730,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Remove food and utensils from the sink\",\n          \"start_timestamp\": 4926,\n          \"stop_timestamp\": 5443\n        },\n        {\n          \"secondary_subgoal\": \"Wash cutleries\",\n          \"start_timestamp\": 5443,\n          \"stop_timestamp\": 6897\n        },\n        {\n          \"secondary_subgoal\": \"Wash plates\",\n          \"start_timestamp\": 6933,\n          \"stop_timestamp\": 8220\n        },\n        {\n          \"secondary_subgoal\": \"Wash glasses\",\n          \"start_timestamp\": 8271,\n          \"stop_timestamp\": 8978\n        },\n        {\n          \"secondary_subgoal\": \"Wash and rinse remaining dishes in the sink\",\n          \"start_timestamp\": 9023,\n          \"stop_timestamp\": 12750\n        },\n        {\n          \"secondary_subgoal\": \"Wash and rinse kitchen utensils\",\n          \"start_timestamp\": 12750,\n          \"stop_timestamp\": 17240\n        },\n        {\n          \"secondary_subgoal\": \"Scrub and rinse food strainer\",\n          \"start_timestamp\": 17240,\n          \"stop_timestamp\": 18366\n        },\n        {\n          \"secondary_subgoal\": \"Wash and rinse remaining kitchen tools\",\n          \"start_timestamp\": 18366,\n          \"stop_timestamp\": 22665\n        },\n        {\n          \"secondary_subgoal\": \"Clean the sink area and countertops\",\n          \"start_timestamp\": 22665,\n          \"stop_timestamp\": 29500\n        },\n        {\n          \"secondary_subgoal\": \"Organize cleaned dishes in the kitchen cabinets\",\n          \"start_timestamp\": 29500,\n          \"stop_timestamp\": 37277\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean the counter and stove\",\n      \"start_timestamp\": 42229,\n      \"stop_timestamp\": 58445,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Spray and wipe the counter and stove\",\n          \"start_timestamp\": 49483,\n          \"stop_timestamp\": 52939\n        },\n        {\n          \"secondary_subgoal\": \"Dispose of trash\",\n          \"start_timestamp\": 52939,\n          \"stop_timestamp\": 53056\n        },\n        {\n          \"secondary_subgoal\": \"Clean the kitchen wall\",\n          \"start_timestamp\": 53202,\n          \"stop_timestamp\": 56656\n        },\n        {\n          \"secondary_subgoal\": \"Organize items on the counter\",\n          \"start_timestamp\": 57065,\n          \"stop_timestamp\": 58417\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6191,
+        "completion_tokens": 827,
+        "total_tokens": 7018
+    },
+    "system_fingerprint": "fp_5e6c71d4a8"
+}

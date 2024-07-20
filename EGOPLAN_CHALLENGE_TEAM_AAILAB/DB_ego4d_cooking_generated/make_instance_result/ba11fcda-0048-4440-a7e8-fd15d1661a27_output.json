@@ -1,0 +1,402 @@
+[
+    {
+        "task_goal": "Handling the glass and bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks up a glass",
+                "start_frame": -1,
+                "stop_frame": 33
+            },
+            {
+                "narration_text": "#C C puts the glass on the chopping board",
+                "start_frame": 33,
+                "stop_frame": 33
+            },
+            {
+                "narration_text": "#C C picks up a bottle",
+                "start_frame": 33,
+                "stop_frame": 254
+            },
+            {
+                "narration_text": "#C C opens the bottle",
+                "start_frame": 254,
+                "stop_frame": 361
+            },
+            {
+                "narration_text": "#C C pours the drink into the glass",
+                "start_frame": 361,
+                "stop_frame": 442
+            },
+            {
+                "narration_text": "#C C closes the bottle",
+                "start_frame": 442,
+                "stop_frame": 512
+            },
+            {
+                "narration_text": "#C C places the bottle on the countertop",
+                "start_frame": 512,
+                "stop_frame": 553
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling the drawer and spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the bottle",
+                "start_frame": 442,
+                "stop_frame": 512
+            },
+            {
+                "narration_text": "#C C places the bottle on the countertop",
+                "start_frame": 512,
+                "stop_frame": 553
+            },
+            {
+                "narration_text": "#C C pulls the drawer",
+                "start_frame": 553,
+                "stop_frame": 577
+            },
+            {
+                "narration_text": "#C C picks up the spoon from the drawer",
+                "start_frame": 577,
+                "stop_frame": 598
+            },
+            {
+                "narration_text": "#C C closes the drawer",
+                "start_frame": 598,
+                "stop_frame": 620
+            },
+            {
+                "narration_text": "#C C pulls the drawer",
+                "start_frame": 620,
+                "stop_frame": 657
+            }
+        ]
+    },
+    {
+        "task_goal": "Mixing ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pulls the drawer",
+                "start_frame": 1580,
+                "stop_frame": 1581
+            },
+            {
+                "narration_text": "#C C puts the jar in the drawer",
+                "start_frame": 1581,
+                "stop_frame": 1646
+            },
+            {
+                "narration_text": "#C C stirs the drink with a spoon",
+                "start_frame": 1646,
+                "stop_frame": 1655
+            },
+            {
+                "narration_text": "#C C picks up a bottle",
+                "start_frame": 1655,
+                "stop_frame": 1699
+            },
+            {
+                "narration_text": "#C C places the bottle on the chopping board",
+                "start_frame": 1699,
+                "stop_frame": 2119
+            },
+            {
+                "narration_text": "#C C looks at the puppy",
+                "start_frame": 2119,
+                "stop_frame": 2318
+            }
+        ]
+    },
+    {
+        "task_goal": "Interacting with the puppy",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C places the bottle on the chopping board",
+                "start_frame": 1699,
+                "stop_frame": 2119
+            },
+            {
+                "narration_text": "#C C looks at the puppy",
+                "start_frame": 2119,
+                "stop_frame": 2318
+            },
+            {
+                "narration_text": "#C C pets the puppy",
+                "start_frame": 2318,
+                "stop_frame": 2486
+            },
+            {
+                "narration_text": "#C C stirs the drink with a spoon",
+                "start_frame": 2486,
+                "stop_frame": 2650
+            },
+            {
+                "narration_text": "#C C opens the bottle",
+                "start_frame": 2650,
+                "stop_frame": 2700
+            }
+        ]
+    },
+    {
+        "task_goal": "Storing the bottle in the refrigerator",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C carries the bottle away",
+                "start_frame": 3815,
+                "stop_frame": 3854
+            },
+            {
+                "narration_text": "#C C opens up the refrigerator",
+                "start_frame": 3854,
+                "stop_frame": 3907
+            },
+            {
+                "narration_text": "#C C stores the bottle in the refrigerator",
+                "start_frame": 3907,
+                "stop_frame": 3977
+            },
+            {
+                "narration_text": "#C C closes the refrigerator",
+                "start_frame": 3977,
+                "stop_frame": 3978
+            },
+            {
+                "narration_text": "#C C opens up the refrigerator",
+                "start_frame": 3978,
+                "stop_frame": 4044
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieving the ice",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the refrigerator",
+                "start_frame": 3977,
+                "stop_frame": 3978
+            },
+            {
+                "narration_text": "#C C opens up the refrigerator",
+                "start_frame": 3978,
+                "stop_frame": 4044
+            },
+            {
+                "narration_text": "#C C pulls the refrigerator drawer",
+                "start_frame": 4044,
+                "stop_frame": 4074
+            },
+            {
+                "narration_text": "#C C picks up an ice container",
+                "start_frame": 4074,
+                "stop_frame": 4104
+            },
+            {
+                "narration_text": "#C C closes the refrigerator drawer",
+                "start_frame": 4104,
+                "stop_frame": 4141
+            },
+            {
+                "narration_text": "#C C closes the refrigerator",
+                "start_frame": 4141,
+                "stop_frame": 4144
+            },
+            {
+                "narration_text": "#C C carries the ice container to the countertop",
+                "start_frame": 4144,
+                "stop_frame": 4228
+            }
+        ]
+    },
+    {
+        "task_goal": "Filling the ice container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the ice in the drink in the glass",
+                "start_frame": 5195,
+                "stop_frame": 5215
+            },
+            {
+                "narration_text": "#C C turns around",
+                "start_frame": 5215,
+                "stop_frame": 5287
+            },
+            {
+                "narration_text": "#C C opens the kitchen faucet",
+                "start_frame": 5287,
+                "stop_frame": 5305
+            },
+            {
+                "narration_text": "#C C fills up the ice container with water",
+                "start_frame": 5305,
+                "stop_frame": 5456
+            },
+            {
+                "narration_text": "#C C closes the kitchen faucet",
+                "start_frame": 5456,
+                "stop_frame": 5502
+            },
+            {
+                "narration_text": "#C C carries the ice container with water to the countertop",
+                "start_frame": 5502,
+                "stop_frame": 5573
+            },
+            {
+                "narration_text": "#C C places the ice container on the countertop",
+                "start_frame": 5573,
+                "stop_frame": 5601
+            }
+        ]
+    },
+    {
+        "task_goal": "Storing the ice container in the refrigerator",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C carries the ice container with water to the countertop",
+                "start_frame": 5502,
+                "stop_frame": 5573
+            },
+            {
+                "narration_text": "#C C places the ice container on the countertop",
+                "start_frame": 5573,
+                "stop_frame": 5601
+            },
+            {
+                "narration_text": "#C C picks up the ice container",
+                "start_frame": 5601,
+                "stop_frame": 5663
+            },
+            {
+                "narration_text": "#C C carries the ice container towards the sink",
+                "start_frame": 5663,
+                "stop_frame": 5712
+            },
+            {
+                "narration_text": "#C C opens the kitchen faucet",
+                "start_frame": 5712,
+                "stop_frame": 5771
+            },
+            {
+                "narration_text": "#C C fills up the ice container with water",
+                "start_frame": 5771,
+                "stop_frame": 5809
+            },
+            {
+                "narration_text": "#C C closes the kitchen faucet",
+                "start_frame": 5809,
+                "stop_frame": 5828
+            },
+            {
+                "narration_text": "#C C carries the ice container with water to the refrigerator",
+                "start_frame": 5828,
+                "stop_frame": 5936
+            },
+            {
+                "narration_text": "#C C opens the refrigerator",
+                "start_frame": 5936,
+                "stop_frame": 5995
+            },
+            {
+                "narration_text": "#C C pulls the refrigerator drawer",
+                "start_frame": 5995,
+                "stop_frame": 6038
+            },
+            {
+                "narration_text": "#C C moves #unsure in the refrigerator",
+                "start_frame": 6038,
+                "stop_frame": 6132
+            },
+            {
+                "narration_text": "#C C places the ice container with water in the refrigerator drawer",
+                "start_frame": 6132,
+                "stop_frame": 6252
+            },
+            {
+                "narration_text": "#C C walks towards the countertop",
+                "start_frame": 6252,
+                "stop_frame": 6288
+            },
+            {
+                "narration_text": "#C C picks up the ice container",
+                "start_frame": 6288,
+                "stop_frame": 6289
+            },
+            {
+                "narration_text": "#C C carries the ice container with water to the refrigerator",
+                "start_frame": 6289,
+                "stop_frame": 6381
+            },
+            {
+                "narration_text": "#C C places the ice container with water in the refrigerator drawer",
+                "start_frame": 6381,
+                "stop_frame": 6683
+            },
+            {
+                "narration_text": "#C C closes the refrigerator drawer",
+                "start_frame": 6683,
+                "stop_frame": 6710
+            },
+            {
+                "narration_text": "#C C closes the refrigerator",
+                "start_frame": 6710,
+                "stop_frame": 6773
+            },
+            {
+                "narration_text": "#C C walks towards the cabinets",
+                "start_frame": 6773,
+                "stop_frame": 6789
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjusting the camera",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the refrigerator",
+                "start_frame": 6710,
+                "stop_frame": 6773
+            },
+            {
+                "narration_text": "#C C walks towards the cabinets",
+                "start_frame": 6773,
+                "stop_frame": 6789
+            },
+            {
+                "narration_text": "#C C adjusts the camera",
+                "start_frame": 6789,
+                "stop_frame": 6819
+            },
+            {
+                "narration_text": "#Summary C poured the drink into a glass, mixed the drinks in the glass, added ice into the drink",
+                "start_frame": 6819,
+                "stop_frame": 6919
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjusting the camera",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the refrigerator",
+                "start_frame": 6710,
+                "stop_frame": 6773
+            },
+            {
+                "narration_text": "#C C walks towards the cabinets",
+                "start_frame": 6773,
+                "stop_frame": 6789
+            },
+            {
+                "narration_text": "#C C adjusts the camera",
+                "start_frame": 6789,
+                "stop_frame": 6819
+            },
+            {
+                "narration_text": "#Summary C poured the drink into a glass, mixed the drinks in the glass, added ice into the drink",
+                "start_frame": 6819,
+                "stop_frame": 6919
+            }
+        ]
+    }
+]

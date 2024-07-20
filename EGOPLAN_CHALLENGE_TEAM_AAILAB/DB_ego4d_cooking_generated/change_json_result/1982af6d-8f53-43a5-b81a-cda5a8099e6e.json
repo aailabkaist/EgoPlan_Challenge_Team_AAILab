@@ -1,0 +1,101 @@
+{
+    "overall_goal": "Prepare and season the pot of food on the stove.",
+    "clips": [
+        {
+            "subgoal": "Prepare the pot by adding salt.",
+            "start_timestamp": 18,
+            "stop_timestamp": 261,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move the pot lid to clear space for seasoning.",
+                    "start_timestamp": 18,
+                    "stop_timestamp": 71
+                },
+                {
+                    "secondary_subgoal": "Pick up the salt and hold it.",
+                    "start_timestamp": 71,
+                    "stop_timestamp": 123
+                },
+                {
+                    "secondary_subgoal": "Add salt to the pot.",
+                    "start_timestamp": 123,
+                    "stop_timestamp": 261
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up and set up for mixing the potage.",
+            "start_timestamp": 261,
+            "stop_timestamp": 738,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place the salt on the counter and hold hands (indicating a pause).",
+                    "start_timestamp": 261,
+                    "stop_timestamp": 340
+                },
+                {
+                    "secondary_subgoal": "Remove colander from the cabinet shelf and place it on the counter.",
+                    "start_timestamp": 340,
+                    "stop_timestamp": 488
+                },
+                {
+                    "secondary_subgoal": "Reposition colander on the counter.",
+                    "start_timestamp": 488,
+                    "stop_timestamp": 568
+                },
+                {
+                    "secondary_subgoal": "Pick the pot lid and close the pot.",
+                    "start_timestamp": 568,
+                    "stop_timestamp": 659
+                },
+                {
+                    "secondary_subgoal": "Pick and hold the mixing spoon.",
+                    "start_timestamp": 659,
+                    "stop_timestamp": 671
+                },
+                {
+                    "secondary_subgoal": "Mix the potage with the lid on the pot.",
+                    "start_timestamp": 671,
+                    "stop_timestamp": 738
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish mixing and serve the potage.",
+            "start_timestamp": 738,
+            "stop_timestamp": 1937,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mix the potage and set the pot lid aside.",
+                    "start_timestamp": 738,
+                    "stop_timestamp": 776
+                },
+                {
+                    "secondary_subgoal": "Continue mixing the potage.",
+                    "start_timestamp": 776,
+                    "stop_timestamp": 1614
+                },
+                {
+                    "secondary_subgoal": "Hit the mixing spoon against the pot to shake off residue.",
+                    "start_timestamp": 1614,
+                    "stop_timestamp": 1720
+                },
+                {
+                    "secondary_subgoal": "Put the mixing spoon in the potage.",
+                    "start_timestamp": 1720,
+                    "stop_timestamp": 1775
+                },
+                {
+                    "secondary_subgoal": "Stand beside the pot, indicating a pause or observation.",
+                    "start_timestamp": 1775,
+                    "stop_timestamp": 1837
+                },
+                {
+                    "secondary_subgoal": "Lift hand in preparation to finish.",
+                    "start_timestamp": 1837,
+                    "stop_timestamp": 1937
+                }
+            ]
+        }
+    ]
+}

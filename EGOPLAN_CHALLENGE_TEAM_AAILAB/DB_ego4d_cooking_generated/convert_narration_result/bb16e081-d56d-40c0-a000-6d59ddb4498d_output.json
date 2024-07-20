@@ -1,0 +1,437 @@
+[
+    {
+        "task_goal": "Add flour to the paste in the pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours flour on the paste in the pan",
+                "start_frame": 1,
+                "stop_frame": 70
+            },
+            {
+                "narration_text": "Takes flour from the container",
+                "start_frame": 70,
+                "stop_frame": 116
+            },
+            {
+                "narration_text": "Pours flour on the paste in the pan",
+                "start_frame": 116,
+                "stop_frame": 156
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour flour onto the paste",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours flour on the paste in the pan",
+                "start_frame": 1,
+                "stop_frame": 70
+            },
+            {
+                "narration_text": "Takes flour from the container",
+                "start_frame": 70,
+                "stop_frame": 116
+            }
+        ]
+    },
+    {
+        "task_goal": "Take flour from container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours flour on the paste in the pan",
+                "start_frame": 1,
+                "stop_frame": 70
+            },
+            {
+                "narration_text": "Takes flour from the container",
+                "start_frame": 70,
+                "stop_frame": 116
+            },
+            {
+                "narration_text": "Pours flour on the paste in the pan",
+                "start_frame": 116,
+                "stop_frame": 156
+            }
+        ]
+    },
+    {
+        "task_goal": "Cover and set aside flour container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes flour from the container",
+                "start_frame": 70,
+                "stop_frame": 116
+            },
+            {
+                "narration_text": "Pours flour on the paste in the pan",
+                "start_frame": 116,
+                "stop_frame": 156
+            },
+            {
+                "narration_text": "Picks a container lid from the left to the right hand",
+                "start_frame": 156,
+                "stop_frame": 178
+            },
+            {
+                "narration_text": "Closes the container with a lid",
+                "start_frame": 178,
+                "stop_frame": 409
+            },
+            {
+                "narration_text": "Lifts the container",
+                "start_frame": 409,
+                "stop_frame": 448
+            },
+            {
+                "narration_text": "Puts the container aside",
+                "start_frame": 448,
+                "stop_frame": 506
+            },
+            {
+                "narration_text": "Takes a spatula spoon",
+                "start_frame": 506,
+                "stop_frame": 527
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick container lid",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours flour on the paste in the pan",
+                "start_frame": 116,
+                "stop_frame": 156
+            },
+            {
+                "narration_text": "Picks a container lid from the left to the right hand",
+                "start_frame": 156,
+                "stop_frame": 178
+            },
+            {
+                "narration_text": "Closes the container with a lid",
+                "start_frame": 178,
+                "stop_frame": 409
+            }
+        ]
+    },
+    {
+        "task_goal": "Close container with lid",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a container lid from the left to the right hand",
+                "start_frame": 156,
+                "stop_frame": 178
+            },
+            {
+                "narration_text": "Closes the container with a lid",
+                "start_frame": 178,
+                "stop_frame": 409
+            },
+            {
+                "narration_text": "Lifts the container",
+                "start_frame": 409,
+                "stop_frame": 448
+            }
+        ]
+    },
+    {
+        "task_goal": "Lift and put aside container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the container with a lid",
+                "start_frame": 178,
+                "stop_frame": 409
+            },
+            {
+                "narration_text": "Lifts the container",
+                "start_frame": 409,
+                "stop_frame": 448
+            },
+            {
+                "narration_text": "Puts the container aside",
+                "start_frame": 448,
+                "stop_frame": 506
+            },
+            {
+                "narration_text": "Takes a spatula spoon",
+                "start_frame": 506,
+                "stop_frame": 527
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir paste with spatula",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the container aside",
+                "start_frame": 448,
+                "stop_frame": 506
+            },
+            {
+                "narration_text": "Takes a spatula spoon",
+                "start_frame": 506,
+                "stop_frame": 527
+            },
+            {
+                "narration_text": "Stirs the paste with a spatula spoon",
+                "start_frame": 527,
+                "stop_frame": 874
+            },
+            {
+                "narration_text": "Moves the left hand",
+                "start_frame": 874,
+                "stop_frame": 1585
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjust and add firewood",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a fire wood",
+                "start_frame": 2143,
+                "stop_frame": 2178
+            },
+            {
+                "narration_text": "Puts a firewood in the firewood stove",
+                "start_frame": 2178,
+                "stop_frame": 2292
+            },
+            {
+                "narration_text": "Stirs the paste with a spatula spoon",
+                "start_frame": 2292,
+                "stop_frame": 3227
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare plate and put on floor",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Person picks up a metal plate",
+                "start_frame": 17523,
+                "stop_frame": 17561
+            },
+            {
+                "narration_text": "Person puts the metal plate on the floor",
+                "start_frame": 17561,
+                "stop_frame": 17627
+            },
+            {
+                "narration_text": "Person pulls out the firewood",
+                "start_frame": 17627,
+                "stop_frame": 17680
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe hands and move cooking utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Person picks up a towel",
+                "start_frame": 17680,
+                "stop_frame": 17717
+            },
+            {
+                "narration_text": "Person wipes his hands",
+                "start_frame": 17717,
+                "stop_frame": 17765
+            },
+            {
+                "narration_text": "Person picks up a towel from the floor",
+                "start_frame": 17765,
+                "stop_frame": 17820
+            },
+            {
+                "narration_text": "Person picks up the pan from the fire",
+                "start_frame": 17820,
+                "stop_frame": 17872
+            },
+            {
+                "narration_text": "Person puts the pan on the floor",
+                "start_frame": 17872,
+                "stop_frame": 17932
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour food from pot to plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Person puts the spoon in the handle of the pan",
+                "start_frame": 18857,
+                "stop_frame": 18911
+            },
+            {
+                "narration_text": "Person pours food in the plate",
+                "start_frame": 18911,
+                "stop_frame": 18992
+            },
+            {
+                "narration_text": "Person puts the pan on the floor",
+                "start_frame": 18992,
+                "stop_frame": 19037
+            },
+            {
+                "narration_text": "Person scrubs food from the pan using the spoon",
+                "start_frame": 19037,
+                "stop_frame": 19515
+            },
+            {
+                "narration_text": "Person pours food in the plate",
+                "start_frame": 19515,
+                "stop_frame": 19656
+            },
+            {
+                "narration_text": "Person spreads food in the plate",
+                "start_frame": 19656,
+                "stop_frame": 19919
+            }
+        ]
+    },
+    {
+        "task_goal": "Spread food in the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Person pours food in the plate",
+                "start_frame": 19515,
+                "stop_frame": 19656
+            },
+            {
+                "narration_text": "Person spreads food in the plate",
+                "start_frame": 19656,
+                "stop_frame": 19919
+            },
+            {
+                "narration_text": "Person puts the spoon on the pot",
+                "start_frame": 19919,
+                "stop_frame": 19941
+            }
+        ]
+    },
+    {
+        "task_goal": "Fetch water from bucket with jug",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Person picks up the jug",
+                "start_frame": 19941,
+                "stop_frame": 19967
+            },
+            {
+                "narration_text": "Person pours the water in the jug",
+                "start_frame": 19967,
+                "stop_frame": 20007
+            },
+            {
+                "narration_text": "Person opens the bucket",
+                "start_frame": 20007,
+                "stop_frame": 20051
+            },
+            {
+                "narration_text": "Person fetches water from the bucket",
+                "start_frame": 20051,
+                "stop_frame": 20083
+            },
+            {
+                "narration_text": "Person closes the jug",
+                "start_frame": 20083,
+                "stop_frame": 20120
+            },
+            {
+                "narration_text": "Person pours water in the jug",
+                "start_frame": 20120,
+                "stop_frame": 20180
+            }
+        ]
+    },
+    {
+        "task_goal": "Adjust and add firewood",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Person turns the fire wood",
+                "start_frame": 20242,
+                "stop_frame": 20368
+            },
+            {
+                "narration_text": "Person puts charcoal in the fire",
+                "start_frame": 20368,
+                "stop_frame": 20402
+            },
+            {
+                "narration_text": "Person picks up a fire wood",
+                "start_frame": 20402,
+                "stop_frame": 20432
+            },
+            {
+                "narration_text": "Person puts the firewood in the fire",
+                "start_frame": 20432,
+                "stop_frame": 21004
+            },
+            {
+                "narration_text": "Person picks a piece of firewood",
+                "start_frame": 21004,
+                "stop_frame": 21058
+            },
+            {
+                "narration_text": "Person puts the firewood in the fire",
+                "start_frame": 21058,
+                "stop_frame": 21155
+            },
+            {
+                "narration_text": "Person wipes his hand on the towel",
+                "start_frame": 21155,
+                "stop_frame": 21203
+            },
+            {
+                "narration_text": "Person puts the towel on top of the bucket",
+                "start_frame": 21203,
+                "stop_frame": 21228
+            },
+            {
+                "narration_text": "Person moves his cloth",
+                "start_frame": 21228,
+                "stop_frame": 21328
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn firewood and add charcoal",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Person turns the fire wood",
+                "start_frame": 20242,
+                "stop_frame": 20368
+            },
+            {
+                "narration_text": "Person puts charcoal in the fire",
+                "start_frame": 20368,
+                "stop_frame": 20402
+            },
+            {
+                "narration_text": "Person picks up a fire wood",
+                "start_frame": 20402,
+                "stop_frame": 20432
+            }
+        ]
+    },
+    {
+        "task_goal": "Wipe hands and move clothing",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Person wipes his hand on the towel",
+                "start_frame": 21155,
+                "stop_frame": 21203
+            },
+            {
+                "narration_text": "Person puts the towel on top of the bucket",
+                "start_frame": 21203,
+                "stop_frame": 21228
+            },
+            {
+                "narration_text": "Person moves his cloth",
+                "start_frame": 21228,
+                "stop_frame": 21328
+            }
+        ]
+    }
+]

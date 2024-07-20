@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehZbGB4XrJz24sPHAi97Vx1rq8Jk",
+    "object": "chat.completion",
+    "created": 1719487643,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cook and serve the potatoes.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Cook the potatoes\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 1714,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir the potatoes\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 181\n        },\n        {\n          \"secondary_subgoal\": \"Look around and put down objects\",\n          \"start_timestamp\": 181,\n          \"stop_timestamp\": 359\n        },\n        {\n          \"secondary_subgoal\": \"Add and mix ingredients\",\n          \"start_timestamp\": 359,\n          \"stop_timestamp\": 962\n        },\n        {\n          \"secondary_subgoal\": \"Stir and mix ingredients\",\n          \"start_timestamp\": 962,\n          \"stop_timestamp\": 1020\n        },\n        {\n          \"secondary_subgoal\": \"Continue stirring potatoes\",\n          \"start_timestamp\": 1020,\n          \"stop_timestamp\": 1174\n        },\n        {\n          \"secondary_subgoal\": \"Manipulate surrounding objects\",\n          \"start_timestamp\": 1174,\n          \"stop_timestamp\": 1460\n        },\n        {\n          \"secondary_subgoal\": \"Final stir of the potatoes\",\n          \"start_timestamp\": 1460,\n          \"stop_timestamp\": 1491\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Serve the potatoes\",\n      \"start_timestamp\": 1491,\n      \"stop_timestamp\": 3590,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Prepare to serve the potatoes\",\n          \"start_timestamp\": 1491,\n          \"stop_timestamp\": 2012\n        },\n        {\n          \"secondary_subgoal\": \"Handle multiple plates and utensils\",\n          \"start_timestamp\": 2012,\n          \"stop_timestamp\": 2598\n        },\n        {\n          \"secondary_subgoal\": \"Transfer potatoes to plate\",\n          \"start_timestamp\": 2598,\n          \"stop_timestamp\": 3069\n        },\n        {\n          \"secondary_subgoal\": \"Bring the potatoes together\",\n          \"start_timestamp\": 3069,\n          \"stop_timestamp\": 3360\n        },\n        {\n          \"secondary_subgoal\": \"Final serving step and cleaning up\",\n          \"start_timestamp\": 3360,\n          \"stop_timestamp\": 3590\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean up and finish\",\n      \"start_timestamp\": 3590,\n      \"stop_timestamp\": 4343,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean up immediate workspace\",\n          \"start_timestamp\": 3590,\n          \"stop_timestamp\": 4055\n        },\n        {\n          \"secondary_subgoal\": \"Fix the camera and tidy up\",\n          \"start_timestamp\": 4055,\n          \"stop_timestamp\": 4243\n        },\n        {\n          \"secondary_subgoal\": \"Finish lighting adjustments\",\n          \"start_timestamp\": 4243,\n          \"stop_timestamp\": 4343\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1076,
+        "completion_tokens": 659,
+        "total_tokens": 1735
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

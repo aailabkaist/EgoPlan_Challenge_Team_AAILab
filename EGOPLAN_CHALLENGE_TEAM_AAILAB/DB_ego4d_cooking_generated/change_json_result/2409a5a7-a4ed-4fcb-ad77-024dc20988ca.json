@@ -1,0 +1,66 @@
+{
+    "overall_goal": "Cooking the meat and preparing a meal with various seasonings and vegetables.",
+    "clips": [
+        {
+            "subgoal": "Seasoning and preparing the meat for cooking",
+            "start_timestamp": "245",
+            "stop_timestamp": "1384",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Interacting with the salt shaker while preparing the meat",
+                    "start_timestamp": "497",
+                    "stop_timestamp": "1384"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking the meat",
+            "start_timestamp": "1494",
+            "stop_timestamp": "15746",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Applying oil and cooking on the pan",
+                    "start_timestamp": "1494",
+                    "stop_timestamp": "4024"
+                },
+                {
+                    "secondary_subgoal": "Preparing the meat in the pan",
+                    "start_timestamp": "3698",
+                    "stop_timestamp": "4125"
+                },
+                {
+                    "secondary_subgoal": "Cleaning and preparing additional ingredients",
+                    "start_timestamp": "5211",
+                    "stop_timestamp": "8893"
+                },
+                {
+                    "secondary_subgoal": "Cooking and adjusting seasoning",
+                    "start_timestamp": "10066",
+                    "stop_timestamp": "15746"
+                }
+            ]
+        },
+        {
+            "subgoal": "Finalizing cooking and plating the meat",
+            "start_timestamp": "15777",
+            "stop_timestamp": "21323",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Preparing the cooking pot",
+                    "start_timestamp": "15789",
+                    "stop_timestamp": "15953"
+                },
+                {
+                    "secondary_subgoal": "Cooking and moving the meat in the pan",
+                    "start_timestamp": "16242",
+                    "stop_timestamp": "20458"
+                },
+                {
+                    "secondary_subgoal": "Transferring cooked meat to the tray",
+                    "start_timestamp": "20786",
+                    "stop_timestamp": "21223"
+                }
+            ]
+        }
+    ]
+}

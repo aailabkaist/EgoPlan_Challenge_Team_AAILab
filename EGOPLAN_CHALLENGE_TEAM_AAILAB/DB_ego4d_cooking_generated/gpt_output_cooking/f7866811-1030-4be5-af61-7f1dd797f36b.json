@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeQLyM1PDtkSeUP6A5QOKsQaf4Kg",
+    "object": "chat.completion",
+    "created": 1719475537,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Processing and shaping dough and clay, including rolling, molding, folding, and placing pieces into trays or plates.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Move and Shape Chips\",\n      \"start_timestamp\": 177,\n      \"stop_timestamp\": 7117,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Pick and Roll Chips\", \"start_timestamp\": 177, \"stop_timestamp\": 876},\n        {\"secondary_subgoal\": \"Roll and Mold Chips\", \"start_timestamp\": 876, \"stop_timestamp\": 17100}\n      ]\n    },\n    {\n      \"subgoal\": \"Roll and Shape Clay\",\n      \"start_timestamp\": 17100,\n      \"stop_timestamp\": 27431,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Roll, Fold and Place Clay\", \"start_timestamp\": 17100, \"stop_timestamp\": 22145},\n        {\"secondary_subgoal\": \"Mold and Roll Clay onto the Tray\", \"start_timestamp\": 22085, \"stop_timestamp\": 27431}\n      ]\n    },\n    {\n      \"subgoal\": \"Roll and Shape Dough\",\n      \"start_timestamp\": 27492,\n      \"stop_timestamp\": 82658,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Roll, Fold and Shape Dough\", \"start_timestamp\": 27492, \"stop_timestamp\": 6818},\n        {\"secondary_subgoal\": \"Roll and Press Dough onto the Plate\", \"start_timestamp\": 6818, \"stop_timestamp\": 82658}\n      ]\n    },\n    {\n      \"subgoal\": \"Roll and Shape Plasticine\",\n      \"start_timestamp\": 81875,\n      \"stop_timestamp\": 83042,\n      \"sub_clips\": [\n        {\"secondary_subgoal\": \"Roll and Pinch Plasticine\", \"start_timestamp\": 81875, \"stop_timestamp\": 83042}\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9769,
+        "completion_tokens": 415,
+        "total_tokens": 10184
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

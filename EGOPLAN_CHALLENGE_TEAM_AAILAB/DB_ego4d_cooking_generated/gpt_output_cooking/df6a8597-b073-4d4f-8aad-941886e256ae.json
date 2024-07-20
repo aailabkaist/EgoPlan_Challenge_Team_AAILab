@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehZm8wTICZb45Pgm21zh3NBUyHgD",
+    "object": "chat.completion",
+    "created": 1719487654,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Wash the dishes and prepare a salad\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Wash the dishes\",\n      \"start_timestamp\": 9,\n      \"stop_timestamp\": 2172,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash sieve\",\n          \"start_timestamp\": 9,\n          \"stop_timestamp\": 212\n        },\n        {\n          \"secondary_subgoal\": \"Wash sufuria\",\n          \"start_timestamp\": 212,\n          \"stop_timestamp\": 709\n        },\n        {\n          \"secondary_subgoal\": \"Prepare sufuria on gas\",\n          \"start_timestamp\": 709,\n          \"stop_timestamp\": 818\n        },\n        {\n          \"secondary_subgoal\": \"Rinse hands\",\n          \"start_timestamp\": 818,\n          \"stop_timestamp\": 1032\n        },\n        {\n          \"secondary_subgoal\": \"Wash sufuria cover\",\n          \"start_timestamp\": 1032,\n          \"stop_timestamp\": 1286\n        },\n        {\n          \"secondary_subgoal\": \"Cover sufuria\",\n          \"start_timestamp\": 1286,\n          \"stop_timestamp\": 1380\n        },\n        {\n          \"secondary_subgoal\": \"Put utensils and knife in sink\",\n          \"start_timestamp\": 1380,\n          \"stop_timestamp\": 1510\n        },\n        {\n          \"secondary_subgoal\": \"Wash and rinse chopboard\",\n          \"start_timestamp\": 1510,\n          \"stop_timestamp\": 1753\n        },\n        {\n          \"secondary_subgoal\": \"Wash sticks\",\n          \"start_timestamp\": 1753,\n          \"stop_timestamp\": 1878\n        },\n        {\n          \"secondary_subgoal\": \"Wash knife\",\n          \"start_timestamp\": 1878,\n          \"stop_timestamp\": 1961\n        },\n        {\n          \"secondary_subgoal\": \"Put knife on rack\",\n          \"start_timestamp\": 1961,\n          \"stop_timestamp\": 2046\n        },\n        {\n          \"secondary_subgoal\": \"Rinse sticks and close tap\",\n          \"start_timestamp\": 2046,\n          \"stop_timestamp\": 2112\n        },\n        {\n          \"secondary_subgoal\": \"Organize utensils in rack\",\n          \"start_timestamp\": 2112,\n          \"stop_timestamp\": 2395\n        },\n        {\n          \"secondary_subgoal\": \"Prepare salad\",\n          \"start_timestamp\": 2395,\n          \"stop_timestamp\": 4467\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Move prepared salad and wash remaining utensils\",\n      \"start_timestamp\": 4467,\n      \"stop_timestamp\": 5259,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash spoon and bowl\",\n          \"start_timestamp\": 4467,\n          \"stop_timestamp\": 4924\n        },\n        {\n          \"secondary_subgoal\": \"Dry hands and organize utensils\",\n          \"start_timestamp\": 4924,\n          \"stop_timestamp\": 5207\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handle items in fridge and use microwave\",\n      \"start_timestamp\": 5259,\n      \"stop_timestamp\": 5878,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick items from fridge\",\n          \"start_timestamp\": 5259,\n          \"stop_timestamp\": 5558\n        },\n        {\n          \"secondary_subgoal\": \"Use microwave\",\n          \"start_timestamp\": 5558,\n          \"stop_timestamp\": 5704\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Set table\",\n      \"start_timestamp\": 5704,\n      \"stop_timestamp\": 6017,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Place salad on table\",\n          \"start_timestamp\": 5704,\n          \"stop_timestamp\": 5878\n        },\n        {\n          \"secondary_subgoal\": \"Move around the room\",\n          \"start_timestamp\": 5878,\n          \"stop_timestamp\": 6017\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1808,
+        "completion_tokens": 869,
+        "total_tokens": 2677
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

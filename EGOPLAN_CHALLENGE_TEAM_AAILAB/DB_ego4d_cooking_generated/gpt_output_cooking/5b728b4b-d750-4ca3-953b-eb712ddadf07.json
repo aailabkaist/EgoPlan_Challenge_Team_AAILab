@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfqowunUW0Rr7oYYua5zPOupbxOU",
+    "object": "chat.completion",
+    "created": 1719242694,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare ingredients for cooking a meal\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Collect necessary ingredients\",\n      \"start_timestamp\": \"58\",\n      \"stop_timestamp\": \"1497\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Get spinach from drawer\",\n          \"start_timestamp\": \"103\",\n          \"stop_timestamp\": \"344\"\n        },\n        {\n          \"secondary_subgoal\": \"Get meat from fridge\",\n          \"start_timestamp\": \"429\",\n          \"stop_timestamp\": \"791\"\n        },\n        {\n          \"secondary_subgoal\": \"Handle the shopping bag\",\n          \"start_timestamp\": \"843\",\n          \"stop_timestamp\": \"1497\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare cooking utensils\",\n      \"start_timestamp\": \"1565\",\n      \"stop_timestamp\": \"3214\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean frying pan\",\n          \"start_timestamp\": \"1585\",\n          \"stop_timestamp\": \"3009\"\n        },\n        {\n          \"secondary_subgoal\": \"Set up cooking area\",\n          \"start_timestamp\": \"3109\",\n          \"stop_timestamp\": \"3214\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare vegetables\",\n      \"start_timestamp\": \"3681\",\n      \"stop_timestamp\": \"15348\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash and peel turnip\",\n          \"start_timestamp\": \"3996\",\n          \"stop_timestamp\": \"4949\"\n        },\n        {\n          \"secondary_subgoal\": \"Cut turnip\",\n          \"start_timestamp\": \"5060\",\n          \"stop_timestamp\": \"6287\"\n        },\n        {\n          \"secondary_subgoal\": \"Handle mushrooms\",\n          \"start_timestamp\": \"6345\",\n          \"stop_timestamp\": \"8677\"\n        },\n        {\n          \"secondary_subgoal\": \"Peel and cut potatoes\",\n          \"start_timestamp\": \"8928\",\n          \"stop_timestamp\": \"15121\"\n        },\n        {\n          \"secondary_subgoal\": \"Cut and prepare spinach\",\n          \"start_timestamp\": \"15540\",\n          \"stop_timestamp\": \"18494\"\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare meat\",\n      \"start_timestamp\": \"19181\",\n      \"stop_timestamp\": \"21335\",\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handle stake meat\",\n          \"start_timestamp\": \"19181\",\n          \"stop_timestamp\": \"21335\"\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 5199,
+        "completion_tokens": 553,
+        "total_tokens": 5752
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9efT6hQn4EJT3JH2ToUQpqz3JaWjh",
+    "object": "chat.completion",
+    "created": 1719479552,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Prepare onions by cutting and peeling them, while occasionally engaging with the TV.\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Initial cutting and peeling of the onion.\",\n            \"start_timestamp\": 28,\n            \"stop_timestamp\": 854,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Pick up the knife and hold the onion.\", \"start_timestamp\": 28, \"stop_timestamp\": 78},\n                {\"secondary_subgoal\": \"Cut the onion.\", \"start_timestamp\": 78, \"stop_timestamp\": 307},\n                {\"secondary_subgoal\": \"Peel the onion.\", \"start_timestamp\": 307, \"stop_timestamp\": 390},\n                {\"secondary_subgoal\": \"Cut the onion.\", \"start_timestamp\": 390, \"stop_timestamp\": 480},\n                {\"secondary_subgoal\": \"Watch the TV.\", \"start_timestamp\": 480, \"stop_timestamp\": 766},\n                {\"secondary_subgoal\": \"Peel the onion.\", \"start_timestamp\": 766, \"stop_timestamp\": 854}\n            ]\n        },\n        {\n            \"subgoal\": \"Continue cutting the onion after a brief task switch.\",\n            \"start_timestamp\": 874,\n            \"stop_timestamp\": 1481,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Put down the cover and knife.\", \"start_timestamp\": 874, \"stop_timestamp\": 884},\n                {\"secondary_subgoal\": \"Lift hands and pick up the knife.\", \"start_timestamp\": 884, \"stop_timestamp\": 1101},\n                {\"secondary_subgoal\": \"Hold and cut the onion.\", \"start_timestamp\": 1101, \"stop_timestamp\": 1225},\n                {\"secondary_subgoal\": \"Lift and cut the onion.\", \"start_timestamp\": 1225, \"stop_timestamp\": 1272},\n                {\"secondary_subgoal\": \"Put down and pick up the onion.\", \"start_timestamp\": 1272, \"stop_timestamp\": 1404},\n                {\"secondary_subgoal\": \"Cut and put down the onion.\", \"start_timestamp\": 1404, \"stop_timestamp\": 1481}\n            ]\n        },\n        {\n            \"subgoal\": \"Engage with the TV and continue cutting.\",\n            \"start_timestamp\": 1481,\n            \"stop_timestamp\": 1575,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Watch the TV.\", \"start_timestamp\": 1481, \"stop_timestamp\": 1575}\n            ]\n        },\n        {\n            \"subgoal\": \"Extensive onion cutting with intermittent engagement with the TV.\",\n            \"start_timestamp\": 1575,\n            \"stop_timestamp\": 3056,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Cut the onion.\", \"start_timestamp\": 1575, \"stop_timestamp\": 2109},\n                {\"secondary_subgoal\": \"Move and cut the onion.\", \"start_timestamp\": 2109, \"stop_timestamp\": 2371},\n                {\"secondary_subgoal\": \"Wipe the knife and cut the onion.\", \"start_timestamp\": 2371, \"stop_timestamp\": 2818},\n                {\"secondary_subgoal\": \"Move and cut the onion.\", \"start_timestamp\": 2818, \"stop_timestamp\": 2907},\n                {\"secondary_subgoal\": \"Watch the TV.\", \"start_timestamp\": 2907, \"stop_timestamp\": 3056}\n            ]\n        },\n        {\n            \"subgoal\": \"Final cutting and interactions.\",\n            \"start_timestamp\": 3056,\n            \"stop_timestamp\": 3758,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Hold and cut the onion.\", \"start_timestamp\": 3056, \"stop_timestamp\": 3275},\n                {\"secondary_subgoal\": \"Watch the TV.\", \"start_timestamp\": 3275, \"stop_timestamp\": 3384},\n                {\"secondary_subgoal\": \"Cut the onion.\", \"start_timestamp\": 3384, \"stop_timestamp\": 3590},\n                {\"secondary_subgoal\": \"Wipe the knife and put it down.\", \"start_timestamp\": 3590, \"stop_timestamp\": 3635},\n                {\"secondary_subgoal\": \"Lift hand and cover the camera.\", \"start_timestamp\": 3635, \"stop_timestamp\": 3758}\n            ]\n        }\n    ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 757,
+        "completion_tokens": 909,
+        "total_tokens": 1666
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

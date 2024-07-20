@@ -1,0 +1,111 @@
+{
+    "overall_goal": "Peel and prepare unripe mangoes.",
+    "clips": [
+        {
+            "subgoal": "Remove the outer cover of the unripe mango",
+            "start_timestamp": 324,
+            "stop_timestamp": 1637,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look around the room",
+                    "start_timestamp": 324,
+                    "stop_timestamp": 455
+                },
+                {
+                    "secondary_subgoal": "Remove the outer cover of the unripe mango initially",
+                    "start_timestamp": 455,
+                    "stop_timestamp": 492
+                },
+                {
+                    "secondary_subgoal": "Converse with woman X",
+                    "start_timestamp": 492,
+                    "stop_timestamp": 1612
+                },
+                {
+                    "secondary_subgoal": "Continue removing outer cover of the unripe mango",
+                    "start_timestamp": 1612,
+                    "stop_timestamp": 1637
+                }
+            ]
+        },
+        {
+            "subgoal": "Grate the outer part of the mango and prepare it",
+            "start_timestamp": 1637,
+            "stop_timestamp": 10767,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put mango in tray, pick and touch mango",
+                    "start_timestamp": 1637,
+                    "stop_timestamp": 1717
+                },
+                {
+                    "secondary_subgoal": "Remove the outer part of the mango with the grater",
+                    "start_timestamp": 1717,
+                    "stop_timestamp": 10408
+                },
+                {
+                    "secondary_subgoal": "Put mango in tray",
+                    "start_timestamp": 10408,
+                    "stop_timestamp": 10437
+                },
+                {
+                    "secondary_subgoal": "Remove mango peels from the peeler",
+                    "start_timestamp": 10437,
+                    "stop_timestamp": 10479
+                },
+                {
+                    "secondary_subgoal": "Pick and put down a mango",
+                    "start_timestamp": 10479,
+                    "stop_timestamp": 10537
+                },
+                {
+                    "secondary_subgoal": "Wipe mango",
+                    "start_timestamp": 10537,
+                    "stop_timestamp": 10648
+                },
+                {
+                    "secondary_subgoal": "Pick and put down mango peel",
+                    "start_timestamp": 10648,
+                    "stop_timestamp": 10715
+                },
+                {
+                    "secondary_subgoal": "Pick a mango",
+                    "start_timestamp": 10715,
+                    "stop_timestamp": 10767
+                }
+            ]
+        },
+        {
+            "subgoal": "Peel mangoes with a peeler",
+            "start_timestamp": 10767,
+            "stop_timestamp": 19329,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel mango with a peeler and put it in tray",
+                    "start_timestamp": 10767,
+                    "stop_timestamp": 15702
+                },
+                {
+                    "secondary_subgoal": "Pick a mango",
+                    "start_timestamp": 15702,
+                    "stop_timestamp": 17682
+                },
+                {
+                    "secondary_subgoal": "Peel and put mango in bowl",
+                    "start_timestamp": 17682,
+                    "stop_timestamp": 17817
+                },
+                {
+                    "secondary_subgoal": "Pick mango on the floor",
+                    "start_timestamp": 17817,
+                    "stop_timestamp": 19229
+                },
+                {
+                    "secondary_subgoal": "Take peeler on the left hand",
+                    "start_timestamp": 19229,
+                    "stop_timestamp": 19329
+                }
+            ]
+        }
+    ]
+}

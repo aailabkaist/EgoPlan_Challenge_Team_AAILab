@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfuIIusvZE2CSZr7nk3x95gGquXU",
+    "object": "chat.completion",
+    "created": 1719242910,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal involving boiling eggs and vegetables.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Boil eggs in the saucepan\",\n      \"start_timestamp\": 33,\n      \"stop_timestamp\": 2184,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Fetch and boil water\",\n          \"start_timestamp\": 75,\n          \"stop_timestamp\": 275\n        },\n        {\n          \"secondary_subgoal\": \"Put eggs in the boiling water\",\n          \"start_timestamp\": 339,\n          \"stop_timestamp\": 676\n        },\n        {\n          \"secondary_subgoal\": \"Use phone while waiting\",\n          \"start_timestamp\": 737,\n          \"stop_timestamp\": 2184\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare and cook vegetables\",\n      \"start_timestamp\": 2647,\n      \"stop_timestamp\": 9110,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Fetch ingredients from refrigerator and microwave\",\n          \"start_timestamp\": 2647,\n          \"stop_timestamp\": 3816\n        },\n        {\n          \"secondary_subgoal\": \"Wash and cut vegetables\",\n          \"start_timestamp\": 4467,\n          \"stop_timestamp\": 7977\n        },\n        {\n          \"secondary_subgoal\": \"Wash hands\",\n          \"start_timestamp\": 7990,\n          \"stop_timestamp\": 8080\n        },\n        {\n          \"secondary_subgoal\": \"Prepare to cook vegetables\",\n          \"start_timestamp\": 8233,\n          \"stop_timestamp\": 9110\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Peel and rinse boiled eggs\",\n      \"start_timestamp\": 16139,\n      \"stop_timestamp\": 20504,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Rinse the eggs\",\n          \"start_timestamp\": 16139,\n          \"stop_timestamp\": 17288\n        },\n        {\n          \"secondary_subgoal\": \"Peel the eggs\",\n          \"start_timestamp\": 17224,\n          \"stop_timestamp\": 19879\n        },\n        {\n          \"secondary_subgoal\": \"Place and rinse the peeled eggs\",\n          \"start_timestamp\": 19831,\n          \"stop_timestamp\": 20504\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4076,
+        "completion_tokens": 496,
+        "total_tokens": 4572
+    },
+    "system_fingerprint": "fp_5e6c71d4a8"
+}

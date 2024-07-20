@@ -1,0 +1,162 @@
+{
+    "overall_goal": "Prepare a meal involving multiple ingredients, such as onions, potatoes, carrots, broccoli, garlic, chili, and various spices, and cook it.",
+    "clips": [
+        {
+            "subgoal": "Prepare onions for cooking",
+            "start_timestamp": 88,
+            "stop_timestamp": 4009,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Chop the onion",
+                    "start_timestamp": 88,
+                    "stop_timestamp": 526
+                },
+                {
+                    "secondary_subgoal": "Remove the onion peels",
+                    "start_timestamp": 526,
+                    "stop_timestamp": 739
+                },
+                {
+                    "secondary_subgoal": "Use knife to remove remaining onion peels",
+                    "start_timestamp": 739,
+                    "stop_timestamp": 875
+                },
+                {
+                    "secondary_subgoal": "Prepare and place peels on serviette",
+                    "start_timestamp": 875,
+                    "stop_timestamp": 1239
+                },
+                {
+                    "secondary_subgoal": "Pick knife and onion to continue chopping",
+                    "start_timestamp": 1239,
+                    "stop_timestamp": 1332
+                },
+                {
+                    "secondary_subgoal": "Chop the onion",
+                    "start_timestamp": 1332,
+                    "stop_timestamp": 2858
+                },
+                {
+                    "secondary_subgoal": "Pour and prepare chopped onion in cooking pot",
+                    "start_timestamp": 3574,
+                    "stop_timestamp": 4009
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cook potatoes",
+            "start_timestamp": 4600,
+            "stop_timestamp": 22891,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Carve and chop potatoes",
+                    "start_timestamp": 4600,
+                    "stop_timestamp": 15099
+                },
+                {
+                    "secondary_subgoal": "Handle and dispose of potato peels",
+                    "start_timestamp": 15122,
+                    "stop_timestamp": 15349
+                },
+                {
+                    "secondary_subgoal": "Chop sweet potato",
+                    "start_timestamp": 15585,
+                    "stop_timestamp": 17442
+                },
+                {
+                    "secondary_subgoal": "Chop regular potatoes",
+                    "start_timestamp": 17689,
+                    "stop_timestamp": 19248
+                },
+                {
+                    "secondary_subgoal": "Prepare potatoes on tray and add seasoning",
+                    "start_timestamp": 20458,
+                    "stop_timestamp": 22891
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare carrots for cooking",
+            "start_timestamp": 23831,
+            "stop_timestamp": 28471,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and handle carrots",
+                    "start_timestamp": 23831,
+                    "stop_timestamp": 24197
+                },
+                {
+                    "secondary_subgoal": "Chop carrots",
+                    "start_timestamp": 24350,
+                    "stop_timestamp": 28003
+                },
+                {
+                    "secondary_subgoal": "Dispose of carrot peels",
+                    "start_timestamp": 28072,
+                    "stop_timestamp": 28471
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare broccoli for cooking",
+            "start_timestamp": 33762,
+            "stop_timestamp": 36655,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and chop broccoli",
+                    "start_timestamp": 33762,
+                    "stop_timestamp": 35380
+                },
+                {
+                    "secondary_subgoal": "Handle broccoli",
+                    "start_timestamp": 35442,
+                    "stop_timestamp": 36655
+                }
+            ]
+        },
+        {
+            "subgoal": "Continue cooking process",
+            "start_timestamp": 37128,
+            "stop_timestamp": 52074,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cook and stir food",
+                    "start_timestamp": 37128,
+                    "stop_timestamp": 40753
+                },
+                {
+                    "secondary_subgoal": "Handle garlic and begin chopping garlic",
+                    "start_timestamp": 38392,
+                    "stop_timestamp": 40115
+                },
+                {
+                    "secondary_subgoal": "Use water and cook",
+                    "start_timestamp": 40239,
+                    "stop_timestamp": 42776
+                },
+                {
+                    "secondary_subgoal": "Add garlic to food",
+                    "start_timestamp": 40419,
+                    "stop_timestamp": 40847
+                },
+                {
+                    "secondary_subgoal": "Use chili for cooking",
+                    "start_timestamp": 41207,
+                    "stop_timestamp": 46625
+                }
+            ]
+        },
+        {
+            "subgoal": "Add spices to food",
+            "start_timestamp": 86519,
+            "stop_timestamp": 87048,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add spices and mix",
+                    "start_timestamp": 86519,
+                    "stop_timestamp": 87048
+                }
+            ]
+        }
+    ]
+}

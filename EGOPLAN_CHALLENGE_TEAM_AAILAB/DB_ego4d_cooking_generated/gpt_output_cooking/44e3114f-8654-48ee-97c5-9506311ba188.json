@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehL7vsZpCn18RkZCNFLPagcDz25a",
+    "object": "chat.completion",
+    "created": 1719486745,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Decorate wheat grains with white cream and paint.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Pick up a stick to start decorating\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 149,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Look at the wheat grains\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 54\n        },\n        {\n          \"secondary_subgoal\": \"Pick up a stick\",\n          \"start_timestamp\": 54,\n          \"stop_timestamp\": 149\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Decorate the wheat grains with white cream\",\n      \"start_timestamp\": 149,\n      \"stop_timestamp\": 6300,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Decorate wheat grains with cream and tighten polythene\",\n          \"start_timestamp\": 149,\n          \"stop_timestamp\": 6330\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare cream and apply on wheat grains\",\n      \"start_timestamp\": 6330,\n      \"stop_timestamp\": 20347,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put down the stick and open polythene\",\n          \"start_timestamp\": 6330,\n          \"stop_timestamp\": 6493\n        },\n        {\n          \"secondary_subgoal\": \"Tighten and pick decorating stick\",\n          \"start_timestamp\": 6493,\n          \"stop_timestamp\": 6728\n        },\n        {\n          \"secondary_subgoal\": \"Wipe excess cream and start decorating\",\n          \"start_timestamp\": 6728,\n          \"stop_timestamp\": 9498\n        },\n        {\n          \"secondary_subgoal\": \"Shake the cream paper and squeeze cream on the table\",\n          \"start_timestamp\": 9498,\n          \"stop_timestamp\": 12775\n        },\n        {\n          \"secondary_subgoal\": \"Dips stick in water and arrange paper\",\n          \"start_timestamp\": 12775,\n          \"stop_timestamp\": 13396\n        },\n        {\n          \"secondary_subgoal\": \"Continue preparing and squeezing cream on the table\",\n          \"start_timestamp\": 13396,\n          \"stop_timestamp\": 20347\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Apply cream and arrange polythene\",\n      \"start_timestamp\": 20347,\n      \"stop_timestamp\": 24820,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Apply cream, look around and twist polythene paper\",\n          \"start_timestamp\": 20347,\n          \"stop_timestamp\": 24674\n        },\n        {\n          \"secondary_subgoal\": \"Talk, twist polythene bag and apply paint for decoration\",\n          \"start_timestamp\": 24674,\n          \"stop_timestamp\": 24820\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Make decorations with paint\",\n      \"start_timestamp\": 24820,\n      \"stop_timestamp\": 35316,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Make decoration and roll polythene paper\",\n          \"start_timestamp\": 24820,\n          \"stop_timestamp\": 32694\n        },\n        {\n          \"secondary_subgoal\": \"Look around, rotate paper, and squeeze\",\n          \"start_timestamp\": 32694,\n          \"stop_timestamp\": 35316\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Finalize decoration and walk around\",\n      \"start_timestamp\": 35316,\n      \"stop_timestamp\": 36901,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Look around, rotate paper, and squeeze\",\n          \"start_timestamp\": 35316,\n          \"stop_timestamp\": 36268\n        },\n        {\n          \"secondary_subgoal\": \"Walk around and drop item\",\n          \"start_timestamp\": 36268,\n          \"stop_timestamp\": 36901\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 2157,
+        "completion_tokens": 858,
+        "total_tokens": 3015
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

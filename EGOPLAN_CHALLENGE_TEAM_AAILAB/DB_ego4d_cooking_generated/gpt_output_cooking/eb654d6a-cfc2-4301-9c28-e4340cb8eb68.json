@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eew6s4JfiG7IGGKtWlQM1TxzwUw1",
+    "object": "chat.completion",
+    "created": 1719477506,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Clean kitchen utensils and prepare a cooking pot for later use.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Clean and organize kitchen utensils\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 708,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash and place utensils on the dish rack\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 288\n        },\n        {\n          \"secondary_subgoal\": \"Clean the chopping board and remove dirt from sink\",\n          \"start_timestamp\": 288,\n          \"stop_timestamp\": 637\n        },\n        {\n          \"secondary_subgoal\": \"Wipe hands and place cloth down\",\n          \"start_timestamp\": 637,\n          \"stop_timestamp\": 708\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Drink and handle miscellaneous items\",\n      \"start_timestamp\": 708,\n      \"stop_timestamp\": 1490,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handle cloth and utensils\",\n          \"start_timestamp\": 708,\n          \"stop_timestamp\": 836\n        },\n        {\n          \"secondary_subgoal\": \"Drink from the cup\",\n          \"start_timestamp\": 836,\n          \"stop_timestamp\": 1490\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean the table and organize kitchen\",\n      \"start_timestamp\": 1490,\n      \"stop_timestamp\": 1760,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Clean the table\",\n          \"start_timestamp\": 1490,\n          \"stop_timestamp\": 1559\n        },\n        {\n          \"secondary_subgoal\": \"Handle and attach the cooking pot handle\",\n          \"start_timestamp\": 1559,\n          \"stop_timestamp\": 1760\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare cooking pot with a lid\",\n      \"start_timestamp\": 1760,\n      \"stop_timestamp\": 2341,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pour and handle cooking pot\",\n          \"start_timestamp\": 1760,\n          \"stop_timestamp\": 2014\n        },\n        {\n          \"secondary_subgoal\": \"Cover the cooking pot\",\n          \"start_timestamp\": 2014,\n          \"stop_timestamp\": 2223\n        },\n        {\n          \"secondary_subgoal\": \"Organize the space\",\n          \"start_timestamp\": 2223,\n          \"stop_timestamp\": 2341\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Adjust camera\",\n      \"start_timestamp\": 2341,\n      \"stop_timestamp\": 2511,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Adjust the camera position\",\n          \"start_timestamp\": 2341,\n          \"stop_timestamp\": 2511\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 920,
+        "completion_tokens": 622,
+        "total_tokens": 1542
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

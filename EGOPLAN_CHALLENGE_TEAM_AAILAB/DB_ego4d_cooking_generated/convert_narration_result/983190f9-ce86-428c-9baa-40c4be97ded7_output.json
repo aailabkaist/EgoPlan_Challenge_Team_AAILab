@@ -1,0 +1,392 @@
+[
+    {
+        "task_goal": "Prepare the dough with flour",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the paper",
+                "start_frame": 1,
+                "stop_frame": 42
+            },
+            {
+                "narration_text": "Adds flour on the baked dough",
+                "start_frame": 42,
+                "stop_frame": 211
+            },
+            {
+                "narration_text": "Drops the paper on the table",
+                "start_frame": 211,
+                "stop_frame": 297
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold the paper and add flour on the baked dough",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds the paper",
+                "start_frame": 1,
+                "stop_frame": 42
+            },
+            {
+                "narration_text": "Adds flour on the baked dough",
+                "start_frame": 42,
+                "stop_frame": 211
+            },
+            {
+                "narration_text": "Drops the paper on the table",
+                "start_frame": 211,
+                "stop_frame": 297
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean hands after adding flour",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Adds flour on the baked dough",
+                "start_frame": 42,
+                "stop_frame": 211
+            },
+            {
+                "narration_text": "Drops the paper on the table",
+                "start_frame": 211,
+                "stop_frame": 297
+            },
+            {
+                "narration_text": "Turns around",
+                "start_frame": 297,
+                "stop_frame": 318
+            },
+            {
+                "narration_text": "Opens the water tap",
+                "start_frame": 318,
+                "stop_frame": 337
+            },
+            {
+                "narration_text": "Rinses the hands",
+                "start_frame": 337,
+                "stop_frame": 384
+            },
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 384,
+                "stop_frame": 405
+            },
+            {
+                "narration_text": "Rinses the hands with the towel",
+                "start_frame": 405,
+                "stop_frame": 448
+            },
+            {
+                "narration_text": "Picks the box of papers",
+                "start_frame": 448,
+                "stop_frame": 501
+            }
+        ]
+    },
+    {
+        "task_goal": "Drop the paper, turn around, and open the water tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Adds flour on the baked dough",
+                "start_frame": 42,
+                "stop_frame": 211
+            },
+            {
+                "narration_text": "Drops the paper on the table",
+                "start_frame": 211,
+                "stop_frame": 297
+            },
+            {
+                "narration_text": "Turns around",
+                "start_frame": 297,
+                "stop_frame": 318
+            },
+            {
+                "narration_text": "Opens the water tap",
+                "start_frame": 318,
+                "stop_frame": 337
+            },
+            {
+                "narration_text": "Rinses the hands",
+                "start_frame": 337,
+                "stop_frame": 384
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse the hands and close the water tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the water tap",
+                "start_frame": 318,
+                "stop_frame": 337
+            },
+            {
+                "narration_text": "Rinses the hands",
+                "start_frame": 337,
+                "stop_frame": 384
+            },
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 384,
+                "stop_frame": 405
+            },
+            {
+                "narration_text": "Rinses the hands with the towel",
+                "start_frame": 405,
+                "stop_frame": 448
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse the hands with the towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the water tap",
+                "start_frame": 384,
+                "stop_frame": 405
+            },
+            {
+                "narration_text": "Rinses the hands with the towel",
+                "start_frame": 405,
+                "stop_frame": 448
+            },
+            {
+                "narration_text": "Picks the box of papers",
+                "start_frame": 448,
+                "stop_frame": 501
+            }
+        ]
+    },
+    {
+        "task_goal": "Cover the plate with paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rinses the hands with the towel",
+                "start_frame": 405,
+                "stop_frame": 448
+            },
+            {
+                "narration_text": "Picks the box of papers",
+                "start_frame": 448,
+                "stop_frame": 501
+            },
+            {
+                "narration_text": "Twists the paper on the table",
+                "start_frame": 501,
+                "stop_frame": 542
+            },
+            {
+                "narration_text": "Picks the paper",
+                "start_frame": 542,
+                "stop_frame": 578
+            },
+            {
+                "narration_text": "Covers the plate with the paper",
+                "start_frame": 578,
+                "stop_frame": 622
+            },
+            {
+                "narration_text": "Cuts off the paper",
+                "start_frame": 622,
+                "stop_frame": 652
+            },
+            {
+                "narration_text": "Covers the plate with the paper",
+                "start_frame": 652,
+                "stop_frame": 726
+            },
+            {
+                "narration_text": "Drops the plate on the table",
+                "start_frame": 726,
+                "stop_frame": 746
+            },
+            {
+                "narration_text": "Picks up the box",
+                "start_frame": 746,
+                "stop_frame": 769
+            },
+            {
+                "narration_text": "Rolls off the paper",
+                "start_frame": 769,
+                "stop_frame": 800
+            },
+            {
+                "narration_text": "Cuts off the paper",
+                "start_frame": 800,
+                "stop_frame": 832
+            },
+            {
+                "narration_text": "Covers the plate with the paper",
+                "start_frame": 832,
+                "stop_frame": 878
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick the box of papers and twist the paper on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Rinses the hands with the towel",
+                "start_frame": 405,
+                "stop_frame": 448
+            },
+            {
+                "narration_text": "Picks the box of papers",
+                "start_frame": 448,
+                "stop_frame": 501
+            },
+            {
+                "narration_text": "Twists the paper on the table",
+                "start_frame": 501,
+                "stop_frame": 542
+            },
+            {
+                "narration_text": "Picks the paper",
+                "start_frame": 542,
+                "stop_frame": 578
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick the paper and cover the plate with it",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Twists the paper on the table",
+                "start_frame": 501,
+                "stop_frame": 542
+            },
+            {
+                "narration_text": "Picks the paper",
+                "start_frame": 542,
+                "stop_frame": 578
+            },
+            {
+                "narration_text": "Covers the plate with the paper",
+                "start_frame": 578,
+                "stop_frame": 622
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut off the paper and cover the plate again",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the paper",
+                "start_frame": 542,
+                "stop_frame": 578
+            },
+            {
+                "narration_text": "Covers the plate with the paper",
+                "start_frame": 578,
+                "stop_frame": 622
+            },
+            {
+                "narration_text": "Cuts off the paper",
+                "start_frame": 622,
+                "stop_frame": 652
+            },
+            {
+                "narration_text": "Covers the plate with the paper",
+                "start_frame": 652,
+                "stop_frame": 726
+            }
+        ]
+    },
+    {
+        "task_goal": "Cover the plate with paper again and drop the plate on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cuts off the paper",
+                "start_frame": 622,
+                "stop_frame": 652
+            },
+            {
+                "narration_text": "Covers the plate with the paper",
+                "start_frame": 652,
+                "stop_frame": 726
+            },
+            {
+                "narration_text": "Drops the plate on the table",
+                "start_frame": 726,
+                "stop_frame": 746
+            },
+            {
+                "narration_text": "Picks up the box",
+                "start_frame": 746,
+                "stop_frame": 769
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick up the box, roll off the paper, and cut it off",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Drops the plate on the table",
+                "start_frame": 726,
+                "stop_frame": 746
+            },
+            {
+                "narration_text": "Picks up the box",
+                "start_frame": 746,
+                "stop_frame": 769
+            },
+            {
+                "narration_text": "Rolls off the paper",
+                "start_frame": 769,
+                "stop_frame": 800
+            },
+            {
+                "narration_text": "Cuts off the paper",
+                "start_frame": 800,
+                "stop_frame": 832
+            },
+            {
+                "narration_text": "Covers the plate with the paper",
+                "start_frame": 832,
+                "stop_frame": 878
+            }
+        ]
+    },
+    {
+        "task_goal": "Document the process",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cuts off the paper",
+                "start_frame": 800,
+                "stop_frame": 832
+            },
+            {
+                "narration_text": "Covers the plate with the paper",
+                "start_frame": 832,
+                "stop_frame": 878
+            },
+            {
+                "narration_text": "Holds the camera",
+                "start_frame": 878,
+                "stop_frame": 978
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold the camera to document the process",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cuts off the paper",
+                "start_frame": 800,
+                "stop_frame": 832
+            },
+            {
+                "narration_text": "Covers the plate with the paper",
+                "start_frame": 832,
+                "stop_frame": 878
+            },
+            {
+                "narration_text": "Holds the camera",
+                "start_frame": 878,
+                "stop_frame": 978
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehPaDxSIoPBTd3FYupaC1oy9SvXk",
+    "object": "chat.completion",
+    "created": 1719487022,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and cook macaroni with cheese, milk, and other ingredients.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare ingredients and tools for cooking macaroni.\",\n      \"start_timestamp\": 514,\n      \"stop_timestamp\": 1471,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put meat into macaroni and prepare the pan.\",\n          \"start_timestamp\": 514,\n          \"stop_timestamp\": 558\n        },\n        {\n          \"secondary_subgoal\": \"Remove meat remains from the pan and prepare tools.\",\n          \"start_timestamp\": 558,\n          \"stop_timestamp\": 896\n        },\n        {\n          \"secondary_subgoal\": \"Prepare marinade and eggs.\",\n          \"start_timestamp\": 1194,\n          \"stop_timestamp\": 1427\n        },\n        {\n          \"secondary_subgoal\": \"Put marinade into macaroni.\",\n          \"start_timestamp\": 1471,\n          \"stop_timestamp\": 1487\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cook the macaroni and add ingredients.\",\n      \"start_timestamp\": 1487,\n      \"stop_timestamp\": 4545,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Heat the cooking pot.\",\n          \"start_timestamp\": 1487,\n          \"stop_timestamp\": 1591\n        },\n        {\n          \"secondary_subgoal\": \"Add eggs and wash hands.\",\n          \"start_timestamp\": 1591,\n          \"stop_timestamp\": 2003\n        },\n        {\n          \"secondary_subgoal\": \"Add milk and mix ingredients.\",\n          \"start_timestamp\": 2003,\n          \"stop_timestamp\": 2463\n        },\n        {\n          \"secondary_subgoal\": \"Turn pan and add more milk.\",\n          \"start_timestamp\": 2463,\n          \"stop_timestamp\": 2660\n        },\n        {\n          \"secondary_subgoal\": \"Add black pepper.\",\n          \"start_timestamp\": 2660,\n          \"stop_timestamp\": 3343\n        },\n        {\n          \"secondary_subgoal\": \"Grate cheese into macaroni.\",\n          \"start_timestamp\": 3343,\n          \"stop_timestamp\": 4545\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final mixture and kitchen cleanup.\",\n      \"start_timestamp\": 4545,\n      \"stop_timestamp\": 7172,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Mix cheese into macaroni and clean spoon.\",\n          \"start_timestamp\": 4545,\n          \"stop_timestamp\": 5330\n        },\n        {\n          \"secondary_subgoal\": \"Cover cooking pot and clean up knife.\",\n          \"start_timestamp\": 5330,\n          \"stop_timestamp\": 6131\n        },\n        {\n          \"secondary_subgoal\": \"Dispose eggshells and store cheese in fridge.\",\n          \"start_timestamp\": 6131,\n          \"stop_timestamp\": 6698\n        },\n        {\n          \"secondary_subgoal\": \"Dispose of milk packet and clean up kitchen area.\",\n          \"start_timestamp\": 6698,\n          \"stop_timestamp\": 7072\n        },\n        {\n          \"secondary_subgoal\": \"Raise hands after completion.\",\n          \"start_timestamp\": 7072,\n          \"stop_timestamp\": 7172\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1115,
+        "completion_tokens": 705,
+        "total_tokens": 1820
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

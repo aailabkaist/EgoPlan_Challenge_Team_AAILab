@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehgxVainv26Vy9wXa7PbQ8TlVJY0",
+    "object": "chat.completion",
+    "created": 1719488099,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Prepare vegetables by washing, cutting, and arranging them.\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Prepare workspace and gather vegetables\",\n            \"start_timestamp\": 0,\n            \"stop_timestamp\": 2252,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Remove any unnecessary items from the workspace\",\n                    \"start_timestamp\": 0,\n                    \"stop_timestamp\": 26\n                },\n                {\n                    \"secondary_subgoal\": \"Gather vegetables\",\n                    \"start_timestamp\": 26,\n                    \"stop_timestamp\": 2252\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Cut vegetables and arrange them\",\n            \"start_timestamp\": 2252,\n            \"stop_timestamp\": 10918,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Cut vegetables and drop them in a basin\",\n                    \"start_timestamp\": 2252,\n                    \"stop_timestamp\": 20318\n                },\n                {\n                    \"secondary_subgoal\": \"Arrange vegetables\",\n                    \"start_timestamp\": 20318,\n                    \"stop_timestamp\": 10918\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Remove string and final adjustments\",\n            \"start_timestamp\": 10918,\n            \"stop_timestamp\": 16539,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Remove any strings from vegetables and arrange them\",\n                    \"start_timestamp\": 10918,\n                    \"stop_timestamp\": 11353\n                },\n                {\n                    \"secondary_subgoal\": \"Make final adjustments\",\n                    \"start_timestamp\": 11353,\n                    \"stop_timestamp\": 16539\n                }\n            ]\n        }\n    ]\n}\n```\nThis JSON format representation captures the annotations and temporally segmented actions as outlined. The overall goal is to prepare vegetables, while the actions within each clip and sub-clip align with secondary subgoals supporting the parent clip subgoal."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9182,
+        "completion_tokens": 412,
+        "total_tokens": 9594
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

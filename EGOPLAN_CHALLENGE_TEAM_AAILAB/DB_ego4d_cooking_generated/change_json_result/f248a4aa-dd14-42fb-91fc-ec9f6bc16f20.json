@@ -1,0 +1,59 @@
+{
+    "overall_goal": "Preparing and cooking a cabbage dish in the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Preparing the cabbage for cooking",
+            "start_timestamp": 22,
+            "stop_timestamp": 4230,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking out and prepping the cabbage",
+                    "start_timestamp": 22,
+                    "stop_timestamp": 827
+                },
+                {
+                    "secondary_subgoal": "Cutting and cleaning the cabbage",
+                    "start_timestamp": 827,
+                    "stop_timestamp": 1470
+                },
+                {
+                    "secondary_subgoal": "Handling leftovers and cleaning cutting tools",
+                    "start_timestamp": 1470,
+                    "stop_timestamp": 4243
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking the cabbage dish",
+            "start_timestamp": 4243,
+            "stop_timestamp": 20872,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Starting the cooking process and heating oil",
+                    "start_timestamp": 4243,
+                    "stop_timestamp": 6682
+                },
+                {
+                    "secondary_subgoal": "Adding and sautéing onions",
+                    "start_timestamp": 6682,
+                    "stop_timestamp": 10355
+                },
+                {
+                    "secondary_subgoal": "Transferring sautéed onions and adding main ingredients",
+                    "start_timestamp": 10355,
+                    "stop_timestamp": 13552
+                },
+                {
+                    "secondary_subgoal": "Mixing and cooking the food thoroughly",
+                    "start_timestamp": 13552,
+                    "stop_timestamp": 20483
+                },
+                {
+                    "secondary_subgoal": "Final adjustments and preparing for serving",
+                    "start_timestamp": 20483,
+                    "stop_timestamp": 20872
+                }
+            ]
+        }
+    ]
+}

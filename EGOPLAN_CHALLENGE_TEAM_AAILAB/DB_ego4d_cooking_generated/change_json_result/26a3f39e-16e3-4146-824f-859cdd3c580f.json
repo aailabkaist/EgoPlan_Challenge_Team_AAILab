@@ -1,0 +1,110 @@
+{
+    "overall_goal": "Preparing vegetables and cooking them.",
+    "clips": [
+        {
+            "subgoal": "Picking and tearing vegetables.",
+            "start_timestamp": 5,
+            "stop_timestamp": 4235,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking up and tearing vegetables",
+                    "start_timestamp": 85,
+                    "stop_timestamp": 500
+                },
+                {
+                    "secondary_subgoal": "Dropping leaves in the cooking pot",
+                    "start_timestamp": 523,
+                    "stop_timestamp": 842
+                },
+                {
+                    "secondary_subgoal": "Peeling and tearing vegetables",
+                    "start_timestamp": 1008,
+                    "stop_timestamp": 1463
+                },
+                {
+                    "secondary_subgoal": "Cutting vegetables and dropping leaves",
+                    "start_timestamp": 1495,
+                    "stop_timestamp": 2179
+                },
+                {
+                    "secondary_subgoal": "Aligning cloth and picking vegetables",
+                    "start_timestamp": 2253,
+                    "stop_timestamp": 3270
+                },
+                {
+                    "secondary_subgoal": "Peeling vegetables",
+                    "start_timestamp": 3287,
+                    "stop_timestamp": 4235
+                }
+            ]
+        },
+        {
+            "subgoal": "Peeling vegetables and dropping them in the pot.",
+            "start_timestamp": 4235,
+            "stop_timestamp": 6234,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peeling vegetables and dropping them in the cooking pot",
+                    "start_timestamp": 4235,
+                    "stop_timestamp": 5195
+                },
+                {
+                    "secondary_subgoal": "Aligning cloth and handling vegetables",
+                    "start_timestamp": 5216,
+                    "stop_timestamp": 6613
+                },
+                {
+                    "secondary_subgoal": "Touching and peeling vegetables",
+                    "start_timestamp": 6626,
+                    "stop_timestamp": 6903
+                }
+            ]
+        },
+        {
+            "subgoal": "Peeling vegetables repeatedly.",
+            "start_timestamp": 6903,
+            "stop_timestamp": 15394,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peeling vegetables",
+                    "start_timestamp": 6903,
+                    "stop_timestamp": 16421
+                },
+                {
+                    "secondary_subgoal": "Plucking leaves from the stems of vegetables",
+                    "start_timestamp": 16611,
+                    "stop_timestamp": 16453
+                }
+            ]
+        },
+        {
+            "subgoal": "Interacting with someone (O).",
+            "start_timestamp": 17035,
+            "stop_timestamp": 26865,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Talking to someone (O)",
+                    "start_timestamp": 17035,
+                    "stop_timestamp": 26841
+                },
+                {
+                    "secondary_subgoal": "Plucking leaves from the stems",
+                    "start_timestamp": 26841,
+                    "stop_timestamp": 29158
+                }
+            ]
+        },
+        {
+            "subgoal": "Plucking leaves from the stems.",
+            "start_timestamp": 29158,
+            "stop_timestamp": 31928,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Plucking leaves from the stems",
+                    "start_timestamp": 29158,
+                    "stop_timestamp": 31928
+                }
+            ]
+        }
+    ]
+}

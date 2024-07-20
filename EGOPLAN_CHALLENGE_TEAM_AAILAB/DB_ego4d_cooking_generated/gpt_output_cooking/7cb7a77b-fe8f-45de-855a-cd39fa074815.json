@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9egEKDVlX5i5QWyQD5dxCyT5ZybTx",
+    "object": "chat.completion",
+    "created": 1719482480,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare and organize food items and kitchen utensils\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Pick and organize bottles\",\n      \"start_timestamp\": 99,\n      \"stop_timestamp\": 317,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick a bottle and place it in the drawer\",\n          \"start_timestamp\": 99,\n          \"stop_timestamp\": 206\n        },\n        {\n          \"secondary_subgoal\": \"Cover the bottle with a lid and place it on the floor\",\n          \"start_timestamp\": 224,\n          \"stop_timestamp\": 317\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handle tongs and preparing kitchen for use\",\n      \"start_timestamp\": 347,\n      \"stop_timestamp\": 842,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir stew with tongs and place tongs on the counter\",\n          \"start_timestamp\": 347,\n          \"stop_timestamp\": 842\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean kitchen utensils\",\n      \"start_timestamp\": 920,\n      \"stop_timestamp\": 1433,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put sieve and bowl in the sink and clean them\",\n          \"start_timestamp\": 920,\n          \"stop_timestamp\": 1433\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Organize kitchen utensils\",\n      \"start_timestamp\": 1500,\n      \"stop_timestamp\": 1708,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and hook grater on the utensil holder, pick and place a bowl on a counter\",\n          \"start_timestamp\": 1500,\n          \"stop_timestamp\": 1708\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare food items\",\n      \"start_timestamp\": 1829,\n      \"stop_timestamp\": 2284,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Open and place wrapper, then dispose it in the dustbin\",\n          \"start_timestamp\": 1829,\n          \"stop_timestamp\": 2284\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean hands\",\n      \"start_timestamp\": 2406,\n      \"stop_timestamp\": 2535,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Rinse and dry hands\",\n          \"start_timestamp\": 2406,\n          \"stop_timestamp\": 2535\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Stir and handle food with tongs\",\n      \"start_timestamp\": 2595,\n      \"stop_timestamp\": 4146,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir food with tongs, then place tongs on the counter\",\n          \"start_timestamp\": 2595,\n          \"stop_timestamp\": 2928\n        },\n        {\n          \"secondary_subgoal\": \"Pick tongs, stir and cook food, place food on plates\",\n          \"start_timestamp\": 3245,\n          \"stop_timestamp\": 4146\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handle knife and organize food\",\n      \"start_timestamp\": 4198,\n      \"stop_timestamp\": 4667,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and place knife in the utensil holder, use it to cut egg, and rotate plate\",\n          \"start_timestamp\": 4198,\n          \"stop_timestamp\": 4567\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1528,
+        "completion_tokens": 783,
+        "total_tokens": 2311
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

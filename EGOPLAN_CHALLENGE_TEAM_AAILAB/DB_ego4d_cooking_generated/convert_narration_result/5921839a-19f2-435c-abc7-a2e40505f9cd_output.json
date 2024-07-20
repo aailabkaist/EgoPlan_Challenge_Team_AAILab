@@ -1,0 +1,582 @@
+[
+    {
+        "task_goal": "Wiping the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Wipes the sink with a towel",
+                "start_frame": 25,
+                "stop_frame": 90
+            },
+            {
+                "narration_text": "Rinses the towel",
+                "start_frame": 90,
+                "stop_frame": 278
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinsing and folding the towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Wipes the sink with a towel",
+                "start_frame": 25,
+                "stop_frame": 90
+            },
+            {
+                "narration_text": "Rinses the towel",
+                "start_frame": 90,
+                "stop_frame": 278
+            },
+            {
+                "narration_text": "Folds the towel",
+                "start_frame": 278,
+                "stop_frame": 314
+            },
+            {
+                "narration_text": "Squeezes the towel with his hands",
+                "start_frame": 314,
+                "stop_frame": 391
+            }
+        ]
+    },
+    {
+        "task_goal": "Squeezing and placing the towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Folds the towel",
+                "start_frame": 278,
+                "stop_frame": 314
+            },
+            {
+                "narration_text": "Squeezes the towel with his hands",
+                "start_frame": 314,
+                "stop_frame": 391
+            },
+            {
+                "narration_text": "Opens a sink stopper",
+                "start_frame": 391,
+                "stop_frame": 406
+            },
+            {
+                "narration_text": "Rinses his left hand",
+                "start_frame": 406,
+                "stop_frame": 430
+            },
+            {
+                "narration_text": "Closes the sink stopper",
+                "start_frame": 430,
+                "stop_frame": 453
+            },
+            {
+                "narration_text": "Rinses his left hand",
+                "start_frame": 453,
+                "stop_frame": 500
+            },
+            {
+                "narration_text": "Places the towel on a countertop",
+                "start_frame": 500,
+                "stop_frame": 521
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 521,
+                "stop_frame": 537
+            }
+        ]
+    },
+    {
+        "task_goal": "Manipulating the tap and rinsing hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Places the towel on a countertop",
+                "start_frame": 500,
+                "stop_frame": 521
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 521,
+                "stop_frame": 537
+            },
+            {
+                "narration_text": "Open s the tap",
+                "start_frame": 537,
+                "stop_frame": 559
+            },
+            {
+                "narration_text": "Rinses his hands",
+                "start_frame": 559,
+                "stop_frame": 589
+            },
+            {
+                "narration_text": "Pushes the faucet to the left with his right hand",
+                "start_frame": 589,
+                "stop_frame": 613
+            },
+            {
+                "narration_text": "Rinses his hands",
+                "start_frame": 613,
+                "stop_frame": 648
+            },
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 648,
+                "stop_frame": 663
+            },
+            {
+                "narration_text": "Shakes his hands",
+                "start_frame": 663,
+                "stop_frame": 677
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling the towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the tap",
+                "start_frame": 648,
+                "stop_frame": 663
+            },
+            {
+                "narration_text": "Shakes his hands",
+                "start_frame": 663,
+                "stop_frame": 677
+            },
+            {
+                "narration_text": "Picks the towel from a countertop",
+                "start_frame": 677,
+                "stop_frame": 699
+            },
+            {
+                "narration_text": "Straightens the towel",
+                "start_frame": 699,
+                "stop_frame": 772
+            },
+            {
+                "narration_text": "Places the towel on a countertop",
+                "start_frame": 772,
+                "stop_frame": 783
+            },
+            {
+                "narration_text": "Folds the towel",
+                "start_frame": 783,
+                "stop_frame": 877
+            },
+            {
+                "narration_text": "Wipes the countertop with a towel",
+                "start_frame": 877,
+                "stop_frame": 1067
+            }
+        ]
+    },
+    {
+        "task_goal": "Drying hands with hand towel",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a hand towel",
+                "start_frame": 1067,
+                "stop_frame": 1099
+            },
+            {
+                "narration_text": "Dries his hands with the hand towel",
+                "start_frame": 1099,
+                "stop_frame": 1254
+            },
+            {
+                "narration_text": "Turns to the countertop",
+                "start_frame": 1254,
+                "stop_frame": 1293
+            }
+        ]
+    },
+    {
+        "task_goal": "Disposing of litter",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Dries his hands with the hand towel",
+                "start_frame": 1099,
+                "stop_frame": 1254
+            },
+            {
+                "narration_text": "Turns to the countertop",
+                "start_frame": 1254,
+                "stop_frame": 1293
+            },
+            {
+                "narration_text": "Picks a clear vinyl cover containing litter from the countertop",
+                "start_frame": 1293,
+                "stop_frame": 1343
+            },
+            {
+                "narration_text": "Holds the clear vinyl cover",
+                "start_frame": 1343,
+                "stop_frame": 1377
+            },
+            {
+                "narration_text": "Rotates the clear vinyl cover with his right hand",
+                "start_frame": 1377,
+                "stop_frame": 1420
+            },
+            {
+                "narration_text": "Moves a bottle on the countertop",
+                "start_frame": 1420,
+                "stop_frame": 1452
+            },
+            {
+                "narration_text": "Rotates the clear vinyl cover with his right hand",
+                "start_frame": 1452,
+                "stop_frame": 1505
+            },
+            {
+                "narration_text": "Ties the clear vinyl cover",
+                "start_frame": 1505,
+                "stop_frame": 1695
+            },
+            {
+                "narration_text": "Picks the clear vinyl cover containing litter from a countertop",
+                "start_frame": 1695,
+                "stop_frame": 1699
+            },
+            {
+                "narration_text": "Turns to the litter bin",
+                "start_frame": 1699,
+                "stop_frame": 1720
+            },
+            {
+                "narration_text": "Opens the litter bin",
+                "start_frame": 1720,
+                "stop_frame": 1748
+            },
+            {
+                "narration_text": "Places the clear vinyl cover containing litter in a litter bin",
+                "start_frame": 1748,
+                "stop_frame": 1764
+            },
+            {
+                "narration_text": "Closes the litter bin",
+                "start_frame": 1764,
+                "stop_frame": 1788
+            },
+            {
+                "narration_text": "Moves a bottle on the floor",
+                "start_frame": 1788,
+                "stop_frame": 1826
+            }
+        ]
+    },
+    {
+        "task_goal": "Handling the clear vinyl cover containing litter",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Dries his hands with the hand towel",
+                "start_frame": 1099,
+                "stop_frame": 1254
+            },
+            {
+                "narration_text": "Turns to the countertop",
+                "start_frame": 1254,
+                "stop_frame": 1293
+            },
+            {
+                "narration_text": "Picks a clear vinyl cover containing litter from the countertop",
+                "start_frame": 1293,
+                "stop_frame": 1343
+            },
+            {
+                "narration_text": "Holds the clear vinyl cover",
+                "start_frame": 1343,
+                "stop_frame": 1377
+            },
+            {
+                "narration_text": "Rotates the clear vinyl cover with his right hand",
+                "start_frame": 1377,
+                "stop_frame": 1420
+            },
+            {
+                "narration_text": "Moves a bottle on the countertop",
+                "start_frame": 1420,
+                "stop_frame": 1452
+            },
+            {
+                "narration_text": "Rotates the clear vinyl cover with his right hand",
+                "start_frame": 1452,
+                "stop_frame": 1505
+            }
+        ]
+    },
+    {
+        "task_goal": "Tying and disposing of the clear vinyl cover containing litter",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves a bottle on the countertop",
+                "start_frame": 1420,
+                "stop_frame": 1452
+            },
+            {
+                "narration_text": "Rotates the clear vinyl cover with his right hand",
+                "start_frame": 1452,
+                "stop_frame": 1505
+            },
+            {
+                "narration_text": "Ties the clear vinyl cover",
+                "start_frame": 1505,
+                "stop_frame": 1695
+            },
+            {
+                "narration_text": "Picks the clear vinyl cover containing litter from a countertop",
+                "start_frame": 1695,
+                "stop_frame": 1699
+            },
+            {
+                "narration_text": "Turns to the litter bin",
+                "start_frame": 1699,
+                "stop_frame": 1720
+            },
+            {
+                "narration_text": "Opens the litter bin",
+                "start_frame": 1720,
+                "stop_frame": 1748
+            },
+            {
+                "narration_text": "Places the clear vinyl cover containing litter in a litter bin",
+                "start_frame": 1748,
+                "stop_frame": 1764
+            },
+            {
+                "narration_text": "Closes the litter bin",
+                "start_frame": 1764,
+                "stop_frame": 1788
+            },
+            {
+                "narration_text": "Moves a bottle on the floor",
+                "start_frame": 1788,
+                "stop_frame": 1826
+            }
+        ]
+    },
+    {
+        "task_goal": "Organizing and preparing kitchen for cooking",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the litter bin",
+                "start_frame": 1764,
+                "stop_frame": 1788
+            },
+            {
+                "narration_text": "Moves a bottle on the floor",
+                "start_frame": 1788,
+                "stop_frame": 1826
+            },
+            {
+                "narration_text": "Turns to the countertop",
+                "start_frame": 1826,
+                "stop_frame": 1842
+            },
+            {
+                "narration_text": "Picks a bottle from the countertop",
+                "start_frame": 1842,
+                "stop_frame": 1877
+            },
+            {
+                "narration_text": "Places the bottle on a floor",
+                "start_frame": 1877,
+                "stop_frame": 1925
+            },
+            {
+                "narration_text": "Turns to the cooker",
+                "start_frame": 1925,
+                "stop_frame": 1957
+            },
+            {
+                "narration_text": "Opens the cooking pot lid",
+                "start_frame": 1957,
+                "stop_frame": 2005
+            },
+            {
+                "narration_text": "Looks at",
+                "start_frame": 2005,
+                "stop_frame": 2044
+            },
+            {
+                "narration_text": "Stares at unsure",
+                "start_frame": 2044,
+                "stop_frame": 2135
+            },
+            {
+                "narration_text": "Closes the cooking pot with a lid",
+                "start_frame": 2135,
+                "stop_frame": 2262
+            },
+            {
+                "narration_text": "Turns to the countertop",
+                "start_frame": 2262,
+                "stop_frame": 2287
+            },
+            {
+                "narration_text": "Wipes the countertop with a towel",
+                "start_frame": 2287,
+                "stop_frame": 2440
+            },
+            {
+                "narration_text": "Turns to the cooker",
+                "start_frame": 2440,
+                "stop_frame": 2467
+            },
+            {
+                "narration_text": "Switches off cooker",
+                "start_frame": 2467,
+                "stop_frame": 2508
+            },
+            {
+                "narration_text": "Walks forward",
+                "start_frame": 2508,
+                "stop_frame": 2539
+            },
+            {
+                "narration_text": "Lifts his right hand",
+                "start_frame": 2539,
+                "stop_frame": 2638
+            },
+            {
+                "narration_text": "Stares at the sink",
+                "start_frame": 2638,
+                "stop_frame": 2738
+            }
+        ]
+    },
+    {
+        "task_goal": "Placing bottles",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the litter bin",
+                "start_frame": 1764,
+                "stop_frame": 1788
+            },
+            {
+                "narration_text": "Moves a bottle on the floor",
+                "start_frame": 1788,
+                "stop_frame": 1826
+            },
+            {
+                "narration_text": "Turns to the countertop",
+                "start_frame": 1826,
+                "stop_frame": 1842
+            },
+            {
+                "narration_text": "Picks a bottle from the countertop",
+                "start_frame": 1842,
+                "stop_frame": 1877
+            },
+            {
+                "narration_text": "Places the bottle on a floor",
+                "start_frame": 1877,
+                "stop_frame": 1925
+            },
+            {
+                "narration_text": "Turns to the cooker",
+                "start_frame": 1925,
+                "stop_frame": 1957
+            },
+            {
+                "narration_text": "Opens the cooking pot lid",
+                "start_frame": 1957,
+                "stop_frame": 2005
+            }
+        ]
+    },
+    {
+        "task_goal": "Interacting with the cooking pot",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns to the cooker",
+                "start_frame": 1925,
+                "stop_frame": 1957
+            },
+            {
+                "narration_text": "Opens the cooking pot lid",
+                "start_frame": 1957,
+                "stop_frame": 2005
+            },
+            {
+                "narration_text": "Looks at",
+                "start_frame": 2005,
+                "stop_frame": 2044
+            },
+            {
+                "narration_text": "Stares at unsure",
+                "start_frame": 2044,
+                "stop_frame": 2135
+            },
+            {
+                "narration_text": "Closes the cooking pot with a lid",
+                "start_frame": 2135,
+                "stop_frame": 2262
+            },
+            {
+                "narration_text": "Turns to the countertop",
+                "start_frame": 2262,
+                "stop_frame": 2287
+            },
+            {
+                "narration_text": "Wipes the countertop with a towel",
+                "start_frame": 2287,
+                "stop_frame": 2440
+            }
+        ]
+    },
+    {
+        "task_goal": "Wiping countertop and switching off the cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns to the countertop",
+                "start_frame": 2262,
+                "stop_frame": 2287
+            },
+            {
+                "narration_text": "Wipes the countertop with a towel",
+                "start_frame": 2287,
+                "stop_frame": 2440
+            },
+            {
+                "narration_text": "Turns to the cooker",
+                "start_frame": 2440,
+                "stop_frame": 2467
+            },
+            {
+                "narration_text": "Switches off cooker",
+                "start_frame": 2467,
+                "stop_frame": 2508
+            },
+            {
+                "narration_text": "Walks forward",
+                "start_frame": 2508,
+                "stop_frame": 2539
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking and staring at the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Switches off cooker",
+                "start_frame": 2467,
+                "stop_frame": 2508
+            },
+            {
+                "narration_text": "Walks forward",
+                "start_frame": 2508,
+                "stop_frame": 2539
+            },
+            {
+                "narration_text": "Lifts his right hand",
+                "start_frame": 2539,
+                "stop_frame": 2638
+            },
+            {
+                "narration_text": "Stares at the sink",
+                "start_frame": 2638,
+                "stop_frame": 2738
+            }
+        ]
+    }
+]

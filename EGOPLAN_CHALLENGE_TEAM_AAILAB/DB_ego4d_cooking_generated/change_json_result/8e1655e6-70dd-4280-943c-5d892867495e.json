@@ -1,0 +1,156 @@
+{
+    "overall_goal": "Clean various kitchen utensils and surfaces",
+    "clips": [
+        {
+            "subgoal": "Prepare the cleaning materials",
+            "start_timestamp": "0",
+            "stop_timestamp": "414",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Lift hands",
+                    "start_timestamp": "0",
+                    "stop_timestamp": "74"
+                },
+                {
+                    "secondary_subgoal": "Turn on the tap",
+                    "start_timestamp": "74",
+                    "stop_timestamp": "127"
+                },
+                {
+                    "secondary_subgoal": "Take a cloth",
+                    "start_timestamp": "127",
+                    "stop_timestamp": "152"
+                },
+                {
+                    "secondary_subgoal": "Wash the cloth",
+                    "start_timestamp": "152",
+                    "stop_timestamp": "301"
+                },
+                {
+                    "secondary_subgoal": "Take a bottle and pour soap on the cloth",
+                    "start_timestamp": "301",
+                    "stop_timestamp": "385"
+                },
+                {
+                    "secondary_subgoal": "Put the bottle on the sink",
+                    "start_timestamp": "385",
+                    "stop_timestamp": "414"
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean various kitchen tools and plates",
+            "start_timestamp": "414",
+            "stop_timestamp": "1499",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on and off the tap",
+                    "start_timestamp": "414",
+                    "stop_timestamp": "466"
+                },
+                {
+                    "secondary_subgoal": "Squeeze the cloth",
+                    "start_timestamp": "466",
+                    "stop_timestamp": "490"
+                },
+                {
+                    "secondary_subgoal": "Take and wipe the knife",
+                    "start_timestamp": "490",
+                    "stop_timestamp": "609"
+                },
+                {
+                    "secondary_subgoal": "Take and wipe the chopsticks",
+                    "start_timestamp": "609",
+                    "stop_timestamp": "741"
+                },
+                {
+                    "secondary_subgoal": "Take and wipe the ladle",
+                    "start_timestamp": "741",
+                    "stop_timestamp": "872"
+                },
+                {
+                    "secondary_subgoal": "Take and wash the plates",
+                    "start_timestamp": "872",
+                    "stop_timestamp": "1324"
+                },
+                {
+                    "secondary_subgoal": "Wash the chopsticks",
+                    "start_timestamp": "1324",
+                    "stop_timestamp": "1453"
+                },
+                {
+                    "secondary_subgoal": "Put chopsticks in the sink",
+                    "start_timestamp": "1453",
+                    "stop_timestamp": "1499"
+                }
+            ]
+        },
+        {
+            "subgoal": "Perform additional cleaning tasks",
+            "start_timestamp": "1499",
+            "stop_timestamp": "20887",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take and wash items",
+                    "start_timestamp": "1499",
+                    "stop_timestamp": "2221"
+                },
+                {
+                    "secondary_subgoal": "Turn on and off the tap, rinse items",
+                    "start_timestamp": "2221",
+                    "stop_timestamp": "2841"
+                },
+                {
+                    "secondary_subgoal": "Wash the sponge",
+                    "start_timestamp": "2841",
+                    "stop_timestamp": "2891"
+                },
+                {
+                    "secondary_subgoal": "Turn off the tap and squeeze the cloth",
+                    "start_timestamp": "2891",
+                    "stop_timestamp": "3027"
+                },
+                {
+                    "secondary_subgoal": "Unfold the cloth and wipe chopping board",
+                    "start_timestamp": "3027",
+                    "stop_timestamp": "3213"
+                },
+                {
+                    "secondary_subgoal": "Open cabinetry and store items",
+                    "start_timestamp": "3213",
+                    "stop_timestamp": "3343"
+                },
+                {
+                    "secondary_subgoal": "Move around the house for additional tasks",
+                    "start_timestamp": "3343",
+                    "stop_timestamp": "3524"
+                },
+                {
+                    "secondary_subgoal": "Take and wash the tray and other utensils",
+                    "start_timestamp": "3524",
+                    "stop_timestamp": "5444"
+                },
+                {
+                    "secondary_subgoal": "Handle soap and wash other items",
+                    "start_timestamp": "5444",
+                    "stop_timestamp": "7554"
+                },
+                {
+                    "secondary_subgoal": "Wash the wire",
+                    "start_timestamp": "7554",
+                    "stop_timestamp": "8683"
+                },
+                {
+                    "secondary_subgoal": "Rinse and clean sink",
+                    "start_timestamp": "8683",
+                    "stop_timestamp": "19521"
+                },
+                {
+                    "secondary_subgoal": "Perform final cleaning and storing tasks",
+                    "start_timestamp": "19521",
+                    "stop_timestamp": "20887"
+                }
+            ]
+        }
+    ]
+}

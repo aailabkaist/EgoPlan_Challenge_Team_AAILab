@@ -1,0 +1,117 @@
+{
+    "overall_goal": "Prepare a meal involving rice and grated coconut in the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Initial activities outside the house",
+            "start_timestamp": 106,
+            "stop_timestamp": 2430,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Talking on the phone and exploring the surroundings",
+                    "start_timestamp": 106,
+                    "stop_timestamp": 1271
+                },
+                {
+                    "secondary_subgoal": "Walking around and observing the compound",
+                    "start_timestamp": 1271,
+                    "stop_timestamp": 2430
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling plants and returning inside",
+            "start_timestamp": 2430,
+            "stop_timestamp": 4484,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling a dry plant and cutting a stick",
+                    "start_timestamp": 3271,
+                    "stop_timestamp": 3399
+                },
+                {
+                    "secondary_subgoal": "Talking on the phone",
+                    "start_timestamp": 3399,
+                    "stop_timestamp": 4096
+                },
+                {
+                    "secondary_subgoal": "Walking inside the house",
+                    "start_timestamp": 4096,
+                    "stop_timestamp": 4291
+                },
+                {
+                    "secondary_subgoal": "Talking to a person inside",
+                    "start_timestamp": 4291,
+                    "stop_timestamp": 4484
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing the kitchen for cooking",
+            "start_timestamp": 4484,
+            "stop_timestamp": 5631,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walking around the kitchen and handling utensils",
+                    "start_timestamp": 4484,
+                    "stop_timestamp": 4934
+                },
+                {
+                    "secondary_subgoal": "Putting items in the fridge",
+                    "start_timestamp": 5113,
+                    "stop_timestamp": 5498
+                },
+                {
+                    "secondary_subgoal": "Looking around the kitchen",
+                    "start_timestamp": 5498,
+                    "stop_timestamp": 5631
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking rice",
+            "start_timestamp": 5631,
+            "stop_timestamp": 12273,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling and washing rice",
+                    "start_timestamp": 6724,
+                    "stop_timestamp": 12273
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing coconut",
+            "start_timestamp": 12273,
+            "stop_timestamp": 22014,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cracking and cutting coconut",
+                    "start_timestamp": 13064,
+                    "stop_timestamp": 19384
+                },
+                {
+                    "secondary_subgoal": "Peeling and washing coconut",
+                    "start_timestamp": 19384,
+                    "stop_timestamp": 22014
+                }
+            ]
+        },
+        {
+            "subgoal": "Grating the coconut",
+            "start_timestamp": 22014,
+            "stop_timestamp": 31551,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Looking for and handling the grater",
+                    "start_timestamp": 23288,
+                    "stop_timestamp": 24234
+                },
+                {
+                    "secondary_subgoal": "Grating coconut",
+                    "start_timestamp": 24234,
+                    "stop_timestamp": 31551
+                }
+            ]
+        }
+    ]
+}

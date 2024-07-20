@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeVMpQA6s9dcYfMZTD1JTxE6ey3m",
+    "object": "chat.completion",
+    "created": 1719475848,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Clean and organize the kitchen by putting away kitchen items.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Clean and store the knife\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 256,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Hold a bowl and a kitchen towel\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 12\n        },\n        {\n          \"secondary_subgoal\": \"Pick and wipe the knife\",\n          \"start_timestamp\": 12,\n          \"stop_timestamp\": 63\n        },\n        {\n          \"secondary_subgoal\": \"Wipe the knife\",\n          \"start_timestamp\": 63,\n          \"stop_timestamp\": 120\n        },\n        {\n          \"secondary_subgoal\": \"Store the knife in the drawer\",\n          \"start_timestamp\": 120,\n          \"stop_timestamp\": 227\n        },\n        {\n          \"secondary_subgoal\": \"Close the drawer\",\n          \"start_timestamp\": 227,\n          \"stop_timestamp\": 256\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Organize the kitchen items\",\n      \"start_timestamp\": 256,\n      \"stop_timestamp\": 739,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Hang the kitchen towel\",\n          \"start_timestamp\": 256,\n          \"stop_timestamp\": 305\n        },\n        {\n          \"secondary_subgoal\": \"Grab a bowl and plate from the countertop\",\n          \"start_timestamp\": 305,\n          \"stop_timestamp\": 347\n        },\n        {\n          \"secondary_subgoal\": \"Open the kitchen cabinet\",\n          \"start_timestamp\": 347,\n          \"stop_timestamp\": 368\n        },\n        {\n          \"secondary_subgoal\": \"Place the plate in the kitchen cabinet\",\n          \"start_timestamp\": 368,\n          \"stop_timestamp\": 511\n        },\n        {\n          \"secondary_subgoal\": \"Move around the kitchen\",\n          \"start_timestamp\": 511,\n          \"stop_timestamp\": 541\n        },\n        {\n          \"secondary_subgoal\": \"Pick bowls on the countertop\",\n          \"start_timestamp\": 541,\n          \"stop_timestamp\": 576\n        },\n        {\n          \"secondary_subgoal\": \"Place the bowls in the kitchen cabinet\",\n          \"start_timestamp\": 576,\n          \"stop_timestamp\": 637\n        },\n        {\n          \"secondary_subgoal\": \"Move around the kitchen\",\n          \"start_timestamp\": 637,\n          \"stop_timestamp\": 739\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Adjust the camera\",\n      \"start_timestamp\": 739,\n      \"stop_timestamp\": 839,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Adjust the camera\",\n          \"start_timestamp\": 739,\n          \"stop_timestamp\": 839\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 484,
+        "completion_tokens": 614,
+        "total_tokens": 1098
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

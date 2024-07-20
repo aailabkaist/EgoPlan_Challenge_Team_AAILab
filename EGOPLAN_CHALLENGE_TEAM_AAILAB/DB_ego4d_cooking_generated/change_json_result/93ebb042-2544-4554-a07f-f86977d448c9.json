@@ -1,0 +1,141 @@
+{
+    "overall_goal": "Wash and clean various kitchen items including dishes, utensils, and cookware using a dish cloth, water, and soap.",
+    "clips": [
+        {
+            "subgoal": "Prepare dish cloth for washing",
+            "start_timestamp": 33,
+            "stop_timestamp": 183,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and wet dish cloth",
+                    "start_timestamp": 33,
+                    "stop_timestamp": 81
+                },
+                {
+                    "secondary_subgoal": "Add soap to dish cloth",
+                    "start_timestamp": 108,
+                    "stop_timestamp": 166
+                },
+                {
+                    "secondary_subgoal": "Place soap back",
+                    "start_timestamp": 166,
+                    "stop_timestamp": 183
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash various utensils",
+            "start_timestamp": 219,
+            "stop_timestamp": 322,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash a chopstick",
+                    "start_timestamp": 219,
+                    "stop_timestamp": 295
+                },
+                {
+                    "secondary_subgoal": "Wash a spoon",
+                    "start_timestamp": 315,
+                    "stop_timestamp": 392
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash plates",
+            "start_timestamp": 408,
+            "stop_timestamp": 2233,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold and wash plates",
+                    "start_timestamp": 408,
+                    "stop_timestamp": 2233
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash compartment serving plates",
+            "start_timestamp": 2285,
+            "stop_timestamp": 3074,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash the first compartment serving plate",
+                    "start_timestamp": 2285,
+                    "stop_timestamp": 2667
+                },
+                {
+                    "secondary_subgoal": "Wash the second compartment serving plate",
+                    "start_timestamp": 2695,
+                    "stop_timestamp": 3027
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash and place metal items",
+            "start_timestamp": 3375,
+            "stop_timestamp": 6624,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash the strainer",
+                    "start_timestamp": 3375,
+                    "stop_timestamp": 3626
+                },
+                {
+                    "secondary_subgoal": "Wash the metal bowl",
+                    "start_timestamp": 3641,
+                    "stop_timestamp": 3878
+                },
+                {
+                    "secondary_subgoal": "Wash water glasses",
+                    "start_timestamp": 3911,
+                    "stop_timestamp": 4729
+                }
+            ]
+        },
+        {
+            "subgoal": "Re-wash using a fresh dish cloth",
+            "start_timestamp": 5319,
+            "stop_timestamp": 5745,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare fresh dish cloth",
+                    "start_timestamp": 5607,
+                    "stop_timestamp": 5745
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash various items",
+            "start_timestamp": 6686,
+            "stop_timestamp": 10452,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash saucer, cups, plates, and glasses",
+                    "start_timestamp": 6686,
+                    "stop_timestamp": 8450
+                },
+                {
+                    "secondary_subgoal": "Wash and place the fork and bowl",
+                    "start_timestamp": 8585,
+                    "stop_timestamp": 9400
+                },
+                {
+                    "secondary_subgoal": "Wash knife, chopping board, rack, and other glass items",
+                    "start_timestamp": 9482,
+                    "stop_timestamp": 10452
+                }
+            ]
+        },
+        {
+            "subgoal": "Final rinse and dry items",
+            "start_timestamp": 13249,
+            "stop_timestamp": 21205,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse and dry various items",
+                    "start_timestamp": 13183,
+                    "stop_timestamp": 21205
+                }
+            ]
+        }
+    ]
+}

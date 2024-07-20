@@ -1,0 +1,722 @@
+[
+    {
+        "task_goal": "Walk to the cupboard and open it",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks",
+                "start_frame": 288,
+                "stop_frame": 348
+            },
+            {
+                "narration_text": "Opens the cupboard",
+                "start_frame": 348,
+                "stop_frame": 400
+            },
+            {
+                "narration_text": "Moves hand",
+                "start_frame": 400,
+                "stop_frame": 435
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and move dishes",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the cupboard",
+                "start_frame": 348,
+                "stop_frame": 400
+            },
+            {
+                "narration_text": "Moves hand",
+                "start_frame": 400,
+                "stop_frame": 435
+            },
+            {
+                "narration_text": "Picks a dish",
+                "start_frame": 435,
+                "stop_frame": 463
+            },
+            {
+                "narration_text": "Takes the plate",
+                "start_frame": 463,
+                "stop_frame": 486
+            },
+            {
+                "narration_text": "Returns the dish",
+                "start_frame": 486,
+                "stop_frame": 558
+            }
+        ]
+    },
+    {
+        "task_goal": "Return the dish and walk again",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Takes the plate",
+                "start_frame": 463,
+                "stop_frame": 486
+            },
+            {
+                "narration_text": "Returns the dish",
+                "start_frame": 486,
+                "stop_frame": 558
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 558,
+                "stop_frame": 649
+            },
+            {
+                "narration_text": "Puts aside mint leaf",
+                "start_frame": 649,
+                "stop_frame": 668
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare and set aside the mint leaf and dish",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks",
+                "start_frame": 558,
+                "stop_frame": 649
+            },
+            {
+                "narration_text": "Puts aside mint leaf",
+                "start_frame": 649,
+                "stop_frame": 668
+            },
+            {
+                "narration_text": "Puts the plate down",
+                "start_frame": 668,
+                "stop_frame": 714
+            },
+            {
+                "narration_text": "Picks sticks",
+                "start_frame": 714,
+                "stop_frame": 719
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick the sticks and dish",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the plate down",
+                "start_frame": 668,
+                "stop_frame": 714
+            },
+            {
+                "narration_text": "Picks sticks",
+                "start_frame": 714,
+                "stop_frame": 719
+            },
+            {
+                "narration_text": "Holds the plate",
+                "start_frame": 719,
+                "stop_frame": 745
+            },
+            {
+                "narration_text": "Picks the sufuria cover",
+                "start_frame": 745,
+                "stop_frame": 748
+            },
+            {
+                "narration_text": "Picks sticks",
+                "start_frame": 748,
+                "stop_frame": 756
+            },
+            {
+                "narration_text": "Puts the plate down",
+                "start_frame": 756,
+                "stop_frame": 831
+            }
+        ]
+    },
+    {
+        "task_goal": "Interacting with sufuria and cover it",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks the sufuria cover",
+                "start_frame": 745,
+                "stop_frame": 748
+            },
+            {
+                "narration_text": "Picks sticks",
+                "start_frame": 748,
+                "stop_frame": 756
+            },
+            {
+                "narration_text": "Puts the plate down",
+                "start_frame": 756,
+                "stop_frame": 831
+            },
+            {
+                "narration_text": "Turns the sufuria cover",
+                "start_frame": 831,
+                "stop_frame": 848
+            },
+            {
+                "narration_text": "Puts the sticks in the other hand",
+                "start_frame": 848,
+                "stop_frame": 888
+            },
+            {
+                "narration_text": "Covers the sufuria",
+                "start_frame": 888,
+                "stop_frame": 932
+            },
+            {
+                "narration_text": "Puts the sticks down",
+                "start_frame": 932,
+                "stop_frame": 968
+            }
+        ]
+    },
+    {
+        "task_goal": "Manage the sticks and hand movements",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Covers the sufuria",
+                "start_frame": 888,
+                "stop_frame": 932
+            },
+            {
+                "narration_text": "Puts the sticks down",
+                "start_frame": 932,
+                "stop_frame": 968
+            },
+            {
+                "narration_text": "Opens the cupboard",
+                "start_frame": 968,
+                "stop_frame": 1029
+            },
+            {
+                "narration_text": "Picks spoon",
+                "start_frame": 1029,
+                "stop_frame": 1058
+            }
+        ]
+    },
+    {
+        "task_goal": "Open cupboard and pick spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the cupboard",
+                "start_frame": 968,
+                "stop_frame": 1029
+            },
+            {
+                "narration_text": "Picks spoon",
+                "start_frame": 1029,
+                "stop_frame": 1058
+            },
+            {
+                "narration_text": "Closes the cupboard",
+                "start_frame": 1058,
+                "stop_frame": 1089
+            },
+            {
+                "narration_text": "Picks a plate",
+                "start_frame": 1089,
+                "stop_frame": 1117
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick a plate and move another plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the cupboard",
+                "start_frame": 1058,
+                "stop_frame": 1089
+            },
+            {
+                "narration_text": "Picks a plate",
+                "start_frame": 1089,
+                "stop_frame": 1117
+            },
+            {
+                "narration_text": "Moves anothe plate",
+                "start_frame": 1117,
+                "stop_frame": 1163
+            },
+            {
+                "narration_text": "Picks sufuria of noodle",
+                "start_frame": 1163,
+                "stop_frame": 1204
+            }
+        ]
+    },
+    {
+        "task_goal": "Transfer noodles to the serving plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves anothe plate",
+                "start_frame": 1117,
+                "stop_frame": 1163
+            },
+            {
+                "narration_text": "Picks sufuria of noodle",
+                "start_frame": 1163,
+                "stop_frame": 1204
+            },
+            {
+                "narration_text": "Shakes the sufuria",
+                "start_frame": 1204,
+                "stop_frame": 1232
+            },
+            {
+                "narration_text": "Collects the noodle",
+                "start_frame": 1232,
+                "stop_frame": 1366
+            },
+            {
+                "narration_text": "Lifts the noodle",
+                "start_frame": 1366,
+                "stop_frame": 1495
+            },
+            {
+                "narration_text": "Puts the noodle on the plate",
+                "start_frame": 1495,
+                "stop_frame": 1577
+            },
+            {
+                "narration_text": "Turns the tong",
+                "start_frame": 1577,
+                "stop_frame": 1631
+            },
+            {
+                "narration_text": "Picks the noodle",
+                "start_frame": 1631,
+                "stop_frame": 1739
+            },
+            {
+                "narration_text": "Lifts the noodle",
+                "start_frame": 1739,
+                "stop_frame": 1841
+            },
+            {
+                "narration_text": "Puts the noodle in the plate",
+                "start_frame": 1841,
+                "stop_frame": 1901
+            },
+            {
+                "narration_text": "Lifts the noodle",
+                "start_frame": 1901,
+                "stop_frame": 1971
+            },
+            {
+                "narration_text": "Puts the noodle in the plate",
+                "start_frame": 1971,
+                "stop_frame": 2106
+            },
+            {
+                "narration_text": "Lifts the noodle",
+                "start_frame": 2106,
+                "stop_frame": 2163
+            },
+            {
+                "narration_text": "Puts the noodle in the plate",
+                "start_frame": 2163,
+                "stop_frame": 2191
+            },
+            {
+                "narration_text": "Lifts the sufuria",
+                "start_frame": 2191,
+                "stop_frame": 2248
+            },
+            {
+                "narration_text": "Puts the noodle in the plate",
+                "start_frame": 2248,
+                "stop_frame": 2301
+            },
+            {
+                "narration_text": "Collects the noodle",
+                "start_frame": 2301,
+                "stop_frame": 2456
+            },
+            {
+                "narration_text": "Lifts noodle",
+                "start_frame": 2456,
+                "stop_frame": 2511
+            }
+        ]
+    },
+    {
+        "task_goal": "Shake and collect noodles using sufuria",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks sufuria of noodle",
+                "start_frame": 1163,
+                "stop_frame": 1204
+            },
+            {
+                "narration_text": "Shakes the sufuria",
+                "start_frame": 1204,
+                "stop_frame": 1232
+            },
+            {
+                "narration_text": "Collects the noodle",
+                "start_frame": 1232,
+                "stop_frame": 1366
+            },
+            {
+                "narration_text": "Lifts the noodle",
+                "start_frame": 1366,
+                "stop_frame": 1495
+            }
+        ]
+    },
+    {
+        "task_goal": "Lift and put noodles on the plate multiple times",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Collects the noodle",
+                "start_frame": 1232,
+                "stop_frame": 1366
+            },
+            {
+                "narration_text": "Lifts the noodle",
+                "start_frame": 1366,
+                "stop_frame": 1495
+            },
+            {
+                "narration_text": "Puts the noodle on the plate",
+                "start_frame": 1495,
+                "stop_frame": 1577
+            },
+            {
+                "narration_text": "Turns the tong",
+                "start_frame": 1577,
+                "stop_frame": 1631
+            },
+            {
+                "narration_text": "Picks the noodle",
+                "start_frame": 1631,
+                "stop_frame": 1739
+            },
+            {
+                "narration_text": "Lifts the noodle",
+                "start_frame": 1739,
+                "stop_frame": 1841
+            },
+            {
+                "narration_text": "Puts the noodle in the plate",
+                "start_frame": 1841,
+                "stop_frame": 1901
+            },
+            {
+                "narration_text": "Lifts the noodle",
+                "start_frame": 1901,
+                "stop_frame": 1971
+            },
+            {
+                "narration_text": "Puts the noodle in the plate",
+                "start_frame": 1971,
+                "stop_frame": 2106
+            },
+            {
+                "narration_text": "Lifts the noodle",
+                "start_frame": 2106,
+                "stop_frame": 2163
+            },
+            {
+                "narration_text": "Puts the noodle in the plate",
+                "start_frame": 2163,
+                "stop_frame": 2191
+            },
+            {
+                "narration_text": "Lifts the sufuria",
+                "start_frame": 2191,
+                "stop_frame": 2248
+            },
+            {
+                "narration_text": "Puts the noodle in the plate",
+                "start_frame": 2248,
+                "stop_frame": 2301
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour remaining noodles on the plate and spread it",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lifts the sufuria",
+                "start_frame": 2191,
+                "stop_frame": 2248
+            },
+            {
+                "narration_text": "Puts the noodle in the plate",
+                "start_frame": 2248,
+                "stop_frame": 2301
+            },
+            {
+                "narration_text": "Collects the noodle",
+                "start_frame": 2301,
+                "stop_frame": 2456
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean up and finalize noodle preparation",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Collects the noodle",
+                "start_frame": 2301,
+                "stop_frame": 2456
+            },
+            {
+                "narration_text": "Lifts noodle",
+                "start_frame": 2456,
+                "stop_frame": 2511
+            },
+            {
+                "narration_text": "Puts the noodle in the plate",
+                "start_frame": 2511,
+                "stop_frame": 2567
+            },
+            {
+                "narration_text": "Collects the noodle",
+                "start_frame": 2567,
+                "stop_frame": 2639
+            },
+            {
+                "narration_text": "Pours the remaining noodle in the plate",
+                "start_frame": 2639,
+                "stop_frame": 2727
+            },
+            {
+                "narration_text": "Spreads noodle in the plate",
+                "start_frame": 2727,
+                "stop_frame": 2792
+            },
+            {
+                "narration_text": "Pours the remaining noodle in the plate",
+                "start_frame": 2792,
+                "stop_frame": 2939
+            },
+            {
+                "narration_text": "Shakes the tong",
+                "start_frame": 2939,
+                "stop_frame": 3043
+            },
+            {
+                "narration_text": "Puts the sufuria on the gas",
+                "start_frame": 3043,
+                "stop_frame": 3094
+            },
+            {
+                "narration_text": "Removes the sufuria handle",
+                "start_frame": 3094,
+                "stop_frame": 3144
+            },
+            {
+                "narration_text": "Puts the handle down",
+                "start_frame": 3144,
+                "stop_frame": 3215
+            }
+        ]
+    },
+    {
+        "task_goal": "Transfer remaining noodles and clean the area",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Collects the noodle",
+                "start_frame": 2301,
+                "stop_frame": 2456
+            },
+            {
+                "narration_text": "Lifts noodle",
+                "start_frame": 2456,
+                "stop_frame": 2511
+            },
+            {
+                "narration_text": "Puts the noodle in the plate",
+                "start_frame": 2511,
+                "stop_frame": 2567
+            },
+            {
+                "narration_text": "Collects the noodle",
+                "start_frame": 2567,
+                "stop_frame": 2639
+            },
+            {
+                "narration_text": "Pours the remaining noodle in the plate",
+                "start_frame": 2639,
+                "stop_frame": 2727
+            },
+            {
+                "narration_text": "Spreads noodle in the plate",
+                "start_frame": 2727,
+                "stop_frame": 2792
+            },
+            {
+                "narration_text": "Pours the remaining noodle in the plate",
+                "start_frame": 2792,
+                "stop_frame": 2939
+            },
+            {
+                "narration_text": "Shakes the tong",
+                "start_frame": 2939,
+                "stop_frame": 3043
+            },
+            {
+                "narration_text": "Puts the sufuria on the gas",
+                "start_frame": 3043,
+                "stop_frame": 3094
+            },
+            {
+                "narration_text": "Removes the sufuria handle",
+                "start_frame": 3094,
+                "stop_frame": 3144
+            }
+        ]
+    },
+    {
+        "task_goal": "Place sufuria on the gas and remove handle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the sufuria on the gas",
+                "start_frame": 3043,
+                "stop_frame": 3094
+            },
+            {
+                "narration_text": "Removes the sufuria handle",
+                "start_frame": 3094,
+                "stop_frame": 3144
+            },
+            {
+                "narration_text": "Puts the handle down",
+                "start_frame": 3144,
+                "stop_frame": 3215
+            }
+        ]
+    },
+    {
+        "task_goal": "Fold and use paper to pick mint leaf pieces",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts themint leaf on the noodle",
+                "start_frame": 4302,
+                "stop_frame": 4378
+            },
+            {
+                "narration_text": "Folds the paper",
+                "start_frame": 4378,
+                "stop_frame": 4442
+            },
+            {
+                "narration_text": "Picks mint leaf pieces with the paper",
+                "start_frame": 4442,
+                "stop_frame": 4489
+            },
+            {
+                "narration_text": "Picks mint leaf pieces with the paper",
+                "start_frame": 4489,
+                "stop_frame": 4551
+            },
+            {
+                "narration_text": "Drops the paper aside",
+                "start_frame": 4551,
+                "stop_frame": 4626
+            }
+        ]
+    },
+    {
+        "task_goal": "Drop paper aside and move plates",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks mint leaf pieces with the paper",
+                "start_frame": 4489,
+                "stop_frame": 4551
+            },
+            {
+                "narration_text": "Drops the paper aside",
+                "start_frame": 4551,
+                "stop_frame": 4626
+            },
+            {
+                "narration_text": "Moves the plates",
+                "start_frame": 4626,
+                "stop_frame": 4703
+            },
+            {
+                "narration_text": "Moves hands",
+                "start_frame": 4703,
+                "stop_frame": 4793
+            }
+        ]
+    },
+    {
+        "task_goal": "Final touches to the plate and hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves the plates",
+                "start_frame": 4626,
+                "stop_frame": 4703
+            },
+            {
+                "narration_text": "Moves hands",
+                "start_frame": 4703,
+                "stop_frame": 4793
+            },
+            {
+                "narration_text": "Moves hands",
+                "start_frame": 4793,
+                "stop_frame": 4836
+            },
+            {
+                "narration_text": "Moves hands",
+                "start_frame": 4836,
+                "stop_frame": 4896
+            },
+            {
+                "narration_text": "Moves hands",
+                "start_frame": 4896,
+                "stop_frame": 5136
+            },
+            {
+                "narration_text": "Moves hands",
+                "start_frame": 5136,
+                "stop_frame": 5236
+            }
+        ]
+    },
+    {
+        "task_goal": "Move hands and plates to finalize setup",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves the plates",
+                "start_frame": 4626,
+                "stop_frame": 4703
+            },
+            {
+                "narration_text": "Moves hands",
+                "start_frame": 4703,
+                "stop_frame": 4793
+            },
+            {
+                "narration_text": "Moves hands",
+                "start_frame": 4793,
+                "stop_frame": 4836
+            },
+            {
+                "narration_text": "Moves hands",
+                "start_frame": 4836,
+                "stop_frame": 4896
+            },
+            {
+                "narration_text": "Moves hands",
+                "start_frame": 4896,
+                "stop_frame": 5136
+            },
+            {
+                "narration_text": "Moves hands",
+                "start_frame": 5136,
+                "stop_frame": 5236
+            }
+        ]
+    }
+]

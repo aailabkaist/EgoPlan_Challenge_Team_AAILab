@@ -1,0 +1,142 @@
+{
+    "overall_goal": "Prepare and cook a dish with sausages, vegetables, and spaghetti in tomato sauce using various utensils and seasonings.",
+    "clips": [
+        {
+            "subgoal": "Prepare initial ingredients and tools for cooking",
+            "start_timestamp": 0,
+            "stop_timestamp": 589,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir sausages and vegetables",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 35
+                },
+                {
+                    "secondary_subgoal": "Place plastic chopping board",
+                    "start_timestamp": 35,
+                    "stop_timestamp": 58
+                },
+                {
+                    "secondary_subgoal": "Hold and stir with chopsticks",
+                    "start_timestamp": 58,
+                    "stop_timestamp": 579
+                },
+                {
+                    "secondary_subgoal": "Place chopsticks on bench",
+                    "start_timestamp": 579,
+                    "stop_timestamp": 589
+                }
+            ]
+        },
+        {
+            "subgoal": "Get and prepare tomato sauce",
+            "start_timestamp": 589,
+            "stop_timestamp": 1140,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk and open fridge",
+                    "start_timestamp": 589,
+                    "stop_timestamp": 766
+                },
+                {
+                    "secondary_subgoal": "Pick and hold tomato sauce",
+                    "start_timestamp": 766,
+                    "stop_timestamp": 885
+                },
+                {
+                    "secondary_subgoal": "Close fridge and walk back",
+                    "start_timestamp": 885,
+                    "stop_timestamp": 979
+                },
+                {
+                    "secondary_subgoal": "Shake tomato sauce",
+                    "start_timestamp": 979,
+                    "stop_timestamp": 1140
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir sausages with vegetables and season with tomato sauce",
+            "start_timestamp": 1140,
+            "stop_timestamp": 2848,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold and use tomato sauce, stir with chopsticks",
+                    "start_timestamp": 1140,
+                    "stop_timestamp": 1848
+                },
+                {
+                    "secondary_subgoal": "Handle plastic strainer, walk and position it",
+                    "start_timestamp": 1848,
+                    "stop_timestamp": 2158
+                },
+                {
+                    "secondary_subgoal": "Open tomato sauce and add it to pan",
+                    "start_timestamp": 2158,
+                    "stop_timestamp": 2371
+                },
+                {
+                    "secondary_subgoal": "Close tomato sauce and hold chopsticks",
+                    "start_timestamp": 2371,
+                    "stop_timestamp": 2738
+                },
+                {
+                    "secondary_subgoal": "Add spaghetti to the pan",
+                    "start_timestamp": 2738,
+                    "stop_timestamp": 2848
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix spaghetti with sauce and ingredients",
+            "start_timestamp": 2848,
+            "stop_timestamp": 5423,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir and hold spaghetti with chopsticks",
+                    "start_timestamp": 2848,
+                    "stop_timestamp": 3783
+                },
+                {
+                    "secondary_subgoal": "Add water to mixture and stir",
+                    "start_timestamp": 3783,
+                    "stop_timestamp": 5423
+                }
+            ]
+        },
+        {
+            "subgoal": "Add additional tomato sauce and seasonings",
+            "start_timestamp": 5423,
+            "stop_timestamp": 6992,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add more tomato sauce",
+                    "start_timestamp": 5423,
+                    "stop_timestamp": 5679
+                },
+                {
+                    "secondary_subgoal": "Add various seasonings",
+                    "start_timestamp": 5679,
+                    "stop_timestamp": 6992
+                }
+            ]
+        },
+        {
+            "subgoal": "Final stirring and adjustment",
+            "start_timestamp": 6992,
+            "stop_timestamp": 7598,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Final stir of spaghetti with pan",
+                    "start_timestamp": 6992,
+                    "stop_timestamp": 7471
+                },
+                {
+                    "secondary_subgoal": "Operate cooking stove and finish",
+                    "start_timestamp": 7471,
+                    "stop_timestamp": 7598
+                }
+            ]
+        }
+    ]
+}

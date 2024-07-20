@@ -1,0 +1,162 @@
+{
+    "overall_goal": "Prepare a meal using various ingredients including pasta, green pepper, onion, mushrooms, and sausages, and cook them on the stove.",
+    "clips": [
+        {
+            "subgoal": "Cook pasta",
+            "start_timestamp": 0,
+            "stop_timestamp": 1011,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put pasta in a cooking pan",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 46
+                },
+                {
+                    "secondary_subgoal": "Walk away from the cooker",
+                    "start_timestamp": 46,
+                    "stop_timestamp": 70
+                },
+                {
+                    "secondary_subgoal": "Pick pasta and put it in a cooking pan",
+                    "start_timestamp": 70,
+                    "stop_timestamp": 272
+                },
+                {
+                    "secondary_subgoal": "Walk away from the cooker",
+                    "start_timestamp": 272,
+                    "stop_timestamp": 429
+                },
+                {
+                    "secondary_subgoal": "Pick and stir the pasta with tongs",
+                    "start_timestamp": 429,
+                    "stop_timestamp": 919
+                },
+                {
+                    "secondary_subgoal": "Put the tongs on the counter and walk away",
+                    "start_timestamp": 919,
+                    "stop_timestamp": 1011
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare green pepper",
+            "start_timestamp": 1011,
+            "stop_timestamp": 1576,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and hold green pepper and other vegetables",
+                    "start_timestamp": 1011,
+                    "stop_timestamp": 1200
+                },
+                {
+                    "secondary_subgoal": "Put green pepper and other vegetables on the counter",
+                    "start_timestamp": 1200,
+                    "stop_timestamp": 1447
+                },
+                {
+                    "secondary_subgoal": "Remove green pepper from the polythene paper",
+                    "start_timestamp": 1447,
+                    "stop_timestamp": 1576
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and clean green pepper",
+            "start_timestamp": 1576,
+            "stop_timestamp": 3181,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Push green pepper aside",
+                    "start_timestamp": 1576,
+                    "stop_timestamp": 1635
+                },
+                {
+                    "secondary_subgoal": "Pick, cut, and clean green pepper in the sink",
+                    "start_timestamp": 1635,
+                    "stop_timestamp": 1893
+                },
+                {
+                    "secondary_subgoal": "Rinse green pepper with water and dry it",
+                    "start_timestamp": 1893,
+                    "stop_timestamp": 2173
+                },
+                {
+                    "secondary_subgoal": "Peel the placentas and seeds off the green pepper",
+                    "start_timestamp": 2173,
+                    "stop_timestamp": 2762
+                },
+                {
+                    "secondary_subgoal": "Cut the green pepper with a knife",
+                    "start_timestamp": 2762,
+                    "stop_timestamp": 3181
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare onion",
+            "start_timestamp": 3181,
+            "stop_timestamp": 6274,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and unwrap the onion",
+                    "start_timestamp": 3181,
+                    "stop_timestamp": 4180
+                },
+                {
+                    "secondary_subgoal": "Cut the onion with a knife",
+                    "start_timestamp": 4180,
+                    "stop_timestamp": 7964
+                },
+                {
+                    "secondary_subgoal": "Separate seeds from the onion",
+                    "start_timestamp": 7964,
+                    "stop_timestamp": 8027
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare mushroom",
+            "start_timestamp": 8027,
+            "stop_timestamp": 13141,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and rinse mushroom",
+                    "start_timestamp": 8027,
+                    "stop_timestamp": 9036
+                },
+                {
+                    "secondary_subgoal": "Cut the mushroom with a knife",
+                    "start_timestamp": 9036,
+                    "stop_timestamp": 10832
+                },
+                {
+                    "secondary_subgoal": "Put mushroom pieces in a bowl",
+                    "start_timestamp": 10832,
+                    "stop_timestamp": 13141
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook sausages",
+            "start_timestamp": 13141,
+            "stop_timestamp": 21339,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and cut sausages with a knife",
+                    "start_timestamp": 13141,
+                    "stop_timestamp": 17735
+                },
+                {
+                    "secondary_subgoal": "Prepare cooking pan and pour oil",
+                    "start_timestamp": 17735,
+                    "stop_timestamp": 18598
+                },
+                {
+                    "secondary_subgoal": "Stir food with tongs",
+                    "start_timestamp": 18598,
+                    "stop_timestamp": 21339
+                }
+            ]
+        }
+    ]
+}

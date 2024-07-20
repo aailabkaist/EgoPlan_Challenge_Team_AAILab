@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeMmoVjuqHAbVzwWvdDO832o2Q9b",
+    "object": "chat.completion",
+    "created": 1719475316,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Perform a series of household tasks, including food preparation, cleaning, and watering plants\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare chili pepper mixture\",\n      \"start_timestamp\": 45,\n      \"stop_timestamp\": 1503,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gather and handle ingredients\",\n          \"start_timestamp\": 45,\n          \"stop_timestamp\": 323\n        },\n        {\n          \"secondary_subgoal\": \"Add salt to chili pepper\",\n          \"start_timestamp\": 492,\n          \"stop_timestamp\": 793\n        },\n        {\n          \"secondary_subgoal\": \"Mix chili pepper in the bucket\",\n          \"start_timestamp\": 853,\n          \"stop_timestamp\": 1154\n        },\n        {\n          \"secondary_subgoal\": \"Seal container and bucket\",\n          \"start_timestamp\": 1323,\n          \"stop_timestamp\": 1469\n        },\n        {\n          \"secondary_subgoal\": \"Move items on the table\",\n          \"start_timestamp\": 1503,\n          \"stop_timestamp\": 1523\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Turn on the lights\",\n      \"start_timestamp\": 1724,\n      \"stop_timestamp\": 1854,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Walk to the switch\",\n          \"start_timestamp\": 1724,\n          \"stop_timestamp\": 1753\n        },\n        {\n          \"secondary_subgoal\": \"Turn on the lights\",\n          \"start_timestamp\": 1753,\n          \"stop_timestamp\": 1854\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean kitchen items\",\n      \"start_timestamp\": 1922,\n      \"stop_timestamp\": 10224,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash and scrub different kitchen items\",\n          \"start_timestamp\": 1922,\n          \"stop_timestamp\": 5079\n        },\n        {\n          \"secondary_subgoal\": \"Rinse and place items on the rack\",\n          \"start_timestamp\": 5085,\n          \"stop_timestamp\": 6365\n        },\n        {\n          \"secondary_subgoal\": \"Rinse more items and arrange them\",\n          \"start_timestamp\": 6388,\n          \"stop_timestamp\": 7445\n        },\n        {\n          \"secondary_subgoal\": \"Rinse more items and place them on the rack\",\n          \"start_timestamp\": 7453,\n          \"stop_timestamp\": 8390\n        },\n        {\n          \"secondary_subgoal\": \"Wash more items and put them on the shelf\",\n          \"start_timestamp\": 8414,\n          \"stop_timestamp\": 10224\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean the sink\",\n      \"start_timestamp\": 10983,\n      \"stop_timestamp\": 13627,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Scrub and rinse the sink\",\n          \"start_timestamp\": 10983,\n          \"stop_timestamp\": 13627\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Water the plants\",\n      \"start_timestamp\": 20243,\n      \"stop_timestamp\": 30274,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Collect and move the water pipe\",\n          \"start_timestamp\": 20243,\n          \"stop_timestamp\": 21800\n        },\n        {\n          \"secondary_subgoal\": \"Water the plants\",\n          \"start_timestamp\": 21800,\n          \"stop_timestamp\": 29797\n        },\n        {\n          \"secondary_subgoal\": \"Turn off the tap and walk around\",\n          \"start_timestamp\": 29797,\n          \"stop_timestamp\": 30274\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4531,
+        "completion_tokens": 811,
+        "total_tokens": 5342
+    },
+    "system_fingerprint": "fp_ce0793330f"
+}

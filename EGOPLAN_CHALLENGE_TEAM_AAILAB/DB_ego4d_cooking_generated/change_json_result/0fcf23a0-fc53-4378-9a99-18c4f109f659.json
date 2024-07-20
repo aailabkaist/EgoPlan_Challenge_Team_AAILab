@@ -1,0 +1,122 @@
+{
+    "overall_goal": "Preparing and serving a vegetable dish",
+    "clips": [
+        {
+            "subgoal": "Navigating to the kitchen",
+            "start_timestamp": 51,
+            "stop_timestamp": 156,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Entering the kitchen",
+                    "start_timestamp": 51,
+                    "stop_timestamp": 56
+                },
+                {
+                    "secondary_subgoal": "Walking to the table",
+                    "start_timestamp": 105,
+                    "stop_timestamp": 156
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing vegetables",
+            "start_timestamp": 156,
+            "stop_timestamp": 8284,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking the bowl from the table",
+                    "start_timestamp": 156,
+                    "stop_timestamp": 234
+                },
+                {
+                    "secondary_subgoal": "Conversation with lady",
+                    "start_timestamp": 236,
+                    "stop_timestamp": 488
+                },
+                {
+                    "secondary_subgoal": "Lady H preparing leafs",
+                    "start_timestamp": 566,
+                    "stop_timestamp": 4262
+                },
+                {
+                    "secondary_subgoal": "Lady H preparing bowl contents",
+                    "start_timestamp": 4527,
+                    "stop_timestamp": 8018
+                },
+                {
+                    "secondary_subgoal": "Lady H finishing preparation",
+                    "start_timestamp": 8150,
+                    "stop_timestamp": 8284
+                }
+            ]
+        },
+        {
+            "subgoal": "Blending vegetables",
+            "start_timestamp": 6287,
+            "stop_timestamp": 7876,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Putting vegetables in blender",
+                    "start_timestamp": 6287,
+                    "stop_timestamp": 6426
+                },
+                {
+                    "secondary_subgoal": "Operating blender",
+                    "start_timestamp": 6426,
+                    "stop_timestamp": 7280
+                },
+                {
+                    "secondary_subgoal": "Finishing with blender",
+                    "start_timestamp": 7348,
+                    "stop_timestamp": 7876
+                }
+            ]
+        },
+        {
+            "subgoal": "Serving the dish",
+            "start_timestamp": 8150,
+            "stop_timestamp": 8611,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Removing vegetables from blender",
+                    "start_timestamp": 8206,
+                    "stop_timestamp": 8458
+                },
+                {
+                    "secondary_subgoal": "Serving and eating",
+                    "start_timestamp": 8458,
+                    "stop_timestamp": 8611
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning up",
+            "start_timestamp": 9477,
+            "stop_timestamp": 9925,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wiping the table",
+                    "start_timestamp": 9477,
+                    "stop_timestamp": 9925
+                }
+            ]
+        },
+        {
+            "subgoal": "Final adjustments in the kitchen",
+            "start_timestamp": 10151,
+            "stop_timestamp": 12252,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Getting water",
+                    "start_timestamp": 10151,
+                    "stop_timestamp": 10866
+                },
+                {
+                    "secondary_subgoal": "Final movements and exiting",
+                    "start_timestamp": 12093,
+                    "stop_timestamp": 12252
+                }
+            ]
+        }
+    ]
+}

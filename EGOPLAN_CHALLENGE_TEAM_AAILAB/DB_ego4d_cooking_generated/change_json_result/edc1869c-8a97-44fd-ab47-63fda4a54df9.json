@@ -1,0 +1,129 @@
+{
+    "overall_goal": "Prepare and cook onions.",
+    "clips": [
+        {
+            "subgoal": "Gather and prepare the onion.",
+            "start_timestamp": 0,
+            "stop_timestamp": 1471,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gathering ingredients and tools.",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 164
+                },
+                {
+                    "secondary_subgoal": "Peeling the onion.",
+                    "start_timestamp": 164,
+                    "stop_timestamp": 1352
+                },
+                {
+                    "secondary_subgoal": "Slicing the onion in half.",
+                    "start_timestamp": 1352,
+                    "stop_timestamp": 1471
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean and wash materials.",
+            "start_timestamp": 1471,
+            "stop_timestamp": 1789,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing knife and onion.",
+                    "start_timestamp": 1524,
+                    "stop_timestamp": 1709
+                },
+                {
+                    "secondary_subgoal": "Returning to the worktop.",
+                    "start_timestamp": 1756,
+                    "stop_timestamp": 1789
+                }
+            ]
+        },
+        {
+            "subgoal": "Slice and cut the onion.",
+            "start_timestamp": 1789,
+            "stop_timestamp": 9516,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peeling additional onion skins.",
+                    "start_timestamp": 1789,
+                    "stop_timestamp": 1939
+                },
+                {
+                    "secondary_subgoal": "Initial onion slicing preparation.",
+                    "start_timestamp": 1939,
+                    "stop_timestamp": 2147
+                },
+                {
+                    "secondary_subgoal": "Continue slicing and cutting onions.",
+                    "start_timestamp": 2147,
+                    "stop_timestamp": 9516
+                }
+            ]
+        },
+        {
+            "subgoal": "Chop onions into smaller pieces.",
+            "start_timestamp": 9516,
+            "stop_timestamp": 10350,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Chopping the onions into smaller pieces.",
+                    "start_timestamp": 9516,
+                    "stop_timestamp": 10350
+                }
+            ]
+        },
+        {
+            "subgoal": "Transfer chopped onions to cooking pot.",
+            "start_timestamp": 10350,
+            "stop_timestamp": 10642,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move pieces of onions from chopping board to cooking pot.",
+                    "start_timestamp": 10441,
+                    "stop_timestamp": 10621
+                },
+                {
+                    "secondary_subgoal": "Move chopping board towards the sink.",
+                    "start_timestamp": 10621,
+                    "stop_timestamp": 10642
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean chopping board.",
+            "start_timestamp": 10642,
+            "stop_timestamp": 11856,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing the chopping board.",
+                    "start_timestamp": 10687,
+                    "stop_timestamp": 11534
+                },
+                {
+                    "secondary_subgoal": "Drying and storing the chopping board.",
+                    "start_timestamp": 11534,
+                    "stop_timestamp": 11856
+                }
+            ]
+        },
+        {
+            "subgoal": "Operate cooker and prepare to cook.",
+            "start_timestamp": 11856,
+            "stop_timestamp": 12832,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjusting and preparing the cooker.",
+                    "start_timestamp": 12062,
+                    "stop_timestamp": 12369
+                },
+                {
+                    "secondary_subgoal": "Pouring liquid into cooking pot.",
+                    "start_timestamp": 12369,
+                    "stop_timestamp": 12832
+                }
+            ]
+        }
+    ]
+}

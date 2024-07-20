@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgxI08AA5CmRhpLVEeNY0Ft1GCfV",
+    "object": "chat.completion",
+    "created": 1719246940,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare bread with tomato sauce and bake it.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Collect necessary items for food preparation\",\n      \"start_timestamp\": 27,\n      \"stop_timestamp\": 684,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Operate phone and place it on table\",\n          \"start_timestamp\": 27,\n          \"stop_timestamp\": 523\n        },\n        {\n          \"secondary_subgoal\": \"Open and close drawer\",\n          \"start_timestamp\": 523,\n          \"stop_timestamp\": 684\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare bread with tomato sauce\",\n      \"start_timestamp\": 684,\n      \"stop_timestamp\": 3533,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Remove bakery tray from oven\",\n          \"start_timestamp\": 684,\n          \"stop_timestamp\": 866\n        },\n        {\n          \"secondary_subgoal\": \"Get tomato sauce from the fridge and apply it\",\n          \"start_timestamp\": 866,\n          \"stop_timestamp\": 2513\n        },\n        {\n          \"secondary_subgoal\": \"Wipe excess sauce and clean up\",\n          \"start_timestamp\": 2513,\n          \"stop_timestamp\": 3533\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Bake the prepared bread\",\n      \"start_timestamp\": 3533,\n      \"stop_timestamp\": 3695,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put bread in oven\",\n          \"start_timestamp\": 3533,\n          \"stop_timestamp\": 3695\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"End activity by using the phone\",\n      \"start_timestamp\": 3695,\n      \"stop_timestamp\": 3826,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and operate phone\",\n          \"start_timestamp\": 3695,\n          \"stop_timestamp\": 3826\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 659,
+        "completion_tokens": 441,
+        "total_tokens": 1100
+    },
+    "system_fingerprint": "fp_888385ccad"
+}

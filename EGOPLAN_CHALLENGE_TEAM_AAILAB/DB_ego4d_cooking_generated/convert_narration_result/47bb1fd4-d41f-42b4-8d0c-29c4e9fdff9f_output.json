@@ -1,0 +1,817 @@
+[
+    {
+        "task_goal": "Add salt to the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up salt",
+                "start_frame": 81,
+                "stop_frame": 104
+            },
+            {
+                "narration_text": "Opens the cap",
+                "start_frame": 104,
+                "stop_frame": 124
+            },
+            {
+                "narration_text": "Puts the cap down",
+                "start_frame": 124,
+                "stop_frame": 139
+            },
+            {
+                "narration_text": "Holds the spoon",
+                "start_frame": 139,
+                "stop_frame": 151
+            },
+            {
+                "narration_text": "Fetches some salt",
+                "start_frame": 151,
+                "stop_frame": 202
+            },
+            {
+                "narration_text": "Pours the salt into the food",
+                "start_frame": 202,
+                "stop_frame": 256
+            },
+            {
+                "narration_text": "Puts the spoon back into the can",
+                "start_frame": 256,
+                "stop_frame": 279
+            },
+            {
+                "narration_text": "Picks up the cap",
+                "start_frame": 279,
+                "stop_frame": 293
+            },
+            {
+                "narration_text": "Closes the container",
+                "start_frame": 293,
+                "stop_frame": 349
+            },
+            {
+                "narration_text": "Puts the can down",
+                "start_frame": 349,
+                "stop_frame": 369
+            },
+            {
+                "narration_text": "Picks up the paddle",
+                "start_frame": 369,
+                "stop_frame": 384
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve and prepare salt",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up salt",
+                "start_frame": 81,
+                "stop_frame": 104
+            },
+            {
+                "narration_text": "Opens the cap",
+                "start_frame": 104,
+                "stop_frame": 124
+            },
+            {
+                "narration_text": "Puts the cap down",
+                "start_frame": 124,
+                "stop_frame": 139
+            },
+            {
+                "narration_text": "Holds the spoon",
+                "start_frame": 139,
+                "stop_frame": 151
+            }
+        ]
+    },
+    {
+        "task_goal": "Add salt to the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the cap down",
+                "start_frame": 124,
+                "stop_frame": 139
+            },
+            {
+                "narration_text": "Holds the spoon",
+                "start_frame": 139,
+                "stop_frame": 151
+            },
+            {
+                "narration_text": "Fetches some salt",
+                "start_frame": 151,
+                "stop_frame": 202
+            },
+            {
+                "narration_text": "Pours the salt into the food",
+                "start_frame": 202,
+                "stop_frame": 256
+            },
+            {
+                "narration_text": "Puts the spoon back into the can",
+                "start_frame": 256,
+                "stop_frame": 279
+            },
+            {
+                "narration_text": "Picks up the cap",
+                "start_frame": 279,
+                "stop_frame": 293
+            }
+        ]
+    },
+    {
+        "task_goal": "Close the salt container and continue food preparation",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the spoon back into the can",
+                "start_frame": 256,
+                "stop_frame": 279
+            },
+            {
+                "narration_text": "Picks up the cap",
+                "start_frame": 279,
+                "stop_frame": 293
+            },
+            {
+                "narration_text": "Closes the container",
+                "start_frame": 293,
+                "stop_frame": 349
+            },
+            {
+                "narration_text": "Puts the can down",
+                "start_frame": 349,
+                "stop_frame": 369
+            },
+            {
+                "narration_text": "Picks up the paddle",
+                "start_frame": 369,
+                "stop_frame": 384
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the can down",
+                "start_frame": 349,
+                "stop_frame": 369
+            },
+            {
+                "narration_text": "Picks up the paddle",
+                "start_frame": 369,
+                "stop_frame": 384
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 384,
+                "stop_frame": 615
+            },
+            {
+                "narration_text": "Puts the paddle down",
+                "start_frame": 615,
+                "stop_frame": 643
+            },
+            {
+                "narration_text": "Picks up minced meat",
+                "start_frame": 643,
+                "stop_frame": 668
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the can down",
+                "start_frame": 349,
+                "stop_frame": 369
+            },
+            {
+                "narration_text": "Picks up the paddle",
+                "start_frame": 369,
+                "stop_frame": 384
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 384,
+                "stop_frame": 615
+            },
+            {
+                "narration_text": "Puts the paddle down",
+                "start_frame": 615,
+                "stop_frame": 643
+            },
+            {
+                "narration_text": "Picks up minced meat",
+                "start_frame": 643,
+                "stop_frame": 668
+            }
+        ]
+    },
+    {
+        "task_goal": "Add minced meat to the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the paddle down",
+                "start_frame": 615,
+                "stop_frame": 643
+            },
+            {
+                "narration_text": "Picks up minced meat",
+                "start_frame": 643,
+                "stop_frame": 668
+            },
+            {
+                "narration_text": "Opens the paper bag",
+                "start_frame": 668,
+                "stop_frame": 818
+            },
+            {
+                "narration_text": "Pours the minced meat into the mix",
+                "start_frame": 818,
+                "stop_frame": 917
+            },
+            {
+                "narration_text": "Throws the paper bag down",
+                "start_frame": 917,
+                "stop_frame": 955
+            },
+            {
+                "narration_text": "Picks up the paddle",
+                "start_frame": 955,
+                "stop_frame": 974
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve and prepare minced meat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the paddle down",
+                "start_frame": 615,
+                "stop_frame": 643
+            },
+            {
+                "narration_text": "Picks up minced meat",
+                "start_frame": 643,
+                "stop_frame": 668
+            },
+            {
+                "narration_text": "Opens the paper bag",
+                "start_frame": 668,
+                "stop_frame": 818
+            },
+            {
+                "narration_text": "Pours the minced meat into the mix",
+                "start_frame": 818,
+                "stop_frame": 917
+            }
+        ]
+    },
+    {
+        "task_goal": "Add minced meat to the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the paper bag",
+                "start_frame": 668,
+                "stop_frame": 818
+            },
+            {
+                "narration_text": "Pours the minced meat into the mix",
+                "start_frame": 818,
+                "stop_frame": 917
+            },
+            {
+                "narration_text": "Throws the paper bag down",
+                "start_frame": 917,
+                "stop_frame": 955
+            },
+            {
+                "narration_text": "Picks up the paddle",
+                "start_frame": 955,
+                "stop_frame": 974
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Throws the paper bag down",
+                "start_frame": 917,
+                "stop_frame": 955
+            },
+            {
+                "narration_text": "Picks up the paddle",
+                "start_frame": 955,
+                "stop_frame": 974
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 974,
+                "stop_frame": 1124
+            },
+            {
+                "narration_text": "Puts the paddle down",
+                "start_frame": 1124,
+                "stop_frame": 1147
+            },
+            {
+                "narration_text": "Picks up the salt can",
+                "start_frame": 1147,
+                "stop_frame": 1159
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Throws the paper bag down",
+                "start_frame": 917,
+                "stop_frame": 955
+            },
+            {
+                "narration_text": "Picks up the paddle",
+                "start_frame": 955,
+                "stop_frame": 974
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 974,
+                "stop_frame": 1124
+            },
+            {
+                "narration_text": "Puts the paddle down",
+                "start_frame": 1124,
+                "stop_frame": 1147
+            }
+        ]
+    },
+    {
+        "task_goal": "Put down the paddle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 974,
+                "stop_frame": 1124
+            },
+            {
+                "narration_text": "Puts the paddle down",
+                "start_frame": 1124,
+                "stop_frame": 1147
+            },
+            {
+                "narration_text": "Picks up the salt can",
+                "start_frame": 1147,
+                "stop_frame": 1159
+            }
+        ]
+    },
+    {
+        "task_goal": "Add more salt to the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the paddle down",
+                "start_frame": 1124,
+                "stop_frame": 1147
+            },
+            {
+                "narration_text": "Picks up the salt can",
+                "start_frame": 1147,
+                "stop_frame": 1159
+            },
+            {
+                "narration_text": "Opens the salt can",
+                "start_frame": 1159,
+                "stop_frame": 1170
+            },
+            {
+                "narration_text": "Puts the cap down",
+                "start_frame": 1170,
+                "stop_frame": 1192
+            },
+            {
+                "narration_text": "Fetches some salt",
+                "start_frame": 1192,
+                "stop_frame": 1277
+            },
+            {
+                "narration_text": "Pours the salt into the water",
+                "start_frame": 1277,
+                "stop_frame": 1375
+            },
+            {
+                "narration_text": "Puts the spoon back into the can",
+                "start_frame": 1375,
+                "stop_frame": 1392
+            },
+            {
+                "narration_text": "Picks up the can",
+                "start_frame": 1392,
+                "stop_frame": 1410
+            },
+            {
+                "narration_text": "Closes the salt can",
+                "start_frame": 1410,
+                "stop_frame": 1435
+            },
+            {
+                "narration_text": "Puts the can down",
+                "start_frame": 1435,
+                "stop_frame": 1453
+            },
+            {
+                "narration_text": "Picks up the paddle",
+                "start_frame": 1453,
+                "stop_frame": 1465
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve and prepare salt",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the paddle down",
+                "start_frame": 1124,
+                "stop_frame": 1147
+            },
+            {
+                "narration_text": "Picks up the salt can",
+                "start_frame": 1147,
+                "stop_frame": 1159
+            },
+            {
+                "narration_text": "Opens the salt can",
+                "start_frame": 1159,
+                "stop_frame": 1170
+            },
+            {
+                "narration_text": "Puts the cap down",
+                "start_frame": 1170,
+                "stop_frame": 1192
+            },
+            {
+                "narration_text": "Fetches some salt",
+                "start_frame": 1192,
+                "stop_frame": 1277
+            }
+        ]
+    },
+    {
+        "task_goal": "Add salt to the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the cap down",
+                "start_frame": 1170,
+                "stop_frame": 1192
+            },
+            {
+                "narration_text": "Fetches some salt",
+                "start_frame": 1192,
+                "stop_frame": 1277
+            },
+            {
+                "narration_text": "Pours the salt into the water",
+                "start_frame": 1277,
+                "stop_frame": 1375
+            },
+            {
+                "narration_text": "Puts the spoon back into the can",
+                "start_frame": 1375,
+                "stop_frame": 1392
+            }
+        ]
+    },
+    {
+        "task_goal": "Close the salt container and continue food preparation",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours the salt into the water",
+                "start_frame": 1277,
+                "stop_frame": 1375
+            },
+            {
+                "narration_text": "Puts the spoon back into the can",
+                "start_frame": 1375,
+                "stop_frame": 1392
+            },
+            {
+                "narration_text": "Picks up the can",
+                "start_frame": 1392,
+                "stop_frame": 1410
+            },
+            {
+                "narration_text": "Closes the salt can",
+                "start_frame": 1410,
+                "stop_frame": 1435
+            },
+            {
+                "narration_text": "Puts the can down",
+                "start_frame": 1435,
+                "stop_frame": 1453
+            },
+            {
+                "narration_text": "Picks up the paddle",
+                "start_frame": 1453,
+                "stop_frame": 1465
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the can down",
+                "start_frame": 1435,
+                "stop_frame": 1453
+            },
+            {
+                "narration_text": "Picks up the paddle",
+                "start_frame": 1453,
+                "stop_frame": 1465
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 1465,
+                "stop_frame": 1970
+            },
+            {
+                "narration_text": "Puts the paddle down",
+                "start_frame": 1970,
+                "stop_frame": 2057
+            },
+            {
+                "narration_text": "Picks up the paddle",
+                "start_frame": 2057,
+                "stop_frame": 2065
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 2065,
+                "stop_frame": 2210
+            },
+            {
+                "narration_text": "Puts the paddle down",
+                "start_frame": 2210,
+                "stop_frame": 2225
+            },
+            {
+                "narration_text": "Picks up the water container",
+                "start_frame": 2225,
+                "stop_frame": 2260
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the can down",
+                "start_frame": 1435,
+                "stop_frame": 1453
+            },
+            {
+                "narration_text": "Picks up the paddle",
+                "start_frame": 1453,
+                "stop_frame": 1465
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 1465,
+                "stop_frame": 1970
+            },
+            {
+                "narration_text": "Puts the paddle down",
+                "start_frame": 1970,
+                "stop_frame": 2057
+            },
+            {
+                "narration_text": "Picks up the paddle",
+                "start_frame": 2057,
+                "stop_frame": 2065
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 2065,
+                "stop_frame": 2210
+            },
+            {
+                "narration_text": "Puts the paddle down",
+                "start_frame": 2210,
+                "stop_frame": 2225
+            },
+            {
+                "narration_text": "Picks up the water container",
+                "start_frame": 2225,
+                "stop_frame": 2260
+            }
+        ]
+    },
+    {
+        "task_goal": "Add water to the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the paddle down",
+                "start_frame": 2210,
+                "stop_frame": 2225
+            },
+            {
+                "narration_text": "Picks up the water container",
+                "start_frame": 2225,
+                "stop_frame": 2260
+            },
+            {
+                "narration_text": "Pours some water into the food",
+                "start_frame": 2260,
+                "stop_frame": 2368
+            },
+            {
+                "narration_text": "Puts the water container down",
+                "start_frame": 2368,
+                "stop_frame": 2408
+            },
+            {
+                "narration_text": "Picks up the paddle",
+                "start_frame": 2408,
+                "stop_frame": 2416
+            }
+        ]
+    },
+    {
+        "task_goal": "Retrieve water container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the paddle down",
+                "start_frame": 2210,
+                "stop_frame": 2225
+            },
+            {
+                "narration_text": "Picks up the water container",
+                "start_frame": 2225,
+                "stop_frame": 2260
+            },
+            {
+                "narration_text": "Pours some water into the food",
+                "start_frame": 2260,
+                "stop_frame": 2368
+            }
+        ]
+    },
+    {
+        "task_goal": "Add water to the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks up the water container",
+                "start_frame": 2225,
+                "stop_frame": 2260
+            },
+            {
+                "narration_text": "Pours some water into the food",
+                "start_frame": 2260,
+                "stop_frame": 2368
+            },
+            {
+                "narration_text": "Puts the water container down",
+                "start_frame": 2368,
+                "stop_frame": 2408
+            },
+            {
+                "narration_text": "Picks up the paddle",
+                "start_frame": 2408,
+                "stop_frame": 2416
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the water container down",
+                "start_frame": 2368,
+                "stop_frame": 2408
+            },
+            {
+                "narration_text": "Picks up the paddle",
+                "start_frame": 2408,
+                "stop_frame": 2416
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 2416,
+                "stop_frame": 2816
+            },
+            {
+                "narration_text": "Stops stirring",
+                "start_frame": 2816,
+                "stop_frame": 2816
+            },
+            {
+                "narration_text": "Reduces the heat",
+                "start_frame": 2816,
+                "stop_frame": 2892
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 2892,
+                "stop_frame": 4447
+            },
+            {
+                "narration_text": "Puts the paddle down",
+                "start_frame": 4447,
+                "stop_frame": 4547
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the water container down",
+                "start_frame": 2368,
+                "stop_frame": 2408
+            },
+            {
+                "narration_text": "Picks up the paddle",
+                "start_frame": 2408,
+                "stop_frame": 2416
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 2416,
+                "stop_frame": 2816
+            },
+            {
+                "narration_text": "Stops stirring",
+                "start_frame": 2816,
+                "stop_frame": 2816
+            },
+            {
+                "narration_text": "Reduces the heat",
+                "start_frame": 2816,
+                "stop_frame": 2892
+            }
+        ]
+    },
+    {
+        "task_goal": "Reduce the heat",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 2416,
+                "stop_frame": 2816
+            },
+            {
+                "narration_text": "Stops stirring",
+                "start_frame": 2816,
+                "stop_frame": 2816
+            },
+            {
+                "narration_text": "Reduces the heat",
+                "start_frame": 2816,
+                "stop_frame": 2892
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 2892,
+                "stop_frame": 4447
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir the food",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Reduces the heat",
+                "start_frame": 2816,
+                "stop_frame": 2892
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 2892,
+                "stop_frame": 4447
+            },
+            {
+                "narration_text": "Puts the paddle down",
+                "start_frame": 4447,
+                "stop_frame": 4547
+            }
+        ]
+    },
+    {
+        "task_goal": "Put down the paddle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 2892,
+                "stop_frame": 4447
+            },
+            {
+                "narration_text": "Puts the paddle down",
+                "start_frame": 4447,
+                "stop_frame": 4547
+            }
+        ]
+    }
+]

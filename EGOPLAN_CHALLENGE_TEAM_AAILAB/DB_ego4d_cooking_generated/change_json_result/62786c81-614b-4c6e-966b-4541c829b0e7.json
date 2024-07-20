@@ -1,0 +1,134 @@
+{
+    "overall_goal": "Wash and prepare ingredients for a cooking dish, including preparing garlic, spring onions, and seasoning liver with powder.",
+    "clips": [
+        {
+            "subgoal": "Prepare unsure ingredients and mesh dish.",
+            "start_timestamp": 45,
+            "stop_timestamp": 1030,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick a cooking pot and wash unsure ingredients",
+                    "start_timestamp": 45,
+                    "stop_timestamp": 398
+                },
+                {
+                    "secondary_subgoal": "Separate mesh dishes and prepare unsure ingredients",
+                    "start_timestamp": 437,
+                    "stop_timestamp": 1030
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare kitchen paper towels and unsure ingredients",
+            "start_timestamp": 1090,
+            "stop_timestamp": 1851,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and fold kitchen paper towels",
+                    "start_timestamp": 1090,
+                    "stop_timestamp": 1251
+                },
+                {
+                    "secondary_subgoal": "Wrap unsure ingredients with paper towels and place them in plastic dishes",
+                    "start_timestamp": 1321,
+                    "stop_timestamp": 1851
+                }
+            ]
+        },
+        {
+            "subgoal": "Peel and prepare lemon",
+            "start_timestamp": 2690,
+            "stop_timestamp": 4965,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel the lemon and put aside the peeler",
+                    "start_timestamp": 2690,
+                    "stop_timestamp": 3141
+                },
+                {
+                    "secondary_subgoal": "Cut the lemon and peel further using the knife",
+                    "start_timestamp": 3141,
+                    "stop_timestamp": 3700
+                },
+                {
+                    "secondary_subgoal": "Grate the lemon",
+                    "start_timestamp": 3749,
+                    "stop_timestamp": 4574
+                },
+                {
+                    "secondary_subgoal": "Add grated lemon to a dish",
+                    "start_timestamp": 4574,
+                    "stop_timestamp": 4965
+                }
+            ]
+        },
+        {
+            "subgoal": "Measure and add seasoning to the cooking pot",
+            "start_timestamp": 4965,
+            "stop_timestamp": 8046,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Measure unsure ingredient using a spoon",
+                    "start_timestamp": 4965,
+                    "stop_timestamp": 5377
+                },
+                {
+                    "secondary_subgoal": "Mix ingredients in the cooking pot",
+                    "start_timestamp": 5691,
+                    "stop_timestamp": 8046
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare garlic",
+            "start_timestamp": 8584,
+            "stop_timestamp": 12279,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel and cut garlic",
+                    "start_timestamp": 8584,
+                    "stop_timestamp": 11547
+                },
+                {
+                    "secondary_subgoal": "Put chopped garlic in a bowl",
+                    "start_timestamp": 11547,
+                    "stop_timestamp": 11818
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and wash spring onions",
+            "start_timestamp": 12500,
+            "stop_timestamp": 16620,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut spring onions and align them",
+                    "start_timestamp": 13536,
+                    "stop_timestamp": 15097
+                },
+                {
+                    "secondary_subgoal": "Wash spring onions",
+                    "start_timestamp": 15955,
+                    "stop_timestamp": 16485
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare liver with powder seasoning",
+            "start_timestamp": 16620,
+            "stop_timestamp": 20281,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Season liver with powder",
+                    "start_timestamp": 16940,
+                    "stop_timestamp": 18360
+                },
+                {
+                    "secondary_subgoal": "Turn and mix liver pieces with powder",
+                    "start_timestamp": 18360,
+                    "stop_timestamp": 20281
+                }
+            ]
+        }
+    ]
+}

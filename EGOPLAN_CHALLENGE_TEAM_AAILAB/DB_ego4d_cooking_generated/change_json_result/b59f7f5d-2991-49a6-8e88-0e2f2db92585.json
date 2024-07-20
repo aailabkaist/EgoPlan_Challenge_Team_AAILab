@@ -1,0 +1,66 @@
+{
+    "overall_goal": "C is preparing and cooking a meal, including chopping vegetables, cooking eggs and spaghetti, and organizing ingredients in the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Preparing the vegetables (cucumber, onion, baloney)",
+            "start_timestamp": 74,
+            "stop_timestamp": 16900,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C prepares the cucumber",
+                    "start_timestamp": 74,
+                    "stop_timestamp": 5279
+                },
+                {
+                    "secondary_subgoal": "C prepares the baloney",
+                    "start_timestamp": 5279,
+                    "stop_timestamp": 7370
+                },
+                {
+                    "secondary_subgoal": "C prepares the onion",
+                    "start_timestamp": 7370,
+                    "stop_timestamp": 8528
+                },
+                {
+                    "secondary_subgoal": "C finishes cucumber preparations and organizes the kitchen",
+                    "start_timestamp": 8528,
+                    "stop_timestamp": 16900
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking and handling ingredients",
+            "start_timestamp": 16955,
+            "stop_timestamp": 20650,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C handles the fried egg and the spaghetti",
+                    "start_timestamp": 16955,
+                    "stop_timestamp": 19034
+                },
+                {
+                    "secondary_subgoal": "C continues organizing the kitchen and handles tomato pieces",
+                    "start_timestamp": 19034,
+                    "stop_timestamp": 20650
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing and handling additional ingredients",
+            "start_timestamp": 20650,
+            "stop_timestamp": 21317,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C organizes the fridge and handles spaghetti again",
+                    "start_timestamp": 20650,
+                    "stop_timestamp": 21097
+                },
+                {
+                    "secondary_subgoal": "C wraps a plate with food and places it in the microwave",
+                    "start_timestamp": 21097,
+                    "stop_timestamp": 21317
+                }
+            ]
+        }
+    ]
+}

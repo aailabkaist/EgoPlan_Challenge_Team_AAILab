@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9deaT7d6I8U9KMEoVjLCRHjv5xDcE",
+    "object": "chat.completion",
+    "created": 1719237837,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Prepare a meal using pumpkin and kales\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Prepare pumpkin for microwaving\",\n            \"start_timestamp\": 41,\n            \"stop_timestamp\": 1413,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Get a plate and a metal basin\", \"start_timestamp\": 41, \"stop_timestamp\": 442},\n                {\"secondary_subgoal\": \"Prepare the pumpkin\", \"start_timestamp\": 442, \"stop_timestamp\": 929},\n                {\"secondary_subgoal\": \"Wash hands\", \"start_timestamp\": 985, \"stop_timestamp\": 1074},\n                {\"secondary_subgoal\": \"Microwave the pumpkin\", \"start_timestamp\": 1074, \"stop_timestamp\": 1413}\n            ]\n        },\n        {\n            \"subgoal\": \"Prepare and store meat\",\n            \"start_timestamp\": 1413,\n            \"stop_timestamp\": 5630,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Get and open the sachet\", \"start_timestamp\": 1413, \"stop_timestamp\": 2520},\n                {\"secondary_subgoal\": \"Cut the meat and place into dish\", \"start_timestamp\": 2520, \"stop_timestamp\": 3162},\n                {\"secondary_subgoal\": \"Wash and dry hands\", \"start_timestamp\": 3162, \"stop_timestamp\": 3586},\n                {\"secondary_subgoal\": \"Retrieve microwaved pumpkin\", \"start_timestamp\": 3586, \"stop_timestamp\": 3714},\n                {\"secondary_subgoal\": \"Clean knife and chopping board\", \"start_timestamp\": 3714, \"stop_timestamp\": 4408},\n                {\"secondary_subgoal\": \"Hang table cloth\", \"start_timestamp\": 4408, \"stop_timestamp\": 4563},\n                {\"secondary_subgoal\": \"Pick and clean the dish and lid\", \"start_timestamp\": 4563, \"stop_timestamp\": 5203},\n                {\"secondary_subgoal\": \"Store meat in the fridge\", \"start_timestamp\": 5203, \"stop_timestamp\": 5630}\n            ]\n        },\n        {\n            \"subgoal\": \"Prepare pumpkin for cooking\",\n            \"start_timestamp\": 5630,\n            \"stop_timestamp\": 6554,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Cut, peel, and plate pumpkin\", \"start_timestamp\": 5630, \"stop_timestamp\": 8001}\n            ]\n        },\n        {\n            \"subgoal\": \"Prepare kales\",\n            \"start_timestamp\": 12748,\n            \"stop_timestamp\": 21463,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Wash hands and kales\", \"start_timestamp\": 12748, \"stop_timestamp\": 16743},\n                {\"secondary_subgoal\": \"Cut and prepare kales\", \"start_timestamp\": 16743, \"stop_timestamp\": 17628},\n                {\"secondary_subgoal\": \"Clean up and store kales\", \"start_timestamp\": 17628, \"stop_timestamp\": 21463}\n            ]\n        }\n    ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3988,
+        "completion_tokens": 654,
+        "total_tokens": 4642
+    },
+    "system_fingerprint": "fp_5e6c71d4a8"
+}

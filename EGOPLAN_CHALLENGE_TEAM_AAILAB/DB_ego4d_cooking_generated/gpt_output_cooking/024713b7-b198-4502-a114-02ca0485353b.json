@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dfVH4Zp5iMaSvoPYm7vlBMssQ8VQ",
+    "object": "chat.completion",
+    "created": 1719241359,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare a meal using onions, garlic, and other ingredients by following a sequence of steps including cutting, cooking, seasoning, and cleaning up the kitchen.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparing and cutting the onion.\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 4572,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Gathering cutting tools and initial onion preparation.\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 102\n        },\n        {\n          \"secondary_subgoal\": \"Cutting the onion\",\n          \"start_timestamp\": 102,\n          \"stop_timestamp\": 4572\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing the cooking area and pan.\",\n      \"start_timestamp\": 4572,\n      \"stop_timestamp\": 6197,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Heating the pan.\",\n          \"start_timestamp\": 4572,\n          \"stop_timestamp\": 4951\n        },\n        {\n          \"secondary_subgoal\": \"Adding oil to the pan.\",\n          \"start_timestamp\": 4951,\n          \"stop_timestamp\": 5302\n        },\n        {\n          \"secondary_subgoal\": \"Shaking the pan to spread the oil.\",\n          \"start_timestamp\": 5302,\n          \"stop_timestamp\": 5392\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Salting the pan and preparing for the next ingredient.\",\n      \"start_timestamp\": 5392,\n      \"stop_timestamp\": 6815,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Adding salt to the pan.\",\n          \"start_timestamp\": 5392,\n          \"stop_timestamp\": 5587\n        },\n        {\n          \"secondary_subgoal\": \"Shaking the pan.\",\n          \"start_timestamp\": 5587,\n          \"stop_timestamp\": 6000\n        },\n        {\n          \"secondary_subgoal\": \"Ensuring the pan is properly heated.\",\n          \"start_timestamp\": 6000,\n          \"stop_timestamp\": 6815\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Adding garlic to the meal preparation.\",\n      \"start_timestamp\": 7336,\n      \"stop_timestamp\": 16360,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Peeling, cutting, and preparing garlic.\",\n          \"start_timestamp\": 7336,\n          \"stop_timestamp\": 13360\n        },\n        {\n          \"secondary_subgoal\": \"Adding garlic to the pan.\",\n          \"start_timestamp\": 13360,\n          \"stop_timestamp\": 13962\n        },\n        {\n          \"secondary_subgoal\": \"Final chopping and mixing with onion.\",\n          \"start_timestamp\": 13962,\n          \"stop_timestamp\": 16360\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning the workspace and utensils.\",\n      \"start_timestamp\": 17343,\n      \"stop_timestamp\": 22710,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"General cleanup and washing utensils.\",\n          \"start_timestamp\": 17343,\n          \"stop_timestamp\": 16360\n        },\n        {\n          \"secondary_subgoal\": \"Pan cleaning and drying.\",\n          \"start_timestamp\": 16360,\n          \"stop_timestamp\": 22710\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Final cooking and seasoning.\",\n      \"start_timestamp\": 22710,\n      \"stop_timestamp\": 31968,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Adding tomato paste, cooking and stirring.\",\n          \"start_timestamp\": 22710,\n          \"stop_timestamp\": 23751\n        },\n        {\n          \"secondary_subgoal\": \"Adding and stirring final ingredients.\",\n          \"start_timestamp\": 23751,\n          \"stop_timestamp\": 25335\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning up and organizing.\",\n          \"start_timestamp\": 25335,\n          \"stop_timestamp\": 31968\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6335,
+        "completion_tokens": 877,
+        "total_tokens": 7212
+    },
+    "system_fingerprint": "fp_888385ccad"
+}

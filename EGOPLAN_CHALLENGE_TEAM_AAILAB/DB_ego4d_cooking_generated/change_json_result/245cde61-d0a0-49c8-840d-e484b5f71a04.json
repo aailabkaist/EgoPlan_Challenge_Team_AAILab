@@ -1,0 +1,232 @@
+{
+    "overall_goal": "Prepare and serve a meal in the kitchen",
+    "clips": [
+        {
+            "subgoal": "Gather ingredients",
+            "start_timestamp": 32,
+            "stop_timestamp": 837,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Inspect and pick a bottle from the cabinet",
+                    "start_timestamp": 32,
+                    "stop_timestamp": 133
+                },
+                {
+                    "secondary_subgoal": "Pick a carton from the floor and place it on the cabinet",
+                    "start_timestamp": 151,
+                    "stop_timestamp": 198
+                },
+                {
+                    "secondary_subgoal": "Close the cabinet",
+                    "start_timestamp": 198,
+                    "stop_timestamp": 255
+                },
+                {
+                    "secondary_subgoal": "Place the bottle on the countertop and look around the kitchen",
+                    "start_timestamp": 255,
+                    "stop_timestamp": 298
+                },
+                {
+                    "secondary_subgoal": "Pick and open a container from the cabinet shelf",
+                    "start_timestamp": 298,
+                    "stop_timestamp": 388
+                },
+                {
+                    "secondary_subgoal": "Add liquid to the food (unsure), close the container and look around",
+                    "start_timestamp": 388,
+                    "stop_timestamp": 591
+                },
+                {
+                    "secondary_subgoal": "Inspect a rug and put the container back on the shelf",
+                    "start_timestamp": 591,
+                    "stop_timestamp": 733
+                },
+                {
+                    "secondary_subgoal": "Look around the kitchen and stare at the kitchen stove",
+                    "start_timestamp": 733,
+                    "stop_timestamp": 837
+                }
+            ]
+        },
+        {
+            "subgoal": "Add spices and seasoning",
+            "start_timestamp": 837,
+            "stop_timestamp": 2798,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pull cabinet drawer and pick a container",
+                    "start_timestamp": 837,
+                    "stop_timestamp": 901
+                },
+                {
+                    "secondary_subgoal": "Open container, scoop spice with a spoon, and add to food",
+                    "start_timestamp": 901,
+                    "stop_timestamp": 1198
+                },
+                {
+                    "secondary_subgoal": "Stare at container, close it, and place on drawer",
+                    "start_timestamp": 1198,
+                    "stop_timestamp": 1273
+                },
+                {
+                    "secondary_subgoal": "Pick another container and a vegetable from the chop board",
+                    "start_timestamp": 1273,
+                    "stop_timestamp": 1394
+                },
+                {
+                    "secondary_subgoal": "Place vegetable on chop board, move sprouts and knife, and inspect sprouts",
+                    "start_timestamp": 1394,
+                    "stop_timestamp": 1561
+                },
+                {
+                    "secondary_subgoal": "Place container on chop board, open, pick spice with hand, sprinkle, and close",
+                    "start_timestamp": 1561,
+                    "stop_timestamp": 1866
+                },
+                {
+                    "secondary_subgoal": "Look around and remove spice from hand",
+                    "start_timestamp": 1866,
+                    "stop_timestamp": 1993
+                },
+                {
+                    "secondary_subgoal": "Inspect container, pick bag from drawer, open and pour spice on hand",
+                    "start_timestamp": 1993,
+                    "stop_timestamp": 2328
+                },
+                {
+                    "secondary_subgoal": "Add spice to sprouts, fold and put bag in drawer",
+                    "start_timestamp": 2328,
+                    "stop_timestamp": 2798
+                }
+            ]
+        },
+        {
+            "subgoal": "Add cooking oil",
+            "start_timestamp": 2798,
+            "stop_timestamp": 3272,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick bottle from countertop, open, add oil, and close bottle",
+                    "start_timestamp": 2798,
+                    "stop_timestamp": 3072
+                },
+                {
+                    "secondary_subgoal": "Place bottle on countertop, move container, and pick bottle to cabinet",
+                    "start_timestamp": 3072,
+                    "stop_timestamp": 3261
+                },
+                {
+                    "secondary_subgoal": "Close the cabinet",
+                    "start_timestamp": 3261,
+                    "stop_timestamp": 3272
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook and inspect food",
+            "start_timestamp": 3272,
+            "stop_timestamp": 9233,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Touch pan on stove, pick chopsticks from chop board, inspect food in pan",
+                    "start_timestamp": 3272,
+                    "stop_timestamp": 3713
+                },
+                {
+                    "secondary_subgoal": "Stare at food, chop board, and place chopsticks down",
+                    "start_timestamp": 3713,
+                    "stop_timestamp": 3815
+                },
+                {
+                    "secondary_subgoal": "Wipe countertop",
+                    "start_timestamp": 3815,
+                    "stop_timestamp": 4330
+                },
+                {
+                    "secondary_subgoal": "Regulate kitchen stove and inspect pan",
+                    "start_timestamp": 4330,
+                    "stop_timestamp": 4921
+                },
+                {
+                    "secondary_subgoal": "Clean rug, wipe kitchen stove, and regulate",
+                    "start_timestamp": 4964,
+                    "stop_timestamp": 6123
+                },
+                {
+                    "secondary_subgoal": "Wash hands",
+                    "start_timestamp": 6237,
+                    "stop_timestamp": 6316
+                },
+                {
+                    "secondary_subgoal": "Inspect food on pan with chopsticks",
+                    "start_timestamp": 6678,
+                    "stop_timestamp": 7145
+                },
+                {
+                    "secondary_subgoal": "Use slotted spoon to inspect and remove food from pan, throwing food in sink",
+                    "start_timestamp": 7713,
+                    "stop_timestamp": 8283
+                },
+                {
+                    "secondary_subgoal": "Operate cooker and handle pan placement",
+                    "start_timestamp": 8554,
+                    "stop_timestamp": 9403
+                },
+                {
+                    "secondary_subgoal": "Manage multiple pans and cooker",
+                    "start_timestamp": 9005,
+                    "stop_timestamp": 9618
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cold dishes",
+            "start_timestamp": 9618,
+            "stop_timestamp": 15431,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open tin, remove paper, wash hands, and put water in a bowl",
+                    "start_timestamp": 9618,
+                    "stop_timestamp": 9971
+                },
+                {
+                    "secondary_subgoal": "Operate microwave and handle container lid",
+                    "start_timestamp": 10178,
+                    "stop_timestamp": 10878
+                },
+                {
+                    "secondary_subgoal": "Utilize cooker and place items in bowls",
+                    "start_timestamp": 12050,
+                    "stop_timestamp": 12625
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean up",
+            "start_timestamp": 15431,
+            "stop_timestamp": 19791,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash utensils",
+                    "start_timestamp": 12625,
+                    "stop_timestamp": 14391
+                },
+                {
+                    "secondary_subgoal": "Wipe hands and operate cooker again",
+                    "start_timestamp": 14472,
+                    "stop_timestamp": 14918
+                },
+                {
+                    "secondary_subgoal": "Use chopsticks and handle bottle for seasoning",
+                    "start_timestamp": 15028,
+                    "stop_timestamp": 15625
+                },
+                {
+                    "secondary_subgoal": "Handle food in pot with various utensils, serve into bowls",
+                    "start_timestamp": 19523,
+                    "stop_timestamp": 19791
+                }
+            ]
+        }
+    ]
+}

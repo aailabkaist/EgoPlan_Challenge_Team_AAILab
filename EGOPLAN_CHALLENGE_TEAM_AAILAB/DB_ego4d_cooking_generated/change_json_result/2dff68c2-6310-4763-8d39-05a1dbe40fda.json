@@ -1,0 +1,228 @@
+{
+    "overall_goal": "Prepare food and drinks, and perform various tasks around the kitchen and house.",
+    "clips": [
+        {
+            "subgoal": "Interact with the phone",
+            "start_timestamp": 127,
+            "stop_timestamp": 3578,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look around",
+                    "start_timestamp": 127,
+                    "stop_timestamp": 214
+                },
+                {
+                    "secondary_subgoal": "Move to and scroll phone",
+                    "start_timestamp": 214,
+                    "stop_timestamp": 1305
+                },
+                {
+                    "secondary_subgoal": "Look at phone",
+                    "start_timestamp": 1305,
+                    "stop_timestamp": 1951
+                },
+                {
+                    "secondary_subgoal": "Scroll phone",
+                    "start_timestamp": 214,
+                    "stop_timestamp": 3578
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle chicken breast",
+            "start_timestamp": 1952,
+            "stop_timestamp": 7810,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Folding shirt",
+                    "start_timestamp": 1952,
+                    "stop_timestamp": 2050
+                },
+                {
+                    "secondary_subgoal": "Scroll and look at phone",
+                    "start_timestamp": 2050,
+                    "stop_timestamp": 3798
+                },
+                {
+                    "secondary_subgoal": "Open fridge and take out bowl",
+                    "start_timestamp": 3832,
+                    "stop_timestamp": 4198
+                },
+                {
+                    "secondary_subgoal": "Move bowl to chopping board",
+                    "start_timestamp": 4198,
+                    "stop_timestamp": 4467
+                },
+                {
+                    "secondary_subgoal": "Place chicken breast and dip hands",
+                    "start_timestamp": 4518,
+                    "stop_timestamp": 4691
+                },
+                {
+                    "secondary_subgoal": "Cut chicken breast",
+                    "start_timestamp": 4786,
+                    "stop_timestamp": 7380
+                },
+                {
+                    "secondary_subgoal": "Clean up after cutting",
+                    "start_timestamp": 7573,
+                    "stop_timestamp": 7939
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cooking pan with oil and start cooking",
+            "start_timestamp": 8019,
+            "stop_timestamp": 8483,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling the pan",
+                    "start_timestamp": 8019,
+                    "stop_timestamp": 8293
+                },
+                {
+                    "secondary_subgoal": "Place pan on gas",
+                    "start_timestamp": 8350,
+                    "stop_timestamp": 8483
+                }
+            ]
+        },
+        {
+            "subgoal": "Interact with phone and people",
+            "start_timestamp": 8555,
+            "stop_timestamp": 10700,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Look around",
+                    "start_timestamp": 8555,
+                    "stop_timestamp": 8897
+                },
+                {
+                    "secondary_subgoal": "Phone interaction",
+                    "start_timestamp": 8897,
+                    "stop_timestamp": 9838
+                },
+                {
+                    "secondary_subgoal": "Look at man Y",
+                    "start_timestamp": 9838,
+                    "stop_timestamp": 10142
+                },
+                {
+                    "secondary_subgoal": "Interaction with man X and Y",
+                    "start_timestamp": 10142,
+                    "stop_timestamp": 10700
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and squeeze lemon juice",
+            "start_timestamp": 10700,
+            "stop_timestamp": 12596,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and cut lemons",
+                    "start_timestamp": 10700,
+                    "stop_timestamp": 10896
+                },
+                {
+                    "secondary_subgoal": "Squeeze lemon juice into cups",
+                    "start_timestamp": 11394,
+                    "stop_timestamp": 12383
+                },
+                {
+                    "secondary_subgoal": "Dispose lemon and clean up",
+                    "start_timestamp": 12383,
+                    "stop_timestamp": 12596
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare drinks",
+            "start_timestamp": 12596,
+            "stop_timestamp": 15184,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add sugar and pour water",
+                    "start_timestamp": 12596,
+                    "stop_timestamp": 13209
+                },
+                {
+                    "secondary_subgoal": "Add soda",
+                    "start_timestamp": 13209,
+                    "stop_timestamp": 14521
+                },
+                {
+                    "secondary_subgoal": "Serve drinks to guests",
+                    "start_timestamp": 14901,
+                    "stop_timestamp": 15184
+                }
+            ]
+        },
+        {
+            "subgoal": "Move around and look around the house",
+            "start_timestamp": 15184,
+            "stop_timestamp": 20881,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk around and look around",
+                    "start_timestamp": 15184,
+                    "stop_timestamp": 18014
+                },
+                {
+                    "secondary_subgoal": "Interact with man A",
+                    "start_timestamp": 15332,
+                    "stop_timestamp": 16200
+                },
+                {
+                    "secondary_subgoal": "Look around and walk around",
+                    "start_timestamp": 16200,
+                    "stop_timestamp": 20881
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook and stir food",
+            "start_timestamp": 21169,
+            "stop_timestamp": 32887,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle cooking ingredients",
+                    "start_timestamp": 21169,
+                    "stop_timestamp": 23126
+                },
+                {
+                    "secondary_subgoal": "Add spices and adjust cooking",
+                    "start_timestamp": 23457,
+                    "stop_timestamp": 27190
+                },
+                {
+                    "secondary_subgoal": "Look around and adjust phone",
+                    "start_timestamp": 28286,
+                    "stop_timestamp": 32102
+                }
+            ]
+        },
+        {
+            "subgoal": "Interact with bottle and phone",
+            "start_timestamp": 32887,
+            "stop_timestamp": 50482,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle phone and bottle",
+                    "start_timestamp": 32887,
+                    "stop_timestamp": 47894
+                },
+                {
+                    "secondary_subgoal": "Interact with fridge and serviettes",
+                    "start_timestamp": 48206,
+                    "stop_timestamp": 48603
+                },
+                {
+                    "secondary_subgoal": "Monitor phone",
+                    "start_timestamp": 49105,
+                    "stop_timestamp": 50482
+                }
+            ]
+        }
+    ]
+}

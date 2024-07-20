@@ -1,0 +1,86 @@
+{
+    "overall_goal": "Process the banana flower by removing its outer parts and placing them on the table, preparing it for further use.",
+    "clips": [
+        {
+            "subgoal": "Initial Processing of Banana Flower",
+            "start_timestamp": 20,
+            "stop_timestamp": 1957,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick banana flower from the woven bucket",
+                    "start_timestamp": 20,
+                    "stop_timestamp": 63
+                },
+                {
+                    "secondary_subgoal": "Remove parts of banana flower and place them on the table",
+                    "start_timestamp": 63,
+                    "stop_timestamp": 771
+                },
+                {
+                    "secondary_subgoal": "Pick banana flower from the woven bucket",
+                    "start_timestamp": 771,
+                    "stop_timestamp": 804
+                },
+                {
+                    "secondary_subgoal": "Remove parts of banana flower and place them on the table",
+                    "start_timestamp": 804,
+                    "stop_timestamp": 1688
+                },
+                {
+                    "secondary_subgoal": "Conversation with a woman",
+                    "start_timestamp": 1688,
+                    "stop_timestamp": 1769
+                },
+                {
+                    "secondary_subgoal": "Pick banana flower from the woven bucket",
+                    "start_timestamp": 1769,
+                    "stop_timestamp": 1957
+                }
+            ]
+        },
+        {
+            "subgoal": "Intermediate Conversations and Further Processing",
+            "start_timestamp": 1957,
+            "stop_timestamp": 5191,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Remove parts of banana flower and place them on the table",
+                    "start_timestamp": 1957,
+                    "stop_timestamp": 2686
+                },
+                {
+                    "secondary_subgoal": "Conversation with a woman",
+                    "start_timestamp": 2686,
+                    "stop_timestamp": 2721
+                },
+                {
+                    "secondary_subgoal": "Continue banana flower processing",
+                    "start_timestamp": 2721,
+                    "stop_timestamp": 5375
+                },
+                {
+                    "secondary_subgoal": "Conversation with a woman",
+                    "start_timestamp": 5329,
+                    "stop_timestamp": 5402
+                }
+            ]
+        },
+        {
+            "subgoal": "Final Stages of Banana Flower Processing",
+            "start_timestamp": 5402,
+            "stop_timestamp": 5901,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Receive banana flower from a man and process it further",
+                    "start_timestamp": 5402,
+                    "stop_timestamp": 5637
+                },
+                {
+                    "secondary_subgoal": "Final interactions and processing",
+                    "start_timestamp": 5637,
+                    "stop_timestamp": 5901
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,602 @@
+[
+    {
+        "task_goal": "Prepare ingredients and tools for cooking macaroni.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "# C C puts meat into macaroni",
+                "start_frame": 17,
+                "stop_frame": 514
+            },
+            {
+                "narration_text": "# C C puts pan on gas cooker",
+                "start_frame": 514,
+                "stop_frame": 545
+            },
+            {
+                "narration_text": "# C C takes pan from gas cooker",
+                "start_frame": 545,
+                "stop_frame": 558
+            },
+            {
+                "narration_text": "# C C removes meat remains from the pan",
+                "start_frame": 558,
+                "stop_frame": 689
+            },
+            {
+                "narration_text": "# C C puts pan on gas cooker",
+                "start_frame": 689,
+                "stop_frame": 716
+            },
+            {
+                "narration_text": "# C C takes wooden spoon from kitchen cabinet",
+                "start_frame": 716,
+                "stop_frame": 742
+            },
+            {
+                "narration_text": "# C C takes milk from kitchen cabinet",
+                "start_frame": 742,
+                "stop_frame": 822
+            },
+            {
+                "narration_text": "# C C puts the wooden spoon in mouth",
+                "start_frame": 822,
+                "stop_frame": 833
+            },
+            {
+                "narration_text": "# C C takes knife",
+                "start_frame": 833,
+                "stop_frame": 861
+            },
+            {
+                "narration_text": "# C C cuts milk packet",
+                "start_frame": 861,
+                "stop_frame": 896
+            },
+            {
+                "narration_text": "# C C returns knife on chopping board",
+                "start_frame": 896,
+                "stop_frame": 932
+            },
+            {
+                "narration_text": "# C C takes marinade",
+                "start_frame": 932,
+                "stop_frame": 1194
+            },
+            {
+                "narration_text": "# C C takes eggs from egg tray",
+                "start_frame": 1194,
+                "stop_frame": 1329
+            },
+            {
+                "narration_text": "# C C puts eggs on kitchen cabinet",
+                "start_frame": 1329,
+                "stop_frame": 1427
+            },
+            {
+                "narration_text": "# C C puts marinade in macaroni",
+                "start_frame": 1427,
+                "stop_frame": 1471
+            },
+            {
+                "narration_text": "# C C puts plate on gas cooker",
+                "start_frame": 1471,
+                "stop_frame": 1487
+            }
+        ]
+    },
+    {
+        "task_goal": "Put meat into macaroni and prepare the pan.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "# C C puts meat into macaroni",
+                "start_frame": 17,
+                "stop_frame": 514
+            },
+            {
+                "narration_text": "# C C puts pan on gas cooker",
+                "start_frame": 514,
+                "stop_frame": 545
+            },
+            {
+                "narration_text": "# C C takes pan from gas cooker",
+                "start_frame": 545,
+                "stop_frame": 558
+            },
+            {
+                "narration_text": "# C C removes meat remains from the pan",
+                "start_frame": 558,
+                "stop_frame": 689
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove meat remains from the pan and prepare tools.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "# C C takes pan from gas cooker",
+                "start_frame": 545,
+                "stop_frame": 558
+            },
+            {
+                "narration_text": "# C C removes meat remains from the pan",
+                "start_frame": 558,
+                "stop_frame": 689
+            },
+            {
+                "narration_text": "# C C puts pan on gas cooker",
+                "start_frame": 689,
+                "stop_frame": 716
+            },
+            {
+                "narration_text": "# C C takes wooden spoon from kitchen cabinet",
+                "start_frame": 716,
+                "stop_frame": 742
+            },
+            {
+                "narration_text": "# C C takes milk from kitchen cabinet",
+                "start_frame": 742,
+                "stop_frame": 822
+            },
+            {
+                "narration_text": "# C C puts the wooden spoon in mouth",
+                "start_frame": 822,
+                "stop_frame": 833
+            },
+            {
+                "narration_text": "# C C takes knife",
+                "start_frame": 833,
+                "stop_frame": 861
+            },
+            {
+                "narration_text": "# C C cuts milk packet",
+                "start_frame": 861,
+                "stop_frame": 896
+            },
+            {
+                "narration_text": "# C C returns knife on chopping board",
+                "start_frame": 896,
+                "stop_frame": 932
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare marinade and eggs.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "# C C takes marinade",
+                "start_frame": 932,
+                "stop_frame": 1194
+            },
+            {
+                "narration_text": "# C C takes eggs from egg tray",
+                "start_frame": 1194,
+                "stop_frame": 1329
+            },
+            {
+                "narration_text": "# C C puts eggs on kitchen cabinet",
+                "start_frame": 1329,
+                "stop_frame": 1427
+            },
+            {
+                "narration_text": "# C C puts marinade in macaroni",
+                "start_frame": 1427,
+                "stop_frame": 1471
+            }
+        ]
+    },
+    {
+        "task_goal": "Put marinade into macaroni.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "# C C puts marinade in macaroni",
+                "start_frame": 1427,
+                "stop_frame": 1471
+            },
+            {
+                "narration_text": "# C C puts plate on gas cooker",
+                "start_frame": 1471,
+                "stop_frame": 1487
+            },
+            {
+                "narration_text": "# C C puts on gas cooker",
+                "start_frame": 1487,
+                "stop_frame": 1591
+            }
+        ]
+    },
+    {
+        "task_goal": "Heat the cooking pot.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "# C C puts plate on gas cooker",
+                "start_frame": 1471,
+                "stop_frame": 1487
+            },
+            {
+                "narration_text": "# C C puts on gas cooker",
+                "start_frame": 1487,
+                "stop_frame": 1591
+            },
+            {
+                "narration_text": "# C C puts eggs in macaroni",
+                "start_frame": 1591,
+                "stop_frame": 1898
+            }
+        ]
+    },
+    {
+        "task_goal": "Add eggs and wash hands.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "# C C puts on gas cooker",
+                "start_frame": 1487,
+                "stop_frame": 1591
+            },
+            {
+                "narration_text": "# C C puts eggs in macaroni",
+                "start_frame": 1591,
+                "stop_frame": 1898
+            },
+            {
+                "narration_text": "# C C washes hands",
+                "start_frame": 1898,
+                "stop_frame": 2003
+            },
+            {
+                "narration_text": "# C C puts milk in macaroni",
+                "start_frame": 2003,
+                "stop_frame": 2093
+            }
+        ]
+    },
+    {
+        "task_goal": "Add milk and mix ingredients.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "# C C washes hands",
+                "start_frame": 1898,
+                "stop_frame": 2003
+            },
+            {
+                "narration_text": "# C C puts milk in macaroni",
+                "start_frame": 2003,
+                "stop_frame": 2093
+            },
+            {
+                "narration_text": "# C C puts milk packet on kitchen cabinet",
+                "start_frame": 2093,
+                "stop_frame": 2135
+            },
+            {
+                "narration_text": "# C C mixes ingredients in macaroni",
+                "start_frame": 2135,
+                "stop_frame": 2246
+            },
+            {
+                "narration_text": "# C C turns pan",
+                "start_frame": 2246,
+                "stop_frame": 2463
+            },
+            {
+                "narration_text": "# C C takes milk",
+                "start_frame": 2463,
+                "stop_frame": 2483
+            }
+        ]
+    },
+    {
+        "task_goal": "Turn pan and add more milk.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "# C C turns pan",
+                "start_frame": 2246,
+                "stop_frame": 2463
+            },
+            {
+                "narration_text": "# C C takes milk",
+                "start_frame": 2463,
+                "stop_frame": 2483
+            },
+            {
+                "narration_text": "# C C puts milk in macaroni",
+                "start_frame": 2483,
+                "stop_frame": 2548
+            },
+            {
+                "narration_text": "# C C puts milk packet on kitchen cabinet",
+                "start_frame": 2548,
+                "stop_frame": 2660
+            },
+            {
+                "narration_text": "# C C puts black pepper in macaroni",
+                "start_frame": 2660,
+                "stop_frame": 3030
+            }
+        ]
+    },
+    {
+        "task_goal": "Add black pepper.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "# C C puts milk packet on kitchen cabinet",
+                "start_frame": 2548,
+                "stop_frame": 2660
+            },
+            {
+                "narration_text": "# C C puts black pepper in macaroni",
+                "start_frame": 2660,
+                "stop_frame": 3030
+            },
+            {
+                "narration_text": "# C C takes cheese",
+                "start_frame": 3030,
+                "stop_frame": 3343
+            },
+            {
+                "narration_text": "# C C opens kitchen cabinet drawer",
+                "start_frame": 3343,
+                "stop_frame": 3390
+            }
+        ]
+    },
+    {
+        "task_goal": "Grate cheese into macaroni.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "# C C takes cheese",
+                "start_frame": 3030,
+                "stop_frame": 3343
+            },
+            {
+                "narration_text": "# C C opens kitchen cabinet drawer",
+                "start_frame": 3343,
+                "stop_frame": 3390
+            },
+            {
+                "narration_text": "# C C takes grater",
+                "start_frame": 3390,
+                "stop_frame": 3508
+            },
+            {
+                "narration_text": "# C C grates cheese in macaroni",
+                "start_frame": 3508,
+                "stop_frame": 3786
+            },
+            {
+                "narration_text": "# C C puts cheese and grater on kitchen cabinet",
+                "start_frame": 3786,
+                "stop_frame": 3849
+            },
+            {
+                "narration_text": "# C C mixes cheese into macaroni",
+                "start_frame": 3849,
+                "stop_frame": 4112
+            },
+            {
+                "narration_text": "# C C takes cheese",
+                "start_frame": 4112,
+                "stop_frame": 4152
+            },
+            {
+                "narration_text": "# C C takes grater",
+                "start_frame": 4152,
+                "stop_frame": 4198
+            },
+            {
+                "narration_text": "# C C grates cheese in macaroni",
+                "start_frame": 4198,
+                "stop_frame": 4500
+            },
+            {
+                "narration_text": "# C C puts cheese and grater on kitchen cabinet",
+                "start_frame": 4500,
+                "stop_frame": 4545
+            },
+            {
+                "narration_text": "# C C mixes cheese into macaroni",
+                "start_frame": 4545,
+                "stop_frame": 4900
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix cheese into macaroni and clean spoon.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "# C C puts cheese and grater on kitchen cabinet",
+                "start_frame": 4500,
+                "stop_frame": 4545
+            },
+            {
+                "narration_text": "# C C mixes cheese into macaroni",
+                "start_frame": 4545,
+                "stop_frame": 4900
+            },
+            {
+                "narration_text": "# C C puts black pepper in macaroni",
+                "start_frame": 4900,
+                "stop_frame": 5073
+            },
+            {
+                "narration_text": "# C C mixes cheese in macaroni",
+                "start_frame": 5073,
+                "stop_frame": 5232
+            },
+            {
+                "narration_text": "# C C removes food remains from wooden spoon",
+                "start_frame": 5232,
+                "stop_frame": 5294
+            },
+            {
+                "narration_text": "# C C puts wooden spoon on kitchen cabinet",
+                "start_frame": 5294,
+                "stop_frame": 5330
+            },
+            {
+                "narration_text": "# C C takes lid from kitchen cabinet",
+                "start_frame": 5330,
+                "stop_frame": 5361
+            }
+        ]
+    },
+    {
+        "task_goal": "Cover cooking pot and clean up knife.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "# C C puts wooden spoon on kitchen cabinet",
+                "start_frame": 5294,
+                "stop_frame": 5330
+            },
+            {
+                "narration_text": "# C C takes lid from kitchen cabinet",
+                "start_frame": 5330,
+                "stop_frame": 5361
+            },
+            {
+                "narration_text": "# C C covers cooking pot",
+                "start_frame": 5361,
+                "stop_frame": 5493
+            },
+            {
+                "narration_text": "# C C takes knife",
+                "start_frame": 5493,
+                "stop_frame": 5555
+            },
+            {
+                "narration_text": "# C C washes knife",
+                "start_frame": 5555,
+                "stop_frame": 5795
+            },
+            {
+                "narration_text": "# C C takes kitchen towel",
+                "start_frame": 5795,
+                "stop_frame": 5832
+            },
+            {
+                "narration_text": "# C C wipes knife",
+                "start_frame": 5832,
+                "stop_frame": 6012
+            },
+            {
+                "narration_text": "# C C puts knife in kitchen cabinet",
+                "start_frame": 6012,
+                "stop_frame": 6110
+            },
+            {
+                "narration_text": "# C C puts kitchen towel on his shoulder",
+                "start_frame": 6110,
+                "stop_frame": 6131
+            },
+            {
+                "narration_text": "# C C takes eggshells",
+                "start_frame": 6131,
+                "stop_frame": 6241
+            }
+        ]
+    },
+    {
+        "task_goal": "Dispose eggshells and store cheese in fridge.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "# C C puts kitchen towel on his shoulder",
+                "start_frame": 6110,
+                "stop_frame": 6131
+            },
+            {
+                "narration_text": "# C C takes eggshells",
+                "start_frame": 6131,
+                "stop_frame": 6241
+            },
+            {
+                "narration_text": "# C C puts eggshells in dustbin",
+                "start_frame": 6241,
+                "stop_frame": 6369
+            },
+            {
+                "narration_text": "# C C takes cheese from kitchen cabinet",
+                "start_frame": 6369,
+                "stop_frame": 6468
+            },
+            {
+                "narration_text": "# CC covers cheese",
+                "start_frame": 6468,
+                "stop_frame": 6537
+            },
+            {
+                "narration_text": "# C C opens fridge",
+                "start_frame": 6537,
+                "stop_frame": 6602
+            },
+            {
+                "narration_text": "# C C keeps cheese in fridge",
+                "start_frame": 6602,
+                "stop_frame": 6648
+            },
+            {
+                "narration_text": "# C C takes milk packet",
+                "start_frame": 6648,
+                "stop_frame": 6698
+            },
+            {
+                "narration_text": "# C C moves the packet towards the dustbin",
+                "start_frame": 6698,
+                "stop_frame": 6786
+            }
+        ]
+    },
+    {
+        "task_goal": "Dispose of milk packet and clean up kitchen area.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "# C C takes milk packet",
+                "start_frame": 6648,
+                "stop_frame": 6698
+            },
+            {
+                "narration_text": "# C C moves the packet towards the dustbin",
+                "start_frame": 6698,
+                "stop_frame": 6786
+            },
+            {
+                "narration_text": "# C C pushes back shelf in fridge",
+                "start_frame": 6786,
+                "stop_frame": 6838
+            },
+            {
+                "narration_text": "# C C takes kitchen towel",
+                "start_frame": 6838,
+                "stop_frame": 6846
+            },
+            {
+                "narration_text": "# C C puts milk packet on kitchen cabinet",
+                "start_frame": 6846,
+                "stop_frame": 6976
+            },
+            {
+                "narration_text": "# C C puts kitchen towel on kitchen cabinet",
+                "start_frame": 6976,
+                "stop_frame": 7072
+            },
+            {
+                "narration_text": "# C C raises his hands",
+                "start_frame": 7072,
+                "stop_frame": 7172
+            }
+        ]
+    },
+    {
+        "task_goal": "Raise hands after completion.",
+        "task_progress_metadata": [
+            {
+                "narration_text": "# C C puts kitchen towel on kitchen cabinet",
+                "start_frame": 6976,
+                "stop_frame": 7072
+            },
+            {
+                "narration_text": "# C C raises his hands",
+                "start_frame": 7072,
+                "stop_frame": 7172
+            }
+        ]
+    }
+]

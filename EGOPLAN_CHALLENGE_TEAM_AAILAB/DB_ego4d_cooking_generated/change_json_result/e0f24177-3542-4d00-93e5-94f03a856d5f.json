@@ -1,0 +1,137 @@
+{
+    "overall_goal": "Harvest a plant from the garden and prepare a vegetable mixture with oil and other ingredients",
+    "clips": [
+        {
+            "subgoal": "Phone-related activities",
+            "start_timestamp": 2,
+            "stop_timestamp": 197,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Use the phone",
+                    "start_timestamp": 2,
+                    "stop_timestamp": 127
+                },
+                {
+                    "secondary_subgoal": "Put the phone down",
+                    "start_timestamp": 127,
+                    "stop_timestamp": 197
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparations and walking to the garden",
+            "start_timestamp": 745,
+            "stop_timestamp": 2037,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Use the phone",
+                    "start_timestamp": 745,
+                    "stop_timestamp": 1028
+                },
+                {
+                    "secondary_subgoal": "Switch off the light",
+                    "start_timestamp": 1028,
+                    "stop_timestamp": 1116
+                },
+                {
+                    "secondary_subgoal": "Remove and wear shoes",
+                    "start_timestamp": 1116,
+                    "stop_timestamp": 1296
+                },
+                {
+                    "secondary_subgoal": "Stretch the sweater and open the door",
+                    "start_timestamp": 1296,
+                    "stop_timestamp": 1439
+                },
+                {
+                    "secondary_subgoal": "Walk outside and open the gate",
+                    "start_timestamp": 1439,
+                    "stop_timestamp": 2037
+                }
+            ]
+        },
+        {
+            "subgoal": "Harvest the plant from the garden",
+            "start_timestamp": 2245,
+            "stop_timestamp": 7263,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and put plants in hand (repeated)",
+                    "start_timestamp": 2245,
+                    "stop_timestamp": 7012
+                },
+                {
+                    "secondary_subgoal": "Walk out of the garden",
+                    "start_timestamp": 7012,
+                    "stop_timestamp": 7263
+                }
+            ]
+        },
+        {
+            "subgoal": "Return to the house and prepare the ingredients",
+            "start_timestamp": 7711,
+            "stop_timestamp": 26141,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Close/open the gate and door, switch the light off, and remove the shoe",
+                    "start_timestamp": 7711,
+                    "stop_timestamp": 8445
+                },
+                {
+                    "secondary_subgoal": "Pick the sieving bowl and vegetable, cut the vegetable",
+                    "start_timestamp": 8445,
+                    "stop_timestamp": 8789
+                },
+                {
+                    "secondary_subgoal": "Turn the vegetable, pour the vegetable, prepare the cooking ingredients",
+                    "start_timestamp": 8789,
+                    "stop_timestamp": 21372
+                },
+                {
+                    "secondary_subgoal": "Cut and peel the onion, prepare onion pieces",
+                    "start_timestamp": 21372,
+                    "stop_timestamp": 22471
+                },
+                {
+                    "secondary_subgoal": "Mix the onion, oil, and other ingredients",
+                    "start_timestamp": 22471,
+                    "stop_timestamp": 26141
+                }
+            ]
+        },
+        {
+            "subgoal": "Pick and prepare water for cooking",
+            "start_timestamp": 26855,
+            "stop_timestamp": 27297,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick the spoon and put the cooking pot on the gas",
+                    "start_timestamp": 26855,
+                    "stop_timestamp": 27106
+                },
+                {
+                    "secondary_subgoal": "Fetch water in thermoflask and pour into the pot",
+                    "start_timestamp": 27106,
+                    "stop_timestamp": 27297
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize items in the cupboard",
+            "start_timestamp": 28860,
+            "stop_timestamp": 30843,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open cupboard, handle packets and boxes",
+                    "start_timestamp": 28860,
+                    "stop_timestamp": 30096
+                },
+                {
+                    "secondary_subgoal": "Open and close drawers, move packets and items",
+                    "start_timestamp": 30096,
+                    "stop_timestamp": 30843
+                }
+            ]
+        }
+    ]
+}

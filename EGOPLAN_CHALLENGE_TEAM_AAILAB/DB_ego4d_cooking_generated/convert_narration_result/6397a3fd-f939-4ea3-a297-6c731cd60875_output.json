@@ -1,0 +1,831 @@
+[
+    {
+        "task_goal": "Get utensils and prepare cooking area",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves a hand",
+                "start_frame": 25,
+                "stop_frame": 42
+            },
+            {
+                "narration_text": "Picks chopsticks",
+                "start_frame": 42,
+                "stop_frame": 64
+            },
+            {
+                "narration_text": "Holds chopsticks to the other hand",
+                "start_frame": 64,
+                "stop_frame": 118
+            },
+            {
+                "narration_text": "Opens a cooking pan lid",
+                "start_frame": 118,
+                "stop_frame": 152
+            },
+            {
+                "narration_text": "Puts down a cooking pan lid",
+                "start_frame": 152,
+                "stop_frame": 180
+            },
+            {
+                "narration_text": "Switches chopsticks to the other hand",
+                "start_frame": 180,
+                "stop_frame": 248
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 248,
+                "stop_frame": 603
+            },
+            {
+                "narration_text": "Moves a cutting board",
+                "start_frame": 603,
+                "stop_frame": 647
+            },
+            {
+                "narration_text": "Picks bowls from a dish rack",
+                "start_frame": 647,
+                "stop_frame": 706
+            },
+            {
+                "narration_text": "Holds bowls with hands",
+                "start_frame": 706,
+                "stop_frame": 772
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick chopsticks and handle cooking pan lid",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves a hand",
+                "start_frame": 25,
+                "stop_frame": 42
+            },
+            {
+                "narration_text": "Picks chopsticks",
+                "start_frame": 42,
+                "stop_frame": 64
+            },
+            {
+                "narration_text": "Holds chopsticks to the other hand",
+                "start_frame": 64,
+                "stop_frame": 118
+            },
+            {
+                "narration_text": "Opens a cooking pan lid",
+                "start_frame": 118,
+                "stop_frame": 152
+            },
+            {
+                "narration_text": "Puts down a cooking pan lid",
+                "start_frame": 152,
+                "stop_frame": 180
+            },
+            {
+                "narration_text": "Switches chopsticks to the other hand",
+                "start_frame": 180,
+                "stop_frame": 248
+            }
+        ]
+    },
+    {
+        "task_goal": "Switch chopsticks and stir food in pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down a cooking pan lid",
+                "start_frame": 152,
+                "stop_frame": 180
+            },
+            {
+                "narration_text": "Switches chopsticks to the other hand",
+                "start_frame": 180,
+                "stop_frame": 248
+            },
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 248,
+                "stop_frame": 603
+            },
+            {
+                "narration_text": "Moves a cutting board",
+                "start_frame": 603,
+                "stop_frame": 647
+            }
+        ]
+    },
+    {
+        "task_goal": "Move cutting board and pick bowls",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs the food",
+                "start_frame": 248,
+                "stop_frame": 603
+            },
+            {
+                "narration_text": "Moves a cutting board",
+                "start_frame": 603,
+                "stop_frame": 647
+            },
+            {
+                "narration_text": "Picks bowls from a dish rack",
+                "start_frame": 647,
+                "stop_frame": 706
+            },
+            {
+                "narration_text": "Holds bowls with hands",
+                "start_frame": 706,
+                "stop_frame": 772
+            }
+        ]
+    },
+    {
+        "task_goal": "Put down bowl on kitchen table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts pasta in a bowl",
+                "start_frame": 2281,
+                "stop_frame": 2371
+            },
+            {
+                "narration_text": "Puts down a bowl on a kitchen table",
+                "start_frame": 2371,
+                "stop_frame": 2423
+            },
+            {
+                "narration_text": "Switches chopsticks to the other hand",
+                "start_frame": 2423,
+                "stop_frame": 2445
+            }
+        ]
+    },
+    {
+        "task_goal": "Close pan with lid and handle chopsticks in kitchen area",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down a bowl on a kitchen table",
+                "start_frame": 2371,
+                "stop_frame": 2423
+            },
+            {
+                "narration_text": "Switches chopsticks to the other hand",
+                "start_frame": 2423,
+                "stop_frame": 2445
+            },
+            {
+                "narration_text": "Picks a pan lid",
+                "start_frame": 2445,
+                "stop_frame": 2482
+            },
+            {
+                "narration_text": "Closes a pan with a lid",
+                "start_frame": 2482,
+                "stop_frame": 2523
+            },
+            {
+                "narration_text": "Switches chopsticks to the other hand",
+                "start_frame": 2523,
+                "stop_frame": 2544
+            },
+            {
+                "narration_text": "Puts chopsticks on glass on a kitchen table with hands",
+                "start_frame": 2544,
+                "stop_frame": 2624
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 2624,
+                "stop_frame": 2669
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 2669,
+                "stop_frame": 2721
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and close pan with lid, put down chopsticks on table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts down a bowl on a kitchen table",
+                "start_frame": 2371,
+                "stop_frame": 2423
+            },
+            {
+                "narration_text": "Switches chopsticks to the other hand",
+                "start_frame": 2423,
+                "stop_frame": 2445
+            },
+            {
+                "narration_text": "Picks a pan lid",
+                "start_frame": 2445,
+                "stop_frame": 2482
+            },
+            {
+                "narration_text": "Closes a pan with a lid",
+                "start_frame": 2482,
+                "stop_frame": 2523
+            },
+            {
+                "narration_text": "Switches chopsticks to the other hand",
+                "start_frame": 2523,
+                "stop_frame": 2544
+            },
+            {
+                "narration_text": "Puts chopsticks on glass on a kitchen table with hands",
+                "start_frame": 2544,
+                "stop_frame": 2624
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 2624,
+                "stop_frame": 2669
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk to another area",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts chopsticks on glass on a kitchen table with hands",
+                "start_frame": 2544,
+                "stop_frame": 2624
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 2624,
+                "stop_frame": 2669
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 2669,
+                "stop_frame": 2721
+            }
+        ]
+    },
+    {
+        "task_goal": "Get rice and serve into a bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks",
+                "start_frame": 2624,
+                "stop_frame": 2669
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 2669,
+                "stop_frame": 2721
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 2721,
+                "stop_frame": 2737
+            },
+            {
+                "narration_text": "Switches a bowl to the other hand",
+                "start_frame": 2737,
+                "stop_frame": 2758
+            },
+            {
+                "narration_text": "Closes a drawer",
+                "start_frame": 2758,
+                "stop_frame": 2799
+            },
+            {
+                "narration_text": "Opens a rice cooker",
+                "start_frame": 2799,
+                "stop_frame": 2864
+            },
+            {
+                "narration_text": "Picks a serving spoon from a dish rack",
+                "start_frame": 2864,
+                "stop_frame": 2944
+            },
+            {
+                "narration_text": "Puts rice on a bowl",
+                "start_frame": 2944,
+                "stop_frame": 3049
+            },
+            {
+                "narration_text": "Closes a rice cooker",
+                "start_frame": 3049,
+                "stop_frame": 3125
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 3125,
+                "stop_frame": 3155
+            },
+            {
+                "narration_text": "Puts down a bowl",
+                "start_frame": 3155,
+                "stop_frame": 3171
+            }
+        ]
+    },
+    {
+        "task_goal": "Open drawer and pick bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks",
+                "start_frame": 2624,
+                "stop_frame": 2669
+            },
+            {
+                "narration_text": "Opens a drawer",
+                "start_frame": 2669,
+                "stop_frame": 2721
+            },
+            {
+                "narration_text": "Picks a bowl",
+                "start_frame": 2721,
+                "stop_frame": 2737
+            },
+            {
+                "narration_text": "Switches a bowl to the other hand",
+                "start_frame": 2737,
+                "stop_frame": 2758
+            },
+            {
+                "narration_text": "Closes a drawer",
+                "start_frame": 2758,
+                "stop_frame": 2799
+            }
+        ]
+    },
+    {
+        "task_goal": "Close drawer, open rice cooker, and pick serving spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Switches a bowl to the other hand",
+                "start_frame": 2737,
+                "stop_frame": 2758
+            },
+            {
+                "narration_text": "Closes a drawer",
+                "start_frame": 2758,
+                "stop_frame": 2799
+            },
+            {
+                "narration_text": "Opens a rice cooker",
+                "start_frame": 2799,
+                "stop_frame": 2864
+            },
+            {
+                "narration_text": "Picks a serving spoon from a dish rack",
+                "start_frame": 2864,
+                "stop_frame": 2944
+            },
+            {
+                "narration_text": "Puts rice on a bowl",
+                "start_frame": 2944,
+                "stop_frame": 3049
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve rice into bowl and close rice cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a serving spoon from a dish rack",
+                "start_frame": 2864,
+                "stop_frame": 2944
+            },
+            {
+                "narration_text": "Puts rice on a bowl",
+                "start_frame": 2944,
+                "stop_frame": 3049
+            },
+            {
+                "narration_text": "Closes a rice cooker",
+                "start_frame": 3049,
+                "stop_frame": 3125
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 3125,
+                "stop_frame": 3155
+            }
+        ]
+    },
+    {
+        "task_goal": "Walk and put down bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes a rice cooker",
+                "start_frame": 3049,
+                "stop_frame": 3125
+            },
+            {
+                "narration_text": "Walks",
+                "start_frame": 3125,
+                "stop_frame": 3155
+            },
+            {
+                "narration_text": "Puts down a bowl",
+                "start_frame": 3155,
+                "stop_frame": 3171
+            }
+        ]
+    },
+    {
+        "task_goal": "Place food into bowls using chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks",
+                "start_frame": 3125,
+                "stop_frame": 3155
+            },
+            {
+                "narration_text": "Puts down a bowl",
+                "start_frame": 3155,
+                "stop_frame": 3171
+            },
+            {
+                "narration_text": "Moves a bowl with the other hand",
+                "start_frame": 3171,
+                "stop_frame": 3224
+            },
+            {
+                "narration_text": "Moves chopsticks on a glass",
+                "start_frame": 3224,
+                "stop_frame": 3254
+            },
+            {
+                "narration_text": "Puts a serving spoon on glass",
+                "start_frame": 3254,
+                "stop_frame": 3287
+            },
+            {
+                "narration_text": "Moves hands",
+                "start_frame": 3287,
+                "stop_frame": 3387
+            }
+        ]
+    },
+    {
+        "task_goal": "Move and place food items into bowl using chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks",
+                "start_frame": 3125,
+                "stop_frame": 3155
+            },
+            {
+                "narration_text": "Puts down a bowl",
+                "start_frame": 3155,
+                "stop_frame": 3171
+            },
+            {
+                "narration_text": "Moves a bowl with the other hand",
+                "start_frame": 3171,
+                "stop_frame": 3224
+            },
+            {
+                "narration_text": "Moves chopsticks on a glass",
+                "start_frame": 3224,
+                "stop_frame": 3254
+            },
+            {
+                "narration_text": "Puts a serving spoon on glass",
+                "start_frame": 3254,
+                "stop_frame": 3287
+            },
+            {
+                "narration_text": "Moves hands",
+                "start_frame": 3287,
+                "stop_frame": 3387
+            }
+        ]
+    },
+    {
+        "task_goal": "Move potato with chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds bowls with hands",
+                "start_frame": 706,
+                "stop_frame": 772
+            },
+            {
+                "narration_text": "Picks a potato",
+                "start_frame": 772,
+                "stop_frame": 795
+            },
+            {
+                "narration_text": "Picks a potato with chopsticks",
+                "start_frame": 795,
+                "stop_frame": 832
+            },
+            {
+                "narration_text": "Puts a potato in a bowl",
+                "start_frame": 832,
+                "stop_frame": 861
+            }
+        ]
+    },
+    {
+        "task_goal": "Place potato in a bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a potato with chopsticks",
+                "start_frame": 795,
+                "stop_frame": 832
+            },
+            {
+                "narration_text": "Puts a potato in a bowl",
+                "start_frame": 832,
+                "stop_frame": 861
+            },
+            {
+                "narration_text": "Picks a potato with chopsticks",
+                "start_frame": 861,
+                "stop_frame": 898
+            }
+        ]
+    },
+    {
+        "task_goal": "Place potato in a bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a potato with chopsticks",
+                "start_frame": 861,
+                "stop_frame": 898
+            },
+            {
+                "narration_text": "Puts a potato in a bowl",
+                "start_frame": 898,
+                "stop_frame": 1025
+            },
+            {
+                "narration_text": "Picks pasta with chopsticks",
+                "start_frame": 1025,
+                "stop_frame": 1071
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and place pasta in a bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks pasta with chopsticks",
+                "start_frame": 1025,
+                "stop_frame": 1071
+            },
+            {
+                "narration_text": "Puts pasta in a bowl",
+                "start_frame": 1071,
+                "stop_frame": 1113
+            },
+            {
+                "narration_text": "Presses a button on a gas cooker",
+                "start_frame": 1113,
+                "stop_frame": 1184
+            },
+            {
+                "narration_text": "Puts pasta in a bowl",
+                "start_frame": 1184,
+                "stop_frame": 1290
+            },
+            {
+                "narration_text": "Moves a potato with chopsticks",
+                "start_frame": 1290,
+                "stop_frame": 1466
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and place potato in bowl using chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves a potato with chopsticks",
+                "start_frame": 1290,
+                "stop_frame": 1466
+            },
+            {
+                "narration_text": "Picks pasta with chopsticks",
+                "start_frame": 1466,
+                "stop_frame": 1519
+            },
+            {
+                "narration_text": "Puts pasta in a bowl",
+                "start_frame": 1519,
+                "stop_frame": 1560
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick and place pasta using chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves food in a cooking pan with chopsticks",
+                "start_frame": 1658,
+                "stop_frame": 1793
+            },
+            {
+                "narration_text": "Picks pasta with chopsticks",
+                "start_frame": 1793,
+                "stop_frame": 1819
+            },
+            {
+                "narration_text": "Puts pasta in a bowl",
+                "start_frame": 1819,
+                "stop_frame": 1888
+            },
+            {
+                "narration_text": "Moves pasta with chopsticks",
+                "start_frame": 1888,
+                "stop_frame": 1946
+            }
+        ]
+    },
+    {
+        "task_goal": "Handle potato using chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a potato with chopsticks",
+                "start_frame": 1946,
+                "stop_frame": 1971
+            },
+            {
+                "narration_text": "Puts a potato in a bowl",
+                "start_frame": 1971,
+                "stop_frame": 2015
+            },
+            {
+                "narration_text": "Picks pasta with chopsticks",
+                "start_frame": 2015,
+                "stop_frame": 2051
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick pasta with chopsticks and place in bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks pasta with chopsticks",
+                "start_frame": 2015,
+                "stop_frame": 2051
+            },
+            {
+                "narration_text": "Puts pasta in a bowl",
+                "start_frame": 2051,
+                "stop_frame": 2102
+            },
+            {
+                "narration_text": "Picks a piece of meat",
+                "start_frame": 2102,
+                "stop_frame": 2121
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick a piece of meat with chopsticks and place in a bowl",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Picks a piece of meat",
+                "start_frame": 2102,
+                "stop_frame": 2121
+            },
+            {
+                "narration_text": "Puts a piece of meat in a bowl",
+                "start_frame": 2121,
+                "stop_frame": 2251
+            },
+            {
+                "narration_text": "Picks pasta with chopsticks",
+                "start_frame": 2251,
+                "stop_frame": 2281
+            }
+        ]
+    },
+    {
+        "task_goal": "Pick pasta with chopsticks and place into bowl",
+        "task_progress_metadata": []
+    },
+    {
+        "task_goal": "Move food in a bowl using chopsticks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves food in a bowl with chopsticks",
+                "start_frame": 1560,
+                "stop_frame": 1658
+            },
+            {
+                "narration_text": "Moves food in a cooking pan with chopsticks",
+                "start_frame": 1658,
+                "stop_frame": 1793
+            }
+        ]
+    },
+    {
+        "task_goal": "Move food in a cooking pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves food in a cooking pan with chopsticks",
+                "start_frame": 1658,
+                "stop_frame": 1793
+            },
+            {
+                "narration_text": "Picks pasta with chopsticks",
+                "start_frame": 1793,
+                "stop_frame": 1819
+            },
+            {
+                "narration_text": "Puts pasta in a bowl",
+                "start_frame": 1819,
+                "stop_frame": 1888
+            },
+            {
+                "narration_text": "Moves pasta with chopsticks",
+                "start_frame": 1888,
+                "stop_frame": 1946
+            },
+            {
+                "narration_text": "Picks a potato with chopsticks",
+                "start_frame": 1946,
+                "stop_frame": 1971
+            },
+            {
+                "narration_text": "Puts a potato in a bowl",
+                "start_frame": 1971,
+                "stop_frame": 2015
+            },
+            {
+                "narration_text": "Picks pasta with chopsticks",
+                "start_frame": 2015,
+                "stop_frame": 2051
+            },
+            {
+                "narration_text": "Puts pasta in a bowl",
+                "start_frame": 2051,
+                "stop_frame": 2102
+            },
+            {
+                "narration_text": "Picks a piece of meat",
+                "start_frame": 2102,
+                "stop_frame": 2121
+            },
+            {
+                "narration_text": "Puts a piece of meat in a bowl",
+                "start_frame": 2121,
+                "stop_frame": 2251
+            }
+        ]
+    },
+    {
+        "task_goal": "Move food in a cooking pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves food in a cooking pan with chopsticks",
+                "start_frame": 1658,
+                "stop_frame": 1793
+            },
+            {
+                "narration_text": "Picks pasta with chopsticks",
+                "start_frame": 1793,
+                "stop_frame": 1819
+            },
+            {
+                "narration_text": "Puts pasta in a bowl",
+                "start_frame": 1819,
+                "stop_frame": 1888
+            },
+            {
+                "narration_text": "Moves pasta with chopsticks",
+                "start_frame": 1888,
+                "stop_frame": 1946
+            },
+            {
+                "narration_text": "Picks a potato with chopsticks",
+                "start_frame": 1946,
+                "stop_frame": 1971
+            },
+            {
+                "narration_text": "Puts a potato in a bowl",
+                "start_frame": 1971,
+                "stop_frame": 2015
+            },
+            {
+                "narration_text": "Picks pasta with chopsticks",
+                "start_frame": 2015,
+                "stop_frame": 2051
+            },
+            {
+                "narration_text": "Puts pasta in a bowl",
+                "start_frame": 2051,
+                "stop_frame": 2102
+            },
+            {
+                "narration_text": "Picks a piece of meat",
+                "start_frame": 2102,
+                "stop_frame": 2121
+            },
+            {
+                "narration_text": "Puts a piece of meat in a bowl",
+                "start_frame": 2121,
+                "stop_frame": 2251
+            }
+        ]
+    }
+]

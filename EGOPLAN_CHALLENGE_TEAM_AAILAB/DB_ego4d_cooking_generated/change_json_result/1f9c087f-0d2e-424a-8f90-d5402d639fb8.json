@@ -1,0 +1,116 @@
+{
+    "overall_goal": "Prepare a dish using tomatoes, garlic, and ground beef.",
+    "clips": [
+        {
+            "subgoal": "Preparing the tomatoes",
+            "start_timestamp": 58,
+            "stop_timestamp": 14833,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Removing the tomato cores",
+                    "start_timestamp": 58,
+                    "stop_timestamp": 1048
+                },
+                {
+                    "secondary_subgoal": "Cutting tomatoes into pieces",
+                    "start_timestamp": 1048,
+                    "stop_timestamp": 14833
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing the garlic",
+            "start_timestamp": 14833,
+            "stop_timestamp": 6409,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cutting and peeling the garlic",
+                    "start_timestamp": 14833,
+                    "stop_timestamp": 5171
+                },
+                {
+                    "secondary_subgoal": "Cutting the garlic into small pieces",
+                    "start_timestamp": 5171,
+                    "stop_timestamp": 6409
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing the cooking pot and oil",
+            "start_timestamp": 6409,
+            "stop_timestamp": 7433,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adding oil and turning on the heat",
+                    "start_timestamp": 6409,
+                    "stop_timestamp": 7433
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking garlic",
+            "start_timestamp": 7433,
+            "stop_timestamp": 13068,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cooking garlic in the cooking pan",
+                    "start_timestamp": 7433,
+                    "stop_timestamp": 13068
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking ground beef",
+            "start_timestamp": 13068,
+            "stop_timestamp": 18075,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Breaking and mixing ground beef",
+                    "start_timestamp": 13068,
+                    "stop_timestamp": 16648
+                },
+                {
+                    "secondary_subgoal": "Adding salt and stirring ground beef",
+                    "start_timestamp": 16648,
+                    "stop_timestamp": 18075
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding tomatoes to the frying pan",
+            "start_timestamp": 18075,
+            "stop_timestamp": 19180,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mixing and stirring food",
+                    "start_timestamp": 18075,
+                    "stop_timestamp": 19180
+                }
+            ]
+        },
+        {
+            "subgoal": "Adding spice and tasting the food",
+            "start_timestamp": 19180,
+            "stop_timestamp": 20133,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adding spices and tasting food",
+                    "start_timestamp": 19180,
+                    "stop_timestamp": 20133
+                }
+            ]
+        },
+        {
+            "subgoal": "Stirring and finalizing the dish",
+            "start_timestamp": 20133,
+            "stop_timestamp": 20265,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Final stirring",
+                    "start_timestamp": 20133,
+                    "stop_timestamp": 20265
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "overall_goal": "Preparing and cooking a meal, then cleaning up the kitchen.",
+    "clips": [
+        {
+            "subgoal": "Preparing cooking ingredients",
+            "start_timestamp": 0,
+            "stop_timestamp": 305,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather ingredients",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 52
+                },
+                {
+                    "secondary_subgoal": "Open and pour from bottle",
+                    "start_timestamp": 52,
+                    "stop_timestamp": 223
+                },
+                {
+                    "secondary_subgoal": "Put bottle back",
+                    "start_timestamp": 223,
+                    "stop_timestamp": 274
+                },
+                {
+                    "secondary_subgoal": "Close and walk around",
+                    "start_timestamp": 274,
+                    "stop_timestamp": 305
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking the meal",
+            "start_timestamp": 305,
+            "stop_timestamp": 1841,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather cooking utensils",
+                    "start_timestamp": 305,
+                    "stop_timestamp": 618
+                },
+                {
+                    "secondary_subgoal": "Prepare cooking area",
+                    "start_timestamp": 618,
+                    "stop_timestamp": 767
+                },
+                {
+                    "secondary_subgoal": "Cook and stir food",
+                    "start_timestamp": 767,
+                    "stop_timestamp": 1045
+                },
+                {
+                    "secondary_subgoal": "Taste and adjust food",
+                    "start_timestamp": 1045,
+                    "stop_timestamp": 1542
+                },
+                {
+                    "secondary_subgoal": "Additional cooking and mixing",
+                    "start_timestamp": 1542,
+                    "stop_timestamp": 1788
+                },
+                {
+                    "secondary_subgoal": "Finalize cooking",
+                    "start_timestamp": 1788,
+                    "stop_timestamp": 1841
+                }
+            ]
+        },
+        {
+            "subgoal": "Prep utensils and tools for cleaning",
+            "start_timestamp": 1841,
+            "stop_timestamp": 1899,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prep cutting utensils",
+                    "start_timestamp": 1841,
+                    "stop_timestamp": 1899
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning utensils and tools",
+            "start_timestamp": 1899,
+            "stop_timestamp": 2816,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse chopping board",
+                    "start_timestamp": 1899,
+                    "stop_timestamp": 2046
+                },
+                {
+                    "secondary_subgoal": "Rinse and put down tools",
+                    "start_timestamp": 2046,
+                    "stop_timestamp": 2465
+                },
+                {
+                    "secondary_subgoal": "Rinse and store grater",
+                    "start_timestamp": 2465,
+                    "stop_timestamp": 2604
+                },
+                {
+                    "secondary_subgoal": "Clean and put away cutter",
+                    "start_timestamp": 2604,
+                    "stop_timestamp": 2816
+                }
+            ]
+        },
+        {
+            "subgoal": "Rinse additional objects and organize",
+            "start_timestamp": 2816,
+            "stop_timestamp": 4956,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Rinse and hang utensils",
+                    "start_timestamp": 2816,
+                    "stop_timestamp": 3328
+                },
+                {
+                    "secondary_subgoal": "Put down cleaned plates",
+                    "start_timestamp": 3328,
+                    "stop_timestamp": 3463
+                },
+                {
+                    "secondary_subgoal": "Pre-clean cutting area",
+                    "start_timestamp": 3463,
+                    "stop_timestamp": 3874
+                },
+                {
+                    "secondary_subgoal": "Prepare ingredients on plate",
+                    "start_timestamp": 3874,
+                    "stop_timestamp": 4676
+                },
+                {
+                    "secondary_subgoal": "Clean chopping board",
+                    "start_timestamp": 4676,
+                    "stop_timestamp": 4956
+                }
+            ]
+        },
+        {
+            "subgoal": "Final kitchen walkthrough",
+            "start_timestamp": 4956,
+            "stop_timestamp": 5102,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Dry hands and organize",
+                    "start_timestamp": 4956,
+                    "stop_timestamp": 5102
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9ehRqTIhcQhqpHIVQvGlUhCGpRedJ",
+    "object": "chat.completion",
+    "created": 1719487162,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Cooking a meal with various ingredients and preparing the kitchen afterwards\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Gathering and preparing ingredients\",\n      \"start_timestamp\": 336,\n      \"stop_timestamp\": 4891,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Collecting necessary tools and ingredients\",\n          \"start_timestamp\": 336,\n          \"stop_timestamp\": 1119\n        },\n        {\n          \"secondary_subgoal\": \"Preparing sauces and incorporating ingredients\",\n          \"start_timestamp\": 1119,\n          \"stop_timestamp\": 2603\n        },\n        {\n          \"secondary_subgoal\": \"Handling and arranging items in the kitchen\",\n          \"start_timestamp\": 2603,\n          \"stop_timestamp\": 4891\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cleaning and prepping for cooking\",\n      \"start_timestamp\": 4891,\n      \"stop_timestamp\": 8910,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Cleaning hands and tools\",\n          \"start_timestamp\": 4891,\n          \"stop_timestamp\": 5454\n        },\n        {\n          \"secondary_subgoal\": \"Stirring mixtures and handling textiles\",\n          \"start_timestamp\": 5454,\n          \"stop_timestamp\": 5919\n        },\n        {\n          \"secondary_subgoal\": \"Handling salad and placement\",\n          \"start_timestamp\": 5919,\n          \"stop_timestamp\": 8910\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cooking the prepared ingredients\",\n      \"start_timestamp\": 8910,\n      \"stop_timestamp\": 17768,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Initial cooking phase and adjusting the heat\",\n          \"start_timestamp\": 8910,\n          \"stop_timestamp\": 12070\n        },\n        {\n          \"secondary_subgoal\": \"Handling and mixing ingredients\",\n          \"start_timestamp\": 12070,\n          \"stop_timestamp\": 13303\n        },\n        {\n          \"secondary_subgoal\": \"Adding ingredients and stirring\",\n          \"start_timestamp\": 13303,\n          \"stop_timestamp\": 14829\n        },\n        {\n          \"secondary_subgoal\": \"Monitoring and adjusting cooking conditions\",\n          \"start_timestamp\": 14829,\n          \"stop_timestamp\": 17768\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Serving and final touches\",\n      \"start_timestamp\": 17768,\n      \"stop_timestamp\": 21339,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Preparing dishes for serving\",\n          \"start_timestamp\": 17768,\n          \"stop_timestamp\": 19537\n        },\n        {\n          \"secondary_subgoal\": \"Final food preparation and serving\",\n          \"start_timestamp\": 19537,\n          \"stop_timestamp\": 21339\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4050,
+        "completion_tokens": 622,
+        "total_tokens": 4672
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

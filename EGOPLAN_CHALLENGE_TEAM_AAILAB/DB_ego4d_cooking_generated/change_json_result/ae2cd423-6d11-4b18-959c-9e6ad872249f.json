@@ -1,0 +1,149 @@
+{
+    "overall_goal": "To prepare and cook buns and fried eggs with cheese.",
+    "clips": [
+        {
+            "subgoal": "Preparing the necessary kitchenware and ingredients",
+            "start_timestamp": 244,
+            "stop_timestamp": 619,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking a pan from the cabinet",
+                    "start_timestamp": 244,
+                    "stop_timestamp": 537
+                },
+                {
+                    "secondary_subgoal": "Picking another pan and closing the cabinet door",
+                    "start_timestamp": 537,
+                    "stop_timestamp": 619
+                }
+            ]
+        },
+        {
+            "subgoal": "Starting the cooking process",
+            "start_timestamp": 713,
+            "stop_timestamp": 913,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Putting the pan on the burner and turning on the gas cooker",
+                    "start_timestamp": 713,
+                    "stop_timestamp": 850
+                },
+                {
+                    "secondary_subgoal": "Using a phone briefly",
+                    "start_timestamp": 850,
+                    "stop_timestamp": 913
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling the buns",
+            "start_timestamp": 1599,
+            "stop_timestamp": 2706,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cutting the bun",
+                    "start_timestamp": 1767,
+                    "stop_timestamp": 2105
+                },
+                {
+                    "secondary_subgoal": "Using the microwave for buns",
+                    "start_timestamp": 2173,
+                    "stop_timestamp": 2706
+                }
+            ]
+        },
+        {
+            "subgoal": "Processing the cheese and eggs",
+            "start_timestamp": 3568,
+            "stop_timestamp": 4715,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Placing cheese in the pan and retrieving eggs",
+                    "start_timestamp": 3568,
+                    "stop_timestamp": 4117
+                },
+                {
+                    "secondary_subgoal": "Preparing the eggs by cracking them into the pan",
+                    "start_timestamp": 4264,
+                    "stop_timestamp": 4715
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning up and additional ingredient preparation",
+            "start_timestamp": 4751,
+            "stop_timestamp": 6010,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Washing hands",
+                    "start_timestamp": 4751,
+                    "stop_timestamp": 5129
+                },
+                {
+                    "secondary_subgoal": "Adding powder to the eggs",
+                    "start_timestamp": 5177,
+                    "stop_timestamp": 5561
+                },
+                {
+                    "secondary_subgoal": "Handling the refrigerator - storing eggs and packs",
+                    "start_timestamp": 5754,
+                    "stop_timestamp": 6010
+                }
+            ]
+        },
+        {
+            "subgoal": "Managing the cooked food and handling dog",
+            "start_timestamp": 6449,
+            "stop_timestamp": 9793,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turning the egg over",
+                    "start_timestamp": 6840,
+                    "stop_timestamp": 7218
+                },
+                {
+                    "secondary_subgoal": "Turning off the gas and some housekeeping",
+                    "start_timestamp": 7337,
+                    "stop_timestamp": 7815
+                },
+                {
+                    "secondary_subgoal": "Handling the dog with liquid",
+                    "start_timestamp": 8016,
+                    "stop_timestamp": 8747
+                },
+                {
+                    "secondary_subgoal": "Rinsing hands and drying with towel",
+                    "start_timestamp": 9255,
+                    "stop_timestamp": 9764
+                }
+            ]
+        },
+        {
+            "subgoal": "Retouching the meal and serving",
+            "start_timestamp": 10108,
+            "stop_timestamp": 15120,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Final adjustments to the egg in the pan",
+                    "start_timestamp": 10198,
+                    "stop_timestamp": 11754
+                },
+                {
+                    "secondary_subgoal": "Adding a pack element to the egg",
+                    "start_timestamp": 11899,
+                    "stop_timestamp": 12256
+                },
+                {
+                    "secondary_subgoal": "Handling cheese: add to the egg, store the rest",
+                    "start_timestamp": 12273,
+                    "stop_timestamp": 14167
+                },
+                {
+                    "secondary_subgoal": "Completing the serving of fried eggs with buns",
+                    "start_timestamp": 14394,
+                    "stop_timestamp": 15120
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dg8JR7oMZblTcnVYMbZ6vCP5bawT",
+    "object": "chat.completion",
+    "created": 1719243779,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Prepare a meal involving multiple steps including handling various ingredients and kitchen tools.\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Prepare and place meat in cooking pot\",\n            \"start_timestamp\": 130,\n            \"stop_timestamp\": 726,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Pick up meat from the counter\",\n                    \"start_timestamp\": 130,\n                    \"stop_timestamp\": 196\n                },\n                {\n                    \"secondary_subgoal\": \"Flip the packet of meat\",\n                    \"start_timestamp\": 236,\n                    \"stop_timestamp\": 299\n                },\n                {\n                    \"secondary_subgoal\": \"Obtain and place cooking pot\",\n                    \"start_timestamp\": 391,\n                    \"stop_timestamp\": 585\n                },\n                {\n                    \"secondary_subgoal\": \"Place meat in cooking pot and add water\",\n                    \"start_timestamp\": 585,\n                    \"stop_timestamp\": 726\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Place and heat butter in microwave\",\n            \"start_timestamp\": 1279,\n            \"stop_timestamp\": 1981,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Pick up and move butter\",\n                    \"start_timestamp\": 1279,\n                    \"stop_timestamp\": 1595\n                },\n                {\n                    \"secondary_subgoal\": \"Place butter in microwave\",\n                    \"start_timestamp\": 1836,\n                    \"stop_timestamp\": 1981\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Handle green peas preparation\",\n            \"start_timestamp\": 4218,\n            \"stop_timestamp\": 11180,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Put green peas in a sink\",\n                    \"start_timestamp\": 4841,\n                    \"stop_timestamp\": 4936\n                },\n                {\n                    \"secondary_subgoal\": \"Open green peas, rinse them, and transfer to cooking pot\",\n                    \"start_timestamp\": 5555,\n                    \"stop_timestamp\": 8747\n                },\n                {\n                    \"secondary_subgoal\": \"Further rinse green peas and place on chopping board\",\n                    \"start_timestamp\": 8929,\n                    \"stop_timestamp\": 9079\n                },\n                {\n                    \"secondary_subgoal\": \"Handle green peas on chopping board\",\n                    \"start_timestamp\": 12286,\n                    \"stop_timestamp\": 15236\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Peel and wash cassava\",\n            \"start_timestamp\": 12540,\n            \"stop_timestamp\": 14621,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Pick up and unwrap cassava\",\n                    \"start_timestamp\": 12335,\n                    \"stop_timestamp\": 14154\n                },\n                {\n                    \"secondary_subgoal\": \"Wash cassava\",\n                    \"start_timestamp\": 14154,\n                    \"stop_timestamp\": 14168\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Grate ingredients\",\n            \"start_timestamp\": 17332,\n            \"stop_timestamp\": 21067,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Grate ingredients until finished\",\n                    \"start_timestamp\": 17332,\n                    \"stop_timestamp\": 21067\n                }\n            ]\n        }\n    ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 5626,
+        "completion_tokens": 710,
+        "total_tokens": 6336
+    },
+    "system_fingerprint": "fp_888385ccad"
+}

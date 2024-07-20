@@ -1,0 +1,532 @@
+[
+    {
+        "task_goal": "Prepare initial mixture",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a cup of water.",
+                "start_frame": -1,
+                "stop_frame": 22
+            },
+            {
+                "narration_text": "Holds a spoon.",
+                "start_frame": 22,
+                "stop_frame": 111
+            },
+            {
+                "narration_text": "Stirs a plastic tin on a weighing scale.",
+                "start_frame": 111,
+                "stop_frame": 146
+            },
+            {
+                "narration_text": "Pours water in the plastic tin.",
+                "start_frame": 146,
+                "stop_frame": 243
+            },
+            {
+                "narration_text": "Pours more water in the plastic tin.",
+                "start_frame": 243,
+                "stop_frame": 398
+            },
+            {
+                "narration_text": "Puts the cup of water on the sink.",
+                "start_frame": 398,
+                "stop_frame": 457
+            },
+            {
+                "narration_text": "Stirs water in the plastic tin.",
+                "start_frame": 457,
+                "stop_frame": 933
+            }
+        ]
+    },
+    {
+        "task_goal": "Hold and use various kitchen utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Holds a cup of water.",
+                "start_frame": -1,
+                "stop_frame": 22
+            },
+            {
+                "narration_text": "Holds a spoon.",
+                "start_frame": 22,
+                "stop_frame": 111
+            },
+            {
+                "narration_text": "Stirs a plastic tin on a weighing scale.",
+                "start_frame": 111,
+                "stop_frame": 146
+            },
+            {
+                "narration_text": "Pours water in the plastic tin.",
+                "start_frame": 146,
+                "stop_frame": 243
+            },
+            {
+                "narration_text": "Pours more water in the plastic tin.",
+                "start_frame": 243,
+                "stop_frame": 398
+            },
+            {
+                "narration_text": "Puts the cup of water on the sink.",
+                "start_frame": 398,
+                "stop_frame": 457
+            }
+        ]
+    },
+    {
+        "task_goal": "Pour water into the plastic tin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Pours more water in the plastic tin.",
+                "start_frame": 243,
+                "stop_frame": 398
+            }
+        ]
+    },
+    {
+        "task_goal": "Stir and transfer mixture",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the cup of water on the sink.",
+                "start_frame": 398,
+                "stop_frame": 457
+            },
+            {
+                "narration_text": "Stirs water in the plastic tin.",
+                "start_frame": 457,
+                "stop_frame": 933
+            },
+            {
+                "narration_text": "Takes the plastic tin from the weighing scale.",
+                "start_frame": 933,
+                "stop_frame": 1033
+            },
+            {
+                "narration_text": "Pours the mixture of water in another aluminum tin.",
+                "start_frame": 1033,
+                "stop_frame": 1160
+            },
+            {
+                "narration_text": "Puts the plastic tin on the weighing scale.",
+                "start_frame": 1160,
+                "stop_frame": 1279
+            },
+            {
+                "narration_text": "Adjusts the plastic tin on the weighing scale.",
+                "start_frame": 1279,
+                "stop_frame": 1368
+            },
+            {
+                "narration_text": "Stirs the mixture in the aluminum tin.",
+                "start_frame": 1368,
+                "stop_frame": 1585
+            },
+            {
+                "narration_text": "Removes the extra mixture from the spoon using a chopstick.",
+                "start_frame": 1585,
+                "stop_frame": 1618
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean and rearrange kitchen utensils",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs the mixture in the aluminum tin.",
+                "start_frame": 1368,
+                "stop_frame": 1585
+            },
+            {
+                "narration_text": "Removes the extra mixture from the spoon using a chopstick.",
+                "start_frame": 1585,
+                "stop_frame": 1618
+            },
+            {
+                "narration_text": "Stirs the mixture in the aluminum tin using a chopstick.",
+                "start_frame": 1618,
+                "stop_frame": 1890
+            },
+            {
+                "narration_text": "Wipes off the extra mixture from the chopstick using the spoon.",
+                "start_frame": 1890,
+                "stop_frame": 2283
+            },
+            {
+                "narration_text": "Feels the mixture using the chopstick.",
+                "start_frame": 2283,
+                "stop_frame": 2390
+            },
+            {
+                "narration_text": "Wipes off the chopstick using the spoon.",
+                "start_frame": 2390,
+                "stop_frame": 2556
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean chopsticks and spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Stirs the mixture in the aluminum tin.",
+                "start_frame": 1368,
+                "stop_frame": 1585
+            },
+            {
+                "narration_text": "Removes the extra mixture from the spoon using a chopstick.",
+                "start_frame": 1585,
+                "stop_frame": 1618
+            },
+            {
+                "narration_text": "Stirs the mixture in the aluminum tin using a chopstick.",
+                "start_frame": 1618,
+                "stop_frame": 1890
+            },
+            {
+                "narration_text": "Wipes off the extra mixture from the chopstick using the spoon.",
+                "start_frame": 1890,
+                "stop_frame": 2283
+            }
+        ]
+    },
+    {
+        "task_goal": "Store utensils in their designated places",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Wipes off the chopstick using the spoon.",
+                "start_frame": 2390,
+                "stop_frame": 2556
+            },
+            {
+                "narration_text": "Puts the chopstick in the plastic tin.",
+                "start_frame": 2556,
+                "stop_frame": 2567
+            },
+            {
+                "narration_text": "Puts the spoon in the plastic tin.",
+                "start_frame": 2567,
+                "stop_frame": 2590
+            },
+            {
+                "narration_text": "Takes the plastic tin from the weighing scale.",
+                "start_frame": 2590,
+                "stop_frame": 2605
+            },
+            {
+                "narration_text": "Puts the plastic tin in the sink.",
+                "start_frame": 2605,
+                "stop_frame": 2640
+            },
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 2640,
+                "stop_frame": 2660
+            }
+        ]
+    },
+    {
+        "task_goal": "Rinse plastic tin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Washes the plastic tin.",
+                "start_frame": 4848,
+                "stop_frame": 5400
+            },
+            {
+                "narration_text": "Closes the tap.",
+                "start_frame": 5400,
+                "stop_frame": 5472
+            },
+            {
+                "narration_text": "Puts the spoon a spoon holder.",
+                "start_frame": 5472,
+                "stop_frame": 5507
+            },
+            {
+                "narration_text": "Puts the chopstick in a chopstick holder.",
+                "start_frame": 5507,
+                "stop_frame": 5568
+            },
+            {
+                "narration_text": "Rinses the plastic tin.",
+                "start_frame": 5568,
+                "stop_frame": 5717
+            },
+            {
+                "narration_text": "Clicks on the weighing scale.",
+                "start_frame": 5717,
+                "stop_frame": 5759
+            },
+            {
+                "narration_text": "Takes the weighing scale.",
+                "start_frame": 5759,
+                "stop_frame": 5930
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash and clean the small saucepan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks near the kitchen sink.",
+                "start_frame": 7665,
+                "stop_frame": 7695
+            },
+            {
+                "narration_text": "Touches a chopping board.",
+                "start_frame": 7695,
+                "stop_frame": 7718
+            },
+            {
+                "narration_text": "Touches the spoon holder.",
+                "start_frame": 7718,
+                "stop_frame": 7733
+            },
+            {
+                "narration_text": "Touches the chopsticks holder.",
+                "start_frame": 7733,
+                "stop_frame": 7788
+            },
+            {
+                "narration_text": "Touches a saucepan lid.",
+                "start_frame": 7788,
+                "stop_frame": 7808
+            },
+            {
+                "narration_text": "Opens the saucepan.",
+                "start_frame": 7808,
+                "stop_frame": 7836
+            },
+            {
+                "narration_text": "Takes out a saucepan from the big saucepan.",
+                "start_frame": 7836,
+                "stop_frame": 7862
+            },
+            {
+                "narration_text": "Puts the saucepan lid in the big saucepan.",
+                "start_frame": 7862,
+                "stop_frame": 7946
+            },
+            {
+                "narration_text": "Opens the kitchen tap.",
+                "start_frame": 7946,
+                "stop_frame": 7970
+            },
+            {
+                "narration_text": "Washes the small saucepan.",
+                "start_frame": 7970,
+                "stop_frame": 8122
+            },
+            {
+                "narration_text": "Closes the tap.",
+                "start_frame": 8122,
+                "stop_frame": 8232
+            },
+            {
+                "narration_text": "Opens the tap.",
+                "start_frame": 8232,
+                "stop_frame": 8280
+            },
+            {
+                "narration_text": "Washes the saucepan.",
+                "start_frame": 8280,
+                "stop_frame": 8304
+            },
+            {
+                "narration_text": "Closes the tap.",
+                "start_frame": 8304,
+                "stop_frame": 8411
+            },
+            {
+                "narration_text": "Puts the saucepan on the sink slab.",
+                "start_frame": 8411,
+                "stop_frame": 8535
+            },
+            {
+                "narration_text": "Walks to the fridge.",
+                "start_frame": 8535,
+                "stop_frame": 8550
+            }
+        ]
+    },
+    {
+        "task_goal": "Organize fridge and kitchen slab",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks to the fridge.",
+                "start_frame": 8550,
+                "stop_frame": 8587
+            },
+            {
+                "narration_text": "Opens the fridge.",
+                "start_frame": 8587,
+                "stop_frame": 8709
+            },
+            {
+                "narration_text": "Takes a tin of unsure from the fridge.",
+                "start_frame": 8709,
+                "stop_frame": 8844
+            },
+            {
+                "narration_text": "Puts the tin of unsure on the kitchen slab.",
+                "start_frame": 8844,
+                "stop_frame": 8898
+            },
+            {
+                "narration_text": "Walks to the fridge.",
+                "start_frame": 8898,
+                "stop_frame": 8991
+            },
+            {
+                "narration_text": "Takes polythene bags of onions in the fridge.",
+                "start_frame": 8991,
+                "stop_frame": 9241
+            },
+            {
+                "narration_text": "Closes the fridge.",
+                "start_frame": 9241,
+                "stop_frame": 9363
+            },
+            {
+                "narration_text": "Puts the polythene bags on the kitchen slab.",
+                "start_frame": 9363,
+                "stop_frame": 9424
+            },
+            {
+                "narration_text": "Arranges the saucepan on the kitchen slab.",
+                "start_frame": 9424,
+                "stop_frame": 9438
+            },
+            {
+                "narration_text": "Arranges the tin of unsure on the kitchen slab.",
+                "start_frame": 9438,
+                "stop_frame": 9542
+            },
+            {
+                "narration_text": "Opens the fridge.",
+                "start_frame": 9542,
+                "stop_frame": 9679
+            },
+            {
+                "narration_text": "Takes another polythene bag of unsure",
+                "start_frame": 9679,
+                "stop_frame": 9821
+            },
+            {
+                "narration_text": "Closes the fridge.",
+                "start_frame": 9821,
+                "stop_frame": 9892
+            },
+            {
+                "narration_text": "Walks near the kitchen slab.",
+                "start_frame": 9892,
+                "stop_frame": 9926
+            },
+            {
+                "narration_text": "Puts the polythene bag of unsure on the kitchen slab.",
+                "start_frame": 9926,
+                "stop_frame": 10043
+            }
+        ]
+    },
+    {
+        "task_goal": "Fill and cook dumplings",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Folds the dough",
+                "start_frame": 98524,
+                "stop_frame": 99392
+            },
+            {
+                "narration_text": "Opens the cooking pot",
+                "start_frame": 99392,
+                "stop_frame": 99436
+            },
+            {
+                "narration_text": "Puts the dough in the cooking pot",
+                "start_frame": 99436,
+                "stop_frame": 99467
+            },
+            {
+                "narration_text": "Aligns the doughs in the cooking pot",
+                "start_frame": 99467,
+                "stop_frame": 99622
+            },
+            {
+                "narration_text": "Closes the cooking pot",
+                "start_frame": 99622,
+                "stop_frame": 99651
+            },
+            {
+                "narration_text": "Picks the rolling stick",
+                "start_frame": 99651,
+                "stop_frame": 99705
+            },
+            {
+                "narration_text": "Presses the dough",
+                "start_frame": 99705,
+                "stop_frame": 99795
+            },
+            {
+                "narration_text": "Rolls the dough with a rolling stick",
+                "start_frame": 99795,
+                "stop_frame": 100071
+            },
+            {
+                "narration_text": "Pushes the rolling stick aside",
+                "start_frame": 100071,
+                "stop_frame": 100207
+            },
+            {
+                "narration_text": "Scoops salad from the hotpot",
+                "start_frame": 100207,
+                "stop_frame": 100380
+            },
+            {
+                "narration_text": "Puts salad on the flat dough",
+                "start_frame": 100380,
+                "stop_frame": 100461
+            },
+            {
+                "narration_text": "Scoops the salad from the hotpot",
+                "start_frame": 100461,
+                "stop_frame": 100500
+            },
+            {
+                "narration_text": "Puts the salad on the flat dough",
+                "start_frame": 100500,
+                "stop_frame": 100587
+            },
+            {
+                "narration_text": "Scoops the salad from the hotpot",
+                "start_frame": 100587,
+                "stop_frame": 100634
+            },
+            {
+                "narration_text": "Puts salad on the flat dough",
+                "start_frame": 100634,
+                "stop_frame": 100713
+            },
+            {
+                "narration_text": "Scoops the salad from the hotpot",
+                "start_frame": 100713,
+                "stop_frame": 100773
+            },
+            {
+                "narration_text": "Puts salad on the flat dough",
+                "start_frame": 100773,
+                "stop_frame": 100808
+            },
+            {
+                "narration_text": "Drops the spoon in the hotpot",
+                "start_frame": 100808,
+                "stop_frame": 100868
+            },
+            {
+                "narration_text": "Folds the dough",
+                "start_frame": 100868,
+                "stop_frame": 101735
+            }
+        ]
+    }
+]

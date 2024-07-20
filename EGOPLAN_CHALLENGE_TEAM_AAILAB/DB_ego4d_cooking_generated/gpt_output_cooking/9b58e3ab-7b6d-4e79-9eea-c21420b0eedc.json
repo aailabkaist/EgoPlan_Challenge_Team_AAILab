@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeoogoieIQRPCjUGK6GK2SRs50gV",
+    "object": "chat.completion",
+    "created": 1719477054,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Prepare and cook an omelette and buns, while maintaining cleanliness\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Prepare cookware and turn on stove\",\n            \"start_timestamp\": 39,\n            \"stop_timestamp\": 380,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Get pot and turn on stove\",\n                    \"start_timestamp\": 39,\n                    \"stop_timestamp\": 380\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Prepare and toast buns\",\n            \"start_timestamp\": 380,\n            \"stop_timestamp\": 874,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Retrieve buns and place on pan\",\n                    \"start_timestamp\": 380,\n                    \"stop_timestamp\": 570\n                },\n                {\n                    \"secondary_subgoal\": \"Handle buns while toasting\",\n                    \"start_timestamp\": 570,\n                    \"stop_timestamp\": 874\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Clean the area\",\n            \"start_timestamp\": 874,\n            \"stop_timestamp\": 1843,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Dispose of used paper and clean hands\",\n                    \"start_timestamp\": 874,\n                    \"stop_timestamp\": 1172\n                },\n                {\n                    \"secondary_subgoal\": \"Wipe down surfaces\",\n                    \"start_timestamp\": 1172,\n                    \"stop_timestamp\": 1843\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Prepare ingredients for omelette\",\n            \"start_timestamp\": 1843,\n            \"stop_timestamp\": 3546,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Retrieve eggs and other ingredients\",\n                    \"start_timestamp\": 1843,\n                    \"stop_timestamp\": 2500\n                },\n                {\n                    \"secondary_subgoal\": \"Crack and prepare eggs\",\n                    \"start_timestamp\": 2500,\n                    \"stop_timestamp\": 3546\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Cook omelette\",\n            \"start_timestamp\": 3546,\n            \"stop_timestamp\": 8769,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Add butter and cook eggs\",\n                    \"start_timestamp\": 3546,\n                    \"stop_timestamp\": 5421\n                },\n                {\n                    \"secondary_subgoal\": \"Flip and finish cooking omelette\",\n                    \"start_timestamp\": 5421,\n                    \"stop_timestamp\": 8769\n                }\n            ]\n        },\n        {\n            \"subgoal\": \"Finalize and clean up\",\n            \"start_timestamp\": 8769,\n            \"stop_timestamp\": 15292,\n            \"sub_clips\": [\n                {\n                    \"secondary_subgoal\": \"Plate omelette and add ketchup\",\n                    \"start_timestamp\": 8769,\n                    \"stop_timestamp\": 14469\n                },\n                {\n                    \"secondary_subgoal\": \"Clean up workspace and hands\",\n                    \"start_timestamp\": 14469,\n                    \"stop_timestamp\": 15292\n                }\n            ]\n        }\n    ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 8449,
+        "completion_tokens": 663,
+        "total_tokens": 9112
+    },
+    "system_fingerprint": "fp_d576307f90"
+}

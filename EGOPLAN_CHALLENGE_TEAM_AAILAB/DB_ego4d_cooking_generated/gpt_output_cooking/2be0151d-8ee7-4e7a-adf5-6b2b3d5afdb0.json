@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dt444rUGe49RRK3vKBkV2CizhTu8",
+    "object": "chat.completion",
+    "created": 1719293488,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Preparing a meal involving various ingredients and cooking processes in the kitchen.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Preparation of ingredients and setting up the cooking workspace.\",\n      \"start_timestamp\": 0,\n      \"stop_timestamp\": 476,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Locating and handling cooking equipment.\",\n          \"start_timestamp\": 0,\n          \"stop_timestamp\": 241\n        },\n        {\n          \"secondary_subgoal\": \"Setting up for cooking and initial ingredient handling.\",\n          \"start_timestamp\": 241,\n          \"stop_timestamp\": 407\n        },\n        {\n          \"secondary_subgoal\": \"Setting up the pan for cooking.\",\n          \"start_timestamp\": 407,\n          \"stop_timestamp\": 476\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing onions for cooking.\",\n      \"start_timestamp\": 476,\n      \"stop_timestamp\": 2756,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Retrieving and washing onions.\",\n          \"start_timestamp\": 476,\n          \"stop_timestamp\": 872 \n        },\n        {\n          \"secondary_subgoal\": \"Chopping onions and handling onion waste.\",\n          \"start_timestamp\": 872,\n          \"stop_timestamp\": 1465\n        },\n        {\n          \"secondary_subgoal\": \"Further chopping and putting onions into the pan.\",\n          \"start_timestamp\": 1465,\n          \"stop_timestamp\": 2756\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Adding water and extra ingredients to the pan.\",\n      \"start_timestamp\": 2756,\n      \"stop_timestamp\": 3319,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Washing hands and adding water to the pan.\",\n          \"start_timestamp\": 2756,\n          \"stop_timestamp\": 3235\n        },\n        {\n          \"secondary_subgoal\": \"Handling additional ingredients.\",\n          \"start_timestamp\": 3235,\n          \"stop_timestamp\": 3319\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Handling storage papers and additional ingredients.\",\n      \"start_timestamp\": 3319,\n      \"stop_timestamp\": 12320,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handling ingredients from storage.\",\n          \"start_timestamp\": 3319,\n          \"stop_timestamp\": 4173 \n        },\n        {\n          \"secondary_subgoal\": \"Washing, chopping, and preparing additional ingredients.\",\n          \"start_timestamp\": 4173,\n          \"stop_timestamp\": 12320 \n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Preparing cabbage and additional side ingredients.\",\n      \"start_timestamp\": 12320,\n      \"stop_timestamp\": 21208,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Handling preparation of cabbage.\",\n          \"start_timestamp\": 12320,\n          \"stop_timestamp\": 18737\n        },\n        {\n          \"secondary_subgoal\": \"Handling other additional preparations.\",\n          \"start_timestamp\": 18737,\n          \"stop_timestamp\": 21208\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3441,
+        "completion_tokens": 676,
+        "total_tokens": 4117
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

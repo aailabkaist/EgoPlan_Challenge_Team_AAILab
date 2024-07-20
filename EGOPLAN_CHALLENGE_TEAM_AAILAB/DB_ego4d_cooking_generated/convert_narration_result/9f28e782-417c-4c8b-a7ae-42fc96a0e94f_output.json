@@ -1,0 +1,867 @@
+[
+    {
+        "task_goal": "Pick and rinse the chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Lowers the hand",
+                "start_frame": 1,
+                "stop_frame": 20
+            },
+            {
+                "narration_text": "Picks a chopping board",
+                "start_frame": 20,
+                "stop_frame": 52
+            },
+            {
+                "narration_text": "Runs a faucet",
+                "start_frame": 52,
+                "stop_frame": 69
+            },
+            {
+                "narration_text": "Rinses the chopping board",
+                "start_frame": 69,
+                "stop_frame": 123
+            },
+            {
+                "narration_text": "Turns off the faucet",
+                "start_frame": 123,
+                "stop_frame": 152
+            },
+            {
+                "narration_text": "Places the chopping board on the kitchen counter",
+                "start_frame": 152,
+                "stop_frame": 158
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare the knife and the onion",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns off the faucet",
+                "start_frame": 123,
+                "stop_frame": 152
+            },
+            {
+                "narration_text": "Places the chopping board on the kitchen counter",
+                "start_frame": 152,
+                "stop_frame": 158
+            },
+            {
+                "narration_text": "Touches the chopping board",
+                "start_frame": 158,
+                "stop_frame": 177
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 177,
+                "stop_frame": 211
+            },
+            {
+                "narration_text": "Picks a knife",
+                "start_frame": 211,
+                "stop_frame": 257
+            },
+            {
+                "narration_text": "Picks piece of white onion",
+                "start_frame": 257,
+                "stop_frame": 285
+            },
+            {
+                "narration_text": "Removes the cling film from the white onion",
+                "start_frame": 285,
+                "stop_frame": 376
+            },
+            {
+                "narration_text": "Moves the cling film on the counter",
+                "start_frame": 376,
+                "stop_frame": 391
+            },
+            {
+                "narration_text": "Drops the cling film",
+                "start_frame": 391,
+                "stop_frame": 456
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut the white onion",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves the cling film on the counter",
+                "start_frame": 376,
+                "stop_frame": 391
+            },
+            {
+                "narration_text": "Drops the cling film",
+                "start_frame": 391,
+                "stop_frame": 456
+            },
+            {
+                "narration_text": "Turns the white onion",
+                "start_frame": 456,
+                "stop_frame": 480
+            },
+            {
+                "narration_text": "Cuts the white onion",
+                "start_frame": 480,
+                "stop_frame": 659
+            },
+            {
+                "narration_text": "Wipes the knife",
+                "start_frame": 659,
+                "stop_frame": 692
+            }
+        ]
+    },
+    {
+        "task_goal": "Clear the chopping board and organize",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Cuts the white onion",
+                "start_frame": 480,
+                "stop_frame": 659
+            },
+            {
+                "narration_text": "Wipes the knife",
+                "start_frame": 659,
+                "stop_frame": 692
+            },
+            {
+                "narration_text": "Turns the white onion",
+                "start_frame": 692,
+                "stop_frame": 813
+            },
+            {
+                "narration_text": "Wipes the knife",
+                "start_frame": 813,
+                "stop_frame": 867
+            },
+            {
+                "narration_text": "Clears the chopping board",
+                "start_frame": 867,
+                "stop_frame": 1182
+            },
+            {
+                "narration_text": "Wipes the knife",
+                "start_frame": 1182,
+                "stop_frame": 1204
+            },
+            {
+                "narration_text": "Picks a piece of white onion",
+                "start_frame": 1204,
+                "stop_frame": 1241
+            },
+            {
+                "narration_text": "Places a piece of white onion on the chopping board",
+                "start_frame": 1241,
+                "stop_frame": 1251
+            },
+            {
+                "narration_text": "Drops the knife",
+                "start_frame": 1251,
+                "stop_frame": 1253
+            },
+            {
+                "narration_text": "Adjusts the chopping board",
+                "start_frame": 1253,
+                "stop_frame": 1263
+            },
+            {
+                "narration_text": "Picks a used cling film",
+                "start_frame": 1263,
+                "stop_frame": 1273
+            },
+            {
+                "narration_text": "Folds the cling film",
+                "start_frame": 1273,
+                "stop_frame": 1293
+            },
+            {
+                "narration_text": "Walks in the kitchen",
+                "start_frame": 1293,
+                "stop_frame": 1315
+            },
+            {
+                "narration_text": "Opens the trash bin",
+                "start_frame": 1315,
+                "stop_frame": 1343
+            },
+            {
+                "narration_text": "Throws the used cling film in the bin",
+                "start_frame": 1343,
+                "stop_frame": 1365
+            },
+            {
+                "narration_text": "Walks in the kitchen",
+                "start_frame": 1365,
+                "stop_frame": 1390
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 1390,
+                "stop_frame": 1464
+            }
+        ]
+    },
+    {
+        "task_goal": "Add ingredient to the pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 1390,
+                "stop_frame": 1464
+            },
+            {
+                "narration_text": "Picks a bottle of ingredient",
+                "start_frame": 1464,
+                "stop_frame": 1473
+            },
+            {
+                "narration_text": "Closes the drawer",
+                "start_frame": 1473,
+                "stop_frame": 1507
+            },
+            {
+                "narration_text": "Opens the bottle of ingredient",
+                "start_frame": 1507,
+                "stop_frame": 1536
+            },
+            {
+                "narration_text": "Pours the ingredient in the pan",
+                "start_frame": 1536,
+                "stop_frame": 1616
+            },
+            {
+                "narration_text": "Seals the bottle of the ingredient",
+                "start_frame": 1616,
+                "stop_frame": 1657
+            },
+            {
+                "narration_text": "Drops the bottle of ingredient",
+                "start_frame": 1657,
+                "stop_frame": 1658
+            },
+            {
+                "narration_text": "Picks the chopping board with white onion",
+                "start_frame": 1658,
+                "stop_frame": 1683
+            }
+        ]
+    },
+    {
+        "task_goal": "Move and cook the white onions",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Drops the bottle of ingredient",
+                "start_frame": 1657,
+                "stop_frame": 1658
+            },
+            {
+                "narration_text": "Picks the chopping board with white onion",
+                "start_frame": 1658,
+                "stop_frame": 1683
+            },
+            {
+                "narration_text": "Picks the knife",
+                "start_frame": 1683,
+                "stop_frame": 1751
+            },
+            {
+                "narration_text": "Puts the white onions in the pan",
+                "start_frame": 1751,
+                "stop_frame": 1844
+            },
+            {
+                "narration_text": "Aligns the pieces of onions in the pan",
+                "start_frame": 1844,
+                "stop_frame": 1879
+            },
+            {
+                "narration_text": "Drops the chopping board",
+                "start_frame": 1879,
+                "stop_frame": 1951
+            },
+            {
+                "narration_text": "Opens the drawer",
+                "start_frame": 1951,
+                "stop_frame": 1977
+            },
+            {
+                "narration_text": "Picks the chop sticks",
+                "start_frame": 1977,
+                "stop_frame": 2021
+            },
+            {
+                "narration_text": "Stirs the onions in the pan",
+                "start_frame": 2021,
+                "stop_frame": 2352
+            },
+            {
+                "narration_text": "Picks a piece of onion",
+                "start_frame": 2352,
+                "stop_frame": 2426
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare strips of bacon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves the bowl with strips of bacon",
+                "start_frame": 6481,
+                "stop_frame": 6507
+            },
+            {
+                "narration_text": "Removes the cling film from the strips of bacon",
+                "start_frame": 6507,
+                "stop_frame": 6571
+            },
+            {
+                "narration_text": "Picks the strips of bacon",
+                "start_frame": 6571,
+                "stop_frame": 6720
+            },
+            {
+                "narration_text": "Places the strips of bacon in the chopping board",
+                "start_frame": 6720,
+                "stop_frame": 6741
+            },
+            {
+                "narration_text": "Straightens the strips of bacon",
+                "start_frame": 6741,
+                "stop_frame": 7388
+            },
+            {
+                "narration_text": "Picks the knife",
+                "start_frame": 7388,
+                "stop_frame": 7416
+            },
+            {
+                "narration_text": "Cuts the strips of bacon",
+                "start_frame": 7416,
+                "stop_frame": 7612
+            },
+            {
+                "narration_text": "Collects the pieces of bacon on the chopping board",
+                "start_frame": 7612,
+                "stop_frame": 7638
+            },
+            {
+                "narration_text": "Drops the knife",
+                "start_frame": 7638,
+                "stop_frame": 7647
+            },
+            {
+                "narration_text": "Picks the pieces of bacon",
+                "start_frame": 7647,
+                "stop_frame": 7702
+            },
+            {
+                "narration_text": "Places the pieces of bacon in the pan",
+                "start_frame": 7702,
+                "stop_frame": 7736
+            },
+            {
+                "narration_text": "Picks the pieces of bacon",
+                "start_frame": 7736,
+                "stop_frame": 7748
+            },
+            {
+                "narration_text": "Picks the chop sticks",
+                "start_frame": 7748,
+                "stop_frame": 7782
+            },
+            {
+                "narration_text": "Places the pieces of bacon in the pan",
+                "start_frame": 7782,
+                "stop_frame": 7813
+            },
+            {
+                "narration_text": "Folds the cling film",
+                "start_frame": 7813,
+                "stop_frame": 7860
+            },
+            {
+                "narration_text": "Picks the food container",
+                "start_frame": 7860,
+                "stop_frame": 7886
+            }
+        ]
+    },
+    {
+        "task_goal": "Operate cooker and finalize ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Walks around a room",
+                "start_frame": 10619,
+                "stop_frame": 10662
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 10662,
+                "stop_frame": 10713
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 10713,
+                "stop_frame": 10729
+            },
+            {
+                "narration_text": "Turns a box",
+                "start_frame": 10729,
+                "stop_frame": 10748
+            },
+            {
+                "narration_text": "Reads",
+                "start_frame": 10748,
+                "stop_frame": 10842
+            },
+            {
+                "narration_text": "Removes unsure",
+                "start_frame": 10842,
+                "stop_frame": 10873
+            },
+            {
+                "narration_text": "Reads",
+                "start_frame": 10873,
+                "stop_frame": 11093
+            },
+            {
+                "narration_text": "Returns unsure",
+                "start_frame": 11093,
+                "stop_frame": 11138
+            },
+            {
+                "narration_text": "Drops unsure",
+                "start_frame": 11138,
+                "stop_frame": 11168
+            },
+            {
+                "narration_text": "Opens drawer",
+                "start_frame": 11168,
+                "stop_frame": 11197
+            },
+            {
+                "narration_text": "Picks plastic tumbler",
+                "start_frame": 11197,
+                "stop_frame": 11302
+            },
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 11302,
+                "stop_frame": 11330
+            },
+            {
+                "narration_text": "Fetches water",
+                "start_frame": 11330,
+                "stop_frame": 11353
+            },
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 11353,
+                "stop_frame": 11383
+            },
+            {
+                "narration_text": "Moves around a kitchen",
+                "start_frame": 11383,
+                "stop_frame": 11433
+            }
+        ]
+    },
+    {
+        "task_goal": "Add water to the frying pan",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves around a kitchen",
+                "start_frame": 11383,
+                "stop_frame": 11433
+            },
+            {
+                "narration_text": "Adds water in a frying pan",
+                "start_frame": 11433,
+                "stop_frame": 11485
+            },
+            {
+                "narration_text": "Walks towards a sink",
+                "start_frame": 11485,
+                "stop_frame": 11508
+            },
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 11508,
+                "stop_frame": 11560
+            },
+            {
+                "narration_text": "Fetches water",
+                "start_frame": 11560,
+                "stop_frame": 11567
+            },
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 11567,
+                "stop_frame": 11582
+            },
+            {
+                "narration_text": "Walks around a room",
+                "start_frame": 11582,
+                "stop_frame": 11617
+            },
+            {
+                "narration_text": "Adds water",
+                "start_frame": 11617,
+                "stop_frame": 11648
+            },
+            {
+                "narration_text": "Drops plastic tumbler",
+                "start_frame": 11648,
+                "stop_frame": 11679
+            },
+            {
+                "narration_text": "Picks chop sticks",
+                "start_frame": 11679,
+                "stop_frame": 11688
+            },
+            {
+                "narration_text": "Stirs unsure",
+                "start_frame": 11688,
+                "stop_frame": 11909
+            },
+            {
+                "narration_text": "Picks tumbler",
+                "start_frame": 11909,
+                "stop_frame": 11933
+            },
+            {
+                "narration_text": "Stirs tomatoes and onions",
+                "start_frame": 11933,
+                "stop_frame": 11991
+            }
+        ]
+    },
+    {
+        "task_goal": "Arrange tomatoes on a plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Arranges tomato",
+                "start_frame": 15402,
+                "stop_frame": 15435
+            },
+            {
+                "narration_text": "Picks tomato",
+                "start_frame": 15435,
+                "stop_frame": 15474
+            },
+            {
+                "narration_text": "Picks tomatoes",
+                "start_frame": 15474,
+                "stop_frame": 15503
+            },
+            {
+                "narration_text": "Drops tomatoes",
+                "start_frame": 15503,
+                "stop_frame": 15581
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 15581,
+                "stop_frame": 15613
+            },
+            {
+                "narration_text": "Switches cooker",
+                "start_frame": 15613,
+                "stop_frame": 15635
+            },
+            {
+                "narration_text": "Walks towards a fridge",
+                "start_frame": 15635,
+                "stop_frame": 15649
+            },
+            {
+                "narration_text": "Opens a fridge",
+                "start_frame": 15649,
+                "stop_frame": 15700
+            }
+        ]
+    },
+    {
+        "task_goal": "Final cooking steps",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens a fridge",
+                "start_frame": 15649,
+                "stop_frame": 15700
+            },
+            {
+                "narration_text": "Moves cup",
+                "start_frame": 15700,
+                "stop_frame": 15745
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 15745,
+                "stop_frame": 15784
+            },
+            {
+                "narration_text": "Removes hand from a fridge",
+                "start_frame": 15784,
+                "stop_frame": 15797
+            },
+            {
+                "narration_text": "Lifts unsure",
+                "start_frame": 15797,
+                "stop_frame": 15831
+            },
+            {
+                "narration_text": "Covers cup",
+                "start_frame": 15831,
+                "stop_frame": 15857
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 15857,
+                "stop_frame": 15957
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 15957,
+                "stop_frame": 15985
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 15985,
+                "stop_frame": 16033
+            },
+            {
+                "narration_text": "Drops unsure",
+                "start_frame": 16033,
+                "stop_frame": 16064
+            },
+            {
+                "narration_text": "Opens unsure",
+                "start_frame": 16064,
+                "stop_frame": 16111
+            },
+            {
+                "narration_text": "Switches cooker",
+                "start_frame": 16111,
+                "stop_frame": 16140
+            },
+            {
+                "narration_text": "Picks chop sticks",
+                "start_frame": 16140,
+                "stop_frame": 16168
+            },
+            {
+                "narration_text": "Opens lid",
+                "start_frame": 16168,
+                "stop_frame": 16200
+            },
+            {
+                "narration_text": "Stirs unsure",
+                "start_frame": 16200,
+                "stop_frame": 16288
+            },
+            {
+                "narration_text": "Stops to stir",
+                "start_frame": 16288,
+                "stop_frame": 16294
+            },
+            {
+                "narration_text": "Covers lid",
+                "start_frame": 16294,
+                "stop_frame": 16317
+            },
+            {
+                "narration_text": "Drops chop sticks on a lid",
+                "start_frame": 16317,
+                "stop_frame": 16403
+            },
+            {
+                "narration_text": "Rotates unsure",
+                "start_frame": 16403,
+                "stop_frame": 16455
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 16455,
+                "stop_frame": 16550
+            }
+        ]
+    },
+    {
+        "task_goal": "Operate the cooker and stir ingredients",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens a fridge",
+                "start_frame": 15649,
+                "stop_frame": 15700
+            },
+            {
+                "narration_text": "Moves cup",
+                "start_frame": 15700,
+                "stop_frame": 15745
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 15745,
+                "stop_frame": 15784
+            },
+            {
+                "narration_text": "Removes hand from a fridge",
+                "start_frame": 15784,
+                "stop_frame": 15797
+            },
+            {
+                "narration_text": "Lifts unsure",
+                "start_frame": 15797,
+                "stop_frame": 15831
+            },
+            {
+                "narration_text": "Covers cup",
+                "start_frame": 15831,
+                "stop_frame": 15857
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 15857,
+                "stop_frame": 15957
+            },
+            {
+                "narration_text": "Closes fridge",
+                "start_frame": 15957,
+                "stop_frame": 15985
+            },
+            {
+                "narration_text": "Walks around a kitchen",
+                "start_frame": 15985,
+                "stop_frame": 16033
+            },
+            {
+                "narration_text": "Drops unsure",
+                "start_frame": 16033,
+                "stop_frame": 16064
+            },
+            {
+                "narration_text": "Opens unsure",
+                "start_frame": 16064,
+                "stop_frame": 16111
+            },
+            {
+                "narration_text": "Switches cooker",
+                "start_frame": 16111,
+                "stop_frame": 16140
+            },
+            {
+                "narration_text": "Picks chop sticks",
+                "start_frame": 16140,
+                "stop_frame": 16168
+            },
+            {
+                "narration_text": "Opens lid",
+                "start_frame": 16168,
+                "stop_frame": 16200
+            },
+            {
+                "narration_text": "Stirs unsure",
+                "start_frame": 16200,
+                "stop_frame": 16288
+            },
+            {
+                "narration_text": "Stops to stir",
+                "start_frame": 16288,
+                "stop_frame": 16294
+            },
+            {
+                "narration_text": "Covers lid",
+                "start_frame": 16294,
+                "stop_frame": 16317
+            },
+            {
+                "narration_text": "Drops chop sticks on a lid",
+                "start_frame": 16317,
+                "stop_frame": 16403
+            },
+            {
+                "narration_text": "Rotates unsure",
+                "start_frame": 16403,
+                "stop_frame": 16455
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 16455,
+                "stop_frame": 16550
+            }
+        ]
+    },
+    {
+        "task_goal": "Clean and rinse trays",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Turns on faucet",
+                "start_frame": 20087,
+                "stop_frame": 20134
+            },
+            {
+                "narration_text": "Picks tray",
+                "start_frame": 20134,
+                "stop_frame": 20160
+            },
+            {
+                "narration_text": "Rinses tray",
+                "start_frame": 20160,
+                "stop_frame": 20192
+            },
+            {
+                "narration_text": "Pours water in a sink",
+                "start_frame": 20192,
+                "stop_frame": 20240
+            },
+            {
+                "narration_text": "Rinses tray",
+                "start_frame": 20240,
+                "stop_frame": 20326
+            },
+            {
+                "narration_text": "Shakes off water",
+                "start_frame": 20326,
+                "stop_frame": 20353
+            },
+            {
+                "narration_text": "Puts tray in a rack",
+                "start_frame": 20353,
+                "stop_frame": 20386
+            },
+            {
+                "narration_text": "Rinses hands",
+                "start_frame": 20386,
+                "stop_frame": 20427
+            },
+            {
+                "narration_text": "Drains water",
+                "start_frame": 20427,
+                "stop_frame": 20445
+            },
+            {
+                "narration_text": "Rinses hands",
+                "start_frame": 20445,
+                "stop_frame": 20487
+            },
+            {
+                "narration_text": "Turns off faucet",
+                "start_frame": 20487,
+                "stop_frame": 20513
+            },
+            {
+                "narration_text": "Steps ahead",
+                "start_frame": 20513,
+                "stop_frame": 20537
+            },
+            {
+                "narration_text": "Dries hands with a hand towel",
+                "start_frame": 20537,
+                "stop_frame": 20590
+            }
+        ]
+    }
+]

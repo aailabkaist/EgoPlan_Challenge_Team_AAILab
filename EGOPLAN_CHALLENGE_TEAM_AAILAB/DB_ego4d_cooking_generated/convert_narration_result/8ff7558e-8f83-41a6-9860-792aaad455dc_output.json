@@ -1,0 +1,436 @@
+[
+    {
+        "task_goal": "Gather and prepare meal items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves around the kitchen",
+                "start_frame": -1,
+                "stop_frame": 1558
+            },
+            {
+                "narration_text": "Looks around the kitchen",
+                "start_frame": 1558,
+                "stop_frame": 1743
+            },
+            {
+                "narration_text": "Picks a plate",
+                "start_frame": 1743,
+                "stop_frame": 1762
+            },
+            {
+                "narration_text": "Holds a plate",
+                "start_frame": 1762,
+                "stop_frame": 1892
+            },
+            {
+                "narration_text": "Puts the plate down",
+                "start_frame": 1892,
+                "stop_frame": 1934
+            },
+            {
+                "narration_text": "Looks around the kitchen",
+                "start_frame": 1934,
+                "stop_frame": 2015
+            },
+            {
+                "narration_text": "Picks a bottle",
+                "start_frame": 2015,
+                "stop_frame": 2063
+            },
+            {
+                "narration_text": "Pours drink",
+                "start_frame": 2063,
+                "stop_frame": 2152
+            },
+            {
+                "narration_text": "Puts the bottle down",
+                "start_frame": 2152,
+                "stop_frame": 2186
+            },
+            {
+                "narration_text": "Looks around the kitchen",
+                "start_frame": 2186,
+                "stop_frame": 2234
+            },
+            {
+                "narration_text": "Pours drink",
+                "start_frame": 2234,
+                "stop_frame": 2320
+            },
+            {
+                "narration_text": "Puts the bottle down",
+                "start_frame": 2320,
+                "stop_frame": 2341
+            },
+            {
+                "narration_text": "Carries the bottle",
+                "start_frame": 2341,
+                "stop_frame": 2401
+            },
+            {
+                "narration_text": "Throws the bottle",
+                "start_frame": 2401,
+                "stop_frame": 2508
+            },
+            {
+                "narration_text": "Walks in kitchen",
+                "start_frame": 2508,
+                "stop_frame": 2617
+            },
+            {
+                "narration_text": "Moves the plate",
+                "start_frame": 2617,
+                "stop_frame": 2696
+            },
+            {
+                "narration_text": "Opens the microwave",
+                "start_frame": 2696,
+                "stop_frame": 2832
+            },
+            {
+                "narration_text": "Touches the food",
+                "start_frame": 2832,
+                "stop_frame": 2893
+            }
+        ]
+    },
+    {
+        "task_goal": "Select and gather items for meal",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Moves around the kitchen",
+                "start_frame": -1,
+                "stop_frame": 1558
+            },
+            {
+                "narration_text": "Looks around the kitchen",
+                "start_frame": 1558,
+                "stop_frame": 1743
+            },
+            {
+                "narration_text": "Picks a plate",
+                "start_frame": 1743,
+                "stop_frame": 1762
+            },
+            {
+                "narration_text": "Holds a plate",
+                "start_frame": 1762,
+                "stop_frame": 1892
+            },
+            {
+                "narration_text": "Puts the plate down",
+                "start_frame": 1892,
+                "stop_frame": 1934
+            },
+            {
+                "narration_text": "Looks around the kitchen",
+                "start_frame": 1934,
+                "stop_frame": 2015
+            },
+            {
+                "narration_text": "Picks a bottle",
+                "start_frame": 2015,
+                "stop_frame": 2063
+            },
+            {
+                "narration_text": "Pours drink",
+                "start_frame": 2063,
+                "stop_frame": 2152
+            },
+            {
+                "narration_text": "Puts the bottle down",
+                "start_frame": 2152,
+                "stop_frame": 2186
+            },
+            {
+                "narration_text": "Looks around the kitchen",
+                "start_frame": 2186,
+                "stop_frame": 2234
+            },
+            {
+                "narration_text": "Pours drink",
+                "start_frame": 2234,
+                "stop_frame": 2320
+            },
+            {
+                "narration_text": "Puts the bottle down",
+                "start_frame": 2320,
+                "stop_frame": 2341
+            },
+            {
+                "narration_text": "Carries the bottle",
+                "start_frame": 2341,
+                "stop_frame": 2401
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare the meal in the microwave",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Carries the bottle",
+                "start_frame": 2341,
+                "stop_frame": 2401
+            },
+            {
+                "narration_text": "Throws the bottle",
+                "start_frame": 2401,
+                "stop_frame": 2508
+            },
+            {
+                "narration_text": "Walks in kitchen",
+                "start_frame": 2508,
+                "stop_frame": 2617
+            },
+            {
+                "narration_text": "Moves the plate",
+                "start_frame": 2617,
+                "stop_frame": 2696
+            },
+            {
+                "narration_text": "Opens the microwave",
+                "start_frame": 2696,
+                "stop_frame": 2832
+            },
+            {
+                "narration_text": "Touches the food",
+                "start_frame": 2832,
+                "stop_frame": 2893
+            }
+        ]
+    },
+    {
+        "task_goal": "Consume the meal",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the microwave",
+                "start_frame": 2696,
+                "stop_frame": 2832
+            },
+            {
+                "narration_text": "Touches the food",
+                "start_frame": 2832,
+                "stop_frame": 2893
+            },
+            {
+                "narration_text": "Closes the microwave",
+                "start_frame": 2893,
+                "stop_frame": 2929
+            },
+            {
+                "narration_text": "Presses microwave buttons",
+                "start_frame": 2929,
+                "stop_frame": 3319
+            },
+            {
+                "narration_text": "Moves in the kitchen",
+                "start_frame": 3319,
+                "stop_frame": 3416
+            },
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 3416,
+                "stop_frame": 3508
+            },
+            {
+                "narration_text": "Picks a bottle",
+                "start_frame": 3508,
+                "stop_frame": 3563
+            },
+            {
+                "narration_text": "Moves in the kitchen",
+                "start_frame": 3563,
+                "stop_frame": 3626
+            },
+            {
+                "narration_text": "Moves hand",
+                "start_frame": 3626,
+                "stop_frame": 3755
+            },
+            {
+                "narration_text": "Looks around the kitchen",
+                "start_frame": 3755,
+                "stop_frame": 3780
+            },
+            {
+                "narration_text": "Holds food",
+                "start_frame": 3780,
+                "stop_frame": 3814
+            },
+            {
+                "narration_text": "Looks around the kitchen",
+                "start_frame": 3814,
+                "stop_frame": 3995
+            },
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 3995,
+                "stop_frame": 4063
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 4063,
+                "stop_frame": 4111
+            },
+            {
+                "narration_text": "Looks around the kitchen",
+                "start_frame": 4111,
+                "stop_frame": 4222
+            }
+        ]
+    },
+    {
+        "task_goal": "Take out food after microwaving",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Opens the microwave",
+                "start_frame": 2696,
+                "stop_frame": 2832
+            },
+            {
+                "narration_text": "Touches the food",
+                "start_frame": 2832,
+                "stop_frame": 2893
+            },
+            {
+                "narration_text": "Closes the microwave",
+                "start_frame": 2893,
+                "stop_frame": 2929
+            },
+            {
+                "narration_text": "Presses microwave buttons",
+                "start_frame": 2929,
+                "stop_frame": 3319
+            }
+        ]
+    },
+    {
+        "task_goal": "Setup the microwave",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Closes the microwave",
+                "start_frame": 2893,
+                "stop_frame": 2929
+            },
+            {
+                "narration_text": "Presses microwave buttons",
+                "start_frame": 2929,
+                "stop_frame": 3319
+            },
+            {
+                "narration_text": "Moves in the kitchen",
+                "start_frame": 3319,
+                "stop_frame": 3416
+            }
+        ]
+    },
+    {
+        "task_goal": "Prepare drink for consumption",
+        "task_progress_metadata": []
+    },
+    {
+        "task_goal": "Move to dining area and consume",
+        "task_progress_metadata": [
+            {
+                "narration_text": "Puts the bottle down",
+                "start_frame": 2320,
+                "stop_frame": 2341
+            },
+            {
+                "narration_text": "Carries the bottle",
+                "start_frame": 2341,
+                "stop_frame": 2401
+            },
+            {
+                "narration_text": "Throws the bottle",
+                "start_frame": 2401,
+                "stop_frame": 2508
+            },
+            {
+                "narration_text": "Walks in kitchen",
+                "start_frame": 2508,
+                "stop_frame": 2617
+            },
+            {
+                "narration_text": "Moves the plate",
+                "start_frame": 2617,
+                "stop_frame": 2696
+            },
+            {
+                "narration_text": "Opens the microwave",
+                "start_frame": 2696,
+                "stop_frame": 2832
+            },
+            {
+                "narration_text": "Touches the food",
+                "start_frame": 2832,
+                "stop_frame": 2893
+            },
+            {
+                "narration_text": "Closes the microwave",
+                "start_frame": 2893,
+                "stop_frame": 2929
+            },
+            {
+                "narration_text": "Presses microwave buttons",
+                "start_frame": 2929,
+                "stop_frame": 3319
+            },
+            {
+                "narration_text": "Moves in the kitchen",
+                "start_frame": 3319,
+                "stop_frame": 3416
+            },
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 3416,
+                "stop_frame": 3508
+            },
+            {
+                "narration_text": "Picks a bottle",
+                "start_frame": 3508,
+                "stop_frame": 3563
+            },
+            {
+                "narration_text": "Moves in the kitchen",
+                "start_frame": 3563,
+                "stop_frame": 3626
+            },
+            {
+                "narration_text": "Moves hand",
+                "start_frame": 3626,
+                "stop_frame": 3755
+            },
+            {
+                "narration_text": "Looks around the kitchen",
+                "start_frame": 3755,
+                "stop_frame": 3780
+            },
+            {
+                "narration_text": "Holds food",
+                "start_frame": 3780,
+                "stop_frame": 3814
+            },
+            {
+                "narration_text": "Looks around the kitchen",
+                "start_frame": 3814,
+                "stop_frame": 3995
+            },
+            {
+                "narration_text": "Opens fridge",
+                "start_frame": 3995,
+                "stop_frame": 4063
+            },
+            {
+                "narration_text": "Picks unsure",
+                "start_frame": 4063,
+                "stop_frame": 4111
+            },
+            {
+                "narration_text": "Looks around the kitchen",
+                "start_frame": 4111,
+                "stop_frame": 4222
+            }
+        ]
+    }
+]

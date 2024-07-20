@@ -1,0 +1,1937 @@
+[
+    {
+        "task_goal": "Setting the camera",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C sets the camera.",
+                "start_frame": 1,
+                "stop_frame": 342
+            },
+            {
+                "narration_text": "#C C cuts fruits.",
+                "start_frame": 342,
+                "stop_frame": 1019
+            }
+        ]
+    },
+    {
+        "task_goal": "Cutting fruits",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C sets the camera.",
+                "start_frame": 1,
+                "stop_frame": 342
+            },
+            {
+                "narration_text": "#C C cuts fruits.",
+                "start_frame": 342,
+                "stop_frame": 1019
+            },
+            {
+                "narration_text": "#C C collects fruits.",
+                "start_frame": 1019,
+                "stop_frame": 1114
+            }
+        ]
+    },
+    {
+        "task_goal": "Collecting fruits",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cuts fruits.",
+                "start_frame": 342,
+                "stop_frame": 1019
+            },
+            {
+                "narration_text": "#C C collects fruits.",
+                "start_frame": 1019,
+                "stop_frame": 1114
+            },
+            {
+                "narration_text": "#C C puts the fruits remains in the bin.",
+                "start_frame": 1114,
+                "stop_frame": 1308
+            }
+        ]
+    },
+    {
+        "task_goal": "Disposing of fruit remains",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C collects fruits.",
+                "start_frame": 1019,
+                "stop_frame": 1114
+            },
+            {
+                "narration_text": "#C C puts the fruits remains in the bin.",
+                "start_frame": 1114,
+                "stop_frame": 1308
+            },
+            {
+                "narration_text": "#C C cuts fruits.",
+                "start_frame": 1308,
+                "stop_frame": 3139
+            }
+        ]
+    },
+    {
+        "task_goal": "Cutting more fruits",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the fruits remains in the bin.",
+                "start_frame": 1114,
+                "stop_frame": 1308
+            },
+            {
+                "narration_text": "#C C cuts fruits.",
+                "start_frame": 1308,
+                "stop_frame": 3139
+            },
+            {
+                "narration_text": "#C C wipes the knife with hands.",
+                "start_frame": 3139,
+                "stop_frame": 3292
+            }
+        ]
+    },
+    {
+        "task_goal": "Wiping the knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C cuts fruits.",
+                "start_frame": 1308,
+                "stop_frame": 3139
+            },
+            {
+                "narration_text": "#C C wipes the knife with hands.",
+                "start_frame": 3139,
+                "stop_frame": 3292
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 3292,
+                "stop_frame": 3417
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C wipes the knife with hands.",
+                "start_frame": 3139,
+                "stop_frame": 3292
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 3292,
+                "stop_frame": 3417
+            },
+            {
+                "narration_text": "#C C opens the drawer.",
+                "start_frame": 3417,
+                "stop_frame": 3647
+            }
+        ]
+    },
+    {
+        "task_goal": "Getting a fork",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 3292,
+                "stop_frame": 3417
+            },
+            {
+                "narration_text": "#C C opens the drawer.",
+                "start_frame": 3417,
+                "stop_frame": 3647
+            },
+            {
+                "narration_text": "#C C takes a folk from the drawer.",
+                "start_frame": 3647,
+                "stop_frame": 3659
+            },
+            {
+                "narration_text": "#C C closes the drawer.",
+                "start_frame": 3659,
+                "stop_frame": 3723
+            }
+        ]
+    },
+    {
+        "task_goal": "Closing the drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes a folk from the drawer.",
+                "start_frame": 3647,
+                "stop_frame": 3659
+            },
+            {
+                "narration_text": "#C C closes the drawer.",
+                "start_frame": 3659,
+                "stop_frame": 3723
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 3723,
+                "stop_frame": 3821
+            }
+        ]
+    },
+    {
+        "task_goal": "Smashing the fruits",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the drawer.",
+                "start_frame": 3659,
+                "stop_frame": 3723
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 3723,
+                "stop_frame": 3821
+            },
+            {
+                "narration_text": "#C C smashes the fruits..",
+                "start_frame": 3821,
+                "stop_frame": 7785
+            },
+            {
+                "narration_text": "#C C puts together smashed fruits.",
+                "start_frame": 7785,
+                "stop_frame": 7998
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting together smashed fruits",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C smashes the fruits..",
+                "start_frame": 3821,
+                "stop_frame": 7785
+            },
+            {
+                "narration_text": "#C C puts together smashed fruits.",
+                "start_frame": 7785,
+                "stop_frame": 7998
+            },
+            {
+                "narration_text": "#C C clears the hands.",
+                "start_frame": 7998,
+                "stop_frame": 8369
+            }
+        ]
+    },
+    {
+        "task_goal": "Clearing the hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts together smashed fruits.",
+                "start_frame": 7785,
+                "stop_frame": 7998
+            },
+            {
+                "narration_text": "#C C clears the hands.",
+                "start_frame": 7998,
+                "stop_frame": 8369
+            },
+            {
+                "narration_text": "#C C puts together smashed fruits.",
+                "start_frame": 8369,
+                "stop_frame": 8432
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting together smashed fruits",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C clears the hands.",
+                "start_frame": 7998,
+                "stop_frame": 8369
+            },
+            {
+                "narration_text": "#C C puts together smashed fruits.",
+                "start_frame": 8369,
+                "stop_frame": 8432
+            },
+            {
+                "narration_text": "#C C smashes the fruits.",
+                "start_frame": 8432,
+                "stop_frame": 8523
+            }
+        ]
+    },
+    {
+        "task_goal": "Smashing the fruits again",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts together smashed fruits.",
+                "start_frame": 8369,
+                "stop_frame": 8432
+            },
+            {
+                "narration_text": "#C C smashes the fruits.",
+                "start_frame": 8432,
+                "stop_frame": 8523
+            },
+            {
+                "narration_text": "#C C clears the spoon.",
+                "start_frame": 8523,
+                "stop_frame": 8629
+            }
+        ]
+    },
+    {
+        "task_goal": "Clearing the spoon",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C smashes the fruits.",
+                "start_frame": 8432,
+                "stop_frame": 8523
+            },
+            {
+                "narration_text": "#C C clears the spoon.",
+                "start_frame": 8523,
+                "stop_frame": 8629
+            },
+            {
+                "narration_text": "#C C clears the fingers.",
+                "start_frame": 8629,
+                "stop_frame": 8726
+            }
+        ]
+    },
+    {
+        "task_goal": "Clearing the fingers",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C clears the spoon.",
+                "start_frame": 8523,
+                "stop_frame": 8629
+            },
+            {
+                "narration_text": "#C C clears the fingers.",
+                "start_frame": 8629,
+                "stop_frame": 8726
+            },
+            {
+                "narration_text": "#C C puts the folk on the chopping board.",
+                "start_frame": 8726,
+                "stop_frame": 8756
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting the fork on the chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C clears the fingers.",
+                "start_frame": 8629,
+                "stop_frame": 8726
+            },
+            {
+                "narration_text": "#C C puts the folk on the chopping board.",
+                "start_frame": 8726,
+                "stop_frame": 8756
+            },
+            {
+                "narration_text": "#C C picks the knife.",
+                "start_frame": 8756,
+                "stop_frame": 8810
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking the knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the folk on the chopping board.",
+                "start_frame": 8726,
+                "stop_frame": 8756
+            },
+            {
+                "narration_text": "#C C picks the knife.",
+                "start_frame": 8756,
+                "stop_frame": 8810
+            },
+            {
+                "narration_text": "#C C clears the knife.",
+                "start_frame": 8810,
+                "stop_frame": 8852
+            }
+        ]
+    },
+    {
+        "task_goal": "Clearing the knife",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the knife.",
+                "start_frame": 8756,
+                "stop_frame": 8810
+            },
+            {
+                "narration_text": "#C C clears the knife.",
+                "start_frame": 8810,
+                "stop_frame": 8852
+            },
+            {
+                "narration_text": "#C C puts the fruits together.",
+                "start_frame": 8852,
+                "stop_frame": 8961
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting the fruits together",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C clears the knife.",
+                "start_frame": 8810,
+                "stop_frame": 8852
+            },
+            {
+                "narration_text": "#C C puts the fruits together.",
+                "start_frame": 8852,
+                "stop_frame": 8961
+            },
+            {
+                "narration_text": "#C C puts the knife on the table.",
+                "start_frame": 8961,
+                "stop_frame": 9113
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting the knife on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the fruits together.",
+                "start_frame": 8852,
+                "stop_frame": 8961
+            },
+            {
+                "narration_text": "#C C puts the knife on the table.",
+                "start_frame": 8961,
+                "stop_frame": 9113
+            },
+            {
+                "narration_text": "#C C opens the tap.",
+                "start_frame": 9113,
+                "stop_frame": 9139
+            }
+        ]
+    },
+    {
+        "task_goal": "Cleaning up and organizing",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the tap.",
+                "start_frame": 9113,
+                "stop_frame": 9139
+            },
+            {
+                "narration_text": "#C C washes hands.",
+                "start_frame": 9139,
+                "stop_frame": 9229
+            },
+            {
+                "narration_text": "#C C closes the tap.",
+                "start_frame": 9229,
+                "stop_frame": 9271
+            },
+            {
+                "narration_text": "#C C wipes hands.",
+                "start_frame": 9271,
+                "stop_frame": 9382
+            },
+            {
+                "narration_text": "#C C walks arounds.",
+                "start_frame": 9382,
+                "stop_frame": 9455
+            },
+            {
+                "narration_text": "#C C picks the box.",
+                "start_frame": 9455,
+                "stop_frame": 9515
+            },
+            {
+                "narration_text": "#C C puts the box on the table.",
+                "start_frame": 9515,
+                "stop_frame": 9575
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 9575,
+                "stop_frame": 9916
+            },
+            {
+                "narration_text": "#C C picks the tin.",
+                "start_frame": 9916,
+                "stop_frame": 9934
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 9934,
+                "stop_frame": 10131
+            },
+            {
+                "narration_text": "#C C closes the tin.",
+                "start_frame": 10131,
+                "stop_frame": 10369
+            },
+            {
+                "narration_text": "#C C picks the bottle.",
+                "start_frame": 10369,
+                "stop_frame": 10450
+            },
+            {
+                "narration_text": "#C C puts the bottle on the table.",
+                "start_frame": 10450,
+                "stop_frame": 10486
+            },
+            {
+                "narration_text": "#C C picks the bottle.",
+                "start_frame": 10486,
+                "stop_frame": 10524
+            },
+            {
+                "narration_text": "#C C opens the bottle.",
+                "start_frame": 10524,
+                "stop_frame": 10563
+            },
+            {
+                "narration_text": "#C C pours the liquid on the fruits.",
+                "start_frame": 10563,
+                "stop_frame": 10904
+            },
+            {
+                "narration_text": "#C C closes the bottle.",
+                "start_frame": 10904,
+                "stop_frame": 10937
+            },
+            {
+                "narration_text": "#C C puts the bottle on the table.",
+                "start_frame": 10937,
+                "stop_frame": 10987
+            },
+            {
+                "narration_text": "#C C picks the folk.",
+                "start_frame": 10987,
+                "stop_frame": 11024
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening the tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the tap.",
+                "start_frame": 9113,
+                "stop_frame": 9139
+            }
+        ]
+    },
+    {
+        "task_goal": "Washing hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the knife on the table.",
+                "start_frame": 8961,
+                "stop_frame": 9113
+            },
+            {
+                "narration_text": "#C C opens the tap.",
+                "start_frame": 9113,
+                "stop_frame": 9139
+            },
+            {
+                "narration_text": "#C C washes hands.",
+                "start_frame": 9139,
+                "stop_frame": 9229
+            },
+            {
+                "narration_text": "#C C closes the tap.",
+                "start_frame": 9229,
+                "stop_frame": 9271
+            }
+        ]
+    },
+    {
+        "task_goal": "Closing the tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C washes hands.",
+                "start_frame": 9139,
+                "stop_frame": 9229
+            },
+            {
+                "narration_text": "#C C closes the tap.",
+                "start_frame": 9229,
+                "stop_frame": 9271
+            },
+            {
+                "narration_text": "#C C wipes hands.",
+                "start_frame": 9271,
+                "stop_frame": 9382
+            }
+        ]
+    },
+    {
+        "task_goal": "Wiping hands",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the tap.",
+                "start_frame": 9229,
+                "stop_frame": 9271
+            },
+            {
+                "narration_text": "#C C wipes hands.",
+                "start_frame": 9271,
+                "stop_frame": 9382
+            },
+            {
+                "narration_text": "#C C walks arounds.",
+                "start_frame": 9382,
+                "stop_frame": 9455
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C wipes hands.",
+                "start_frame": 9271,
+                "stop_frame": 9382
+            },
+            {
+                "narration_text": "#C C walks arounds.",
+                "start_frame": 9382,
+                "stop_frame": 9455
+            },
+            {
+                "narration_text": "#C C picks the box.",
+                "start_frame": 9455,
+                "stop_frame": 9515
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking the box",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks arounds.",
+                "start_frame": 9382,
+                "stop_frame": 9455
+            },
+            {
+                "narration_text": "#C C picks the box.",
+                "start_frame": 9455,
+                "stop_frame": 9515
+            },
+            {
+                "narration_text": "#C C puts the box on the table.",
+                "start_frame": 9515,
+                "stop_frame": 9575
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting the box on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the box.",
+                "start_frame": 9455,
+                "stop_frame": 9515
+            },
+            {
+                "narration_text": "#C C puts the box on the table.",
+                "start_frame": 9515,
+                "stop_frame": 9575
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 9575,
+                "stop_frame": 9916
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the box on the table.",
+                "start_frame": 9515,
+                "stop_frame": 9575
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 9575,
+                "stop_frame": 9916
+            },
+            {
+                "narration_text": "#C C picks the tin.",
+                "start_frame": 9916,
+                "stop_frame": 9934
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking the tin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 9575,
+                "stop_frame": 9916
+            },
+            {
+                "narration_text": "#C C picks the tin.",
+                "start_frame": 9916,
+                "stop_frame": 9934
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 9934,
+                "stop_frame": 10131
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the tin.",
+                "start_frame": 9916,
+                "stop_frame": 9934
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 9934,
+                "stop_frame": 10131
+            },
+            {
+                "narration_text": "#C C closes the tin.",
+                "start_frame": 10131,
+                "stop_frame": 10369
+            }
+        ]
+    },
+    {
+        "task_goal": "Closing the tin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 9934,
+                "stop_frame": 10131
+            },
+            {
+                "narration_text": "#C C closes the tin.",
+                "start_frame": 10131,
+                "stop_frame": 10369
+            },
+            {
+                "narration_text": "#C C picks the bottle.",
+                "start_frame": 10369,
+                "stop_frame": 10450
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking the bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the tin.",
+                "start_frame": 10131,
+                "stop_frame": 10369
+            },
+            {
+                "narration_text": "#C C picks the bottle.",
+                "start_frame": 10369,
+                "stop_frame": 10450
+            },
+            {
+                "narration_text": "#C C puts the bottle on the table.",
+                "start_frame": 10450,
+                "stop_frame": 10486
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting the bottle on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the bottle.",
+                "start_frame": 10369,
+                "stop_frame": 10450
+            },
+            {
+                "narration_text": "#C C puts the bottle on the table.",
+                "start_frame": 10450,
+                "stop_frame": 10486
+            },
+            {
+                "narration_text": "#C C picks the bottle.",
+                "start_frame": 10486,
+                "stop_frame": 10524
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking the bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the bottle on the table.",
+                "start_frame": 10450,
+                "stop_frame": 10486
+            },
+            {
+                "narration_text": "#C C picks the bottle.",
+                "start_frame": 10486,
+                "stop_frame": 10524
+            },
+            {
+                "narration_text": "#C C opens the bottle.",
+                "start_frame": 10524,
+                "stop_frame": 10563
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening the bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the bottle.",
+                "start_frame": 10486,
+                "stop_frame": 10524
+            },
+            {
+                "narration_text": "#C C opens the bottle.",
+                "start_frame": 10524,
+                "stop_frame": 10563
+            },
+            {
+                "narration_text": "#C C pours the liquid on the fruits.",
+                "start_frame": 10563,
+                "stop_frame": 10904
+            }
+        ]
+    },
+    {
+        "task_goal": "Pouring the liquid on the fruits",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the bottle.",
+                "start_frame": 10524,
+                "stop_frame": 10563
+            },
+            {
+                "narration_text": "#C C pours the liquid on the fruits.",
+                "start_frame": 10563,
+                "stop_frame": 10904
+            },
+            {
+                "narration_text": "#C C closes the bottle.",
+                "start_frame": 10904,
+                "stop_frame": 10937
+            }
+        ]
+    },
+    {
+        "task_goal": "Closing the bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pours the liquid on the fruits.",
+                "start_frame": 10563,
+                "stop_frame": 10904
+            },
+            {
+                "narration_text": "#C C closes the bottle.",
+                "start_frame": 10904,
+                "stop_frame": 10937
+            },
+            {
+                "narration_text": "#C C puts the bottle on the table.",
+                "start_frame": 10937,
+                "stop_frame": 10987
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting the bottle on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the bottle.",
+                "start_frame": 10904,
+                "stop_frame": 10937
+            },
+            {
+                "narration_text": "#C C puts the bottle on the table.",
+                "start_frame": 10937,
+                "stop_frame": 10987
+            },
+            {
+                "narration_text": "#C C picks the folk.",
+                "start_frame": 10987,
+                "stop_frame": 11024
+            }
+        ]
+    },
+    {
+        "task_goal": "Smashing the fruits again",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the folk.",
+                "start_frame": 10987,
+                "stop_frame": 11024
+            },
+            {
+                "narration_text": "#C C smashes the fruits.",
+                "start_frame": 11024,
+                "stop_frame": 11441
+            },
+            {
+                "narration_text": "#C C puts the folk on the chopping board.",
+                "start_frame": 11441,
+                "stop_frame": 11465
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 11465,
+                "stop_frame": 11502
+            },
+            {
+                "narration_text": "#C C picks the bottle.",
+                "start_frame": 11502,
+                "stop_frame": 11538
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking the fork",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the folk.",
+                "start_frame": 10987,
+                "stop_frame": 11024
+            },
+            {
+                "narration_text": "#C C smashes the fruits.",
+                "start_frame": 11024,
+                "stop_frame": 11441
+            }
+        ]
+    },
+    {
+        "task_goal": "Smashing the fruits",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the folk.",
+                "start_frame": 10987,
+                "stop_frame": 11024
+            },
+            {
+                "narration_text": "#C C smashes the fruits.",
+                "start_frame": 11024,
+                "stop_frame": 11441
+            },
+            {
+                "narration_text": "#C C puts the folk on the chopping board.",
+                "start_frame": 11441,
+                "stop_frame": 11465
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting the fork on the chopping board",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C smashes the fruits.",
+                "start_frame": 11024,
+                "stop_frame": 11441
+            },
+            {
+                "narration_text": "#C C puts the folk on the chopping board.",
+                "start_frame": 11441,
+                "stop_frame": 11465
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 11465,
+                "stop_frame": 11502
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the folk on the chopping board.",
+                "start_frame": 11441,
+                "stop_frame": 11465
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 11465,
+                "stop_frame": 11502
+            },
+            {
+                "narration_text": "#C C picks the bottle.",
+                "start_frame": 11502,
+                "stop_frame": 11538
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening and organizing the tins",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the bottle.",
+                "start_frame": 11502,
+                "stop_frame": 11538
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 11538,
+                "stop_frame": 11585
+            },
+            {
+                "narration_text": "#C C opens the tin.",
+                "start_frame": 11585,
+                "stop_frame": 12023
+            },
+            {
+                "narration_text": "#C C puts the tin on the table.",
+                "start_frame": 12023,
+                "stop_frame": 12136
+            },
+            {
+                "narration_text": "#C C picks the tin.",
+                "start_frame": 12136,
+                "stop_frame": 12293
+            },
+            {
+                "narration_text": "#C C puts the tin on the shelf.",
+                "start_frame": 12293,
+                "stop_frame": 12325
+            },
+            {
+                "narration_text": "#C C picks the tin.",
+                "start_frame": 12325,
+                "stop_frame": 12369
+            },
+            {
+                "narration_text": "#C C opens the tin.",
+                "start_frame": 12369,
+                "stop_frame": 12596
+            },
+            {
+                "narration_text": "#C C closes the tin.",
+                "start_frame": 12596,
+                "stop_frame": 12648
+            },
+            {
+                "narration_text": "#C C puts the tin on the shelf.",
+                "start_frame": 12648,
+                "stop_frame": 12687
+            },
+            {
+                "narration_text": "#C C picks the folk.",
+                "start_frame": 12687,
+                "stop_frame": 12711
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the bottle.",
+                "start_frame": 11502,
+                "stop_frame": 11538
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 11538,
+                "stop_frame": 11585
+            },
+            {
+                "narration_text": "#C C opens the tin.",
+                "start_frame": 11585,
+                "stop_frame": 12023
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening the tin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 11538,
+                "stop_frame": 11585
+            },
+            {
+                "narration_text": "#C C opens the tin.",
+                "start_frame": 11585,
+                "stop_frame": 12023
+            },
+            {
+                "narration_text": "#C C puts the tin on the table.",
+                "start_frame": 12023,
+                "stop_frame": 12136
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting the tin on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the tin.",
+                "start_frame": 11585,
+                "stop_frame": 12023
+            },
+            {
+                "narration_text": "#C C puts the tin on the table.",
+                "start_frame": 12023,
+                "stop_frame": 12136
+            },
+            {
+                "narration_text": "#C C picks the tin.",
+                "start_frame": 12136,
+                "stop_frame": 12293
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking the tin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the tin on the table.",
+                "start_frame": 12023,
+                "stop_frame": 12136
+            },
+            {
+                "narration_text": "#C C picks the tin.",
+                "start_frame": 12136,
+                "stop_frame": 12293
+            },
+            {
+                "narration_text": "#C C puts the tin on the shelf.",
+                "start_frame": 12293,
+                "stop_frame": 12325
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting the tin on the shelf",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the tin.",
+                "start_frame": 12136,
+                "stop_frame": 12293
+            },
+            {
+                "narration_text": "#C C puts the tin on the shelf.",
+                "start_frame": 12293,
+                "stop_frame": 12325
+            },
+            {
+                "narration_text": "#C C picks the tin.",
+                "start_frame": 12325,
+                "stop_frame": 12369
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking the tin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the tin on the shelf.",
+                "start_frame": 12293,
+                "stop_frame": 12325
+            },
+            {
+                "narration_text": "#C C picks the tin.",
+                "start_frame": 12325,
+                "stop_frame": 12369
+            },
+            {
+                "narration_text": "#C C opens the tin.",
+                "start_frame": 12369,
+                "stop_frame": 12596
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening the tin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the tin.",
+                "start_frame": 12325,
+                "stop_frame": 12369
+            },
+            {
+                "narration_text": "#C C opens the tin.",
+                "start_frame": 12369,
+                "stop_frame": 12596
+            },
+            {
+                "narration_text": "#C C closes the tin.",
+                "start_frame": 12596,
+                "stop_frame": 12648
+            }
+        ]
+    },
+    {
+        "task_goal": "Closing the tin",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the tin.",
+                "start_frame": 12369,
+                "stop_frame": 12596
+            },
+            {
+                "narration_text": "#C C closes the tin.",
+                "start_frame": 12596,
+                "stop_frame": 12648
+            },
+            {
+                "narration_text": "#C C puts the tin on the shelf.",
+                "start_frame": 12648,
+                "stop_frame": 12687
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting the tin on the shelf",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the tin.",
+                "start_frame": 12596,
+                "stop_frame": 12648
+            },
+            {
+                "narration_text": "#C C puts the tin on the shelf.",
+                "start_frame": 12648,
+                "stop_frame": 12687
+            },
+            {
+                "narration_text": "#C C picks the folk.",
+                "start_frame": 12687,
+                "stop_frame": 12711
+            }
+        ]
+    },
+    {
+        "task_goal": "Smashing the fruits",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C smashes the fruits.",
+                "start_frame": 12711,
+                "stop_frame": 13300
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 13300,
+                "stop_frame": 13412
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C smashes the fruits.",
+                "start_frame": 12711,
+                "stop_frame": 13300
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 13300,
+                "stop_frame": 13412
+            },
+            {
+                "narration_text": "#C C opens the fridge.",
+                "start_frame": 13412,
+                "stop_frame": 13553
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 13300,
+                "stop_frame": 13412
+            },
+            {
+                "narration_text": "#C C opens the fridge.",
+                "start_frame": 13412,
+                "stop_frame": 13553
+            },
+            {
+                "narration_text": "#C C moves the drawer.",
+                "start_frame": 13553,
+                "stop_frame": 13627
+            }
+        ]
+    },
+    {
+        "task_goal": "Moving the drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the fridge.",
+                "start_frame": 13412,
+                "stop_frame": 13553
+            },
+            {
+                "narration_text": "#C C moves the drawer.",
+                "start_frame": 13553,
+                "stop_frame": 13627
+            },
+            {
+                "narration_text": "#C C pushes the drawer.",
+                "start_frame": 13627,
+                "stop_frame": 13722
+            }
+        ]
+    },
+    {
+        "task_goal": "Pushing the drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves the drawer.",
+                "start_frame": 13553,
+                "stop_frame": 13627
+            },
+            {
+                "narration_text": "#C C pushes the drawer.",
+                "start_frame": 13627,
+                "stop_frame": 13722
+            },
+            {
+                "narration_text": "#C C takes the bread from the fridge.",
+                "start_frame": 13722,
+                "stop_frame": 13760
+            }
+        ]
+    },
+    {
+        "task_goal": "Taking the bread from the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pushes the drawer.",
+                "start_frame": 13627,
+                "stop_frame": 13722
+            },
+            {
+                "narration_text": "#C C takes the bread from the fridge.",
+                "start_frame": 13722,
+                "stop_frame": 13760
+            },
+            {
+                "narration_text": "#C C closes the fridge.",
+                "start_frame": 13760,
+                "stop_frame": 13793
+            }
+        ]
+    },
+    {
+        "task_goal": "Closing the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C takes the bread from the fridge.",
+                "start_frame": 13722,
+                "stop_frame": 13760
+            },
+            {
+                "narration_text": "#C C closes the fridge.",
+                "start_frame": 13760,
+                "stop_frame": 13793
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 13793,
+                "stop_frame": 13871
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the fridge.",
+                "start_frame": 13760,
+                "stop_frame": 13793
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 13793,
+                "stop_frame": 13871
+            },
+            {
+                "narration_text": "#C C unfolds the bread.",
+                "start_frame": 13871,
+                "stop_frame": 14241
+            }
+        ]
+    },
+    {
+        "task_goal": "Unfolding the bread",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 13793,
+                "stop_frame": 13871
+            },
+            {
+                "narration_text": "#C C unfolds the bread.",
+                "start_frame": 13871,
+                "stop_frame": 14241
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 14241,
+                "stop_frame": 14326
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C unfolds the bread.",
+                "start_frame": 13871,
+                "stop_frame": 14241
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 14241,
+                "stop_frame": 14326
+            },
+            {
+                "narration_text": "#C C puts the bread in the toaster.",
+                "start_frame": 14326,
+                "stop_frame": 14529
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting the bread in the toaster",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 14241,
+                "stop_frame": 14326
+            },
+            {
+                "narration_text": "#C C puts the bread in the toaster.",
+                "start_frame": 14326,
+                "stop_frame": 14529
+            },
+            {
+                "narration_text": "#C C opens the toaster.",
+                "start_frame": 14529,
+                "stop_frame": 14675
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening the toaster",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the bread in the toaster.",
+                "start_frame": 14326,
+                "stop_frame": 14529
+            },
+            {
+                "narration_text": "#C C opens the toaster.",
+                "start_frame": 14529,
+                "stop_frame": 14675
+            },
+            {
+                "narration_text": "#C C picks the bread paper.",
+                "start_frame": 14675,
+                "stop_frame": 14726
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking the bread paper",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the toaster.",
+                "start_frame": 14529,
+                "stop_frame": 14675
+            },
+            {
+                "narration_text": "#C C picks the bread paper.",
+                "start_frame": 14675,
+                "stop_frame": 14726
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 14726,
+                "stop_frame": 14927
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the bread paper.",
+                "start_frame": 14675,
+                "stop_frame": 14726
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 14726,
+                "stop_frame": 14927
+            },
+            {
+                "narration_text": "#C C opens the fridge.",
+                "start_frame": 14927,
+                "stop_frame": 15017
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 14726,
+                "stop_frame": 14927
+            },
+            {
+                "narration_text": "#C C opens the fridge.",
+                "start_frame": 14927,
+                "stop_frame": 15017
+            },
+            {
+                "narration_text": "#C C pulls the drawer.",
+                "start_frame": 15017,
+                "stop_frame": 15022
+            }
+        ]
+    },
+    {
+        "task_goal": "Pulling the drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the fridge.",
+                "start_frame": 14927,
+                "stop_frame": 15017
+            },
+            {
+                "narration_text": "#C C pulls the drawer.",
+                "start_frame": 15017,
+                "stop_frame": 15022
+            },
+            {
+                "narration_text": "#C C puts the bread in the drawer.",
+                "start_frame": 15022,
+                "stop_frame": 15076
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting the bread in the drawer",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pulls the drawer.",
+                "start_frame": 15017,
+                "stop_frame": 15022
+            },
+            {
+                "narration_text": "#C C puts the bread in the drawer.",
+                "start_frame": 15022,
+                "stop_frame": 15076
+            },
+            {
+                "narration_text": "#C C closes the fridge.",
+                "start_frame": 15076,
+                "stop_frame": 15138
+            }
+        ]
+    },
+    {
+        "task_goal": "Closing the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the bread in the drawer.",
+                "start_frame": 15022,
+                "stop_frame": 15076
+            },
+            {
+                "narration_text": "#C C closes the fridge.",
+                "start_frame": 15076,
+                "stop_frame": 15138
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 15138,
+                "stop_frame": 15224
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C closes the fridge.",
+                "start_frame": 15076,
+                "stop_frame": 15138
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 15138,
+                "stop_frame": 15224
+            },
+            {
+                "narration_text": "#C C moves the bottles.",
+                "start_frame": 15224,
+                "stop_frame": 15357
+            }
+        ]
+    },
+    {
+        "task_goal": "Moving the bottles",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 15138,
+                "stop_frame": 15224
+            },
+            {
+                "narration_text": "#C C moves the bottles.",
+                "start_frame": 15224,
+                "stop_frame": 15357
+            },
+            {
+                "narration_text": "#C C pick plates.",
+                "start_frame": 15357,
+                "stop_frame": 15471
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking plates",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves the bottles.",
+                "start_frame": 15224,
+                "stop_frame": 15357
+            },
+            {
+                "narration_text": "#C C pick plates.",
+                "start_frame": 15357,
+                "stop_frame": 15471
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 15471,
+                "stop_frame": 15557
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C pick plates.",
+                "start_frame": 15357,
+                "stop_frame": 15471
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 15471,
+                "stop_frame": 15557
+            },
+            {
+                "narration_text": "#C C puts plates on the table.",
+                "start_frame": 15557,
+                "stop_frame": 15590
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting plates on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 15471,
+                "stop_frame": 15557
+            },
+            {
+                "narration_text": "#C C puts plates on the table.",
+                "start_frame": 15557,
+                "stop_frame": 15590
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 15590,
+                "stop_frame": 15701
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts plates on the table.",
+                "start_frame": 15557,
+                "stop_frame": 15590
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 15590,
+                "stop_frame": 15701
+            },
+            {
+                "narration_text": "#C C moves the box.",
+                "start_frame": 15701,
+                "stop_frame": 15748
+            }
+        ]
+    },
+    {
+        "task_goal": "Moving the box",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 15590,
+                "stop_frame": 15701
+            },
+            {
+                "narration_text": "#C C moves the box.",
+                "start_frame": 15701,
+                "stop_frame": 15748
+            },
+            {
+                "narration_text": "#C C picks the cup.",
+                "start_frame": 15748,
+                "stop_frame": 15819
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking the cup",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves the box.",
+                "start_frame": 15701,
+                "stop_frame": 15748
+            },
+            {
+                "narration_text": "#C C picks the cup.",
+                "start_frame": 15748,
+                "stop_frame": 15819
+            },
+            {
+                "narration_text": "#C C opens the tap.",
+                "start_frame": 15819,
+                "stop_frame": 15846
+            }
+        ]
+    },
+    {
+        "task_goal": "Opening the tap",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the cup.",
+                "start_frame": 15748,
+                "stop_frame": 15819
+            },
+            {
+                "narration_text": "#C C opens the tap.",
+                "start_frame": 15819,
+                "stop_frame": 15846
+            },
+            {
+                "narration_text": "#C C fills the cup with water.",
+                "start_frame": 15846,
+                "stop_frame": 15957
+            }
+        ]
+    },
+    {
+        "task_goal": "Filling the cup with water",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the tap.",
+                "start_frame": 15819,
+                "stop_frame": 15846
+            },
+            {
+                "narration_text": "#C C fills the cup with water.",
+                "start_frame": 15846,
+                "stop_frame": 15957
+            },
+            {
+                "narration_text": "#C C unfolds the vegetables.",
+                "start_frame": 15957,
+                "stop_frame": 16156
+            }
+        ]
+    },
+    {
+        "task_goal": "Unfolding the vegetables",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C fills the cup with water.",
+                "start_frame": 15846,
+                "stop_frame": 15957
+            },
+            {
+                "narration_text": "#C C unfolds the vegetables.",
+                "start_frame": 15957,
+                "stop_frame": 16156
+            },
+            {
+                "narration_text": "#C C picks the plate.",
+                "start_frame": 16156,
+                "stop_frame": 16227
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C unfolds the vegetables.",
+                "start_frame": 15957,
+                "stop_frame": 16156
+            },
+            {
+                "narration_text": "#C C picks the plate.",
+                "start_frame": 16156,
+                "stop_frame": 16227
+            },
+            {
+                "narration_text": "#C C puts vegetables on the plate.",
+                "start_frame": 16227,
+                "stop_frame": 16528
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting vegetables on the plate",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the plate.",
+                "start_frame": 16156,
+                "stop_frame": 16227
+            },
+            {
+                "narration_text": "#C C puts vegetables on the plate.",
+                "start_frame": 16227,
+                "stop_frame": 16528
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 16528,
+                "stop_frame": 16672
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts vegetables on the plate.",
+                "start_frame": 16227,
+                "stop_frame": 16528
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 16528,
+                "stop_frame": 16672
+            },
+            {
+                "narration_text": "#C C picks the bottle.",
+                "start_frame": 16672,
+                "stop_frame": 16724
+            }
+        ]
+    },
+    {
+        "task_goal": "Picking the bottle",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 16528,
+                "stop_frame": 16672
+            },
+            {
+                "narration_text": "#C C picks the bottle.",
+                "start_frame": 16672,
+                "stop_frame": 16724
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 16724,
+                "stop_frame": 16851
+            }
+        ]
+    },
+    {
+        "task_goal": "Walking around",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the bottle.",
+                "start_frame": 16672,
+                "stop_frame": 16724
+            },
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 16724,
+                "stop_frame": 16851
+            },
+            {
+                "narration_text": "#C C puts the bottle on the table.",
+                "start_frame": 16851,
+                "stop_frame": 16881
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting the bottle on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around.",
+                "start_frame": 16724,
+                "stop_frame": 16851
+            },
+            {
+                "narration_text": "#C C puts the bottle on the table.",
+                "start_frame": 16851,
+                "stop_frame": 16881
+            },
+            {
+                "narration_text": "#C C puts the plate on the table.",
+                "start_frame": 16881,
+                "stop_frame": 16981
+            }
+        ]
+    },
+    {
+        "task_goal": "Putting the plate on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C puts the bottle on the table.",
+                "start_frame": 16851,
+                "stop_frame": 16881
+            },
+            {
+                "narration_text": "#C C puts the plate on the table.",
+                "start_frame": 16881,
+                "stop_frame": 16981
+            }
+        ]
+    }
+]

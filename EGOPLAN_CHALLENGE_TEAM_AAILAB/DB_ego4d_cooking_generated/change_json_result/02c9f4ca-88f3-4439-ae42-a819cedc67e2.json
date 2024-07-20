@@ -1,0 +1,64 @@
+{
+    "overall_goal": "Prepare a plate of food using chopsticks.",
+    "clips": [
+        {
+            "subgoal": "Place food on the plate and spread it.",
+            "start_timestamp": 0,
+            "stop_timestamp": 993,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put food on a plate using chopsticks.",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 131
+                },
+                {
+                    "secondary_subgoal": "Spread food on the plate with chopsticks.",
+                    "start_timestamp": 131,
+                    "stop_timestamp": 177
+                },
+                {
+                    "secondary_subgoal": "Put food on a plate using chopsticks.",
+                    "start_timestamp": 177,
+                    "stop_timestamp": 330
+                },
+                {
+                    "secondary_subgoal": "Spread food on the plate with chopsticks.",
+                    "start_timestamp": 330,
+                    "stop_timestamp": 427
+                },
+                {
+                    "secondary_subgoal": "Clear food from a pan using chopsticks.",
+                    "start_timestamp": 427,
+                    "stop_timestamp": 548
+                },
+                {
+                    "secondary_subgoal": "Put food on a plate using chopsticks.",
+                    "start_timestamp": 548,
+                    "stop_timestamp": 993
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare to cook or clean up the cooking area.",
+            "start_timestamp": 993,
+            "stop_timestamp": 1229,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put a pan on the cooker.",
+                    "start_timestamp": 993,
+                    "stop_timestamp": 1070
+                },
+                {
+                    "secondary_subgoal": "Put chopsticks on a bowl.",
+                    "start_timestamp": 1070,
+                    "stop_timestamp": 1129
+                },
+                {
+                    "secondary_subgoal": "Adjust the camera with both hands.",
+                    "start_timestamp": 1129,
+                    "stop_timestamp": 1229
+                }
+            ]
+        }
+    ]
+}

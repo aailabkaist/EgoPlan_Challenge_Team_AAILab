@@ -1,0 +1,149 @@
+{
+    "overall_goal": "Prepare and cook a meal",
+    "clips": [
+        {
+            "subgoal": "Set up the kitchen for cooking",
+            "start_timestamp": 787,
+            "stop_timestamp": 1815,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open kitchen cabinet and remove a pot",
+                    "start_timestamp": 912,
+                    "stop_timestamp": 1002
+                },
+                {
+                    "secondary_subgoal": "Place pot on kitchen countertop",
+                    "start_timestamp": 1002,
+                    "stop_timestamp": 1066
+                },
+                {
+                    "secondary_subgoal": "Turn on the lights",
+                    "start_timestamp": 1066,
+                    "stop_timestamp": 1210
+                },
+                {
+                    "secondary_subgoal": "Remove a plastic nylon bag and dispose it",
+                    "start_timestamp": 1273,
+                    "stop_timestamp": 1815
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare ingredients",
+            "start_timestamp": 1815,
+            "stop_timestamp": 2292,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Remove plastic container from fridge",
+                    "start_timestamp": 1914,
+                    "stop_timestamp": 1988
+                },
+                {
+                    "secondary_subgoal": "Place plastic container on the kitchen countertop",
+                    "start_timestamp": 1988,
+                    "stop_timestamp": 2070
+                },
+                {
+                    "secondary_subgoal": "Pick another plastic container from the kitchen shelf",
+                    "start_timestamp": 2070,
+                    "stop_timestamp": 2195
+                },
+                {
+                    "secondary_subgoal": "Place plastic container on the kitchen countertop",
+                    "start_timestamp": 2195,
+                    "stop_timestamp": 2292
+                }
+            ]
+        },
+        {
+            "subgoal": "Measure and mix ingredients",
+            "start_timestamp": 2292,
+            "stop_timestamp": 3573,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open plastic container",
+                    "start_timestamp": 2292,
+                    "stop_timestamp": 2384
+                },
+                {
+                    "secondary_subgoal": "Pour water in the sink and remove the weighing scale from drawer",
+                    "start_timestamp": 2384,
+                    "stop_timestamp": 3424
+                },
+                {
+                    "secondary_subgoal": "Place the pot on the scale and prepare the mixture",
+                    "start_timestamp": 3424,
+                    "stop_timestamp": 3573
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook the mixture",
+            "start_timestamp": 3573,
+            "stop_timestamp": 8410,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn the weighing scale on and add water to mixture",
+                    "start_timestamp": 3573,
+                    "stop_timestamp": 4877
+                },
+                {
+                    "secondary_subgoal": "Transfer the pot to the cooker and start cooking",
+                    "start_timestamp": 4877,
+                    "stop_timestamp": 5742
+                },
+                {
+                    "secondary_subgoal": "Add additional ingredients and wash hands",
+                    "start_timestamp": 5742,
+                    "stop_timestamp": 14194
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and chop vegetables",
+            "start_timestamp": 14194,
+            "stop_timestamp": 17892,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Remove and chop cucumbers",
+                    "start_timestamp": 14194,
+                    "stop_timestamp": 17763
+                }
+            ]
+        },
+        {
+            "subgoal": "Season and stir the prepared meal",
+            "start_timestamp": 17892,
+            "stop_timestamp": 35449,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add spices to the food and stir",
+                    "start_timestamp": 17892,
+                    "stop_timestamp": 20847
+                },
+                {
+                    "secondary_subgoal": "Check and stir the mixture periodically",
+                    "start_timestamp": 20847,
+                    "stop_timestamp": 35449
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve the meal",
+            "start_timestamp": 35449,
+            "stop_timestamp": 35959,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Serve food into a bowl",
+                    "start_timestamp": 35449,
+                    "stop_timestamp": 35859
+                },
+                {
+                    "secondary_subgoal": "Clean the pot",
+                    "start_timestamp": 35859,
+                    "stop_timestamp": 35959
+                }
+            ]
+        }
+    ]
+}

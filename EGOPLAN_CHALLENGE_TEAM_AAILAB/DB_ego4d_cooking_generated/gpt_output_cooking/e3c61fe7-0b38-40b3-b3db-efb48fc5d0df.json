@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgv1h51RsBD5sx7JvpTR9UAN5TgG",
+    "object": "chat.completion",
+    "created": 1719246799,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare avocados, including washing a cup, checking ripeness, cutting, and separating avocado peels and seeds.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Clean a cup and fill it with water\",\n      \"start_timestamp\": 176,\n      \"stop_timestamp\": 304,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and wash the cup\",\n          \"start_timestamp\": 176,\n          \"stop_timestamp\": 248\n        },\n        {\n          \"secondary_subgoal\": \"Pour water from cup into sink\",\n          \"start_timestamp\": 248,\n          \"stop_timestamp\": 245\n        },\n        {\n          \"secondary_subgoal\": \"Turn off the tap\",\n          \"start_timestamp\": 245,\n          \"stop_timestamp\": 304\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare the electric kettle\",\n      \"start_timestamp\": 304,\n      \"stop_timestamp\": 402,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put the cup on the kitchen surface\",\n          \"start_timestamp\": 304,\n          \"stop_timestamp\": 362\n        },\n        {\n          \"secondary_subgoal\": \"Switch on the electric kettle\",\n          \"start_timestamp\": 362,\n          \"stop_timestamp\": 402\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Collect and check avocados\",\n      \"start_timestamp\": 519,\n      \"stop_timestamp\": 955,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Open the fridge and pick avocados\",\n          \"start_timestamp\": 519,\n          \"stop_timestamp\": 633\n        },\n        {\n          \"secondary_subgoal\": \"Check if avocados are ripe\",\n          \"start_timestamp\": 633,\n          \"stop_timestamp\": 955\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare the surface for cutting avocados\",\n      \"start_timestamp\": 1273,\n      \"stop_timestamp\": 1426,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and place the chopping board\",\n          \"start_timestamp\": 1273,\n          \"stop_timestamp\": 1367\n        },\n        {\n          \"secondary_subgoal\": \"Place avocados on the chopping board\",\n          \"start_timestamp\": 1367,\n          \"stop_timestamp\": 1426\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Cut avocados and separate peels and seeds\",\n      \"start_timestamp\": 1564,\n      \"stop_timestamp\": 7442,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick a knife\",\n          \"start_timestamp\": 1564,\n          \"stop_timestamp\": 1671\n        },\n        {\n          \"secondary_subgoal\": \"Cut the avocado and separate parts\",\n          \"start_timestamp\": 1671,\n          \"stop_timestamp\": 7196\n        },\n        {\n          \"secondary_subgoal\": \"Clean up and wash hands\",\n          \"start_timestamp\": 7196,\n          \"stop_timestamp\": 7342\n        },\n        {\n          \"secondary_subgoal\": \"Wash hands in the basin\",\n          \"start_timestamp\": 7342,\n          \"stop_timestamp\": 7442\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1368,
+        "completion_tokens": 707,
+        "total_tokens": 2075
+    },
+    "system_fingerprint": "fp_888385ccad"
+}

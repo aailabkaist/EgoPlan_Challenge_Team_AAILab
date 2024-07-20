@@ -1,0 +1,76 @@
+{
+    "overall_goal": "Preparing and plating food items.",
+    "clips": [
+        {
+            "subgoal": "Categorizing and preparing food items.",
+            "start_timestamp": 9491,
+            "stop_timestamp": 9824,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Categorizing food.",
+                    "start_timestamp": 9491,
+                    "stop_timestamp": 9660
+                },
+                {
+                    "secondary_subgoal": "Handling and manipulating food.",
+                    "start_timestamp": 9660,
+                    "stop_timestamp": 9824
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling and rolling food items.",
+            "start_timestamp": 9824,
+            "stop_timestamp": 10733,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Looking around the room and handling food.",
+                    "start_timestamp": 9824,
+                    "stop_timestamp": 9950
+                },
+                {
+                    "secondary_subgoal": "Rolling food on hands.",
+                    "start_timestamp": 9950,
+                    "stop_timestamp": 10718
+                },
+                {
+                    "secondary_subgoal": "Placing food on plate.",
+                    "start_timestamp": 10718,
+                    "stop_timestamp": 10733
+                }
+            ]
+        },
+        {
+            "subgoal": "Handpicking and plating food items.",
+            "start_timestamp": 10733,
+            "stop_timestamp": 14281,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handpicking food.",
+                    "start_timestamp": 10733,
+                    "stop_timestamp": 11741
+                },
+                {
+                    "secondary_subgoal": "Rolling food using the hands.",
+                    "start_timestamp": 11741,
+                    "stop_timestamp": 12188
+                },
+                {
+                    "secondary_subgoal": "Placing food on plate.",
+                    "start_timestamp": 12188,
+                    "stop_timestamp": 13600
+                },
+                {
+                    "secondary_subgoal": "Picking and transitioning food between plates.",
+                    "start_timestamp": 13600,
+                    "stop_timestamp": 14181
+                },
+                {
+                    "secondary_subgoal": "Handling food with a spoon.",
+                    "start_timestamp": 14181,
+                    "stop_timestamp": 14281
+                }
+            ]
+        }
+    ]
+}

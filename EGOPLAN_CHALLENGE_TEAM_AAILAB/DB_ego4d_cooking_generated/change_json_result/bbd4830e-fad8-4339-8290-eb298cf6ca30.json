@@ -1,0 +1,122 @@
+{
+    "overall_goal": "Prepare a meal using various ingredients, including cabbage, carrots, and meat, by performing actions involving cutting, rinsing, wrapping, and cooking.",
+    "clips": [
+        {
+            "subgoal": "Gather and prepare ingredients",
+            "start_timestamp": 0,
+            "stop_timestamp": 3141,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Interact with phone and initially move around kitchen",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 131
+                },
+                {
+                    "secondary_subgoal": "Get ingredients from fridge",
+                    "start_timestamp": 283,
+                    "stop_timestamp": 575
+                },
+                {
+                    "secondary_subgoal": "Prepare and place cabbage and carrot on the counter",
+                    "start_timestamp": 633,
+                    "stop_timestamp": 1088
+                },
+                {
+                    "secondary_subgoal": "Rinse hands and prepare for further actions",
+                    "start_timestamp": 1231,
+                    "stop_timestamp": 1425
+                },
+                {
+                    "secondary_subgoal": "Collect and reposition cabbage",
+                    "start_timestamp": 1425,
+                    "stop_timestamp": 2949
+                },
+                {
+                    "secondary_subgoal": "Rinse cabbage",
+                    "start_timestamp": 3113,
+                    "stop_timestamp": 3937
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle and position meat",
+            "start_timestamp": 3937,
+            "stop_timestamp": 4730,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Dry hands and meat, and position meat",
+                    "start_timestamp": 4355,
+                    "stop_timestamp": 4730
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cabbage leaves and store them",
+            "start_timestamp": 4975,
+            "stop_timestamp": 6230,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut and store cabbage leaves",
+                    "start_timestamp": 5027,
+                    "stop_timestamp": 6230
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and store carrot",
+            "start_timestamp": 6330,
+            "stop_timestamp": 7532,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cut, peel and store carrot",
+                    "start_timestamp": 6393,
+                    "stop_timestamp": 7532
+                }
+            ]
+        },
+        {
+            "subgoal": "Handle and cut meat pieces",
+            "start_timestamp": 8453,
+            "stop_timestamp": 11822,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handle and prep meat in stages",
+                    "start_timestamp": 8579,
+                    "stop_timestamp": 11822
+                }
+            ]
+        },
+        {
+            "subgoal": "Cook meat and vegetables",
+            "start_timestamp": 12649,
+            "stop_timestamp": 21337,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cook meat in pan",
+                    "start_timestamp": 13655,
+                    "stop_timestamp": 17820
+                },
+                {
+                    "secondary_subgoal": "Stir and adjust heat while cooking meat",
+                    "start_timestamp": 17810,
+                    "stop_timestamp": 19040
+                },
+                {
+                    "secondary_subgoal": "Stir and flip meat, adjust heat",
+                    "start_timestamp": 19080,
+                    "stop_timestamp": 19535
+                },
+                {
+                    "secondary_subgoal": "Stir and add vegetables to meat",
+                    "start_timestamp": 19685,
+                    "stop_timestamp": 21409
+                },
+                {
+                    "secondary_subgoal": "Adjust heat and stir vegetables with meat",
+                    "start_timestamp": 19240,
+                    "stop_timestamp": 21337
+                }
+            ]
+        }
+    ]
+}

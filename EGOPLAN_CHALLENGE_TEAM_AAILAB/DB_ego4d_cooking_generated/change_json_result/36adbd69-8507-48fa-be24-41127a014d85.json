@@ -1,0 +1,113 @@
+{
+    "overall_goal": "Prepare food and clean the kitchen afterward",
+    "clips": [
+        {
+            "subgoal": "Organize kitchen items",
+            "start_timestamp": 0,
+            "stop_timestamp": 187,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Fold polythene paper",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 88
+                },
+                {
+                    "secondary_subgoal": "Wrap polythene paper with a rubber band",
+                    "start_timestamp": 88,
+                    "stop_timestamp": 187
+                }
+            ]
+        },
+        {
+            "subgoal": "Store items in the cabinet",
+            "start_timestamp": 187,
+            "stop_timestamp": 294,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put polythene paper in the cabinet",
+                    "start_timestamp": 187,
+                    "stop_timestamp": 294
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare a food dish",
+            "start_timestamp": 294,
+            "stop_timestamp": 9087,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Collect ingredients and necessary tools",
+                    "start_timestamp": 294,
+                    "stop_timestamp": 671
+                },
+                {
+                    "secondary_subgoal": "Stir unknown item with chopsticks",
+                    "start_timestamp": 671,
+                    "stop_timestamp": 1834
+                },
+                {
+                    "secondary_subgoal": "Whip with a piece of clothing, switch pans and stir",
+                    "start_timestamp": 1834,
+                    "stop_timestamp": 2875
+                },
+                {
+                    "secondary_subgoal": "Retrieve ingredients from fridge and add to unknown",
+                    "start_timestamp": 2875,
+                    "stop_timestamp": 4091
+                },
+                {
+                    "secondary_subgoal": "Stir ingredients with a cooking spoon",
+                    "start_timestamp": 4091,
+                    "stop_timestamp": 6891
+                },
+                {
+                    "secondary_subgoal": "Taste and adjust seasoning",
+                    "start_timestamp": 6891,
+                    "stop_timestamp": 9134
+                },
+                {
+                    "secondary_subgoal": "Shake pan and stir with chopsticks",
+                    "start_timestamp": 9648,
+                    "stop_timestamp": 11639
+                },
+                {
+                    "secondary_subgoal": "Add and mix unknown ingredients with a cooking spoon",
+                    "start_timestamp": 11639,
+                    "stop_timestamp": 12152
+                },
+                {
+                    "secondary_subgoal": "Dispose of waste and finalize dish",
+                    "start_timestamp": 12152,
+                    "stop_timestamp": 15198
+                },
+                {
+                    "secondary_subgoal": "Taste final product and clean up",
+                    "start_timestamp": 15198,
+                    "stop_timestamp": 9087
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean kitchen and workspace",
+            "start_timestamp": 9087,
+            "stop_timestamp": 21301,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open drawer, take plate and clean drawer",
+                    "start_timestamp": 9087,
+                    "stop_timestamp": 16724
+                },
+                {
+                    "secondary_subgoal": "Peel unknown items and clean hands intermittently",
+                    "start_timestamp": 16724,
+                    "stop_timestamp": 20227
+                },
+                {
+                    "secondary_subgoal": "Reorganize and finish up peeling",
+                    "start_timestamp": 20227,
+                    "stop_timestamp": 21301
+                }
+            ]
+        }
+    ]
+}

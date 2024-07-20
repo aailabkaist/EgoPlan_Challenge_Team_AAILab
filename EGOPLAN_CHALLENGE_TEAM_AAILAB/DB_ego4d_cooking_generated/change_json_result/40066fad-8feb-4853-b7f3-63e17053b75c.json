@@ -1,0 +1,209 @@
+{
+    "overall_goal": "Prepare a meal using various ingredients including cassava, meat, and vegetables, followed by cooking and plating the food.",
+    "clips": [
+        {
+            "subgoal": "Preparation of ingredients and setting up of the workspace",
+            "start_timestamp": "102",
+            "stop_timestamp": "248",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Hold and place cassava down",
+                    "start_timestamp": "102",
+                    "stop_timestamp": "202"
+                },
+                {
+                    "secondary_subgoal": "Wash hands",
+                    "start_timestamp": "202",
+                    "stop_timestamp": "248"
+                }
+            ]
+        },
+        {
+            "subgoal": "Setup and cleaning of chopping board",
+            "start_timestamp": "248",
+            "stop_timestamp": "478",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and rinse chopping board",
+                    "start_timestamp": "248",
+                    "stop_timestamp": "368"
+                },
+                {
+                    "secondary_subgoal": "Close tap and wipe the board",
+                    "start_timestamp": "368",
+                    "stop_timestamp": "426"
+                },
+                {
+                    "secondary_subgoal": "Place board down",
+                    "start_timestamp": "426",
+                    "stop_timestamp": "478"
+                }
+            ]
+        },
+        {
+            "subgoal": "Unpacking and initial processing of meat",
+            "start_timestamp": "478",
+            "stop_timestamp": "851",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick packed meat and open paper",
+                    "start_timestamp": "478",
+                    "stop_timestamp": "681"
+                },
+                {
+                    "secondary_subgoal": "Remove paper and place meat on chopping board",
+                    "start_timestamp": "681",
+                    "stop_timestamp": "851"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cutting meats and boiling water",
+            "start_timestamp": "851",
+            "stop_timestamp": "2211",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Tear off and cut meat",
+                    "start_timestamp": "851",
+                    "stop_timestamp": "2125"
+                },
+                {
+                    "secondary_subgoal": "Boil water",
+                    "start_timestamp": "2125",
+                    "stop_timestamp": "2211"
+                }
+            ]
+        },
+        {
+            "subgoal": "Further meat preparation and utensil cleaning",
+            "start_timestamp": "2211",
+            "stop_timestamp": "4807",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cutting and placing meat on plate",
+                    "start_timestamp": "2211",
+                    "stop_timestamp": "3778"
+                },
+                {
+                    "secondary_subgoal": "Washing chopping board",
+                    "start_timestamp": "3778",
+                    "stop_timestamp": "4135"
+                },
+                {
+                    "secondary_subgoal": "Put water in bowls and clean knife",
+                    "start_timestamp": "4135",
+                    "stop_timestamp": "4807"
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling additional batch of meat",
+            "start_timestamp": "4807",
+            "stop_timestamp": "7045",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open packed meat and place on chopping board",
+                    "start_timestamp": "4807",
+                    "stop_timestamp": "5321"
+                },
+                {
+                    "secondary_subgoal": "Cut meat and place on plate",
+                    "start_timestamp": "5321",
+                    "stop_timestamp": "7045"
+                }
+            ]
+        },
+        {
+            "subgoal": "Peeling and preparing cassava",
+            "start_timestamp": "7045",
+            "stop_timestamp": "8775",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Peel cassava and collect peels",
+                    "start_timestamp": "7045",
+                    "stop_timestamp": "8367"
+                },
+                {
+                    "secondary_subgoal": "Wash hands and begin grating cassava",
+                    "start_timestamp": "8367",
+                    "stop_timestamp": "8775"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking meat",
+            "start_timestamp": "8775",
+            "stop_timestamp": "9927",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Braising meat and handling pot",
+                    "start_timestamp": "8775",
+                    "stop_timestamp": "9927"
+                }
+            ]
+        },
+        {
+            "subgoal": "More grating of cassava",
+            "start_timestamp": "9927",
+            "stop_timestamp": "11942",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Grating into the bowl",
+                    "start_timestamp": "9927",
+                    "stop_timestamp": "11942"
+                }
+            ]
+        },
+        {
+            "subgoal": "Preparing vegetables",
+            "start_timestamp": "11942",
+            "stop_timestamp": "14250",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash vegetables",
+                    "start_timestamp": "11942",
+                    "stop_timestamp": "12078"
+                },
+                {
+                    "secondary_subgoal": "Cutting cucumbers and tomato",
+                    "start_timestamp": "12078",
+                    "stop_timestamp": "14250"
+                }
+            ]
+        },
+        {
+            "subgoal": "Plating vegetables and handling miscellaneous tasks",
+            "start_timestamp": "14250",
+            "stop_timestamp": "19912",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Plating vegetables",
+                    "start_timestamp": "14250",
+                    "stop_timestamp": "15865"
+                },
+                {
+                    "secondary_subgoal": "Peeling and grating cassava",
+                    "start_timestamp": "15865",
+                    "stop_timestamp": "17982"
+                },
+                {
+                    "secondary_subgoal": "Handling cooking actions",
+                    "start_timestamp": "17982",
+                    "stop_timestamp": "19912"
+                }
+            ]
+        },
+        {
+            "subgoal": "Final cooking",
+            "start_timestamp": "19912",
+            "stop_timestamp": "21337",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Final cooking steps",
+                    "start_timestamp": "19912",
+                    "stop_timestamp": "21337"
+                }
+            ]
+        }
+    ]
+}

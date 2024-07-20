@@ -1,0 +1,126 @@
+{
+    "overall_goal": "Prepare food by cutting vegetables, placing them in a cooking pot, and cooking them.",
+    "clips": [
+        {
+            "subgoal": "Cut and process vegetables",
+            "start_timestamp": 12,
+            "stop_timestamp": 903,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put vegetables in the cooking pot",
+                    "start_timestamp": 12,
+                    "stop_timestamp": 80
+                },
+                {
+                    "secondary_subgoal": "Remove vegetables from hands with a knife",
+                    "start_timestamp": 80,
+                    "stop_timestamp": 107
+                },
+                {
+                    "secondary_subgoal": "Pick pieces of green bell pepper",
+                    "start_timestamp": 148,
+                    "stop_timestamp": 200
+                },
+                {
+                    "secondary_subgoal": "Put pieces of green bell pepper in the cooking pot",
+                    "start_timestamp": 200,
+                    "stop_timestamp": 220
+                },
+                {
+                    "secondary_subgoal": "Remove pieces of green bell pepper with a knife",
+                    "start_timestamp": 220,
+                    "stop_timestamp": 309
+                },
+                {
+                    "secondary_subgoal": "Move green bell pepper in cooking pot",
+                    "start_timestamp": 346,
+                    "stop_timestamp": 407
+                },
+                {
+                    "secondary_subgoal": "Move green bell pepper seeds with a hand",
+                    "start_timestamp": 407,
+                    "stop_timestamp": 461
+                },
+                {
+                    "secondary_subgoal": "Pick and put green bell pepper seeds",
+                    "start_timestamp": 461,
+                    "stop_timestamp": 490
+                },
+                {
+                    "secondary_subgoal": "Place green bell pepper seeds in the cooking pan",
+                    "start_timestamp": 490,
+                    "stop_timestamp": 531
+                },
+                {
+                    "secondary_subgoal": "Remove pieces of green bell pepper seeds with a knife",
+                    "start_timestamp": 531,
+                    "stop_timestamp": 553
+                },
+                {
+                    "secondary_subgoal": "Switch knife to other hand and stir",
+                    "start_timestamp": 616,
+                    "stop_timestamp": 649
+                },
+                {
+                    "secondary_subgoal": "Stir food with a cooking spoon",
+                    "start_timestamp": 649,
+                    "stop_timestamp": 869
+                }
+            ]
+        },
+        {
+            "subgoal": "Start cooking process",
+            "start_timestamp": 869,
+            "stop_timestamp": 1382,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and pour water in the cooking pot",
+                    "start_timestamp": 903,
+                    "stop_timestamp": 1131
+                },
+                {
+                    "secondary_subgoal": "Put electric kettle on base plate",
+                    "start_timestamp": 1131,
+                    "stop_timestamp": 1208
+                },
+                {
+                    "secondary_subgoal": "Remove piece of green bell pepper and place in cooking pot",
+                    "start_timestamp": 1208,
+                    "stop_timestamp": 1304
+                },
+                {
+                    "secondary_subgoal": "Turn gas cooker knob",
+                    "start_timestamp": 1304,
+                    "stop_timestamp": 1382
+                }
+            ]
+        },
+        {
+            "subgoal": "Continue and finish cooking",
+            "start_timestamp": 1382,
+            "stop_timestamp": 2152,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir food and leave spoon in pot",
+                    "start_timestamp": 1382,
+                    "stop_timestamp": 1794
+                },
+                {
+                    "secondary_subgoal": "Open tap, rinse hands, and close tap",
+                    "start_timestamp": 1812,
+                    "stop_timestamp": 1846
+                },
+                {
+                    "secondary_subgoal": "Dry and move hands",
+                    "start_timestamp": 1846,
+                    "stop_timestamp": 2052
+                },
+                {
+                    "secondary_subgoal": "Look around",
+                    "start_timestamp": 2052,
+                    "stop_timestamp": 2152
+                }
+            ]
+        }
+    ]
+}

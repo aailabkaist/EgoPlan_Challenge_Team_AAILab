@@ -1,0 +1,96 @@
+{
+    "overall_goal": "Prepare and store a fruit mixture with oil, and then clean the kitchen tools and countertop.",
+    "clips": [
+        {
+            "subgoal": "Blend the fruit mixture with oil.",
+            "start_timestamp": 0,
+            "stop_timestamp": 3356,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Blend the fruit with a blender.",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 340
+                },
+                {
+                    "secondary_subgoal": "Add oil to the blender.",
+                    "start_timestamp": 417,
+                    "stop_timestamp": 754
+                },
+                {
+                    "secondary_subgoal": "Blend the mixture again.",
+                    "start_timestamp": 818,
+                    "stop_timestamp": 1274
+                },
+                {
+                    "secondary_subgoal": "Add more oil to the blender.",
+                    "start_timestamp": 1274,
+                    "stop_timestamp": 1689
+                },
+                {
+                    "secondary_subgoal": "Blend the mixture again.",
+                    "start_timestamp": 1689,
+                    "stop_timestamp": 2345
+                },
+                {
+                    "secondary_subgoal": "Add more oil to the blender.",
+                    "start_timestamp": 2345,
+                    "stop_timestamp": 2766
+                },
+                {
+                    "secondary_subgoal": "Blend the mixture again.",
+                    "start_timestamp": 2766,
+                    "stop_timestamp": 3356
+                }
+            ]
+        },
+        {
+            "subgoal": "Store the fruit mixture in bottles.",
+            "start_timestamp": 3356,
+            "stop_timestamp": 10757,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Blend the mixture again and prepare storage bottles.",
+                    "start_timestamp": 3356,
+                    "stop_timestamp": 6216
+                },
+                {
+                    "secondary_subgoal": "Transfer the mixture into storage bottles using a funnel.",
+                    "start_timestamp": 6216,
+                    "stop_timestamp": 10940
+                },
+                {
+                    "secondary_subgoal": "Label and store the bottles in the fridge.",
+                    "start_timestamp": 10940,
+                    "stop_timestamp": 11053
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean the kitchen and tools.",
+            "start_timestamp": 11053,
+            "stop_timestamp": 21339,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean up and organize the kitchen.",
+                    "start_timestamp": 11053,
+                    "stop_timestamp": 18992
+                },
+                {
+                    "secondary_subgoal": "Wrap food items and store them.",
+                    "start_timestamp": 18992,
+                    "stop_timestamp": 20684
+                },
+                {
+                    "secondary_subgoal": "Wash additional kitchen tools.",
+                    "start_timestamp": 20684,
+                    "stop_timestamp": 21121
+                },
+                {
+                    "secondary_subgoal": "Wipe hands and touch up the kitchen.",
+                    "start_timestamp": 21121,
+                    "stop_timestamp": 21339
+                }
+            ]
+        }
+    ]
+}

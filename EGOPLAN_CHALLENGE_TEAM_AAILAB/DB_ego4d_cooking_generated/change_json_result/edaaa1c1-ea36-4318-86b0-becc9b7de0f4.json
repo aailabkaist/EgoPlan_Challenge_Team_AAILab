@@ -1,0 +1,91 @@
+{
+    "overall_goal": "Prepare and cook food using various kitchen utensils and ingredients",
+    "clips": [
+        {
+            "subgoal": "Stir and mix the food in the cooking pot",
+            "start_timestamp": 42,
+            "stop_timestamp": 1811,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir the food in the cooking pot with a spoon",
+                    "start_timestamp": 42,
+                    "stop_timestamp": 459
+                },
+                {
+                    "secondary_subgoal": "Add greens to the food in the cooking pot",
+                    "start_timestamp": 517,
+                    "stop_timestamp": 600
+                },
+                {
+                    "secondary_subgoal": "Stir the food in the cooking pot again",
+                    "start_timestamp": 649,
+                    "stop_timestamp": 804
+                },
+                {
+                    "secondary_subgoal": "Regulate the gas knob",
+                    "start_timestamp": 1141,
+                    "stop_timestamp": 1811
+                }
+            ]
+        },
+        {
+            "subgoal": "Stir food and mix rice",
+            "start_timestamp": 1910,
+            "stop_timestamp": 5737,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir the food in the cooking pot",
+                    "start_timestamp": 1910,
+                    "stop_timestamp": 2786
+                },
+                {
+                    "secondary_subgoal": "Mix rice with salt",
+                    "start_timestamp": 3018,
+                    "stop_timestamp": 5635
+                },
+                {
+                    "secondary_subgoal": "Move the trey",
+                    "start_timestamp": 5635,
+                    "stop_timestamp": 5687
+                },
+                {
+                    "secondary_subgoal": "Stir the food again",
+                    "start_timestamp": 5711,
+                    "stop_timestamp": 7422
+                }
+            ]
+        },
+        {
+            "subgoal": "Move and interact with cooking pot and utensils",
+            "start_timestamp": 7537,
+            "stop_timestamp": 18225,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Assist person Y with cooking pot",
+                    "start_timestamp": 7537,
+                    "stop_timestamp": 8170
+                },
+                {
+                    "secondary_subgoal": "Stir vegetables and manage water in pot",
+                    "start_timestamp": 8205,
+                    "stop_timestamp": 9494
+                },
+                {
+                    "secondary_subgoal": "Handle the gas cooker burner and spoons",
+                    "start_timestamp": 10232,
+                    "stop_timestamp": 14158
+                },
+                {
+                    "secondary_subgoal": "Use holder to grasp and move pot",
+                    "start_timestamp": 14158,
+                    "stop_timestamp": 16050
+                },
+                {
+                    "secondary_subgoal": "Use a spatula to stir and manage frying pan",
+                    "start_timestamp": 16759,
+                    "stop_timestamp": 18225
+                }
+            ]
+        }
+    ]
+}

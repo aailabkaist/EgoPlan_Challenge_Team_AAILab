@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eeoxwHkrgrdpDEpu6JMn9wBFd5SO",
+    "object": "chat.completion",
+    "created": 1719477063,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"overall_goal\": \"Prepare a meal involving spring onions, eggs, ugali, green vegetables, pink minced meat, and broccoli.\",\n    \"clips\": [\n        {\n            \"subgoal\": \"Prepare and cut spring onions\",\n            \"start_timestamp\": 0,\n            \"stop_timestamp\": 1009,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Cut and prepare spring onions on the chopping board\", \"start_timestamp\": 0, \"stop_timestamp\": 502},\n                {\"secondary_subgoal\": \"Put spring onions in cooking pot\", \"start_timestamp\": 502, \"stop_timestamp\": 818},\n                {\"secondary_subgoal\": \"Clean the chopping board and knife\", \"start_timestamp\": 818, \"stop_timestamp\": 1009}\n            ]\n        },\n        {\n            \"subgoal\": \"Cook initial ingredients\",\n            \"start_timestamp\": 1009,\n            \"stop_timestamp\": 3107,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Start cooking spring onions and soup\", \"start_timestamp\": 1009, \"stop_timestamp\": 3187},\n                {\"secondary_subgoal\": \"Break and stir eggs, then pour into cooking pot\", \"start_timestamp\": 3187, \"stop_timestamp\": 5038}\n            ]\n        },\n        {\n            \"subgoal\": \"Prepare dishes for serving\",\n            \"start_timestamp\": 5038,\n            \"stop_timestamp\": 7753,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Handle eggs and clean tin\", \"start_timestamp\": 5038, \"stop_timestamp\": 5692},\n                {\"secondary_subgoal\": \"Wash hands and look for more ingredients\", \"start_timestamp\": 5692, \"stop_timestamp\": 6086},\n                {\"secondary_subgoal\": \"Organize dishes\", \"start_timestamp\": 6086, \"stop_timestamp\": 7753}\n            ]\n        },\n        {\n            \"subgoal\": \"Prepare ugali\",\n            \"start_timestamp\": 7753,\n            \"stop_timestamp\": 13491,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Unwrap and plate ugali\", \"start_timestamp\": 7753, \"stop_timestamp\": 9129},\n                {\"secondary_subgoal\": \"Clean up and organize plates\", \"start_timestamp\": 9129, \"stop_timestamp\": 11915},\n                {\"secondary_subgoal\": \"Prepare and plate broccoli\", \"start_timestamp\": 11915, \"stop_timestamp\": 13491}\n            ]\n        },\n        {\n            \"subgoal\": \"Prepare green vegetables with pink minced meat\",\n            \"start_timestamp\": 13491,\n            \"stop_timestamp\": 19817,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Cut and prepare green vegetables\", \"start_timestamp\": 13491, \"stop_timestamp\": 15801},\n                {\"secondary_subgoal\": \"Prepare pink minced meat and apply it to green vegetables\", \"start_timestamp\": 15801, \"stop_timestamp\": 19489},\n                {\"secondary_subgoal\": \"Clean hands and prepare ingredients\", \"start_timestamp\": 19489, \"stop_timestamp\": 19817}\n            ]\n        },\n        {\n            \"subgoal\": \"Final cleanup\",\n            \"start_timestamp\": 19817,\n            \"stop_timestamp\": 21270,\n            \"sub_clips\": [\n                {\"secondary_subgoal\": \"Dispose of unused materials and clean up\", \"start_timestamp\": 19817, \"stop_timestamp\": 21270}\n            ]\n        }\n    ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4213,
+        "completion_tokens": 741,
+        "total_tokens": 4954
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

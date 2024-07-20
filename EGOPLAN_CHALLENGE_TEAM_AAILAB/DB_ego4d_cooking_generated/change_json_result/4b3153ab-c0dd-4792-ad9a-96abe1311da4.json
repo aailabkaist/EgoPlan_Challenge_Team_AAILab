@@ -1,0 +1,131 @@
+{
+    "overall_goal": "Preparing a dish by cooking ingredients in a pan and adding various seasonings and water.",
+    "clips": [
+        {
+            "subgoal": "Gathering and placing ingredients into the pan",
+            "start_timestamp": 62,
+            "stop_timestamp": 496,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Picking ingredients from the chopping board",
+                    "start_timestamp": 62,
+                    "stop_timestamp": 141
+                },
+                {
+                    "secondary_subgoal": "Placing ingredients on the pan",
+                    "start_timestamp": 141,
+                    "stop_timestamp": 181
+                },
+                {
+                    "secondary_subgoal": "Picking ingredients from the chopping board",
+                    "start_timestamp": 181,
+                    "stop_timestamp": 226
+                },
+                {
+                    "secondary_subgoal": "Placing ingredients on the pan",
+                    "start_timestamp": 226,
+                    "stop_timestamp": 305
+                },
+                {
+                    "secondary_subgoal": "Picking ingredients from the chopping board",
+                    "start_timestamp": 305,
+                    "stop_timestamp": 394
+                },
+                {
+                    "secondary_subgoal": "Placing ingredients on the pan",
+                    "start_timestamp": 394,
+                    "stop_timestamp": 413
+                },
+                {
+                    "secondary_subgoal": "Picking ingredients from the chopping board",
+                    "start_timestamp": 413,
+                    "stop_timestamp": 441
+                },
+                {
+                    "secondary_subgoal": "Placing ingredients on the pan",
+                    "start_timestamp": 441,
+                    "stop_timestamp": 469
+                },
+                {
+                    "secondary_subgoal": "Picking ingredients from the chopping board",
+                    "start_timestamp": 469,
+                    "stop_timestamp": 496
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking and seasoning the ingredients",
+            "start_timestamp": 496,
+            "stop_timestamp": 2257,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Placing ingredients on the pan",
+                    "start_timestamp": 496,
+                    "stop_timestamp": 519
+                },
+                {
+                    "secondary_subgoal": "Shaking and stirring the pan",
+                    "start_timestamp": 519,
+                    "stop_timestamp": 683
+                },
+                {
+                    "secondary_subgoal": "Adding ingredient to the pan",
+                    "start_timestamp": 683,
+                    "stop_timestamp": 700
+                },
+                {
+                    "secondary_subgoal": "Dropping the ingredient in the pan",
+                    "start_timestamp": 700,
+                    "stop_timestamp": 712
+                },
+                {
+                    "secondary_subgoal": "Stirring the ingredients",
+                    "start_timestamp": 712,
+                    "stop_timestamp": 838
+                },
+                {
+                    "secondary_subgoal": "Holding and spinning the pan",
+                    "start_timestamp": 838,
+                    "stop_timestamp": 2001
+                },
+                {
+                    "secondary_subgoal": "Adding salt to the ingredients",
+                    "start_timestamp": 2001,
+                    "stop_timestamp": 2257
+                }
+            ]
+        },
+        {
+            "subgoal": "Finalizing the dish",
+            "start_timestamp": 2257,
+            "stop_timestamp": 6077,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stirring and shaking the pan",
+                    "start_timestamp": 2257,
+                    "stop_timestamp": 3092
+                },
+                {
+                    "secondary_subgoal": "Rearranging items and picking a sachet",
+                    "start_timestamp": 3092,
+                    "stop_timestamp": 5404
+                },
+                {
+                    "secondary_subgoal": "Pouring content from sachet into the pan",
+                    "start_timestamp": 5404,
+                    "stop_timestamp": 5591
+                },
+                {
+                    "secondary_subgoal": "Holding the pan and shaking it",
+                    "start_timestamp": 5591,
+                    "stop_timestamp": 5886
+                },
+                {
+                    "secondary_subgoal": "Moving a disposable cup",
+                    "start_timestamp": 5886,
+                    "stop_timestamp": 6077
+                }
+            ]
+        }
+    ]
+}

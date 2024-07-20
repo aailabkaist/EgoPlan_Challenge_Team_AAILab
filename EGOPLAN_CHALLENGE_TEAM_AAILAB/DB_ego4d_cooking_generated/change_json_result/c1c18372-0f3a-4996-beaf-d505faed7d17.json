@@ -1,0 +1,210 @@
+{
+    "overall_goal": "Preparing and storing food while maintaining kitchen cleanliness",
+    "clips": [
+        {
+            "subgoal": "Prepping and storing vegetables",
+            "start_timestamp": "0",
+            "stop_timestamp": "2955",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pouring vegetable in the bowl",
+                    "start_timestamp": "0",
+                    "stop_timestamp": "72"
+                },
+                {
+                    "secondary_subgoal": "Disposing of container",
+                    "start_timestamp": "72",
+                    "stop_timestamp": "110"
+                },
+                {
+                    "secondary_subgoal": "Removing container wrap",
+                    "start_timestamp": "110",
+                    "stop_timestamp": "560"
+                },
+                {
+                    "secondary_subgoal": "Disposing of wrap and drying hands",
+                    "start_timestamp": "560",
+                    "stop_timestamp": "685"
+                },
+                {
+                    "secondary_subgoal": "Grabbing chopstick and reopening container",
+                    "start_timestamp": "685",
+                    "stop_timestamp": "912"
+                },
+                {
+                    "secondary_subgoal": "Pouring vegetables in bowl",
+                    "start_timestamp": "912",
+                    "stop_timestamp": "1115"
+                },
+                {
+                    "secondary_subgoal": "Handling bowl and container",
+                    "start_timestamp": "1115",
+                    "stop_timestamp": "1211"
+                },
+                {
+                    "secondary_subgoal": "Moving and cleaning bowls",
+                    "start_timestamp": "1211",
+                    "stop_timestamp": "1582"
+                },
+                {
+                    "secondary_subgoal": "Handling serviette",
+                    "start_timestamp": "1582",
+                    "stop_timestamp": "1807"
+                },
+                {
+                    "secondary_subgoal": "Pouring vegetables again",
+                    "start_timestamp": "1807",
+                    "stop_timestamp": "2235"
+                },
+                {
+                    "secondary_subgoal": "Storing container and wiping hands",
+                    "start_timestamp": "2235",
+                    "stop_timestamp": "2297"
+                },
+                {
+                    "secondary_subgoal": "Handling paper wrap",
+                    "start_timestamp": "2297",
+                    "stop_timestamp": "2462"
+                },
+                {
+                    "secondary_subgoal": "Wrapping and moving bowl to fridge",
+                    "start_timestamp": "2462",
+                    "stop_timestamp": "2735"
+                },
+                {
+                    "secondary_subgoal": "Rehandling wrap and bowl",
+                    "start_timestamp": "2735",
+                    "stop_timestamp": "2980"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cooking and seasoning food",
+            "start_timestamp": "2980",
+            "stop_timestamp": "3673",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Opening pot",
+                    "start_timestamp": "2980",
+                    "stop_timestamp": "3107"
+                },
+                {
+                    "secondary_subgoal": "Pouring sauce in food",
+                    "start_timestamp": "3107",
+                    "stop_timestamp": "3425"
+                },
+                {
+                    "secondary_subgoal": "Handling sauce bottle",
+                    "start_timestamp": "3425",
+                    "stop_timestamp": "3680"
+                },
+                {
+                    "secondary_subgoal": "Stirring food with chopsticks",
+                    "start_timestamp": "3680",
+                    "stop_timestamp": "4399"
+                },
+                {
+                    "secondary_subgoal": "Handling lid and bottle",
+                    "start_timestamp": "4399",
+                    "stop_timestamp": "4637"
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning utensils and surface",
+            "start_timestamp": "4637",
+            "stop_timestamp": "5646",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning chopstick",
+                    "start_timestamp": "4637",
+                    "stop_timestamp": "4826"
+                },
+                {
+                    "secondary_subgoal": "Washing and rinsing bowl",
+                    "start_timestamp": "4826",
+                    "stop_timestamp": "4987"
+                },
+                {
+                    "secondary_subgoal": "Handling container",
+                    "start_timestamp": "4987",
+                    "stop_timestamp": "5072"
+                },
+                {
+                    "secondary_subgoal": "Cleaning hands",
+                    "start_timestamp": "5072",
+                    "stop_timestamp": "5161"
+                },
+                {
+                    "secondary_subgoal": "Cleaning counter and towel",
+                    "start_timestamp": "5161",
+                    "stop_timestamp": "5646"
+                }
+            ]
+        },
+        {
+            "subgoal": "Collecting and preparing items for serving",
+            "start_timestamp": "5646",
+            "stop_timestamp": "8496",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Grabbing spoon and plate",
+                    "start_timestamp": "5646",
+                    "stop_timestamp": "5902"
+                },
+                {
+                    "secondary_subgoal": "Opening and handling cooker",
+                    "start_timestamp": "5902",
+                    "stop_timestamp": "6124"
+                },
+                {
+                    "secondary_subgoal": "Serving soup",
+                    "start_timestamp": "6124",
+                    "stop_timestamp": "6497"
+                },
+                {
+                    "secondary_subgoal": "Stirring food and moving to sink",
+                    "start_timestamp": "6497",
+                    "stop_timestamp": "6824"
+                },
+                {
+                    "secondary_subgoal": "Handling bottle and pouring sauce",
+                    "start_timestamp": "6824",
+                    "stop_timestamp": "7170"
+                },
+                {
+                    "secondary_subgoal": "Stirring and handling pot",
+                    "start_timestamp": "7170",
+                    "stop_timestamp": "8090"
+                },
+                {
+                    "secondary_subgoal": "Refrigerating bottle and washing items",
+                    "start_timestamp": "8090",
+                    "stop_timestamp": "8496"
+                }
+            ]
+        },
+        {
+            "subgoal": "Final cleaning and tidying",
+            "start_timestamp": "8496",
+            "stop_timestamp": "12392",
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Finishing washing and cleaning items",
+                    "start_timestamp": "8496",
+                    "stop_timestamp": "9000"
+                },
+                {
+                    "secondary_subgoal": "FInal cleaning and adjusting heat",
+                    "start_timestamp": "9000",
+                    "stop_timestamp": "12292"
+                },
+                {
+                    "secondary_subgoal": "Adjusting camera",
+                    "start_timestamp": "12292",
+                    "stop_timestamp": "12392"
+                }
+            ]
+        }
+    ]
+}

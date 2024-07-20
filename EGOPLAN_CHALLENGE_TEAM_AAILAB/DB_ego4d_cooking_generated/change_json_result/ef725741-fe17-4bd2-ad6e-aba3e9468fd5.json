@@ -1,0 +1,123 @@
+{
+    "overall_goal": "Prepare dough for a recipe",
+    "clips": [
+        {
+            "subgoal": "Prepare flour for the dough",
+            "start_timestamp": 45,
+            "stop_timestamp": 1265,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on the weighing machine",
+                    "start_timestamp": 45,
+                    "stop_timestamp": 94
+                },
+                {
+                    "secondary_subgoal": "Pick up and pour flour into a bowl",
+                    "start_timestamp": 135,
+                    "stop_timestamp": 822
+                },
+                {
+                    "secondary_subgoal": "Adjust the flour packet",
+                    "start_timestamp": 822,
+                    "stop_timestamp": 1053
+                },
+                {
+                    "secondary_subgoal": "Close the flour packet with a peg",
+                    "start_timestamp": 1053,
+                    "stop_timestamp": 1138
+                },
+                {
+                    "secondary_subgoal": "Put down the flour packet and wipe hands",
+                    "start_timestamp": 1138,
+                    "stop_timestamp": 1265
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare water for the dough",
+            "start_timestamp": 2006,
+            "stop_timestamp": 4509,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn on the weighing machine",
+                    "start_timestamp": 2006,
+                    "stop_timestamp": 2138
+                },
+                {
+                    "secondary_subgoal": "Measure water using a kettle and jar",
+                    "start_timestamp": 2214,
+                    "stop_timestamp": 2753
+                },
+                {
+                    "secondary_subgoal": "Fill and pour water multiple times",
+                    "start_timestamp": 2791,
+                    "stop_timestamp": 4473
+                },
+                {
+                    "secondary_subgoal": "Put down the jar and turn on the weighing machine",
+                    "start_timestamp": 4525,
+                    "stop_timestamp": 4591
+                }
+            ]
+        },
+        {
+            "subgoal": "Add spices to the flour",
+            "start_timestamp": 4616,
+            "stop_timestamp": 5822,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open and shake the packet of spices",
+                    "start_timestamp": 4616,
+                    "stop_timestamp": 4909
+                },
+                {
+                    "secondary_subgoal": "Sprinkle spices into the jar",
+                    "start_timestamp": 4909,
+                    "stop_timestamp": 5255
+                },
+                {
+                    "secondary_subgoal": "Stir spices and adjust the tin",
+                    "start_timestamp": 5288,
+                    "stop_timestamp": 5530
+                },
+                {
+                    "secondary_subgoal": "Wipe the weighing machine",
+                    "start_timestamp": 5530,
+                    "stop_timestamp": 5618
+                },
+                {
+                    "secondary_subgoal": "Prepare and add spices to the bowl",
+                    "start_timestamp": 5654,
+                    "stop_timestamp": 5822
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix the dough",
+            "start_timestamp": 5842,
+            "stop_timestamp": 19683,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Stir flour and adjust bowl",
+                    "start_timestamp": 5842,
+                    "stop_timestamp": 6239
+                },
+                {
+                    "secondary_subgoal": "Fix the spoon and scoop spices",
+                    "start_timestamp": 6443,
+                    "stop_timestamp": 8136
+                },
+                {
+                    "secondary_subgoal": "Pour water and mix ingredients",
+                    "start_timestamp": 8500,
+                    "stop_timestamp": 15056
+                },
+                {
+                    "secondary_subgoal": "Knead the dough repeatedly",
+                    "start_timestamp": 15716,
+                    "stop_timestamp": 19683
+                }
+            ]
+        }
+    ]
+}

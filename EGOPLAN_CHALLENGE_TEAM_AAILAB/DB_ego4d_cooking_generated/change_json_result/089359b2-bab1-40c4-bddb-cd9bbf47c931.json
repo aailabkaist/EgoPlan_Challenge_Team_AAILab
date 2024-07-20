@@ -1,0 +1,73 @@
+{
+    "overall_goal": "Position dough properly on the weaved stand for it to rest or process further",
+    "clips": [
+        {
+            "subgoal": "Preparation and collecting dough",
+            "start_timestamp": 27,
+            "stop_timestamp": 284,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather material and initial movements",
+                    "start_timestamp": 27,
+                    "stop_timestamp": 95
+                },
+                {
+                    "secondary_subgoal": "Handle dough material",
+                    "start_timestamp": 95,
+                    "stop_timestamp": 284
+                }
+            ]
+        },
+        {
+            "subgoal": "Adjusting polythene bag and interacting with dough",
+            "start_timestamp": 284,
+            "stop_timestamp": 737,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Adjust polythene bag and interact with others",
+                    "start_timestamp": 284,
+                    "stop_timestamp": 489
+                },
+                {
+                    "secondary_subgoal": "Turn around and place dough on the weaved stand",
+                    "start_timestamp": 489,
+                    "stop_timestamp": 737
+                }
+            ]
+        },
+        {
+            "subgoal": "Placing and adjusting dough repeatedly",
+            "start_timestamp": 737,
+            "stop_timestamp": 4799,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Placing and adjusting dough with slight movements",
+                    "start_timestamp": 737,
+                    "stop_timestamp": 4775
+                },
+                {
+                    "secondary_subgoal": "Final adjustments before turning around",
+                    "start_timestamp": 4775,
+                    "stop_timestamp": 4799
+                }
+            ]
+        },
+        {
+            "subgoal": "Final portion adjustments and modifications",
+            "start_timestamp": 4799,
+            "stop_timestamp": 6803,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Additional dough and polythene adjustments continuously",
+                    "start_timestamp": 4799,
+                    "stop_timestamp": 6703
+                },
+                {
+                    "secondary_subgoal": "Completing the process by turning around",
+                    "start_timestamp": 6703,
+                    "stop_timestamp": 6803
+                }
+            ]
+        }
+    ]
+}

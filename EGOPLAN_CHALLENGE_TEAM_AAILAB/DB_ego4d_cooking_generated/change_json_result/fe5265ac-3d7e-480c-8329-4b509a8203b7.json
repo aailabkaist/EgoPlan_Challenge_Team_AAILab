@@ -1,0 +1,100 @@
+{
+    "overall_goal": "Clean various kitchen utensils including cups, water grass, pots, pans, trays, and dishes.",
+    "clips": [
+        {
+            "subgoal": "Prepare for cleaning by gathering materials and organizing space.",
+            "start_timestamp": 70,
+            "stop_timestamp": 1787,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather cups and other materials.",
+                    "start_timestamp": 70,
+                    "stop_timestamp": 1546
+                },
+                {
+                    "secondary_subgoal": "Gather water grass and other items.",
+                    "start_timestamp": 1047,
+                    "stop_timestamp": 1787
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and use soap powder to clean items.",
+            "start_timestamp": 1787,
+            "stop_timestamp": 2614,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pour soap powder and prepare it for use.",
+                    "start_timestamp": 1787,
+                    "stop_timestamp": 2502
+                },
+                {
+                    "secondary_subgoal": "Start washing water grass using soap powder.",
+                    "start_timestamp": 2502,
+                    "stop_timestamp": 2614
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean cups and metal cup.",
+            "start_timestamp": 2614,
+            "stop_timestamp": 5665,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash water grass multiple times.",
+                    "start_timestamp": 2614,
+                    "stop_timestamp": 10329
+                },
+                {
+                    "secondary_subgoal": "Wash cups multiple times.",
+                    "start_timestamp": 10329,
+                    "stop_timestamp": 11884
+                },
+                {
+                    "secondary_subgoal": "Wash metal cup multiple times.",
+                    "start_timestamp": 11884,
+                    "stop_timestamp": 5665
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean water jug and more cups.",
+            "start_timestamp": 5665,
+            "stop_timestamp": 7708,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean water jug using soap powder.",
+                    "start_timestamp": 5665,
+                    "stop_timestamp": 5665
+                },
+                {
+                    "secondary_subgoal": "Clean more cups multiple times.",
+                    "start_timestamp": 5665,
+                    "stop_timestamp": 11124
+                }
+            ]
+        },
+        {
+            "subgoal": "Finish by thoroughly washing remaining utensils.",
+            "start_timestamp": 11124,
+            "stop_timestamp": 32436,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash cooking pots and pans.",
+                    "start_timestamp": 11124,
+                    "stop_timestamp": 21466
+                },
+                {
+                    "secondary_subgoal": "Progress to washing trays and steel plates.",
+                    "start_timestamp": 21466,
+                    "stop_timestamp": 29233
+                },
+                {
+                    "secondary_subgoal": "Complete cleaning by scrubbing remaining items.",
+                    "start_timestamp": 29233,
+                    "stop_timestamp": 32436
+                }
+            ]
+        }
+    ]
+}

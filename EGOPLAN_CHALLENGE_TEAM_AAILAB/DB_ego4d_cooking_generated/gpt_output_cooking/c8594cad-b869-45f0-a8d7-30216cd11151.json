@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9depLyeww76LGalVwEWyiYF3VXb3u",
+    "object": "chat.completion",
+    "created": 1719238759,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare food by cutting vegetables, placing them in a cooking pot, and cooking them.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Cut and process vegetables\",\n      \"start_timestamp\": 12,\n      \"stop_timestamp\": 903,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Put vegetables in the cooking pot\",\n          \"start_timestamp\": 12,\n          \"stop_timestamp\": 80\n        },\n        {\n          \"secondary_subgoal\": \"Remove vegetables from hands with a knife\",\n          \"start_timestamp\": 80,\n          \"stop_timestamp\": 107\n        },\n        {\n          \"secondary_subgoal\": \"Pick pieces of green bell pepper\",\n          \"start_timestamp\": 148,\n          \"stop_timestamp\": 200\n        },\n        {\n          \"secondary_subgoal\": \"Put pieces of green bell pepper in the cooking pot\",\n          \"start_timestamp\": 200,\n          \"stop_timestamp\": 220\n        },\n        {\n          \"secondary_subgoal\": \"Remove pieces of green bell pepper with a knife\",\n          \"start_timestamp\": 220,\n          \"stop_timestamp\": 309\n        },\n        {\n          \"secondary_subgoal\": \"Move green bell pepper in cooking pot\",\n          \"start_timestamp\": 346,\n          \"stop_timestamp\": 407\n        },\n        {\n          \"secondary_subgoal\": \"Move green bell pepper seeds with a hand\",\n          \"start_timestamp\": 407,\n          \"stop_timestamp\": 461\n        },\n        {\n          \"secondary_subgoal\": \"Pick and put green bell pepper seeds\",\n          \"start_timestamp\": 461,\n          \"stop_timestamp\": 490\n        },\n        {\n          \"secondary_subgoal\": \"Place green bell pepper seeds in the cooking pan\",\n          \"start_timestamp\": 490,\n          \"stop_timestamp\": 531\n        },\n        {\n          \"secondary_subgoal\": \"Remove pieces of green bell pepper seeds with a knife\",\n          \"start_timestamp\": 531,\n          \"stop_timestamp\": 553\n        },\n        {\n          \"secondary_subgoal\": \"Switch knife to other hand and stir\",\n          \"start_timestamp\": 616,\n          \"stop_timestamp\": 649\n        },\n        {\n          \"secondary_subgoal\": \"Stir food with a cooking spoon\",\n          \"start_timestamp\": 649,\n          \"stop_timestamp\": 869\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Start cooking process\",\n      \"start_timestamp\": 869,\n      \"stop_timestamp\": 1382,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Pick and pour water in the cooking pot\",\n          \"start_timestamp\": 903,\n          \"stop_timestamp\": 1131\n        },\n        {\n          \"secondary_subgoal\": \"Put electric kettle on base plate\",\n          \"start_timestamp\": 1131,\n          \"stop_timestamp\": 1208\n        },\n        {\n          \"secondary_subgoal\": \"Remove piece of green bell pepper and place in cooking pot\",\n          \"start_timestamp\": 1208,\n          \"stop_timestamp\": 1304\n        },\n        {\n          \"secondary_subgoal\": \"Turn gas cooker knob\",\n          \"start_timestamp\": 1304,\n          \"stop_timestamp\": 1382\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Continue and finish cooking\",\n      \"start_timestamp\": 1382,\n      \"stop_timestamp\": 2152,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Stir food and leave spoon in pot\",\n          \"start_timestamp\": 1382,\n          \"stop_timestamp\": 1794\n        },\n        {\n          \"secondary_subgoal\": \"Open tap, rinse hands, and close tap\",\n          \"start_timestamp\": 1812,\n          \"stop_timestamp\": 1846\n        },\n        {\n          \"secondary_subgoal\": \"Dry and move hands\",\n          \"start_timestamp\": 1846,\n          \"stop_timestamp\": 2052\n        },\n        {\n          \"secondary_subgoal\": \"Look around\",\n          \"start_timestamp\": 2052,\n          \"stop_timestamp\": 2152\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 814,
+        "completion_tokens": 878,
+        "total_tokens": 1692
+    },
+    "system_fingerprint": "fp_3e7d703517"
+}

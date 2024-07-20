@@ -1,0 +1,129 @@
+{
+    "overall_goal": "Prepare and serve food, then clean the kitchen",
+    "clips": [
+        {
+            "subgoal": "Serve food in bowls",
+            "start_timestamp": 630,
+            "stop_timestamp": 1410,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mix and serve food from the pot to the bowls",
+                    "start_timestamp": 630,
+                    "stop_timestamp": 1097
+                },
+                {
+                    "secondary_subgoal": "Prepare and put rice in a bowl",
+                    "start_timestamp": 1097,
+                    "stop_timestamp": 1209
+                },
+                {
+                    "secondary_subgoal": "Mix food and close the pot",
+                    "start_timestamp": 1219,
+                    "stop_timestamp": 1410
+                }
+            ]
+        },
+        {
+            "subgoal": "Place a pot on a cooker",
+            "start_timestamp": 1410,
+            "stop_timestamp": 1755,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move items and place pot on the cooker",
+                    "start_timestamp": 1410,
+                    "stop_timestamp": 1554
+                },
+                {
+                    "secondary_subgoal": "Prepare eating utensils",
+                    "start_timestamp": 1693,
+                    "stop_timestamp": 1755
+                }
+            ]
+        },
+        {
+            "subgoal": "Place cucumbers in a bowl",
+            "start_timestamp": 1921,
+            "stop_timestamp": 2797,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Retrieve and place cucumbers in a bowl",
+                    "start_timestamp": 1921,
+                    "stop_timestamp": 2742
+                },
+                {
+                    "secondary_subgoal": "Put the bowl on the kitchen worktop and close the container",
+                    "start_timestamp": 2706,
+                    "stop_timestamp": 2797
+                }
+            ]
+        },
+        {
+            "subgoal": "Store containers in the fridge",
+            "start_timestamp": 2846,
+            "stop_timestamp": 3208,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open the fridge, move items, and place container inside",
+                    "start_timestamp": 2987,
+                    "stop_timestamp": 3208
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash and clean kitchen utensils",
+            "start_timestamp": 3295,
+            "stop_timestamp": 5044,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash spatula and clean the sink",
+                    "start_timestamp": 3295,
+                    "stop_timestamp": 3707
+                },
+                {
+                    "secondary_subgoal": "Clean the pot",
+                    "start_timestamp": 3721,
+                    "stop_timestamp": 4247
+                },
+                {
+                    "secondary_subgoal": "Clean the sink again",
+                    "start_timestamp": 4284,
+                    "stop_timestamp": 4466
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve soup",
+            "start_timestamp": 4523,
+            "stop_timestamp": 4951,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Open pot and serve soup in bowls",
+                    "start_timestamp": 4523,
+                    "stop_timestamp": 4875
+                },
+                {
+                    "secondary_subgoal": "Place ladle in the pot and place bowls on the worktop",
+                    "start_timestamp": 4875,
+                    "stop_timestamp": 4951
+                }
+            ]
+        },
+        {
+            "subgoal": "Close pots and clean the cooker",
+            "start_timestamp": 4988,
+            "stop_timestamp": 5673,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Close the pots with lids",
+                    "start_timestamp": 4988,
+                    "stop_timestamp": 5140
+                },
+                {
+                    "secondary_subgoal": "Scrub, clean, and replace pan support on the cooker",
+                    "start_timestamp": 5185,
+                    "stop_timestamp": 5634
+                }
+            ]
+        }
+    ]
+}

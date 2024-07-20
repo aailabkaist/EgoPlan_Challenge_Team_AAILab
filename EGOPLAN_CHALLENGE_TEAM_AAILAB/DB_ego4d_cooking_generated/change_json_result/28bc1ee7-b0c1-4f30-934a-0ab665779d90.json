@@ -1,0 +1,185 @@
+{
+    "overall_goal": "Cook a vegetable dish using various ingredients and kitchen tools",
+    "clips": [
+        {
+            "subgoal": "Prepare electric jug and set up utensils",
+            "start_timestamp": 88,
+            "stop_timestamp": 662,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take and open electric jug",
+                    "start_timestamp": 88,
+                    "stop_timestamp": 210
+                },
+                {
+                    "secondary_subgoal": "Fill electric jug with water and put on stand",
+                    "start_timestamp": 210,
+                    "stop_timestamp": 662
+                }
+            ]
+        },
+        {
+            "subgoal": "Wash and dry chopping board",
+            "start_timestamp": 996,
+            "stop_timestamp": 1759,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash chopping board",
+                    "start_timestamp": 996,
+                    "stop_timestamp": 1563
+                },
+                {
+                    "secondary_subgoal": "Dry chopping board",
+                    "start_timestamp": 1563,
+                    "stop_timestamp": 1759
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare pumpkin",
+            "start_timestamp": 2298,
+            "stop_timestamp": 14570,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take knife and peel pumpkin",
+                    "start_timestamp": 2298,
+                    "stop_timestamp": 4381
+                },
+                {
+                    "secondary_subgoal": "Wash and cut pumpkin into small pieces",
+                    "start_timestamp": 4391,
+                    "stop_timestamp": 14570
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare cabbage",
+            "start_timestamp": 14625,
+            "stop_timestamp": 20933,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take and cut cabbage leaves",
+                    "start_timestamp": 14625,
+                    "stop_timestamp": 15002
+                },
+                {
+                    "secondary_subgoal": "Wash and dry cabbage",
+                    "start_timestamp": 15002,
+                    "stop_timestamp": 16702
+                },
+                {
+                    "secondary_subgoal": "Cut and peel cabbage",
+                    "start_timestamp": 16702,
+                    "stop_timestamp": 18808
+                },
+                {
+                    "secondary_subgoal": "Cut and put cabbage in tray",
+                    "start_timestamp": 18808,
+                    "stop_timestamp": 20933
+                }
+            ]
+        },
+        {
+            "subgoal": "Peel and prepare sweet potato",
+            "start_timestamp": 21104,
+            "stop_timestamp": 26629,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take and peel sweet potato",
+                    "start_timestamp": 21104,
+                    "stop_timestamp": 24096
+                },
+                {
+                    "secondary_subgoal": "Wash, dry, and cut sweet potato",
+                    "start_timestamp": 24096,
+                    "stop_timestamp": 26629
+                }
+            ]
+        },
+        {
+            "subgoal": "Peel and prepare garlic",
+            "start_timestamp": 26676,
+            "stop_timestamp": 36587,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take and peel garlic",
+                    "start_timestamp": 26676,
+                    "stop_timestamp": 34251
+                },
+                {
+                    "secondary_subgoal": "Put garlic in tray",
+                    "start_timestamp": 34251,
+                    "stop_timestamp": 36587
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare electric jug mixture",
+            "start_timestamp": 27452,
+            "stop_timestamp": 30626,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Drain water and add powder to mixture",
+                    "start_timestamp": 27452,
+                    "stop_timestamp": 30001
+                },
+                {
+                    "secondary_subgoal": "Shake mixture and put it aside",
+                    "start_timestamp": 30001,
+                    "stop_timestamp": 30626
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cut bell pepper",
+            "start_timestamp": 30626,
+            "stop_timestamp": 33761,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take, wash, and dry bell pepper",
+                    "start_timestamp": 30626,
+                    "stop_timestamp": 31926
+                },
+                {
+                    "secondary_subgoal": "Cut and put bell pepper in tray",
+                    "start_timestamp": 31926,
+                    "stop_timestamp": 33761
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and cut cabbage stem",
+            "start_timestamp": 37060,
+            "stop_timestamp": 39104,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Take and cut cabbage stem",
+                    "start_timestamp": 37060,
+                    "stop_timestamp": 38660
+                },
+                {
+                    "secondary_subgoal": "Put pieces of stem in tray",
+                    "start_timestamp": 38660,
+                    "stop_timestamp": 39104
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare and stir mixture",
+            "start_timestamp": 39171,
+            "stop_timestamp": 41676,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Add ingredients and stir mixture",
+                    "start_timestamp": 39171,
+                    "stop_timestamp": 41335
+                },
+                {
+                    "secondary_subgoal": "Put mixture in oven",
+                    "start_timestamp": 41335,
+                    "stop_timestamp": 41676
+                }
+            ]
+        }
+    ]
+}

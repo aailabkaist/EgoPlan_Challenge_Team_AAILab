@@ -1,0 +1,88 @@
+{
+    "overall_goal": "Preparing and storing food using various kitchen items and appliances",
+    "clips": [
+        {
+            "subgoal": "Preparing ingredients and seasoning",
+            "start_timestamp": 30,
+            "stop_timestamp": 762,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Taking and handling kitchen items",
+                    "start_timestamp": 30,
+                    "stop_timestamp": 369
+                },
+                {
+                    "secondary_subgoal": "Handling spices",
+                    "start_timestamp": 369,
+                    "stop_timestamp": 762
+                }
+            ]
+        },
+        {
+            "subgoal": "Handling waste and preparing sachets",
+            "start_timestamp": 762,
+            "stop_timestamp": 1671,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Throwing away sachet",
+                    "start_timestamp": 762,
+                    "stop_timestamp": 828
+                },
+                {
+                    "secondary_subgoal": "Preparing more sachets",
+                    "start_timestamp": 828,
+                    "stop_timestamp": 1289
+                },
+                {
+                    "secondary_subgoal": "Cleaning up",
+                    "start_timestamp": 1289,
+                    "stop_timestamp": 1671
+                }
+            ]
+        },
+        {
+            "subgoal": "Cleaning kitchen items",
+            "start_timestamp": 1671,
+            "stop_timestamp": 2070,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Cleaning and putting away the lid",
+                    "start_timestamp": 1671,
+                    "stop_timestamp": 2031
+                },
+                {
+                    "secondary_subgoal": "Closing the tap",
+                    "start_timestamp": 2031,
+                    "stop_timestamp": 2070
+                }
+            ]
+        },
+        {
+            "subgoal": "Stirring food and using the microwave",
+            "start_timestamp": 2070,
+            "stop_timestamp": 689,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Handling food with microwave",
+                    "start_timestamp": 4579,
+                    "stop_timestamp": 5004
+                },
+                {
+                    "secondary_subgoal": "Stirring food with chopsticks",
+                    "start_timestamp": 5004,
+                    "stop_timestamp": 5258
+                },
+                {
+                    "secondary_subgoal": "Handling food and microwave",
+                    "start_timestamp": 5258,
+                    "stop_timestamp": 646
+                },
+                {
+                    "secondary_subgoal": "Handling dirty foil paper and fridge",
+                    "start_timestamp": 646,
+                    "stop_timestamp": 689
+                }
+            ]
+        }
+    ]
+}

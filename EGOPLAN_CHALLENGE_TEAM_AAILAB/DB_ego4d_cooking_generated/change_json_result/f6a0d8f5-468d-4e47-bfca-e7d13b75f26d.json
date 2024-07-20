@@ -1,0 +1,118 @@
+{
+    "overall_goal": "Prepare a carrot-banana mixture in a bowl",
+    "clips": [
+        {
+            "subgoal": "Gather, peel, and plate bananas",
+            "start_timestamp": 81,
+            "stop_timestamp": 1263,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and plate carrot",
+                    "start_timestamp": 81,
+                    "stop_timestamp": 179
+                },
+                {
+                    "secondary_subgoal": "Pick, peel, and plate the banana",
+                    "start_timestamp": 179,
+                    "stop_timestamp": 601
+                },
+                {
+                    "secondary_subgoal": "Dispose of peels in the trash bin and walk back",
+                    "start_timestamp": 601,
+                    "stop_timestamp": 677
+                },
+                {
+                    "secondary_subgoal": "Pick, peel, and plate another banana",
+                    "start_timestamp": 677,
+                    "stop_timestamp": 1215
+                },
+                {
+                    "secondary_subgoal": "Walk to the sink and wash hands",
+                    "start_timestamp": 1215,
+                    "stop_timestamp": 1263
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare bananas for mashing",
+            "start_timestamp": 1263,
+            "stop_timestamp": 2317,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Wash and dry hands",
+                    "start_timestamp": 1263,
+                    "stop_timestamp": 1573
+                },
+                {
+                    "secondary_subgoal": "Pick the fork, place the plate on the chopping board and mash the banana",
+                    "start_timestamp": 1573,
+                    "stop_timestamp": 2317
+                }
+            ]
+        },
+        {
+            "subgoal": "Grate the carrot",
+            "start_timestamp": 2317,
+            "stop_timestamp": 14387,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick and prepare the grater and carrot",
+                    "start_timestamp": 2317,
+                    "stop_timestamp": 2620
+                },
+                {
+                    "secondary_subgoal": "Grate the carrot into the bowl",
+                    "start_timestamp": 2620,
+                    "stop_timestamp": 14387
+                }
+            ]
+        },
+        {
+            "subgoal": "Mixing ingredients",
+            "start_timestamp": 14387,
+            "stop_timestamp": 21243,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Clean and rinse grater",
+                    "start_timestamp": 14387,
+                    "stop_timestamp": 14910
+                },
+                {
+                    "secondary_subgoal": "Stir the grated carrot in the bowl",
+                    "start_timestamp": 14910,
+                    "stop_timestamp": 15685
+                },
+                {
+                    "secondary_subgoal": "Cut and add small pieces of carrot to the bowl",
+                    "start_timestamp": 15685,
+                    "stop_timestamp": 16397
+                },
+                {
+                    "secondary_subgoal": "Clean hands and related utensils",
+                    "start_timestamp": 16397,
+                    "stop_timestamp": 17010
+                },
+                {
+                    "secondary_subgoal": "Stir the mixture and prepare the weighing scale",
+                    "start_timestamp": 17010,
+                    "stop_timestamp": 18263
+                },
+                {
+                    "secondary_subgoal": "Add and weigh sugar",
+                    "start_timestamp": 18263,
+                    "stop_timestamp": 19583
+                },
+                {
+                    "secondary_subgoal": "Stir the sugar into the mixture",
+                    "start_timestamp": 19583,
+                    "stop_timestamp": 20150
+                },
+                {
+                    "secondary_subgoal": "Add and mix flour into the mixture",
+                    "start_timestamp": 20150,
+                    "stop_timestamp": 21243
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,697 @@
+[
+    {
+        "task_goal": "Check and organize items in the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 4,
+                "stop_frame": 353
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 353,
+                "stop_frame": 1062
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 1062,
+                "stop_frame": 1134
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 1134,
+                "stop_frame": 1433
+            },
+            {
+                "narration_text": "#O A man X walks in the house",
+                "start_frame": 1433,
+                "stop_frame": 1485
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 1485,
+                "stop_frame": 1886
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 1886,
+                "stop_frame": 2004
+            },
+            {
+                "narration_text": "#C C puts edibles in the fridge",
+                "start_frame": 2004,
+                "stop_frame": 2164
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 2164,
+                "stop_frame": 2335
+            },
+            {
+                "narration_text": "#C C looks at the fridge",
+                "start_frame": 2335,
+                "stop_frame": 2384
+            },
+            {
+                "narration_text": "#C C removes juice from the fridge",
+                "start_frame": 2384,
+                "stop_frame": 2457
+            },
+            {
+                "narration_text": "#C C places juice container on the table",
+                "start_frame": 2457,
+                "stop_frame": 2512
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 2512,
+                "stop_frame": 2574
+            },
+            {
+                "narration_text": "#C C removes edibles from the fridge",
+                "start_frame": 2574,
+                "stop_frame": 2599
+            }
+        ]
+    },
+    {
+        "task_goal": "Open the fridge, examine and move items",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 4,
+                "stop_frame": 353
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 353,
+                "stop_frame": 1062
+            },
+            {
+                "narration_text": "#C C closes the fridge",
+                "start_frame": 1062,
+                "stop_frame": 1134
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 1134,
+                "stop_frame": 1433
+            },
+            {
+                "narration_text": "#O A man X walks in the house",
+                "start_frame": 1433,
+                "stop_frame": 1485
+            }
+        ]
+    },
+    {
+        "task_goal": "Place edibles in the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 1485,
+                "stop_frame": 1886
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 1886,
+                "stop_frame": 2004
+            },
+            {
+                "narration_text": "#C C puts edibles in the fridge",
+                "start_frame": 2004,
+                "stop_frame": 2164
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 2164,
+                "stop_frame": 2335
+            },
+            {
+                "narration_text": "#C C looks at the fridge",
+                "start_frame": 2335,
+                "stop_frame": 2384
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove and place juice container",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks at the fridge",
+                "start_frame": 2335,
+                "stop_frame": 2384
+            },
+            {
+                "narration_text": "#C C removes juice from the fridge",
+                "start_frame": 2384,
+                "stop_frame": 2457
+            },
+            {
+                "narration_text": "#C C places juice container on the table",
+                "start_frame": 2457,
+                "stop_frame": 2512
+            },
+            {
+                "narration_text": "#C C walks around",
+                "start_frame": 2512,
+                "stop_frame": 2574
+            },
+            {
+                "narration_text": "#C C removes edibles from the fridge",
+                "start_frame": 2574,
+                "stop_frame": 2599
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove vegetables and set table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C removes vegetables from the paper",
+                "start_frame": 3833,
+                "stop_frame": 3894
+            },
+            {
+                "narration_text": "#O A man X closes the bottle",
+                "start_frame": 3894,
+                "stop_frame": 3953
+            },
+            {
+                "narration_text": "#C C removes vegetables from the paper",
+                "start_frame": 3953,
+                "stop_frame": 4010
+            },
+            {
+                "narration_text": "#QO A man X walks in the house",
+                "start_frame": 4010,
+                "stop_frame": 4074
+            },
+            {
+                "narration_text": "#O A man X opens the drawer",
+                "start_frame": 4074,
+                "stop_frame": 4321
+            },
+            {
+                "narration_text": "#C C opens the drawer",
+                "start_frame": 4321,
+                "stop_frame": 4414
+            },
+            {
+                "narration_text": "#C C looks around",
+                "start_frame": 4414,
+                "stop_frame": 4525
+            },
+            {
+                "narration_text": "#O A man X places glass on the table",
+                "start_frame": 4525,
+                "stop_frame": 4542
+            },
+            {
+                "narration_text": "#O A man X moves container on the table",
+                "start_frame": 4542,
+                "stop_frame": 4631
+            },
+            {
+                "narration_text": "#O A man X moves around",
+                "start_frame": 4631,
+                "stop_frame": 4765
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 4765,
+                "stop_frame": 5258
+            }
+        ]
+    },
+    {
+        "task_goal": "Peel and cut bananas",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#O A man X peels the banana",
+                "start_frame": 5258,
+                "stop_frame": 5299
+            },
+            {
+                "narration_text": "#O A man X cuts the banana",
+                "start_frame": 5299,
+                "stop_frame": 5362
+            },
+            {
+                "narration_text": "#O A man X peels the banana",
+                "start_frame": 5362,
+                "stop_frame": 5492
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 5492,
+                "stop_frame": 5618
+            },
+            {
+                "narration_text": "#O A man X cuts the banana",
+                "start_frame": 5618,
+                "stop_frame": 5651
+            },
+            {
+                "narration_text": "#C C walks in the house",
+                "start_frame": 5651,
+                "stop_frame": 5807
+            },
+            {
+                "narration_text": "#O A man X picks the paper",
+                "start_frame": 5807,
+                "stop_frame": 5882
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove and organize items in the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the container",
+                "start_frame": 8450,
+                "stop_frame": 8611
+            },
+            {
+                "narration_text": "#C C drops the bottle",
+                "start_frame": 8611,
+                "stop_frame": 8925
+            },
+            {
+                "narration_text": "#C C touches a container of fruits",
+                "start_frame": 8925,
+                "stop_frame": 8970
+            },
+            {
+                "narration_text": "#C C picks a packet of vegetables",
+                "start_frame": 8970,
+                "stop_frame": 9322
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 9322,
+                "stop_frame": 9367
+            },
+            {
+                "narration_text": "#C C picks #unsure from the fridge",
+                "start_frame": 9367,
+                "stop_frame": 9534
+            },
+            {
+                "narration_text": "#C C puts the hand inside a fridge",
+                "start_frame": 9534,
+                "stop_frame": 9556
+            },
+            {
+                "narration_text": "#C C puts #unsure in the fridge",
+                "start_frame": 9556,
+                "stop_frame": 9633
+            },
+            {
+                "narration_text": "#C C removes yogurts out of the fridge",
+                "start_frame": 9633,
+                "stop_frame": 10216
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 10216,
+                "stop_frame": 10315
+            },
+            {
+                "narration_text": "#C C removes a packet of #unsure from the fridge",
+                "start_frame": 10315,
+                "stop_frame": 10673
+            },
+            {
+                "narration_text": "#C C opens a microwave",
+                "start_frame": 10673,
+                "stop_frame": 10748
+            },
+            {
+                "narration_text": "#C C puts #unsure in the microwave",
+                "start_frame": 10748,
+                "stop_frame": 10802
+            },
+            {
+                "narration_text": "#C C closes a microwave",
+                "start_frame": 10802,
+                "stop_frame": 11073
+            },
+            {
+                "narration_text": "#C C walks around the room",
+                "start_frame": 11073,
+                "stop_frame": 11694
+            }
+        ]
+    },
+    {
+        "task_goal": "Open and organize items in the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C picks the container",
+                "start_frame": 8450,
+                "stop_frame": 8611
+            },
+            {
+                "narration_text": "#C C drops the bottle",
+                "start_frame": 8611,
+                "stop_frame": 8925
+            },
+            {
+                "narration_text": "#C C touches a container of fruits",
+                "start_frame": 8925,
+                "stop_frame": 8970
+            },
+            {
+                "narration_text": "#C C picks a packet of vegetables",
+                "start_frame": 8970,
+                "stop_frame": 9322
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 9322,
+                "stop_frame": 9367
+            },
+            {
+                "narration_text": "#C C picks #unsure from the fridge",
+                "start_frame": 9367,
+                "stop_frame": 9534
+            },
+            {
+                "narration_text": "#C C puts the hand inside a fridge",
+                "start_frame": 9534,
+                "stop_frame": 9556
+            },
+            {
+                "narration_text": "#C C puts #unsure in the fridge",
+                "start_frame": 9556,
+                "stop_frame": 9633
+            },
+            {
+                "narration_text": "#C C removes yogurts out of the fridge",
+                "start_frame": 9633,
+                "stop_frame": 10216
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove, organize, and place items in the microwave",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C removes yogurts out of the fridge",
+                "start_frame": 9633,
+                "stop_frame": 10216
+            },
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 10216,
+                "stop_frame": 10315
+            },
+            {
+                "narration_text": "#C C removes a packet of #unsure from the fridge",
+                "start_frame": 10315,
+                "stop_frame": 10673
+            },
+            {
+                "narration_text": "#C C opens a microwave",
+                "start_frame": 10673,
+                "stop_frame": 10748
+            },
+            {
+                "narration_text": "#C C puts #unsure in the microwave",
+                "start_frame": 10748,
+                "stop_frame": 10802
+            },
+            {
+                "narration_text": "#C C closes a microwave",
+                "start_frame": 10802,
+                "stop_frame": 11073
+            },
+            {
+                "narration_text": "#C C walks around the room",
+                "start_frame": 11073,
+                "stop_frame": 11694
+            }
+        ]
+    },
+    {
+        "task_goal": "Cook using the gas cooker",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C walks around the room",
+                "start_frame": 11073,
+                "stop_frame": 11694
+            },
+            {
+                "narration_text": "#C C cooks on a gas cooker",
+                "start_frame": 11694,
+                "stop_frame": 11907
+            },
+            {
+                "narration_text": "#C C walks around the room",
+                "start_frame": 11907,
+                "stop_frame": 12065
+            },
+            {
+                "narration_text": "#C C moves the hand",
+                "start_frame": 12065,
+                "stop_frame": 12967
+            },
+            {
+                "narration_text": "#C C cooks a egg on a gas cooker",
+                "start_frame": 12967,
+                "stop_frame": 16134
+            },
+            {
+                "narration_text": "#C C cooks a egg on a gas cooker",
+                "start_frame": 16134,
+                "stop_frame": 16581
+            },
+            {
+                "narration_text": "#C C picks a bottle",
+                "start_frame": 16581,
+                "stop_frame": 17595
+            },
+            {
+                "narration_text": "#C C stares at the table",
+                "start_frame": 17595,
+                "stop_frame": 17720
+            },
+            {
+                "narration_text": "#C C puts a tin on a rack",
+                "start_frame": 17720,
+                "stop_frame": 17752
+            },
+            {
+                "narration_text": "#C C walks towards the cooking machine",
+                "start_frame": 17752,
+                "stop_frame": 17838
+            },
+            {
+                "narration_text": "#C C stares at the table",
+                "start_frame": 17838,
+                "stop_frame": 17924
+            },
+            {
+                "narration_text": "#C C shakes #unsure",
+                "start_frame": 17924,
+                "stop_frame": 18074
+            },
+            {
+                "narration_text": "#C C stares at the cooking machine",
+                "start_frame": 18074,
+                "stop_frame": 18143
+            },
+            {
+                "narration_text": "#C C stares at the table",
+                "start_frame": 18143,
+                "stop_frame": 18221
+            },
+            {
+                "narration_text": "#C C cooks in the cooker",
+                "start_frame": 18221,
+                "stop_frame": 18483
+            },
+            {
+                "narration_text": "#C C walks in the kitchen",
+                "start_frame": 18483,
+                "stop_frame": 18857
+            }
+        ]
+    },
+    {
+        "task_goal": "Wash utensils and clean the sink",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C moves towards the sink",
+                "start_frame": 22157,
+                "stop_frame": 22212
+            },
+            {
+                "narration_text": "#C C puts #unsure inside the sink",
+                "start_frame": 22212,
+                "stop_frame": 22265
+            },
+            {
+                "narration_text": "#C C washes the utensils inside the sink",
+                "start_frame": 22265,
+                "stop_frame": 22369
+            },
+            {
+                "narration_text": "#C C opens the water tap",
+                "start_frame": 22369,
+                "stop_frame": 22446
+            },
+            {
+                "narration_text": "#C C closes the water tap",
+                "start_frame": 22446,
+                "stop_frame": 22561
+            },
+            {
+                "narration_text": "#C C stares at the sink",
+                "start_frame": 22561,
+                "stop_frame": 22591
+            },
+            {
+                "narration_text": "#C C puts utensils inside the sink",
+                "start_frame": 22591,
+                "stop_frame": 22640
+            }
+        ]
+    },
+    {
+        "task_goal": "Mix and organize items on the table",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C stares the gas cooker",
+                "start_frame": 22640,
+                "stop_frame": 22767
+            },
+            {
+                "narration_text": "#C C cooks with the cooking stick",
+                "start_frame": 22767,
+                "stop_frame": 22938
+            },
+            {
+                "narration_text": "#C C turns off the cooker",
+                "start_frame": 22938,
+                "stop_frame": 23013
+            },
+            {
+                "narration_text": "#C C stares at the cooker",
+                "start_frame": 23013,
+                "stop_frame": 23098
+            },
+            {
+                "narration_text": "#C C stares at the table",
+                "start_frame": 23098,
+                "stop_frame": 23357
+            },
+            {
+                "narration_text": "#C C turns the food in the pot",
+                "start_frame": 23357,
+                "stop_frame": 23513
+            },
+            {
+                "narration_text": "#C C moves towards the cooker",
+                "start_frame": 23513,
+                "stop_frame": 23629
+            },
+            {
+                "narration_text": "#C C stares at the sink",
+                "start_frame": 23629,
+                "stop_frame": 23664
+            },
+            {
+                "narration_text": "#C C moves towards the table",
+                "start_frame": 23664,
+                "stop_frame": 23836
+            },
+            {
+                "narration_text": "#C C stares at the table",
+                "start_frame": 23836,
+                "stop_frame": 23913
+            },
+            {
+                "narration_text": "#C C opens the table drawer",
+                "start_frame": 23913,
+                "stop_frame": 23964
+            },
+            {
+                "narration_text": "#C C touches the utensils in the drawer",
+                "start_frame": 23964,
+                "stop_frame": 24074
+            }
+        ]
+    },
+    {
+        "task_goal": "Store and check items in the fridge",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C opens the fridge",
+                "start_frame": 24635,
+                "stop_frame": 24719
+            },
+            {
+                "narration_text": "#C C touches the items in the fridge",
+                "start_frame": 24719,
+                "stop_frame": 24795
+            },
+            {
+                "narration_text": "#C C closes the fridge door",
+                "start_frame": 24795,
+                "stop_frame": 24838
+            },
+            {
+                "narration_text": "#C C looks at Y",
+                "start_frame": 24838,
+                "stop_frame": 24960
+            },
+            {
+                "narration_text": "#C C drinks from a mug",
+                "start_frame": 24960,
+                "stop_frame": 25039
+            },
+            {
+                "narration_text": "#C C places the mug on a table",
+                "start_frame": 25039,
+                "stop_frame": 25084
+            }
+        ]
+    },
+    {
+        "task_goal": "Drink from mug and finish tasks",
+        "task_progress_metadata": [
+            {
+                "narration_text": "#C C looks around the room",
+                "start_frame": 25084,
+                "stop_frame": 25139
+            },
+            {
+                "narration_text": "#C C picks a bottle of #Unsure from the table",
+                "start_frame": 25139,
+                "stop_frame": 25316
+            },
+            {
+                "narration_text": "#C C looks around the table",
+                "start_frame": 25316,
+                "stop_frame": 25426
+            },
+            {
+                "narration_text": "#C C moves a plate of food on the table",
+                "start_frame": 25426,
+                "stop_frame": 25460
+            },
+            {
+                "narration_text": "#C C lifs his hands",
+                "start_frame": 25460,
+                "stop_frame": 25499
+            },
+            {
+                "narration_text": "#C C adjusts the camera",
+                "start_frame": 25499,
+                "stop_frame": 25599
+            }
+        ]
+    }
+]

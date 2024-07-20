@@ -1,0 +1,81 @@
+{
+    "overall_goal": "Prepare and chop ingredients (chili and onion) for cooking and crush them with other ingredients in a tin.",
+    "clips": [
+        {
+            "subgoal": "Chop chilies into small pieces",
+            "start_timestamp": 18097,
+            "stop_timestamp": 26228,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather chilies and chopping tools",
+                    "start_timestamp": 18097,
+                    "stop_timestamp": 18191
+                },
+                {
+                    "secondary_subgoal": "Chop chilies with a knife",
+                    "start_timestamp": 18191,
+                    "stop_timestamp": 19597
+                },
+                {
+                    "secondary_subgoal": "Put chopped chilies in a bowl",
+                    "start_timestamp": 19597,
+                    "stop_timestamp": 19628
+                },
+                {
+                    "secondary_subgoal": "Repeat gathering, chopping, and placing chilies",
+                    "start_timestamp": 19628,
+                    "stop_timestamp": 26228
+                }
+            ]
+        },
+        {
+            "subgoal": "Chop onions into small pieces",
+            "start_timestamp": 26228,
+            "stop_timestamp": 33259,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Gather onions and prepare chopping tools",
+                    "start_timestamp": 26228,
+                    "stop_timestamp": 26592
+                },
+                {
+                    "secondary_subgoal": "Chop onions with a knife",
+                    "start_timestamp": 26592,
+                    "stop_timestamp": 29081
+                },
+                {
+                    "secondary_subgoal": "Put chopped onions in a bowl",
+                    "start_timestamp": 29081,
+                    "stop_timestamp": 29201
+                },
+                {
+                    "secondary_subgoal": "Continue chopping and storing onions",
+                    "start_timestamp": 29201,
+                    "stop_timestamp": 33259
+                }
+            ]
+        },
+        {
+            "subgoal": "Crush chilies and onions with other ingredients in a tin",
+            "start_timestamp": 33259,
+            "stop_timestamp": 36083,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare chilies, onions, and a tin for crushing",
+                    "start_timestamp": 33259,
+                    "stop_timestamp": 34852
+                },
+                {
+                    "secondary_subgoal": "Combine ingredients in the tin",
+                    "start_timestamp": 34852,
+                    "stop_timestamp": 35751
+                },
+                {
+                    "secondary_subgoal": "Crush ingredients with a pestle",
+                    "start_timestamp": 35751,
+                    "stop_timestamp": 36083
+                }
+            ]
+        }
+    ]
+}

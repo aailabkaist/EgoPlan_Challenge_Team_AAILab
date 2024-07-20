@@ -1,0 +1,213 @@
+{
+    "overall_goal": "Prepare a cooked meal using meat, eggs, onions, and other ingredients",
+    "clips": [
+        {
+            "subgoal": "Prepare initial ingredients and setup",
+            "start_timestamp": 0,
+            "stop_timestamp": 267,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick cooking oil",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 75
+                },
+                {
+                    "secondary_subgoal": "Pour oil into cooking pot and put bowl down",
+                    "start_timestamp": 75,
+                    "stop_timestamp": 185
+                },
+                {
+                    "secondary_subgoal": "Look at the recipe",
+                    "start_timestamp": 185,
+                    "stop_timestamp": 267
+                }
+            ]
+        },
+        {
+            "subgoal": "Gather ingredients",
+            "start_timestamp": 267,
+            "stop_timestamp": 1078,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Place meat on table and open fridge",
+                    "start_timestamp": 404,
+                    "stop_timestamp": 479
+                },
+                {
+                    "secondary_subgoal": "Pick two eggs and close fridge",
+                    "start_timestamp": 590,
+                    "stop_timestamp": 742
+                },
+                {
+                    "secondary_subgoal": "Walk to sink and hold recipe",
+                    "start_timestamp": 742,
+                    "stop_timestamp": 809
+                },
+                {
+                    "secondary_subgoal": "Return recipe and walk to oven",
+                    "start_timestamp": 956,
+                    "stop_timestamp": 1062
+                }
+            ]
+        },
+        {
+            "subgoal": "Start cooking",
+            "start_timestamp": 1105,
+            "stop_timestamp": 1956,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Lift cooking pot and walk around kitchen",
+                    "start_timestamp": 1105,
+                    "stop_timestamp": 1232
+                },
+                {
+                    "secondary_subgoal": "Regulate oven",
+                    "start_timestamp": 1669,
+                    "stop_timestamp": 1956
+                }
+            ]
+        },
+        {
+            "subgoal": "Organize kitchen space",
+            "start_timestamp": 2180,
+            "stop_timestamp": 2737,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Move bowl and open microwave",
+                    "start_timestamp": 2180,
+                    "stop_timestamp": 2207
+                },
+                {
+                    "secondary_subgoal": "Put eggs on kitchen surface",
+                    "start_timestamp": 2484,
+                    "stop_timestamp": 2538
+                },
+                {
+                    "secondary_subgoal": "Pick and place bowl on kitchen surface",
+                    "start_timestamp": 2631,
+                    "stop_timestamp": 2676
+                }
+            ]
+        },
+        {
+            "subgoal": "Prepare meat and onions",
+            "start_timestamp": 2868,
+            "stop_timestamp": 3660,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick meat and remove cover paper",
+                    "start_timestamp": 2868,
+                    "stop_timestamp": 2972
+                },
+                {
+                    "secondary_subgoal": "Pick chopsticks and pour meat into cooking pot",
+                    "start_timestamp": 3052,
+                    "stop_timestamp": 3344
+                },
+                {
+                    "secondary_subgoal": "Pick chopped onions and place into meat",
+                    "start_timestamp": 3464,
+                    "stop_timestamp": 3660
+                }
+            ]
+        },
+        {
+            "subgoal": "Mix and cook ingredients",
+            "start_timestamp": 3937,
+            "stop_timestamp": 6271,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Mix meat and onions and read recipe",
+                    "start_timestamp": 3937,
+                    "stop_timestamp": 4636
+                },
+                {
+                    "secondary_subgoal": "Break eggs and pour into bowl",
+                    "start_timestamp": 4709,
+                    "stop_timestamp": 5240
+                },
+                {
+                    "secondary_subgoal": "Stir eggs in bowl",
+                    "start_timestamp": 5342,
+                    "stop_timestamp": 5854
+                },
+                {
+                    "secondary_subgoal": "Turn meat and regulate heat",
+                    "start_timestamp": 6108,
+                    "stop_timestamp": 6271
+                }
+            ]
+        },
+        {
+            "subgoal": "Combine ingredients and finalize cooking",
+            "start_timestamp": 7162,
+            "stop_timestamp": 12518,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Turn meat with chopsticks",
+                    "start_timestamp": 7162,
+                    "stop_timestamp": 7221
+                },
+                {
+                    "secondary_subgoal": "Put salt in food",
+                    "start_timestamp": 10341,
+                    "stop_timestamp": 10352
+                },
+                {
+                    "secondary_subgoal": "Mix food and add eggs",
+                    "start_timestamp": 11275,
+                    "stop_timestamp": 11890
+                },
+                {
+                    "secondary_subgoal": "Read and return recipe",
+                    "start_timestamp": 12024,
+                    "stop_timestamp": 12351
+                }
+            ]
+        },
+        {
+            "subgoal": "Clean and organize kitchen",
+            "start_timestamp": 12656,
+            "stop_timestamp": 15097,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Put lid on pot and handle chopsticks",
+                    "start_timestamp": 12656,
+                    "stop_timestamp": 12688
+                },
+                {
+                    "secondary_subgoal": "Put bowls in sink and organize kitchen tools",
+                    "start_timestamp": 12727,
+                    "stop_timestamp": 13086
+                },
+                {
+                    "secondary_subgoal": "Cut leaf",
+                    "start_timestamp": 13860,
+                    "stop_timestamp": 14008
+                },
+                {
+                    "secondary_subgoal": "Add leaf to pot and mix",
+                    "start_timestamp": 14087,
+                    "stop_timestamp": 14313
+                }
+            ]
+        },
+        {
+            "subgoal": "Serve the meal",
+            "start_timestamp": 16051,
+            "stop_timestamp": 16187,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Give bowls to person",
+                    "start_timestamp": 16051,
+                    "stop_timestamp": 16081
+                },
+                {
+                    "secondary_subgoal": "Turn off oven and chimney",
+                    "start_timestamp": 16106,
+                    "stop_timestamp": 16187
+                }
+            ]
+        }
+    ]
+}

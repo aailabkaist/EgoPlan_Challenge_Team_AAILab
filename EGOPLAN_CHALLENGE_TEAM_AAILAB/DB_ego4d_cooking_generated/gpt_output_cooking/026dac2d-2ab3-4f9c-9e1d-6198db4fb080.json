@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eepvvqkftJLSma387zNmFJd6uh4q",
+    "object": "chat.completion",
+    "created": 1719477123,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Marinate meat by applying spices and ensuring the meat is evenly coated.\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Apply spice to the meat\",\n      \"start_timestamp\": 58,\n      \"stop_timestamp\": 2142,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Rub spices on the meat\",\n          \"start_timestamp\": 58,\n          \"stop_timestamp\": 335\n        },\n        {\n          \"secondary_subgoal\": \"Add more spices to the meat\",\n          \"start_timestamp\": 335,\n          \"stop_timestamp\": 1171\n        },\n        {\n          \"secondary_subgoal\": \"Handle and flip meat pieces while spicing\",\n          \"start_timestamp\": 1171,\n          \"stop_timestamp\": 1488\n        },\n        {\n          \"secondary_subgoal\": \"Final adjustments and checks on the meat with spices\",\n          \"start_timestamp\": 1488,\n          \"stop_timestamp\": 2142\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Adjust and organize the meat\",\n      \"start_timestamp\": 2142,\n      \"stop_timestamp\": 2756,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Spread and adjust the pieces of meat\",\n          \"start_timestamp\": 2142,\n          \"stop_timestamp\": 2756\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Clean hands after handling meat and spices\",\n      \"start_timestamp\": 2756,\n      \"stop_timestamp\": 3171,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Wash hands with soap and water\",\n          \"start_timestamp\": 2756,\n          \"stop_timestamp\": 3171\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Pause and look around the kitchen\",\n      \"start_timestamp\": 3171,\n      \"stop_timestamp\": 3271,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Observe surroundings\",\n          \"start_timestamp\": 3171,\n          \"stop_timestamp\": 3271\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 711,
+        "completion_tokens": 457,
+        "total_tokens": 1168
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

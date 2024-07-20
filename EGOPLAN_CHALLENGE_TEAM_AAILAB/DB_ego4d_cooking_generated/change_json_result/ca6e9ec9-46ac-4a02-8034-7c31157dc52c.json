@@ -1,0 +1,71 @@
+{
+    "overall_goal": "Heat something in the microwave and possibly retrieve or interact with another item from the fridge while being occasionally engaged with the phone",
+    "clips": [
+        {
+            "subgoal": "Heat an item in the microwave",
+            "start_timestamp": 0,
+            "stop_timestamp": 404,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Prepare the microwave",
+                    "start_timestamp": 0,
+                    "stop_timestamp": 93
+                },
+                {
+                    "secondary_subgoal": "Place an item in the microwave",
+                    "start_timestamp": 93,
+                    "stop_timestamp": 187
+                },
+                {
+                    "secondary_subgoal": "Close the microwave",
+                    "start_timestamp": 187,
+                    "stop_timestamp": 359
+                },
+                {
+                    "secondary_subgoal": "Start the microwave",
+                    "start_timestamp": 359,
+                    "stop_timestamp": 404
+                }
+            ]
+        },
+        {
+            "subgoal": "Interact with another item possibly taken from the fridge",
+            "start_timestamp": 404,
+            "stop_timestamp": 681,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Pick up an item from the fridge",
+                    "start_timestamp": 512,
+                    "stop_timestamp": 538
+                },
+                {
+                    "secondary_subgoal": "Interact with the item",
+                    "start_timestamp": 538,
+                    "stop_timestamp": 656
+                },
+                {
+                    "secondary_subgoal": "Place the item back on the fridge",
+                    "start_timestamp": 656,
+                    "stop_timestamp": 681
+                }
+            ]
+        },
+        {
+            "subgoal": "Walk towards and interact with the phone",
+            "start_timestamp": 681,
+            "stop_timestamp": 906,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "Walk on the floor",
+                    "start_timestamp": 735,
+                    "stop_timestamp": 806
+                },
+                {
+                    "secondary_subgoal": "Pick up the phone",
+                    "start_timestamp": 806,
+                    "stop_timestamp": 906
+                }
+            ]
+        }
+    ]
+}

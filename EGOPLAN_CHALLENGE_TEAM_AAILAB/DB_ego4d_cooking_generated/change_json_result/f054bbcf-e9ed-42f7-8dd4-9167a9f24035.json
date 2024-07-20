@@ -1,0 +1,174 @@
+{
+    "overall_goal": "C cooks a meal in the kitchen with various ingredients and utensils.",
+    "clips": [
+        {
+            "subgoal": "C prepares vegetables for cooking.",
+            "start_timestamp": 139,
+            "stop_timestamp": 1295,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C cuts vegetables.",
+                    "start_timestamp": 139,
+                    "stop_timestamp": 982
+                },
+                {
+                    "secondary_subgoal": "C puts the vegetables in a pan.",
+                    "start_timestamp": 982,
+                    "stop_timestamp": 1295
+                }
+            ]
+        },
+        {
+            "subgoal": "C collects and prepares additional ingredients and utensils.",
+            "start_timestamp": 1753,
+            "stop_timestamp": 4397,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C picks a tin.",
+                    "start_timestamp": 1753,
+                    "stop_timestamp": 2021
+                },
+                {
+                    "secondary_subgoal": "C touches a book and walks around.",
+                    "start_timestamp": 2021,
+                    "stop_timestamp": 2239
+                },
+                {
+                    "secondary_subgoal": "C picks a bottle, touches a book, and picks a tin.",
+                    "start_timestamp": 2239,
+                    "stop_timestamp": 2562
+                },
+                {
+                    "secondary_subgoal": "C touches packets and picks a box.",
+                    "start_timestamp": 2562,
+                    "stop_timestamp": 3145
+                },
+                {
+                    "secondary_subgoal": "C looks at a box, touches a book, and touches bottles.",
+                    "start_timestamp": 3145,
+                    "stop_timestamp": 3542
+                },
+                {
+                    "secondary_subgoal": "C opens the fridge, removes tomatoes, rosemary, and potatoes, and closes the fridge.",
+                    "start_timestamp": 3542,
+                    "stop_timestamp": 4357
+                },
+                {
+                    "secondary_subgoal": "C throws the potatoes and puts plastic away.",
+                    "start_timestamp": 4357,
+                    "stop_timestamp": 4397
+                }
+            ]
+        },
+        {
+            "subgoal": "C stirs and prepares the food in the pan.",
+            "start_timestamp": 4472,
+            "stop_timestamp": 5654,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C picks a spoon and stirs the food.",
+                    "start_timestamp": 4472,
+                    "stop_timestamp": 5594
+                },
+                {
+                    "secondary_subgoal": "C touches a book and looks around.",
+                    "start_timestamp": 5594,
+                    "stop_timestamp": 5654
+                }
+            ]
+        },
+        {
+            "subgoal": "C prepares and adds rosemary to the food.",
+            "start_timestamp": 5699,
+            "stop_timestamp": 8836,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C holds the tin and removes rosemary.",
+                    "start_timestamp": 5699,
+                    "stop_timestamp": 5879
+                },
+                {
+                    "secondary_subgoal": "C prepares and cuts the rosemary, gathering it together.",
+                    "start_timestamp": 5879,
+                    "stop_timestamp": 7914
+                },
+                {
+                    "secondary_subgoal": "C wipes hands and stirs food.",
+                    "start_timestamp": 7914,
+                    "stop_timestamp": 8731
+                },
+                {
+                    "secondary_subgoal": "C throws rosemary sticks.",
+                    "start_timestamp": 8731,
+                    "stop_timestamp": 8836
+                }
+            ]
+        },
+        {
+            "subgoal": "C adjusts cooking with gas and mixes the food.",
+            "start_timestamp": 9117,
+            "stop_timestamp": 10325,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C switches the gas and reads the book.",
+                    "start_timestamp": 9117,
+                    "stop_timestamp": 9681
+                },
+                {
+                    "secondary_subgoal": "C cooks and mixes the food.",
+                    "start_timestamp": 9681,
+                    "stop_timestamp": 10040
+                },
+                {
+                    "secondary_subgoal": "C looks at the phone.",
+                    "start_timestamp": 10040,
+                    "stop_timestamp": 10325
+                }
+            ]
+        },
+        {
+            "subgoal": "C checks and adds more ingredients.",
+            "start_timestamp": 10353,
+            "stop_timestamp": 12798,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C puts a measurement machine, opens and reads a box, then closes it.",
+                    "start_timestamp": 10353,
+                    "stop_timestamp": 11575
+                },
+                {
+                    "secondary_subgoal": "C mixes the food, opens a tin, and throws paper in the bin.",
+                    "start_timestamp": 11726,
+                    "stop_timestamp": 11996
+                },
+                {
+                    "secondary_subgoal": "C opens the cupboard, takes a fork, unsure action in the tin, and returns the tin to the fridge.",
+                    "start_timestamp": 11996,
+                    "stop_timestamp": 12798
+                }
+            ]
+        },
+        {
+            "subgoal": "C finalizes meal preparation.",
+            "start_timestamp": 13001,
+            "stop_timestamp": 15929,
+            "sub_clips": [
+                {
+                    "secondary_subgoal": "C wipes hands and cuts unsure.",
+                    "start_timestamp": 13001,
+                    "stop_timestamp": 14515
+                },
+                {
+                    "secondary_subgoal": "C mixes food and switches the gas.",
+                    "start_timestamp": 14515,
+                    "stop_timestamp": 14913
+                },
+                {
+                    "secondary_subgoal": "C puts rosemary in the food and takes with knife to put in the pan.",
+                    "start_timestamp": 14913,
+                    "stop_timestamp": 15929
+                }
+            ]
+        }
+    ]
+}

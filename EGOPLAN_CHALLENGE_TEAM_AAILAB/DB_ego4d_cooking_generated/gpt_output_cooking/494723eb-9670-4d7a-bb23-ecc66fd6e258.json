@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9dgvg5hlBRp5QGtzcfQwyZHw4dv5E",
+    "object": "chat.completion",
+    "created": 1719246840,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"overall_goal\": \"Prepare rice balls and soybean balls, and rinse hands intermittently during the process\",\n  \"clips\": [\n    {\n      \"subgoal\": \"Prepare rice balls\",\n      \"start_timestamp\": 98,\n      \"stop_timestamp\": 59740,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Scooping rice and molding into balls\",\n          \"start_timestamp\": 253,\n          \"stop_timestamp\": 7973\n        },\n        {\n          \"secondary_subgoal\": \"Handling rice with a spoon\",\n          \"start_timestamp\": 7973,\n          \"stop_timestamp\": 8327\n        },\n        {\n          \"secondary_subgoal\": \"Scooping rice and molding into balls\",\n          \"start_timestamp\": 8327,\n          \"stop_timestamp\": 21030\n        },\n        {\n          \"secondary_subgoal\": \"Handling rice with a spoon\",\n          \"start_timestamp\": 21030,\n          \"stop_timestamp\": 21132\n        },\n        {\n          \"secondary_subgoal\": \"Scooping rice and molding into balls\",\n          \"start_timestamp\": 21132,\n          \"stop_timestamp\": 113025\n        },\n        {\n          \"secondary_subgoal\": \"Handling rice with a spoon\",\n          \"start_timestamp\": 113025,\n          \"stop_timestamp\": 113600\n        }\n      ]\n    },\n    {\n      \"subgoal\": \"Prepare soybean balls\",\n      \"start_timestamp\": 59740,\n      \"stop_timestamp\": 158129,\n      \"sub_clips\": [\n        {\n          \"secondary_subgoal\": \"Scooping soybeans and squeezing into balls\",\n          \"start_timestamp\": 59740,\n          \"stop_timestamp\": 91060\n        },\n        {\n          \"secondary_subgoal\": \"Handling soybeans with a spoon\",\n          \"start_timestamp\": 91060,\n          \"stop_timestamp\": 92019\n        },\n        {\n          \"secondary_subgoal\": \"Intermittent actions and handling soybeans\",\n          \"start_timestamp\": 92019,\n          \"stop_timestamp\": 128227\n        },\n        {\n          \"secondary_subgoal\": \"Mixing and squeezing soybeans\",\n          \"start_timestamp\": 128227,\n          \"stop_timestamp\": 155298\n        },\n        {\n          \"secondary_subgoal\": \"Cleaning up after soybean preparation\",\n          \"start_timestamp\": 155298,\n          \"stop_timestamp\": 157552\n        },\n        {\n          \"secondary_subgoal\": \"Rinsing hands with water\",\n          \"start_timestamp\": 157552,\n          \"stop_timestamp\": 158129\n        }\n      ]\n    }\n  ]\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6917,
+        "completion_tokens": 551,
+        "total_tokens": 7468
+    },
+    "system_fingerprint": "fp_5e6c71d4a8"
+}
