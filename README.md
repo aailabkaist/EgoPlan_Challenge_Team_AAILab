@@ -13,7 +13,17 @@
 Our framework consists of two distinctive components: action sequence retrieval and direct preference optimization (DPO).
 
 ## Datasets
-- Download **data and model weights** at [EgoPlan](https://github.com/ChenYi99/EgoPlan).
+- Our iplementation is based on [EgoPlan](https://github.com/ChenYi99/EgoPlan).
+- We used **Dataset** and **Model Weights** as desribed in [EgoPlan](https://github.com/ChenYi99/EgoPlan).
+  - Dataset:
+    - EgoPlan BenchMark
+    - WebVideo ~~
+    - Video LLaVA
+    - MSCOCO
+  - Model Weights:
+    - Original Video-LLaMA:
+    - Finetuned Video-LLaMA (Not used actually): 
+- Here, our own RAG dataset.
 - Place **data** at the directory specified below.
   ```
   ${project_page}/DG/
