@@ -102,7 +102,7 @@ If you find the code useful for your research, please consider citing
 }
 ```
 This work is heavily built upon the code from
- - **
+ - EgoPlan-Bench [EgoPlan](https://github.com/ChenYi99/EgoPlan)
  - **
  - **
 
