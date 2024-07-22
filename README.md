@@ -48,7 +48,7 @@ Our framework consists of two distinctive components: action sequence retrieval 
     - Q-Former: [blip2_pretrained_flant5xxl.pth](https://huggingface.co/spaces/Vision-CAIR/minigpt4/blob/main/blip2_pretrained_flant5xxl.pth) (You should use Git LFS to download it.)
     - BERT: [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased/tree/main)
   - **Our RAG Dataset**
-    - You can download RAG training dataset from [here](https://drive.google.com/drive/folders/1JmXCK3QZJSxjP8a-DcBPWSAQQoqvK98S?usp=sharing) and validation dataset from [here](https://drive.google.com/drive/folders/1JmXCK3QZJSxjP8a-DcBPWSAQQoqvK98S?usp=sharing).
+    - You can download RAG training dataset from [here](https://drive.google.com/file/d/1dx4-IUDDCu2NGtZRyZpn2ppdCbXtnZTE/view?usp=drive_link) and validation dataset from [here](https://drive.google.com/file/d/1-Pzwl295_QeGsKAQq6qP-YlX36Orn7NJ/view?usp=drive_link).
   - **Our Checkpoint**
     - You can download our model ckpt from [here](https://drive.google.com/drive/folders/1zBRv-OIm9SaAis9wmAAf2BBQxCFhp3gj?usp=sharing).
 
