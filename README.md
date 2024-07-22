@@ -10,7 +10,7 @@ We will upload our paper to Arxiv soon.
 ## Overview
 ![Teaser image](./figure/overview_v4_1.png)
 
-Our method consists of two components: Direct Preference Optimization (DPO) and Retrieval-Augmented Generation. ction sequence retrieval and direct preference optimization (DPO).
+Our method consists of two components: Direct Preference Optimization (DPO) and Retrieval-Augmented Generation (RAG). We 
 
 ## Dataset and Model Checkpoint
 - Our implementation is based on [EgoPlan-Bench](https://github.com/ChenYi99/EgoPlan).
@@ -83,7 +83,7 @@ We provide the file we used and setting for reproduction.
   - DPO Finetuned Video-LLaMA, RAG O, Cont. loss: [link](https://drive.google.com/file/d/1lYOBT-kiRRTG3cwupnr4xBFglT9XaF-X/view?usp=drive_link)
   - DPO Finetuned Video-LLaMA, RAG O, DPO loss: [link](https://drive.google.com/file/d/1oLrTTfQ3v-pNUIhKUta1NC-rkzgSQJ29/view?usp=drive_link)
 
-## Finetuning & Evaluating & Testing of MLLMs.
+## Finetuning & Evaluating & Testing Commands
 
 ### 1) Finetuning 
     
@@ -142,7 +142,7 @@ This work is heavily built upon the code from
  - EgoPlan-Bench [EgoPlan](https://github.com/ChenYi99/EgoPlan)
  
  ## Acknowledgement
-This repo benefits from [Epic-Kitchens](https://epic-kitchens.github.io/2023), [Ego4D](https://ego4d-data.org/), 
+This repository benefits from [Epic-Kitchens](https://epic-kitchens.github.io/2023), [Ego4D](https://ego4d-data.org/), 
 [EgoPlan](https://github.com/ChenYi99/EgoPlan), 
 [Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA), 
 [LLaMA](https://github.com/facebookresearch/llama),
