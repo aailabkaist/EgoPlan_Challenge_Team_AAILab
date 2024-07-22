@@ -37,6 +37,7 @@ Our framework consists of two distinctive components: action sequence retrieval 
     - **Video-based Instructions from VideoChat (11K) & WebVid dataset**
       - Instruction Dataset:
         - Videochat Instruction Dataset: [videochat_instruct_11k.json](https://drive.google.com/file/d/1C-7xmf42QUEi4ApXTcxBHr5nLvTWXyUi/view)
+        - **Important!** Since we don't get full WebVid dataset, we use revised instruction dataset file for own situation. You can download [videochat_instruct_11k_revised.json](https://drive.google.com/file/d/1rjeCoMYELJ4wGkO9HG243IhlsxfVPfc1/view?usp=drive_link)
       - Video Dataset:
         - WebVid Dataset (for VideoChat Instuction): Since [WebVid dataset](https://github.com/m-bain/webvid) is no longer available, we download webvid dataset from real link by bash.
   - **Model Checkpoint**:
