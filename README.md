@@ -76,7 +76,8 @@ Download the RGB frames of [EPIC-KITCHENS-100](https://github.com/epic-kitchens/
   ```
 
 ## Dataset & Model Setting by .yaml file. (For Reproducing)
-- Following the base structure of [EgoPlan-Bench](https://github.com/ChenYi99/EgoPlan) implementation, we 
+- Since we have some trouble with downloading Epickitchens dataset, we also share the [Epickitchens Video ID list file](https://drive.google.com/file/d/1cJUKc_IKL1o9Y6mx795LfmtShPGzFq6H/view?usp=drive_link) we used.
+- Following the base structure of [EgoPlan-Bench](https://github.com/ChenYi99/EgoPlan) implementation.
   ```
   ${project_page}/DG/
   ├── checkpoints
