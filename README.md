@@ -75,8 +75,8 @@ Download the RGB frames of [EPIC-KITCHENS-100](https://github.com/epic-kitchens/
       └── ...
   ```
 
-## Dataset & Model Setting by .yaml file.
-- Following the base structure of [EgoPlan Github](https://github.com/ChenYi99/EgoPlan)
+## Dataset & Model Setting by .yaml file. (For Reproducing)
+- Following the base structure of [EgoPlan-Bench](https://github.com/ChenYi99/EgoPlan) implementation, we 
   ```
   ${project_page}/DG/
   ├── checkpoints
@@ -85,7 +85,7 @@ Download the RGB frames of [EPIC-KITCHENS-100](https://github.com/epic-kitchens/
   ├── ...
   ```
 
-## Running of DPO-Finetuned Large Multi-Modal Planner with RAG
+## Finetuning & Evaluating & Testing of MLLMs.
 
 ### 1) Finetuning 
     
