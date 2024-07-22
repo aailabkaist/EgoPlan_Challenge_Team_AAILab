@@ -17,7 +17,10 @@ Our framework consists of two distinctive components: action sequence retrieval 
 - Our implementation is based on [EgoPlan](https://github.com/ChenYi99/EgoPlan).
 - We used **Dataset** and **Model Weights** refer to [EgoPlan](https://github.com/ChenYi99/EgoPlan).
   - Dataset:
-    - EgoPlan Benchmark Dataset: 
+    - EgoPlan Benchmark Dataset (Train / Valid / Test):
+      - Train: [EgoPlan_IT.json](https://drive.google.com/file/d/139UXIgOXbK55tNlK03TBrdSWXdupfrL5/view)
+      - Valid: [EgoPlan_validation.json](https://drive.google.com/file/d/1Hy-mWrtuDjuq29iCQxCQzk0htTJs8SHg/view)
+      - Test: [EgoPlan_test.json](https://drive.google.com/file/d/1G3cH58qlXI11iRFc8R1oFXpHhEiOh4Bd/view)
     - WebVideo ~~
     - Video LLaVA
     - MSCOCO
