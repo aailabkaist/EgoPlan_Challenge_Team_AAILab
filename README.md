@@ -68,12 +68,12 @@ Download the RGB frames of [EPIC-KITCHENS-100](https://github.com/epic-kitchens/
           └── ...
   ```
 - **Ego4D Dataset**:
-  '''
+  ```
   Ego4D
   └── v1
       ├── 000786a7-3f9d-4fe6-bfb3-045b368f7d44.mp4
       └── ...
-  '''
+  ```
 
 ## Dataset & Model Setting by .yaml file.
 - Following the base structure of [EgoPlan Github](https://github.com/ChenYi99/EgoPlan)
