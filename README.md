@@ -121,7 +121,7 @@ We provide the file we used and setting for reproduction.
 
 ### 2) Validation accuracies for various combinations of our method components
 |                 | Base      | Loss type               | RAG  | Valid Acc.(%) / Approx. Training Time  |
-|-----------------|-----------|-------------------------|:----:|---------------------------------------:|
+|:-----------------:|:-----------:|:-------------------------:|:----:|:---------------------------------------:|
 | **Baseline**    | Original  | -             | -    | 30.44† / Given Pre-trained Model       |
 |                 |           |Contrastive                 | ✗    | 44.42† / Given Pre-trained Model       |
 | **Ours**        | Original  | DPO                     | ✗    | 60.24 / 0.5 days                       |
