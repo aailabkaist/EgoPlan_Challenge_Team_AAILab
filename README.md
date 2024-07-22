@@ -3,7 +3,6 @@
 
 ## DPO-Finetuned Large Multi-Modal Planner with Retrieval Augmented Generation  <br><sub> </sub>
 **Kwanghyeon Lee, Mina Kang, Hyungho Na, Heesun Bae, Byeonghu Na, Doyun Kwon, Seungjae Shin, Yeongmin Kim, Taewoo Kim, Seungmin Yun, and Il-Chul Moon**   
-<sup> * Equal contribution </sup> <br>
 
 | [paper] |  <br>
 We will upload our paper to Arxiv soon.
