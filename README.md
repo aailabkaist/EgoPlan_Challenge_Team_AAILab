@@ -117,7 +117,7 @@ We provide the file we used and setting for reproduction.
 |------------------|:--------:|:------------:|
 | Base →           |          | 41.35        |
 | Ours →           | ✔        | 53.98        |
-- Test accuracy 53.98% is 
+- **Test accuracy 53.98% of DPO finetuned model is achived at epoch 9 (10/10).**
 
 ### 2) Validation accuracies for various combinations of our method components
 |                 | Base      | Loss type               | RAG  | Valid Acc.(%) / Approx. Training Time  |
@@ -130,7 +130,7 @@ We provide the file we used and setting for reproduction.
 |                 |           | DPO (Iterative)         | ✓    | 60.24 / 0.5 days                   |
 
 Note that Base indicates the initial checkpoint from which the model is fine_tuned.
-
+- **Valid accuracy 60.24% of DPO finetuned model is achived at epoch 8 (9/10).**
 
 ## Reference
 If you find the code useful for your research, please consider citing
@@ -140,10 +140,7 @@ If you find the code useful for your research, please consider citing
 ```
 This work is heavily built upon the code from
  - EgoPlan-Bench [EgoPlan](https://github.com/ChenYi99/EgoPlan)
- - **
- - **
-
-
+ 
  ## Acknowledgement
 This repo benefits from [Epic-Kitchens](https://epic-kitchens.github.io/2023), [Ego4D](https://ego4d-data.org/), 
 [EgoPlan](https://github.com/ChenYi99/EgoPlan), 
