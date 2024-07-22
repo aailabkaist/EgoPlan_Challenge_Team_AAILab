@@ -15,18 +15,24 @@ Our framework consists of two distinctive components: action sequence retrieval 
 
 ## Datasets
 - Our implementation is based on [EgoPlan](https://github.com/ChenYi99/EgoPlan).
-- We used **Dataset** and **Model Weights** refer to [EgoPlan](https://github.com/ChenYi99/EgoPlan).
-  - Dataset:
+- We used **Video Instruction Dataset**, **Video Dataset**, and **Model Checkpoint** refer to [EgoPlan](https://github.com/ChenYi99/EgoPlan).
+  - **Video Instruction Dataset** for instruction tuning:
     - EgoPlan Benchmark Dataset (Train / Valid / Test):
       - Train: [EgoPlan_IT.json](https://drive.google.com/file/d/139UXIgOXbK55tNlK03TBrdSWXdupfrL5/view)
       - Valid: [EgoPlan_validation.json](https://drive.google.com/file/d/1Hy-mWrtuDjuq29iCQxCQzk0htTJs8SHg/view)
       - Test: [EgoPlan_test.json](https://drive.google.com/file/d/1G3cH58qlXI11iRFc8R1oFXpHhEiOh4Bd/view)
-    - WebVideo ~~
+    - WebVideo
     - Video LLaVA
     - MSCOCO
-  - Model Weights:
-    - Original Video-LLaMA:
-    - Finetuned Video-LLaMA (Not used actually): 
+  - **Video Dataset**:
+    - 
+  - **Model Checkpoint**:
+    - Vanilla Video-LLaMA: [Vanilla Video-LLaMA](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-2-7B-Finetuned)
+    - Finetuned Video-LLaMA with EgoPlan_IT dataset: [Finetuned Video-LLaMA](https://huggingface.co/ChenYi99/EgoPlan-Video-LLaMA-2-7B) (with lora weights)
+    - Vision Transformer: [eva_vit_g.pth](https://huggingface.co/lainxx/eva_vit_g/blob/main/eva_vit_g.pth)
+    - Q-Former: [blip2_pretrained_flant5xxl.pth](https://huggingface.co/spaces/Vision-CAIR/minigpt4/blob/main/blip2_pretrained_flant5xxl.pth)
+    - BERT: [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased)
+- 
 - Here, our own RAG dataset.
 - Place **data** at the directory specified below.
   ```
