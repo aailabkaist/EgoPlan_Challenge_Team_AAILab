@@ -10,7 +10,7 @@ We will upload our paper to Arxiv soon.
 ## Overview
 ![Teaser image](./figure/overview_v4_1.png)
 
-Our framework consists of two distinctive components: action sequence retrieval and direct preference optimization (DPO).
+Our method consists of two components: Direct Preference Optimization (DPO) and Retrieval-Augmented Generation. ction sequence retrieval and direct preference optimization (DPO).
 
 ## Dataset and Model Checkpoint
 - Our implementation is based on [EgoPlan-Bench](https://github.com/ChenYi99/EgoPlan).
@@ -77,7 +77,7 @@ Download the RGB frames of [EPIC-KITCHENS-100](https://github.com/epic-kitchens/
 ## Reproduction
 We provide the file we used and setting for reproduction.
 - Since we have some trouble with downloading Epickitchens dataset, we also share the [Epickitchens Video ID list file](https://drive.google.com/file/d/1cJUKc_IKL1o9Y6mx795LfmtShPGzFq6H/view?usp=drive_link) we used to check if there any missed video compared with original [EPIC-KITCHENS-100](https://github.com/epic-kitchens/epic-kitchens-download-scripts).
-- You can download our model config in table. (DPO Finetuned model checkpoint is [here](https://drive.google.com/drive/folders/1Q159B-NOrcc6-n4z6feyyV3ySd94BbiD?usp=drive_link) with lora weights.)
+- You can download our model config to reproduce models in table. (DPO Finetuned model checkpoint is [here](https://drive.google.com/drive/folders/1Q159B-NOrcc6-n4z6feyyV3ySd94BbiD?usp=drive_link) with lora weights.)
   - Original Video-LLaMA, RAG X, DPO loss: [link](https://drive.google.com/file/d/1qW4JznH-i4v2bK3f_gxbaIix4DCUMoAf/view?usp=drive_link)
   - DPO Finetuned Video-LLaMA, RAG X, DPO loss: [link](https://drive.google.com/file/d/19fBaeZt4kzjK1V2GJRH8SfyTSw-SnAyL/view?usp=drive_link)
   - DPO Finetuned Video-LLaMA, RAG O, Cont. loss: [link](https://drive.google.com/file/d/1lYOBT-kiRRTG3cwupnr4xBFglT9XaF-X/view?usp=drive_link)
@@ -117,18 +117,17 @@ We provide the file we used and setting for reproduction.
 |------------------|:--------:|:------------:|
 | Base →           |          | 41.35        |
 | Ours →           | ✔        | 53.98        |
+- Test accuracy 53.98% is 
 
 ### 2) Validation accuracies for various combinations of our method components
 |                 | Base      | Loss type               | RAG  | Valid Acc.(%) / Approx. Training Time  |
 |-----------------|-----------|-------------------------|:----:|---------------------------------------:|
 | **Baseline**    | Original  | -             | -    | 30.44† / Given Pre-trained Model       |
 |                 |           |Contrastive                 | ✗    | 44.42† / Given Pre-trained Model       |
-| **Ours**        | Original  | Contrastive             | ✓    | 52.44 / 0.5 days                       |
-|                 |           | DPO                     | ✗    | 60.24 / 0.5 days                       |
-|                 |           | DPO                     | ✓    | 52.44 / 0.5 days                       |
+| **Ours**        | Original  | DPO                     | ✗    | 60.24 / 0.5 days                       |
 |                 | DPO-Finetuned | Contrastive (Iterative) | ✓ | 53.09 / 0.5 days                       |
 |                 |           | DPO (Iterative)         | ✗    | 61.11 / 0.5 days                       |
-|                 |           | DPO (Iterative)         | ✓    | **67.17 / 0.5 days**                   |
+|                 |           | DPO (Iterative)         | ✓    | 60.24 / 0.5 days                   |
 
 Note that Base indicates the initial checkpoint from which the model is fine_tuned.
 
