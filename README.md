@@ -77,7 +77,7 @@ Download the RGB frames of [EPIC-KITCHENS-100](https://github.com/epic-kitchens/
 ## Reproduction
 We provide the file we used and setting for reproduction.
 - Since we have some trouble with downloading Epickitchens dataset, we also share the [Epickitchens Video ID list file](https://drive.google.com/file/d/1cJUKc_IKL1o9Y6mx795LfmtShPGzFq6H/view?usp=drive_link) we used to check if there any missed video compared with original [EPIC-KITCHENS-100](https://github.com/epic-kitchens/epic-kitchens-download-scripts).
-- You can download our model config in table.
+- You can download our model config in table. (DPO Finetuned model checkpoint is [here](https://drive.google.com/drive/folders/1Q159B-NOrcc6-n4z6feyyV3ySd94BbiD?usp=drive_link).)
   - Original Video-LLaMA, RAG X, DPO loss: [link](https://drive.google.com/file/d/1qW4JznH-i4v2bK3f_gxbaIix4DCUMoAf/view?usp=drive_link)
   - DPO Finetuned Video-LLaMA, RAG X, DPO loss: [link](https://drive.google.com/file/d/19fBaeZt4kzjK1V2GJRH8SfyTSw-SnAyL/view?usp=drive_link)
   - DPO Finetuned Video-LLaMA, RAG O, Cont. loss: [link](https://drive.google.com/file/d/1lYOBT-kiRRTG3cwupnr4xBFglT9XaF-X/view?usp=drive_link)
