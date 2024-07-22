@@ -13,9 +13,10 @@ We will upload our paper to Arxiv soon.
 
 Our framework consists of two distinctive components: action sequence retrieval and direct preference optimization (DPO).
 
-## Datasets
+## Requirements
 - Our implementation is based on [EgoPlan](https://github.com/ChenYi99/EgoPlan).
 - We used **Video & Image Instruction Dataset**, **Video & Image Dataset**, and **Model Checkpoint** refer to [EgoPlan](https://github.com/ChenYi99/EgoPlan).
+- We also provide our generated **Action Database** and **Model Checkpoint**.
   - **Video & Image Instruction Dataset** for instruction tuning:
     - EgoPlan Benchmark Dataset (Train / Valid / Test):
       - Train (50K): [EgoPlan_IT.json](https://drive.google.com/file/d/139UXIgOXbK55tNlK03TBrdSWXdupfrL5/view)
@@ -25,6 +26,8 @@ Our framework consists of two distinctive components: action sequence retrieval 
     - Image-based Instructions from LLaVA (150K): [llava_instruct_150k.json](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K)
     - Video-based Instructions from VideoChat (11K): [videochat_instruct_11k.json](https://drive.google.com/file/d/1C-7xmf42QUEi4ApXTcxBHr5nLvTWXyUi/view)
   - **Video & Image Dataset**:
+    - EpicKitchens dataset (for EgoPlan Benchmark): [EPIC-KITCHENS-100](https://github.com/epic-kitchens/epic-kitchens-download-scripts)
+    - Ego4D dataset (for EgoPlan Benchmark): [Ego4D](https://ego4d-data.org/#download)
     - cc_sbu_align dataset (for MiniGPT-4 Instruction): [cc_sbu_align_multilang](https://huggingface.co/datasets/dinhanhx/cc_sbu_align_multilang) (We download dataset not from [cc_sbu_align](https://huggingface.co/datasets/Vision-CAIR/cc_sbu_align) because it has only 149 images.)
     - MS COCO datset (for LLaVA Instruction): [MS COCO 2014 Training Images](http://deltalab.iitk.ac.in/index.php?n=Main.MSCOCO2014Dataset)
     - WebVid Dataset (for VideoChat Instuction): Since [WebVid dataset](https://github.com/m-bain/webvid) is no longer available, we download webvid dataset from real link by bash.
@@ -34,7 +37,12 @@ Our framework consists of two distinctive components: action sequence retrieval 
     - Vision Transformer: [eva_vit_g.pth](https://huggingface.co/lainxx/eva_vit_g/blob/main/eva_vit_g.pth)
     - Q-Former: [blip2_pretrained_flant5xxl.pth](https://huggingface.co/spaces/Vision-CAIR/minigpt4/blob/main/blip2_pretrained_flant5xxl.pth)
     - BERT: [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased)
-- 
+  - **Our RAG Dataset**
+    - You can download RAG training dataset from [here](https://drive.google.com/drive/folders/1JmXCK3QZJSxjP8a-DcBPWSAQQoqvK98S?usp=sharing) and validation dataset from [here](https://drive.google.com/drive/folders/1JmXCK3QZJSxjP8a-DcBPWSAQQoqvK98S?usp=sharing).
+  - **Our Checkpoint**
+    - You can download our model ckpt from [here](https://drive.google.com/drive/folders/1zBRv-OIm9SaAis9wmAAf2BBQxCFhp3gj?usp=sharing).
+
+## Dataset Setting
 - Here, our own RAG dataset.
 - Place **data** at the directory specified below.
   ```
