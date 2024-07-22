@@ -15,22 +15,20 @@ Our framework consists of two distinctive components: action sequence retrieval 
 
 ## Required Dataset and Model Checkpoint
 - Our implementation is based on [EgoPlan](https://github.com/ChenYi99/EgoPlan).
-- We used **Video & Image Instruction Dataset**, **Video & Image Dataset**, and **Model Checkpoint** refer to [EgoPlan](https://github.com/ChenYi99/EgoPlan).
+- We used **Instruction Dataset & Corresponding Dataset** and **Model Checkpoint** refer to [EgoPlan](https://github.com/ChenYi99/EgoPlan).
 - We also provide our generated **Action Database** and **Model Checkpoint**.
-  - **Video & Image Instruction Dataset** for instruction tuning:
-    - EgoPlan Benchmark Dataset (Train / Valid / Test):
+  - **Instruction Dataset & Corresponding Dataset**:
+    - EgoPlan Benchmark Dataset (Train / Valid / Test) & [EpicKitchens Dataset](https://github.com/epic-kitchens/epic-kitchens-download-scripts), [Ego4D Dataset](https://ego4d-data.org/#download):
       - Train (50K): [EgoPlan_IT.json](https://drive.google.com/file/d/139UXIgOXbK55tNlK03TBrdSWXdupfrL5/view)
       - Valid (3K): [EgoPlan_validation.json](https://drive.google.com/file/d/1Hy-mWrtuDjuq29iCQxCQzk0htTJs8SHg/view)
       - Test (2K): [EgoPlan_test.json](https://drive.google.com/file/d/1G3cH58qlXI11iRFc8R1oFXpHhEiOh4Bd/view)
-    - Image-based Instructions from MiniGPT-4 (3K): [cc_sbu_align.zip](https://drive.google.com/file/d/1nJXhoEcy3KTExr17I7BXqY5Y9Lx_-n-9/view)
-    - Image-based Instructions from LLaVA (150K): [llava_instruct_150k.json](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K)
-    - Video-based Instructions from VideoChat (11K): [videochat_instruct_11k.json](https://drive.google.com/file/d/1C-7xmf42QUEi4ApXTcxBHr5nLvTWXyUi/view)
-  - **Video & Image Dataset**:
-    - EpicKitchens dataset (for EgoPlan Benchmark): [EPIC-KITCHENS-100](https://github.com/epic-kitchens/epic-kitchens-download-scripts)
-    - Ego4D dataset (for EgoPlan Benchmark): [Ego4D](https://ego4d-data.org/#download)
-    - cc_sbu_align dataset (for MiniGPT-4 Instruction): [cc_sbu_align_multilang](https://huggingface.co/datasets/dinhanhx/cc_sbu_align_multilang) (We download dataset not from [cc_sbu_align](https://huggingface.co/datasets/Vision-CAIR/cc_sbu_align) because it has only 149 images.)
-    - MS COCO datset (for LLaVA Instruction): [MS COCO 2014 Training Images](http://deltalab.iitk.ac.in/index.php?n=Main.MSCOCO2014Dataset)
-    - WebVid Dataset (for VideoChat Instuction): Since [WebVid dataset](https://github.com/m-bain/webvid) is no longer available, we download webvid dataset from real link by bash.
+    - Image-based Instructions from MiniGPT-4 (3K) & cc_sbu_align dataset (zip file has instruction .json file and images.):
+      - [cc_sbu_align.zip](https://drive.google.com/file/d/1nJXhoEcy3KTExr17I7BXqY5Y9Lx_-n-9/view)
+    - Image-based Instructions from LLaVA (150K) & [MS COCO 2014 Training Images Dataset](http://deltalab.iitk.ac.in/index.php?n=Main.MSCOCO2014Dataset):
+      - [llava_instruct_150k.json](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K)
+    - Video-based Instructions from VideoChat (11K) & WebVid dataset:
+      - [videochat_instruct_11k.json](https://drive.google.com/file/d/1C-7xmf42QUEi4ApXTcxBHr5nLvTWXyUi/view)
+      - WebVid Dataset (for VideoChat Instuction): Since [WebVid dataset](https://github.com/m-bain/webvid) is no longer available, we download webvid dataset from real link by bash.
   - **Model Checkpoint**:
     - Vanilla Video-LLaMA: [Vanilla Video-LLaMA](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-2-7B-Finetuned)
     - Finetuned Video-LLaMA with EgoPlan_IT dataset: [Finetuned Video-LLaMA](https://huggingface.co/ChenYi99/EgoPlan-Video-LLaMA-2-7B) (with lora weights)
@@ -46,16 +44,21 @@ Our framework consists of two distinctive components: action sequence retrieval 
 
 Since EpicKitchens and Ego4D datasets are large datasets, you need to download only necessary thing if you have limited resource.
 We follow path setting from [EgoPlan Benchmark](https://github.com/ChenYi99/EgoPlan)
-- EpicKitchens dataset:
+Download the RGB frames of 
+- **EpicKitchens Dataset**:
   ```
   EPIC-KITCHENS
-  ├── checkp
-  │   ├── pretrained_score/edm-cifar10-32x32-uncond-vp.pkl
-  │   ├── pretrained_score/edm-cifar10-32x32-cond-vp.pkl
-  ├── ...
+  └── P01
+      └── P01_01
+          ├── frame_0000000001.jpg
+          └── ...
   ```
 
-- Ego4D dataset:
+- **Ego4D Dataset**:
+  Ego4D
+  └── v1
+      ├── 000786a7-3f9d-4fe6-bfb3-045b368f7d44.mp4
+      └── ...
 
 
 ## Dataset & Model Setting by .yaml file.
