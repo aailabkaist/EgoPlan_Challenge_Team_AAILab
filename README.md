@@ -42,9 +42,24 @@ Our framework consists of two distinctive components: action sequence retrieval 
   - **Our Checkpoint**
     - You can download our model ckpt from [here](https://drive.google.com/drive/folders/1zBRv-OIm9SaAis9wmAAf2BBQxCFhp3gj?usp=sharing).
 
-## Dataset Setting
-- Here, our own RAG dataset.
-- Place **data** at the directory specified below.
+## Egocentric Video Path Setting (EpicKitchens & Ego4D)
+
+Since EpicKitchens and Ego4D datasets are large datasets, you need to download only necessary thing if you have limited resource.
+We follow path setting from [EgoPlan Benchmark](https://github.com/ChenYi99/EgoPlan)
+- EpicKitchens dataset:
+  ```
+  EPIC-KITCHENS
+  ├── checkp
+  │   ├── pretrained_score/edm-cifar10-32x32-uncond-vp.pkl
+  │   ├── pretrained_score/edm-cifar10-32x32-cond-vp.pkl
+  ├── ...
+  ```
+
+- Ego4D dataset:
+
+
+## Dataset & Model Setting by .yaml file.
+- Following the base structure of [EgoPlan Github](https://github.com/ChenYi99/EgoPlan)
   ```
   ${project_page}/DG/
   ├── checkpoints
