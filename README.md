@@ -40,7 +40,7 @@ Our framework consists of two distinctive components: action sequence retrieval 
       - Video Dataset:
         - WebVid Dataset (for VideoChat Instuction): Since [WebVid dataset](https://github.com/m-bain/webvid) is no longer available, we download the video dataset by two steps.
           1. Download [WebVid-10M dataset information csv file](https://huggingface.co/datasets/TempoFunk/webvid-10M/tree/main).
-          2. Download the video file and save it into your specific path by [our given python code](https://drive.google.com/file/d/1i7iBfbC_RD2CL_Chq9S5uh8SCWsvSUlY/view?usp=drive_link). (The videos are not fully download because some of videos are not allowed to download. So we use [videochat_instruct_11k_revised.json](https://drive.google.com/file/d/1rjeCoMYELJ4wGkO9HG243IhlsxfVPfc1/view?usp=drive_link) instead.)
+          2. Download the video file and save it into your specific path by [our provided python code](https://drive.google.com/file/d/1i7iBfbC_RD2CL_Chq9S5uh8SCWsvSUlY/view?usp=drive_link). (The videos are not fully download because some of videos are not allowed to download. So we use [videochat_instruct_11k_revised.json](https://drive.google.com/file/d/1rjeCoMYELJ4wGkO9HG243IhlsxfVPfc1/view?usp=drive_link) instead.)
   - **Model Checkpoint**:
     - Vanilla Video-LLaMA: [Vanilla Video-LLaMA](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-2-7B-Finetuned/tree/main)
     - Finetuned Video-LLaMA with EgoPlan_IT dataset: [Finetuned Video-LLaMA](https://huggingface.co/ChenYi99/EgoPlan-Video-LLaMA-2-7B/tree/main) (with lora weights)
