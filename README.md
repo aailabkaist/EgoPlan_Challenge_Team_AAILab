@@ -39,7 +39,9 @@ Our framework consists of two distinctive components: action sequence retrieval 
         - Videochat Instruction Dataset: [videochat_instruct_11k.json](https://drive.google.com/file/d/1C-7xmf42QUEi4ApXTcxBHr5nLvTWXyUi/view)
         - **Important!** Since we don't get full WebVid dataset, we use revised instruction dataset file for own situation. You can download [videochat_instruct_11k_revised.json](https://drive.google.com/file/d/1rjeCoMYELJ4wGkO9HG243IhlsxfVPfc1/view?usp=drive_link)
       - Video Dataset:
-        - WebVid Dataset (for VideoChat Instuction): Since [WebVid dataset](https://github.com/m-bain/webvid) is no longer available, we download webvid dataset from real link by bash.
+        - WebVid Dataset (for VideoChat Instuction): Since [WebVid dataset](https://github.com/m-bain/webvid) is no longer available, we download the video dataset by two steps.
+          1. Download [WebVid-10M dataset information csv file](https://huggingface.co/datasets/TempoFunk/webvid-10M/tree/main).
+          2. Download the video file and save it into your specific path by [our given python code](https://drive.google.com/file/d/1i7iBfbC_RD2CL_Chq9S5uh8SCWsvSUlY/view?usp=drive_link).
   - **Model Checkpoint**:
     - Vanilla Video-LLaMA: [Vanilla Video-LLaMA](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-2-7B-Finetuned/tree/main)
     - Finetuned Video-LLaMA with EgoPlan_IT dataset: [Finetuned Video-LLaMA](https://huggingface.co/ChenYi99/EgoPlan-Video-LLaMA-2-7B/tree/main) (with lora weights)
@@ -55,7 +57,7 @@ Our framework consists of two distinctive components: action sequence retrieval 
 
 Since EpicKitchens and Ego4D datasets are large datasets, you need to download only necessary thing if you have limited resource.
 We follow path setting from [EgoPlan Benchmark](https://github.com/ChenYi99/EgoPlan)
-Download the RGB frames of 
+Download the RGB frames of [EPIC-KITCHENS-100](https://github.com/epic-kitchens/epic-kitchens-download-scripts) and videos of [Ego4D](https://ego4d-data.org/#download). The folder structure of two datasets are shown below:
 - **EpicKitchens Dataset**:
   ```
   EPIC-KITCHENS
@@ -64,7 +66,6 @@ Download the RGB frames of
           ├── frame_0000000001.jpg
           └── ...
   ```
-
 - **Ego4D Dataset**:
   '''
   Ego4D
