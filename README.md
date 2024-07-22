@@ -22,10 +22,12 @@ Our framework consists of two distinctive components: action sequence retrieval 
       - Valid (3K): [EgoPlan_validation.json](https://drive.google.com/file/d/1Hy-mWrtuDjuq29iCQxCQzk0htTJs8SHg/view)
       - Test (2K): [EgoPlan_test.json](https://drive.google.com/file/d/1G3cH58qlXI11iRFc8R1oFXpHhEiOh4Bd/view)
     - Image-based Instructions from MiniGPT-4 (3K): [cc_sbu_align.zip](https://drive.google.com/file/d/1nJXhoEcy3KTExr17I7BXqY5Y9Lx_-n-9/view)
-    - Image-based Instructions from LLaVA (150K):
-    - Video-based Instructions from VideoChat (11K):
+    - Image-based Instructions from LLaVA (150K): [llava_instruct_150k.json](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K)
+    - Video-based Instructions from VideoChat (11K): [videochat_instruct_11k.json](https://drive.google.com/file/d/1C-7xmf42QUEi4ApXTcxBHr5nLvTWXyUi/view)
   - **Video & Image Dataset**:
-    - cc_sbu_align dataset: [cc_sbu_align_multilang](https://huggingface.co/datasets/dinhanhx/cc_sbu_align_multilang) (We download dataset not from [cc_sbu_align](https://huggingface.co/datasets/Vision-CAIR/cc_sbu_align) because it has only 149 images.)
+    - cc_sbu_align dataset (for MiniGPT-4 Instruction): [cc_sbu_align_multilang](https://huggingface.co/datasets/dinhanhx/cc_sbu_align_multilang) (We download dataset not from [cc_sbu_align](https://huggingface.co/datasets/Vision-CAIR/cc_sbu_align) because it has only 149 images.)
+    - MS COCO datset (for LLaVA Instruction): [MS COCO 2014 Training Images](http://deltalab.iitk.ac.in/index.php?n=Main.MSCOCO2014Dataset)
+    - WebVid Dataset (for VideoChat Instuction): Since [WebVid dataset](https://github.com/m-bain/webvid) is no longer available, we download webvid dataset from real link by bash.
   - **Model Checkpoint**:
     - Vanilla Video-LLaMA: [Vanilla Video-LLaMA](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-2-7B-Finetuned)
     - Finetuned Video-LLaMA with EgoPlan_IT dataset: [Finetuned Video-LLaMA](https://huggingface.co/ChenYi99/EgoPlan-Video-LLaMA-2-7B) (with lora weights)
