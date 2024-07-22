@@ -14,8 +14,8 @@ We will upload our paper to Arxiv soon.
 Our framework consists of two distinctive components: action sequence retrieval and direct preference optimization (DPO).
 
 ## Required Dataset and Model Checkpoint
-- Our implementation is based on [EgoPlan](https://github.com/ChenYi99/EgoPlan).
-- We used **Instruction Dataset & Corresponding Video & Image Dataset** and **Model Checkpoint** refer to [EgoPlan-Bench](https://github.com/ChenYi99/EgoPlan).
+- Our implementation is based on [EgoPlan-Bench](https://github.com/ChenYi99/EgoPlan).
+- We used **Instruction Dataset & Corresponding Video/Image Dataset** and **Model Checkpoint** refer to [EgoPlan-Bench](https://github.com/ChenYi99/EgoPlan).
 - We also provide our generated **Action Database** and **Model Checkpoint**.
   - **Instruction Dataset & Corresponding Dataset**
     - **EgoPlan-Bench (Train / Valid / Test) & EpicKitchens / Ego4D Dataset**
@@ -27,7 +27,8 @@ Our framework consists of two distinctive components: action sequence retrieval 
         - Epickitchens Dataset: [EPIC-KITCHENS-100](https://github.com/epic-kitchens/epic-kitchens-download-scripts)
         - Ego4D Dataset: [Ego4D](https://ego4d-data.org/#download)
     - **Image-based Instructions from MiniGPT-4 (3K) & cc_sbu_align Dataset** (zip file has instruction .json file and images.)
-      - [cc_sbu_align.zip](https://drive.google.com/file/d/1nJXhoEcy3KTExr17I7BXqY5Y9Lx_-n-9/view)
+      - Instruction & Image Dataset:
+        - [cc_sbu_align.zip](https://drive.google.com/file/d/1nJXhoEcy3KTExr17I7BXqY5Y9Lx_-n-9/view)
     - **Image-based Instructions from LLaVA (150K) & MS COCO 2014 Training dataset**
       - Instruction Dataset:
         - LLaVA Instruction Dataset: [llava_instruct_150k.json](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K)
@@ -39,11 +40,11 @@ Our framework consists of two distinctive components: action sequence retrieval 
       - Video Dataset:
         - WebVid Dataset (for VideoChat Instuction): Since [WebVid dataset](https://github.com/m-bain/webvid) is no longer available, we download webvid dataset from real link by bash.
   - **Model Checkpoint**:
-    - Vanilla Video-LLaMA: [Vanilla Video-LLaMA](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-2-7B-Finetuned)
-    - Finetuned Video-LLaMA with EgoPlan_IT dataset: [Finetuned Video-LLaMA](https://huggingface.co/ChenYi99/EgoPlan-Video-LLaMA-2-7B) (with lora weights)
-    - Vision Transformer: [eva_vit_g.pth](https://huggingface.co/lainxx/eva_vit_g/blob/main/eva_vit_g.pth)
-    - Q-Former: [blip2_pretrained_flant5xxl.pth](https://huggingface.co/spaces/Vision-CAIR/minigpt4/blob/main/blip2_pretrained_flant5xxl.pth)
-    - BERT: [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased)
+    - Vanilla Video-LLaMA: [Vanilla Video-LLaMA](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-2-7B-Finetuned/tree/main)
+    - Finetuned Video-LLaMA with EgoPlan_IT dataset: [Finetuned Video-LLaMA](https://huggingface.co/ChenYi99/EgoPlan-Video-LLaMA-2-7B/tree/main) (with lora weights)
+    - Vision Transformer: [eva_vit_g.pth](https://huggingface.co/lainxx/eva_vit_g/blob/main/eva_vit_g.pth) (You should use Git LFS to download it.)
+    - Q-Former: [blip2_pretrained_flant5xxl.pth](https://huggingface.co/spaces/Vision-CAIR/minigpt4/blob/main/blip2_pretrained_flant5xxl.pth) (You should use Git LFS to download it.)
+    - BERT: [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased/tree/main)
   - **Our RAG Dataset**
     - You can download RAG training dataset from [here](https://drive.google.com/drive/folders/1JmXCK3QZJSxjP8a-DcBPWSAQQoqvK98S?usp=sharing) and validation dataset from [here](https://drive.google.com/drive/folders/1JmXCK3QZJSxjP8a-DcBPWSAQQoqvK98S?usp=sharing).
   - **Our Checkpoint**
