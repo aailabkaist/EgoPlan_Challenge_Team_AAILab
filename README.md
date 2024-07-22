@@ -6,6 +6,7 @@
 <sup> * Equal contribution </sup> <br>
 
 | [paper] |  <br>
+We will upload our paper to Arxiv soon.
 
 ## Overview
 ![Teaser image](./figure/overview_v4_1.png)
@@ -13,10 +14,10 @@
 Our framework consists of two distinctive components: action sequence retrieval and direct preference optimization (DPO).
 
 ## Datasets
-- Our iplementation is based on [EgoPlan](https://github.com/ChenYi99/EgoPlan).
-- We used **Dataset** and **Model Weights** as desribed in [EgoPlan](https://github.com/ChenYi99/EgoPlan).
+- Our implementation is based on [EgoPlan](https://github.com/ChenYi99/EgoPlan).
+- We used **Dataset** and **Model Weights** refer to [EgoPlan](https://github.com/ChenYi99/EgoPlan).
   - Dataset:
-    - EgoPlan BenchMark
+    - EgoPlan Benchmark Dataset: 
     - WebVideo ~~
     - Video LLaVA
     - MSCOCO
