@@ -15,20 +15,29 @@ Our framework consists of two distinctive components: action sequence retrieval 
 
 ## Required Dataset and Model Checkpoint
 - Our implementation is based on [EgoPlan](https://github.com/ChenYi99/EgoPlan).
-- We used **Instruction Dataset & Corresponding Dataset** and **Model Checkpoint** refer to [EgoPlan](https://github.com/ChenYi99/EgoPlan).
+- We used **Instruction Dataset & Corresponding Video & Image Dataset** and **Model Checkpoint** refer to [EgoPlan-Bench](https://github.com/ChenYi99/EgoPlan).
 - We also provide our generated **Action Database** and **Model Checkpoint**.
-  - **Instruction Dataset & Corresponding Dataset**:
-    - EgoPlan Benchmark Dataset (Train / Valid / Test) & [EpicKitchens Dataset](https://github.com/epic-kitchens/epic-kitchens-download-scripts), [Ego4D Dataset](https://ego4d-data.org/#download):
-      - Train (50K): [EgoPlan_IT.json](https://drive.google.com/file/d/139UXIgOXbK55tNlK03TBrdSWXdupfrL5/view)
-      - Valid (3K): [EgoPlan_validation.json](https://drive.google.com/file/d/1Hy-mWrtuDjuq29iCQxCQzk0htTJs8SHg/view)
-      - Test (2K): [EgoPlan_test.json](https://drive.google.com/file/d/1G3cH58qlXI11iRFc8R1oFXpHhEiOh4Bd/view)
-    - Image-based Instructions from MiniGPT-4 (3K) & cc_sbu_align dataset (zip file has instruction .json file and images.):
+  - **Instruction Dataset & Corresponding Dataset**
+    - **EgoPlan-Bench (Train / Valid / Test) & EpicKitchens / Ego4D Dataset**
+      - Instruction Dataset:
+        - Train (50K): [EgoPlan_IT.json](https://drive.google.com/file/d/139UXIgOXbK55tNlK03TBrdSWXdupfrL5/view)
+        - Valid (3K): [EgoPlan_validation.json](https://drive.google.com/file/d/1Hy-mWrtuDjuq29iCQxCQzk0htTJs8SHg/view)
+        - Test (2K): [EgoPlan_test.json](https://drive.google.com/file/d/1G3cH58qlXI11iRFc8R1oFXpHhEiOh4Bd/view)
+      - Video Dataset:
+        - Epickitchens Dataset: [EPIC-KITCHENS-100](https://github.com/epic-kitchens/epic-kitchens-download-scripts)
+        - Ego4D Dataset: [Ego4D](https://ego4d-data.org/#download)
+    - **Image-based Instructions from MiniGPT-4 (3K) & cc_sbu_align Dataset** (zip file has instruction .json file and images.)
       - [cc_sbu_align.zip](https://drive.google.com/file/d/1nJXhoEcy3KTExr17I7BXqY5Y9Lx_-n-9/view)
-    - Image-based Instructions from LLaVA (150K) & [MS COCO 2014 Training Images Dataset](http://deltalab.iitk.ac.in/index.php?n=Main.MSCOCO2014Dataset):
-      - [llava_instruct_150k.json](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K)
-    - Video-based Instructions from VideoChat (11K) & WebVid dataset:
-      - [videochat_instruct_11k.json](https://drive.google.com/file/d/1C-7xmf42QUEi4ApXTcxBHr5nLvTWXyUi/view)
-      - WebVid Dataset (for VideoChat Instuction): Since [WebVid dataset](https://github.com/m-bain/webvid) is no longer available, we download webvid dataset from real link by bash.
+    - **Image-based Instructions from LLaVA (150K) & MS COCO 2014 Training dataset**
+      - Instruction Dataset:
+        - LLaVA Instruction Dataset: [llava_instruct_150k.json](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K)
+      - Image Dataset:
+        - MS COCO 2014 Training Image Dataset: [MS COCO 2014 Training Image Dataset](https://cocodataset.org/#download):
+    - **Video-based Instructions from VideoChat (11K) & WebVid dataset**
+      - Instruction Dataset:
+        - Videochat Instruction Dataset: [videochat_instruct_11k.json](https://drive.google.com/file/d/1C-7xmf42QUEi4ApXTcxBHr5nLvTWXyUi/view)
+      - Video Dataset:
+        - WebVid Dataset (for VideoChat Instuction): Since [WebVid dataset](https://github.com/m-bain/webvid) is no longer available, we download webvid dataset from real link by bash.
   - **Model Checkpoint**:
     - Vanilla Video-LLaMA: [Vanilla Video-LLaMA](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-2-7B-Finetuned)
     - Finetuned Video-LLaMA with EgoPlan_IT dataset: [Finetuned Video-LLaMA](https://huggingface.co/ChenYi99/EgoPlan-Video-LLaMA-2-7B) (with lora weights)
