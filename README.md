@@ -42,8 +42,8 @@ Our framework consists of two distinctive components: action sequence retrieval 
           1. Download [WebVid-10M dataset information csv file](https://huggingface.co/datasets/TempoFunk/webvid-10M/tree/main).
           2. Download the video file and save it into your specific path by [our provided python code](https://drive.google.com/file/d/1i7iBfbC_RD2CL_Chq9S5uh8SCWsvSUlY/view?usp=drive_link). (The videos are not fully download because some of videos are not allowed to download. So we use [videochat_instruct_11k_revised.json](https://drive.google.com/file/d/1rjeCoMYELJ4wGkO9HG243IhlsxfVPfc1/view?usp=drive_link) instead.)
   - **Model Checkpoint**:
-    - Vanilla Video-LLaMA: [Vanilla Video-LLaMA](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-2-7B-Finetuned/tree/main)
-    - Finetuned Video-LLaMA with EgoPlan_IT dataset: [Finetuned Video-LLaMA](https://huggingface.co/ChenYi99/EgoPlan-Video-LLaMA-2-7B/tree/main) (with lora weights)
+    - Original (Vanilla) Video-LLaMA: [Original Video-LLaMA](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-2-7B-Finetuned/tree/main)
+    - Provided Finetuned Video-LLaMA with EgoPlan_IT dataset from [EgoPlan-Bench](https://github.com/ChenYi99/EgoPlan): [Finetuned Video-LLaMA](https://huggingface.co/ChenYi99/EgoPlan-Video-LLaMA-2-7B/tree/main) (with lora weights)
     - Vision Transformer: [eva_vit_g.pth](https://huggingface.co/lainxx/eva_vit_g/blob/main/eva_vit_g.pth) (You should use Git LFS to download it.)
     - Q-Former: [blip2_pretrained_flant5xxl.pth](https://huggingface.co/spaces/Vision-CAIR/minigpt4/blob/main/blip2_pretrained_flant5xxl.pth) (You should use Git LFS to download it.)
     - BERT: [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased/tree/main)
