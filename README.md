@@ -13,7 +13,7 @@ We will upload our paper to Arxiv soon.
 
 Our framework consists of two distinctive components: action sequence retrieval and direct preference optimization (DPO).
 
-## Requirements
+## Required Dataset and Model Checkpoint
 - Our implementation is based on [EgoPlan](https://github.com/ChenYi99/EgoPlan).
 - We used **Video & Image Instruction Dataset**, **Video & Image Dataset**, and **Model Checkpoint** refer to [EgoPlan](https://github.com/ChenYi99/EgoPlan).
 - We also provide our generated **Action Database** and **Model Checkpoint**.
