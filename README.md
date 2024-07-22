@@ -28,12 +28,12 @@ Our framework consists of two distinctive components: action sequence retrieval 
     - **Image-based Instructions from MiniGPT-4 (3K) & cc_sbu_align Dataset** (zip file has instruction .json file and images.)
       - Instruction & Image Dataset:
         - [cc_sbu_align.zip](https://drive.google.com/file/d/1nJXhoEcy3KTExr17I7BXqY5Y9Lx_-n-9/view)
-    - **Image-based Instructions from LLaVA (150K) & MS COCO 2014 Training dataset**
+    - **Image-based Instructions from LLaVA (150K) & MS COCO 2014 Training Dataset**
       - Instruction Dataset:
         - LLaVA Instruction Dataset: [llava_instruct_150k.json](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K)
       - Image Dataset:
         - MS COCO 2014 Training Image Dataset: [MS COCO 2014 Training Image Dataset](https://cocodataset.org/#download):
-    - **Video-based Instructions from VideoChat (11K) & WebVid dataset**
+    - **Video-based Instructions from VideoChat (11K) & WebVid Dataset**
       - Instruction Dataset:
         - Videochat Instruction Dataset: [videochat_instruct_11k.json](https://drive.google.com/file/d/1C-7xmf42QUEi4ApXTcxBHr5nLvTWXyUi/view)
         - **Important!** Since we don't get full WebVid dataset, we use revised instruction dataset file for own situation. You can download [videochat_instruct_11k_revised.json](https://drive.google.com/file/d/1rjeCoMYELJ4wGkO9HG243IhlsxfVPfc1/view?usp=drive_link)
@@ -77,7 +77,7 @@ Download the RGB frames of [EPIC-KITCHENS-100](https://github.com/epic-kitchens/
 ## Reproduction
 We provide the file we used and setting for reproduction.
 - Since we have some trouble with downloading Epickitchens dataset, we also share the [Epickitchens Video ID list file](https://drive.google.com/file/d/1cJUKc_IKL1o9Y6mx795LfmtShPGzFq6H/view?usp=drive_link) we used to check if there any missed video compared with original [EPIC-KITCHENS-100](https://github.com/epic-kitchens/epic-kitchens-download-scripts).
-- You can download our model config in table. (DPO Finetuned model checkpoint is [here](https://drive.google.com/drive/folders/1Q159B-NOrcc6-n4z6feyyV3ySd94BbiD?usp=drive_link).)
+- You can download our model config in table. (DPO Finetuned model checkpoint is [here](https://drive.google.com/drive/folders/1Q159B-NOrcc6-n4z6feyyV3ySd94BbiD?usp=drive_link) with lora weights.)
   - Original Video-LLaMA, RAG X, DPO loss: [link](https://drive.google.com/file/d/1qW4JznH-i4v2bK3f_gxbaIix4DCUMoAf/view?usp=drive_link)
   - DPO Finetuned Video-LLaMA, RAG X, DPO loss: [link](https://drive.google.com/file/d/19fBaeZt4kzjK1V2GJRH8SfyTSw-SnAyL/view?usp=drive_link)
   - DPO Finetuned Video-LLaMA, RAG O, Cont. loss: [link](https://drive.google.com/file/d/1lYOBT-kiRRTG3cwupnr4xBFglT9XaF-X/view?usp=drive_link)
