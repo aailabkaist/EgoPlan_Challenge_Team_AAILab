@@ -86,8 +86,21 @@ We provide the file we used and setting for reproduction.
 ## Retrieval-Augmented Generation (RAG) Train / Test Dataset Generation
 
 You can generate training dataset and test dataset with additional narration from action database (EpicKitchens training dataset + Ego4D generated dataset) by **RAG**.
-- RAG Training Dataset: 
-- RAG Test Dataset: 
+- Before generating RAG Train / Test dataset, you should download our Ego4D generated action database [here](https://drive.google.com/drive/folders/1JsRdUwgRUSwpa0aTILyRCfk0EpU_LSPp?usp=drive_link).
+- RAG Training Dataset (/RAG_train):
+  - download [dataset](https://drive.google.com/drive/folders/15U9GvEyvqDlRNJllKvEUuydOFrIZBWVr?usp=drive_link) for RAG training data.
+  - run bash code.
+  ```bash
+  bash run.sh
+  ```
+- RAG Test Dataset (/RAG_test):
+  - download [dataset](https://drive.google.com/drive/folders/1p20YT4sPAUUxly_XbvZ8lBaHJJJuqx0p?usp=drive_link) for RAG test data.
+  - run each code in order.
+  1. 01_bert_embedding_for_db.py / 01_bert_embeding_for_test_RAG.py
+  2. 02_RAG_bert_retrieve_ver.py
+  3. 03_sim_thd.py
+  4. 04_RAG_bert_retrieve_add_narr.py
+  5. 05_RAG_bert_retrieve_blank_fill.py
 
 ## Finetuning & Evaluating & Testing Commands
 
