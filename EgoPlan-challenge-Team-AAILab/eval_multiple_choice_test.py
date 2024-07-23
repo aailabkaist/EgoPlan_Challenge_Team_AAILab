@@ -35,34 +35,35 @@ if __name__ == '__main__':
 
     print(f'evaluating.. {args.model}')
     predict_choice = build(args.model, model_config=args.model_config, epoch=args.epoch)
-    with open('Your Test file path') as fi:
+    if args.model == 'egoplan_video_llama':
+            valid_path = 'Your Test file path'
+    else: # rag
+        valid_path = 'Your RAG Test file path'
+    with open(valid_path) as fi:
         samples = json.load(fi)
         correct_num = 0
         question_num = 0
         for i, sample in tqdm(enumerate(samples), desc="Processing questions", total=len(samples)):
-            try:
-                subset_name = 'Ego4D'
-                video_source = 'Ego4D'
+            subset_name = 'Ego4D'
+            video_source = 'Ego4D'
 
-                if video_source == "EpicKitchens":
-                    video_id = sample["video_id"]
-                    participant_id = video_id.split("_")[0]
-                    video_rgb_frame_dir = os.path.join(args.epic_kitchens_rgb_frame_dir,
-                                                    participant_id, "rgb_frames", video_id)
-                    sample["video_rgb_frame_dir"] = video_rgb_frame_dir
-                else:
-                    video_id = sample["video_id"]
-                    video_path = os.path.join(args.ego4d_video_dir, f"{video_id}.mp4")
-                    sample["video_path"] = video_path
-                predicted_choice, choice2loss = predict_choice(sample=sample, return_loss=True, subset_name=subset_name)
-                print("***** question *****")
-                print(sample["question"])
+            if video_source == "EpicKitchens":
+                video_id = sample["video_id"]
+                participant_id = video_id.split("_")[0]
+                video_rgb_frame_dir = os.path.join(args.epic_kitchens_rgb_frame_dir,
+                                                participant_id, "rgb_frames", video_id)
+                sample["video_rgb_frame_dir"] = video_rgb_frame_dir
+            else:
+                video_id = sample["video_id"]
+                video_path = os.path.join(args.ego4d_video_dir, f"{video_id}.mp4")
+                sample["video_path"] = video_path
+            predicted_choice, choice2loss = predict_choice(sample=sample, return_loss=True, subset_name=subset_name)
+            print("***** question *****")
+            print(sample["question"])
 
-                print("***** predicted choice *****")
-                print(predicted_choice)
+            print("***** predicted choice *****")
+            print(predicted_choice)
 
-                print("***** predicted choice2loss *****")
-                print(choice2loss)
-                question_num += 1
-            except:
-                continue
+            print("***** predicted choice2loss *****")
+            print(choice2loss)
+            question_num += 1
