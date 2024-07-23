@@ -85,30 +85,32 @@ We provide the file we used and setting for reproduction.
 
 ## Finetuning & Evaluating & Testing Commands
 
+Before finetuning or evaluating, you need to prepare .yaml file to set config.
+
 ### 1) Finetuning 
     
   - run
   ```bash
-  bash scripts/format_parser.sh fine dpo_to_dpo_add_narr_rag_v4_base_rag 0,1,2,3,4,5,6,7 8 26501
+  bash scripts/format_finetune.sh {config} {device} {node} {master port}
+  ```
+  - Ex.
+  ```
+  bash scripts/format_finetune.sh Original_RAG_X_loss_DPO 0,1,2,3,4,5,6,7 8 26501
   ```
 
-### 2) Evaluation
+### 2) Evaluation & Test
 
   - run
   ```bash
-  bash scripts/test.sh fine dpo_to_dpo_add_narr_rag_v4_base_rag 0 format_eval --epoch,{epoch num},--time,{folder_name}
-
+  bash scripts/format_eval.sh {config} {device} {RAG} {epoch}
   ```
-  
-   
-
-### 3) Test
- 
-  - run
   ```bash
-  bash scripts/test.sh fine dpo_to_dpo_add_narr_rag_v4_base_rag 0 format_test --epoch,{epoch num},--time,{folder_name}
+  bash scripts/format_test.sh {config} {device} {RAG} {epoch}
   ```
-
+  - Ex.
+  ```
+  bash scripts/format_test.sh Original_RAG_X_loss_DPO 0 True 9
+  ```
 
 
 ## Experimental Results
@@ -125,7 +127,7 @@ We provide the file we used and setting for reproduction.
 | **Baseline**    | Original  | -             | -    | 30.44† / Given Pre-trained Model       |
 |                 |           |Contrastive                 | ✗    | 44.42† / Given Pre-trained Model       |
 | **Ours**        | Original  | DPO                     | ✗    | 60.24 / 0.5 days                       |
-|                 | DPO-Finetuned | Contrastive (Iterative) | ✓ | 53.09 / 0.5 days                       |
+|                 | DPO-Finetuned | Contrastive (Iterative) | ✓ | 46.05 / 0.5 days                       |
 |                 |           | DPO (Iterative)         | ✗    | 61.11 / 0.5 days                       |
 |                 |           | DPO (Iterative)         | ✓    | 60.24 / 0.5 days                   |
 
