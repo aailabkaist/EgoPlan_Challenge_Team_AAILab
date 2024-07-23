@@ -135,15 +135,6 @@ Before finetuning or evaluating, you need to prepare .yaml file to set configura
 Note that Base indicates the initial checkpoint from which the model is fine_tuned.
 - **Valid accuracy 60.24% of DPO finetuned model is achived at epoch 8 (9/10).**
 
-## Reference
-If you find the code useful for your research, please consider citing
-```bib
-@article{
-}
-```
-This work is heavily built upon the code from
- - EgoPlan-Bench [EgoPlan](https://github.com/ChenYi99/EgoPlan)
- 
  ## Acknowledgement
 This repository benefits from [Epic-Kitchens](https://epic-kitchens.github.io/2023), [Ego4D](https://ego4d-data.org/), 
 [EgoPlan](https://github.com/ChenYi99/EgoPlan), 
