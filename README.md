@@ -10,7 +10,7 @@ We will upload our paper to Arxiv soon.
 ## Overview
 ![Teaser image](./figure/overview_v4_1.png)
 
-Our method consists of two components: Direct Preference Optimization (DPO) and Retrieval-Augmented Generation (RAG). We 
+Our method consists of two components: Direct Preference Optimization (DPO) and Retrieval-Augmented Generation (RAG). We retrieve and add additional narration using RAG, and train Multi-modal Large Language Models (MLLMs) with DPO loss.
 
 ## Dataset and Model Checkpoint
 - Our implementation is based on [EgoPlan-Bench](https://github.com/ChenYi99/EgoPlan).
