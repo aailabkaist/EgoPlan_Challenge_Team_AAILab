@@ -96,11 +96,9 @@ You can generate training dataset and test dataset with additional narration fro
 - RAG Test Dataset (/RAG_test):
   - download [dataset](https://drive.google.com/drive/folders/1p20YT4sPAUUxly_XbvZ8lBaHJJJuqx0p?usp=drive_link) for RAG test data.
   - run each code in order.
-  1. 01_bert_embedding_for_db.py / 01_bert_embeding_for_test_RAG.py
-  2. 02_RAG_bert_retrieve_ver.py
-  3. 03_sim_thd.py
-  4. 04_RAG_bert_retrieve_add_narr.py
-  5. 05_RAG_bert_retrieve_blank_fill.py
+  ```bash
+  bash run.sh
+  ```
 
 ## Finetuning & Evaluating & Testing Commands
 
