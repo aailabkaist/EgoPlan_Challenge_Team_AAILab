@@ -55,7 +55,7 @@ Our method consists of two components: Direct Preference Optimization (DPO) and 
 ## Egocentric Video Path Setting (EpicKitchens & Ego4D)
 
 Since EpicKitchens and Ego4D datasets are large datasets, you need to download only necessary thing if you have limited resource.
-We follow path setting from [EgoPlan Benchmark](https://github.com/ChenYi99/EgoPlan).
+We follow path setting from [EgoPlan-Bench](https://github.com/ChenYi99/EgoPlan).
 
 Download the RGB frames of [EPIC-KITCHENS-100](https://github.com/epic-kitchens/epic-kitchens-download-scripts) and videos of [Ego4D](https://ego4d-data.org/#download). The folder structure of two datasets are shown below:
 - **EpicKitchens Dataset**:
