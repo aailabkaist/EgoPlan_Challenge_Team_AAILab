@@ -83,6 +83,12 @@ We provide the file we used and setting for reproduction.
   - DPO Finetuned Video-LLaMA, RAG O, Cont. loss: [link](https://drive.google.com/file/d/1lYOBT-kiRRTG3cwupnr4xBFglT9XaF-X/view?usp=drive_link)
   - DPO Finetuned Video-LLaMA, RAG O, DPO loss: [link](https://drive.google.com/file/d/1oLrTTfQ3v-pNUIhKUta1NC-rkzgSQJ29/view?usp=drive_link)
 
+## Retrieval-Augmented Generation (RAG) Train / Test Dataset Generation
+
+You can generate training dataset and test dataset with additional narration from action database (EpicKitchens training dataset + Ego4D generated dataset) by **RAG**.
+- RAG Training Dataset: 
+- RAG Test Dataset: 
+
 ## Finetuning & Evaluating & Testing Commands
 
 Before finetuning or evaluating, you need to prepare .yaml file to set configuration.
