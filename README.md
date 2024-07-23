@@ -105,6 +105,7 @@ You can generate training dataset and test dataset with additional narration fro
 ## Finetuning & Evaluating & Testing Commands
 
 Before finetuning or evaluating, you need to prepare .yaml file to set configuration.
+**If you want to train dataset with RAG, you need to change config 'datasets.datasets.egoplan_contrastive.answer_type' to "egoplan_qa_with_narr"!**
 
 ### 1) Finetuning 
     
