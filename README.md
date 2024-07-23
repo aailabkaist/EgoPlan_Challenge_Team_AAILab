@@ -85,7 +85,7 @@ We provide the file we used and setting for reproduction.
 
 ## Finetuning & Evaluating & Testing Commands
 
-Before finetuning or evaluating, you need to prepare .yaml file to set config.
+Before finetuning or evaluating, you need to prepare .yaml file to set configuration.
 
 ### 1) Finetuning 
     
@@ -109,6 +109,7 @@ Before finetuning or evaluating, you need to prepare .yaml file to set config.
   ```
   - Ex.
   ```
+  bash scripts/format_eval.sh Original_RAG_X_loss_DPO 0 True 9
   bash scripts/format_test.sh Original_RAG_X_loss_DPO 0 True 9
   ```
 
